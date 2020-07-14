@@ -1,0 +1,1001 @@
+ORDER	SENTENCE	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
+1001	Die Welt: Und wo ist das?	wo	200	   21,648	0.0462	66.5	german_de_news_2014_00383286
+1002	Sie sind aber noch nicht dort, wo wir sie haben wollen.	wo	200	   21,648	0.0462	75.8	german_de_news_2014_00784101
+1003	Wo gibt es denn den?	wo	200	   21,648	0.0462	83.8	german_de_news_2015_00934951
+1004	Wo gibt es denn so etwas?»	wo	200	   21,648	0.0462	99.3333	german_de_news_2015_00934952
+1005	Ja, wo leben wir denn?	wo	200	   21,648	0.0462	140.4	german_de_news_2014_00611396
+1006	Zudem ist es nicht weit.	zudem	201	   21,505	0.0459	129.2	german_de_news_2013_00980555
+1007	Zudem sollen 50 bis zu mehr als 100 Menschen verletzt worden sein.	zudem	201	   21,505	0.0459	129.6	german_de_news_2015_00944436
+1008	Zudem ist es ein neues Jahr.	zudem	201	   21,505	0.0459	136.3333	german_de_news_2015_00943267
+1009	Zudem ist sie in der Frage nicht ohne Unterstützung.	zudem	201	   21,505	0.0459	146.2222	german_de_news_2015_00943325
+1010	Eine Frau aus Deutschland soll zudem verletzt worden sein.	zudem	201	   21,505	0.0459	152.7778	german_de_news_2015_00410882
+1011	Und während man bei „Bild.	während	202	   21,388	0.0456	102.6	german_de_news_2013_00880213
+1012	Während aber schon viele Menschen.	während	202	   21,388	0.0456	104.2	german_de_news_2013_00912463
+1013	was war während der wm?	während	202	   21,388	0.0456	125	german_de_news_2014_00897340
+1014	Während dieser Zeit sollen wir auch in Berlin bleiben.	während	202	   21,388	0.0456	133.6667	german_de_news_2013_00913798
+1015	Vor allem während der Saison.	während	202	   21,388	0.0456	141.8	german_de_news_2014_00882181
+1016	Und nicht nur mit diesen.	diesen	203	   20,929	0.0447	55.4	german_de_news_2014_00848986
+1017	Es gibt nur diesen einen.	diesen	203	   20,929	0.0447	77.2	german_de_news_2014_00463360
+1018	Für diesen Fall haben wir auch noch etwas für Sie.	diesen	203	   20,929	0.0447	86.2222	german_de_news_2014_00503225
+1019	Und da in diesen Wochen die Zeit der..	diesen	203	   20,929	0.0447	90.375	german_de_news_2015_00830286
+1020	Was ist nun mit diesen beiden?	diesen	203	   20,929	0.0447	94.5	german_de_news_2015_00886958
+1021	Den gab es auch nicht.	gab	204	   20,728	0.0442	52.2	german_de_news_2015_00222340
+1022	Aber die gab es nun nicht mehr.	gab	204	   20,728	0.0442	58.8571	german_de_news_2013_00012495
+1023	Die ersten gab es vor 25 Jahren.	gab	204	   20,728	0.0442	77.1667	german_de_news_2014_00309534
+1024	Viel mehr gab es nicht.	gab	204	   20,728	0.0442	81.4	german_de_news_2015_00862484
+1025	1. Das gab's schon immer.	gab	204	   20,728	0.0442	110	german_de_news_2013_00002840
+1026	Auch das ist nicht so einfach.	einfach	205	   20,666	0.0441	49.3333	german_de_news_2013_00066749
+1027	Aber ganz so einfach ist das nicht.	einfach	205	   20,666	0.0441	65.4286	german_de_news_2014_00013200
+1028	Aber damit macht man es sich zu einfach.	einfach	205	   20,666	0.0441	76.375	german_de_news_2014_00009956
+1029	3. Das ist doch ganz einfach!	einfach	205	   20,666	0.0441	87.6	german_de_news_2013_00005820
+1030	Alles wäre einfach nur „gut“.	einfach	205	   20,666	0.0441	139.4	german_de_news_2015_00032558
+1031	Es ist nicht das erste Mal.	erste	206	   20,532	0.0438	60.1667	german_de_news_2015_00463475
+1032	Ist also nicht so, dass es das erste wäre.	erste	206	   20,532	0.0438	75.1111	german_de_news_2015_00601979
+1033	Und wer war die Erste?	erste	206	   20,532	0.0438	83	german_de_news_2013_00882033
+1034	Und was macht das erste?	erste	206	   20,532	0.0438	93.2	german_de_news_2014_00852277
+1035	Einmal muss immer das erste Mal sein.	erste	206	   20,532	0.0438	103.1429	german_de_news_2013_00451292
+1036	Nur in einer Stadt nicht.	stadt	207	   19,967	0.0426	63.8	german_de_news_2014_00716209
+1037	Die Stadt will das nicht.	stadt	207	   19,967	0.0426	64.6	german_de_news_2014_00369467
+1038	Es war auch seine Stadt.	stadt	207	   19,967	0.0426	74.4	german_de_news_2014_00474104
+1039	Und dann geht es weiter durch die Stadt.	stadt	207	   19,967	0.0426	74.5	german_de_news_2013_00866829
+1040	Zu dieser Stadt mit seiner.	stadt	207	   19,967	0.0426	86.6	german_de_news_2013_00983901
+1041	Und das nicht nur in Berlin.	berlin	208	   19,865	0.0424	47.3333	german_de_news_2013_00868236
+1042	Das war nicht immer so in Berlin.	berlin	208	   19,865	0.0424	57.5714	german_de_news_2013_00214696
+1043	Aber in Berlin noch nicht.	berlin	208	   19,865	0.0424	60.2	german_de_news_2014_00014169
+1044	Aber jetzt auch noch Berlin!	berlin	208	   19,865	0.0424	78.4	german_de_news_2015_00015071
+1045	Da waren sie 140 Jahre in Berlin.	berlin	208	   19,865	0.0424	92.3333	german_de_news_2014_00215256
+1046	Das konnte er aber nicht.	konnte	209	   19,680	0.042	58.2	german_de_news_2014_00188393
+1047	Es konnte nur sie werden.	konnte	209	   19,680	0.042	65.6	german_de_news_2015_00465711
+1048	Da konnte sie schon nicht mehr selbst dabei sein.	konnte	209	   19,680	0.042	81.3333	german_de_news_2013_00150525
+1049	Da konnte man immer dafür sein.	konnte	209	   19,680	0.042	105.8333	german_de_news_2015_00149294
+1050	Wie konnte es dazu kommen?	konnte	209	   19,680	0.042	119.8	german_de_news_2014_00924276
+1051	Was für ein Spiel ist das?	spiel	210	   19,614	0.0419	52.5	german_de_news_2013_00920753
+1052	Und schon sind wir wieder im Spiel.'	spiel	210	   19,614	0.0419	64	german_de_news_2013_00877943
+1053	Nach dem Spiel nicht, jetzt ja.	spiel	210	   19,614	0.0419	84.5	german_de_news_2013_00719692
+1054	Doch alles nur ein Spiel?	spiel	210	   19,614	0.0419	100	german_de_news_2014_00388449
+1055	Da kommen wir ins Spiel.	spiel	210	   19,614	0.0419	135.2	german_de_news_2015_00149159
+1056	Das sind rund fünf Prozent mehr als noch vor einem Jahr.	fünf	211	   19,602	0.0418	64.7273	german_de_news_2013_00204844
+1057	Das sind 30 Millionen mehr als vor fünf Jahren.	fünf	211	   19,602	0.0418	71.625	german_de_news_2015_00200184
+1058	Heute sind es noch fünf.	fünf	211	   19,602	0.0418	85.4	german_de_news_2015_00531308
+1059	Und zwar in fünf Jahren.	fünf	211	   19,602	0.0418	101.4	german_de_news_2015_00845138
+1060	Es waren mal vier bis fünf.	fünf	211	   19,602	0.0418	112.6667	german_de_news_2013_00499832
+1061	Er hat jedoch nicht die E..	e	212	   19,601	0.0418	79.3333	german_de_news_2015_00439681
+1062	Und nun auf zu S3E02!	e	212	   19,601	0.0418	86.8333	german_de_news_2015_00839704
+1063	Bei der E-Mail ist das allerdings anders.	e	212	   19,601	0.0418	141.625	german_de_news_2015_00103220
+1064	Sie haben gerade eine E-Mail von einem neuen Mitarbeiter erhalten.	e	212	   19,601	0.0418	168.0909	german_de_news_2013_00807476
+1065	Ohne E-Mail geht heute fast nichts mehr.	e	212	   19,601	0.0418	171	german_de_news_2014_00725490
+1066	Das war es dann fast schon.	fast	213	   19,548	0.0417	69	german_de_news_2015_00209485
+1067	Das war vor fast 40 Jahren.	fast	213	   19,548	0.0417	79.2	german_de_news_2015_00210062
+1068	So war es bei mir ja dann fast auch.	fast	213	   19,548	0.0417	83.7778	german_de_news_2013_00832756
+1069	Jetzt steht er schon fast!	fast	213	   19,548	0.0417	110.8	german_de_news_2013_00646997
+1070	Dann kann man ja fast nichts machen.	fast	213	   19,548	0.0417	122.5714	german_de_news_2014_00159144
+1071	Sie sind doch auch einer davon, oder?	davon	214	   19,460	0.0415	65.7143	german_de_news_2014_00784293
+1072	Sie haben ja auch mehr davon.	davon	214	   19,460	0.0415	81.3333	german_de_news_2013_00807565
+1073	Hier ist davon aber nichts mehr über.	davon	214	   19,460	0.0415	91	german_de_news_2014_00538595
+1074	Und davon kann man leben?	davon	214	   19,460	0.0415	104.4	german_de_news_2013_00869010
+1075	Wo kann man denn davon leben?	davon	214	   19,460	0.0415	139.5	german_de_news_2013_00972569
+1076	Aber das Geld für die..	geld	215	   19,358	0.0413	53.8	german_de_news_2015_00010667
+1077	Den immer geht es um Geld.	geld	215	   19,358	0.0413	76.1667	german_de_news_2014_00223324
+1078	Es geht um Geld, Geld, Geld.	geld	215	   19,358	0.0413	93	german_de_news_2015_00456891
+1079	Dafür ist mir das viel zu viel Geld.	geld	215	   19,358	0.0413	100.1429	german_de_news_2013_00145857
+1080	Geld gibt’s dafür nicht.	geld	215	   19,358	0.0413	132.8	german_de_news_2013_00535180
+1081	Was sind Sie nur für ein Mann!	mann	216	   19,355	0.0413	58.8571	german_de_news_2014_00896746
+1082	Aber wie geht das mit ihr als Mann?	mann	216	   19,355	0.0413	65.625	german_de_news_2014_00017656
+1083	Jetzt will der Mann noch mal 3000 Euro.	mann	216	   19,355	0.0413	87.2857	german_de_news_2015_00611117
+1084	Der Mann wird 50 dieses Jahr.	mann	216	   19,355	0.0413	104.2	german_de_news_2015_00258262
+1085	1 Was ihr Mann dazu sagt?	mann	216	   19,355	0.0413	130.8	german_de_news_2015_00003089
+1086	Und es werden nicht die letzten sein.	letzten	217	   19,352	0.0413	48.7143	german_de_news_2013_00873048
+1087	So werden die Letzten die Ersten und die Ersten die Letzten sein.	letzten	217	   19,352	0.0413	66	german_de_news_2015_00794318
+1088	Das sind fast 3 Millionen Euro mehr als im letzten Jahr.	letzten	217	   19,352	0.0413	82.2	german_de_news_2013_00204607
+1089	Mir sind in den letzten 2 Jahren vier (!	letzten	217	   19,352	0.0413	102.5714	german_de_news_2013_00695830
+1090	Doch letzten Ende wurde alles gut.	letzten	217	   19,352	0.0413	124.8333	german_de_news_2014_00394285
+1091	Das ist aber nicht „Ihr Land“.	land	218	   18,970	0.0405	64.1667	german_de_news_2013_00184278
+1092	Eines über die Stadt und eines über das Land.	land	218	   18,970	0.0405	83.5714	german_de_news_2013_00444306
+1093	Und dieses Land will in die EU?	land	218	   18,970	0.0405	95.7143	german_de_news_2013_00870980
+1094	Wie geht Ihr Land heute damit um?	land	218	   18,970	0.0405	100.5714	german_de_news_2015_00915173
+1095	Und wie steht dieses Land da?	land	218	   18,970	0.0405	112.6667	german_de_news_2015_00844434
+1096	Und das ist es wohl auch nicht.	wohl	219	   18,884	0.0403	41.1429	german_de_news_2014_00841096
+1097	Nun, das war er dann wohl.	wohl	219	   18,884	0.0403	75.5	german_de_news_2013_00743820
+1098	Das gibt es sehr wohl.	wohl	219	   18,884	0.0403	83.6	german_de_news_2015_00176644
+1099	Es gibt wohl nichts was es nicht gibt.	wohl	219	   18,884	0.0403	96	german_de_news_2014_00463755
+1100	Vor 2030 geht da wohl nichts.	wohl	219	   18,884	0.0403	126.2	german_de_news_2014_00880643
+1101	Das wird es aber nicht geben.“	geben	220	   18,852	0.0402	54.8333	german_de_news_2015_00211108
+1102	Es kann nur einen geben.	geben	220	   18,852	0.0402	76.6	german_de_news_2015_00465207
+1103	Werde es auch nicht geben.	geben	220	   18,852	0.0402	92.4	german_de_news_2015_00905808
+1104	Was das wohl geben wird?	geben	220	   18,852	0.0402	108.6	german_de_news_2014_00892973
+1105	Dafür werde ich alles geben.	geben	220	   18,852	0.0402	153.2	german_de_news_2013_00146679
+1106	Sie stehen für ein Weiter-so.	stehen	221	   18,808	0.0401	73.1667	german_de_news_2014_00785718
+1107	Das lassen wir so nicht stehen.	stehen	221	   18,808	0.0401	85	german_de_news_2014_00189725
+1108	Heute, Sie alle, stehen Sie auf!	stehen	221	   18,808	0.0401	93.6	german_de_news_2013_00559566
+1109	Wo wird sie in fünf Jahren stehen?	stehen	221	   18,808	0.0401	111.8571	german_de_news_2015_00936808
+1110	Wo lassen uns diese nun stehen?	stehen	221	   18,808	0.0401	145.6667	german_de_news_2015_00935585
+1111	Es sind aber immer noch 11,5 Millionen Dollar.	dollar	222	   18,714	0.0399	77.8571	german_de_news_2013_00497138
+1112	Der Fall auf fast 1.000 Dollar war aber auch eine.	dollar	222	   18,714	0.0399	90.7778	german_de_news_2015_00246432
+1113	Das waren 1,11 Dollar mehr als am Freitag.	dollar	222	   18,714	0.0399	99.2857	german_de_news_2014_00209937
+1114	Das ist die Millionen-Dollar-Frage.	dollar	222	   18,714	0.0399	104.5	german_de_news_2014_00183222
+1115	Das waren 1,19 Dollar mehr als am Mittwoch.	dollar	222	   18,714	0.0399	105.1429	german_de_news_2014_00209939
+1116	Aber zurück kann ich auch nicht.	zurück	223	   18,709	0.0399	65.5	german_de_news_2015_00019049
+1117	Die kommen auch nicht mehr zurück.“	zurück	223	   18,709	0.0399	82.8333	german_de_news_2013_00345270
+1118	Damit gibt es kein Zurück mehr.	zurück	223	   18,709	0.0399	101	german_de_news_2014_00151989
+1119	Zurück Weiter „Jetzt geht es um alles oder nichts.	zurück	223	   18,709	0.0399	110.2222	german_de_news_2014_00962426
+1120	Sie wollen ihr Geld zurück.	zurück	223	   18,709	0.0399	145	german_de_news_2015_00779260
+1121	Und er gibt es sogar zu.	sogar	224	   18,669	0.0398	59.5	german_de_news_2014_00844867
+1122	Aber es geht sogar noch weiter.	sogar	224	   18,669	0.0398	91.3333	german_de_news_2014_00012472
+1123	Oder etwa sogar sich selbst?	sogar	224	   18,669	0.0398	113.2	german_de_news_2014_00722427
+1124	Sogar die Deutschen waren 1883 da.	sogar	224	   18,669	0.0398	113.4	german_de_news_2014_00793432
+1125	Zwei, drei oder sogar fünf Prozent?	sogar	224	   18,669	0.0398	122.3333	german_de_news_2013_00997271
+1126	Und wie sehen Sie das?	sehen	225	   18,156	0.0387	57.2	german_de_news_2015_00844388
+1127	«Das will man doch nicht sehen»	sehen	225	   18,156	0.0387	77.5	german_de_news_2013_00215908
+1128	Alles so heute nicht mehr zu sehen.	sehen	225	   18,156	0.0387	88.8571	german_de_news_2014_00031227
+1129	Sehen Sie hier, wer weiter ist.	sehen	225	   18,156	0.0387	106.3333	german_de_news_2014_00763226
+1130	Dann sehen wir, wo wir stehen.	sehen	225	   18,156	0.0387	152.4	german_de_news_2014_00159885
+1131	Man könnte es auch so sehen: Am Ende hatte die dpa doch recht.	dpa	226	   18,085	0.0386	107.6923	german_de_news_2014_00652509
+1132	Bild: dpa Das sehen Sie auch so?	dpa	226	   18,085	0.0386	109.8571	german_de_news_2015_00120208
+1133	Das hat die dpa berichtet.	dpa	226	   18,085	0.0386	149.8	german_de_news_2014_00179243
+1134	München (dpa) - Auf geht's!	dpa	226	   18,085	0.0386	195.6	german_de_news_2013_00713388
+1135	Berlin (dpa) - Rund 27 Millionen Menschen in Deutschland nutzen Facebook.	dpa	226	   18,085	0.0386	204.2222	german_de_news_2015_00115134
+1136	Das soll es nun auch auf dem Platz werden.	platz	227	   18,030	0.0385	54.7778	german_de_news_2015_00201459
+1137	Am Ende aber nur Platz zwei.	platz	227	   18,030	0.0385	91.5	german_de_news_2015_00044140
+1138	Einmal wird der 38-Jährige allerdings noch auf dem Platz stehen.	platz	227	   18,030	0.0385	104.8	german_de_news_2013_00451357
+1139	Es gibt also Platz für andere.“	platz	227	   18,030	0.0385	111.6667	german_de_news_2014_00462000
+1140	Weil dafür einfach kein Platz ist.	platz	227	   18,030	0.0385	145.3333	german_de_news_2015_00891215
+1141	Aber der Weg ist noch nicht zu Ende.	weg	228	   17,973	0.0384	59.125	german_de_news_2013_00012239
+1142	Und wie kommen wir von da wieder weg?	weg	228	   17,973	0.0384	83.125	german_de_news_2014_00853703
+1143	Der geht dort nicht mehr weg.	weg	228	   17,973	0.0384	92.3333	german_de_news_2014_00249807
+1144	«Wer sagt denn, dass ich weg will oder weg muss?»	weg	228	   17,973	0.0384	104.1111	german_de_news_2014_00916682
+1145	Mit 85 jedoch wäre das Geld dann weg.	weg	228	   17,973	0.0384	127.5714	german_de_news_2013_00696624
+1146	Nicht, dass es in Deutschland derzeit..	derzeit	229	   17,936	0.0383	68	german_de_news_2015_00696800
+1147	Derzeit sind es 15 Prozent in drei Jahren.	derzeit	229	   17,936	0.0383	78	german_de_news_2013_00291036
+1148	Diese Zeit gibt es derzeit nicht.	derzeit	229	   17,936	0.0383	89.8333	german_de_news_2013_00381912
+1149	Derzeit sind es rund 15 Prozent.	derzeit	229	   17,936	0.0383	92.8	german_de_news_2014_00279357
+1150	Derzeit gibt es erst 24 davon.	derzeit	229	   17,936	0.0383	135.6	german_de_news_2015_00277400
+1151	Wie ist das mit Ihnen?	ihnen	230	   17,922	0.0382	56.8	german_de_news_2015_00916003
+1152	Wie war das bei Ihnen?	ihnen	230	   17,922	0.0382	68	german_de_news_2013_00957037
+1153	Gab es das bei Ihnen auch?	ihnen	230	   17,922	0.0382	83	german_de_news_2014_00508968
+1154	«Was machen wir mit ihnen?	ihnen	230	   17,922	0.0382	99.4	german_de_news_2015_00887348
+1155	Nach ihnen kommt nichts mehr.	ihnen	230	   17,922	0.0382	131.2	german_de_news_2015_00685163
+1156	Nicht, wenn es um so viele Milliarden geht.	milliarden	231	   17,802	0.038	76.625	german_de_news_2014_00706981
+1157	Wenn wir von den zwei Milliarden Menschen..	milliarden	231	   17,802	0.038	76.7143	german_de_news_2014_00912849
+1158	Dabei geht es um 38 Milliarden Euro.	milliarden	231	   17,802	0.038	91.8333	german_de_news_2015_00138517
+1159	Er hat ja keine Milliarden.	milliarden	231	   17,802	0.038	101.8	german_de_news_2015_00439670
+1160	Die machen etwa 366 Milliarden Dollar aus.	milliarden	231	   17,802	0.038	129.1667	german_de_news_2014_00333701
+1161	Er sagte der „Bild“: „Das war 1993.	bild	232	   17,708	0.0378	66.8333	german_de_news_2014_00449369
+1162	Das Bild von ihm geht um die Welt.	bild	232	   17,708	0.0378	95	german_de_news_2014_00168787
+1163	Und während man bei „Bild.	bild	232	   17,708	0.0378	102.6	german_de_news_2013_00880213
+1164	Ich habe kein Bild von mir“, sagt er.	bild	232	   17,708	0.0378	104.75	german_de_news_2014_00551295
+1165	BILD: Wie geht es Ihnen?	bild	232	   17,708	0.0378	123.4	german_de_news_2015_00121590
+1166	Das KANN nicht gut gehen und wird es auch nicht.	gehen	233	   17,533	0.0374	55.1111	german_de_news_2013_00189612
+1167	Wie gehen Sie da vor?	gehen	233	   17,533	0.0374	81.8	german_de_news_2013_00952010
+1168	Wie sollte das auch gehen?	gehen	233	   17,533	0.0374	91.8	german_de_news_2015_00918511
+1169	Wir stehen auf und gehen.	gehen	233	   17,533	0.0374	103.6	german_de_news_2015_00930529
+1170	Wir gehen diesen Weg weiter.	gehen	233	   17,533	0.0374	168.4	german_de_news_2013_00960885
+1171	Und gerade das, ist mehr als gut.	gerade	234	   17,138	0.0366	62.2857	german_de_news_2013_00873740
+1172	So gut sie es gerade kann.	gerade	234	   17,138	0.0366	80.3333	german_de_news_2013_00823528
+1173	Dabei ist es gerade mal 13 Uhr.	gerade	234	   17,138	0.0366	95.5	german_de_news_2013_00140177
+1174	Nur gerade 31 Prozent sind dafür.	gerade	234	   17,138	0.0366	108.2	german_de_news_2013_00748083
+1175	Gerade jetzt sollte man dieses Unternehmen dafür…	gerade	234	   17,138	0.0366	147.7143	german_de_news_2013_00539073
+1176	Und das war es mehr oder weniger.	weniger	235	   17,093	0.0365	59	german_de_news_2015_00832439
+1177	Der eine mehr, die andere weniger.	weniger	235	   17,093	0.0365	78.6667	german_de_news_2014_00244321
+1178	Für weniger als 50 Millionen Euro.	weniger	235	   17,093	0.0365	89.8	german_de_news_2013_00529367
+1179	Nicht dass dann weniger zu uns kommen.	weniger	235	   17,093	0.0365	95	german_de_news_2014_00704863
+1180	Das wäre etwas weniger als 2012.	weniger	235	   17,093	0.0365	116.6	german_de_news_2013_00213759
+1181	Sie wollen sehen, was noch da ist, von „ihrem“ Berlin.	ihrem	236	   16,927	0.0361	105.8	german_de_news_2014_00788375
+1182	Auch in ihrem Land sei das so gewesen.	ihrem	236	   16,927	0.0361	107.25	german_de_news_2014_00075571
+1183	Wie Sie zu Ihrem Geld kommen.	ihrem	236	   16,927	0.0361	116.8333	german_de_news_2013_00955553
+1184	Auch heute war sie wieder bei ihrem Michael.	ihrem	236	   16,927	0.0361	132.75	german_de_news_2014_00074239
+1185	Doch die guten Jahre für den Euro gehen ihrem Ende zu.	ihrem	236	   16,927	0.0361	133.7273	german_de_news_2013_00412318
+1186	Er sei nicht die Regierung.	regierung	237	   16,918	0.0361	70	german_de_news_2014_00450151
+1187	Und wer war da an der Regierung?	regierung	237	   16,918	0.0361	79.4286	german_de_news_2013_00882032
+1188	Aber das müssen die wegen der US Regierung machen.	regierung	237	   16,918	0.0361	93.2222	german_de_news_2013_00011494
+1189	Dafür kann die Regierung aber nichts, oder?	regierung	237	   16,918	0.0361	103.4286	german_de_news_2013_00145893
+1190	Man sollte der neuen Regierung Zeit geben.	regierung	237	   16,918	0.0361	133.4286	german_de_news_2013_00684040
+1191	Aber zu diesem kam es nicht.	kam	238	   16,916	0.0361	73.6667	german_de_news_2013_00020128
+1192	Dort kam er nicht an.	kam	238	   16,916	0.0361	91.2	german_de_news_2013_00419856
+1193	Zu beiden kam es nicht.	kam	238	   16,916	0.0361	95.2	german_de_news_2014_00949136
+1194	Ich kam aus dem Nichts.	kam	238	   16,916	0.0361	102.8	german_de_news_2015_00548073
+1195	Ein Mann kam uns Leben.	kam	238	   16,916	0.0361	157	german_de_news_2014_00428073
+1196	Das ist deutlich mehr als 2011.	deutlich	239	   16,914	0.0361	65.6	german_de_news_2013_00185235
+1197	Für 2013 könnte es deutlich mehr als ein Euro werden.	deutlich	239	   16,914	0.0361	68.3333	german_de_news_2014_00498563
+1198	Am Ende werden es noch deutlich mehr.	deutlich	239	   16,914	0.0361	77.1429	german_de_news_2015_00044722
+1199	Das ist deutlich mehr als noch vor fünf Jahren.	deutlich	239	   16,914	0.0361	78.4444	german_de_news_2015_00182212
+1200	Da muss schon deutlich mehr kommen!	deutlich	239	   16,914	0.0361	120.1667	german_de_news_2015_00154863
+1201	Und einige sind es auch heute noch.	einige	240	   16,858	0.036	68.1429	german_de_news_2013_00871983
+1202	Einige sind noch zu haben.	einige	240	   16,858	0.036	73.8	german_de_news_2015_00422634
+1203	Davon gab es auch im vergangenen Jahr so einige!	einige	240	   16,858	0.036	114.4444	german_de_news_2013_00218908
+1204	Davon macht er immer wieder einige zu Geld.	einige	240	   16,858	0.036	130.5	german_de_news_2015_00214217
+1205	Einige davon sehen Sie hier.	einige	240	   16,858	0.036	159.6	german_de_news_2013_00448651
+1206	Und das auch noch mit Frau.	frau	241	   16,836	0.0359	52	german_de_news_2014_00840678
+1207	Auch vor rund 2000 Jahren war sie eine Frau.	frau	241	   16,836	0.0359	74.25	german_de_news_2014_00078545
+1208	Es gibt dort keine Frau wie Sie.	frau	241	   16,836	0.0359	89.2857	german_de_news_2014_00462310
+1209	Aber wo ist seine Frau?	frau	241	   16,836	0.0359	113.4	german_de_news_2013_00020072
+1210	Was seine Frau wohl sagt?	frau	241	   16,836	0.0359	145	german_de_news_2013_00923764
+1211	Und wie war das noch mal im Großen?	großen	242	   16,727	0.0357	61	german_de_news_2014_00853846
+1212	Wir wollen bei den Großen dabei sein.	großen	242	   16,727	0.0357	91.8571	german_de_news_2015_00932981
+1213	Nicht jeder kann in einer großen Stadt leben und will es auch nicht!	großen	242	   16,727	0.0357	98.25	german_de_news_2014_00705492
+1214	In den großen Spielen ist das wieder zu wenig.	großen	242	   16,727	0.0357	104.3333	german_de_news_2014_00581707
+1215	Er ist für mich einer der ganz großen Trainer in Europa.	großen	242	   16,727	0.0357	112.6364	german_de_news_2013_00468576
+1216	Bisher hatte ich sie noch nicht.	bisher	243	   16,675	0.0356	70.5	german_de_news_2013_00124681
+1217	Es gibt bisher nur einen..	bisher	243	   16,675	0.0356	85.2	german_de_news_2014_00462184
+1218	Bisher waren es nur zwei.	bisher	243	   16,675	0.0356	98.6	german_de_news_2013_00125115
+1219	Es sind 27 Prozent weniger als bisher.	bisher	243	   16,675	0.0356	103.3333	german_de_news_2013_00497125
+1220	Alle anderen machen weiter wie bisher..	bisher	243	   16,675	0.0356	130.5	german_de_news_2015_00025749
+1221	Aber gut ist es noch lange nicht.“	lange	244	   16,635	0.0355	67.1429	german_de_news_2015_00013949
+1222	Oder: „Wie lange sind Sie denn schon im Unternehmen?	lange	244	   16,635	0.0355	80.7778	german_de_news_2014_00723396
+1223	Doch lange geht es so nicht weiter.	lange	244	   16,635	0.0355	89.4286	german_de_news_2013_00415124
+1224	Das alles wird nicht mehr lange gut gehen hier im Land!	lange	244	   16,635	0.0355	107.0909	german_de_news_2015_00164792
+1225	So etwas sollte es schon lange geben.	lange	244	   16,635	0.0355	128.4286	german_de_news_2013_00822209
+1226	Oder liegt es nicht an uns selbst?	liegt	245	   16,572	0.0354	87	german_de_news_2013_00755540
+1227	Diese liegt noch bei 41 Prozent.	liegt	245	   16,572	0.0354	87.8	german_de_news_2014_00356209
+1228	Und einer, der ihm liegt.	liegt	245	   16,572	0.0354	97.6	german_de_news_2015_00835132
+1229	Das liegt nicht in Ihrer Macht.	liegt	245	   16,572	0.0354	103.3333	german_de_news_2015_00189552
+1230	Jetzt liegt es auf Platz 25.	liegt	245	   16,572	0.0354	118.6	german_de_news_2013_00646311
+1231	Es sieht nach mehr aus als es ist.	sieht	246	   16,545	0.0353	58.2857	german_de_news_2015_00468079
+1232	Das sieht nicht gut aus!	sieht	246	   16,545	0.0353	81.6	german_de_news_2013_00204173
+1233	Wie sieht das denn heute aus.	sieht	246	   16,545	0.0353	92.6667	german_de_news_2013_00955448
+1234	Das sieht man doch einfach nur.	sieht	246	   16,545	0.0353	104.8333	german_de_news_2013_00204153
+1235	Man sieht, was man sehen will.	sieht	246	   16,545	0.0353	136	german_de_news_2014_00653869
+1236	Und das ist nicht der Fall.	fall	247	   16,386	0.035	47.1667	german_de_news_2015_00831667
+1237	Das war hier nicht mehr der Fall.	fall	247	   16,386	0.035	66.8571	german_de_news_2014_00210277
+1238	War das jetzt der Fall?	fall	247	   16,386	0.035	79.2	german_de_news_2015_00881317
+1239	Es ist ja nicht der erste Fall.	fall	247	   16,386	0.035	91	german_de_news_2015_00463041
+1240	Dieses war aber bisher der Fall.	fall	247	   16,386	0.035	126.1667	german_de_news_2015_00359614
+1241	Aber: Bild.de war mit dabei.	de	248	   16,324	0.0348	112.1667	german_de_news_2015_00010177
+1242	DE Was bleibt am Ende?	de	248	   16,324	0.0348	149.8	german_de_news_2015_00283421
+1243	Im Internet gibt es Hilfe: bei de.	de	248	   16,324	0.0348	193.5714	german_de_news_2015_00562906
+1244	Weitere Informationen finden Sie unter: de.	de	248	   16,324	0.0348	197.8333	german_de_news_2015_00893909
+1245	Am 15. November stehen die Zahlen zum dritten Quartal an. De Den.	de	248	   16,324	0.0348	239.9091	german_de_news_2013_00041926
+1246	Doch er macht das alles nicht für das große Geld, sagt er.	große	249	   16,309	0.0348	106.2	german_de_news_2014_00392633
+1247	Das ist die große Frage.	große	249	   16,309	0.0348	107.4	german_de_news_2014_00183168
+1248	Und zwar eine ganz große.	große	249	   16,309	0.0348	123.2	german_de_news_2014_00854442
+1249	Doch die große Frage bleibt, für wie lange und vor allem wo?	große	249	   16,309	0.0348	129.5	german_de_news_2015_00388432
+1250	Die große Frage sei die nach dem „Warum?	große	249	   16,309	0.0348	139.4286	german_de_news_2015_00318543
+1251	Das ist auch nur hier auf ZEIT Online möglich.	online	250	   16,286	0.0348	95.8889	german_de_news_2014_00182453
+1252	Und noch bin ich online.	online	250	   16,286	0.0348	117.4	german_de_news_2014_00849072
+1253	ZEIT ONLINE: Wie ist das möglich?	online	250	   16,286	0.0348	120	german_de_news_2015_00939776
+1254	ZEIT ONLINE: Wie geht es Ihnen?	online	250	   16,286	0.0348	127.8333	german_de_news_2015_00939775
+1255	ZEIT ONLINE: Warum ist das so?	online	250	   16,286	0.0348	129	german_de_news_2015_00939759
+1256	Nicht heute und auch nicht in einer Woche.	woche	251	   16,277	0.0347	65.7143	german_de_news_2015_00697200
+1257	Das kann eine Woche sein.	woche	251	   16,277	0.0347	77.6	german_de_news_2013_00189402
+1258	Aus dieser einen Woche werden nun zwei.	woche	251	   16,277	0.0347	88	german_de_news_2014_00088971
+1259	Für eine Woche, weniger geht nicht.	woche	251	   16,277	0.0347	106.8333	german_de_news_2013_00525082
+1260	Dies sind zwar drei weniger als in der vergangenen Woche.	woche	251	   16,277	0.0347	122.5	german_de_news_2015_00365813
+1261	Und wenn es nur ein Tag ist.	tag	252	   16,203	0.0346	57.1429	german_de_news_2014_00852945
+1262	Von einem Tag auf den anderen.	tag	252	   16,203	0.0346	76.6667	german_de_news_2014_00877346
+1263	Kommen Sie gut in den Tag!	tag	252	   16,203	0.0346	96.8333	german_de_news_2015_00622536
+1264	Es ist erst der erste Tag.	tag	252	   16,203	0.0346	104.5	german_de_news_2015_00462569
+1265	An seinem letzten Tag waren alle bei ihm.	tag	252	   16,203	0.0346	134.75	german_de_news_2013_00060422
+1266	Und das bin ich nicht.“	bin	253	   16,045	0.0342	64	german_de_news_2015_00831256
+1267	Weil er sagte: «Ich bin, wie ich bin.»	bin	253	   16,045	0.0342	94.3333	german_de_news_2013_00927859
+1268	Durch ihn bin ich die, die ich heute bin.	bin	253	   16,045	0.0342	112.1667	german_de_news_2014_00404898
+1269	Da bin ich ganz bei ihnen.	bin	253	   16,045	0.0342	129.8333	german_de_news_2015_00142497
+1270	Ja, wo bin ich denn?	bin	253	   16,045	0.0342	150.6	german_de_news_2015_00605411
+1271	Die gibt es in Europa nicht mehr!	europa	254	   16,019	0.0342	60.1429	german_de_news_2015_00317630
+1272	Und das ist dann das Ende von Deutschland und Europa.	europa	254	   16,019	0.0342	74.25	german_de_news_2013_00867851
+1273	Nicht nur aus ganz Deutschland oder Europa.	europa	254	   16,019	0.0342	94.2857	german_de_news_2014_00705706
+1274	Europa und auch Deutschland werden unter gehen.	europa	254	   16,019	0.0342	103.2857	german_de_news_2013_00504184
+1275	Nach 80 Jahren steht Europa wieder dort.	europa	254	   16,019	0.0342	125.8333	german_de_news_2015_00677320
+1276	Er ist aber nicht mehr beim Team.	team	255	   15,993	0.0341	67.8571	german_de_news_2013_00468022
+1277	In der Stadt, bei uns im Team.	team	255	   15,993	0.0341	89.4286	german_de_news_2015_00582278
+1278	Eine davon wird das Team der USA sein.	team	255	   15,993	0.0341	96.375	german_de_news_2014_00412833
+1279	Ja, das Team ist gut.	team	255	   15,993	0.0341	103.8	german_de_news_2014_00609742
+1280	Was macht ein Team aus?	team	255	   15,993	0.0341	110.4	german_de_news_2015_00887415
+1281	Wenn das alle so in der Wirtschaft machen würden, wäre die Wirtschaft schon am Ende.	würden	256	   15,976	0.0341	107.1429	german_de_news_2014_00906674
+1282	Die Welt: Was würden Sie machen?	würden	256	   15,976	0.0341	111.3333	german_de_news_2014_00383346
+1283	Würden das die EU und die USA wollen?	würden	256	   15,976	0.0341	112	german_de_news_2015_00937337
+1284	Und dann würden sie auch bleiben.	würden	256	   15,976	0.0341	117.1667	german_de_news_2014_00840538
+1285	So würden wir das aber nie machen.	würden	256	   15,976	0.0341	119	german_de_news_2013_00834568
+1286	Besser hätten wir es nicht machen können.»	hätten	257	   15,898	0.0339	119	german_de_news_2015_00117633
+1287	Genau das zeigt doch, dass sie mehr für das Spiel hätten machen können.	hätten	257	   15,898	0.0339	121.75	german_de_news_2015_00510272
+1288	Da hätten wir alle was davon.	hätten	257	   15,898	0.0339	126.5	german_de_news_2013_00148122
+1289	Ich wollte es nicht, weil dann hätten sie ja gar nichts mehr.	hätten	257	   15,898	0.0339	126.8333	german_de_news_2014_00558177
+1290	Mehr hätten es auch nicht sein dürfen.	hätten	257	   15,898	0.0339	130.4286	german_de_news_2014_00659655
+1291	Und ich war erst 34, so dass die „will ich noch Kinder?	kinder	258	   15,894	0.0339	69.7	german_de_news_2013_00874517
+1292	Und diese Kinder kommen nicht erst. Sie sind schon da.	kinder	258	   15,894	0.0339	87.8	german_de_news_2014_00843706
+1293	Haben die alle keine Kinder?	kinder	258	   15,894	0.0339	96	german_de_news_2015_00523767
+1294	Mit seiner Frau hat er drei Kinder.	kinder	258	   15,894	0.0339	111.1429	german_de_news_2013_00707435
+1295	Seine Frau und Kinder leben in Berlin.	kinder	258	   15,894	0.0339	141.4286	german_de_news_2013_00793245
+1296	Aber gut, so ist es am Freitag..	freitag	259	   15,867	0.0339	71.4286	german_de_news_2015_00013953
+1297	Das ist zwar etwas mehr als am Freitag.	freitag	259	   15,867	0.0339	89.375	german_de_news_2014_00186562
+1298	So auch wieder an diesem Freitag.	freitag	259	   15,867	0.0339	90.5	german_de_news_2013_00820512
+1299	Für einen Freitag ist alles gut.	freitag	259	   15,867	0.0339	97.8333	german_de_news_2014_00504244
+1300	Heute ist ja erst Freitag.	freitag	259	   15,867	0.0339	134.4	german_de_news_2013_00559139
+1301	Wie auch immer, das ist alles hätte, wenn und aber.	hätte	260	   15,863	0.0339	65.3	german_de_news_2015_00911770
+1302	Das hätte er auch mal sein lassen können.	hätte	260	   15,863	0.0339	89.625	german_de_news_2013_00181608
+1303	Ich hätte nicht noch mehr geben können.	hätte	260	   15,863	0.0339	99.8571	german_de_news_2014_00552747
+1304	Nur hätte er schon vor Jahren kommen sollen.	hätte	260	   15,863	0.0339	108.625	german_de_news_2013_00748155
+1305	Was hätte man auch davon?	hätte	260	   15,863	0.0339	121.4	german_de_news_2015_00886099
+1306	Für ein Foto muss immer Zeit sein.	foto	261	   15,834	0.0338	92.5714	german_de_news_2015_00499256
+1307	Warum sind nicht alle auf dem Foto?	foto	261	   15,834	0.0338	110	german_de_news_2013_00918331
+1308	Darf ich auch das Foto haben?	foto	261	   15,834	0.0338	126.6667	german_de_news_2013_00163363
+1309	Das Foto zeigt ihn im Jahr 1902.	foto	261	   15,834	0.0338	137.5	german_de_news_2013_00176051
+1310	Für mich ist das ein Top-Foto!	foto	261	   15,834	0.0338	163.1429	german_de_news_2013_00527027
+1311	Deshalb war es gut, das jetzt zu machen.	deshalb	262	   15,803	0.0337	86.5	german_de_news_2013_00293770
+1312	Deshalb geht die Welt nicht unter.	deshalb	262	   15,803	0.0337	105.6667	german_de_news_2015_00279211
+1313	Deshalb gibt es ihn ja auch“.	deshalb	262	   15,803	0.0337	116.3333	german_de_news_2015_00279238
+1314	Deshalb bin auch ich hier.	deshalb	262	   15,803	0.0337	134.8	german_de_news_2014_00280387
+1315	Deshalb kommt dieses auch zurück.	deshalb	262	   15,803	0.0337	169.2	german_de_news_2014_00281089
+1316	Er will es auch gar nicht sein.	gar	263	   15,683	0.0335	69.7143	german_de_news_2013_00479683
+1317	Sie will gar nicht von heute sein.	gar	263	   15,683	0.0335	82.8571	german_de_news_2013_00817133
+1318	Oder sind es gar Millionen?	gar	263	   15,683	0.0335	97.4	german_de_news_2014_00723034
+1319	Die Welt: Über gar keine?	gar	263	   15,683	0.0335	115	german_de_news_2014_00383262
+1320	«Ich konnte gar nichts sehen»	gar	263	   15,683	0.0335	184.6	german_de_news_2015_00548850
+1321	Und drei Prozent im Jahr darauf.	darauf	264	   15,646	0.0334	89	german_de_news_2015_00834887
+1322	Wie kommen sie den darauf?	darauf	264	   15,646	0.0334	102.2	german_de_news_2014_00924174
+1323	Wie kommen Sie denn darauf?	darauf	264	   15,646	0.0334	124.6	german_de_news_2014_00924175
+1324	Wie die wohl darauf kommen?	darauf	264	   15,646	0.0334	140.8	german_de_news_2015_00914244
+1325	Nun kommt er darauf zurück.	darauf	264	   15,646	0.0334	152.6	german_de_news_2015_00705045
+1326	Bis in die 60er-Jahre sei das noch so gewesen.	gewesen	265	   15,623	0.0333	63.5	german_de_news_2014_00124540
+1327	Ist er auch mal dort gewesen?	gewesen	265	   15,623	0.0333	96.1667	german_de_news_2013_00638110
+1328	Mehr Zeit sei nicht gewesen.	gewesen	265	   15,623	0.0333	106.8	german_de_news_2013_00689875
+1329	Aber wäre das gut gewesen?	gewesen	265	   15,623	0.0333	118.8	german_de_news_2014_00016936
+1330	Hier wäre weniger mehr gewesen.	gewesen	265	   15,623	0.0333	165.6	german_de_news_2015_00534619
+1331	Insgesamt sind es über 300 Millionen.	insgesamt	266	   15,537	0.0332	96.6	german_de_news_2015_00595727
+1332	Insgesamt geht es um rund 700 Euro.	insgesamt	266	   15,537	0.0332	100	german_de_news_2013_00630118
+1333	Insgesamt sieht es für die USA aber sehr, sehr gut aus.	insgesamt	266	   15,537	0.0332	100.3	german_de_news_2015_00595687
+1334	Insgesamt soll es nicht mehr Geld geben.	insgesamt	266	   15,537	0.0332	122.8571	german_de_news_2013_00630838
+1335	Insgesamt leben hier über 500 Millionen Menschen.	insgesamt	266	   15,537	0.0332	138.5	german_de_news_2013_00630446
+1336	Das sind über 50 Prozent mehr als noch vor zehn Jahren.	zehn	267	   15,435	0.0329	66.1	german_de_news_2013_00204903
+1337	Bei Menschen über 75 Jahren liegt sie bei bis zu zehn Prozent.	zehn	267	   15,435	0.0329	93.1	german_de_news_2015_00108461
+1338	Was machen Sie in zehn Jahren?	zehn	267	   15,435	0.0329	98.6667	german_de_news_2015_00887332
+1339	Nicht mal vor zehn Jahren.	zehn	267	   15,435	0.0329	103.8	german_de_news_2013_00737185
+1340	Das seien rund zehn Milliarden Euro.	zehn	267	   15,435	0.0329	142.3333	german_de_news_2015_00198706
+1341	Ist das nicht zu wenig?	wenig	268	   15,406	0.0329	61.6	german_de_news_2015_00602261
+1342	«Es war alles ein wenig zu viel», gibt er zu.	wenig	268	   15,406	0.0329	81.6667	german_de_news_2013_00498664
+1343	Wie viel sind zu wenig?	wenig	268	   15,406	0.0329	93	german_de_news_2014_00927039
+1344	Das ist deutlich zu wenig.	wenig	268	   15,406	0.0329	106.2	german_de_news_2013_00185243
+1345	Von seinem Team kommt wenig bis nichts.	wenig	268	   15,406	0.0329	156.8571	german_de_news_2013_00905587
+1346	Auch in Teil 4 soll das so sein.	teil	269	   15,367	0.0328	66.7143	german_de_news_2013_00074205
+1347	Die gibt es jetzt schon zum Teil.	teil	269	   15,367	0.0328	81.2857	german_de_news_2015_00317631
+1348	Kommt da noch ein Teil zwei?	teil	269	   15,367	0.0328	107.3333	german_de_news_2013_00659380
+1349	Alles Weitere dann in Teil drei.	teil	269	   15,367	0.0328	126.3333	german_de_news_2014_00031437
+1350	Davon war im letzten Teil wenig zu sehen.	teil	269	   15,367	0.0328	157.875	german_de_news_2015_00214393
+1351	"""""""Und so gibt es neben """"""""."""""""	neben	270	   15,274	0.0326	82	german_de_news_2014_00850671
+1352	Wie kann man so neben sich stehen?	neben	270	   15,274	0.0326	98.5714	german_de_news_2014_00924113
+1353	Auf und neben dem Platz.	neben	270	   15,274	0.0326	106	german_de_news_2014_00087168
+1354	Neben dem Geld - was will sie?	neben	270	   15,274	0.0326	113.6667	german_de_news_2013_00731043
+1355	Neben mir die anderen Kinder.	neben	270	   15,274	0.0326	171.4	german_de_news_2013_00732441
+1356	So ist es natürlich nicht.	natürlich	271	   15,225	0.0325	71.2	german_de_news_2014_00794998
+1357	Wenn einer wie er geht, geht er natürlich nicht ganz.	natürlich	271	   15,225	0.0325	87	german_de_news_2015_00900129
+1358	Das kann natürlich gut sein!	natürlich	271	   15,225	0.0325	99.6	german_de_news_2013_00189599
+1359	Am Ende geht natürlich alles gut aus.	natürlich	271	   15,225	0.0325	119.2857	german_de_news_2015_00044379
+1360	Man hätte das alles natürlich kommen sehen können.	natürlich	271	   15,225	0.0325	153.375	german_de_news_2015_00645407
+1361	Es war nur eine Frage der Zeit, bis das..	frage	272	   15,185	0.0324	66.6667	german_de_news_2015_00471136
+1362	Ob man nicht kann oder nicht will, das ist dann eine andere Frage.	frage	272	   15,185	0.0324	78.9167	german_de_news_2014_00720476
+1363	Die Frage ist nur: wie lange noch?	frage	272	   15,185	0.0324	92.1429	german_de_news_2015_00313071
+1364	Das ist die große Frage.	frage	272	   15,185	0.0324	107.4	german_de_news_2014_00183168
+1365	Aber zu Ihrer Frage: Ganz einfach!	frage	272	   15,185	0.0324	137.8333	german_de_news_2015_00019009
+1366	Man lässt sich da nicht wirklich auf etwas ein.	lässt	273	   15,181	0.0324	103.1111	german_de_news_2014_00652606
+1367	So lässt es sich leben!	lässt	273	   15,181	0.0324	108.4	german_de_news_2013_00826066
+1368	Lässt er sie durch, dann spielen wir am Ende dort.	lässt	273	   15,181	0.0324	114	german_de_news_2014_00638409
+1369	Hier lässt es sich sehr gut leben.	lässt	273	   15,181	0.0324	115.2857	german_de_news_2015_00533780
+1370	Wie viele es genau sind, lässt sich nicht sagen.	lässt	273	   15,181	0.0324	131	german_de_news_2015_00919181
+1371	Ist es beim zweiten Mal einfach als beim ersten?	zweiten	274	   15,017	0.032	103.75	german_de_news_2015_00602772
+1372	Mit mir könnte man das nicht machen, ich wäre am zweiten Tag durch.	zweiten	274	   15,017	0.032	109.2308	german_de_news_2013_00706338
+1373	Nicht am ersten Tag, nicht am zweiten Tag, aber nach einer Woche.	zweiten	274	   15,017	0.032	115.6667	german_de_news_2013_00736280
+1374	Auf dem zweiten Platz: Deutschland.	zweiten	274	   15,017	0.032	128.8	german_de_news_2013_00080378
+1375	Sehen Sie hier den zweiten Teil.	zweiten	274	   15,017	0.032	148.8333	german_de_news_2015_00754387
+1376	Das geht jetzt nicht mehr und es ist auch besser so.	besser	275	   15,015	0.032	57.8182	german_de_news_2013_00177589
+1377	Das soll nun besser werden.	besser	275	   15,015	0.032	95.2	german_de_news_2014_00202170
+1378	Jetzt machen wir das viel, viel besser.	besser	275	   15,015	0.032	114.8333	german_de_news_2015_00610261
+1379	Es geht ihm schon besser.	besser	275	   15,015	0.032	131.2	german_de_news_2013_00484482
+1380	Insgesamt geht es natürlich besser.	besser	275	   15,015	0.032	187	german_de_news_2015_00595097
+1381	Das bleibt so, wie es ist.	bleibt	276	   14,852	0.0317	63.6667	german_de_news_2013_00170131
+1382	Oder es bleibt alles, wie es ist.	bleibt	276	   14,852	0.0317	90.5	german_de_news_2015_00714296
+1383	Wie lange bleibt das noch so?	bleibt	276	   14,852	0.0317	106.1667	german_de_news_2013_00953592
+1384	Bleibt die Frage wie ich..	bleibt	276	   14,852	0.0317	124.8	german_de_news_2014_00128198
+1385	DE Was bleibt am Ende?	bleibt	276	   14,852	0.0317	149.8	german_de_news_2015_00283421
+1386	Und er zeigt: Er kann es noch.	zeigt	277	   14,732	0.0314	69.8333	german_de_news_2013_00872544
+1387	Man zeigt was man hat und kann!	zeigt	277	   14,732	0.0314	80.1667	german_de_news_2015_00648832
+1388	Wer nicht da ist, zeigt, dass es auch ohne ihn geht.	zeigt	277	   14,732	0.0314	93.7273	german_de_news_2014_00916412
+1389	Das zeigt sich jetzt deutlich.	zeigt	277	   14,732	0.0314	125.8	german_de_news_2013_00217532
+1390	Das Foto zeigt ihn im Jahr 1902.	zeigt	277	   14,732	0.0314	137.5	german_de_news_2013_00176051
+1391	Und das nicht nur in der eigenen Stadt.	eigenen	278	   14,690	0.0313	70.375	german_de_news_2014_00841397
+1392	Das kommt ganz auf den eigenen..	eigenen	278	   14,690	0.0313	101.1667	german_de_news_2014_00188051
+1393	Zu seiner eigenen Zukunft sagte er da aber noch nichts.	eigenen	278	   14,690	0.0313	124.5	german_de_news_2014_00963990
+1394	Sie spielen nicht in ihrer eigenen Welt.	eigenen	278	   14,690	0.0313	140.4286	german_de_news_2014_00785498
+1395	Er geht immer seinen eigenen Weg.	eigenen	278	   14,690	0.0313	142.3333	german_de_news_2013_00464883
+1396	Und wir werden sie finden.«	finden	279	   14,661	0.0313	77.2	german_de_news_2013_00882776
+1397	Das muss man nicht gut finden.	finden	279	   14,661	0.0313	92.8333	german_de_news_2015_00191619
+1398	Und alle finden es gut.	finden	279	   14,661	0.0313	100	german_de_news_2015_00828460
+1399	Macht nichts, da wird sich schon was finden!	finden	279	   14,661	0.0313	114.125	german_de_news_2014_00648491
+1400	Ich werde aber wieder einen Weg zurück finden.	finden	279	   14,661	0.0313	138.875	german_de_news_2013_00582691
+1401	Die EU sollte das ebenfalls.	ebenfalls	280	   14,631	0.0312	125.2	german_de_news_2015_00309180
+1402	Das hätte ebenfalls das 1:1 sein können.	ebenfalls	280	   14,631	0.0312	134	german_de_news_2013_00181595
+1403	Damals gab es ebenfalls viel zu viele von ihnen.	ebenfalls	280	   14,631	0.0312	150	german_de_news_2014_00150327
+1404	Eine Entscheidung dazu steht aber ebenfalls noch aus.	ebenfalls	280	   14,631	0.0312	153.375	german_de_news_2014_00413454
+1405	Der Preis liegt ebenfalls noch nicht vor.	ebenfalls	280	   14,631	0.0312	159.2857	german_de_news_2015_00263494
+1406	Das kann und will nicht jeder.“	jeder	281	   14,560	0.0311	76.1667	german_de_news_2013_00189701
+1407	Nicht jeder kann in einer großen Stadt leben und will es auch nicht!	jeder	281	   14,560	0.0311	98.25	german_de_news_2014_00705492
+1408	Jeder Fall ist einer zu viel!	jeder	281	   14,560	0.0311	118.3333	german_de_news_2015_00606399
+1409	Da hatte jeder was davon.	jeder	281	   14,560	0.0311	140.8	german_de_news_2014_00147865
+1410	Jeder muss seinen eigenen Weg gehen.	jeder	281	   14,560	0.0311	208.6667	german_de_news_2014_00612684
+1411	2. und wieder nur ein Artikel.	artikel	282	   14,520	0.031	83.8	german_de_news_2013_00005286
+1412	Wenn es ein Artikel ist ja.	artikel	282	   14,520	0.031	86.3333	german_de_news_2015_00900651
+1413	Hier geht es zum Artikel..	artikel	282	   14,520	0.031	110	german_de_news_2014_00538093
+1414	3. Ja, dieser Artikel ist SEHR..	artikel	282	   14,520	0.031	125.2	german_de_news_2015_00005535
+1415	Davon steht aber in diesem Artikel nichts.	artikel	282	   14,520	0.031	143.2857	german_de_news_2013_00219202
+1416	Oder haben Sie nur das eine Thema?	thema	283	   14,474	0.0309	67.8571	german_de_news_2013_00755243
+1417	Das ist heute nicht das Thema.	thema	283	   14,474	0.0309	87.6	german_de_news_2014_00184675
+1418	Das Thema gab es nicht.	thema	283	   14,474	0.0309	105	german_de_news_2015_00204702
+1419	Aber noch mal zurück zum Thema.	thema	283	   14,474	0.0309	122.1667	german_de_news_2013_00017315
+1420	Zu diesem Thema nichts zu finden auf Zeit ONLINE.	thema	283	   14,474	0.0309	159.25	german_de_news_2013_00983700
+1421	Und so wie das schon immer gemacht wird.	gemacht	284	   14,457	0.0309	68.125	german_de_news_2014_00851034
+1422	Und das habe ich gemacht.	gemacht	284	   14,457	0.0309	81.8	german_de_news_2014_00840934
+1423	Das haben sie gut gemacht.“	gemacht	284	   14,457	0.0309	93	german_de_news_2014_00178699
+1424	So sollte das gemacht werden.	gemacht	284	   14,457	0.0309	107	german_de_news_2013_00831675
+1425	Also habe ich's gemacht.	gemacht	284	   14,457	0.0309	154.2	german_de_news_2015_00038364
+1426	Ein Jahr später seien es dann nur noch 8000 gewesen.	später	285	   14,414	0.0308	110.3333	german_de_news_2014_00426608
+1427	Das wird man erst später sehen.	später	285	   14,414	0.0308	123.8333	german_de_news_2015_00211176
+1428	Fünf Jahre später waren es schon 617 Millionen Euro.	später	285	   14,414	0.0308	124	german_de_news_2013_00518223
+1429	Etwas später, aber sie kommen.	später	285	   14,414	0.0308	134	german_de_news_2015_00473917
+1430	Später will sie zurück nach Berlin.	später	285	   14,414	0.0308	143.5	german_de_news_2013_00835628
+1431	In der Schweiz sind es ein bis zwei pro Jahr.	pro	286	   14,401	0.0307	93.5	german_de_news_2014_00587541
+1432	In 42 Jahren auf 1200 $ - macht 8% pro Jahr.	pro	286	   14,401	0.0307	111	german_de_news_2013_00605356
+1433	Es geht um viele Milliarden Euro pro Jahr.	pro	286	   14,401	0.0307	116.5	german_de_news_2013_00485055
+1434	Kommt nicht oft vor, aber so 3-4 Mal pro Jahr.	pro	286	   14,401	0.0307	124	german_de_news_2013_00659532
+1435	Bisher liegt er in Deutschland bei 360 Euro pro Jahr und Mitarbeiter.	pro	286	   14,401	0.0307	136.3636	german_de_news_2015_00123616
+1436	Ich kann kaum noch vor..	kaum	287	   14,305	0.0305	93	german_de_news_2014_00553589
+1437	Für mehr ist kaum Zeit.	kaum	287	   14,305	0.0305	98.6	german_de_news_2014_00506118
+1438	Kaum ist sie im Spiel, ist sie auch schon wieder weg.	kaum	287	   14,305	0.0305	102.4444	german_de_news_2015_00615928
+1439	Heute werden es kaum weniger sein.	kaum	287	   14,305	0.0305	125	german_de_news_2015_00531553
+1440	Da bleibt kaum Geld für den Neuen.	kaum	287	   14,305	0.0305	143	german_de_news_2013_00143091
+1441	Das sagte er der «Bild am Sonntag».	sonntag	288	   14,260	0.0304	95.2857	german_de_news_2013_00199819
+1442	Denn das wollen wir sein am Sonntag.	sonntag	288	   14,260	0.0304	101	german_de_news_2015_00224327
+1443	Am Sonntag kommt er nach Berlin.	sonntag	288	   14,260	0.0304	123.5	german_de_news_2013_00050014
+1444	Welt am Sonntag: Wie kommen Sie darauf?	sonntag	288	   14,260	0.0304	142.8571	german_de_news_2013_00932100
+1445	Dieses wurde am Sonntag gemacht.	sonntag	288	   14,260	0.0304	167.8	german_de_news_2015_00359690
+1446	Er wurde Präsident und ist es noch heute.	präsident	289	   14,222	0.0304	70.75	german_de_news_2015_00452946
+1447	So will es der Präsident.	präsident	289	   14,222	0.0304	88.8	german_de_news_2014_00804009
+1448	Mit ihm als Präsident wird das nichts mehr.	präsident	289	   14,222	0.0304	98.5	german_de_news_2014_00675774
+1449	Wer kann jetzt Präsident werden?	präsident	289	   14,222	0.0304	125.8	german_de_news_2013_00944318
+1450	Aber ich bin kein Präsident.	präsident	289	   14,222	0.0304	153.6	german_de_news_2015_00014126
+1451	Besonders aber in Deutschland, was für..	besonders	290	   14,217	0.0303	86.3333	german_de_news_2013_00118491
+1452	Dann wird es schon etwas Besonders werden.“	besonders	290	   14,217	0.0303	92.4286	german_de_news_2015_00160075
+1453	Ist das nun besonders viel?	besonders	290	   14,217	0.0303	102.4	german_de_news_2015_00602272
+1454	Was macht sie so besonders?	besonders	290	   14,217	0.0303	121	german_de_news_2014_00895718
+1455	Besonders wenn sie Kinder haben.	besonders	290	   14,217	0.0303	134	german_de_news_2013_00119576
+1456	Das ist möglich oder auch nicht.	möglich	291	   14,191	0.0303	65.5	german_de_news_2015_00184438
+1457	Ist das etwa nicht möglich?	möglich	291	   14,191	0.0303	93	german_de_news_2015_00602145
+1458	Wie ist so etwas möglich?	möglich	291	   14,191	0.0303	103.2	german_de_news_2014_00923913
+1459	In einem Spiel ist alles möglich.	möglich	291	   14,191	0.0303	118.5	german_de_news_2013_00621113
+1460	Auf ihm wäre Leben möglich.	möglich	291	   14,191	0.0303	174	german_de_news_2014_00085662
+1461	Bei denen kann ein Mann noch ein Mann sein.	denen	292	   14,169	0.0302	99.4286	german_de_news_2013_00101030
+1462	Von denen soll es in diesem Jahr rund 500 neue geben.	denen	292	   14,169	0.0302	104.2	german_de_news_2014_00875980
+1463	Welt: Was ist mit denen?	denen	292	   14,169	0.0302	110.4	german_de_news_2013_00932233
+1464	Wie will man denen noch Geld geben?	denen	292	   14,169	0.0302	134.7143	german_de_news_2015_00919808
+1465	Natürlich bin ich von denen weg.	denen	292	   14,169	0.0302	182.5	german_de_news_2013_00729344
+1466	Aber das ist nicht unsere.	unsere	293	   13,858	0.0296	71.8	german_de_news_2013_00011377
+1467	Die haben ihre Welt und wir unsere.	unsere	293	   13,858	0.0296	92.5714	german_de_news_2013_00337013
+1468	«Sie sind wie unsere Kinder.	unsere	293	   13,858	0.0296	128.2	german_de_news_2014_00784847
+1469	Und was sagte unsere Frau?	unsere	293	   13,858	0.0296	137.4	german_de_news_2015_00842889
+1470	Unsere Regierung geht da ja einen ganz anderen Weg.	unsere	293	   13,858	0.0296	157.1111	german_de_news_2013_00885217
+1471	War das nicht schon vor 2 Wochen?	wochen	294	   13,844	0.0295	77.8333	german_de_news_2013_00916234
+1472	Und da in diesen Wochen die Zeit der..	wochen	294	   13,844	0.0295	90.375	german_de_news_2015_00830286
+1473	Wie waren die ersten Wochen?	wochen	294	   13,844	0.0295	109.4	german_de_news_2014_00927179
+1474	Alle zwei bis drei Wochen kam einer.	wochen	294	   13,844	0.0295	129	german_de_news_2013_00032237
+1475	Seit etwa drei Wochen macht das jeder.	wochen	294	   13,844	0.0295	157	german_de_news_2015_00760967
+1476	Was für ein Chef sind Sie?	chef	295	   13,755	0.0294	73.8333	german_de_news_2015_00885423
+1477	Da kann der neue Chef machen was er will!	chef	295	   13,755	0.0294	96.2222	german_de_news_2013_00150070
+1478	Der Chef ist eine Frau.	chef	295	   13,755	0.0294	113.6	german_de_news_2014_00241379
+1479	Mit dem neuen Chef sollte es ja besser werden.	chef	295	   13,755	0.0294	119.5556	german_de_news_2013_00698877
+1480	Um was geht's Chef?	chef	295	   13,755	0.0294	139.2	german_de_news_2014_00837172
+1481	Es gibt hier nicht nur keinen Platz.	keinen	296	   13,723	0.0293	111.4286	german_de_news_2013_00486085
+1482	Das war auf gar keinen Fall ein Thema.	keinen	296	   13,723	0.0293	146	german_de_news_2013_00213354
+1483	Zurück will er auf keinen Fall.	keinen	296	   13,723	0.0293	149.5	german_de_news_2015_00955442
+1484	Es gibt keinen anderen Weg.	keinen	296	   13,723	0.0293	152.2	german_de_news_2015_00458284
+1485	Kinder haben da natürlich keinen Platz!	keinen	296	   13,723	0.0293	196.8333	german_de_news_2014_00625472
+1486	Das ist aber nicht bei allen der Fall.	allen	297	   13,659	0.0291	79.5	german_de_news_2015_00181304
+1487	Das ist aber nicht allen klar.	allen	297	   13,659	0.0291	111.8333	german_de_news_2013_00184272
+1488	Sie will erst mal allen zeigen: Wir sind jetzt auch da.	allen	297	   13,659	0.0291	126.7273	german_de_news_2013_00817129
+1489	Heute steht er über allen.	allen	297	   13,659	0.0291	130.2	german_de_news_2015_00531408
+1490	Es geht uns allen gut.»	allen	297	   13,659	0.0291	130.4	german_de_news_2014_00461670
+1491	Das war er nie, und das wird er auch nie sein..	nie	298	   13,649	0.0291	61.125	german_de_news_2013_00214292
+1492	Aber wenn man ihn einmal hatte, dann geht es nie mehr.	nie	298	   13,649	0.0291	100.2727	german_de_news_2014_00017416
+1493	Es hätte auch nie eines werden können.	nie	298	   13,649	0.0291	114.5714	german_de_news_2014_00464979
+1494	Ich will nie ganz so sein, wie jeder andere.“	nie	298	   13,649	0.0291	128	german_de_news_2013_00583386
+1495	Kein Zurück mehr, nie mehr.	nie	298	   13,649	0.0291	180	german_de_news_2013_00654717
+1496	Das waren nach den Angaben 7,6 Prozent mehr als 2013.	angaben	299	   13,618	0.0291	73.375	german_de_news_2015_00209400
+1497	Weitere Angaben dazu will das Unternehmen nicht machen.	angaben	299	   13,618	0.0291	127.5	german_de_news_2013_00929131
+1498	Nach Angaben der Polizei gibt es einen Markt dafür.	angaben	299	   13,618	0.0291	133	german_de_news_2014_00685085
+1499	Über die Kosten will das Unternehmen keine Angaben machen.	angaben	299	   13,618	0.0291	133.4444	german_de_news_2013_00857136
+1500	Die Polizei macht dazu keine Angaben.	angaben	299	   13,618	0.0291	153.1667	german_de_news_2015_00342211
+1501	Das sind noch einmal vier Millionen mehr als am Mittwoch.	mittwoch	300	   13,596	0.029	95.2	german_de_news_2014_00201331
+1502	Dieser sagte am Mittwoch aus.	mittwoch	300	   13,596	0.029	108.2	german_de_news_2013_00377674
+1503	Am Mittwoch geht es bereits weiter.	mittwoch	300	   13,596	0.029	111.6667	german_de_news_2013_00047630
+1504	Mann Mann Mann, war das ein Mittwoch.	mittwoch	300	   13,596	0.029	116.8	german_de_news_2013_00683577
+1505	Am Mittwoch kam er zurück.	mittwoch	300	   13,596	0.029	162.8	german_de_news_2015_00046343
+1506	Das waren rund 0,1 Prozent mehr als noch am Donnerstag.	donnerstag	301	   13,503	0.0288	81.5556	german_de_news_2014_00210080
+1507	Sie war am Donnerstag vor..	donnerstag	301	   13,503	0.0288	87.4	german_de_news_2014_00786889
+1508	Auch Donnerstag wie immer nicht.	donnerstag	301	   13,503	0.0288	89.2	german_de_news_2015_00073301
+1509	Das waren 1,52 Dollar mehr als am Donnerstag.	donnerstag	301	   13,503	0.0288	105.2857	german_de_news_2013_00214096
+1510	Am Donnerstag waren es bereits 6 452.	donnerstag	301	   13,503	0.0288	109	german_de_news_2015_00043999
+1511	Und eigentlich sind sie es mir auch immer noch.	eigentlich	302	   13,487	0.0288	77.8889	german_de_news_2013_00871759
+1512	Das war für mich eigentlich das..	eigentlich	302	   13,487	0.0288	108.8	german_de_news_2014_00210231
+1513	Aber war er eigentlich weg?	eigentlich	302	   13,487	0.0288	128	german_de_news_2015_00017699
+1514	eigentlich so nicht leben lassen.	eigentlich	302	   13,487	0.0288	146.2	german_de_news_2013_00429791
+1515	Sollte eigentlich schon lange kommen.	eigentlich	302	   13,487	0.0288	193.8	german_de_news_2015_00788924
+1516	Seit Montag ist er wieder in der Stadt.	montag	303	   13,480	0.0288	88.375	german_de_news_2013_00799892
+1517	«Am Montag vor drei Jahren (.	montag	303	   13,480	0.0288	112.6	german_de_news_2015_00046839
+1518	Es ist zwar erst Montag.	montag	303	   13,480	0.0288	133.8	german_de_news_2014_00469238
+1519	Am Montag kam das Ende.	montag	303	   13,480	0.0288	141.6	german_de_news_2015_00046716
+1520	Das sollte am Montag möglich sein.	montag	303	   13,480	0.0288	141.8333	german_de_news_2014_00202223
+1521	Um was es dabei geht, ist noch nicht bekannt.	bekannt	304	   13,451	0.0287	76.6667	german_de_news_2014_00837165
+1522	Kommt einem das nicht bekannt vor?	bekannt	304	   13,451	0.0287	94.5	german_de_news_2013_00659425
+1523	Sie waren der Polizei bekannt.	bekannt	304	   13,451	0.0287	125.4	german_de_news_2013_00816293
+1524	Dies gab das Unternehmen jetzt bekannt.	bekannt	304	   13,451	0.0287	154.1667	german_de_news_2015_00361137
+1525	Bisher war das kaum bekannt.	bekannt	304	   13,451	0.0287	177.6	german_de_news_2013_00125082
+1526	Es ist wie das andere mit „A.	a	305	   13,435	0.0287	77	german_de_news_2015_00464670
+1527	A: Soll man ja auch nicht.	a	305	   13,435	0.0287	100.8333	german_de_news_2015_00066805
+1528	«Wir werden uns den A..	a	305	   13,435	0.0287	103.2	german_de_news_2013_00969440
+1529	Die werden sich beim eine oder anderen noch eine Art A..	a	305	   13,435	0.0287	120.1	german_de_news_2013_00403890
+1530	A: Wie oft kann man das machen?	a	305	   13,435	0.0287	134.5714	german_de_news_2013_00094571
+1531	Es geht um mehr als sechs Millionen Euro.	sechs	306	   13,333	0.0285	89.375	german_de_news_2014_00461583
+1532	In diesem Jahr sind es bereits sechs.	sechs	306	   13,333	0.0285	95.5714	german_de_news_2013_00618664
+1533	Bis 2015 werden es noch einmal sechs Millionen sein.	sechs	306	   13,333	0.0285	99.5	german_de_news_2013_00123286
+1534	Vor sechs Wochen waren es noch 54 Prozent.	sechs	306	   13,333	0.0285	123.8571	german_de_news_2013_00911037
+1535	Bis zu sechs pro Tag.	sechs	306	   13,333	0.0285	181.6	german_de_news_2015_00125927
+1536	Ist doch in Deutschland genau so, oder etwa nicht?	genau	307	   13,330	0.0284	84.5556	german_de_news_2013_00637977
+1537	Ganz genau so ist es..	genau	307	   13,330	0.0284	104.2	german_de_news_2014_00509797
+1538	«Genau das machen wir jetzt.»	genau	307	   13,330	0.0284	120.4	german_de_news_2013_00536712
+1539	Das ist genau die Frage: Gibt es neben diesen..	genau	307	   13,330	0.0284	129.2222	german_de_news_2013_00186767
+1540	Was genau, wäre kein Thema?	genau	307	   13,330	0.0284	196	german_de_news_2015_00885705
+1541	Das Wie ist noch nicht klar.	klar	308	   13,271	0.0283	68.1667	german_de_news_2013_00215819
+1542	Die Welt: Das ist schon klar.	klar	308	   13,271	0.0283	94.6667	german_de_news_2013_00403116
+1543	Aber mir war das klar.	klar	308	   13,271	0.0283	116.6	german_de_news_2013_00016741
+1544	Der Fall ist also ganz und gar nicht klar.	klar	308	   13,271	0.0283	129.5556	german_de_news_2014_00247289
+1545	Dies sollte allen klar sein.	klar	308	   13,271	0.0283	200.6	german_de_news_2015_00365884
+1546	Jetzt noch die WM – und das ist es dann.“	wm	309	   13,270	0.0283	60.2222	german_de_news_2013_00646571
+1547	Doch wie geht es nach der WM weiter?	wm	309	   13,270	0.0283	87.125	german_de_news_2013_00417984
+1548	Oder die WM in der EU?	wm	309	   13,270	0.0283	89.6667	german_de_news_2014_00722236
+1549	Was sind da 10Milliarden für eine WM?	wm	309	   13,270	0.0283	108.1429	german_de_news_2014_00896668
+1550	Dann Platz sechs bei der WM.	wm	309	   13,270	0.0283	155.6667	german_de_news_2015_00159147
+1551	Damit ist sie eine unter vielen.	vielen	310	   13,217	0.0282	86.5	german_de_news_2015_00151942
+1552	Das ist bei vielen Menschen nicht der Fall.	vielen	310	   13,217	0.0282	90.375	german_de_news_2015_00181698
+1553	Der Fall hier ist ja nur einer von vielen.	vielen	310	   13,217	0.0282	100.6667	german_de_news_2015_00246496
+1554	So ist es wohl bei vielen.	vielen	310	   13,217	0.0282	103.6667	german_de_news_2013_00824580
+1555	Da geht es ihm besser als vielen anderen.	vielen	310	   13,217	0.0282	143.875	german_de_news_2013_00147419
+1556	Die SPD will das auch.	spd	311	   13,198	0.0282	85.8	german_de_news_2013_00386108
+1557	Der Weg ist etwas weiter als von der SPD zu uns	spd	311	   13,198	0.0282	98.2	german_de_news_2013_00288763
+1558	Noch einmal mit der SPD?	spd	311	   13,198	0.0282	106.8	german_de_news_2013_00740751
+1559	Die SPD bleibt bei 24 Prozent.	spd	311	   13,198	0.0282	135.4	german_de_news_2014_00367160
+1560	Und wo bleibt die SPD?	spd	311	   13,198	0.0282	158.2	german_de_news_2015_00844788
+1561	Wie waren die 90 Minuten für Sie?	minuten	312	   13,140	0.028	81.1667	german_de_news_2013_00957148
+1562	Wie geht ihr die letzten Minuten an?	minuten	312	   13,140	0.028	113.4286	german_de_news_2014_00922991
+1563	Und zwei Minuten später dann das..	minuten	312	   13,140	0.028	124.6667	german_de_news_2013_00883385
+1564	Zwei Minuten später auch er.	minuten	312	   13,140	0.028	143.6	german_de_news_2013_00998026
+1565	Alle zehn Minuten kommen 25 dazu.	minuten	312	   13,140	0.028	202.2	german_de_news_2013_00032206
+1566	Jetzt für nur 29,90 Euro, statt 49,99 Euro.	statt	313	   13,120	0.028	105.6	german_de_news_2015_00609181
+1567	In den USA sind es 99 statt 79 Dollar.	statt	313	   13,120	0.028	112	german_de_news_2015_00577527
+1568	Jetzt für 12 Euro statt 17,35 Euro.	statt	313	   13,120	0.028	120	german_de_news_2015_00609176
+1569	Weil ich mehr Zeit statt mehr Geld haben will.	statt	313	   13,120	0.028	127.25	german_de_news_2013_00928119
+1570	Jetzt nur 39,99 Euro statt 64,90 Euro.	statt	313	   13,120	0.028	128.75	german_de_news_2014_00616457
+1571	Aber noch ist die Saison nicht zu Ende.	saison	314	   13,095	0.0279	69.75	german_de_news_2014_00015544
+1572	Das gab es in dieser Saison noch nicht.	saison	314	   13,095	0.0279	86.75	german_de_news_2014_00175115
+1573	Ein Mann also für mehr als eine Saison.	saison	314	   13,095	0.0279	102.875	german_de_news_2015_00424628
+1574	Alle vier sind auch diese Saison dabei.	saison	314	   13,095	0.0279	115.2857	german_de_news_2015_00033043
+1575	Vor allem während der Saison.	saison	314	   13,095	0.0279	141.8	german_de_news_2014_00882181
+1576	Und so hätte es am Dienstag bei der »2.	dienstag	315	   13,072	0.0279	86.25	german_de_news_2014_00850694
+1577	Wenn nicht schon am Dienstag, so doch gegen Ende der Woche.	dienstag	315	   13,072	0.0279	94.3636	german_de_news_2015_00903045
+1578	Am Dienstag waren es noch mehr als 170 gewesen.	dienstag	315	   13,072	0.0279	105.5	german_de_news_2013_00044326
+1579	Viel mehr war am Dienstag noch nicht bekannt.	dienstag	315	   13,072	0.0279	114.875	german_de_news_2014_00871948
+1580	Dienstag bin ich aber wieder dabei.	dienstag	315	   13,072	0.0279	136.6667	german_de_news_2015_00338404
+1581	Die sind immer noch da sollten wir die nicht erst weg machen.	sollten	316	   13,028	0.0278	103.2727	german_de_news_2015_00362197
+1582	Am Ende sollten es 33 sein.	sollten	316	   13,028	0.0278	109.8	german_de_news_2013_00045545
+1583	Im neuen Jahr wird alles besser Das sollten Sie 2015 besser machen.	sollten	316	   13,028	0.0278	117.3	german_de_news_2015_00567412
+1584	Und da sollten Sie ihn mal sehen!	sollten	316	   13,028	0.0278	134.2857	german_de_news_2013_00868354
+1585	Wir sollten einfach mal machen!	sollten	316	   13,028	0.0278	165	german_de_news_2014_00937410
+1586	Bei den Frauen sind es nur rund 55 Prozent.	frauen	317	   12,963	0.0277	78.75	german_de_news_2015_00101738
+1587	Vor allem bei den Frauen.	frauen	317	   12,963	0.0277	107.6	german_de_news_2015_00872062
+1588	Und noch nie waren es so viele Frauen.	frauen	317	   12,963	0.0277	116.75	german_de_news_2015_00839670
+1589	Wo sind die Frauen und Kinder?	frauen	317	   12,963	0.0277	136	german_de_news_2015_00936630
+1590	Heute sieht man kaum noch Frauen ohne.	frauen	317	   12,963	0.0277	171.1429	german_de_news_2015_00531272
+1591	So ist das kurz vor dem Ende.	kurz	318	   12,932	0.0276	81.1429	german_de_news_2015_00785733
+1592	Und auch die Kinder kommen nicht zur kurz.	kurz	318	   12,932	0.0276	107.75	german_de_news_2013_00865063
+1593	Kurz und gut: War alles schon einmal da.	kurz	318	   12,932	0.0276	119.875	german_de_news_2015_00629734
+1594	Also mal kurz vor 12 Uhr.	kurz	318	   12,932	0.0276	147.8	german_de_news_2015_00038697
+1595	Ich bin nur kurz weg.	kurz	318	   12,932	0.0276	178	german_de_news_2014_00546974
+1596	Am Ende war ich auch noch schnell.	schnell	319	   12,902	0.0275	89.8571	german_de_news_2015_00044710
+1597	Das würde mir auch sehr schnell zu viel werden.	schnell	319	   12,902	0.0275	108.3333	german_de_news_2013_00217056
+1598	Es kann aber nicht alles schnell gehen.	schnell	319	   12,902	0.0275	119	german_de_news_2015_00465020
+1599	In allen anderen war er schnell.	schnell	319	   12,902	0.0275	139.5	german_de_news_2015_00573285
+1600	Eigentlich zu einfach, zu schnell.	schnell	319	   12,902	0.0275	208.75	german_de_news_2013_00429966
+1601	Mehr musste sie auch nicht.	musste	320	   12,900	0.0275	85.2	german_de_news_2014_00660107
+1602	Allerdings: Das musste er gar nicht.	musste	320	   12,900	0.0275	127.6667	german_de_news_2015_00028542
+1603	Es kommt, wie es kommen musste.	musste	320	   12,900	0.0275	143.8	german_de_news_2013_00494231
+1604	Es kommt, was kommen musste.	musste	320	   12,900	0.0275	150	german_de_news_2014_00469828
+1605	Alles musste ganz schnell gehen.	musste	320	   12,900	0.0275	234.4	german_de_news_2014_00031072
+1606	Sie gibt diese aber nicht an die Kunden weiter.	kunden	321	   12,878	0.0275	76.8889	german_de_news_2015_00768781
+1607	Und die Kunden sind dann auch weg.	kunden	321	   12,878	0.0275	96.2857	german_de_news_2015_00833844
+1608	So sehen das die Kunden.	kunden	321	   12,878	0.0275	118.8	german_de_news_2013_00830916
+1609	Die Kunden hätten die von..	kunden	321	   12,878	0.0275	146.75	german_de_news_2013_00347342
+1610	Die wollen gar keine Kunden?	kunden	321	   12,878	0.0275	167	german_de_news_2013_00405176
+1611	Das andere ist, wie sie wirklich sind.	wirklich	322	   12,873	0.0275	84.2857	german_de_news_2013_00166918
+1612	Doch war das wirklich so?	wirklich	322	   12,873	0.0275	98.2	german_de_news_2013_00417449
+1613	Aber wer sind sie wirklich?	wirklich	322	   12,873	0.0275	114.2	german_de_news_2015_00018336
+1614	Denn alle, wirklich alle, sind gegen ihn.	wirklich	322	   12,873	0.0275	134.8333	german_de_news_2015_00223499
+1615	Jeder will was, wirklich jeder.	wirklich	322	   12,873	0.0275	190	german_de_news_2014_00612969
+1616	Und das in zwei Spielen.	spielen	323	   12,865	0.0275	82.4	german_de_news_2014_00841024
+1617	Wenn ich die habe, werde ich auch spielen.	spielen	323	   12,865	0.0275	100.8571	german_de_news_2014_00909493
+1618	Bei uns spielen fünf, zwar nicht so lange, aber man hat mehr davon.	spielen	323	   12,865	0.0275	120.0769	german_de_news_2014_00111755
+1619	Nun war ihm klar, dass er sie nie wieder würde spielen können.	spielen	323	   12,865	0.0275	138.8333	german_de_news_2015_00706164
+1620	Wir müssen dann wirklich besser spielen.»	spielen	323	   12,865	0.0275	194.3333	german_de_news_2014_00934992
+1621	So wird es auch als Trainer sein.	trainer	324	   12,843	0.0274	73.4286	german_de_news_2015_00794925
+1622	Wie sehen Sie sich selbst als Trainer?	trainer	324	   12,843	0.0274	110.1429	german_de_news_2013_00955156
+1623	Weil ihr Trainer es so will.	trainer	324	   12,843	0.0274	117.1667	german_de_news_2014_00900514
+1624	Ich will einmal Trainer werden.»	trainer	324	   12,843	0.0274	134	german_de_news_2015_00552585
+1625	Dann wäre ich kein Trainer.	trainer	324	   12,843	0.0274	152	german_de_news_2014_00160408
+1626	Und dann auch noch für Russland.	russland	325	   12,802	0.0273	77.1667	german_de_news_2013_00866697
+1627	Ohne Russland geht es auch nicht.	russland	325	   12,802	0.0273	102.6667	german_de_news_2015_00717730
+1628	So einfach ist also die Welt in Russland!	russland	325	   12,802	0.0273	117.375	german_de_news_2015_00783112
+1629	Russland wird nicht einfach werden“.	russland	325	   12,802	0.0273	123	german_de_news_2014_00752104
+1630	Und weiter: „Russland muss seinen eigenen Weg finden.	russland	325	   12,802	0.0273	184.125	german_de_news_2015_00843196
+1631	Aber so sicher ist es auch dort nicht mehr wie auch schon.	sicher	326	   12,775	0.0273	69.2727	german_de_news_2014_00016399
+1632	Und das wollen Sie ja sicher nicht.	sicher	326	   12,775	0.0273	96.4286	german_de_news_2014_00842027
+1633	In vier Jahren sind wir sicher weiter.	sicher	326	   12,775	0.0273	116.1429	german_de_news_2013_00634292
+1634	Jetzt bin ich mir nicht mehr sicher.	sicher	326	   12,775	0.0273	138.2857	german_de_news_2013_00644909
+1635	Heute bin ich mir weniger sicher.	sicher	326	   12,775	0.0273	194.5	german_de_news_2013_00558558
+1636	Das ist ein Plus von 15,1 Prozent gegenüber dem Jahr 2011.	gegenüber	327	   12,759	0.0272	129.5556	german_de_news_2013_00186264
+1637	Das ist ein Plus von 0,7 Prozent gegenüber 2012.	gegenüber	327	   12,759	0.0272	151.5714	german_de_news_2014_00184120
+1638	Das war ein Plus von 25 Prozent gegenüber 2006.	gegenüber	327	   12,759	0.0272	157.1429	german_de_news_2013_00213975
+1639	Vor allem gegenüber der Merkel-Regierung und den USA.	gegenüber	327	   12,759	0.0272	163.3333	german_de_news_2014_00881624
+1640	Dies ist ein Plus von 600 Millionen Euro gegenüber 2013.	gegenüber	327	   12,759	0.0272	167.75	german_de_news_2015_00362482
+1641	Wir haben doch schon welche da.	welche	328	   12,696	0.0271	107.3333	german_de_news_2013_00961745
+1642	Welche das sind, ist derzeit noch nicht bekannt.	welche	328	   12,696	0.0271	120.875	german_de_news_2015_00895812
+1643	Die Frage ist nur welche.	welche	328	   12,696	0.0271	131.8	german_de_news_2015_00313065
+1644	Doch welche ist das eigentlich?	welche	328	   12,696	0.0271	143.6	german_de_news_2015_00393771
+1645	Um welche Frauen geht es hier genau?	welche	328	   12,696	0.0271	172.4286	german_de_news_2013_00863577
+1646	«Die Zahlen sind noch nicht (.	zahlen	329	   12,688	0.0271	84.2	german_de_news_2015_00382286
+1647	Das sind allerdings nur Zahlen.	zahlen	329	   12,688	0.0271	111	german_de_news_2013_00204362
+1648	Sie müssen nicht alles zahlen.	zahlen	329	   12,688	0.0271	130.2	german_de_news_2015_00773398
+1649	Sollen wir immer weiter zahlen?	zahlen	329	   12,688	0.0271	148	german_de_news_2015_00788415
+1650	Dafür würde ich sogar zahlen.	zahlen	329	   12,688	0.0271	188	german_de_news_2013_00146814
+1651	Und doch gibt es einen, der sagt: „Für mich war es eine gute Woche.“	gute	330	   12,660	0.027	90.1538	german_de_news_2015_00834722
+1652	Aber es war eine gute ­Frage, oder?	gute	330	   12,660	0.027	110.8571	german_de_news_2014_00012975
+1653	Jetzt ist eine gute Zeit dafür.	gute	330	   12,660	0.027	123.6667	german_de_news_2013_00645838
+1654	Das ist wirklich eine gute Frage.	gute	330	   12,660	0.027	159.8333	german_de_news_2015_00185559
+1655	Ich werde 100 gute Jahre leben.	gute	330	   12,660	0.027	177.6	german_de_news_2014_00557531
+1656	Und den hat der FC Bayern.“	fc	331	   12,622	0.0269	117.1667	german_de_news_2013_00869178
+1657	Was das mit dem FC Bayern zu tun hat?	fc	331	   12,622	0.0269	127.1111	german_de_news_2015_00884464
+1658	Und dann zurück zu seinem FC!	fc	331	   12,622	0.0269	133.1667	german_de_news_2015_00831043
+1659	Oder noch immer die Frage: Der FC Bayern.	fc	331	   12,622	0.0269	138.625	german_de_news_2014_00722877
+1660	Es steht 2:0 für den FC Bayern.	fc	331	   12,622	0.0269	143	german_de_news_2015_00469046
+1661	Auf diese Frage geht er zunächst nicht ein.	zunächst	332	   12,613	0.0269	105.5	german_de_news_2013_00082949
+1662	Zunächst war auch in dieser Woche alles wie immer.	zunächst	332	   12,613	0.0269	112.8889	german_de_news_2014_00960759
+1663	Das war zunächst aber gar nicht der Fall.	zunächst	332	   12,613	0.0269	118.625	german_de_news_2015_00210118
+1664	Weitere Angaben konnte die Polizei zunächst nicht machen.	zunächst	332	   12,613	0.0269	169.5	german_de_news_2015_00892999
+1665	Weitere Angaben wurden zunächst nicht gemacht.	zunächst	332	   12,613	0.0269	201	german_de_news_2015_00893008
+1666	«Wir können es nicht wie die Bayern machen»	bayern	333	   12,583	0.0269	83.375	german_de_news_2013_00964444
+1667	»Die Anderen«, das sind in diesem Fall die Bayern.	bayern	333	   12,583	0.0269	112	german_de_news_2013_00301392
+1668	Er gab zu, dass „Bayern viel besser“ war.	bayern	333	   12,583	0.0269	130.5	german_de_news_2013_00464597
+1669	Zum FC Bayern kann er dabei immer zurück.	bayern	333	   12,583	0.0269	149.875	german_de_news_2013_00988405
+1670	Bleibt er beim FC Bayern?	bayern	333	   12,583	0.0269	209.6	german_de_news_2015_00127541
+1671	«Für immer zusammen, wie sie es auch im Leben immer waren!»	zusammen	334	   12,581	0.0268	82.9	german_de_news_2015_00500238
+1672	Am Ende haben wir dann sogar noch ein Bild von uns zusammen gemacht.	zusammen	334	   12,581	0.0268	121.4615	german_de_news_2014_00043366
+1673	Die Frage ist: Wie wollen wir zusammen leben?	zusammen	334	   12,581	0.0268	132.375	german_de_news_2013_00329444
+1674	So viel kam nicht zusammen.	zusammen	334	   12,581	0.0268	149.8	german_de_news_2014_00803009
+1675	Sechs Jahre waren die beiden zusammen gewesen.	zusammen	334	   12,581	0.0268	191.2857	german_de_news_2015_00753917
+1676	Und, warum ist das so?	warum	335	   12,574	0.0268	79	german_de_news_2013_00880318
+1677	Warum auch nicht „steht da ja so“.	warum	335	   12,574	0.0268	113.1429	german_de_news_2013_00917330
+1678	Wenn das so einfach wäre, warum macht es da nicht jeder so?	warum	335	   12,574	0.0268	128.0909	german_de_news_2015_00898687
+1679	Warum sollte es nur mir so gehen?	warum	335	   12,574	0.0268	147.4286	german_de_news_2015_00883382
+1680	Aber warum eigentlich genau jetzt?	warum	335	   12,574	0.0268	214.4	german_de_news_2013_00018821
+1681	Und darüber, dass es kommt.	darüber	336	   12,573	0.0268	109.4	german_de_news_2013_00867326
+1682	Darüber, was sie mit ihrem Leben machen will.	darüber	336	   12,573	0.0268	137.375	german_de_news_2014_00164029
+1683	Darüber kann die Uhr auch online gehen.	darüber	336	   12,573	0.0268	142.7143	german_de_news_2014_00163908
+1684	Dann geht der erste darüber.	darüber	336	   12,573	0.0268	143.2	german_de_news_2014_00158494
+1685	Darüber war bisher wenig bekannt.	darüber	336	   12,573	0.0268	240	german_de_news_2013_00165009
+1686	Außerdem hat er einen auf „Die anderen aber auch!	außerdem	337	   12,526	0.0267	70.8889	german_de_news_2014_00091903
+1687	Außerdem habe sie das Geld nicht.	außerdem	337	   12,526	0.0267	111.3333	german_de_news_2014_00091850
+1688	Außerdem DA3 soll ja ganz gut sein.	außerdem	337	   12,526	0.0267	134.8571	german_de_news_2014_00091208
+1689	Außerdem kann das nicht jeder.“	außerdem	337	   12,526	0.0267	139.4	german_de_news_2015_00092571
+1690	Außerdem sind die Kinder der Polizei bereits bekannt.	außerdem	337	   12,526	0.0267	152.875	german_de_news_2013_00092262
+1691	Nicht zuletzt, weil viele im Hier und Jetzt leben.	zuletzt	338	   12,512	0.0267	110.1111	german_de_news_2013_00738941
+1692	Aber das war sie zuletzt eigentlich immer.	zuletzt	338	   12,512	0.0267	118.4286	german_de_news_2014_00010697
+1693	Zuletzt war das 2002 der Fall.	zuletzt	338	   12,512	0.0267	128.2	german_de_news_2014_00956255
+1694	Dies war zuletzt im Jahr 1977 der Fall.	zuletzt	338	   12,512	0.0267	129.5714	german_de_news_2015_00368997
+1695	Das zeigt sich zuletzt deutlich.	zuletzt	338	   12,512	0.0267	174.8	german_de_news_2013_00217537
+1696	Das war schon immer so und wird auch so bleiben.	bleiben	339	   12,508	0.0267	70.5556	german_de_news_2014_00210535
+1697	Und auf dieser wird er auch in dieser Saison bleiben.	bleiben	339	   12,508	0.0267	94.1111	german_de_news_2015_00829563
+1698	Und wird es wohl auch bleiben.	bleiben	339	   12,508	0.0267	105.3333	german_de_news_2014_00853914
+1699	Sie wollen in Deutschland bleiben?	bleiben	339	   12,508	0.0267	128.4	german_de_news_2013_00817647
+1700	Und: Wo bleiben die vielen Milliarden eigentlich?	bleiben	339	   12,508	0.0267	198	german_de_news_2013_00882814
+1701	So war es ja - unter anderem auch.	anderem	340	   12,418	0.0265	96.2857	german_de_news_2015_00793969
+1702	Das Unternehmen war hier unter anderem als.	anderem	340	   12,418	0.0265	104.2857	german_de_news_2013_00211263
+1703	Dann geht er zu etwas anderem über.	anderem	340	   12,418	0.0265	104.8571	german_de_news_2013_00159219
+1704	Dort wird er unter anderem an..	anderem	340	   12,418	0.0265	107.8333	german_de_news_2015_00397084
+1705	Hier gibt es unter anderem die Serie 9 zu sehen,..	anderem	340	   12,418	0.0265	163.4444	german_de_news_2015_00532996
+1706	Und das wollte er nicht.	wollte	341	   12,393	0.0264	78.2	german_de_news_2014_00842030
+1707	Doch was wollte er dann von mir?	wollte	341	   12,393	0.0264	109	german_de_news_2014_00396691
+1708	Er wollte Präsident werden - mehr nicht.	wollte	341	   12,393	0.0264	126	german_de_news_2014_00457306
+1709	Ja, ich wollte das machen!	wollte	341	   12,393	0.0264	135	german_de_news_2013_00640144
+1710	Er wollte sie nie zurück.	wollte	341	   12,393	0.0264	181.8	german_de_news_2013_00480494
+1711	Und das gilt nicht nur für Deutschland!	gilt	342	   12,359	0.0264	77.1429	german_de_news_2015_00831407
+1712	Aber die gilt schon lange nicht mehr.	gilt	342	   12,359	0.0264	107.5714	german_de_news_2015_00011841
+1713	Allerdings gilt das nur für einen Teil von ihnen.	gilt	342	   12,359	0.0264	121.2222	german_de_news_2014_00027859
+1714	Das gilt für Unternehmen wie Kunden».	gilt	342	   12,359	0.0264	143.1667	german_de_news_2013_00179335
+1715	Sie gilt zunächst bis Dienstag.	gilt	342	   12,359	0.0264	213	german_de_news_2015_00768840
+1716	Das ist sie aber oft nicht.	oft	343	   12,341	0.0263	71.6667	german_de_news_2014_00186034
+1717	Aber immer noch zu oft.	oft	343	   12,341	0.0263	100.8	german_de_news_2015_00014706
+1718	Wie oft kam das aber hier dieses Jahr vor?	oft	343	   12,341	0.0263	117.4444	german_de_news_2015_00917259
+1719	Oft kam das allerdings nicht vor.	oft	343	   12,341	0.0263	129.5	german_de_news_2013_00757653
+1720	Gerade Frauen stehen sich oft selbst im Weg.	oft	343	   12,341	0.0263	187.625	german_de_news_2014_00517301
+1721	Aber sie könnten einer werden.	könnten	344	   12,338	0.0263	95.4	german_de_news_2013_00017928
+1722	Zwei Millionen könnten es sein.	könnten	344	   12,338	0.0263	121.8	german_de_news_2015_00960601
+1723	Dieses Jahr könnten es 10000 werden.	könnten	344	   12,338	0.0263	132.2	german_de_news_2015_00358387
+1724	Sie könnten in die Milliarden gehen.	könnten	344	   12,338	0.0263	139	german_de_news_2013_00810720
+1725	Dann könnten wir uns oft sehen.	könnten	344	   12,338	0.0263	191.6667	german_de_news_2013_00160228
+1726	Ein Mail mit der Frage.	mail	345	   12,297	0.0262	128	german_de_news_2013_00451069
+1727	Das Spiel wird vom Mail.	mail	345	   12,297	0.0262	135.2	german_de_news_2014_00202897
+1728	Bei der E-Mail ist das allerdings anders.	mail	345	   12,297	0.0262	141.625	german_de_news_2015_00103220
+1729	Ich habe auch eine Mail bekommen.	mail	345	   12,297	0.0262	148.3333	german_de_news_2013_00574316
+1730	Sie haben gerade eine E-Mail von einem neuen Mitarbeiter erhalten.	mail	345	   12,297	0.0262	168.0909	german_de_news_2013_00807476
+1731	Aber das ist nur die eine Seite.	seite	346	   12,277	0.0262	66.4286	german_de_news_2015_00010845
+1732	Jetzt will ich das aber erst ab Seite 2 so haben.	seite	346	   12,277	0.0262	94.3	german_de_news_2013_00647315
+1733	Die Zeit ist auf Ihrer Seite.	seite	346	   12,277	0.0262	110.1667	german_de_news_2014_00385839
+1734	Seite 1: „Nur noch eine Frage der Zeit“	seite	346	   12,277	0.0262	122.5714	german_de_news_2013_00798398
+1735	Besonders auf der ersten Seite.	seite	346	   12,277	0.0262	152.2	german_de_news_2013_00118551
+1736	Das ist doch viel besser für die Spieler“, sagte er.	spieler	347	   12,242	0.0261	95.6	german_de_news_2014_00183398
+1737	Heute bin ich nicht mehr als Spieler auf dem Platz.	spieler	347	   12,242	0.0261	111.4	german_de_news_2014_00535660
+1738	Wir haben auch sehr gute Spieler.	spieler	347	   12,242	0.0261	148.1667	german_de_news_2014_00931135
+1739	Die können die Spieler einmal pro Woche machen.	spieler	347	   12,242	0.0261	182.7143	german_de_news_2015_00327559
+1740	«Sie haben wirklich gute Spieler.	spieler	347	   12,242	0.0261	213	german_de_news_2015_00769739
+1741	Und vielleicht sind Sie dann mit dabei!	vielleicht	348	   12,166	0.026	83.4286	german_de_news_2013_00879987
+1742	Vielleicht waren es auch zwei.	vielleicht	348	   12,166	0.026	113.6	german_de_news_2014_00871475
+1743	So klar ist IHNEN das vielleicht nicht.	vielleicht	348	   12,166	0.026	137	german_de_news_2013_00825027
+1744	Dann vielleicht schon wieder mit ihrem Trainer.	vielleicht	348	   12,166	0.026	159.5714	german_de_news_2014_00160340
+1745	Erst einige, später vielleicht mehr.	vielleicht	348	   12,166	0.026	212.8	german_de_news_2014_00452278
+1746	Was hat das mit dem Euro zu tun?	tun	349	   12,126	0.0259	67.625	german_de_news_2013_00921196
+1747	Es gibt noch sehr viel zu tun.	tun	349	   12,126	0.0259	101.2857	german_de_news_2015_00458641
+1748	Was werden die Deutschen tun?	tun	349	   12,126	0.0259	119.2	german_de_news_2014_00897379
+1749	Würden Sie es wieder tun?	tun	349	   12,126	0.0259	143	german_de_news_2014_00944791
+1750	Warum sollten es denn andere tun?	tun	349	   12,126	0.0259	216.3333	german_de_news_2015_00883419
+1751	Wir sind noch nicht bei 100 Prozent, das wissen wir.»	wissen	350	   12,027	0.0257	73.125	german_de_news_2014_00936984
+1752	Und das lassen sie auch die Kinder wissen.	wissen	350	   12,027	0.0257	104	german_de_news_2013_00868095
+1753	Wir wissen, was wir an ihm haben.	wissen	350	   12,027	0.0257	121.1667	german_de_news_2014_00940120
+1754	Wer will das schon so genau wissen..	wissen	350	   12,027	0.0257	145.4286	german_de_news_2014_00917917
+1755	Oft wissen diese gar nicht davon.	wissen	350	   12,027	0.0257	208.8333	german_de_news_2015_00716910
+1756	Das sind 966 mehr als im Jahr zuvor.	zuvor	351	   11,995	0.0256	80.7143	german_de_news_2014_00200873
+1757	Das waren fast 11 Prozent mehr als ein Jahr zuvor.	zuvor	351	   11,995	0.0256	101.7778	german_de_news_2013_00214185
+1758	Das waren 1450 weniger als im Jahr zuvor.	zuvor	351	   11,995	0.0256	117.1429	german_de_news_2015_00209256
+1759	Aber nie zuvor waren es so viele.	zuvor	351	   11,995	0.0256	137.4286	german_de_news_2015_00016168
+1760	Allerdings nur, wenn dies zuvor bekannt gemacht wird.	zuvor	351	   11,995	0.0256	173.5	german_de_news_2013_00029617
+1761	Und er ging auch nicht auf.	ging	352	   11,992	0.0256	71	german_de_news_2015_00835433
+1762	Bis 2008 ging es uns sehr gut.	ging	352	   11,992	0.0256	125.8333	german_de_news_2013_00123240
+1763	In den USA ging's um 30% zurück.	ging	352	   11,992	0.0256	143.1429	german_de_news_2013_00610278
+1764	Am Montag ging es weiter.	ging	352	   11,992	0.0256	165.4	german_de_news_2014_00045672
+1765	Dann ging es eigentlich ganz schnell.	ging	352	   11,992	0.0256	200.1667	german_de_news_2014_00158605
+1766	Und das nicht zu knapp.	knapp	353	   11,978	0.0256	77.2	german_de_news_2014_00841414
+1767	Das sind in Deutschland knapp 33 Millionen Menschen.	knapp	353	   11,978	0.0256	105.4286	german_de_news_2015_00200610
+1768	Das Geld ist nicht knapp.	knapp	353	   11,978	0.0256	119.8	german_de_news_2013_00177854
+1769	Auch das Geld wird knapp.	knapp	353	   11,978	0.0256	125.4	german_de_news_2015_00069657
+1770	Insgesamt geht es dabei um knapp 30 Milliarden Dollar.	knapp	353	   11,978	0.0256	166.375	german_de_news_2014_00600791
+1771	Aber es ist ja immer so, das man sich selbst am nächsten ist.	nächsten	354	   11,968	0.0255	75.5	german_de_news_2013_00014103
+1772	Ich bin mir zu 100 Prozent sicher, dass er auch im nächsten Jahr hier sein wird.	nächsten	354	   11,968	0.0255	106.3333	german_de_news_2014_00546833
+1773	Wir wollen in den nächsten drei Jahren auf zehn Prozent kommen.	nächsten	354	   11,968	0.0255	118.5455	german_de_news_2014_00940471
+1774	«Es kommt wohl in den nächsten zwei Wochen.»	nächsten	354	   11,968	0.0255	141.625	german_de_news_2013_00494236
+1775	Kommen wir zum nächsten Thema!	nächsten	354	   11,968	0.0255	184.4	german_de_news_2014_00630624
+1776	Das ist auch das Ziel für 2014.	ziel	355	   11,942	0.0255	80.2	german_de_news_2014_00182363
+1777	Aber das Ziel sei das nicht.	ziel	355	   11,942	0.0255	96.2	german_de_news_2014_00010751
+1778	Der Weg ist das Ziel.	ziel	355	   11,942	0.0255	120	german_de_news_2015_00275757
+1779	Das Ziel: ein Platz unter den ersten Sechs.	ziel	355	   11,942	0.0255	136.75	german_de_news_2014_00213344
+1780	Jeder Spieler muss aber wissen, dass er alles dafür tun muss, dass er für dieses Ziel leben muss.	ziel	355	   11,942	0.0255	183.4286	german_de_news_2013_00642720
+1781	Das ist aber nicht neu.	neu	356	   11,883	0.0254	84.4	german_de_news_2015_00181312
+1782	Ist ist aber nicht neu.	neu	356	   11,883	0.0254	104.25	german_de_news_2013_00638462
+1783	Er ist also noch sehr neu im Team.	neu	356	   11,883	0.0254	121	german_de_news_2014_00445560
+1784	In diesem Jahr ist fast alles neu.	neu	356	   11,883	0.0254	135.8571	german_de_news_2013_00618605
+1785	Dies wäre uns allerdings neu.	neu	356	   11,883	0.0254	193.2	german_de_news_2014_00371694
+1786	Auch wenn es in der Schweiz ist?	schweiz	357	   11,860	0.0253	66.2857	german_de_news_2013_00077907
+1787	Ist auch in der Schweiz so sieht man immer wieder.	schweiz	357	   11,860	0.0253	88.2	german_de_news_2015_00602000
+1788	Was hat das nun mit der Schweiz zu tun?	schweiz	357	   11,860	0.0253	100.8889	german_de_news_2015_00885979
+1789	Die Schweiz ist nicht sehr bekannt hier.	schweiz	357	   11,860	0.0253	126.4286	german_de_news_2014_00352599
+1790	Dies gilt auch für die Schweiz!	schweiz	357	   11,860	0.0253	150.6667	german_de_news_2013_00382352
+1791	Und jetzt ist es auch wieder nicht recht.	recht	358	   11,835	0.0253	73.375	german_de_news_2015_00838248
+1792	Da hat er schon recht.	recht	358	   11,835	0.0253	112	german_de_news_2015_00147061
+1793	Doch sie haben das Recht auf ihrer Seite.	recht	358	   11,835	0.0253	127.5	german_de_news_2014_00395739
+1794	Wer von beiden hat recht?	recht	358	   11,835	0.0253	149.2	german_de_news_2013_00946416
+1795	Nun ging doch alles recht schnell.	recht	358	   11,835	0.0253	224.1667	german_de_news_2013_00744263
+1796	Wie stellen Sie sich das vor?	stellen	359	   11,811	0.0252	78.5	german_de_news_2013_00956174
+1797	Der muss man sich stellen.	stellen	359	   11,811	0.0252	104.6	german_de_news_2013_00270160
+1798	Die Frage stellen wir uns auch immer.	stellen	359	   11,811	0.0252	128.7143	german_de_news_2013_00329582
+1799	ZEIT ONLINE: Aber wer soll sie stellen?	stellen	359	   11,811	0.0252	146.8571	german_de_news_2015_00939688
+1800	Derzeit hat das Unternehmen insgesamt 9100 Stellen.	stellen	359	   11,811	0.0252	172.1667	german_de_news_2014_00278928
+1801	Aber was ist schon ein Jahr im Internet?	internet	360	   11,786	0.0252	80.5	german_de_news_2013_00018974
+1802	Und da ist das Internet.	internet	360	   11,786	0.0252	92.4	german_de_news_2014_00839772
+1803	Das über Internet zu machen, war nicht möglich.	internet	360	   11,786	0.0252	115.375	german_de_news_2015_00205524
+1804	Im Internet wäre das noch möglich.	internet	360	   11,786	0.0252	147.5	german_de_news_2014_00568283
+1805	Das Internet macht's möglich.	internet	360	   11,786	0.0252	208.6	german_de_news_2013_00184014
+1806	Was heißt das für den Euro?	heißt	361	   11,758	0.0251	84.8333	german_de_news_2015_00886114
+1807	Das heißt es: Muss Sie schon wieder weg!	heißt	361	   11,758	0.0251	107.875	german_de_news_2013_00182321
+1808	Wir müssen ja nicht“, heißt es.	heißt	361	   11,758	0.0251	118.8333	german_de_news_2015_00928096
+1809	Es heißt ja nicht, Kinder zu bleiben, sondern wie Kinder zu werden.	heißt	361	   11,758	0.0251	137.2	german_de_news_2013_00488753
+1810	Was ja nur heißt: „alles sehen“.	heißt	361	   11,758	0.0251	165.1667	german_de_news_2013_00922604
+1811	«Dabei hat die Polizei doch trotz allem mit Kunden zu tun.»	trotz	362	   11,738	0.025	145.0909	german_de_news_2013_00139653
+1812	Trotz der Kosten von mehr.	trotz	362	   11,738	0.025	160.2	german_de_news_2013_00853985
+1813	Da ist er trotz seiner bald 33 Jahre auf einem sehr guten Weg.	trotz	362	   11,738	0.025	190.1667	german_de_news_2014_00149388
+1814	Aber nicht statt, sondern trotz der Hilfe für Flüchtlinge!	trotz	362	   11,738	0.025	221.4444	german_de_news_2015_00016120
+1815	Natürlich wissen wir, dass diesem Ergebnis zum Trotz keine einzige Frau 1,38 Kinder hat.	trotz	362	   11,738	0.025	246.1538	german_de_news_2015_00690604
+1816	So war das auch am Samstag.	samstag	363	   11,723	0.025	84	german_de_news_2013_00832645
+1817	Das war am Samstag auch nicht sein Thema.	samstag	363	   11,723	0.025	101.875	german_de_news_2013_00213299
+1818	Immer, also auch am Samstag.»	samstag	363	   11,723	0.025	131.8	german_de_news_2013_00596572
+1819	Ob es bis Samstag besser wird?	samstag	363	   11,723	0.025	147.3333	german_de_news_2013_00752327
+1820	Beim Spiel am Samstag könnte..	samstag	363	   11,723	0.025	169.2	german_de_news_2013_00110341
+1821	Es ist so viel Arbeit, die man hat.	arbeit	364	   11,687	0.0249	79.125	german_de_news_2013_00492954
+1822	Man sieht nicht, dass es Arbeit ist.	arbeit	364	   11,687	0.0249	104.8571	german_de_news_2013_00683900
+1823	Es steht noch viel Arbeit vor uns.	arbeit	364	   11,687	0.0249	122.4286	german_de_news_2014_00473590
+1824	Könnte etwas mit viel Arbeit zu tun haben.	arbeit	364	   11,687	0.0249	149.75	german_de_news_2013_00660528
+1825	Sie finden nie mehr Arbeit!	arbeit	364	   11,687	0.0249	202.6	german_de_news_2013_00806037
+1826	Hat das mit dem Weg zu tun, den Sie hinter sich haben?	hinter	365	   11,683	0.0249	91.4167	german_de_news_2013_00554047
+1827	Das kann ich nicht so einfach hinter mir lassen.“	hinter	365	   11,683	0.0249	121.7778	german_de_news_2014_00187168
+1828	Doch dann steht die Polizei hinter ihr.	hinter	365	   11,683	0.0249	136.5714	german_de_news_2015_00386833
+1829	Deutschland steht also hinter der USA?	hinter	365	   11,683	0.0249	165.8333	german_de_news_2013_00296222
+1830	Hinter dem Deutschen liegt eine gute Woche.	hinter	365	   11,683	0.0249	197.1429	german_de_news_2014_00540820
+1831	Zum Beispiel in den USA hat sich der.	beispiel	366	   11,581	0.0247	81.625	german_de_news_2013_00987600
+1832	Dies ist aber nur ein Beispiel.	beispiel	366	   11,581	0.0247	107.6667	german_de_news_2014_00364906
+1833	Der Fall ist nur ein Beispiel.	beispiel	366	   11,581	0.0247	114.5	german_de_news_2013_00254930
+1834	Ich will noch ein Beispiel geben.	beispiel	366	   11,581	0.0247	129.1667	german_de_news_2015_00552732
+1835	Geben Sie mir ein Beispiel.	beispiel	366	   11,581	0.0247	161.4	german_de_news_2015_00505671
+1836	Muss ein Schweizer, wenn er etwas werden will, auch einmal weg?	schweizer	366	   11,581	0.0247	113.3636	german_de_news_2015_00676507
+1837	Am Montag ist der Schweizer…	schweizer	366	   11,581	0.0247	141.6	german_de_news_2015_00046710
+1838	Erstmals seit 2013 gibt es wieder so viele Punkte für die Schweizer.	schweizer	366	   11,581	0.0247	153.8182	german_de_news_2015_00449001
+1839	Doch da haben die Schweizer etwas dagegen.	schweizer	366	   11,581	0.0247	160	german_de_news_2013_00410345
+1840	Wie schwer sich der Schweizer verletzt hat, ist noch nicht bekannt.	schweizer	366	   11,581	0.0247	160.5455	german_de_news_2015_00917727
+1841	Die Bank sei auf dem..	bank	367	   11,567	0.0247	93.6	german_de_news_2014_00294492
+1842	Alles sei gut bei der Deutschen Bank, auch wenn nichts gut sei.	bank	367	   11,567	0.0247	113.5	german_de_news_2015_00032469
+1843	Wie sicher ist das Geld in der Bank?	bank	367	   11,567	0.0247	120.125	german_de_news_2013_00955334
+1844	Das ist besser, als das Geld einer Bank zu geben.	bank	367	   11,567	0.0247	129.7778	german_de_news_2015_00181729
+1845	Die Bank muss 925 Millionen Euro zahlen.	bank	367	   11,567	0.0247	161.6667	german_de_news_2014_00294461
+1846	Es ist nun einmal so das nicht alle Menschen gleich sind.	gleich	368	   11,536	0.0246	87.1818	german_de_news_2013_00492450
+1847	Die müssen für alle gleich sein.	gleich	368	   11,536	0.0246	109.5	german_de_news_2015_00335701
+1848	Für mich sehen sie alle gleich aus.	gleich	368	   11,536	0.0246	132	german_de_news_2013_00527149
+1849	Denn es waren nicht etwa fünf oder zehn Dollar, sondern gleich 5000 Dollar.	gleich	368	   11,536	0.0246	153.7273	german_de_news_2013_00231753
+1850	Alles ist recht, jeder gleich.	gleich	368	   11,536	0.0246	234.4	german_de_news_2013_00031370
+1851	Das Auto ist gut und es kann nur besser werden.	auto	369	   11,505	0.0246	92.8	german_de_news_2014_00166786
+1852	Für uns oder das Auto?	auto	369	   11,505	0.0246	112.4	german_de_news_2014_00507788
+1853	Von dort ging es mit dem Auto nach Berlin.	auto	369	   11,505	0.0246	129	german_de_news_2015_00867926
+1854	Das neue Auto ist viel besser.	auto	369	   11,505	0.0246	145.8333	german_de_news_2013_00195453
+1855	Er zeigt uns sein Auto.	auto	369	   11,505	0.0246	169.6	german_de_news_2014_00457899
+1856	Das war in diesem Jahr bereits für mehrere Wochen der Fall.	mehrere	370	   11,468	0.0245	117.1818	german_de_news_2013_00214525
+1857	Von denen es in der letzten Zeit allerdings mehrere gab und gibt.	mehrere	370	   11,468	0.0245	121.9167	german_de_news_2013_00903217
+1858	Es sollen noch mehrere werden.	mehrere	370	   11,468	0.0245	122.4	german_de_news_2013_00497718
+1859	Davon gibt es natürlich mehrere.	mehrere	370	   11,468	0.0245	190	german_de_news_2013_00218934
+1860	Mehrere Menschen seien verletzt worden, wie viele genau und wie schwer, konnte die Polizei zunächst nicht sagen.	mehrere	370	   11,468	0.0245	206.75	german_de_news_2014_00659282
+1861	Noch ist aber nicht zu sagen, was sie ist und was aus ihr wird.	sagen	371	   11,448	0.0244	61.1667	german_de_news_2014_00709452
+1862	Er hat viel zu sagen.	sagen	371	   11,448	0.0244	110.6	german_de_news_2015_00440431
+1863	Ich kann dazu nicht viel sagen.	sagen	371	   11,448	0.0244	126.6667	german_de_news_2014_00553425
+1864	Die sagen: `Macht weiter so´.“	sagen	371	   11,448	0.0244	146.2	german_de_news_2013_00368446
+1865	Wirklich jeder will etwas sagen.	sagen	371	   11,448	0.0244	241.8	german_de_news_2015_00926836
+1866	Denn damals hatte ich noch nicht das, was ich heute habe.	damals	372	   11,370	0.0243	91.5	german_de_news_2013_00229678
+1867	Damals hatte ich viel Zeit und wenig Geld, jetzt habe ich mehr Geld und wenig Zeit.	damals	372	   11,370	0.0243	130.1818	german_de_news_2013_00150951
+1868	Wer kam damals für das Geld auf?	damals	372	   11,370	0.0243	144.2857	german_de_news_2014_00915833
+1869	Was haben Sie damals gemacht?	damals	372	   11,370	0.0243	157	german_de_news_2013_00921069
+1870	Gehen musste er damals jedoch nicht.	damals	372	   11,370	0.0243	193.3333	german_de_news_2015_00508152
+1871	Die sind eher unter sich.	eher	373	   11,356	0.0242	99	german_de_news_2013_00383199
+1872	Das bin schon eher ich.	eher	373	   11,356	0.0242	147.6	german_de_news_2015_00167997
+1873	Derzeit kommt sie eher nicht.	eher	373	   11,356	0.0242	160.2	german_de_news_2013_00290738
+1874	Könnte es nicht eher Russland gewesen sein?	eher	373	   11,356	0.0242	173.4286	german_de_news_2015_00625020
+1875	Also finden wohl doch eher keine statt.	eher	373	   11,356	0.0242	216.2857	german_de_news_2015_00038274
+1876	Stand jetzt ist: Es geht nicht gut.	stand	374	   11,219	0.0239	103.7143	german_de_news_2015_00800090
+1877	Was stand 2014 noch so an?	stand	374	   11,219	0.0239	108.4	german_de_news_2014_00896953
+1878	Einen neuen Stand dazu gab es aber noch nicht.	stand	374	   11,219	0.0239	110.7778	german_de_news_2013_00440203
+1879	Man muss ja auch wissen, was es mal für einen neuen Stand gibt.	stand	374	   11,219	0.0239	112.7692	german_de_news_2013_00682977
+1880	So stand es in dem Artikel.	stand	374	   11,219	0.0239	123	german_de_news_2014_00802230
+1881	Und das war gut so. Für uns beide.	beide	375	   11,213	0.0239	89.875	german_de_news_2014_00841931
+1882	Wir sind doch beide weiter.	beide	375	   11,213	0.0239	132.6	german_de_news_2014_00936508
+1883	Beide stehen sich in nichts nach.	beide	375	   11,213	0.0239	138	german_de_news_2014_00104901
+1884	Beide haben sich nichts mehr zu sagen.	beide	375	   11,213	0.0239	149.8571	german_de_news_2014_00100252
+1885	Beide wissen: Das war knapp.	beide	375	   11,213	0.0239	226.4	german_de_news_2014_00105195
+1886	Und das ist nur der Anfang!	anfang	376	   11,180	0.0239	74	german_de_news_2013_00867975
+1887	Das aber ist erst der Anfang.	anfang	376	   11,180	0.0239	94.6667	german_de_news_2014_00165056
+1888	Es ist der Anfang vom Ende.	anfang	376	   11,180	0.0239	103.3333	german_de_news_2014_00465984
+1889	Aber es wäre ein Anfang.	anfang	376	   11,180	0.0239	124.2	german_de_news_2014_00012964
+1890	Die waren am Anfang noch hinter ihnen.	anfang	376	   11,180	0.0239	163.5714	german_de_news_2013_00402402
+1891	An diese Daten zu kommen, ist allerdings nicht so einfach.	daten	377	   11,107	0.0237	107.5	german_de_news_2014_00052083
+1892	Diese Daten gibt es schon.	daten	377	   11,107	0.0237	120.6	german_de_news_2015_00351014
+1893	Und will selbst von den Daten nichts wissen.	daten	377	   11,107	0.0237	144	german_de_news_2015_00844525
+1894	Wissen ist Macht und Daten sind.	daten	377	   11,107	0.0237	161	german_de_news_2013_00970769
+1895	Wie sicher sind unsere Daten?	daten	377	   11,107	0.0237	213	german_de_news_2015_00917968
+1896	Wie sieht es mit den Kosten aus?	kosten	378	   11,060	0.0236	102.4286	german_de_news_2014_00925813
+1897	Sie wird sehr viel mehr kosten.	kosten	378	   11,060	0.0236	117.3333	german_de_news_2015_00778949
+1898	Auch die Kinder kommen auf ihre Kosten.	kosten	378	   11,060	0.0236	132.8571	german_de_news_2013_00069447
+1899	Auch Kinder kommen auf ihre Kosten.	kosten	378	   11,060	0.0236	154.8333	german_de_news_2013_00074506
+1900	Kosten: rund zwei Milliarden Euro, eher mehr.	kosten	378	   11,060	0.0236	183.8571	german_de_news_2013_00661385
+1901	Und ich habe ein oder zwei Stunden dafür Zeit.	stunden	379	   10,997	0.0235	103.5556	german_de_news_2015_00837246
+1902	Aber auch Ihr Tag hat nur 24 Stunden.	stunden	379	   10,997	0.0235	123	german_de_news_2014_00009254
+1903	Dafür haben sie 48 Stunden Zeit.	stunden	379	   10,997	0.0235	146.8	german_de_news_2013_00145632
+1904	Vier Stunden stehen die Menschen da.	stunden	379	   10,997	0.0235	162	german_de_news_2015_00863416
+1905	Pro Woche gibt er hier etwa 15 Stunden.	stunden	379	   10,997	0.0235	180.1429	german_de_news_2013_00770096
+1906	Nun ist er wieder im TV.	tv	380	   10,987	0.0234	98	german_de_news_2013_00744817
+1907	Es geht um den TV.	tv	380	   10,987	0.0234	108.6	german_de_news_2015_00456785
+1908	Mehr geht im TV nicht!	tv	380	   10,987	0.0234	113	german_de_news_2013_00689391
+1909	TV Es ist schon jetzt das Spiel des Jahres.	tv	380	   10,987	0.0234	136.4444	german_de_news_2013_00855547
+1910	Seit einigen Tagen ist das neue Apple TV in Deutschland auf dem Markt.	tv	380	   10,987	0.0234	200.1538	german_de_news_2015_00760803
+1911	Je mehr er hat je mehr er will.	je	381	   10,968	0.0234	116	german_de_news_2013_00643989
+1912	Sie haben mehr Macht denn je.	je	381	   10,968	0.0234	134.1667	german_de_news_2015_00769508
+1913	Das sind mehr als je zuvor.	je	381	   10,968	0.0234	141.3333	german_de_news_2015_00200688
+1914	Das Ziel wäre je 50 Prozent.	je	381	   10,968	0.0234	197	german_de_news_2013_00217895
+1915	Beide müssen zudem je 2000 Euro zahlen.	je	381	   10,968	0.0234	246.1667	german_de_news_2015_00101175
+1916	Und das auch wieder auf dem deutschen Markt.	markt	382	   10,935	0.0233	82.5	german_de_news_2014_00840686
+1917	Der Markt wird das nicht wollen.	markt	382	   10,935	0.0233	101	german_de_news_2013_00268712
+1918	Damit gab der Markt sogar um ein Prozent nach.	markt	382	   10,935	0.0233	116	german_de_news_2013_00152462
+1919	Die wollen mich seit Jahren vom Markt haben.	markt	382	   10,935	0.0233	127.625	german_de_news_2015_00381582
+1920	Aber dieser Markt wird kommen.	markt	382	   10,935	0.0233	147.4	german_de_news_2015_00012142
+1921	Aber das ist dann deren Problem“.	deren	383	   10,934	0.0233	150.3333	german_de_news_2013_00011281
+1922	Bei ihrem Gegenüber waren es deren vier.	deren	383	   10,934	0.0233	181.8571	german_de_news_2015_00107219
+1923	Doch wie steht es um deren Sicherheit?	deren	383	   10,934	0.0233	185	german_de_news_2015_00394139
+1924	Aber das hat deren Führung ein Jahr lang nicht gemacht.	deren	383	   10,934	0.0233	210.3	german_de_news_2013_00011217
+1925	Genau das ist deren Ziel.	deren	383	   10,934	0.0233	212	german_de_news_2014_00515393
+1926	Das was Google kann, können wir auch.	google	384	   10,876	0.0232	92.7143	german_de_news_2013_00215041
+1927	Es muss nicht immer Google sein.	google	384	   10,876	0.0232	107.5	german_de_news_2013_00495250
+1928	Auch zu finden bei Google+.	google	384	   10,876	0.0232	142.8	german_de_news_2014_00079784
+1929	Wir hatten es über Google selbst gemacht.	google	384	   10,876	0.0232	155.5714	german_de_news_2015_00926280
+1930	Warum sollte Google das tun?	google	384	   10,876	0.0232	248.8	german_de_news_2013_00918453
+1931	Wenn Per sagt „Ja, so ist das“, sagt er „Kann man wohl sagen“.	per	385	   10,869	0.0232	123.6667	german_de_news_2013_00939461
+1932	Per Ende November waren es nur 37 Prozent gewesen.	per	385	   10,869	0.0232	181.375	german_de_news_2014_00732391
+1933	Auch per Bahn ist die Stadt gut zu erreichen.	per	385	   10,869	0.0232	237.7778	german_de_news_2013_00075641
+1934	Oder per E-Mail an 8989@blick.	per	385	   10,869	0.0232	240.6667	german_de_news_2013_00755688
+1935	Diese können sich per E-Mail melden.	per	385	   10,869	0.0232	267.2857	german_de_news_2015_00353059
+1936	Sie ist auch heute noch im Einsatz.	einsatz	386	   10,868	0.0232	87	german_de_news_2014_00780178
+1937	Der kam aber noch nicht zum Einsatz.	einsatz	386	   10,868	0.0232	108.8571	german_de_news_2014_00255123
+1938	Die Polizei sei im Einsatz.	einsatz	386	   10,868	0.0232	132.2	german_de_news_2015_00342377
+1939	Es kam sogar schon einmal zum Einsatz.	einsatz	386	   10,868	0.0232	164.5714	german_de_news_2014_00469322
+1940	Dort kam er jedoch kaum zum Einsatz.	einsatz	386	   10,868	0.0232	189.7143	german_de_news_2014_00399021
+1941	Das bin ich nicht, und das will ich auch gar nicht sein“, erklärt sie der Zeit.	erklärt	387	   10,812	0.0231	99.3077	german_de_news_2014_00168835
+1942	Dann habe ich es ihr erklärt.	erklärt	387	   10,812	0.0231	114.6667	german_de_news_2014_00158653
+1943	Dann erklärt es uns doch.	erklärt	387	   10,812	0.0231	133	german_de_news_2015_00157673
+1944	Erst dann erklärt er weiter.	erklärt	387	   10,812	0.0231	149.4	german_de_news_2015_00447296
+1945	Warum, das erklärt er recht deutlich.	erklärt	387	   10,812	0.0231	225	german_de_news_2013_00917400
+1946	Sie darf es auch nicht sein.	darf	388	   10,809	0.0231	85.6667	german_de_news_2013_00805171
+1947	«So ist es, und mehr darf ich nicht sagen.»	darf	388	   10,809	0.0231	104.5556	german_de_news_2015_00785950
+1948	Ich darf und will es nicht wissen.	darf	388	   10,809	0.0231	130.1429	german_de_news_2014_00547842
+1949	Was darf's denn sein?	darf	388	   10,809	0.0231	164.2	german_de_news_2014_00892881
+1950	Jeder darf drei Minuten etwas sagen.	darf	388	   10,809	0.0231	266.1667	german_de_news_2015_00606205
+1951	Den gibt es bislang aber nicht.	bislang	389	   10,790	0.023	90.1667	german_de_news_2013_00227833
+1952	«Das ist bislang nicht der Fall gewesen.	bislang	389	   10,790	0.023	133.4286	german_de_news_2015_00181751
+1953	Und bislang geht alles gut.	bislang	389	   10,790	0.023	152.6	german_de_news_2014_00839394
+1954	Das gab es bislang noch nie!	bislang	389	   10,790	0.023	158.5	german_de_news_2015_00174234
+1955	Von diesen seien bislang erst 9600 bekannt.	bislang	389	   10,790	0.023	203	german_de_news_2013_00904179
+1956	Die werden sie auch von den USA bekommen.	bekommen	390	   10,754	0.0229	82.75	german_de_news_2015_00380389
+1957	Russland hat die WM bekommen und so soll es sein.	bekommen	390	   10,754	0.0229	124.4	german_de_news_2015_00743048
+1958	Das sie ihr Geld zurück bekommen ist ja nur gut und recht.	bekommen	390	   10,754	0.0229	135.25	german_de_news_2015_00200064
+1959	Die wissen, was sie dafür bekommen.	bekommen	390	   10,754	0.0229	163.6667	german_de_news_2014_00384528
+1960	Bekommen jetzt alle Kunden Geld zurück?	bekommen	390	   10,754	0.0229	222.1667	german_de_news_2013_00113093
+1961	Und das werden sie auch in Zukunft nicht.	zukunft	391	   10,751	0.0229	61.375	german_de_news_2015_00832473
+1962	Soll das die Zukunft sein?	zukunft	391	   10,751	0.0229	105.2	german_de_news_2014_00797339
+1963	Aber zurück in die Zukunft.	zukunft	391	   10,751	0.0229	130.8	german_de_news_2015_00019048
+1964	Die Zukunft liegt vor ihr.	zukunft	391	   10,751	0.0229	155.4	german_de_news_2014_00386506
+1965	Dieses Land hatte noch nie wirklich Zukunft.	zukunft	391	   10,751	0.0229	215.7143	german_de_news_2013_00379480
+1966	Und nun ist es der Fußball.	fußball	392	   10,747	0.0229	85.3333	german_de_news_2014_00849245
+1967	Und da geht es um Fußball.	fußball	392	   10,747	0.0229	106	german_de_news_2015_00830241
+1968	So kann das gehen im Fußball.“	fußball	392	   10,747	0.0229	123.6667	german_de_news_2013_00824800
+1969	Am Sonntag muss er aber erst mal Fußball spielen.	fußball	392	   10,747	0.0229	159.2222	german_de_news_2013_00050074
+1970	«Wir müssen besser Fußball spielen.	fußball	392	   10,747	0.0229	234	german_de_news_2013_00965284
+1971	«Wir wollen die drei Punkte», sagte er.	punkte	393	   10,726	0.0229	118	german_de_news_2014_00940310
+1972	Aber wenn am Ende drei Punkte stehen.	punkte	393	   10,726	0.0229	138.7143	german_de_news_2014_00017260
+1973	Das ist ein Sechs-Punkte-Spiel.	punkte	393	   10,726	0.0229	156.3333	german_de_news_2015_00183261
+1974	Wir hätten viele Punkte machen können.	punkte	393	   10,726	0.0229	171.5	german_de_news_2015_00926465
+1975	Ohne Punkte ging's zurück.	punkte	393	   10,726	0.0229	260	german_de_news_2014_00725835
+1976	Wenn es erhalten werden kann, soll man es erhalten.	erhalten	394	   10,713	0.0229	97.8571	german_de_news_2014_00908826
+1977	Ja, er kann sie noch nicht mal erhalten.	erhalten	394	   10,713	0.0229	99.875	german_de_news_2013_00639649
+1978	Bislang hat es nur 70 Millionen erhalten.”	erhalten	394	   10,713	0.0229	165.5	german_de_news_2013_00125782
+1979	Bleibt er diesem denn nun erhalten?	erhalten	394	   10,713	0.0229	171.5	german_de_news_2015_00127542
+1980	Wird er Ihnen erhalten bleiben?	erhalten	394	   10,713	0.0229	205	german_de_news_2013_00959793
+1981	Und das dürfte nicht so einfach sein.	dürfte	395	   10,703	0.0228	102.8571	german_de_news_2014_00840795
+1982	Doch ganz so einfach dürfte es nicht werden.	dürfte	395	   10,703	0.0228	115.75	german_de_news_2013_00414069
+1983	«Aber es dürfte sicher nicht ganz einfach werden.»	dürfte	395	   10,703	0.0228	146.5	german_de_news_2014_00012407
+1984	So dürfte es weiter gehen.	dürfte	395	   10,703	0.0228	163	german_de_news_2013_00821394
+1985	Dies dürfte Anfang 2016 der Fall sein.	dürfte	395	   10,703	0.0228	207.8333	german_de_news_2013_00371096
+1986	Den hatten wir auch schon im September.	september	396	   10,698	0.0228	103.2857	german_de_news_2013_00228080
+1987	Das soll in Deutschland ab 4. September der Fall sein.	september	396	   10,698	0.0228	110.6667	german_de_news_2015_00201486
+1988	Im September waren es mit rund 1500 mehr denn je.	september	396	   10,698	0.0228	134	german_de_news_2014_00574854
+1989	Und warum das Ende im September 1986?	september	396	   10,698	0.0228	147.6667	german_de_news_2013_00880291
+1990	Vielleicht sehen wir das im September.	september	396	   10,698	0.0228	172.6667	german_de_news_2015_00861984
+1991	Aber wie ich schon sagte, er ist sehr stark.	stark	397	   10,695	0.0228	88.1111	german_de_news_2013_00019604
+1992	Er ist sehr stark, wenn er von der Bank kommt.	stark	397	   10,695	0.0228	125.2222	german_de_news_2014_00446414
+1993	So stark war er noch nie.	stark	397	   10,695	0.0228	141.6667	german_de_news_2015_00793022
+1994	Wie stark, dazu kann das Unternehmen noch nichts sagen.	stark	397	   10,695	0.0228	153.6667	german_de_news_2015_00918701
+1995	Was macht ihn so stark?	stark	397	   10,695	0.0228	175	german_de_news_2013_00923006
+1996	Von daher ist es gerade wirklich so, dass man nicht immer das haben kann, was man will.	daher	398	   10,628	0.0227	92	german_de_news_2013_00902804
+1997	Von daher hat man sehr viel Macht“, sagte er.	daher	398	   10,628	0.0227	111.7778	german_de_news_2014_00875504
+1998	Daher wird das auch kommen.	daher	398	   10,628	0.0227	129	german_de_news_2015_00148092
+1999	Daher sein Spiel mit den Zahlen.	daher	398	   10,628	0.0227	167.3333	german_de_news_2013_00148793
+2000	Daher ist doch alles klar!	daher	398	   10,628	0.0227	188.8	german_de_news_2013_00148517
