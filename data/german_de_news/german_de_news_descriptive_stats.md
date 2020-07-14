@@ -1,0 +1,53 @@
+# REPORT
+
+- Language:
+	 - `german_de_news`
+- Coverage:
+	 - c("german_de_news_2015", "german_de_news_2013", "german_de_news_2014")
+- Size of the corpus: 
+	 - 46,858,422 tokens (words)
+	 - 2,931,796 sentences
+- Unique tokens (words): 
+	 - 940,222 unique tokens total
+	 - 428,114 unique tokens with frequencies higher than 1
+	 - 305,194 unique tokens with frequencies higher than 2
+	 - 246,199 unique tokens with frequencies higher than 3
+	 - 210,151 unique tokens with frequencies higher than 4
+	 - 185,300 unique tokens with frequencies higher than 5
+	 - 166,590 unique tokens with frequencies higher than 6
+	 - 152,027 unique tokens with frequencies higher than 7
+	 - 140,576 unique tokens with frequencies higher than 8
+	 - 130,844 unique tokens with frequencies higher than 9
+	 - 122,648 unique tokens with frequencies higher than 10
+- Files used:
+	 - `german_de_news_01.csv`
+	 - `german_de_news_02.csv`
+	 - `german_de_news_03.csv`
+	 - `german_de_news_04.csv`
+	 - `german_de_news_05.csv`
+	 - `german_de_news_06.csv`
+	 - `german_de_news_07.csv`
+	 - `german_de_news_08.csv`
+	 - `german_de_news_09.csv`
+	 - `german_de_news_10.csv`
+	 - `german_de_news_11.csv`
+	 - `german_de_news_12.csv`
+	 - `german_de_news_13.csv`
+	 - `german_de_news_14.csv`
+	 - `german_de_news_15.csv`
+	 - `german_de_news_16.csv`
+	 - `german_de_news_17.csv`
+	 - `german_de_news_18.csv`
+	 - `german_de_news_19.csv`
+	 - `german_de_news_20.csv`
+	 - `german_de_news_21.csv`
+	 - `german_de_news_22.csv`
+	 - `german_de_news_23.csv`
+	 - `german_de_news_24.csv`
+	 - `german_de_news_25.csv`
+	 - `german_de_news_26.csv`
+	 - `german_de_news_27.csv`
+	 - `german_de_news_28.csv`
+	 - `german_de_news_29.csv`
+	 - `german_de_news_30.csv`
+
