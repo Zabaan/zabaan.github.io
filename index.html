@@ -20,7 +20,7 @@
     }
     p {
       font-size: 20px;
-      margin: 0;
+      margin: 8%;
       font-size: calc(4vw + 4vh + 2vmin);
     }
 
@@ -48,15 +48,13 @@
 <div class="container">
   <div class="row">
       <center>
-
         <div class="dropdown">
-          <select onchange="drop()" id="langselect">
+          <select onchange="drop()" id="langselect" style="margin: 2%";>
             <option><a href="#">German_Austrian</a></option>
             <option><a href="#">German_Germany</a></option>
             <option><a href="#">Persian</a></option>
           </select>
         </div>
-        <br>
 
         <button type="button" name="previous" class="btn btn-success" onclick="previousSentence()">PREVIOUS</button>
         <button type="button" name="tag" class="btn btn-success" onclick="tagSentence()">TAG</button>
@@ -67,17 +65,6 @@
       <p align="center" id="sentence">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <!-- <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p> -->
     </div>
-
-    <!-- <div class="col-sm-4">
-      <h3>Column 2</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
-    </div>
-    <div class="col-sm-4">
-      <h3>Column 3</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
-    </div> -->
     <div align="center">@ zabaan.github.io</div>
   </div>
 </div>
@@ -89,7 +76,7 @@ this.lang = "";
 var cnt;
 function load_corpus(lang) {
   this.lang = lang;
-  $("#sentence").css("direction","ltr").css("font-family","OldStandardTT")
+  $("#sentence").css("direction","ltr").css("font-family","Old Standard TT")
   if(lang == "Persian") $("#sentence").css("direction","rtl").css("font-family","Amiri")
 
   this.mydata = [];
@@ -127,6 +114,15 @@ function drop() {
 
 
 load_corpus("German_Germany");
+  
+document.addEventListener('keydown', function(event) {
+    if (event.keyCode == 37) {
+        previousSentence();
+    }
+    else if (event.keyCode == 39) {
+        nextSentence();
+    }
+}, true);
 </script>
 </body>
 </html>
