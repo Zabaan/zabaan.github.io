@@ -5,8 +5,8 @@ this.lang = "";
 var cnt;
 function load_corpus(lang) {
   this.lang = lang;
-  $("#sentence").css("direction","ltr").css("font-family","Old Standard TT")
   if(lang == "Persian") $("#sentence").css("direction","rtl").css("font-family","Amiri")
+  else $("#sentence").css("direction","ltr").css("font-family","Old Standard TT");
 
   this.mydata = [];
   if(localStorage[lang+zabancntstr]) cnt = localStorage.getItem(lang+zabancntstr);
