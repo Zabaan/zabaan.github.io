@@ -1,0 +1,29 @@
+@font-face {
+  font-family: BNazanin; src: url('./fonts/bnazanin.ttf');
+}
+  body {
+    color: slategray;
+    font-family: 'Old Standard TT';
+    line-height: 1.2;
+  }
+  p {
+    font-size: 20px;
+    margin: 8%;
+    font-size: calc(4vw + 4vh + 2vmin);
+  }
+
+  #LTR {
+    direction: ltr;
+    font-size: 20px;
+    margin: 0;
+    font-size: calc(4vw + 4vh + 2vmin);
+    font-family: "Baskerville", "Georgia";
+  }
+
+  #RTL {
+    direction: rtl;
+    font-size: 20px;
+    margin: 0;
+    font-size: calc(4vw + 4vh + 2vmin);
+    font-family: "Amiri", "GeezaPro";
+  }
