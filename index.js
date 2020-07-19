@@ -1,7 +1,7 @@
 $.get('scripts/languages.csv', function(data) {
   data.split("\n").forEach(function(lang){
-    $('#main_div').append('<div class="col-sm-2" style="border:solid 1px" onclick="langclicked(\''+lang+'\')"><h3>'
-              + lang + '</h3></div>')
+    $('#main_div').append('<li class="list-group-item" onclick="langclicked(\''+lang+'\')"><h3>'
+              + lang + '</h3></li>')
   });
 });
 
