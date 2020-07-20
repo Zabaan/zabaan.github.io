@@ -1,0 +1,1001 @@
+ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
+1	En het is niet de eerste keer dat de man, die op.	Y	de	1	3,016,688	6.2694	33	nld_news_2019_00352679
+2	Wat doen al die mensen dan ook op de weg?	Y	de	1	3,016,688	6.2694	47.2	nld_news_2015_00925050
+3	Hij wil dat de politie er werk van gaat maken.	Y	de	1	3,016,688	6.2694	57.7	nld_news_2016_00513702
+4	Het is voor mij de tweede keer in dit land.	Y	de	1	3,016,688	6.2694	65	nld_news_2016_00459723
+5	De gemeente wil nu het geld terug van de man.	Y	de	1	3,016,688	6.2694	79	nld_news_2019_00178706
+6	Van dat is voor dat, dat is voor dat, dat is voor dat.	Y	van	2	1,444,049	3.0011	7.5	nld_news_2019_00858183
+7	'Ze doen er alles voor om van de wereld te zijn.	Y	van	2	1,444,049	3.0011	49.2727	nld_news_2015_00960205
+8	En ik wil niet dat mensen dat weten van mij.	Y	van	2	1,444,049	3.0011	61	nld_news_2015_00350116
+9	"""We zijn tot op de dag van vandaag nog steeds samen."""""""	Y	van	2	1,444,049	3.0011	71.5455	nld_news_2015_00946128
+10	Ik wil nooit van mijn leven terug naar dat land.	Y	van	2	1,444,049	3.0011	82.1	nld_news_2016_00549726
+11	En als ik het niet meer zou kunnen, dat het zo moet zijn.	Y	het	3	1,386,399	2.8813	29.5	nld_news_2016_00346652
+12	Hij is het niet en zal het ook nooit worden.	Y	het	3	1,386,399	2.8813	43	nld_news_2015_00505477
+13	Je komt alleen en je gaat alleen, in het leven.	Y	het	3	1,386,399	2.8813	50.875	nld_news_2019_00594722
+14	Maakt niet uit wat en waar het tweede land is.	Y	het	3	1,386,399	2.8813	62	nld_news_2015_00632349
+15	"""""""Over hoe wij hier in Nederland in het leven staan."""	Y	het	3	1,386,399	2.8813	79.2222	nld_news_2015_00773746
+16	Het is tijd om een andere weg op te gaan.	Y	een	4	1,184,340	2.4613	42.7	nld_news_2016_00458795
+17	Doen we een keer wat, is het weer niet goed.	Y	een	4	1,184,340	2.4613	49.4	nld_news_2016_00303614
+18	Dat is meer dan 100 miljoen meer dan een jaar eerder.	Y	een	4	1,184,340	2.4613	54.75	nld_news_2016_00131988
+19	Een vrouw moet kinderen krijgen ook als ze dat niet wil.	Y	een	4	1,184,340	2.4613	65.6364	nld_news_2016_00337620
+20	Binnen een week willen we weten waar we aan toe zijn.”	Y	een	4	1,184,340	2.4613	85.8	nld_news_2019_00061857
+21	Wat in is, zal uit zijn en wat uit is, wordt in.	Y	in	5	1,172,966	2.4377	28.125	nld_news_2019_00921347
+22	‘In Nederland weten ze wel dat het niet waar was.	Y	in	5	1,172,966	2.4377	45.6	nld_news_2019_00578096
+23	'En laat nu maar zien dat het ook in het groot kan.'	Y	in	5	1,172,966	2.4377	58.3636	nld_news_2019_00356223
+24	Het is voor mij de tweede keer in dit land.	Y	in	5	1,172,966	2.4377	65	nld_news_2016_00459723
+25	Ik moet steeds meer werk doen in steeds minder tijd.	Y	in	5	1,172,966	2.4377	88.5556	nld_news_2016_00543589
+26	Die zijn er nog niet en komen er ook niet.	Y	en	6	  988,893	2.0552	25.875	nld_news_2015_00284571
+27	Het is alleen maar ik, ik. en nog eens ik.	Y	en	6	  988,893	2.0552	39	nld_news_2015_00452777
+28	Wij hebben het met u te doen en u heeft het met ons te doen.	Y	en	6	  988,893	2.0552	54.7	nld_news_2016_00950321
+29	En dat is dus van maandag tot en met donderdag.	Y	en	6	  988,893	2.0552	64.3333	nld_news_2019_00347873
+30	Deze week staat hij er vier keer; dinsdag, donderdag, zaterdag en zondag.	Y	en	6	  988,893	2.0552	112.5	nld_news_2019_00273046
+31	En het is niet de eerste keer dat de man, die op.	Y	op	7	  661,627	1.375	33	nld_news_2019_00352679
+32	Het is tijd om een andere weg op te gaan.	Y	op	7	  661,627	1.375	42.7	nld_news_2016_00458795
+33	Dit staat bij ons dan ook op de eerste plaats.	Y	op	7	  661,627	1.375	53.8	nld_news_2016_00300368
+34	"""""""Het komt zelfs niet in mij op om dat te willen."""""""	Y	op	7	  661,627	1.375	61.4545	nld_news_2016_00462553
+35	"""We zijn tot op de dag van vandaag nog steeds samen."""""""	Y	op	7	  661,627	1.375	71.5455	nld_news_2015_00946128
+36	Van dat is voor dat, dat is voor dat, dat is voor dat.	Y	is	8	  633,066	1.3157	7.5	nld_news_2019_00858183
+37	Het is alleen maar ik, ik. en nog eens ik.	Y	is	8	  633,066	1.3157	39	nld_news_2015_00452777
+38	Dat is zo, dat was toen zo en dat is nog steeds zo.	Y	is	8	  633,066	1.3157	45.25	nld_news_2015_00124370
+39	Dat is nu wat ik wil doen voor ons land.	Y	is	8	  633,066	1.3157	55.9	nld_news_2019_00118250
+40	Laat maar zien hoe en vooral waar de 5 miljoen terug te zien is.	Y	is	8	  633,066	1.3157	76.9167	nld_news_2016_00618963
+41	Van dat is voor dat, dat is voor dat, dat is voor dat.	Y	dat	9	  608,776	1.2652	7.5	nld_news_2019_00858183
+42	Doen ze dat niet, dan moeten ze uit de euro.	Y	dat	9	  608,776	1.2652	42.5556	nld_news_2016_00303628
+43	Dat weten ze niet en wat ze gaan doen, weten ze ook niet.	Y	dat	9	  608,776	1.2652	49.8889	nld_news_2015_00136152
+44	"""""""Het komt zelfs niet in mij op om dat te willen."""""""	Y	dat	9	  608,776	1.2652	61.4545	nld_news_2016_00462553
+45	Ik wil nooit van mijn leven terug naar dat land.	Y	dat	9	  608,776	1.2652	82.1	nld_news_2016_00549726
+46	"""""""Het is goed om het er met elkaar over te hebben."""	Y	te	10	  502,080	1.0434	37.6	nld_news_2019_00438479
+47	Dan gaan we er wat aan doen, maar dan is het al te laat.	Y	te	10	  502,080	1.0434	44.0769	nld_news_2019_00098563
+48	Dan heb je het dus, maar wat er mee te doen?	Y	te	10	  502,080	1.0434	54.3636	nld_news_2019_00098970
+49	"""""""Het komt zelfs niet in mij op om dat te willen."""""""	Y	te	10	  502,080	1.0434	61.4545	nld_news_2016_00462553
+50	We weten het niet en zullen het nooit te weten komen.	Y	te	10	  502,080	1.0434	77.7778	nld_news_2016_00943108
+51	Van dat is voor dat, dat is voor dat, dat is voor dat.	Y	voor	11	  474,467	0.9861	7.5	nld_news_2019_00858183
+52	Als ik nu weer door zou gaan, dan zou het voor vier jaar zijn.	Y	voor	11	  474,467	0.9861	47.6923	nld_news_2019_00024650
+53	"""""""Voor ons kan het toch niet minder dan dit worden."""	Y	voor	11	  474,467	0.9861	57	nld_news_2019_00901401
+54	“We doen er alles aan om dat voor elkaar te krijgen.”	Y	voor	11	  474,467	0.9861	63.0909	nld_news_2016_00929656
+55	Alles samen zijn die goed voor nog eens 130 miljoen euro.	Y	voor	11	  474,467	0.9861	87.1	nld_news_2015_00018892
+56	Die zijn er nog niet en komen er ook niet.	Y	zijn	12	  464,504	0.9654	25.875	nld_news_2015_00284571
+57	Ze zijn er wel, alleen worden ze maar niet van mij.	Y	zijn	12	  464,504	0.9654	46.4	nld_news_2016_00974913
+58	Er zijn hier veel mensen die wel willen maar niet kunnen en net zo veel mensen die wel kunnen maar niet willen.’	Y	zijn	12	  464,504	0.9654	55.0714	nld_news_2019_00374947
+59	Het kan van alles zijn dat we hier kunnen laten zien.	Y	zijn	12	  464,504	0.9654	64.9091	nld_news_2015_00464974
+60	Alles samen zijn die goed voor nog eens 130 miljoen euro.	Y	zijn	12	  464,504	0.9654	87.1	nld_news_2015_00018892
+61	"""""""Het is goed om het er met elkaar over te hebben."""	Y	met	13	  458,590	0.9531	37.6	nld_news_2019_00438479
+62	Met een vrouw en kinderen is het niet te doen.'	Y	met	13	  458,590	0.9531	49.7	nld_news_2015_00670113
+63	'Het maakt niet uit met wat voor mensen ik werk.	Y	met	13	  458,590	0.9531	57.9	nld_news_2016_00466126
+64	Nu moeten we het zien af te maken met elkaar.”	Y	met	13	  458,590	0.9531	65.5	nld_news_2016_00715371
+65	"""""""Want alles wat we hier doen, doen we met elkaar."""	Y	met	13	  458,590	0.9531	98.875	nld_news_2016_00919615
+66	Die zijn er nog niet en komen er ook niet.	Y	die	14	  386,664	0.8036	25.875	nld_news_2015_00284571
+67	Maar het was niet aan mij om die te doen.'	Y	die	14	  386,664	0.8036	42.1	nld_news_2016_00640586
+68	Toch zijn er mensen die daar niet aan mee doen.	Y	die	14	  386,664	0.8036	52	nld_news_2019_00832783
+69	‘Maar er zijn altijd mensen die niet mee willen komen.	Y	die	14	  386,664	0.8036	62.1	nld_news_2016_00638246
+70	Alles samen zijn die goed voor nog eens 130 miljoen euro.	Y	die	14	  386,664	0.8036	87.1	nld_news_2015_00018892
+71	Die zijn er nog niet en komen er ook niet.	Y	niet	15	  364,080	0.7566	25.875	nld_news_2015_00284571
+72	Hij is het niet en zal het ook nooit worden.	Y	niet	15	  364,080	0.7566	43	nld_news_2015_00505477
+73	Dat weten ze niet en wat ze gaan doen, weten ze ook niet.	Y	niet	15	  364,080	0.7566	49.8889	nld_news_2015_00136152
+74	‘Maar er zijn altijd mensen die niet mee willen komen.	Y	niet	15	  364,080	0.7566	62.1	nld_news_2016_00638246
+75	We weten het niet en zullen het nooit te weten komen.	Y	niet	15	  364,080	0.7566	77.7778	nld_news_2016_00943108
+76	Maar als ze dat niet doen, wat kan ik daar dan nog aan doen?	Y	aan	16	  297,176	0.6176	35.7692	nld_news_2019_00628606
+77	Dan gaan we er wat aan doen, maar dan is het al te laat.	Y	aan	16	  297,176	0.6176	44.0769	nld_news_2019_00098563
+78	Dus het werd tijd om daar wat aan te doen.”	Y	aan	16	  297,176	0.6176	50.1	nld_news_2015_00307558
+79	En veel mensen weten niet waar ze aan toe zijn.”	Y	aan	16	  297,176	0.6176	57.3	nld_news_2016_00361690
+80	Binnen een week willen we weten waar we aan toe zijn.”	Y	aan	16	  297,176	0.6176	85.8	nld_news_2019_00061857
+81	Die zijn er nog niet en komen er ook niet.	Y	er	17	  280,648	0.5833	25.875	nld_news_2015_00284571
+82	Als dat er nooit meer van komt, dan komt het er nooit meer van.	Y	er	17	  280,648	0.5833	45.7778	nld_news_2019_00018460
+83	Toch zijn er mensen die daar niet aan mee doen.	Y	er	17	  280,648	0.5833	52	nld_news_2019_00832783
+84	“We doen er alles aan om dat voor elkaar te krijgen.”	Y	er	17	  280,648	0.5833	63.0909	nld_news_2016_00929656
+85	Deze week staat hij er vier keer; dinsdag, donderdag, zaterdag en zondag.	Y	er	17	  280,648	0.5833	112.5	nld_news_2019_00273046
+86	"""""""Het is goed om het er met elkaar over te hebben."""	Y	om	18	  275,508	0.5726	37.6	nld_news_2019_00438479
+87	‘Op zich is het me daar ook niet om te doen.	Y	om	18	  275,508	0.5726	43.4545	nld_news_2016_00768470
+88	En er is geen geld over om er iets aan te doen.	Y	om	18	  275,508	0.5726	49.4545	nld_news_2015_00347494
+89	“De wil om het af te maken is heel groot”	Y	om	18	  275,508	0.5726	60.1	nld_news_2019_00265538
+90	Ze hebben veel minder tijd om het werk zelf te doen.”	Y	om	18	  275,508	0.5726	72.9091	nld_news_2016_00962576
+91	Het moet niet goed zijn, als het maar veel is.	Y	maar	19	  257,408	0.535	30.5556	nld_news_2016_00467946
+92	Maar laten we er eens van uit gaan dat het wel zo is.	Y	maar	19	  257,408	0.535	42.3846	nld_news_2019_00641825
+93	Het gaat er dan niet meer om of we het moeten doen, maar hoe we het zullen doen.	Y	maar	19	  257,408	0.535	52.1429	nld_news_2015_00443753
+94	‘Maar er zijn altijd mensen die niet mee willen komen.	Y	maar	19	  257,408	0.535	62.1	nld_news_2016_00638246
+95	Laat maar zien hoe en vooral waar de 5 miljoen terug te zien is.	Y	maar	19	  257,408	0.535	76.9167	nld_news_2016_00618963
+96	Die zijn er nog niet en komen er ook niet.	Y	ook	20	  250,968	0.5216	25.875	nld_news_2015_00284571
+97	Kan het zo met het leven zelf ook niet zijn?	Y	ook	20	  250,968	0.5216	44.2222	nld_news_2016_00607105
+98	Dit staat bij ons dan ook op de eerste plaats.	Y	ook	20	  250,968	0.5216	53.8	nld_news_2016_00300368
+99	Dan moeten ze dit ook mogelijk kunnen maken,'' zegt hij.	Y	ook	20	  250,968	0.5216	62.3	nld_news_2016_00115665
+100	Een vrouw moet kinderen krijgen ook als ze dat niet wil.	Y	ook	20	  250,968	0.5216	65.6364	nld_news_2016_00337620
+101	En als ik het niet meer zou kunnen, dat het zo moet zijn.	Y	als	21	  244,784	0.5087	29.5	nld_news_2016_00346652
+102	Als die over de 75% gaan, dan gaan ze het doen.	Y	als	21	  244,784	0.5087	33.1111	nld_news_2016_00032166
+103	Maar als we elkaar zien dan hebben we het er wel over.	Y	als	21	  244,784	0.5087	47.4545	nld_news_2015_00633951
+104	En als het moet, gaat het 24 uur per dag door.	Y	als	21	  244,784	0.5087	64.8889	nld_news_2019_00344496
+105	'Gaat het met mijn kinderen wel net zo goed als met mij?'	Y	als	21	  244,784	0.5087	77.9091	nld_news_2016_00387605
+106	Hij is het niet en zal het ook nooit worden.	Y	hij	22	  232,232	0.4826	43	nld_news_2015_00505477
+107	Hij zei nog niet, maar dat dat niet door kan gaan.	Y	hij	22	  232,232	0.4826	49.5556	nld_news_2019_00503311
+108	Hij wil dat de politie er werk van gaat maken.	Y	hij	22	  232,232	0.4826	57.7	nld_news_2016_00513702
+109	Dan moeten ze dit ook mogelijk kunnen maken,'' zegt hij.	Y	hij	22	  232,232	0.4826	62.3	nld_news_2016_00115665
+110	Deze week staat hij er vier keer; dinsdag, donderdag, zaterdag en zondag.	Y	hij	22	  232,232	0.4826	112.5	nld_news_2019_00273046
+111	Nu hebben ze door dat ze er op tijd bij moeten zijn.»	Y	bij	23	  226,357	0.4704	34.1818	nld_news_2019_00712905
+112	"""""""Want er komt een tijd en dan ben ik er niet meer bij en dan moet het ook door kunnen."""""""	Y	bij	23	  226,357	0.4704	46.7059	nld_news_2015_00921595
+113	Komt nog eens bij dat we niet meer op de laatste plaats staan.	Y	bij	23	  226,357	0.4704	60.4615	nld_news_2019_00612109
+114	Daar kwam nog een vrouw en toen nog een vrouw bij.	Y	bij	23	  226,357	0.4704	70.5	nld_news_2019_00085211
+115	"""""""Er zijn hier heel veel mensen bij elkaar die er werk van willen maken."""	Y	bij	23	  226,357	0.4704	75.1538	nld_news_2019_00374941
+116	En als ik het niet meer zou kunnen, dat het zo moet zijn.	Y	ik	24	  220,706	0.4587	29.5	nld_news_2016_00346652
+117	"""""""Want er komt een tijd en dan ben ik er niet meer bij en dan moet het ook door kunnen."""""""	Y	ik	24	  220,706	0.4587	46.7059	nld_news_2015_00921595
+118	'Het maakt niet uit met wat voor mensen ik werk.	Y	ik	24	  220,706	0.4587	57.9	nld_news_2016_00466126
+119	"""""""Ik wil dat mijn kinderen op de eerste plaats komen."""	Y	ik	24	  220,706	0.4587	65.8	nld_news_2019_00542301
+120	Ik moet steeds meer werk doen in steeds minder tijd.	Y	ik	24	  220,706	0.4587	88.5556	nld_news_2016_00543589
+121	En als ze dat dan doen, is het niet goed.	Y	ze	25	  195,219	0.4057	29.7	nld_news_2015_00341089
+122	Doen ze dat niet, dan moeten ze uit de euro.	Y	ze	25	  195,219	0.4057	42.5556	nld_news_2016_00303628
+123	En veel mensen weten niet waar ze aan toe zijn.”	Y	ze	25	  195,219	0.4057	57.3	nld_news_2016_00361690
+124	Maar ze weten niet waar ik naar op weg ben.	Y	ze	25	  195,219	0.4057	64.3	nld_news_2019_00650485
+125	Ze was er, ze ging weg en kwam weer terug.	Y	ze	25	  195,219	0.4057	86.1111	nld_news_2019_00971959
+126	Wat in is, zal uit zijn en wat uit is, wordt in.	Y	uit	26	  193,931	0.403	28.125	nld_news_2019_00921347
+127	Doen ze dat niet, dan moeten ze uit de euro.	Y	uit	26	  193,931	0.403	42.5556	nld_news_2016_00303628
+128	"""Maar nu moeten we er met elkaar uit zien te komen."""""""	Y	uit	26	  193,931	0.403	55.6364	nld_news_2019_00643667
+129	Zoals het nu gaat in de Euro komen ze er nooit uit.	Y	uit	26	  193,931	0.403	58.6667	nld_news_2015_00986367
+130	"""""""Als je hier staat, moet je alles kunnen, dus maakt het niet uit."""	Y	uit	26	  193,931	0.403	74	nld_news_2019_00026312
+131	'Niet dat ik er iets tegen heb, maar ze heeft het niet.'	Y	heeft	27	  191,978	0.399	40.1818	nld_news_2019_00703170
+132	Als hij het niet heeft, dan vindt hij het voor je.	Y	heeft	27	  191,978	0.399	43.8889	nld_news_2019_00023366
+133	Ze moet dat niet van haar man, want ze heeft geen man.	Y	heeft	27	  191,978	0.399	48.6	nld_news_2015_00968438
+134	Wij hebben het met u te doen en u heeft het met ons te doen.	Y	heeft	27	  191,978	0.399	54.7	nld_news_2016_00950321
+135	Het heeft er veel van dat er iets aan de hand is.	Y	heeft	27	  191,978	0.399	58.6364	nld_news_2019_00429419
+136	Dan is het weer tijd om naar huis te gaan.	Y	naar	28	  181,036	0.3762	54.4	nld_news_2019_00099638
+137	Je kan er niet zeker van zijn dat je geld gaat naar waar het zou moeten gaan.	Y	naar	28	  181,036	0.3762	56.5625	nld_news_2015_00600091
+138	En ook het laatste voor ze weer naar huis gaan.	Y	naar	28	  181,036	0.3762	58.2	nld_news_2015_00354306
+139	Het is niet de eerste en zal ook niet de laatste keer zijn dat iemand van 010 naar 020 of terug gaat.	Y	naar	28	  181,036	0.3762	60.7778	nld_news_2016_00456389
+140	Maar ze weten niet waar ik naar op weg ben.	Y	naar	28	  181,036	0.3762	64.3	nld_news_2019_00650485
+141	Wat moet je dan, als je er niet over gaat?	Y	je	29	  180,772	0.3757	35.4444	nld_news_2015_00928372
+142	Het gaat niet om hoe je het zegt, maar om wat je zegt.	Y	je	29	  180,772	0.3757	40.8889	nld_news_2016_00441070
+143	Je komt alleen en je gaat alleen, in het leven.	Y	je	29	  180,772	0.3757	50.875	nld_news_2019_00594722
+144	In Nederland kan je doen en laten wat je wil.	Y	je	29	  180,772	0.3757	59.1111	nld_news_2019_00577895
+145	"""""""Als je hier staat, moet je alles kunnen, dus maakt het niet uit."""	Y	je	29	  180,772	0.3757	74	nld_news_2019_00026312
+146	Nu hebben ze door dat ze er op tijd bij moeten zijn.»	Y	door	30	  179,220	0.3725	34.1818	nld_news_2019_00712905
+147	"""""""Want er komt een tijd en dan ben ik er niet meer bij en dan moet het ook door kunnen."""""""	Y	door	30	  179,220	0.3725	46.7059	nld_news_2015_00921595
+148	Als ik nu weer door zou gaan, dan zou het voor vier jaar zijn.	Y	door	30	  179,220	0.3725	47.6923	nld_news_2019_00024650
+149	Hij zei nog niet, maar dat dat niet door kan gaan.	Y	door	30	  179,220	0.3725	49.5556	nld_news_2019_00503311
+150	En als het moet, gaat het 24 uur per dag door.	Y	door	30	  179,220	0.3725	64.8889	nld_news_2019_00344496
+151	En dat heb ik er nu nog niet voor over.”	Y	over	31	  171,958	0.3574	31.5	nld_news_2019_00347664
+152	Wat moet je dan, als je er niet over gaat?	Y	over	31	  171,958	0.3574	35.4444	nld_news_2015_00928372
+153	Maar als we elkaar zien dan hebben we het er wel over.	Y	over	31	  171,958	0.3574	47.4545	nld_news_2015_00633951
+154	Al was hij de laatste jaren nog maar alleen over.	Y	over	31	  171,958	0.3574	51.6	nld_news_2016_00043026
+155	"""""""Over hoe wij hier in Nederland in het leven staan."""	Y	over	31	  171,958	0.3574	79.2222	nld_news_2015_00773746
+156	Die zijn er nog niet en komen er ook niet.	Y	nog	32	  169,479	0.3522	25.875	nld_news_2015_00284571
+157	Mijn leven was mijn leven, en dat is het nu nog.	Y	nog	32	  169,479	0.3522	38.5556	nld_news_2015_00676132
+158	"""""""Zo van: dat gaan we nog een keer goed doen."""	Y	nog	32	  169,479	0.3522	50.4	nld_news_2019_00995829
+159	"""Ik ben nog steeds de laatste die dit heeft kunnen doen."""""""	Y	nog	32	  169,479	0.3522	63.9091	nld_news_2019_00521226
+160	Alles samen zijn die goed voor nog eens 130 miljoen euro.	Y	nog	32	  169,479	0.3522	87.1	nld_news_2015_00018892
+161	Dat was in 2000 zo en dat is nog steeds zo.	Y	was	33	  164,251	0.3414	33.875	nld_news_2015_00135047
+162	Maar het was niet aan mij om die te doen.'	Y	was	33	  164,251	0.3414	42.1	nld_news_2016_00640586
+163	‘In Nederland weten ze wel dat het niet waar was.	Y	was	33	  164,251	0.3414	45.6	nld_news_2019_00578096
+164	De laatste dag van het jaar was niet altijd de laatste.	Y	was	33	  164,251	0.3414	54.7778	nld_news_2016_00207230
+165	Ze was er, ze ging weg en kwam weer terug.	Y	was	33	  164,251	0.3414	86.1111	nld_news_2019_00971959
+166	En als ze dat dan doen, is het niet goed.	Y	dan	34	  155,961	0.3241	29.7	nld_news_2015_00341089
+167	Dan gaan we er wat aan doen, maar dan is het al te laat.	Y	dan	34	  155,961	0.3241	44.0769	nld_news_2019_00098563
+168	Als hij zo is, wie zegt dan dat wij niet zo zijn?	Y	dan	34	  155,961	0.3241	47.7273	nld_news_2016_00035271
+169	Dan moeten ze dit ook mogelijk kunnen maken,'' zegt hij.	Y	dan	34	  155,961	0.3241	62.3	nld_news_2016_00115665
+170	Toch weten veel mensen niet hoe het dan verder moet.	Y	dan	34	  155,961	0.3241	74.9	nld_news_2015_00836729
+171	Als die man of vrouw het kan, kan ik het ook.	Y	of	35	  135,756	0.2821	51.7778	nld_news_2016_00032130
+172	Het gaat er dan niet meer om of we het moeten doen, maar hoe we het zullen doen.	Y	of	35	  135,756	0.2821	52.1429	nld_news_2015_00443753
+173	‘We zullen zien of het er van komt’, zegt hij.	Y	of	35	  135,756	0.2821	58.9	nld_news_2016_00946093
+174	Want dan wil je weten is of er daar ook leven is.”	Y	of	35	  135,756	0.2821	64.6364	nld_news_2019_00915299
+175	Zij weten wie ik ben of wat ik wil zijn.	Y	of	35	  135,756	0.2821	81.6667	nld_news_2016_00984294
+176	Als ik nu weer door zou gaan, dan zou het voor vier jaar zijn.	Y	jaar	36	  135,642	0.2819	47.6923	nld_news_2019_00024650
+177	Dat is meer dan 100 miljoen meer dan een jaar eerder.	Y	jaar	36	  135,642	0.2819	54.75	nld_news_2016_00131988
+178	Ook al zou het maar één keer per jaar zijn?	Y	jaar	36	  135,642	0.2819	62.7	nld_news_2016_00739840
+179	'Als het zo verder gaat, ben ik over twee jaar weg.	Y	jaar	36	  135,642	0.2819	68	nld_news_2015_00025598
+180	'We hebben de laatste drie jaar veel laten zien', zei hij.	Y	jaar	36	  135,642	0.2819	78.2727	nld_news_2016_00932076
+181	Maar laten we er eens van uit gaan dat het wel zo is.	Y	we	37	  131,582	0.2735	42.3846	nld_news_2019_00641825
+182	Het gaat er dan niet meer om of we het moeten doen, maar hoe we het zullen doen.	Y	we	37	  131,582	0.2735	52.1429	nld_news_2015_00443753
+183	Het kan van alles zijn dat we hier kunnen laten zien.	Y	we	37	  131,582	0.2735	64.9091	nld_news_2015_00464974
+184	"""We leven van uur tot uur, van dag tot dag."""""""	Y	we	37	  131,582	0.2735	73.8333	nld_news_2019_00932287
+185	"""""""Want alles wat we hier doen, doen we met elkaar."""	Y	we	37	  131,582	0.2735	98.875	nld_news_2016_00919615
+186	Is het daar ook al niet veel te laat voor?	Y	al	38	  131,551	0.2734	40.6	nld_news_2019_00587851
+187	Dan gaan we er wat aan doen, maar dan is het al te laat.	Y	al	38	  131,551	0.2734	44.0769	nld_news_2019_00098563
+188	Wat doen al die mensen dan ook op de weg?	Y	al	38	  131,551	0.2734	47.2	nld_news_2015_00925050
+189	Al was hij de laatste jaren nog maar alleen over.	Y	al	38	  131,551	0.2734	51.6	nld_news_2016_00043026
+190	We weten alles al wat we willen weten van deze man.	Y	al	38	  131,551	0.2734	81.7778	nld_news_2016_00943023
+191	En als ik het niet meer zou kunnen, dat het zo moet zijn.	Y	meer	39	  131,520	0.2733	29.5	nld_news_2016_00346652
+192	"""""""Want er komt een tijd en dan ben ik er niet meer bij en dan moet het ook door kunnen."""""""	Y	meer	39	  131,520	0.2733	46.7059	nld_news_2015_00921595
+193	Komt nog eens bij dat we niet meer op de laatste plaats staan.	Y	meer	39	  131,520	0.2733	60.4615	nld_news_2019_00612109
+194	Er zijn heel wat meer mensen die geld willen zien.	Y	meer	39	  131,520	0.2733	71.2	nld_news_2019_00374922
+195	Ik moet steeds meer werk doen in steeds minder tijd.	Y	meer	39	  131,520	0.2733	88.5556	nld_news_2016_00543589
+196	Hij is het niet en zal het ook nooit worden.	Y	worden	40	  129,200	0.2685	43	nld_news_2015_00505477
+197	Ze zijn er wel, alleen worden ze maar niet van mij.	Y	worden	40	  129,200	0.2685	46.4	nld_news_2016_00974913
+198	Wij gaan er van uit dat het er nog meer zullen worden.'	Y	worden	40	  129,200	0.2685	50.9091	nld_news_2015_00950478
+199	Ze doen het om er zelf beter van te worden.	Y	worden	40	  129,200	0.2685	56.3	nld_news_2019_00958155
+200	"""""""Voor ons kan het toch niet minder dan dit worden."""	Y	worden	40	  129,200	0.2685	57	nld_news_2019_00901401
+201	Nu hebben ze door dat ze er op tijd bij moeten zijn.»	Y	hebben	41	  126,250	0.2624	34.1818	nld_news_2019_00712905
+202	"""""""Het is goed om het er met elkaar over te hebben."""	Y	hebben	41	  126,250	0.2624	37.6	nld_news_2019_00438479
+203	Maar als we elkaar zien dan hebben we het er wel over.	Y	hebben	41	  126,250	0.2624	47.4545	nld_news_2015_00633951
+204	We hebben laten zien: hier staan wij voor en we hebben er wat voor over.	Y	hebben	41	  126,250	0.2624	67.5833	nld_news_2019_00929288
+205	'We hebben de laatste drie jaar veel laten zien', zei hij.	Y	hebben	41	  126,250	0.2624	78.2727	nld_news_2016_00932076
+206	Wat in is, zal uit zijn en wat uit is, wordt in.	Y	wordt	42	  123,361	0.2564	28.125	nld_news_2019_00921347
+207	En het is nog niet zo als het moet zijn, maar het wordt beter.”	Y	wordt	42	  123,361	0.2564	41.5	nld_news_2016_00354213
+208	Zij wordt dit jaar 80, ik 50, en je zou kunnen zeggen dat 1968 ons jaar is.	Y	wordt	42	  123,361	0.2564	56.5385	nld_news_2019_00984398
+209	Maar ik ga er van uit dat het een 7 wordt.’	Y	wordt	42	  123,361	0.2564	70.5	nld_news_2016_00641850
+210	Maar toch, het leven wordt nooit meer zoals het was.	Y	wordt	42	  123,361	0.2564	75.1111	nld_news_2016_00648466
+211	En als ik het niet meer zou kunnen, dat het zo moet zijn.	Y	zo	43	  120,087	0.2496	29.5	nld_news_2016_00346652
+212	Kan het zo met het leven zelf ook niet zijn?	Y	zo	43	  120,087	0.2496	44.2222	nld_news_2016_00607105
+213	Als hij zo is, wie zegt dan dat wij niet zo zijn?	Y	zo	43	  120,087	0.2496	47.7273	nld_news_2016_00035271
+214	"""Ik kan ook niet zo goed zien als andere kinderen."""""""	Y	zo	43	  120,087	0.2496	59.1	nld_news_2016_00541394
+215	'Gaat het met mijn kinderen wel net zo goed als met mij?'	Y	zo	43	  120,087	0.2496	77.9091	nld_news_2016_00387605
+216	Dit zijn de mensen van wie we het moeten hebben.	Y	dit	44	  119,453	0.2483	42.5	nld_news_2016_00302019
+217	"""""""Voor ons kan het toch niet minder dan dit worden."""	Y	dit	44	  119,453	0.2483	57	nld_news_2019_00901401
+218	Maar die mensen weten niet dat dit mijn werk is.”	Y	dit	44	  119,453	0.2483	59.7	nld_news_2019_00633641
+219	"""Ik ben nog steeds de laatste die dit heeft kunnen doen."""""""	Y	dit	44	  119,453	0.2483	63.9091	nld_news_2019_00521226
+220	Wat zien wij daar nu van terug? hoe moeten we dit zien?	Y	dit	44	  119,453	0.2483	74.8182	nld_news_2016_00928548
+221	Tot nu toe is er niet veel meer dan dat.	Y	tot	45	  115,696	0.2404	42.6	nld_news_2019_00839967
+222	Van 18.30 tot 19.30 uur voor kinderen van 5 tot en met 7 jaar en 8 tot en met 12 jaar.	Y	tot	45	  115,696	0.2404	45.125	nld_news_2016_00858158
+223	Zaterdag van 9.00 uur tot 12.30 uur en van 13 uur tot 16 uur.	Y	tot	45	  115,696	0.2404	64	nld_news_2015_00958964
+224	En dat is dus van maandag tot en met donderdag.	Y	tot	45	  115,696	0.2404	64.3333	nld_news_2019_00347873
+225	Of gaan we door tot er misschien wel een miljoen zijn?	Y	tot	45	  115,696	0.2404	67.9091	nld_news_2015_00719616
+226	Ze moet dat niet van haar man, want ze heeft geen man.	Y	geen	46	  108,159	0.2248	48.6	nld_news_2015_00968438
+227	En er is geen geld over om er iets aan te doen.	Y	geen	46	  108,159	0.2248	49.4545	nld_news_2015_00347494
+228	En geen van hen heeft nog een huis om in te leven.	Y	geen	46	  108,159	0.2248	64.8333	nld_news_2015_00347970
+229	Waar we mee te maken hebben, is dat goed nieuws geen nieuws is.	Y	geen	46	  108,159	0.2248	64.9091	nld_news_2016_00917722
+230	Als ze dat niet doen, dan is er voor hen geen werk meer bij het bedrijf.	Y	geen	46	  108,159	0.2248	67.5625	nld_news_2016_00041740
+231	‘Op zich is het me daar ook niet om te doen.	Y	zich	47	  105,924	0.2201	43.4545	nld_news_2016_00768470
+232	Als dat wel zo is, willen we kijken wat ze bij zich hebben.	Y	zich	47	  105,924	0.2201	65.8462	nld_news_2016_00030667
+233	Laat staan dat het aan de burgemeester is om zich daar over uit te laten.	Y	zich	47	  105,924	0.2201	68.4667	nld_news_2015_00621684
+234	Een onderzoek uit 2010 laat zien dat 85 procent van de mensen zich er niet druk om maakt; in 2013 is dat 86 procent.	Y	zich	47	  105,924	0.2201	79.2222	nld_news_2019_00326375
+235	Dat is voor mij ook niet meer een doel op zich.	Y	zich	47	  105,924	0.2201	83.2727	nld_news_2015_00124043
+236	Wat in is, zal uit zijn en wat uit is, wordt in.	Y	wat	48	  105,290	0.2188	28.125	nld_news_2019_00921347
+237	Wat doen al die mensen dan ook op de weg?	Y	wat	48	  105,290	0.2188	47.2	nld_news_2015_00925050
+238	Dat is nu wat ik wil doen voor ons land.	Y	wat	48	  105,290	0.2188	55.9	nld_news_2019_00118250
+239	We hebben laten zien: hier staan wij voor en we hebben er wat voor over.	Y	wat	48	  105,290	0.2188	67.5833	nld_news_2019_00929288
+240	"""""""Want alles wat we hier doen, doen we met elkaar."""	Y	wat	48	  105,290	0.2188	98.875	nld_news_2016_00919615
+241	Al kunnen het er deze week ook twee geweest zijn.	Y	deze	49	  101,035	0.21	66.7	nld_news_2015_00014612
+242	Maar het is op deze manier niet goed voor me.	Y	deze	49	  101,035	0.21	68	nld_news_2019_00637156
+243	Maar in deze tijd van het jaar is dat niet vaak het geval.'	Y	deze	49	  101,035	0.21	68.25	nld_news_2015_00645022
+244	Tot die tijd moeten we het doen met deze foto.	Y	deze	49	  101,035	0.21	69.2	nld_news_2016_00842638
+245	Staan voor je zaak, daar komt het in deze tijd op aan.	Y	deze	49	  101,035	0.21	70.25	nld_news_2019_00810409
+246	Dus het werd tijd om daar wat aan te doen.”	Y	werd	50	   96,871	0.2013	50.1	nld_news_2015_00307558
+247	Maar als het goed was, werd het ook echt goed.	Y	werd	50	   96,871	0.2013	54.875	nld_news_2015_00633531
+248	Het werd duidelijk dat er meer aan de hand was.	Y	werd	50	   96,871	0.2013	82.7	nld_news_2016_00487888
+249	Als het dan 1-0 werd, zouden we wel zien hoe het verder ging.”	Y	werd	50	   96,871	0.2013	89.9091	nld_news_2019_00022364
+250	MAN, die vorig jaar nog de grootste werd, staat op 20 procent.	Y	werd	50	   96,871	0.2013	90	nld_news_2019_00652479
+251	Maar wat doen ze wel en wat doen ze niet?	Y	wel	51	   96,357	0.2003	37.2857	nld_news_2015_00652617
+252	‘In Nederland weten ze wel dat het niet waar was.	Y	wel	51	   96,357	0.2003	45.6	nld_news_2019_00578096
+253	Waar gaat het nu om, dan wel waar zou het om moeten gaan?	Y	wel	51	   96,357	0.2003	51	nld_news_2016_00914707
+254	Is dus niet van mij, maar van wie dan wel?	Y	wel	51	   96,357	0.2003	64.1111	nld_news_2016_00591173
+255	Wel laat de politie weten dat er een onderzoek komt.	Y	wel	51	   96,357	0.2003	78.5	nld_news_2015_00938090
+256	Of ze er zelf ook beter van worden maakt hun niet uit.	Y	hun	52	   93,803	0.1949	64.25	nld_news_2019_00720000
+257	Dat zijn ze wel, maar ze hebben hun eigen media.	Y	hun	52	   93,803	0.1949	75	nld_news_2019_00134378
+258	Dit om hun duidelijk te maken dat het zo niet verder kon.	Y	hun	52	   93,803	0.1949	76.5833	nld_news_2016_00299720
+259	Van alle mensen die een einde aan hun leven maakt, is 7 op de 10 man.	Y	hun	52	   93,803	0.1949	81.0714	nld_news_2016_00860040
+260	Geld om hun school af te maken is er niet meer.	Y	hun	52	   93,803	0.1949	84.5455	nld_news_2016_00392356
+261	Na jaren alleen te zijn, zijn ze wel weer toe aan een man.	Y	na	53	   93,254	0.1938	58.8333	nld_news_2019_00692248
+262	Maar na 5 jaar zitten ze daar nog steeds in, en na 10 jaar nog steeds.	Y	na	53	   93,254	0.1938	64.5	nld_news_2019_00642708
+263	Wat hij na dit jaar in Amsterdam gaat doen, is nog niet zeker.	Y	na	53	   93,254	0.1938	65.6923	nld_news_2019_00921015
+264	In 2016 was ik 49 dagen na elkaar aan het werk, nu maar 46.”	Y	na	53	   93,254	0.1938	72.8182	nld_news_2019_00549561
+265	Ook voor mensen in de auto iets om over na te denken.	Y	na	53	   93,254	0.1938	74.9167	nld_news_2015_00753975
+266	En dat heb ik er nu nog niet voor over.”	Y	nu	54	   92,324	0.1919	31.5	nld_news_2019_00347664
+267	Als ik nu weer door zou gaan, dan zou het voor vier jaar zijn.	Y	nu	54	   92,324	0.1919	47.6923	nld_news_2019_00024650
+268	'En laat nu maar zien dat het ook in het groot kan.'	Y	nu	54	   92,324	0.1919	58.3636	nld_news_2019_00356223
+269	"""We willen laten zien dat we een vrouw van nu zijn."""""""	Y	nu	54	   92,324	0.1919	68.7	nld_news_2016_00943652
+270	De gemeente wil nu het geld terug van de man.	Y	nu	54	   92,324	0.1919	79	nld_news_2019_00178706
+271	Maar als ze dat niet doen, wat kan ik daar dan nog aan doen?	Y	kan	55	   88,517	0.184	35.7692	nld_news_2019_00628606
+272	Hij zei nog niet, maar dat dat niet door kan gaan.	Y	kan	55	   88,517	0.184	49.5556	nld_news_2019_00503311
+273	Als die man of vrouw het kan, kan ik het ook.	Y	kan	55	   88,517	0.184	51.7778	nld_news_2016_00032130
+274	'En laat nu maar zien dat het ook in het groot kan.'	Y	kan	55	   88,517	0.184	58.3636	nld_news_2019_00356223
+275	Het kan van alles zijn dat we hier kunnen laten zien.	Y	kan	55	   88,517	0.184	64.9091	nld_news_2015_00464974
+276	En als ik het niet meer zou kunnen, dat het zo moet zijn.	Y	kunnen	56	   86,761	0.1803	29.5	nld_news_2016_00346652
+277	"""""""Want er komt een tijd en dan ben ik er niet meer bij en dan moet het ook door kunnen."""""""	Y	kunnen	56	   86,761	0.1803	46.7059	nld_news_2015_00921595
+278	Dan moeten ze dit ook mogelijk kunnen maken,'' zegt hij.	Y	kunnen	56	   86,761	0.1803	62.3	nld_news_2016_00115665
+279	Ze willen niet, ze kunnen niet en ze zullen niet.	Y	kunnen	56	   86,761	0.1803	70	nld_news_2019_00973186
+280	Wat krijgen we te zien, wat kunnen we laten zien?'	Y	kunnen	56	   86,761	0.1803	77.7143	nld_news_2016_00926500
+281	Het moet niet goed zijn, als het maar veel is.	Y	veel	57	   81,384	0.1691	30.5556	nld_news_2016_00467946
+282	Tot nu toe is er niet veel meer dan dat.	Y	veel	57	   81,384	0.1691	42.6	nld_news_2019_00839967
+283	En veel mensen weten niet waar ze aan toe zijn.”	Y	veel	57	   81,384	0.1691	57.3	nld_news_2016_00361690
+284	Ze hebben veel minder tijd om het werk zelf te doen.”	Y	veel	57	   81,384	0.1691	72.9091	nld_news_2016_00962576
+285	'We hebben de laatste drie jaar veel laten zien', zei hij.	Y	veel	57	   81,384	0.1691	78.2727	nld_news_2016_00932076
+286	Aan alles is te zien dat het niet goed met haar gaat.	Y	haar	58	   80,522	0.1673	46.5833	nld_news_2019_00000391
+287	Ze moet dat niet van haar man, want ze heeft geen man.	Y	haar	58	   80,522	0.1673	48.6	nld_news_2015_00968438
+288	Zij wil hem, hij wil haar, maar het komt er nooit van.	Y	haar	58	   80,522	0.1673	61.0909	nld_news_2015_00984479
+289	Ze zou nu met haar man mee naar Nederland willen.	Y	haar	58	   80,522	0.1673	67.7	nld_news_2019_00975623
+290	Ik zou niet weten wat ik zonder haar had moeten doen hier in Nederland.”	Y	haar	58	   80,522	0.1673	75.6154	nld_news_2019_00546104
+291	'Niet dat ik er iets tegen heb, maar ze heeft het niet.'	Y	tegen	59	   78,717	0.1636	40.1818	nld_news_2019_00703170
+292	Tegen wie of voor wat dat zal zijn, kan ik nog niet zeggen.	Y	tegen	59	   78,717	0.1636	57.1538	nld_news_2015_00824215
+293	Daar waren ze eerst tegen, maar zijn ze nu voor.'	Y	tegen	59	   78,717	0.1636	64.7778	nld_news_2016_00110935
+294	En een man en vrouw die even 'alleen' willen zijn, daar ben ik ook niet op tegen.'	Y	tegen	59	   78,717	0.1636	68.625	nld_news_2019_00351261
+295	Maar het was twee tegen één en ik had niets bij me’.	Y	tegen	59	   78,717	0.1636	68.6667	nld_news_2019_00637937
+296	"""Waar we het nu over hebben, zijn de extra's."""""""	Y	s	60	   78,441	0.163	61	nld_news_2015_00918694
+297	Van januari tot en met september zijn er meer dan 300.000 auto's..	Y	s	60	   78,441	0.163	77.4167	nld_news_2015_00866622
+298	Ook met de extra’s is het niet mogelijk om boven de $1,8 miljoen uit te komen.	Y	s	60	   78,441	0.163	83.9333	nld_news_2016_00748645
+299	Of zijn het gewoon de programma's die het doen?	Y	s	60	   78,441	0.163	94.3333	nld_news_2015_00721815
+300	En: ‘Van je collega’s moet je het maar hebben.’	Y	s	60	   78,441	0.163	95.6667	nld_news_2016_00361653
+301	En als ik het niet meer zou kunnen, dat het zo moet zijn.	Y	moet	61	   77,865	0.1618	29.5	nld_news_2016_00346652
+302	Wat moet je dan, als je er niet over gaat?	Y	moet	61	   77,865	0.1618	35.4444	nld_news_2015_00928372
+303	Ze moet dat niet van haar man, want ze heeft geen man.	Y	moet	61	   77,865	0.1618	48.6	nld_news_2015_00968438
+304	Een vrouw moet kinderen krijgen ook als ze dat niet wil.	Y	moet	61	   77,865	0.1618	65.6364	nld_news_2016_00337620
+305	Ik moet steeds meer werk doen in steeds minder tijd.	Y	moet	61	   77,865	0.1618	88.5556	nld_news_2016_00543589
+306	Op dit moment zijn er nog maar twee in leven.	Y	twee	62	   72,778	0.1513	58.3	nld_news_2016_00761001
+307	Dat is ruim twee keer zo veel als in het jaar 2000.	Y	twee	62	   72,778	0.1513	59.6364	nld_news_2019_00118801
+308	Het is niet duidelijk om wie van de twee het gaat.	Y	twee	62	   72,778	0.1513	59.8	nld_news_2015_00459819
+309	Het gaat om twee mannen van 18 jaar en een man van 20 jaar.	Y	twee	62	   72,778	0.1513	60.5	nld_news_2019_00424904
+310	"""""""Er zijn nog maar twee mensen aan het werk die er al van bij het begin waren."""	Y	twee	62	   72,778	0.1513	60.5333	nld_news_2019_00375477
+311	Wat moet je dan, als je er niet over gaat?	Y	gaat	63	   72,716	0.1511	35.4444	nld_news_2015_00928372
+312	Het gaat er vooral om dat ze weten dat we er zijn.’	Y	gaat	63	   72,716	0.1511	47.9	nld_news_2019_00423152
+313	Hij wil dat de politie er werk van gaat maken.	Y	gaat	63	   72,716	0.1511	57.7	nld_news_2016_00513702
+314	En als het moet, gaat het 24 uur per dag door.	Y	gaat	63	   72,716	0.1511	64.8889	nld_news_2019_00344496
+315	'Gaat het met mijn kinderen wel net zo goed als met mij?'	Y	gaat	63	   72,716	0.1511	77.9091	nld_news_2016_00387605
+316	Dit zijn de mensen van wie we het moeten hebben.	Y	mensen	64	   71,763	0.1491	42.5	nld_news_2016_00302019
+317	Er zijn hier veel mensen die wel willen maar niet kunnen en net zo veel mensen die wel kunnen maar niet willen.’	Y	mensen	64	   71,763	0.1491	55.0714	nld_news_2019_00374947
+318	Maar die mensen weten niet dat dit mijn werk is.”	Y	mensen	64	   71,763	0.1491	59.7	nld_news_2019_00633641
+319	‘Maar er zijn altijd mensen die niet mee willen komen.	Y	mensen	64	   71,763	0.1491	62.1	nld_news_2016_00638246
+320	"""""""Er zijn hier heel veel mensen bij elkaar die er werk van willen maken."""	Y	mensen	64	   71,763	0.1491	75.1538	nld_news_2019_00374941
+321	En als ik het niet meer zou kunnen, dat het zo moet zijn.	Y	zou	65	   68,026	0.1414	29.5	nld_news_2016_00346652
+322	Maar zou het niet zo kunnen zijn dat het is, net zoals in Nederland?	Y	zou	65	   68,026	0.1414	46.6154	nld_news_2015_00654833
+323	Waar gaat het nu om, dan wel waar zou het om moeten gaan?	Y	zou	65	   68,026	0.1414	51	nld_news_2016_00914707
+324	Ook al zou het maar één keer per jaar zijn?	Y	zou	65	   68,026	0.1414	62.7	nld_news_2016_00739840
+325	Ik zou niet weten wat ik zonder haar had moeten doen hier in Nederland.”	Y	zou	65	   68,026	0.1414	75.6154	nld_news_2019_00546104
+326	We zijn nu met een man of 25 en er komen elke dag nieuwe mensen bij.	Y	nieuwe	66	   67,580	0.1404	64.0667	nld_news_2016_00945219
+327	"""Maar nu moeten we nieuwe mensen vinden die het willen doen."""""""	Y	nieuwe	66	   67,580	0.1404	73.1818	nld_news_2015_00648062
+328	Ook is niet bekend of hij al een nieuwe club heeft.	Y	nieuwe	66	   67,580	0.1404	74.5455	nld_news_2019_00743882
+329	De eerste wedstrijd in het nieuwe jaar is op 7 januari.	Y	nieuwe	66	   67,580	0.1404	79.4	nld_news_2016_00181107
+330	Zo gaat dat in de wereld van de nieuwe media.	Y	nieuwe	66	   67,580	0.1404	79.7778	nld_news_2016_00988199
+331	Het gaat om vijf kinderen onder de 13 jaar en 59 mensen van boven de 13 jaar.	Y	onder	67	   66,891	0.139	84.6667	nld_news_2019_00424959
+332	Wil hij dan onder een andere partij toch minister worden?	Y	onder	67	   66,891	0.139	88.4	nld_news_2016_00953346
+333	"""Ik ben zelf 29 jaar dus ook ik zit er net onder."""""""	Y	onder	67	   66,891	0.139	90.9	nld_news_2015_00535020
+334	"""""""Maar ik wilde in dit geval dat het van onder naar boven zou gaan."""""""	Y	onder	67	   66,891	0.139	97.7857	nld_news_2019_00640011
+335	Daar zouden zo maar ook onze eigen kinderen onder kunnen zitten.	Y	onder	67	   66,891	0.139	104.8182	nld_news_2016_00112128
+336	En of dat er is, is volgens hem nog maar de vraag.	Y	volgens	68	   62,421	0.1297	50	nld_news_2015_00353714
+337	Volgens de politie is het nog niet zeker of het om een man of een vrouw gaat.	Y	volgens	68	   62,421	0.1297	62.6429	nld_news_2015_00889461
+338	Wat daar volgens haar in moet staan, wil ze nog niet zeggen.	Y	volgens	68	   62,421	0.1297	66.5	nld_news_2015_00924415
+339	Volgens hem zijn er wel twee tot drie mensen voor nodig om dat voor elkaar te krijgen.	Y	volgens	68	   62,421	0.1297	69.75	nld_news_2015_00892581
+340	De politie doet er volgens hem alles aan om dit tegen te gaan.	Y	volgens	68	   62,421	0.1297	70.4615	nld_news_2015_00225031
+341	Maar het was twee tegen één en ik had niets bij me’.	Y	had	69	   62,088	0.129	68.6667	nld_news_2019_00637937
+342	Wat had hij moeten zeggen dat we niet zelf al weten?	Y	had	69	   62,088	0.129	73.4545	nld_news_2019_00920594
+343	Ik zou niet weten wat ik zonder haar had moeten doen hier in Nederland.”	Y	had	69	   62,088	0.129	75.6154	nld_news_2019_00546104
+344	Voor ze er erg in had was het vier uur.	Y	had	69	   62,088	0.129	76	nld_news_2016_00907818
+345	Al is het maar in de buurt van waar je had willen zijn.	Y	had	69	   62,088	0.129	80.4615	nld_news_2015_00014397
+346	Maar als ze dat niet doen, wat kan ik daar dan nog aan doen?	Y	daar	70	   60,191	0.1251	35.7692	nld_news_2019_00628606
+347	‘Op zich is het me daar ook niet om te doen.	Y	daar	70	   60,191	0.1251	43.4545	nld_news_2016_00768470
+348	Toch zijn er mensen die daar niet aan mee doen.	Y	daar	70	   60,191	0.1251	52	nld_news_2019_00832783
+349	Iets meer dan 81 procent is het daar niet mee eens.	Y	daar	70	   60,191	0.1251	66.7	nld_news_2016_00529090
+350	Wat zien wij daar nu van terug? hoe moeten we dit zien?	Y	daar	70	   60,191	0.1251	74.8182	nld_news_2016_00928548
+351	En het is niet de eerste keer dat de man, die op.	Y	eerste	71	   58,741	0.1221	33	nld_news_2019_00352679
+352	De eerste keer in 40 jaar dat het er minder dan 1000 zijn.	Y	eerste	71	   58,741	0.1221	44.0909	nld_news_2015_00171615
+353	Is dat niet het eerste dat je op moet geven?	Y	eerste	71	   58,741	0.1221	48.3333	nld_news_2015_00593130
+354	Dit staat bij ons dan ook op de eerste plaats.	Y	eerste	71	   58,741	0.1221	53.8	nld_news_2016_00300368
+355	Over dat tweede kan ik niet zo veel zeggen, over het eerste wel.	Y	eerste	71	   58,741	0.1221	58.5833	nld_news_2016_00770871
+356	Als die over de 75% gaan, dan gaan ze het doen.	Y	gaan	72	   58,673	0.1219	33.1111	nld_news_2016_00032166
+357	Het is tijd om een andere weg op te gaan.	Y	gaan	72	   58,673	0.1219	42.7	nld_news_2016_00458795
+358	Als ik nu weer door zou gaan, dan zou het voor vier jaar zijn.	Y	gaan	72	   58,673	0.1219	47.6923	nld_news_2019_00024650
+359	Dat weten ze niet en wat ze gaan doen, weten ze ook niet.	Y	gaan	72	   58,673	0.1219	49.8889	nld_news_2015_00136152
+360	Waar gaat het nu om, dan wel waar zou het om moeten gaan?	Y	gaan	72	   58,673	0.1219	51	nld_news_2016_00914707
+361	‘In Nederland weten ze wel dat het niet waar was.	Y	waar	73	   58,425	0.1214	45.6	nld_news_2019_00578096
+362	Waar gaat het nu om, dan wel waar zou het om moeten gaan?	Y	waar	73	   58,425	0.1214	51	nld_news_2016_00914707
+363	Maakt niet uit wat en waar het tweede land is.	Y	waar	73	   58,425	0.1214	62	nld_news_2015_00632349
+364	Maar ze weten niet waar ik naar op weg ben.	Y	waar	73	   58,425	0.1214	64.3	nld_news_2019_00650485
+365	Binnen een week willen we weten waar we aan toe zijn.”	Y	waar	73	   58,425	0.1214	85.8	nld_news_2019_00061857
+366	Als ik nu weer door zou gaan, dan zou het voor vier jaar zijn.	Y	weer	74	   58,247	0.1211	47.6923	nld_news_2019_00024650
+367	Doen we een keer wat, is het weer niet goed.	Y	weer	74	   58,247	0.1211	49.4	nld_news_2016_00303614
+368	Na jaren alleen te zijn, zijn ze wel weer toe aan een man.	Y	weer	74	   58,247	0.1211	58.8333	nld_news_2019_00692248
+369	Ze kwam altijd te laat en er was altijd wel weer wat.	Y	weer	74	   58,247	0.1211	65.1818	nld_news_2016_00965575
+370	Ze was er, ze ging weg en kwam weer terug.	Y	weer	74	   58,247	0.1211	86.1111	nld_news_2019_00971959
+371	Het is tijd om een andere weg op te gaan.	Y	andere	75	   57,289	0.1191	42.7	nld_news_2016_00458795
+372	"""Ik kan ook niet zo goed zien als andere kinderen."""""""	Y	andere	75	   57,289	0.1191	59.1	nld_news_2016_00541394
+373	"""Dus mensen gaan daar niet er niet voor naar een andere stad."""""""	Y	andere	75	   57,289	0.1191	66	nld_news_2019_00307879
+374	Of dat nog steeds zo is, is een andere vraag.	Y	andere	75	   57,289	0.1191	66.7778	nld_news_2016_00717984
+375	Dat het mogelijk is om op een andere manier te leven.	Y	andere	75	   57,289	0.1191	67.4545	nld_news_2016_00127975
+376	Niet omdat ik dat wil, maar omdat ik dat ben.	Y	wil	76	   56,597	0.1176	53.8571	nld_news_2016_00705165
+377	In Nederland kan je doen en laten wat je wil.	Y	wil	76	   56,597	0.1176	59.1111	nld_news_2019_00577895
+378	Zij wil hem, hij wil haar, maar het komt er nooit van.	Y	wil	76	   56,597	0.1176	61.0909	nld_news_2015_00984479
+379	Een vrouw moet kinderen krijgen ook als ze dat niet wil.	Y	wil	76	   56,597	0.1176	65.6364	nld_news_2016_00337620
+380	Ik wil nooit van mijn leven terug naar dat land.	Y	wil	76	   56,597	0.1176	82.1	nld_news_2016_00549726
+381	Nu hebben ze door dat ze er op tijd bij moeten zijn.»	Y	moeten	77	   55,312	0.115	34.1818	nld_news_2019_00712905
+382	Waar gaat het nu om, dan wel waar zou het om moeten gaan?	Y	moeten	77	   55,312	0.115	51	nld_news_2016_00914707
+383	Dan moeten ze dit ook mogelijk kunnen maken,'' zegt hij.	Y	moeten	77	   55,312	0.115	62.3	nld_news_2016_00115665
+384	Daar zal hij dit keer meer werk van moeten maken.	Y	moeten	77	   55,312	0.115	73	nld_news_2016_00111675
+385	Ik zou niet weten wat ik zonder haar had moeten doen hier in Nederland.”	Y	moeten	77	   55,312	0.115	75.6154	nld_news_2019_00546104
+386	Wat in is, zal uit zijn en wat uit is, wordt in.	Y	zal	78	   53,337	0.1108	28.125	nld_news_2019_00921347
+387	Hij is het niet en zal het ook nooit worden.	Y	zal	78	   53,337	0.1108	43	nld_news_2015_00505477
+388	En ik zal dit blijven doen, ook nu hij er niet meer is.	Y	zal	78	   53,337	0.1108	48.6923	nld_news_2016_00355858
+389	Tegen wie of voor wat dat zal zijn, kan ik nog niet zeggen.	Y	zal	78	   53,337	0.1108	57.1538	nld_news_2015_00824215
+390	'Op een dag zal ik zeggen: het is goed zo'	Y	zal	78	   53,337	0.1108	60.3	nld_news_2019_00759499
+391	En als ze dat dan doen, is het niet goed.	Y	goed	79	   53,223	0.1106	29.7	nld_news_2015_00341089
+392	"""Als die komt is het goed - komt die niet, is het ook goed."""""""	Y	goed	79	   53,223	0.1106	31.5	nld_news_2016_00032122
+393	'Al was het een dag, dan was het al goed'	Y	goed	79	   53,223	0.1106	46.7143	nld_news_2019_00032463
+394	"""Ik kan ook niet zo goed zien als andere kinderen."""""""	Y	goed	79	   53,223	0.1106	59.1	nld_news_2016_00541394
+395	Alles samen zijn die goed voor nog eens 130 miljoen euro.	Y	goed	79	   53,223	0.1106	87.1	nld_news_2015_00018892
+396	Mijn leven was mijn leven, en dat is het nu nog.	Y	mijn	80	   49,556	0.103	38.5556	nld_news_2015_00676132
+397	Maar die mensen weten niet dat dit mijn werk is.”	Y	mijn	80	   49,556	0.103	59.7	nld_news_2019_00633641
+398	"""""""Ik wil dat mijn kinderen op de eerste plaats komen."""	Y	mijn	80	   49,556	0.103	65.8	nld_news_2019_00542301
+399	Ik zal het altijd zijn, maar mijn leven gaat verder (.	Y	mijn	80	   49,556	0.103	71.1	nld_news_2015_00552782
+400	Ik wil nooit van mijn leven terug naar dat land.	Y	mijn	80	   49,556	0.103	82.1	nld_news_2016_00549726
+401	Nu hebben ze door dat ze er op tijd bij moeten zijn.»	Y	tijd	81	   49,215	0.1023	34.1818	nld_news_2019_00712905
+402	Het is tijd om een andere weg op te gaan.	Y	tijd	81	   49,215	0.1023	42.7	nld_news_2016_00458795
+403	De laatste tijd is er veel te doen over de..	Y	tijd	81	   49,215	0.1023	47.6667	nld_news_2016_00207744
+404	Dus het werd tijd om daar wat aan te doen.”	Y	tijd	81	   49,215	0.1023	50.1	nld_news_2015_00307558
+405	Ik moet steeds meer werk doen in steeds minder tijd.	Y	tijd	81	   49,215	0.1023	88.5556	nld_news_2016_00543589
+406	Hij wil dat de politie er werk van gaat maken.	Y	maken	82	   48,694	0.1012	57.7	nld_news_2016_00513702
+407	“De wil om het af te maken is heel groot”	Y	maken	82	   48,694	0.1012	60.1	nld_news_2019_00265538
+408	Dan moeten ze dit ook mogelijk kunnen maken,'' zegt hij.	Y	maken	82	   48,694	0.1012	62.3	nld_news_2016_00115665
+409	Nu moeten we het zien af te maken met elkaar.”	Y	maken	82	   48,694	0.1012	65.5	nld_news_2016_00715371
+410	"""""""Er zijn hier heel veel mensen bij elkaar die er werk van willen maken."""	Y	maken	82	   48,694	0.1012	75.1538	nld_news_2019_00374941
+411	Het gaat niet om hoe je het zegt, maar om wat je zegt.	Y	zegt	83	   48,045	0.0998	40.8889	nld_news_2016_00441070
+412	Als hij zo is, wie zegt dan dat wij niet zo zijn?	Y	zegt	83	   48,045	0.0998	47.7273	nld_news_2016_00035271
+413	Hij zegt op te willen komen voor alle mensen in dit land.	Y	zegt	83	   48,045	0.0998	57.0833	nld_news_2019_00503072
+414	‘We zullen zien of het er van komt’, zegt hij.	Y	zegt	83	   48,045	0.0998	58.9	nld_news_2016_00946093
+415	Iets meer dan 10 procent zegt dat dit wel goed gaat.	Y	zegt	83	   48,045	0.0998	65	nld_news_2019_00517919
+416	Dit staat bij ons dan ook op de eerste plaats.	Y	staat	84	   46,808	0.0973	53.8	nld_news_2016_00300368
+417	Dat staat me bij, maar het jaar weet ik niet meer.	Y	staat	84	   46,808	0.0973	61.3636	nld_news_2016_00142223
+418	Hij stond op 5 en daar staat hij ook dit jaar.	Y	staat	84	   46,808	0.0973	68	nld_news_2019_00496917
+419	Maar het land staat er wel veel beter voor dan een jaar geleden.	Y	staat	84	   46,808	0.0973	69.5385	nld_news_2016_00640095
+420	"""""""Als je hier staat, moet je alles kunnen, dus maakt het niet uit."""	Y	staat	84	   46,808	0.0973	74	nld_news_2019_00026312
+421	‘In Nederland weten ze wel dat het niet waar was.	Y	nederland	85	   46,319	0.0963	45.6	nld_news_2019_00578096
+422	Maar zou het niet zo kunnen zijn dat het is, net zoals in Nederland?	Y	nederland	85	   46,319	0.0963	46.6154	nld_news_2015_00654833
+423	In Nederland kan je doen en laten wat je wil.	Y	nederland	85	   46,319	0.0963	59.1111	nld_news_2019_00577895
+424	Ze zou nu met haar man mee naar Nederland willen.	Y	nederland	85	   46,319	0.0963	67.7	nld_news_2019_00975623
+425	"""""""Over hoe wij hier in Nederland in het leven staan."""	Y	nederland	85	   46,319	0.0963	79.2222	nld_news_2015_00773746
+426	Hij zegt op te willen komen voor alle mensen in dit land.	Y	alle	86	   45,890	0.0954	57.0833	nld_news_2019_00503072
+427	Ze zijn alle in de 30, drie van hen hebben al kinderen.	Y	alle	86	   45,890	0.0954	68.3636	nld_news_2019_00974422
+428	Van alle mensen die een einde aan hun leven maakt, is 7 op de 10 man.	Y	alle	86	   45,890	0.0954	81.0714	nld_news_2016_00860040
+429	Dan heb je alle reden om daar iets aan te doen.	Y	alle	86	   45,890	0.0954	101.1818	nld_news_2016_00113589
+430	Zelfs al krijgt hij/zij alle tijd om na te denken.	Y	alle	86	   45,890	0.0954	108.5455	nld_news_2016_00966611
+431	Het is alleen maar ik, ik. en nog eens ik.	Y	alleen	87	   45,489	0.0945	39	nld_news_2015_00452777
+432	En dan gaat het niet alleen over geld maar ook over?	Y	alleen	87	   45,489	0.0945	44.5	nld_news_2015_00342340
+433	Je komt alleen en je gaat alleen, in het leven.	Y	alleen	87	   45,489	0.0945	50.875	nld_news_2019_00594722
+434	Na jaren alleen te zijn, zijn ze wel weer toe aan een man.	Y	alleen	87	   45,489	0.0945	58.8333	nld_news_2019_00692248
+435	We zullen dus iets moeten doen, maar dat kunnen we niet alleen.	Y	alleen	87	   45,489	0.0945	74.4545	nld_news_2016_00945896
+436	Niet omdat ik dat wil, maar omdat ik dat ben.	Y	omdat	88	   45,433	0.0944	53.8571	nld_news_2016_00705165
+437	Niet omdat ze dat wil, maar omdat het niet anders kan.	Y	omdat	88	   45,433	0.0944	60	nld_news_2019_00704349
+438	"""Dus willen ze het niet, omdat ze het niet kunnen."""""""	Y	omdat	88	   45,433	0.0944	61	nld_news_2015_00308682
+439	Niet omdat hij dat wil, gewoon, omdat hij zo is.	Y	omdat	88	   45,433	0.0944	67.375	nld_news_2015_00706090
+440	Want het is niet omdat je het niet meer ziet dat het er niet meer is.	Y	omdat	88	   45,433	0.0944	68.2	nld_news_2016_00920748
+441	Als het zaterdag is, heeft hij grote kans van niet.	Y	grote	89	   45,296	0.0941	66.6	nld_news_2019_00023170
+442	Grote vraag is: wat moet ik met al dat geld?	Y	grote	89	   45,296	0.0941	71.7	nld_news_2015_00420592
+443	De grote vraag is vooral met wie dat zal zijn.	Y	grote	89	   45,296	0.0941	75.2	nld_news_2015_00185506
+444	Maar een heel grote groep mensen heeft er geen deel aan, zegt hij.	Y	grote	89	   45,296	0.0941	79.2308	nld_news_2016_00637417
+445	Maar de grote vraag is natuurlijk: wat is het dan?	Y	grote	89	   45,296	0.0941	85.2222	nld_news_2019_00631984
+446	Het gaat niet om hoe je het zegt, maar om wat je zegt.	Y	hoe	90	   44,824	0.0932	40.8889	nld_news_2016_00441070
+447	Het gaat er niet om, HOE hij het zei, maar WAT hij zei.	Y	hoe	90	   44,824	0.0932	48.7	nld_news_2015_00443784
+448	En we willen niet alleen weten wat mensen doen maar ook hoe.'	Y	hoe	90	   44,824	0.0932	64.3333	nld_news_2019_00361849
+449	Toch weten veel mensen niet hoe het dan verder moet.	Y	hoe	90	   44,824	0.0932	74.9	nld_news_2015_00836729
+450	"""""""Over hoe wij hier in Nederland in het leven staan."""	Y	hoe	90	   44,824	0.0932	79.2222	nld_news_2015_00773746
+451	Die zijn er nog niet en komen er ook niet.	Y	komen	91	   44,031	0.0915	25.875	nld_news_2015_00284571
+452	"""Maar nu moeten we er met elkaar uit zien te komen."""""""	Y	komen	91	   44,031	0.0915	55.6364	nld_news_2019_00643667
+453	Zoals het nu gaat in de Euro komen ze er nooit uit.	Y	komen	91	   44,031	0.0915	58.6667	nld_news_2015_00986367
+454	‘Maar er zijn altijd mensen die niet mee willen komen.	Y	komen	91	   44,031	0.0915	62.1	nld_news_2016_00638246
+455	We weten het niet en zullen het nooit te weten komen.	Y	komen	91	   44,031	0.0915	77.7778	nld_news_2016_00943108
+456	"""Als die komt is het goed - komt die niet, is het ook goed."""""""	Y	komt	92	   43,715	0.0909	31.5	nld_news_2016_00032122
+457	"""""""Want er komt een tijd en dan ben ik er niet meer bij en dan moet het ook door kunnen."""""""	Y	komt	92	   43,715	0.0909	46.7059	nld_news_2015_00921595
+458	‘We zullen zien of het er van komt’, zegt hij.	Y	komt	92	   43,715	0.0909	58.9	nld_news_2016_00946093
+459	Zij wil hem, hij wil haar, maar het komt er nooit van.	Y	komt	92	   43,715	0.0909	61.0909	nld_news_2015_00984479
+460	Wel laat de politie weten dat er een onderzoek komt.	Y	komt	92	   43,715	0.0909	78.5	nld_news_2015_00938090
+461	Zij wordt dit jaar 80, ik 50, en je zou kunnen zeggen dat 1968 ons jaar is.	Y	zij	93	   43,516	0.0904	56.5385	nld_news_2019_00984398
+462	Het is niet duidelijk of zij nog in leven zijn.	Y	zij	93	   43,516	0.0904	60.7	nld_news_2015_00459815
+463	Zij wil hem, hij wil haar, maar het komt er nooit van.	Y	zij	93	   43,516	0.0904	61.0909	nld_news_2015_00984479
+464	Als er iemand is die dat kan weten, is zij het wel.	Y	zij	93	   43,516	0.0904	69.0909	nld_news_2019_00021420
+465	Dat kan echter niet omdat hij geen kinderen (meer) wil en zij wel.	Y	zij	93	   43,516	0.0904	69.3077	nld_news_2015_00124783
+466	Het was daar voor het eerst dat ik tussen de mensen kwam.”	Y	tussen	94	   43,356	0.0901	61.0909	nld_news_2015_00488213
+467	Van hen heeft Amsterdam er alleen al 100.000 tussen de 20 en 35 jaar.	Y	tussen	94	   43,356	0.0901	73.7273	nld_news_2015_00866243
+468	Van 3 tot en met 19 april voor kinderen tussen 6 en 12 jaar.	Y	tussen	94	   43,356	0.0901	77.7778	nld_news_2015_00859221
+469	Nu is dat tussen een maand en misschien wel 5 of 10 jaar.	Y	tussen	94	   43,356	0.0901	87.5455	nld_news_2015_00714884
+470	Bij hen die er tussen 45 minuten en 2 uur over doen is dat nog maar 20 procent.	Y	tussen	94	   43,356	0.0901	89.7333	nld_news_2019_00057085
+471	En of dat er is, is volgens hem nog maar de vraag.	Y	hem	95	   43,179	0.0897	50	nld_news_2015_00353714
+472	Het komt wel goed met hem, zit er maar niet over in.”	Y	hem	95	   43,179	0.0897	52.9167	nld_news_2016_00462544
+473	De stad is er wel, maar ze zien hem niet.	Y	hem	95	   43,179	0.0897	60.5	nld_news_2015_00242432
+474	Zij wil hem, hij wil haar, maar het komt er nooit van.	Y	hem	95	   43,179	0.0897	61.0909	nld_news_2015_00984479
+475	Hoe het nu met hem of haar gaat, is niet duidelijk.	Y	hem	95	   43,179	0.0897	65.0909	nld_news_2019_00506026
+476	Dat is zo, dat was toen zo en dat is nog steeds zo.	Y	toen	96	   42,614	0.0886	45.25	nld_news_2015_00124370
+477	Dat was iets meer dan in 2015 en 2016; toen ging het om 65 procent.	Y	toen	96	   42,614	0.0886	55.6667	nld_news_2019_00130075
+478	Daar kwam nog een vrouw en toen nog een vrouw bij.	Y	toen	96	   42,614	0.0886	70.5	nld_news_2019_00085211
+479	Toen kwamen er nog 2 en was het over en uit.	Y	toen	96	   42,614	0.0886	71.6667	nld_news_2019_00835772
+480	Hij kon niet anders in die tijd, in het land van toen.	Y	toen	96	   42,614	0.0886	73.5455	nld_news_2015_00507055
+481	En als ze dat dan doen, is het niet goed.	Y	doen	97	   42,571	0.0885	29.7	nld_news_2015_00341089
+482	‘Op zich is het me daar ook niet om te doen.	Y	doen	97	   42,571	0.0885	43.4545	nld_news_2016_00768470
+483	Dus het werd tijd om daar wat aan te doen.”	Y	doen	97	   42,571	0.0885	50.1	nld_news_2015_00307558
+484	"""""""Er zijn nog mensen die dat doen"""", ging ze verder."""	Y	doen	97	   42,571	0.0885	61.7	nld_news_2019_00375486
+485	"""""""Want alles wat we hier doen, doen we met elkaar."""	Y	doen	97	   42,571	0.0885	98.875	nld_news_2016_00919615
+486	Toch zijn er mensen die daar niet aan mee doen.	Y	toch	98	   42,345	0.088	52	nld_news_2019_00832783
+487	"""""""Voor ons kan het toch niet minder dan dit worden."""	Y	toch	98	   42,345	0.088	57	nld_news_2019_00901401
+488	En zo niet dan krijgen ze toch weer heel veel geld.	Y	toch	98	   42,345	0.088	70.5455	nld_news_2015_00358960
+489	Toch weten veel mensen niet hoe het dan verder moet.	Y	toch	98	   42,345	0.088	74.9	nld_news_2015_00836729
+490	Maar toch, het leven wordt nooit meer zoals het was.	Y	toch	98	   42,345	0.088	75.1111	nld_news_2016_00648466
+491	Dat is 6000 euro meer dan de 352.000 euro van dit jaar.	Y	euro	99	   40,919	0.085	30.2222	nld_news_2019_00114261
+492	Doen ze dat niet, dan moeten ze uit de euro.	Y	euro	99	   40,919	0.085	42.5556	nld_news_2016_00303628
+493	Dat is 50 euro meer dan in 2012 en zelfs 100 euro meer dan in 2009.	Y	euro	99	   40,919	0.085	48.625	nld_news_2016_00128893
+494	Zoals het nu gaat in de Euro komen ze er nooit uit.	Y	euro	99	   40,919	0.085	58.6667	nld_news_2015_00986367
+495	In 2015 ging het nog om 1,1 miljoen, in 2017 was het 670.000 euro.	Y	euro	99	   40,919	0.085	63	nld_news_2019_00549145
+496	En het is niet de eerste keer dat de man, die op.	Y	man	100	   40,866	0.0849	33	nld_news_2019_00352679
+497	Ze moet dat niet van haar man, want ze heeft geen man.	Y	man	100	   40,866	0.0849	48.6	nld_news_2015_00968438
+498	Na jaren alleen te zijn, zijn ze wel weer toe aan een man.	Y	man	100	   40,866	0.0849	58.8333	nld_news_2019_00692248
+499	Ze zou nu met haar man mee naar Nederland willen.	Y	man	100	   40,866	0.0849	67.7	nld_news_2019_00975623
+500	We weten alles al wat we willen weten van deze man.	Y	man	100	   40,866	0.0849	81.7778	nld_news_2016_00943023
+501	Van 18.30 tot 19.30 uur voor kinderen van 5 tot en met 7 jaar en 8 tot en met 12 jaar.	Y	uur	101	   40,741	0.0847	45.125	nld_news_2016_00858158
+502	Zaterdag van 9.00 uur tot 12.30 uur en van 13 uur tot 16 uur.	Y	uur	101	   40,741	0.0847	64	nld_news_2015_00958964
+503	En als het moet, gaat het 24 uur per dag door.	Y	uur	101	   40,741	0.0847	64.8889	nld_news_2019_00344496
+504	In het eerste uur terug naar de tijd van 47 geleden.	Y	uur	101	   40,741	0.0847	66.9	nld_news_2016_00575509
+505	Maar niet met 70 procent, maar met 26 procent, tot 3,40 euro per uur.	Y	uur	101	   40,741	0.0847	71.875	nld_news_2015_00647659
+506	Bij ons niet en in het leven mag dat ook niet zo zijn.	Y	ons	102	   40,423	0.084	47.5833	nld_news_2019_00059584
+507	Dit staat bij ons dan ook op de eerste plaats.	Y	ons	102	   40,423	0.084	53.8	nld_news_2016_00300368
+508	Wij hebben het met u te doen en u heeft het met ons te doen.	Y	ons	102	   40,423	0.084	54.7	nld_news_2016_00950321
+509	Dat is nu wat ik wil doen voor ons land.	Y	ons	102	   40,423	0.084	55.9	nld_news_2019_00118250
+510	Zij wordt dit jaar 80, ik 50, en je zou kunnen zeggen dat 1968 ons jaar is.	Y	ons	102	   40,423	0.084	56.5385	nld_news_2019_00984398
+511	Gepubliceerd op vrijdag 2 november 2012 - 11:39 WE zijn - mag ik dat zeggen?	Y	gepubliceerd	103	   39,671	0.0824	105.7	nld_news_2015_00403605
+512	Het zegt alles en ik ben blij dat dit gepubliceerd is.	Y	gepubliceerd	103	   39,671	0.0824	112.5455	nld_news_2015_00493304
+513	Alles is gepubliceerd dus wat maakt u zich nu druk om?	Y	gepubliceerd	103	   39,671	0.0824	119.5455	nld_news_2019_00016014
+514	Dat blijkt uit een onderzoek dat volgende week wordt gepubliceerd.	Y	gepubliceerd	103	   39,671	0.0824	120.1111	nld_news_2015_00109968
+515	Dat kunnen er inmiddels meer zijn, omdat de laatste cijfers een jaar geleden zijn gepubliceerd.	Y	gepubliceerd	103	   39,671	0.0824	128.7143	nld_news_2019_00121990
+516	Of dat tijdens of na de wedstrijd was, is niet bekend.	Y	tijdens	104	   39,583	0.0823	81.6	nld_news_2019_00717059
+517	Maar we willen weten wat ze willen tijdens de open dag.	Y	tijdens	104	   39,583	0.0823	94.7	nld_news_2015_00653442
+518	We en zien dan wel wat we tijdens het weekend kunnen doen.	Y	tijdens	104	   39,583	0.0823	110.0909	nld_news_2015_00931247
+519	"""Ik ben tijdens de wedstrijd dan ook niet in de problemen geweest""""."""	Y	tijdens	104	   39,583	0.0823	122.7273	nld_news_2019_00521636
+520	Tijdens de eerste zes maanden is dit veel minder het geval.	Y	tijdens	104	   39,583	0.0823	128.6364	nld_news_2015_00831265
+521	Er zijn weken dat er maar een, twee of drie mensen komen.	Y	drie	105	   39,361	0.0818	66.9091	nld_news_2016_00376941
+522	Ze zijn alle in de 30, drie van hen hebben al kinderen.	Y	drie	105	   39,361	0.0818	68.3636	nld_news_2019_00974422
+523	Ik heb vier kinderen, een van 18 en drie van 7, 6 en 5 jaar.	Y	drie	105	   39,361	0.0818	69.3333	nld_news_2016_00539431
+524	Volgens hem zijn er wel twee tot drie mensen voor nodig om dat voor elkaar te krijgen.	Y	drie	105	   39,361	0.0818	69.75	nld_news_2015_00892581
+525	In 2003 was dat nog 40 procent, drie jaar geleden nog 23 procent.	Y	drie	105	   39,361	0.0818	70.25	nld_news_2016_00553952
+526	Dat zijn er zo'n 22.000 minder dan een jaar eerder.	Y	n	106	   39,328	0.0817	60	nld_news_2016_00148967
+527	Dan zou het gaan om zo'n vijf miljoen euro.	Y	n	106	   39,328	0.0817	80.7	nld_news_2019_00103016
+528	Of dat kan en of er wel zo'n publiek is, is dan nog niet duidelijk.	Y	n	106	   39,328	0.0817	86.1429	nld_news_2019_00716981
+529	"""""""Zo'n kans doet zich maar een keer in een leven voor."""""""	Y	n	106	   39,328	0.0817	93.0909	nld_news_2015_00993600
+530	"""Ik was over de 30 toen ik voor het eerst zo'n kans kreeg."""""""	Y	n	106	   39,328	0.0817	94.25	nld_news_2015_00550128
+531	“De wil om het af te maken is heel groot”	Y	heel	107	   38,990	0.081	60.1	nld_news_2019_00265538
+532	"""Er ging heel wat meer uit, dan er in kwam."""""""	Y	heel	107	   38,990	0.081	65.7778	nld_news_2015_00360134
+533	En zo niet dan krijgen ze toch weer heel veel geld.	Y	heel	107	   38,990	0.081	70.5455	nld_news_2015_00358960
+534	Er zijn heel wat meer mensen die geld willen zien.	Y	heel	107	   38,990	0.081	71.2	nld_news_2019_00374922
+535	"""""""Er zijn hier heel veel mensen bij elkaar die er werk van willen maken."""	Y	heel	107	   38,990	0.081	75.1538	nld_news_2019_00374941
+536	Dus het werd tijd om daar wat aan te doen.”	Y	dus	108	   38,599	0.0802	50.1	nld_news_2015_00307558
+537	Dan heb je het dus, maar wat er mee te doen?	Y	dus	108	   38,599	0.0802	54.3636	nld_news_2019_00098970
+538	Is dus niet van mij, maar van wie dan wel?	Y	dus	108	   38,599	0.0802	64.1111	nld_news_2016_00591173
+539	En dat is dus van maandag tot en met donderdag.	Y	dus	108	   38,599	0.0802	64.3333	nld_news_2019_00347873
+540	We zullen dus iets moeten doen, maar dat kunnen we niet alleen.	Y	dus	108	   38,599	0.0802	74.4545	nld_news_2016_00945896
+541	In 2016 waren dit er nog 579 en in 2015 nog veel minder: 342.	Y	waren	109	   38,091	0.0792	54.75	nld_news_2019_00549532
+542	"""Het zou goed zijn voor Europa als dat er meer waren."""""""	Y	waren	109	   38,091	0.0792	58.3636	nld_news_2016_00492337
+543	Er waren meer mensen als ik; we hebben al die tijd niets kunnen doen.	Y	waren	109	   38,091	0.0792	59.9286	nld_news_2016_00371978
+544	"""""""Er zijn nog maar twee mensen aan het werk die er al van bij het begin waren."""	Y	waren	109	   38,091	0.0792	60.5333	nld_news_2019_00375477
+545	Daar waren ze eerst tegen, maar zijn ze nu voor.'	Y	waren	109	   38,091	0.0792	64.7778	nld_news_2016_00110935
+546	"""Maar het gaat ook over de vraag: wat doen we met onze tijd?"""""""	Y	onze	110	   37,439	0.0778	60.2308	nld_news_2016_00639389
+547	"""Dat doen we nog steeds, maar nu met onze eigen kinderen."""""""	Y	onze	110	   37,439	0.0778	69.6364	nld_news_2015_00112264
+548	Onze eigen mensen komen er niet meer aan te pas.	Y	onze	110	   37,439	0.0778	74.6	nld_news_2016_00738103
+549	Dat is zeer de vraag, maar: het zijn wel de onze.	Y	onze	110	   37,439	0.0778	81.2	nld_news_2015_00124316
+550	We gaan heel de wereld over, en nemen waar mogelijk onze kinderen mee.	Y	onze	110	   37,439	0.0778	100.3077	nld_news_2019_00926596
+551	“De wil om het af te maken is heel groot”	Y	af	111	   37,323	0.0776	60.1	nld_news_2019_00265538
+552	Nu moeten we het zien af te maken met elkaar.”	Y	af	111	   37,323	0.0776	65.5	nld_news_2016_00715371
+553	En zo zijn ze in Amsterdam weer terug bij af.	Y	af	111	   37,323	0.0776	66.7	nld_news_2015_00359133
+554	Af en toe komt een van de kinderen en dan kunnen mijn man en ik samen even weg.”	Y	af	111	   37,323	0.0776	83.9375	nld_news_2015_00010065
+555	Geld om hun school af te maken is er niet meer.	Y	af	111	   37,323	0.0776	84.5455	nld_news_2016_00392356
+556	Aan alles is te zien dat het niet goed met haar gaat.	Y	zien	112	   36,636	0.0761	46.5833	nld_news_2019_00000391
+557	'En laat nu maar zien dat het ook in het groot kan.'	Y	zien	112	   36,636	0.0761	58.3636	nld_news_2019_00356223
+558	Nu moeten we het zien af te maken met elkaar.”	Y	zien	112	   36,636	0.0761	65.5	nld_news_2016_00715371
+559	Er zijn heel wat meer mensen die geld willen zien.	Y	zien	112	   36,636	0.0761	71.2	nld_news_2019_00374922
+560	'We hebben de laatste drie jaar veel laten zien', zei hij.	Y	zien	112	   36,636	0.0761	78.2727	nld_news_2016_00932076
+561	"""""""Hij heeft nog wel zijn eigen huis, maar hij is er altijd."""	Y	eigen	113	   36,503	0.0759	59.7273	nld_news_2019_00488400
+562	'We kunnen niet anders, het is voor je eigen goed.'	Y	eigen	113	   36,503	0.0759	60.1	nld_news_2016_00935125
+563	"""Dat doen we nog steeds, maar nu met onze eigen kinderen."""""""	Y	eigen	113	   36,503	0.0759	69.6364	nld_news_2015_00112264
+564	En deze keer was het ook nog in eigen land geweest.	Y	eigen	113	   36,503	0.0759	73.5455	nld_news_2015_00346020
+565	Onze eigen mensen komen er niet meer aan te pas.	Y	eigen	113	   36,503	0.0759	74.6	nld_news_2016_00738103
+566	Wij hebben het met u te doen en u heeft het met ons te doen.	Y	u	114	   36,353	0.0756	54.7	nld_news_2016_00950321
+567	En daar wil ik het even met u over hebben.	Y	u	114	   36,353	0.0756	58.6	nld_news_2015_00342139
+568	En heeft u tijd om op de foto te gaan?	Y	u	114	   36,353	0.0756	61.2	nld_news_2019_00352336
+569	"""""""Het zijn ook gewoon mensen, net als u en ik."""	Y	u	114	   36,353	0.0756	70.3	nld_news_2015_00494466
+570	Van maandag tot en met zaterdag van 10 u tot 18 u Wat?	Y	u	114	   36,353	0.0756	74	nld_news_2015_00866899
+571	Kan het zo met het leven zelf ook niet zijn?	Y	zelf	115	   35,573	0.0739	44.2222	nld_news_2016_00607105
+572	Ze doen het om er zelf beter van te worden.	Y	zelf	115	   35,573	0.0739	56.3	nld_news_2019_00958155
+573	Of ze er zelf ook beter van worden maakt hun niet uit.	Y	zelf	115	   35,573	0.0739	64.25	nld_news_2019_00720000
+574	Hij zal zelf de eerste zijn om dat toe te geven.	Y	zelf	115	   35,573	0.0739	65.0909	nld_news_2016_00515098
+575	"""""""Als de politie het niet doet, dan doen we het zelf wel."""""""	Y	zelf	115	   35,573	0.0739	65.1818	nld_news_2015_00022129
+576	En dat heb ik er nu nog niet voor over.”	Y	heb	116	   35,249	0.0733	31.5	nld_news_2019_00347664
+577	'Niet dat ik er iets tegen heb, maar ze heeft het niet.'	Y	heb	116	   35,249	0.0733	40.1818	nld_news_2019_00703170
+578	Dan heb je het dus, maar wat er mee te doen?	Y	heb	116	   35,249	0.0733	54.3636	nld_news_2019_00098970
+579	Je zou kunnen zeggen: “Dat heb je er nu van.”	Y	heb	116	   35,249	0.0733	63.2222	nld_news_2015_00604327
+580	Ik wil niet dat ze het leven krijgt dat ik heb.	Y	heb	116	   35,249	0.0733	67.8889	nld_news_2019_00543333
+581	Toch zijn er mensen die daar niet aan mee doen.	Y	mee	117	   35,125	0.073	52	nld_news_2019_00832783
+582	Dan heb je het dus, maar wat er mee te doen?	Y	mee	117	   35,125	0.073	54.3636	nld_news_2019_00098970
+583	‘Maar er zijn altijd mensen die niet mee willen komen.	Y	mee	117	   35,125	0.073	62.1	nld_news_2016_00638246
+584	Iets meer dan 81 procent is het daar niet mee eens.	Y	mee	117	   35,125	0.073	66.7	nld_news_2016_00529090
+585	We moeten er iets mee, of we willen of niet.’	Y	mee	117	   35,125	0.073	69.75	nld_news_2019_00935342
+586	Hij wil dat de politie er werk van gaat maken.	Y	politie	118	   34,877	0.0725	57.7	nld_news_2016_00513702
+587	Volgens de politie is het nog niet zeker of het om een man of een vrouw gaat.	Y	politie	118	   34,877	0.0725	62.6429	nld_news_2015_00889461
+588	Ook wil de politie nog niet laten weten of het gaat om een man of een vrouw.	Y	politie	118	   34,877	0.0725	64.4667	nld_news_2019_00749757
+589	"""""""Als de politie het niet doet, dan doen we het zelf wel."""""""	Y	politie	118	   34,877	0.0725	65.1818	nld_news_2015_00022129
+590	De politie doet er volgens hem alles aan om dit tegen te gaan.	Y	politie	118	   34,877	0.0725	70.4615	nld_news_2015_00225031
+591	Komt nog eens bij dat we niet meer op de laatste plaats staan.	Y	staan	119	   34,732	0.0722	60.4615	nld_news_2019_00612109
+592	Wat daar volgens haar in moet staan, wil ze nog niet zeggen.	Y	staan	119	   34,732	0.0722	66.5	nld_news_2015_00924415
+593	We hebben laten zien: hier staan wij voor en we hebben er wat voor over.	Y	staan	119	   34,732	0.0722	67.5833	nld_news_2019_00929288
+594	Laat staan dat het aan de burgemeester is om zich daar over uit te laten.	Y	staan	119	   34,732	0.0722	68.4667	nld_news_2015_00621684
+595	Staan voor je zaak, daar komt het in deze tijd op aan.	Y	staan	119	   34,732	0.0722	70.25	nld_news_2019_00810409
+596	In 2013 was dat nog 46 procent en in 2009 was het 44 procent.	Y	procent	120	   34,625	0.072	29.7143	nld_news_2016_00554969
+597	Dat was iets meer dan in 2015 en 2016; toen ging het om 65 procent.	Y	procent	120	   34,625	0.072	55.6667	nld_news_2019_00130075
+598	Dat zijn er 23.404 of 27,3 procent meer dan in 2010, en 16.200 of bijna 18 procent meer dan vorig jaar.	Y	procent	120	   34,625	0.072	62.4167	nld_news_2016_00148888
+599	Iets meer dan 10 procent zegt dat dit wel goed gaat.	Y	procent	120	   34,625	0.072	65	nld_news_2019_00517919
+600	Iets meer dan 81 procent is het daar niet mee eens.	Y	procent	120	   34,625	0.072	66.7	nld_news_2016_00529090
+601	"""""""Nu niet, maar dat kan over een week anders zijn."""""""	Y	week	121	   33,235	0.0691	57	nld_news_2016_00715478
+602	Terug naar week 11 in de tijd van 50, 37 en 33 jaar geleden.	Y	week	121	   33,235	0.0691	65.7	nld_news_2015_00827018
+603	Al kunnen het er deze week ook twee geweest zijn.	Y	week	121	   33,235	0.0691	66.7	nld_news_2015_00014612
+604	Vorige week waren het er twee, dit keer is dat er een.	Y	week	121	   33,235	0.0691	74	nld_news_2015_00909854
+605	"""Maar je moet dat niet elke week doen"""", zegt hij."""	Y	week	121	   33,235	0.0691	75.9	nld_news_2019_00641333
+606	Mijn leven was mijn leven, en dat is het nu nog.	Y	leven	122	   32,224	0.067	38.5556	nld_news_2015_00676132
+607	Je komt alleen en je gaat alleen, in het leven.	Y	leven	122	   32,224	0.067	50.875	nld_news_2019_00594722
+608	Want dan wil je weten is of er daar ook leven is.”	Y	leven	122	   32,224	0.067	64.6364	nld_news_2019_00915299
+609	"""We leven van uur tot uur, van dag tot dag."""""""	Y	leven	122	   32,224	0.067	73.8333	nld_news_2019_00932287
+610	Ik wil nooit van mijn leven terug naar dat land.	Y	leven	122	   32,224	0.067	82.1	nld_news_2016_00549726
+611	Over dat tweede kan ik niet zo veel zeggen, over het eerste wel.	Y	tweede	123	   32,196	0.0669	58.5833	nld_news_2016_00770871
+612	En dan is er nog een tweede vraag: hoe komen de mensen daar?	Y	tweede	123	   32,196	0.0669	61.5385	nld_news_2016_00348370
+613	Maakt niet uit wat en waar het tweede land is.	Y	tweede	123	   32,196	0.0669	62	nld_news_2015_00632349
+614	Het is voor mij de tweede keer in dit land.	Y	tweede	123	   32,196	0.0669	65	nld_news_2016_00459723
+615	De tweede keer om te vragen of ik er die zaterdag dan wel weer bij was.	Y	tweede	123	   32,196	0.0669	67.4375	nld_news_2019_00250073
+616	Er zijn hier veel mensen die wel willen maar niet kunnen en net zo veel mensen die wel kunnen maar niet willen.’	Y	hier	124	   32,155	0.0668	55.0714	nld_news_2019_00374947
+617	Het kan van alles zijn dat we hier kunnen laten zien.	Y	hier	124	   32,155	0.0668	64.9091	nld_news_2015_00464974
+618	"""""""Als je hier staat, moet je alles kunnen, dus maakt het niet uit."""	Y	hier	124	   32,155	0.0668	74	nld_news_2019_00026312
+619	Ik zou niet weten wat ik zonder haar had moeten doen hier in Nederland.”	Y	hier	124	   32,155	0.0668	75.6154	nld_news_2019_00546104
+620	"""""""Want alles wat we hier doen, doen we met elkaar."""	Y	hier	124	   32,155	0.0668	98.875	nld_news_2016_00919615
+621	Maar zou het niet zo kunnen zijn dat het is, net zoals in Nederland?	Y	zoals	125	   32,071	0.0667	46.6154	nld_news_2015_00654833
+622	Zoals het nu gaat in de Euro komen ze er nooit uit.	Y	zoals	125	   32,071	0.0667	58.6667	nld_news_2015_00986367
+623	Alles moet blijven zoals het was, is en zal zijn.	Y	zoals	125	   32,071	0.0667	70.8	nld_news_2016_00028227
+624	Maar toch, het leven wordt nooit meer zoals het was.	Y	zoals	125	   32,071	0.0667	75.1111	nld_news_2016_00648466
+625	Net zoals hij niet weet wat hij met zijn leven aan moet.	Y	zoals	125	   32,071	0.0667	75.9091	nld_news_2019_00700604
+626	Al was hij de laatste jaren nog maar alleen over.	Y	jaren	126	   31,659	0.0658	51.6	nld_news_2016_00043026
+627	Na jaren alleen te zijn, zijn ze wel weer toe aan een man.	Y	jaren	126	   31,659	0.0658	58.8333	nld_news_2019_00692248
+628	Was die er de laatste jaren wel bij ons te vinden?	Y	jaren	126	   31,659	0.0658	67.8182	nld_news_2015_00923585
+629	Het kan iets van maanden zijn, maar ook van jaren.”	Y	jaren	126	   31,659	0.0658	70.8889	nld_news_2019_00446780
+630	Vraag u al jaren om er wat aan te gaan doen.	Y	jaren	126	   31,659	0.0658	74.1818	nld_news_2019_00906047
+631	De laatste keer dat die er wel was, was in 2013.	Y	laatste	127	   31,615	0.0657	42.8889	nld_news_2019_00196328
+632	De laatste tijd is er veel te doen over de..	Y	laatste	127	   31,615	0.0657	47.6667	nld_news_2016_00207744
+633	De laatste dag van het jaar was niet altijd de laatste.	Y	laatste	127	   31,615	0.0657	54.7778	nld_news_2016_00207230
+634	Komt nog eens bij dat we niet meer op de laatste plaats staan.	Y	laatste	127	   31,615	0.0657	60.4615	nld_news_2019_00612109
+635	'We hebben de laatste drie jaar veel laten zien', zei hij.	Y	laatste	127	   31,615	0.0657	78.2727	nld_news_2016_00932076
+636	'Niet dat ik er iets tegen heb, maar ze heeft het niet.'	Y	iets	128	   31,122	0.0647	40.1818	nld_news_2019_00703170
+637	En er is geen geld over om er iets aan te doen.	Y	iets	128	   31,122	0.0647	49.4545	nld_news_2015_00347494
+638	Iets meer dan 10 procent zegt dat dit wel goed gaat.	Y	iets	128	   31,122	0.0647	65	nld_news_2019_00517919
+639	Iets meer dan 81 procent is het daar niet mee eens.	Y	iets	128	   31,122	0.0647	66.7	nld_news_2016_00529090
+640	We zullen dus iets moeten doen, maar dat kunnen we niet alleen.	Y	iets	128	   31,122	0.0647	74.4545	nld_news_2016_00945896
+641	En het is niet de eerste keer dat de man, die op.	Y	keer	129	   30,704	0.0638	33	nld_news_2019_00352679
+642	De laatste keer dat die er wel was, was in 2013.	Y	keer	129	   30,704	0.0638	42.8889	nld_news_2019_00196328
+643	"""""""Zo van: dat gaan we nog een keer goed doen."""	Y	keer	129	   30,704	0.0638	50.4	nld_news_2019_00995829
+644	Het is voor mij de tweede keer in dit land.	Y	keer	129	   30,704	0.0638	65	nld_news_2016_00459723
+645	Deze week staat hij er vier keer; dinsdag, donderdag, zaterdag en zondag.	Y	keer	129	   30,704	0.0638	112.5	nld_news_2019_00273046
+646	Dat is nu wat ik wil doen voor ons land.	Y	land	130	   30,516	0.0634	55.9	nld_news_2019_00118250
+647	Hij zegt op te willen komen voor alle mensen in dit land.	Y	land	130	   30,516	0.0634	57.0833	nld_news_2019_00503072
+648	Maakt niet uit wat en waar het tweede land is.	Y	land	130	   30,516	0.0634	62	nld_news_2015_00632349
+649	Het is voor mij de tweede keer in dit land.	Y	land	130	   30,516	0.0634	65	nld_news_2016_00459723
+650	Ik wil nooit van mijn leven terug naar dat land.	Y	land	130	   30,516	0.0634	82.1	nld_news_2016_00549726
+651	Maar laten we er eens van uit gaan dat het wel zo is.	Y	laten	131	   30,494	0.0634	42.3846	nld_news_2019_00641825
+652	In Nederland kan je doen en laten wat je wil.	Y	laten	131	   30,494	0.0634	59.1111	nld_news_2019_00577895
+653	Het kan van alles zijn dat we hier kunnen laten zien.	Y	laten	131	   30,494	0.0634	64.9091	nld_news_2015_00464974
+654	"""We willen laten zien dat we een vrouw van nu zijn."""""""	Y	laten	131	   30,494	0.0634	68.7	nld_news_2016_00943652
+655	'We hebben de laatste drie jaar veel laten zien', zei hij.	Y	laten	131	   30,494	0.0634	78.2727	nld_news_2016_00932076
+656	Ik zou willen dat ik er wat aan kan doen.	Y	willen	132	   30,018	0.0624	51.4444	nld_news_2015_00554236
+657	"""Dus willen ze het niet, omdat ze het niet kunnen."""""""	Y	willen	132	   30,018	0.0624	61	nld_news_2015_00308682
+658	En we willen niet alleen weten wat mensen doen maar ook hoe.'	Y	willen	132	   30,018	0.0624	64.3333	nld_news_2019_00361849
+659	Ze willen niet, ze kunnen niet en ze zullen niet.	Y	willen	132	   30,018	0.0624	70	nld_news_2019_00973186
+660	Binnen een week willen we weten waar we aan toe zijn.”	Y	willen	132	   30,018	0.0624	85.8	nld_news_2019_00061857
+661	Het is alleen maar ik, ik. en nog eens ik.	Y	eens	133	   29,933	0.0622	39	nld_news_2015_00452777
+662	Maar laten we er eens van uit gaan dat het wel zo is.	Y	eens	133	   29,933	0.0622	42.3846	nld_news_2019_00641825
+663	Of we het dan ook altijd eens zijn met elkaar?	Y	eens	133	   29,933	0.0622	58.3	nld_news_2019_00719824
+664	Komt nog eens bij dat we niet meer op de laatste plaats staan.	Y	eens	133	   29,933	0.0622	60.4615	nld_news_2019_00612109
+665	Alles samen zijn die goed voor nog eens 130 miljoen euro.	Y	eens	133	   29,933	0.0622	87.1	nld_news_2015_00018892
+666	Als hij zo is, wie zegt dan dat wij niet zo zijn?	Y	wij	134	   29,862	0.0621	47.7273	nld_news_2016_00035271
+667	Wij gaan er van uit dat het er nog meer zullen worden.'	Y	wij	134	   29,862	0.0621	50.9091	nld_news_2015_00950478
+668	Wij weten het niet en we willen het ook niet weten.	Y	wij	134	   29,862	0.0621	63	nld_news_2016_00951953
+669	We hebben laten zien: hier staan wij voor en we hebben er wat voor over.	Y	wij	134	   29,862	0.0621	67.5833	nld_news_2019_00929288
+670	"""""""Over hoe wij hier in Nederland in het leven staan."""	Y	wij	134	   29,862	0.0621	79.2222	nld_news_2015_00773746
+671	Dat was in 2000 zo en dat is nog steeds zo.	Y	steeds	135	   29,853	0.062	33.875	nld_news_2015_00135047
+672	Dat is zo, dat was toen zo en dat is nog steeds zo.	Y	steeds	135	   29,853	0.062	45.25	nld_news_2015_00124370
+673	"""Ik ben nog steeds de laatste die dit heeft kunnen doen."""""""	Y	steeds	135	   29,853	0.062	63.9091	nld_news_2019_00521226
+674	"""Dat doen we nog steeds, maar nu met onze eigen kinderen."""""""	Y	steeds	135	   29,853	0.062	69.6364	nld_news_2015_00112264
+675	Ik moet steeds meer werk doen in steeds minder tijd.	Y	steeds	135	   29,853	0.062	88.5556	nld_news_2016_00543589
+676	'Al was het een dag, dan was het al goed'	Y	dag	136	   29,747	0.0618	46.7143	nld_news_2019_00032463
+677	De laatste dag van het jaar was niet altijd de laatste.	Y	dag	136	   29,747	0.0618	54.7778	nld_news_2016_00207230
+678	En als het moet, gaat het 24 uur per dag door.	Y	dag	136	   29,747	0.0618	64.8889	nld_news_2019_00344496
+679	"""We zijn tot op de dag van vandaag nog steeds samen."""""""	Y	dag	136	   29,747	0.0618	71.5455	nld_news_2015_00946128
+680	"""We leven van uur tot uur, van dag tot dag."""""""	Y	dag	136	   29,747	0.0618	73.8333	nld_news_2019_00932287
+681	Niet voor 20miljoen, niet voor 120 miljoen en niet voor 1200 miljoen.	Y	miljoen	137	   29,699	0.0617	42.25	nld_news_2015_00707089
+682	Dat zijn er bijna 2 miljoen meer dan in het jaar 2000.	Y	miljoen	137	   29,699	0.0617	49.7	nld_news_2015_00139216
+683	Dat is meer dan 100 miljoen meer dan een jaar eerder.	Y	miljoen	137	   29,699	0.0617	54.75	nld_news_2016_00131988
+684	In 2015 ging het nog om 1,1 miljoen, in 2017 was het 670.000 euro.	Y	miljoen	137	   29,699	0.0617	63	nld_news_2019_00549145
+685	Of gaan we door tot er misschien wel een miljoen zijn?	Y	miljoen	137	   29,699	0.0617	67.9091	nld_news_2015_00719616
+686	Het gaat er vooral om dat ze weten dat we er zijn.’	Y	vooral	138	   29,597	0.0615	47.9	nld_news_2019_00423152
+687	De grote vraag is vooral met wie dat zal zijn.	Y	vooral	138	   29,597	0.0615	75.2	nld_news_2015_00185506
+688	Laat maar zien hoe en vooral waar de 5 miljoen terug te zien is.	Y	vooral	138	   29,597	0.0615	76.9167	nld_news_2016_00618963
+689	Weet wat je zegt en vooral waar en aan wie je het zegt!	Y	vooral	138	   29,597	0.0615	78	nld_news_2016_00930566
+690	En vooral als er ook nieuwe mensen bij zijn, die je er helemaal niet had verwacht.	Y	vooral	138	   29,597	0.0615	82.6	nld_news_2016_00361918
+691	Dat weet ik ook wel, maar nu kwam het er uit.	Y	kwam	139	   29,524	0.0614	54.7273	nld_news_2016_00145587
+692	Het was daar voor het eerst dat ik tussen de mensen kwam.”	Y	kwam	139	   29,524	0.0614	61.0909	nld_news_2015_00488213
+693	Ze kwam altijd te laat en er was altijd wel weer wat.	Y	kwam	139	   29,524	0.0614	65.1818	nld_news_2016_00965575
+694	"""Er ging heel wat meer uit, dan er in kwam."""""""	Y	kwam	139	   29,524	0.0614	65.7778	nld_news_2015_00360134
+695	Daar kwam nog een vrouw en toen nog een vrouw bij.	Y	kwam	139	   29,524	0.0614	70.5	nld_news_2019_00085211
+696	De laatste dag van het jaar was niet altijd de laatste.	Y	altijd	140	   29,321	0.0609	54.7778	nld_news_2016_00207230
+697	Of we het dan ook altijd eens zijn met elkaar?	Y	altijd	140	   29,321	0.0609	58.3	nld_news_2019_00719824
+698	‘Maar er zijn altijd mensen die niet mee willen komen.	Y	altijd	140	   29,321	0.0609	62.1	nld_news_2016_00638246
+699	Ze kwam altijd te laat en er was altijd wel weer wat.	Y	altijd	140	   29,321	0.0609	65.1818	nld_news_2016_00965575
+700	Ik zal het altijd zijn, maar mijn leven gaat verder (.	Y	altijd	140	   29,321	0.0609	71.1	nld_news_2015_00552782
+701	"""Over de Nederlandse politiek kan ik dat niet meer zeggen."""""""	Y	nederlandse	141	   29,164	0.0606	88.8	nld_news_2015_00772656
+702	En wat vindt hij van de Nederlandse politiek, hoe ligt die er nu bij?	Y	nederlandse	141	   29,164	0.0606	91.7857	nld_news_2019_00361436
+703	Hij begint om 14 uur Nederlandse tijd en is in Europa niet te zien.	Y	nederlandse	141	   29,164	0.0606	101.1538	nld_news_2016_00496508
+704	De film wordt de eerste Nederlandse film die in 3D te zien is.	Y	nederlandse	141	   29,164	0.0606	108.6364	nld_news_2019_00174279
+705	"""In het Nederlands kan ik ook zeggen: """"Ik ben Nederlandse"""" of """"Ik ben een Nederlandse""""."""	Y	nederlandse	141	   29,164	0.0606	112.0909	nld_news_2015_00578391
+706	Ook al zou het maar één keer per jaar zijn?	Y	één	142	   28,726	0.0597	62.7	nld_news_2016_00739840
+707	Maar het was twee tegen één en ik had niets bij me’.	Y	één	142	   28,726	0.0597	68.6667	nld_news_2019_00637937
+708	Van één is zelfs niet zeker of hij nog in leven is.	Y	één	142	   28,726	0.0597	71.8182	nld_news_2019_00860807
+709	"""Wij zien dat mensen om zijn als ze het één of twee keer hebben gedaan."""""""	Y	één	142	   28,726	0.0597	75.7333	nld_news_2019_00949964
+710	We hebben maar één keer de kans het goed te doen.	Y	één	142	   28,726	0.0597	79.1818	nld_news_2019_00929301
+711	"""""""Want er komt een tijd en dan ben ik er niet meer bij en dan moet het ook door kunnen."""""""	Y	want	143	   28,391	0.059	46.7059	nld_news_2015_00921595
+712	Ze moet dat niet van haar man, want ze heeft geen man.	Y	want	143	   28,391	0.059	48.6	nld_news_2015_00968438
+713	Want als die er niet meer is, dan is er niets meer.’	Y	want	143	   28,391	0.059	54.6667	nld_news_2016_00919635
+714	Want dan wil je weten is of er daar ook leven is.”	Y	want	143	   28,391	0.059	64.6364	nld_news_2019_00915299
+715	Want het is niet omdat je het niet meer ziet dat het er niet meer is.	Y	want	143	   28,391	0.059	68.2	nld_news_2016_00920748
+716	Dit zijn de mensen van wie we het moeten hebben.	Y	wie	144	   28,381	0.059	42.5	nld_news_2016_00302019
+717	Als hij zo is, wie zegt dan dat wij niet zo zijn?	Y	wie	144	   28,381	0.059	47.7273	nld_news_2016_00035271
+718	Tegen wie of voor wat dat zal zijn, kan ik nog niet zeggen.	Y	wie	144	   28,381	0.059	57.1538	nld_news_2015_00824215
+719	Het is niet duidelijk om wie van de twee het gaat.	Y	wie	144	   28,381	0.059	59.8	nld_news_2015_00459819
+720	Het gaat er niet om wie het doet, als we het maar doen.	Y	wie	144	   28,381	0.059	59.9091	nld_news_2019_00423066
+721	In de afgelopen vijf jaar werden er al meer dan 175.000 van verkocht.	Y	werden	145	   27,989	0.0582	137.4167	nld_news_2015_00560960
+722	Deze werden als zo gewoon gezien, dat je vaak tussen de regels door moet lezen om meer over hen te weten te komen.	Y	werden	145	   27,989	0.0582	144.6364	nld_news_2016_00280007
+723	Daar werden er in Nederland vorig jaar 3204 van verkocht, tegen 1170 een jaar eerder.	Y	werden	145	   27,989	0.0582	146.5	nld_news_2019_00096308
+724	In november werden nog eens twee vrouwen, van 23 en 25 jaar, aangehouden.	Y	werden	145	   27,989	0.0582	153.3636	nld_news_2016_00582555
+725	Drie weken geleden werden de resultaten van dit onderzoek bekend.'	Y	werden	145	   27,989	0.0582	153.8	nld_news_2016_00311039
+726	"""""""Want er komt een tijd en dan ben ik er niet meer bij en dan moet het ook door kunnen."""""""	Y	ben	146	   27,639	0.0574	46.7059	nld_news_2015_00921595
+727	Niet omdat ik dat wil, maar omdat ik dat ben.	Y	ben	146	   27,639	0.0574	53.8571	nld_news_2016_00705165
+728	"""Ik ben nog steeds de laatste die dit heeft kunnen doen."""""""	Y	ben	146	   27,639	0.0574	63.9091	nld_news_2019_00521226
+729	Maar ze weten niet waar ik naar op weg ben.	Y	ben	146	   27,639	0.0574	64.3	nld_news_2019_00650485
+730	Zij weten wie ik ben of wat ik wil zijn.	Y	ben	146	   27,639	0.0574	81.6667	nld_news_2016_00984294
+731	Met een vrouw en kinderen is het niet te doen.'	Y	kinderen	147	   27,541	0.0572	49.7	nld_news_2015_00670113
+732	"""Ik kan ook niet zo goed zien als andere kinderen."""""""	Y	kinderen	147	   27,541	0.0572	59.1	nld_news_2016_00541394
+733	Een vrouw moet kinderen krijgen ook als ze dat niet wil.	Y	kinderen	147	   27,541	0.0572	65.6364	nld_news_2016_00337620
+734	"""""""Ik wil dat mijn kinderen op de eerste plaats komen."""	Y	kinderen	147	   27,541	0.0572	65.8	nld_news_2019_00542301
+735	'Gaat het met mijn kinderen wel net zo goed als met mij?'	Y	kinderen	147	   27,541	0.0572	77.9091	nld_news_2016_00387605
+736	Tot nu toe is er niet veel meer dan dat.	Y	toe	148	   27,246	0.0566	42.6	nld_news_2019_00839967
+737	En veel mensen weten niet waar ze aan toe zijn.”	Y	toe	148	   27,246	0.0566	57.3	nld_news_2016_00361690
+738	Na jaren alleen te zijn, zijn ze wel weer toe aan een man.	Y	toe	148	   27,246	0.0566	58.8333	nld_news_2019_00692248
+739	Hij zal zelf de eerste zijn om dat toe te geven.	Y	toe	148	   27,246	0.0566	65.0909	nld_news_2016_00515098
+740	Hoe ze er nu aan toe is, is niet bekend.	Y	toe	148	   27,246	0.0566	65.8889	nld_news_2019_00510508
+741	Het is tijd om een andere weg op te gaan.	Y	weg	149	   27,195	0.0565	42.7	nld_news_2016_00458795
+742	Wat doen al die mensen dan ook op de weg?	Y	weg	149	   27,195	0.0565	47.2	nld_news_2015_00925050
+743	Maar ze weten niet waar ik naar op weg ben.	Y	weg	149	   27,195	0.0565	64.3	nld_news_2019_00650485
+744	'Als het zo verder gaat, ben ik over twee jaar weg.	Y	weg	149	   27,195	0.0565	68	nld_news_2015_00025598
+745	Ze was er, ze ging weg en kwam weer terug.	Y	weg	149	   27,195	0.0565	86.1111	nld_news_2019_00971959
+746	“We doen er alles aan om dat voor elkaar te krijgen.”	Y	krijgen	150	   26,974	0.0561	63.0909	nld_news_2016_00929656
+747	Een vrouw moet kinderen krijgen ook als ze dat niet wil.	Y	krijgen	150	   26,974	0.0561	65.6364	nld_news_2016_00337620
+748	Volgens hem zijn er wel twee tot drie mensen voor nodig om dat voor elkaar te krijgen.	Y	krijgen	150	   26,974	0.0561	69.75	nld_news_2015_00892581
+749	En zo niet dan krijgen ze toch weer heel veel geld.	Y	krijgen	150	   26,974	0.0561	70.5455	nld_news_2015_00358960
+750	Het is nog maar de vraag of zij die vandaag gaan krijgen.	Y	krijgen	150	   26,974	0.0561	73.8333	nld_news_2019_00441798
+751	En wat te doen met de 54-jarige die niet mag en de 55-jarige die wel mag?	Y	jarige	151	   26,936	0.056	56.0909	nld_news_2015_00357400
+752	Het gaat om een 25-jarige vrouw en een 48-jarige man.	Y	jarige	151	   26,936	0.056	67.375	nld_news_2016_00441530
+753	Het gaat om een 31-jarige man en twee 34-jarige mannen.	Y	jarige	151	   26,936	0.056	79.7778	nld_news_2015_00444829
+754	Een van de twee is een 20-jarige man uit Eindhoven.	Y	jarige	151	   26,936	0.056	82.4444	nld_news_2015_00329887
+755	De 100-jarige ging toen wel op de foto 'met die andere'.	Y	jarige	151	   26,936	0.056	86.1	nld_news_2019_00135585
+756	Dit staat bij ons dan ook op de eerste plaats.	Y	plaats	152	   26,793	0.0557	53.8	nld_news_2016_00300368
+757	Het is nog niet duidelijk of er iets voor in de plaats komt.	Y	plaats	152	   26,793	0.0557	60.0769	nld_news_2019_00441960
+758	Komt nog eens bij dat we niet meer op de laatste plaats staan.	Y	plaats	152	   26,793	0.0557	60.4615	nld_news_2019_00612109
+759	"""""""Ik wil dat mijn kinderen op de eerste plaats komen."""	Y	plaats	152	   26,793	0.0557	65.8	nld_news_2019_00542301
+760	Als ze al plaats genoeg hebben om er door te komen.	Y	plaats	152	   26,793	0.0557	72.8182	nld_news_2019_00031112
+761	Ook zou het niet in het belang zijn van de gemeente om er meer over te zeggen.	Y	gemeente	153	   26,594	0.0553	59.5625	nld_news_2019_00751298
+762	"""""""Dat kan ook maar we weten het niet"""", aldus de gemeente."""	Y	gemeente	153	   26,594	0.0553	61.1818	nld_news_2016_00135063
+763	Wat de gemeente nu gaat doen is nog niet duidelijk.	Y	gemeente	153	   26,594	0.0553	75.3	nld_news_2015_00924688
+764	De gemeente wil nu het geld terug van de man.	Y	gemeente	153	   26,594	0.0553	79	nld_news_2019_00178706
+765	"""Dat is iets om je als gemeente zorgen over te maken."""""""	Y	gemeente	153	   26,594	0.0553	79.6364	nld_news_2019_00117042
+766	Een aantal zal dat wel doen, maar een deel ook niet.	Y	aantal	154	   26,366	0.0548	68.1	nld_news_2015_00310988
+767	Het andere komt al snel op twee keer dat aantal.	Y	aantal	154	   26,366	0.0548	80.8	nld_news_2016_00428456
+768	'Misschien een aantal jaar geleden nog wel, maar nu niet meer.	Y	aantal	154	   26,366	0.0548	84.8182	nld_news_2016_00678416
+769	Maar kunnen we het nu ook eens over een aantal andere dingen hebben?	Y	aantal	154	   26,366	0.0548	94.5385	nld_news_2015_00646253
+770	Dat blijkt al een aantal jaren het geval te zijn.	Y	aantal	154	   26,366	0.0548	96.4	nld_news_2019_00105344
+771	Wat zien wij daar nu van terug? hoe moeten we dit zien?	Y	terug	155	   26,219	0.0545	74.8182	nld_news_2016_00928548
+772	Laat maar zien hoe en vooral waar de 5 miljoen terug te zien is.	Y	terug	155	   26,219	0.0545	76.9167	nld_news_2016_00618963
+773	De gemeente wil nu het geld terug van de man.	Y	terug	155	   26,219	0.0545	79	nld_news_2019_00178706
+774	Ik wil nooit van mijn leven terug naar dat land.	Y	terug	155	   26,219	0.0545	82.1	nld_news_2016_00549726
+775	Ze was er, ze ging weg en kwam weer terug.	Y	terug	155	   26,219	0.0545	86.1111	nld_news_2019_00971959
+776	"""""""Het is goed om het er met elkaar over te hebben."""	Y	elkaar	156	   25,956	0.053900000000000003	37.6	nld_news_2019_00438479
+777	Maar als we elkaar zien dan hebben we het er wel over.	Y	elkaar	156	   25,956	0.053900000000000003	47.4545	nld_news_2015_00633951
+778	Of we het dan ook altijd eens zijn met elkaar?	Y	elkaar	156	   25,956	0.053900000000000003	58.3	nld_news_2019_00719824
+779	Nu moeten we het zien af te maken met elkaar.”	Y	elkaar	156	   25,956	0.053900000000000003	65.5	nld_news_2016_00715371
+780	"""""""Want alles wat we hier doen, doen we met elkaar."""	Y	elkaar	156	   25,956	0.053900000000000003	98.875	nld_news_2016_00919615
+781	‘In Nederland weten ze wel dat het niet waar was.	Y	weten	157	   25,707	0.0534	45.6	nld_news_2019_00578096
+782	Maar die mensen weten niet dat dit mijn werk is.”	Y	weten	157	   25,707	0.0534	59.7	nld_news_2019_00633641
+783	En we willen niet alleen weten wat mensen doen maar ook hoe.'	Y	weten	157	   25,707	0.0534	64.3333	nld_news_2019_00361849
+784	Ik zou niet weten wat ik zonder haar had moeten doen hier in Nederland.”	Y	weten	157	   25,707	0.0534	75.6154	nld_news_2019_00546104
+785	Binnen een week willen we weten waar we aan toe zijn.”	Y	weten	157	   25,707	0.0534	85.8	nld_news_2019_00061857
+786	Als hij er binnen is gaat hij nooit meer weg.	Y	binnen	158	   25,645	0.0533	74.6667	nld_news_2015_00025720
+787	Ik ben nog niet binnen, maar het gaat steeds beter.	Y	binnen	158	   25,645	0.0533	83.1	nld_news_2016_00531877
+788	Binnen een week willen we weten waar we aan toe zijn.”	Y	binnen	158	   25,645	0.0533	85.8	nld_news_2019_00061857
+789	"""""""Als we niets doen geven we dit jaar 28 miljard meer uit dan dat er binnen komt."""	Y	binnen	158	   25,645	0.0533	100.0667	nld_news_2015_00032082
+790	"""Als ze naar binnen willen, laten we dat toe"""", zei het hoofd van de politie."""	Y	binnen	158	   25,645	0.0533	100.9333	nld_news_2015_00032726
+791	Ik zou niet weten wat ik zonder haar had moeten doen hier in Nederland.”	Y	zonder	159	   25,548	0.0531	75.6154	nld_news_2019_00546104
+792	En een leven zonder muziek was er voor hem niet.’	Y	zonder	159	   25,548	0.0531	95.1	nld_news_2019_00351254
+793	“Ik kan nu weer drie uur spelen zonder dat mensen iets aan me zien.	Y	zonder	159	   25,548	0.0531	98.8571	nld_news_2019_00532917
+794	Ze vragen zich af wat ze aan het doen zijn zonder dat ze weten hoe ze zich dat voor moeten stellen.	Y	zonder	159	   25,548	0.0531	101.6875	nld_news_2015_00972226
+795	Maar er zijn kinderen zonder ouders en ouders zonder kinderen.	Y	zonder	159	   25,548	0.0531	111	nld_news_2015_00640435
+796	In Den Bosch zijn ze er ook nog niet uit.	Y	den	160	   25,377	0.0527	98.8	nld_news_2019_00558091
+797	Dus ze moet nu niet net doen of het allemaal zo open is, daar in Den Haag.	Y	den	160	   25,377	0.0527	113.1176	nld_news_2015_00308735
+798	Er is bekend dat hij wel eens in Den Haag kwam.	Y	den	160	   25,377	0.0527	114.7273	nld_news_2015_00360802
+799	"""""""Ik moet steeds naar Den Haag om iets voor elkaar te krijgen."""""""	Y	den	160	   25,377	0.0527	114.9167	nld_news_2019_00535743
+800	Hij wil weten of dit ook in Den Haag kan gaan werken.	Y	den	160	   25,377	0.0527	116.3333	nld_news_2019_00501825
+801	Maar zou het niet zo kunnen zijn dat het is, net zoals in Nederland?	Y	net	161	   25,292	0.0526	46.6154	nld_news_2015_00654833
+802	Er zijn hier veel mensen die wel willen maar niet kunnen en net zo veel mensen die wel kunnen maar niet willen.’	Y	net	161	   25,292	0.0526	55.0714	nld_news_2019_00374947
+803	En dan is het maar net wat je er mee doet.	Y	net	161	   25,292	0.0526	60.6364	nld_news_2015_00342594
+804	Dit jaar is dat, net als vorig jaar, niet zo.	Y	net	161	   25,292	0.0526	63.1111	nld_news_2016_00297586
+805	"""""""Het zijn ook gewoon mensen, net als u en ik."""	Y	net	161	   25,292	0.0526	70.3	nld_news_2015_00494466
+806	Er zijn nu mensen op het bedrijf om onderzoek te doen.	Y	onderzoek	162	   25,272	0.0525	63.6364	nld_news_2016_00376203
+807	Toch is dat niet waar het onderzoek nu nog over lijkt te gaan.	Y	onderzoek	162	   25,272	0.0525	63.6923	nld_news_2015_00835146
+808	''We hebben het in onderzoek, meer kan ik er op dit moment niet over zeggen''.	Y	onderzoek	162	   25,272	0.0525	64.2667	nld_news_2019_00929015
+809	Toch is er een manier om wel aan het geld voor onderzoek te komen.	Y	onderzoek	162	   25,272	0.0525	68.7143	nld_news_2019_00830958
+810	Om daar zeker van te zijn is meer onderzoek nodig.	Y	onderzoek	162	   25,272	0.0525	78.2	nld_news_2019_00721501
+811	Ook al zou het maar één keer per jaar zijn?	Y	per	163	   25,137	0.0522	62.7	nld_news_2016_00739840
+812	En als het moet, gaat het 24 uur per dag door.	Y	per	163	   25,137	0.0522	64.8889	nld_news_2019_00344496
+813	Maar niet met 70 procent, maar met 26 procent, tot 3,40 euro per uur.	Y	per	163	   25,137	0.0522	71.875	nld_news_2015_00647659
+814	Dus blijft er maar 7 procent in drie jaar over: 2,3 procent per jaar.	Y	per	163	   25,137	0.0522	81.4	nld_news_2016_00312871
+815	In 2014 kwamen er per 100.000 134 meer om het leven dan in 1999.	Y	per	163	   25,137	0.0522	89.1111	nld_news_2015_00557561
+816	Alleen van A naar Beter, had iets beter kunnen zijn.	Y	a	164	   25,052	0.0521	86.8889	nld_news_2015_00016966
+817	A ook na 25 mei weer iets te zeggen zal hebben.	Y	a	164	   25,052	0.0521	110.6	nld_news_2016_00047858
+818	De A59 is niet de enige weg waar het druk is deze Goede Vrijdag.	Y	a	164	   25,052	0.0521	136.25	nld_news_2019_00139129
+819	Dit seizoen kwam hij nog niet in actie voor het A-team.	Y	a	164	   25,052	0.0521	147.25	nld_news_2016_00300216
+820	A-beleid in de jaren ’80 was dit niet het geval.	Y	a	164	   25,052	0.0521	152.7	nld_news_2015_00007201
+821	Dat is van vrijdag 19:00 uur tot zaterdag 04:00 uur en van zaterdag 12:00 uur tot zondag 04:00 uur.	Y	vrijdag	165	   24,970	0.0519	76	nld_news_2016_00133714
+822	Vrijdag had ik de beste dag van dit jaar tot nu toe.	Y	vrijdag	165	   24,970	0.0519	85	nld_news_2016_00911800
+823	Voor vrijdag zag het weer er niet zo goed uit.	Y	vrijdag	165	   24,970	0.0519	91.2	nld_news_2016_00907448
+824	Gepubliceerd op vrijdag 2 november 2012 - 11:39 WE zijn - mag ik dat zeggen?	Y	vrijdag	165	   24,970	0.0519	105.7	nld_news_2015_00403605
+825	Ze hebben wat anders te doen vrijdag 15 juni 2007 om 10:08 uur.	Y	vrijdag	165	   24,970	0.0519	108.1	nld_news_2015_00962658
+826	Zaterdag van 9.00 uur tot 12.30 uur en van 13 uur tot 16 uur.	Y	zaterdag	166	   24,929	0.0518	64	nld_news_2015_00958964
+827	Als het zaterdag is, heeft hij grote kans van niet.	Y	zaterdag	166	   24,929	0.0518	66.6	nld_news_2019_00023170
+828	De tweede keer om te vragen of ik er die zaterdag dan wel weer bij was.	Y	zaterdag	166	   24,929	0.0518	67.4375	nld_news_2019_00250073
+829	Van maandag tot en met zaterdag van 10 u tot 18 u Wat?	Y	zaterdag	166	   24,929	0.0518	74	nld_news_2015_00866899
+830	Maar wat die zaterdag en zondag gaan doen is nog de vraag.	Y	zaterdag	166	   24,929	0.0518	75.4167	nld_news_2016_00650520
+831	En dan gaat het niet alleen over geld maar ook over?	Y	geld	167	   24,770	0.0515	44.5	nld_news_2015_00342340
+832	En er is geen geld over om er iets aan te doen.	Y	geld	167	   24,770	0.0515	49.4545	nld_news_2015_00347494
+833	En zo niet dan krijgen ze toch weer heel veel geld.	Y	geld	167	   24,770	0.0515	70.5455	nld_news_2015_00358960
+834	Er zijn heel wat meer mensen die geld willen zien.	Y	geld	167	   24,770	0.0515	71.2	nld_news_2019_00374922
+835	De gemeente wil nu het geld terug van de man.	Y	geld	167	   24,770	0.0515	79	nld_news_2019_00178706
+836	De eerste keer in 40 jaar dat het er minder dan 1000 zijn.	Y	minder	168	   24,769	0.0515	44.0909	nld_news_2015_00171615
+837	In 2016 waren dit er nog 579 en in 2015 nog veel minder: 342.	Y	minder	168	   24,769	0.0515	54.75	nld_news_2019_00549532
+838	"""""""Voor ons kan het toch niet minder dan dit worden."""	Y	minder	168	   24,769	0.0515	57	nld_news_2019_00901401
+839	Of het er nu meer of minder zijn, is niet bekend.	Y	minder	168	   24,769	0.0515	57.1	nld_news_2015_00719785
+840	Dat zijn er zo'n 22.000 minder dan een jaar eerder.	Y	minder	168	   24,769	0.0515	60	nld_news_2016_00148967
+841	Dat was in de afgelopen jaren al steeds het geval.	Y	afgelopen	169	   24,710	0.0514	87	nld_news_2015_00135061
+842	Het afgelopen jaar is er een geweest in de kerk.	Y	afgelopen	169	   24,710	0.0514	93.5	nld_news_2019_00410039
+843	"""""""Dat heb ik in de afgelopen acht jaar ook moeten doen."""	Y	afgelopen	169	   24,710	0.0514	93.6364	nld_news_2019_00111303
+844	In de afgelopen zes jaar was dat vier miljoen euro.	Y	afgelopen	169	   24,710	0.0514	100.8	nld_news_2015_00560983
+845	Het is echt heel anders dan hoe het de afgelopen tien jaar was''.	Y	afgelopen	169	   24,710	0.0514	100.8333	nld_news_2015_00455182
+846	"""""""Er zijn nog mensen die dat doen"""", ging ze verder."""	Y	verder	170	   24,317	0.0505	61.7	nld_news_2019_00375486
+847	"""Het leven gaat verder en ook mijn leven gaat door."""""""	Y	verder	170	   24,317	0.0505	61.75	nld_news_2019_00450047
+848	'Als het zo verder gaat, ben ik over twee jaar weg.	Y	verder	170	   24,317	0.0505	68	nld_news_2015_00025598
+849	Ik zal het altijd zijn, maar mijn leven gaat verder (.	Y	verder	170	   24,317	0.0505	71.1	nld_news_2015_00552782
+850	Toch weten veel mensen niet hoe het dan verder moet.	Y	verder	170	   24,317	0.0505	74.9	nld_news_2015_00836729
+851	Dat is meer dan 100 miljoen meer dan een jaar eerder.	Y	eerder	171	   24,172	0.0502	54.75	nld_news_2016_00131988
+852	Dat zijn er zo'n 22.000 minder dan een jaar eerder.	Y	eerder	171	   24,172	0.0502	60	nld_news_2016_00148967
+853	Dat is bijna 50 miljoen euro meer dan een jaar eerder.	Y	eerder	171	   24,172	0.0502	74.2	nld_news_2016_00129201
+854	Het waren er in juni 18,4 procent meer dan een jaar eerder.	Y	eerder	171	   24,172	0.0502	78.5455	nld_news_2016_00484531
+855	Eerder op de dag zag het daar niet naar uit.	Y	eerder	171	   24,172	0.0502	93.6	nld_news_2016_00339954
+856	In Nederland is dit sinds twee jaar ook het geval.	Y	sinds	172	   24,162	0.0502	78.6	nld_news_2016_00581868
+857	In Nederland is dat sinds de laatste verkiezingen nog niet een procent.	Y	sinds	172	   24,162	0.0502	100.9167	nld_news_2016_00581835
+858	Die zou dan voor het eerst sinds 2004 in actie komen.	Y	sinds	172	   24,162	0.0502	110.2	nld_news_2015_00284858
+859	"""Het is niet meer zo goed geweest sinds de zomer van 2006."""""""	Y	sinds	172	   24,162	0.0502	115.2727	nld_news_2019_00441305
+860	Het is voor het eerst sinds tien jaar weer eens een wedstrijd hier.”	Y	sinds	172	   24,162	0.0502	116	nld_news_2015_00463075
+861	Aan alles is te zien dat het niet goed met haar gaat.	Y	alles	173	   24,138	0.0502	46.5833	nld_news_2019_00000391
+862	'Ze doen er alles voor om van de wereld te zijn.	Y	alles	173	   24,138	0.0502	49.2727	nld_news_2015_00960205
+863	Het kan van alles zijn dat we hier kunnen laten zien.	Y	alles	173	   24,138	0.0502	64.9091	nld_news_2015_00464974
+864	We weten alles al wat we willen weten van deze man.	Y	alles	173	   24,138	0.0502	81.7778	nld_news_2016_00943023
+865	"""""""Want alles wat we hier doen, doen we met elkaar."""	Y	alles	173	   24,138	0.0502	98.875	nld_news_2016_00919615
+866	Is het daar ook al niet veel te laat voor?	Y	laat	174	   24,111	0.0501	40.6	nld_news_2019_00587851
+867	Dan gaan we er wat aan doen, maar dan is het al te laat.	Y	laat	174	   24,111	0.0501	44.0769	nld_news_2019_00098563
+868	'En laat nu maar zien dat het ook in het groot kan.'	Y	laat	174	   24,111	0.0501	58.3636	nld_news_2019_00356223
+869	Ze kwam altijd te laat en er was altijd wel weer wat.	Y	laat	174	   24,111	0.0501	65.1818	nld_news_2016_00965575
+870	Wel laat de politie weten dat er een onderzoek komt.	Y	laat	174	   24,111	0.0501	78.5	nld_news_2015_00938090
+871	Ook voor mensen in de auto iets om over na te denken.	Y	auto	175	   23,975	0.0498	74.9167	nld_news_2015_00753975
+872	Van januari tot en met september zijn er meer dan 300.000 auto's..	Y	auto	175	   23,975	0.0498	77.4167	nld_news_2015_00866622
+873	Nog een paar jaar en dan is het gedaan met de auto.	Y	auto	175	   23,975	0.0498	80.1667	nld_news_2019_00708874
+874	Niet veel later kwam hij er achter dat het om zijn auto ging.	Y	auto	175	   23,975	0.0498	84.6154	nld_news_2016_00706045
+875	Mensen met een auto hebben geen probleem, maar al die andere waar moeten die naar toe.	Y	auto	175	   23,975	0.0498	85.6667	nld_news_2015_00664231
+876	Maar in de wereld is er nog meer te doen.	Y	wereld	176	   23,835	0.0495	40.4	nld_news_2019_00640430
+877	'Ze doen er alles voor om van de wereld te zijn.	Y	wereld	176	   23,835	0.0495	49.2727	nld_news_2015_00960205
+878	Hoe is het om de beste van de wereld te zijn in wat je doet?	Y	wereld	176	   23,835	0.0495	65.9286	nld_news_2019_00506331
+879	'Ik kan het erg niet eens zijn met de wereld'	Y	wereld	176	   23,835	0.0495	74.4	nld_news_2019_00532446
+880	Het gaat steeds beter met de wereld en de mensen.	Y	wereld	176	   23,835	0.0495	77.4444	nld_news_2015_00445942
+881	Dat was iets meer dan in 2015 en 2016; toen ging het om 65 procent.	Y	ging	177	   23,825	0.0495	55.6667	nld_news_2019_00130075
+882	"""""""Er zijn nog mensen die dat doen"""", ging ze verder."""	Y	ging	177	   23,825	0.0495	61.7	nld_news_2019_00375486
+883	In 2015 ging het nog om 1,1 miljoen, in 2017 was het 670.000 euro.	Y	ging	177	   23,825	0.0495	63	nld_news_2019_00549145
+884	"""Er ging heel wat meer uit, dan er in kwam."""""""	Y	ging	177	   23,825	0.0495	65.7778	nld_news_2015_00360134
+885	De man ging daar op in en kreeg zijn geld.	Y	ging	177	   23,825	0.0495	79.1	nld_news_2016_00211839
+886	Dat is 15 procent meer dan vorig jaar rond deze tijd.	Y	rond	178	   23,816	0.0495	78.5	nld_news_2016_00128849
+887	Dat heeft alles te maken met rond de organisatie in 2011.	Y	rond	178	   23,816	0.0495	94.3	nld_news_2016_00125697
+888	Hij is bijna rond met een nieuwe club uit Nederland.	Y	rond	178	   23,816	0.0495	97.2	nld_news_2015_00504743
+889	Nog even en ze kunnen niet meer tegen elkaar zeggen: vorig jaar rond deze tijd was alles nog gewoon.	Y	rond	178	   23,816	0.0495	104.2222	nld_news_2015_00710511
+890	Dat zijn er rond de twintig meer dan een jaar eerder.	Y	rond	178	   23,816	0.0495	105.7273	nld_news_2016_00148950
+891	En elke dag via de Elke dinsdag van 15:00 tot 15:30 uur.	Y	via	179	   23,790	0.0494	108.1111	nld_news_2016_00352952
+892	Via 14-13 na 40 minuten en 16-15 na 50 minuten was er nog van alles mogelijk.	Y	via	179	   23,790	0.0494	116	nld_news_2016_00880280
+893	Ze zijn vanaf deze week ook via het Internet in te zien.	Y	via	179	   23,790	0.0494	127.5833	nld_news_2016_00975340
+894	Het gaat nu zo snel via sociale media, dan weet het hele land het al, maar de partij nog niet.	Y	via	179	   23,790	0.0494	132.9444	nld_news_2019_00423718
+895	Via een wilde hij weten of het een goed idee was.	Y	via	179	   23,790	0.0494	139.3	nld_news_2019_00875260
+896	Dan moeten ze dit ook mogelijk kunnen maken,'' zegt hij.	Y	mogelijk	180	   23,659	0.0492	62.3	nld_news_2016_00115665
+897	"""""""We hebben nog een hele weg te gaan, maar het is mogelijk."""""""	Y	mogelijk	180	   23,659	0.0492	65.8333	nld_news_2016_00933216
+898	Dat het mogelijk is om op een andere manier te leven.	Y	mogelijk	180	   23,659	0.0492	67.4545	nld_news_2016_00127975
+899	Maar ze hebben de wil om te kijken wat mogelijk is.	Y	mogelijk	180	   23,659	0.0492	72.4545	nld_news_2019_00650192
+900	"""""""Voor hem was het niet mogelijk om nog van start te gaan."""	Y	mogelijk	180	   23,659	0.0492	74.0833	nld_news_2015_00904218
+901	Maar dan zal ik haar zeggen dat we niet samen kunnen zijn.	Y	samen	181	   23,486	0.0488	62	nld_news_2019_00630041
+902	"""We zijn tot op de dag van vandaag nog steeds samen."""""""	Y	samen	181	   23,486	0.0488	71.5455	nld_news_2015_00946128
+903	'Het gaat er nu over om te kijken wat we nog samen willen doen.	Y	samen	181	   23,486	0.0488	78.1429	nld_news_2016_00440580
+904	Af en toe komt een van de kinderen en dan kunnen mijn man en ik samen even weg.”	Y	samen	181	   23,486	0.0488	83.9375	nld_news_2015_00010065
+905	Alles samen zijn die goed voor nog eens 130 miljoen euro.	Y	samen	181	   23,486	0.0488	87.1	nld_news_2015_00018892
+906	Maar wat die zaterdag en zondag gaan doen is nog de vraag.	Y	zondag	182	   23,299	0.0484	75.4167	nld_news_2016_00650520
+907	Dat is van vrijdag 19:00 uur tot zaterdag 04:00 uur en van zaterdag 12:00 uur tot zondag 04:00 uur.	Y	zondag	182	   23,299	0.0484	76	nld_news_2016_00133714
+908	Vijf op de tien is op zondag in de weer.	Y	zondag	182	   23,299	0.0484	96.5	nld_news_2019_00877013
+909	Van donderdag 26 tot en met zondag 29 mei vinden in het..	Y	zondag	182	   23,299	0.0484	100.5	nld_news_2016_00864763
+910	Het zijn mensen die op zondag gewoon naar hun eigen kerk gaan.”	Y	zondag	182	   23,299	0.0484	102.3333	nld_news_2016_00491342
+911	‘Op zich is het me daar ook niet om te doen.	Y	me	183	   23,209	0.0482	43.4545	nld_news_2016_00768470
+912	Dat staat me bij, maar het jaar weet ik niet meer.	Y	me	183	   23,209	0.0482	61.3636	nld_news_2016_00142223
+913	«Ik weet het niet, en dat zegt me ook niet zo veel.	Y	me	183	   23,209	0.0482	62.0909	nld_news_2015_00550457
+914	Maar het is op deze manier niet goed voor me.	Y	me	183	   23,209	0.0482	68	nld_news_2019_00637156
+915	Maar het was twee tegen één en ik had niets bij me’.	Y	me	183	   23,209	0.0482	68.6667	nld_news_2019_00637937
+916	Als ik nu weer door zou gaan, dan zou het voor vier jaar zijn.	Y	vier	184	   23,066	0.0479	47.6923	nld_news_2019_00024650
+917	Ik heb vier kinderen, een van 18 en drie van 7, 6 en 5 jaar.	Y	vier	184	   23,066	0.0479	69.3333	nld_news_2016_00539431
+918	"""Komt er nu geen geld bij, dan komt er vier jaar geen geld bij."""""""	Y	vier	184	   23,066	0.0479	72.5556	nld_news_2019_00612046
+919	Voor ze er erg in had was het vier uur.	Y	vier	184	   23,066	0.0479	76	nld_news_2016_00907818
+920	Maar als het er drie of vier zijn, laat dan maar zitten.	Y	vier	184	   23,066	0.0479	78.9091	nld_news_2019_00628044
+921	'En laat nu maar zien dat het ook in het groot kan.'	Y	groot	185	   23,035	0.0479	58.3636	nld_news_2019_00356223
+922	“De wil om het af te maken is heel groot”	Y	groot	185	   23,035	0.0479	60.1	nld_news_2019_00265538
+923	En de kans is groot dat het niet zijn laatste zijn.	Y	groot	185	   23,035	0.0479	67.9	nld_news_2019_00349568
+924	De kans dat het niet goed zou gaan was heel groot.”	Y	groot	185	   23,035	0.0479	80.1818	nld_news_2019_00190899
+925	De kans is dus groot dat het zal gaan zoals in 2016.	Y	groot	185	   23,035	0.0479	82.4545	nld_news_2019_00190995
+926	Wij gaan er van uit dat het er nog meer zullen worden.'	Y	zullen	186	   23,032	0.0479	50.9091	nld_news_2015_00950478
+927	Het gaat er dan niet meer om of we het moeten doen, maar hoe we het zullen doen.	Y	zullen	186	   23,032	0.0479	52.1429	nld_news_2015_00443753
+928	‘We zullen zien of het er van komt’, zegt hij.	Y	zullen	186	   23,032	0.0479	58.9	nld_news_2016_00946093
+929	Ze willen niet, ze kunnen niet en ze zullen niet.	Y	zullen	186	   23,032	0.0479	70	nld_news_2019_00973186
+930	We weten het niet en zullen het nooit te weten komen.	Y	zullen	186	   23,032	0.0479	77.7778	nld_news_2016_00943108
+931	Hij wil dat de politie er werk van gaat maken.	Y	werk	187	   22,694	0.0472	57.7	nld_news_2016_00513702
+932	'Het maakt niet uit met wat voor mensen ik werk.	Y	werk	187	   22,694	0.0472	57.9	nld_news_2016_00466126
+933	Ze hebben veel minder tijd om het werk zelf te doen.”	Y	werk	187	   22,694	0.0472	72.9091	nld_news_2016_00962576
+934	Daar zal hij dit keer meer werk van moeten maken.	Y	werk	187	   22,694	0.0472	73	nld_news_2016_00111675
+935	Ik moet steeds meer werk doen in steeds minder tijd.	Y	werk	187	   22,694	0.0472	88.5556	nld_news_2016_00543589
+936	Je weet het niet en dat maakt je ook niet zo veel uit.	Y	maakt	188	   22,643	0.0471	57.8182	nld_news_2015_00603619
+937	'Het maakt niet uit met wat voor mensen ik werk.	Y	maakt	188	   22,643	0.0471	57.9	nld_news_2016_00466126
+938	Maakt niet uit wat en waar het tweede land is.	Y	maakt	188	   22,643	0.0471	62	nld_news_2015_00632349
+939	Of ze er zelf ook beter van worden maakt hun niet uit.	Y	maakt	188	   22,643	0.0471	64.25	nld_news_2019_00720000
+940	En wat maakt het uit als je het wel doet?	Y	maakt	188	   22,643	0.0471	66.3333	nld_news_2019_00361364
+941	Dat is 50 euro meer dan in 2012 en zelfs 100 euro meer dan in 2009.	Y	zelfs	189	   22,530	0.0468	48.625	nld_news_2016_00128893
+942	"""""""Het komt zelfs niet in mij op om dat te willen."""""""	Y	zelfs	189	   22,530	0.0468	61.4545	nld_news_2016_00462553
+943	Van één is zelfs niet zeker of hij nog in leven is.	Y	zelfs	189	   22,530	0.0468	71.8182	nld_news_2019_00860807
+944	En zelfs al was dat zo, dan is er nog de rechter.	Y	zelfs	189	   22,530	0.0468	79.3333	nld_news_2016_00363683
+945	In de eerste twee weken van 2011 zelfs al met 10 procent.	Y	zelfs	189	   22,530	0.0468	81.9	nld_news_2019_00555070
+946	En dat is dus van maandag tot en met donderdag.	Y	donderdag	190	   22,409	0.0466	64.3333	nld_news_2019_00347873
+947	', van maandag tot en met donderdag van 16u tot 19u.	Y	donderdag	190	   22,409	0.0466	81.1429	nld_news_2015_00866896
+948	Donderdag was ik niet goed, maar nu ging het weer beter.	Y	donderdag	190	   22,409	0.0466	82.1818	nld_news_2015_00298551
+949	Maar na donderdag zit het er dan toch echt op.	Y	donderdag	190	   22,409	0.0466	85	nld_news_2016_00645004
+950	In wordt dat de eerste woensdag en eerste donderdag van de maand.	Y	donderdag	190	   22,409	0.0466	88.2	nld_news_2015_00591497
+951	Je kon wel zien dat hij wat in huis heeft.	Y	kon	191	   22,223	0.0462	71	nld_news_2016_00597919
+952	Hij kon niet anders in die tijd, in het land van toen.	Y	kon	191	   22,223	0.0462	73.5455	nld_news_2015_00507055
+953	Dit om hun duidelijk te maken dat het zo niet verder kon.	Y	kon	191	   22,223	0.0462	76.5833	nld_news_2016_00299720
+954	"""Ik weet er niet veel meer van, maar ik kon er weinig aan doen."""""""	Y	kon	191	   22,223	0.0462	82.1667	nld_news_2015_00550428
+955	Het hele jaar door kon dat op dinsdag en zaterdag.	Y	kon	191	   22,223	0.0462	88.3	nld_news_2019_00429838
+956	Het gaat er niet om, HOE hij het zei, maar WAT hij zei.	Y	zei	192	   22,193	0.0461	48.7	nld_news_2015_00443784
+957	Hij zei nog niet, maar dat dat niet door kan gaan.	Y	zei	192	   22,193	0.0461	49.5556	nld_news_2019_00503311
+958	Verder zei ze dat het niet aan haar is om op de zaak in te gaan.	Y	zei	192	   22,193	0.0461	60.625	nld_news_2015_00876029
+959	"""""""Wat waar is, is niet nieuw, en wat nieuw is, is niet waar"""", zo zei hij."""	Y	zei	192	   22,193	0.0461	74.4444	nld_news_2015_00929389
+960	Maar wat ik al zei: voor ons maakt het niets uit.	Y	zei	192	   22,193	0.0461	77.4545	nld_news_2019_00648781
+961	''Er is geen enkele reden om het niet te doen.'	Y	enkele	193	   22,063	0.0459	91.6	nld_news_2015_00361760
+962	Is er dan geen enkele reden om te gaan zien?	Y	enkele	193	   22,063	0.0459	101.9	nld_news_2016_00591261
+963	Maar tot nu toe heeft geen enkele vrouw dat gedaan.	Y	enkele	193	   22,063	0.0459	106.4	nld_news_2016_00648798
+964	Het OM verwacht dat de drie binnen enkele dagen terug zijn in Nederland.	Y	enkele	193	   22,063	0.0459	112	nld_news_2015_00473431
+965	Ik kan dan nog wel elk jaar een nieuwe gaan maken, maar dat heeft geen enkele zin.	Y	enkele	193	   22,063	0.0459	112.6471	nld_news_2016_00540849
+966	Met een vrouw en kinderen is het niet te doen.'	Y	vrouw	194	   22,023	0.0458	49.7	nld_news_2015_00670113
+967	Als die man of vrouw het kan, kan ik het ook.	Y	vrouw	194	   22,023	0.0458	51.7778	nld_news_2016_00032130
+968	Ook wil de politie nog niet laten weten of het gaat om een man of een vrouw.	Y	vrouw	194	   22,023	0.0458	64.4667	nld_news_2019_00749757
+969	Een vrouw moet kinderen krijgen ook als ze dat niet wil.	Y	vrouw	194	   22,023	0.0458	65.6364	nld_news_2016_00337620
+970	Daar kwam nog een vrouw en toen nog een vrouw bij.	Y	vrouw	194	   22,023	0.0458	70.5	nld_news_2019_00085211
+971	Hij is het niet en zal het ook nooit worden.	Y	nooit	195	   21,959	0.0456	43	nld_news_2015_00505477
+972	Als dat er nooit meer van komt, dan komt het er nooit meer van.	Y	nooit	195	   21,959	0.0456	45.7778	nld_news_2019_00018460
+973	Zij wil hem, hij wil haar, maar het komt er nooit van.	Y	nooit	195	   21,959	0.0456	61.0909	nld_news_2015_00984479
+974	Maar toch, het leven wordt nooit meer zoals het was.	Y	nooit	195	   21,959	0.0456	75.1111	nld_news_2016_00648466
+975	Ik wil nooit van mijn leven terug naar dat land.	Y	nooit	195	   21,959	0.0456	82.1	nld_news_2016_00549726
+976	Maar het was niet aan mij om die te doen.'	Y	mij	196	   21,845	0.0454	42.1	nld_news_2016_00640586
+977	Ze zijn er wel, alleen worden ze maar niet van mij.	Y	mij	196	   21,845	0.0454	46.4	nld_news_2016_00974913
+978	"""""""Het komt zelfs niet in mij op om dat te willen."""""""	Y	mij	196	   21,845	0.0454	61.4545	nld_news_2016_00462553
+979	Is dus niet van mij, maar van wie dan wel?	Y	mij	196	   21,845	0.0454	64.1111	nld_news_2016_00591173
+980	'Gaat het met mijn kinderen wel net zo goed als met mij?'	Y	mij	196	   21,845	0.0454	77.9091	nld_news_2016_00387605
+981	Dit jaar is dat op woensdag Kan je voor woensdag 18 september.	Y	woensdag	197	   21,774	0.0453	66.3	nld_news_2019_00291576
+982	Of het woensdag beter wordt, is nog niet te zeggen.	Y	woensdag	197	   21,774	0.0453	79.9	nld_news_2016_00719240
+983	Van woensdag 4 tot en met zaterdag 7 maart staat in zijn..	Y	woensdag	197	   21,774	0.0453	85.4	nld_news_2016_00870146
+984	In wordt dat de eerste woensdag en eerste donderdag van de maand.	Y	woensdag	197	   21,774	0.0453	88.2	nld_news_2015_00591497
+985	Dat is van maandag 17 juni tot en met woensdag 19 juni.	Y	woensdag	197	   21,774	0.0453	89.3333	nld_news_2019_00119157
+986	En dat is dus van maandag tot en met donderdag.	Y	maandag	198	   21,714	0.0451	64.3333	nld_news_2019_00347873
+987	Van maandag tot en met zaterdag van 10 u tot 18 u Wat?	Y	maandag	198	   21,714	0.0451	74	nld_news_2015_00866899
+988	', van maandag tot en met donderdag van 16u tot 19u.	Y	maandag	198	   21,714	0.0451	81.1429	nld_news_2015_00866896
+989	Dat is van maandag 17 juni tot en met woensdag 19 juni.	Y	maandag	198	   21,714	0.0451	89.3333	nld_news_2019_00119157
+990	Vandaag (maandag) of dinsdag is er weinig meer van te zien.	Y	maandag	198	   21,714	0.0451	99	nld_news_2015_00862060
+991	Vandaag heeft hij het over zijn leven in en met de media.	Y	vandaag	199	   21,638	0.045	66.1667	nld_news_2016_00861161
+992	"""We zijn tot op de dag van vandaag nog steeds samen."""""""	Y	vandaag	199	   21,638	0.045	71.5455	nld_news_2015_00946128
+993	En ze blijven komen, tot op de dag van vandaag.	Y	vandaag	199	   21,638	0.045	72.1	nld_news_2016_00363521
+994	Het is nog maar de vraag of zij die vandaag gaan krijgen.	Y	vandaag	199	   21,638	0.045	73.8333	nld_news_2019_00441798
+995	‘Vandaag is de dag dat we zeggen: niet met ons.	Y	vandaag	199	   21,638	0.045	74.1	nld_news_2016_00861228
+996	Ze doen dit in de week van dinsdag 17 tot en met zaterdag 21 mei.	Y	dinsdag	200	   21,562	0.0448	80.1538	nld_news_2016_00960253
+997	Het hele jaar door kon dat op dinsdag en zaterdag.	Y	dinsdag	200	   21,562	0.0448	88.3	nld_news_2019_00429838
+998	Vandaag (maandag) of dinsdag is er weinig meer van te zien.	Y	dinsdag	200	   21,562	0.0448	99	nld_news_2015_00862060
+999	Deze zijn van oktober tot en met april op de eerste dinsdag van de maand.	Y	dinsdag	200	   21,562	0.0448	105.3077	nld_news_2015_00273187
+1000	En elke dag via de Elke dinsdag van 15:00 tot 15:30 uur.	Y	dinsdag	200	   21,562	0.0448	108.1111	nld_news_2016_00352952
