@@ -1,7 +1,7 @@
 from os import listdir
 from os.path import isfile, join
 import csv
-mypath = "../data_new/"
+mypath = "../data/"
 onlyfiles = [f for f in listdir(mypath) ]
 langs = {}
 topics = set()
