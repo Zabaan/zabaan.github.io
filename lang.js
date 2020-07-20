@@ -31,6 +31,7 @@ function load_corpus(lang) {
   else $("#sentence").css("direction","ltr").css("font-family","Old Standard TT");
 
   this.mydata = [];
+  this.words = [];
   if(localStorage[lang+zabancntstr]) cnt = localStorage.getItem(lang+zabancntstr);
   else cnt = 1;
   ll = parseInt(level)*200;
@@ -40,22 +41,29 @@ function load_corpus(lang) {
   fname = 'data/' + file + "/" + file + "_" + topic + "/" + file + "_" + topic + "_sentences_" + resll +  ".csv";
   $.get(fname, function(data) {
     tmpdata = data.split('\n');
-    tmpdata.forEach(function(t){this.mydata.push(t.split('\t')[1]);});
-    $('#sentence').text(mydata[cnt]);
+    tmpdata.forEach(function(t){
+      tt = t.split('\t');
+      if(tt.length <= 3) return;
+      a = tt[1];
+      b = tt[3];
+      a = a.replace(b, "<b>" + b + "</b>");
+      this.mydata.push(a);
+    });
+    $('#sentence').html(mydata[cnt]);
     cnt++;
   }, 'text');
 }
 
 function nextSentence() {
   cnt++;
-  $('#sentence').text(this.mydata[cnt]);
+  $('#sentence').html(this.mydata[cnt]);
   localStorage.setItem(this.lang+zabancntstr, cnt);
 }
 
 function previousSentence() {
   if(cnt <= 1) return;
   cnt--;
-  $('#sentence').text(this.mydata[cnt]);
+  $('#sentence').html(this.mydata[cnt]);
   localStorage.setItem(this.lang+zabancntstr, cnt);
 }
 
