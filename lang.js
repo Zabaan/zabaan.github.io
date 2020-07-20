@@ -21,19 +21,22 @@ this.topics = getUrlParameter("topics")
 
 topics.split(",").forEach(function(t){$('#SelectTopic').append('<option><a href="#">' + t + '</a></option>')});
 for(var i=1;i<=25;i++) $('#SelectLevel').append('<option><a href="#">' + i + '</a></option>');
+for(var i=1;i<=2000;i++) $('#SelectSentence').append('<option><a href="#">' + i + '</a></option>');
 
 var cnt;
 function load_corpus(lang) {
-  this.lang = lang;
+  // this.lang = lang;
   topic = $( "#SelectTopic option:selected" ).text();
   level = $( "#SelectLevel option:selected" ).text();
-  if(lang == "Persian") $("#sentence").css("direction","rtl").css("font-family","Amiri")
+  cnt = parseInt($("#SelectSentence option:selected").text()) - 1;
+  console.log(cnt);
+  if(this.lang == "Persian") $("#sentence").css("direction","rtl").css("font-family","Amiri")
   else $("#sentence").css("direction","ltr").css("font-family","Old Standard TT");
 
   this.mydata = [];
   this.words = [];
-  if(localStorage[lang+zabancntstr]) cnt = localStorage.getItem(lang+zabancntstr);
-  else cnt = 1;
+  // if(localStorage[lang+zabancntstr]) cnt = localStorage.getItem(lang+zabancntstr);
+  // else cnt = 1;
   ll = parseInt(level)*200;
   resll = ""
   if(ll < 1000) resll += "0" + ll;
@@ -73,16 +76,22 @@ function tagSentence() {
 
 function SelectTopic() {
   text = $( "#SelectTopic option:selected" ).text();
-  load_corpus(text);
+  load_corpus();
 }
 
 function SelectLevel() {
   text = $( "#SelectLevel option:selected" ).text();
-  load_corpus(text);
+  load_corpus();
 }
 
+function SelectSentence() {
+  text = $( "#SelectSentence option:selected" ).text();
+  cnt = parseInt(text) - 1;
+  $('#sentence').html(this.mydata[cnt]);
+  localStorage.setItem(this.lang+zabancntstr, cnt);
+}
 
-load_corpus(lang);
+load_corpus();
 
 document.addEventListener('keydown', function(event) {
     if (event.keyCode == 37) {
