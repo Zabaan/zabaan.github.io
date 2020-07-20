@@ -15,19 +15,30 @@ function getUrlParameter(sParam) {
 
 this.zabancntstr = 'zabancnt';
 this.mydata = [];
+this.file = getUrlParameter("file");
 this.lang = getUrlParameter("lang");
 this.topics = getUrlParameter("topics")
+
+topics.split(",").forEach(function(t){$('#SelectTopic').append('<option><a href="#">' + t + '</a></option>')});
+for(var i=1;i<=25;i++) $('#SelectLevel').append('<option><a href="#">' + i + '</a></option>');
 
 var cnt;
 function load_corpus(lang) {
   this.lang = lang;
+  topic = $( "#SelectTopic option:selected" ).text();
+  level = $( "#SelectLevel option:selected" ).text();
   if(lang == "Persian") $("#sentence").css("direction","rtl").css("font-family","Amiri")
   else $("#sentence").css("direction","ltr").css("font-family","Old Standard TT");
 
   this.mydata = [];
   if(localStorage[lang+zabancntstr]) cnt = localStorage.getItem(lang+zabancntstr);
   else cnt = 1;
-  $.get('data_new/' + lang + "_news/" + lang + "_news_sentences_01.csv", function(data) {
+  ll = parseInt(level)*200;
+  resll = ""
+  if(ll < 1000) resll += "0" + ll;
+  else  resll += "" + ll;
+  fname = 'data/' + file + "/" + file + "_" + topic + "/" + file + "_" + topic + "_sentences_" + resll +  ".csv";
+  $.get(fname, function(data) {
     tmpdata = data.split('\n');
     tmpdata.forEach(function(t){this.mydata.push(t.split('\t')[1]);});
     $('#sentence').text(mydata[cnt]);
@@ -52,8 +63,13 @@ function tagSentence() {
 
 }
 
-function drop() {
-  text = $( "#langselect option:selected" ).text();
+function SelectTopic() {
+  text = $( "#SelectTopic option:selected" ).text();
+  load_corpus(text);
+}
+
+function SelectLevel() {
+  text = $( "#SelectLevel option:selected" ).text();
   load_corpus(text);
 }
 
