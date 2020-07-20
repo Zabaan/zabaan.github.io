@@ -53,12 +53,12 @@ function load_corpus(lang) {
       this.mydata.push(a);
     });
     $('#sentence').html(mydata[cnt]);
-    cnt++;
   }, 'text');
 }
 
 function nextSentence() {
   cnt++;
+  $("#SelectSentence").val(""+cnt);
   $('#sentence').html(this.mydata[cnt]);
   localStorage.setItem(this.lang+zabancntstr, cnt);
 }
@@ -66,6 +66,7 @@ function nextSentence() {
 function previousSentence() {
   if(cnt <= 1) return;
   cnt--;
+  $("#SelectSentence").val(""+cnt);
   $('#sentence').html(this.mydata[cnt]);
   localStorage.setItem(this.lang+zabancntstr, cnt);
 }
