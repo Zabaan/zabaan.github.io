@@ -28,8 +28,7 @@ function load_corpus(lang) {
   // this.lang = lang;
   topic = $( "#SelectTopic option:selected" ).text();
   level = $( "#SelectLevel option:selected" ).text();
-  cnt = parseInt($("#SelectSentence option:selected").text()) - 1;
-  console.log(cnt);
+  cnt = parseInt($("#SelectSentence option:selected").text());
   if(this.lang == "Persian") $("#sentence").css("direction","rtl").css("font-family","Amiri")
   else $("#sentence").css("direction","ltr").css("font-family","Old Standard TT");
 
@@ -52,6 +51,7 @@ function load_corpus(lang) {
       a = a.replace(b, "<b>" + b + "</b>");
       this.mydata.push(a);
     });
+    console.log(mydata[cnt]);
     $('#sentence').html(mydata[cnt]);
     cnt++;
   }, 'text');
@@ -86,7 +86,7 @@ function SelectLevel() {
 
 function SelectSentence() {
   text = $( "#SelectSentence option:selected" ).text();
-  cnt = parseInt(text) - 1;
+  cnt = parseInt(text);
   $('#sentence').html(this.mydata[cnt]);
   localStorage.setItem(this.lang+zabancntstr, cnt);
 }
