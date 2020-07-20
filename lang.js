@@ -16,6 +16,7 @@ function getUrlParameter(sParam) {
 this.zabancntstr = 'zabancnt';
 this.mydata = [];
 this.lang = getUrlParameter("lang");
+this.topics = getUrlParameter("topics")
 
 var cnt;
 function load_corpus(lang) {
