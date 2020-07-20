@@ -52,7 +52,6 @@ function load_corpus(lang) {
       else {b = b.substr(0,1).toUpperCase() + b.substr(1);a = a.replace(b, "<b>" + b + "</b>");}
       this.mydata.push(a);
     });
-    console.log(mydata[cnt]);
     $('#sentence').html(mydata[cnt]);
     cnt++;
   }, 'text');
