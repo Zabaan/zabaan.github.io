@@ -21,7 +21,7 @@ this.topics = getUrlParameter("topics")
 
 topics.split(",").forEach(function(t){$('#SelectTopic').append('<option><a href="#">' + t + '</a></option>')});
 for(var i=1;i<=25;i++) $('#SelectLevel').append('<option><a href="#">' + i + '</a></option>');
-for(var i=1;i<=2000;i++) $('#SelectSentence').append('<option><a href="#">' + i + '</a></option>');
+for(var i=1;i<=1000;i++) $('#SelectSentence').append('<option><a href="#">' + i + '</a></option>');
 
 var cnt;
 function load_corpus(lang) {
@@ -103,8 +103,8 @@ document.addEventListener('keydown', function(event) {
     }
 }, true);
 
-document.addEventListener('touchstart', handleTouchStart, false);
-document.addEventListener('touchmove', handleTouchMove, false);
+//document.addEventListener('touchstart', handleTouchStart, false);
+//document.addEventListener('touchmove', handleTouchMove, false);
 
 var xDown = null;
 var yDown = null;
