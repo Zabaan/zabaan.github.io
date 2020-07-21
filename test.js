@@ -48,11 +48,19 @@ function load_corpus(lang) {
       if(tt.length <= 3) return;
       a = tt[1];
       b = tt[3];
-      if(a.includes(b)) a = a.replace(b, "<b>" + b + "</b>");
-      else {b = b.substr(0,1).toUpperCase() + b.substr(1);a = a.replace(b, "<b>" + b + "</b>");}
+
+      if(!a.includes(b)) b = b.substr(0,1).toUpperCase() + b.substr(1);
+      // c = "<span id='editor' contenteditable='true' style='text-decoration: underline;' myval='" + b
+      // + "'>---</span>";
+      c = "<input placeholder='";
+      for(var i=0;i<b.length;i++) c += "-";
+      c +="' autofocus id='editor' size='" + b.length +"' ";
+      c += "onkeyup='oneditorchange(\"" + b+ "\")'></input>";
+      a = a.replace(b, c);
       this.mydata.push(a);
     });
     $('#sentence').html(mydata[cnt]);
+
   }, 'text');
 }
 
@@ -148,3 +156,15 @@ function handleTouchMove(evt) {
     xDown = null;
     yDown = null;
 };
+
+// $('#editor').on('DOMSubtreeModified',function(){
+function oneditorchange(m) {
+  t = $('#editor').val();
+  console.log(t + " " + m);
+  if(t == m)  {
+  $('#editor').css('color','green');
+  $("#editor").attr('disabled','disabled');
+}
+  // if(t.length > 3 && t.includes('-')) t.replace('-',' ');
+  // if(t.length < 3 )
+}
