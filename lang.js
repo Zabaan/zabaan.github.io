@@ -48,8 +48,8 @@ function load_corpus(lang) {
       if(tt.length <= 3) return;
       a = tt[1];
       b = tt[3];
-      if(a.includes(b)) a = a.replace(b, "<b>" + b + "</b>");
-      else {b = b.substr(0,1).toUpperCase() + b.substr(1);a = a.replace(b, "<b>" + b + "</b>");}
+      if(a.includes(b)) a = a.replace(b, "<b id='select'>" + b + "</b>");
+      else {b = b.substr(0,1).toUpperCase() + b.substr(1);a = a.replace(b, "<b id='select'>" + b + "</b>");}
       this.mydata.push(a);
     });
     $('#sentence').html(mydata[cnt]);

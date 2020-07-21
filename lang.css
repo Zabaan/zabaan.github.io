@@ -12,6 +12,11 @@
     font-size: calc(4vw + 4vh + 2vmin);
   }
 
+  #select {
+    color: red;
+    font-weight: bold;
+  }
+
   #LTR {
     direction: ltr;
     font-size: 20px;
