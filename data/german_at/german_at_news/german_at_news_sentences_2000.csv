@@ -301,7 +301,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 9300	Ziel sei es, so Landeshauptmann Dr. Erwin Pröll, die Bevölkerung einzubinden und auch die Geschichte aus der Sicht der Betroffenen zu zeigen.	Y	erwin	1382	    837	0.0052	426.8	german_at_news_2012_00981450
 9301	Dort, wo einer aus der Familie schon ist, ist es immer schwierig für die anderen.	Y	schwierig	1382	    837	0.0052	175.1429	german_at_news_2012_00391652
 9302	War es nicht schwierig, sich da auf ein Ziel zu einigen?	Y	schwierig	1382	    837	0.0052	236.3636	german_at_news_2012_00921125
-9303	Auch wenn's seit 1995 schwierig geworden ist, sich als Österreicher in Szene zu setzen.	Y	schwierig	1382	    837	0.0052	312.5714	german_at_news_2012_00073163
+9303	Auch wenn’s seit 1995 schwierig geworden ist, sich als Österreicher in Szene zu setzen.	Y	schwierig	1382	    837	0.0052	312.5714	german_at_news_2012_00073163
 9304	Es ist manchmal für eine kleine Partei schwierig, da muss man eben alle Möglichkeiten nutzen.	Y	schwierig	1382	    837	0.0052	392.3333	german_at_news_2012_00462634
 9305	Es hat immer Zeiten gegeben, wo es extrem schwierig war.	Y	schwierig	1382	    837	0.0052	460.8889	german_at_news_2012_00459428
 9306	Es gibt in Österreich mehr Leute, die gute Filme machen können, als Geld da ist.	Y	filme	1383	    836	0.0052	194.7333	german_at_news_2012_00457237
@@ -350,7 +350,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 9349	Ein Streit ohne Nutzen: Österreich kann sich eine Steuerreform ohnehin nicht leisten.	Y	steuerreform	1384	    834	0.0052	443.25	german_at_news_2012_00424844
 9350	Haider in NEWS: „Rot-Blau-Grüne Mehrheit für Steuerreform möglich“ Was halten Sie von Schwarz-Grün?	Y	steuerreform	1384	    834	0.0052	528	german_at_news_2012_00527015
 9351	Aber ich denke, dass Österreich auf einem guten Weg ist.	Y	denke	1385	    833	0.0052	242.9	german_at_news_2012_00007075
-9352	"""Ich denke mir dann immer: Die werden es auch noch lernen!"""", meint er."""	Y	denke	1385	    833	0.0052	285.6154	german_at_news_2012_00549907
+9352	Ich denke mir dann immer: Die werden es auch noch lernen!, meint er.	Y	denke	1385	    833	0.0052	285.6154	german_at_news_2012_00549907
 9353	Ich denke nur nicht, dass dies mehr als die genannten 25% kosten würde.	Y	denke	1385	    833	0.0052	314.5	german_at_news_2012_00549937
 9354	Ich denke, es ist jedenfalls besser, die Diskussion darüber in der Öffentlichkeit zu führen.	Y	denke	1385	    833	0.0052	348.6429	german_at_news_2012_00549846
 9355	Ich denke, es könnte das beste Konzept-Album überhaupt werden“.	Y	denke	1385	    833	0.0052	519.3	german_at_news_2012_00549851
@@ -396,7 +396,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 9395	Ich gehe gerne in die Natur und da hatte ich genug Gelegenheit dazu.	Y	gelegenheit	1387	    831	0.0052	388.1667	german_at_news_2012_00551345
 9396	Halten Sie sich an andere und schwimmen Sie mit dem Strom, dann können Sie sich sogar neue Freunde machen.	Y	strom	1387	    831	0.0052	337	german_at_news_2012_00527663
 9397	Auch in der Liebe brauchen Sie nur mit dem Strom zu schwimmen.	Y	strom	1387	    831	0.0052	374.9167	german_at_news_2012_00068551
-9398	In dem heißt es: „Doch die alles was anders ist stört, die mit dem Strom schwimmen, wie sich's gehört.	Y	strom	1387	    831	0.0052	396.5556	german_at_news_2012_00586067
+9398	In dem heißt es: „Doch die alles was anders ist stört, die mit dem Strom schwimmen, wie sich’s gehört.	Y	strom	1387	    831	0.0052	396.5556	german_at_news_2012_00586067
 9399	Wir wollen keinen Strom, von dem wir nicht wissen, woher er kommt“, sagte Faymann.	Y	strom	1387	    831	0.0052	408.6154	german_at_news_2012_00973011
 9400	Für ihn mit ein Grund: „Genau vor einem Jahr haben sie die Freileitung zum Haus entfernt und den Strom verkabelt.	Y	strom	1387	    831	0.0052	428.75	german_at_news_2012_00497898
 9401	Er war so oft nicht für sie da“, sagt ein Insider über Brand.	Y	brand	1388	    830	0.0052	296.8462	german_at_news_2012_00450129
@@ -600,10 +600,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 9599	Die SPÖ aber blieb dabei, als es auf 3000 Schilling anstieg, und ist zum Teil bis heute dabei geblieben.	Y	geblieben	1400	    818	0.0051	335.5294	german_at_news_2012_00360925
 9600	Er wäre gern noch bis zur Wahl im März geblieben.	Y	geblieben	1400	    818	0.0051	386.5	german_at_news_2012_00449737
 9601	Haben Sie etwas dafür tun müssen, dass die Krone so gut über Sie berichtet?	Y	krone	1400	    818	0.0051	242.3846	german_at_news_2012_00526058
-9602	Mehr zum Streit um die 'Krone' finden Sie im neuen NEWS!	Y	krone	1400	    818	0.0051	291.2727	german_at_news_2012_00675847
+9602	Mehr zum Streit um die ‘Krone’ finden Sie im neuen NEWS!	Y	krone	1400	    818	0.0051	291.2727	german_at_news_2012_00675847
 9603	Vor der Wahl hat er jeden Tag in der Krone etwas zu sagen gehabt.	Y	krone	1400	    818	0.0051	319.0769	german_at_news_2012_00913387
 9604	Die gleichen Namen sind in der „Krone“ zu lesen und im „Profil“.	Y	krone	1400	    818	0.0051	381.0833	german_at_news_2012_00308591
-9605	Die 'Krone' legt es darauf an zu entscheiden, wer Bundeskanzler wird.	Y	krone	1400	    818	0.0051	444.1818	german_at_news_2012_00320829
+9605	Die ‘Krone’ legt es darauf an zu entscheiden, wer Bundeskanzler wird.	Y	krone	1400	    818	0.0051	444.1818	german_at_news_2012_00320829
 9606	Dieser Bereich sei auch im Zusammenhang mit der Integration zu sehen.	Y	integration	1401	    817	0.0051	261.2727	german_at_news_2012_00350277
 9607	Jeder, der in Österreich arbeitet, soll auch die Möglichkeit der Integration bekommen.	Y	integration	1401	    817	0.0051	339.9091	german_at_news_2012_00620107
 9608	Integration ist auch viel leichter wenn die Menschen dann Österreicher sind und Rechte haben!	Y	integration	1401	    817	0.0051	346.7857	german_at_news_2012_00610450

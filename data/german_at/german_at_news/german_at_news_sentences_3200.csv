@@ -45,7 +45,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 15044	Keller: Und einst hieß es: Niemand wird für Musik online zahlen.	Y	keller	1687	    516	0.0032	547.4545	german_at_news_2012_00635358
 15045	Sie sah wie zwei Männer in den Keller eines Hauses gingen.	Y	keller	1687	    516	0.0032	581.4545	german_at_news_2012_00812055
 15046	Aber dann muss man doch erst recht Nein zu so einem Paket sagen.	Y	paket	1687	    516	0.0032	285.9231	german_at_news_2012_00003262
-15047	Und das M- Sport- Paket wird's ja auch wieder geben.	Y	paket	1687	    516	0.0032	344.3636	german_at_news_2012_00870824
+15047	Und das M- Sport- Paket wird’s ja auch wieder geben.	Y	paket	1687	    516	0.0032	344.3636	german_at_news_2012_00870824
 15048	Aber auch ein Österreicher-Paket ist in Berlin am Start.	Y	paket	1687	    516	0.0032	376.1	german_at_news_2012_00002244
 15049	Ebenfalls noch im April steht ein Paket für ältere Arbeitnehmer auf dem Programm.	Y	paket	1687	    516	0.0032	479.6154	german_at_news_2012_00398472
 15050	Das Paket kann ohne weiteres am 24. September im Nationalrat beschlossen werden.“	Y	paket	1687	    516	0.0032	544.7273	german_at_news_2012_00188501
@@ -672,7 +672,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 15671	Petzner: „Hatten Sie zu dem Zeitpunkt Kontakt mit Grasser gehabt?	Y	petzner	1711	    492	0.0031	560.7	german_at_news_2012_00756383
 15672	Strasser ist nach wie vor unklar, was Petzner daran unklar ist.	Y	petzner	1711	    492	0.0031	565.4444	german_at_news_2012_00844461
 15673	Allerdings werden Petzner & Co. nicht viele Antworten von Mensdorff bekommen.	Y	petzner	1711	    492	0.0031	625.5	german_at_news_2012_00025433
-15674	"""Was war die Leistung?"""", wollte Petzner von Meischberger mehrmals wissen."""	Y	petzner	1711	    492	0.0031	662.2	german_at_news_2012_00928589
+15674	Was war die Leistung?, wollte Petzner von Meischberger mehrmals wissen.	Y	petzner	1711	    492	0.0031	662.2	german_at_news_2012_00928589
 15675	Petzner fragt, ob Fischer über Gespräche mit Jörg Haider wusste.	Y	petzner	1711	    492	0.0031	807.2	german_at_news_2012_00756367
 15676	Dass die eine oder andere Überraschung nicht fehlen wird, das versteht sich von selbst.	Y	überraschung	1711	    492	0.0031	363.4286	german_at_news_2012_00193034
 15677	Aber nein, glaubt Schnell: „Ich bin überzeugt, es wird für uns eine positive Überraschung bei der nächsten Wahl geben.“	Y	überraschung	1711	    492	0.0031	394.3158	german_at_news_2012_00009130
@@ -783,7 +783,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 15782	Seine eigene hat er indes längst gefunden: „Integration war dann erfolgreich, wenn man nicht mehr darüber spricht.“	Y	indes	1714	    489	0.003	419.3529	german_at_news_2012_00791549
 15783	Die Importe aus Griechenland gingen in den ersten zehn Monaten 2002 indes um zwei Prozent auf 108 Millionen Euro zurück.	Y	indes	1714	    489	0.003	420.3333	german_at_news_2012_00314024
 15784	Die Unzufriedenheit mit der Regierung wird indes immer größer: 85 Prozent der Österreicher ist mit deren Arbeit „gar nicht oder wenig zufrieden“.	Y	indes	1714	    489	0.003	436.5789	german_at_news_2012_00370628
-15785	Paris indes interessiert sich noch nicht so recht für's Daten.	Y	indes	1714	    489	0.003	466.9091	german_at_news_2012_00753547
+15785	Paris indes interessiert sich noch nicht so recht für’s Daten.	Y	indes	1714	    489	0.003	466.9091	german_at_news_2012_00753547
 15786	Er ist damit der jüngste Chef, den die Partei je hatte.	Y	jüngste	1714	    489	0.003	280.4545	german_at_news_2012_00438976
 15787	Für die Kleinen - das jüngste Mädchen ist erst drei Jahre alt - war das nicht einfach.	Y	jüngste	1714	    489	0.003	309.7857	german_at_news_2012_00494794
 15788	Das Paar hat vier Kinder, das jüngste ist gerade fünf Jahre alt.	Y	jüngste	1714	    489	0.003	351.8182	german_at_news_2012_00188416
@@ -884,13 +884,13 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 15883	Der Verlust der Mehrheit wäre nicht nur für die Landes-ÖVP eine Katastrophe.	Y	katastrophe	1716	    487	0.003	417.1667	german_at_news_2012_00265266
 15884	Jeder junge Mensch hat sich mal mit Feuer gespielt und manchmal ist es nur mit Glück nicht zu einer Katastrophe gekommen.	Y	katastrophe	1716	    487	0.003	434.45	german_at_news_2012_00620458
 15885	Wenn eine Katastrophe eine Region der Welt trifft, muss der Rest der Welt reagieren (.	Y	katastrophe	1716	    487	0.003	672	german_at_news_2012_00939402
-15886	"""In seinem „Google+""""-Konto hat er zu Facebook nur noch so viel zu sagen: „Facebook."""	Y	konto	1716	    487	0.003	265.6923	german_at_news_2012_00606736
+15886	In seinem „Google+-Konto hat er zu Facebook nur noch so viel zu sagen: „Facebook.	Y	konto	1716	    487	0.003	265.6923	german_at_news_2012_00606736
 15887	Dabei handelt es sich um seine Schwester, die ebenfalls ein Konto bei der Plattform hat.	Y	konto	1716	    487	0.003	393.5333	german_at_news_2012_00132421
 15888	Vielleicht wurde das Konto aber gerade deshalb bisher nicht geöffnet?	Y	konto	1716	    487	0.003	453.8	german_at_news_2012_00902100
-15889	"""Warum sind Leute so überrascht, dass ich ein Google-Konto habe?"""", schrieb er demnach."""	Y	konto	1716	    487	0.003	525.0714	german_at_news_2012_00922567
+15889	Warum sind Leute so überrascht, dass ich ein Google-Konto habe?, schrieb er demnach.	Y	konto	1716	    487	0.003	525.0714	german_at_news_2012_00922567
 15890	Ich hab übrigens keine Stiftung und kein Konto in der Schweiz!	Y	konto	1716	    487	0.003	585.7273	german_at_news_2012_00554904
 15891	Nur in Wien und im Burgenland war die Entwicklung im Jänner negativ.	Y	negativ	1716	    487	0.003	316.0909	german_at_news_2012_00734864
-15892	"""Ich persönlich habe auch meine „Probleme """" mit der Politik aber alles nur negativ Reden aller Strache kann´s ja auch nicht sein."""	Y	negativ	1716	    487	0.003	321.0952	german_at_news_2012_00558434
+15892	Ich persönlich habe auch meine „Probleme  mit der Politik aber alles nur negativ Reden aller Strache kann´s ja auch nicht sein.	Y	negativ	1716	    487	0.003	321.0952	german_at_news_2012_00558434
 15893	Mit den Negativ-Schlagzeilen dieser Woche habe das nichts zu tun.	Y	negativ	1716	    487	0.003	406	german_at_news_2012_00686563
 15894	Und muss man das denn wirklich alles so schrecklich negativ sehen?	Y	negativ	1716	    487	0.003	433.4545	german_at_news_2012_00879397
 15895	Wir können uns den Luxus nicht leisten, negativ zu sein.	Y	negativ	1716	    487	0.003	464.1	german_at_news_2012_00967668

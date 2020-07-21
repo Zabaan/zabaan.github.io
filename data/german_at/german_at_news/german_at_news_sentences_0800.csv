@@ -290,7 +290,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 3289	Wir müssen erst einmal sehen, wie wir in die Saison starten.	Y	saison	625	  2,361	0.0147	271.7	german_at_news_2012_00968509
 3290	Wir haben mit dem zweiten Platz in der letzte Saison was gutes geschafft, und jetzt müssen wir das wieder bringen.	Y	saison	625	  2,361	0.0147	274.1053	german_at_news_2012_00966089
 3291	Aber es wird auch ein Leben nach Faymann und co. geben!	Y	co	626	  2,360	0.0147	169.6364	german_at_news_2012_00006423
-3292	Lesen Sie mehr zu Gusenbauer und Co. im aktuellen 'profil'!	Y	co	626	  2,360	0.0147	316.1	german_at_news_2012_00656877
+3292	Lesen Sie mehr zu Gusenbauer und Co. im aktuellen ‘profil’!	Y	co	626	  2,360	0.0147	316.1	german_at_news_2012_00656877
 3293	Ob als Co-Trainer oder in einer anderen Funktion, das spielt keine Rolle.	Y	co	626	  2,360	0.0147	330.6154	german_at_news_2012_00736846
 3294	Jeder 3. Österreicher nutzt Facebook & Co Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	co	626	  2,360	0.0147	344.4	german_at_news_2012_00619949
 3295	In Höhe von 726 Euro ·Sagen Sie uns Ihre Meinung zur Regierung Mitreden: Was halten Sie von Gusenbauer & Co?	Y	co	626	  2,360	0.0147	371.75	german_at_news_2012_00601059
@@ -422,7 +422,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 3421	Mein Dank gilt da meiner Familie und meinen Vater, für den das alles nicht immer so einfach war, wenn er von seiner Tochter in der Zeitung lesen musste.	Y	dank	650	  2,230	0.0139	251.0357	german_at_news_2012_00676009
 3422	Dank der Wirtschaftskrise ist es jetzt aber wohl nur mehr die, die es sich noch leisten kann.	Y	dank	650	  2,230	0.0139	258	german_at_news_2012_00151176
 3423	Es ist Gott sei Dank noch immer so, dass ein Auftritt in Salzburg für Künstler wichtig ist.	Y	dank	650	  2,230	0.0139	281.1875	german_at_news_2012_00462080
-3424	"""Google ist dank """"+"""" und Android top Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt."""	Y	dank	650	  2,230	0.0139	297.1923	german_at_news_2012_00519093
+3424	Google ist dank + und Android top Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	dank	650	  2,230	0.0139	297.1923	german_at_news_2012_00519093
 3425	Aber das sagt man halt so: Wie man „Dank’schön!“	Y	dank	650	  2,230	0.0139	306.4444	german_at_news_2012_00003827
 3426	Ich war immer der Meinung, wir sind einfach die Besten!	Y	meinung	651	  2,226	0.0138	141.4	german_at_news_2012_00560363
 3427	Das heißt nicht, dass dann alle einer Meinung sein oder immer alles positiv und richtig finden müssen.	Y	meinung	651	  2,226	0.0138	199.7647	german_at_news_2012_00174492
@@ -507,7 +507,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 3506	Mit Erfolg: Heuer sind bereits mehr als 20 Top-Team von Juni bis August in Oberösterreich.	Y	top	666	  2,178	0.0135	229.6667	german_at_news_2012_00691154
 3507	Hier geht´s zur »Österreich Wollen unter die Top Drei der EU kommen Bundeskanzler im Hohen Haus: „Reden wir Österreich nicht schlecht - dazu sind wir zu gut“ Wien (övp-pk) - Ziel ist es, innerhalb der nächsten Jahre unter die Top drei in der EU zu kommen.	Y	top	666	  2,178	0.0135	270.2	german_at_news_2012_00538791
 3508	Ich sehe nicht einen Grund, warum ich mich nicht noch einmal zumindest in die Top 20 spielen könnte.”	Y	top	666	  2,178	0.0135	277.9333	german_at_news_2012_00559123
-3509	"""Google ist dank """"+"""" und Android top Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt."""	Y	top	666	  2,178	0.0135	297.1923	german_at_news_2012_00519093
+3509	Google ist dank + und Android top Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	top	666	  2,178	0.0135	297.1923	german_at_news_2012_00519093
 3510	Noch nie gab es so viele neue Top-Lokale wie jetzt.	Y	top	666	  2,178	0.0135	302.8182	german_at_news_2012_00728983
 3511	Für die ÖVP sei diese Wahl „nicht nur eine Europa-Wahl in Österreich, sondern es ist eine Österreich-Wahl für das europäische Parlament“, erklärte Pröll.	Y	europäische	667	  2,176	0.0135	187.25	german_at_news_2012_00495340
 3512	Für die ÖVP sei diese Wahl nicht nur eine Europa-Wahl in Österreich, sondern es sei eine Österreich-Wahl für das europäische Parlament, erklärte Pröll.	Y	europäische	667	  2,176	0.0135	196.5789	german_at_news_2012_00495341
@@ -531,7 +531,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 3530	Jedenfalls nicht so viel mehr um 10-15 Jahre früher in Pension gehen zu können.	Y	früher	669	  2,173	0.0135	254.5385	german_at_news_2012_00619637
 3531	Ich habe mich auf die ersten 1200m konzentriert, denn wenn ich dann vorne dabei bin, ist alles möglich!	Y	m	670	  2,168	0.0135	315.0588	german_at_news_2012_00553841
 3532	Jetzt ist ihre Zeit gekommen und ich bin glücklich, zusammen mit A&M zu helfen.	Y	m	670	  2,168	0.0135	316.8667	german_at_news_2012_00624529
-3533	Und das M- Sport- Paket wird's ja auch wieder geben.	Y	m	670	  2,168	0.0135	344.3636	german_at_news_2012_00870824
+3533	Und das M- Sport- Paket wird’s ja auch wieder geben.	Y	m	670	  2,168	0.0135	344.3636	german_at_news_2012_00870824
 3534	Dazu der Polizist: “M. wurde gesagt, dass er nichts mehr sagen darf.”	Y	m	670	  2,168	0.0135	363	german_at_news_2012_00209613
 3535	Heute haben sie den M&A-Markt Deutschland verstärkt auf dem Radar - vermutlich auch, weil in anderen Teilen der Welt nicht so viel los ist.	Y	m	670	  2,168	0.0135	365	german_at_news_2012_00535559
 3536	Von der österreichischen Regierung war mit wenig Unterstützung zu rechnen.	Y	unterstützung	671	  2,164	0.0134	245.9	german_at_news_2012_00907699
@@ -748,7 +748,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 3747	Wenn Ihnen etwas zu viel ist, dann lesen Sie es doch einfach nicht.	Y	lesen	706	  2,046	0.0127	132.5385	german_at_news_2012_00941306
 3748	Mehr dazu und das Interview lesen Sie im neuen NEWS.	Y	lesen	706	  2,046	0.0127	183	german_at_news_2012_00674353
 3749	Das hat somit zur Folge, dass Sie ihn nicht wirklich lesen wollen.	Y	lesen	706	  2,046	0.0127	231.5833	german_at_news_2012_00173661
-3750	Lesen Sie mehr zu Gusenbauer und Co. im aktuellen 'profil'!	Y	lesen	706	  2,046	0.0127	316.1	german_at_news_2012_00656877
+3750	Lesen Sie mehr zu Gusenbauer und Co. im aktuellen ‘profil’!	Y	lesen	706	  2,046	0.0127	316.1	german_at_news_2012_00656877
 3751	Die doch auch nur das Beste für Land und Leute wollen.	Y	beste	707	  2,044	0.0127	152.6364	german_at_news_2012_00292721
 3752	Ob ich nun der Beste bin, der ich sein kann, diese Frage ist aber immer noch offen.	Y	beste	707	  2,044	0.0127	167.2667	german_at_news_2012_00738961
 3753	Es ist auch sicher das Beste für die Mannschaft, dass die auch einmal weiß, was kommt.	Y	beste	707	  2,044	0.0127	202.5714	german_at_news_2012_00460305
@@ -972,7 +972,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 3971	Wir sind dabei schon viel weiter als die rot-grüne Regierung in Deutschland.	Y	rot	742	  1,934	0.012	198.6923	german_at_news_2012_00969612
 3972	Frauen stehen auf Männer in Rot Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	rot	742	  1,934	0.012	252.6154	german_at_news_2012_00487449
 3973	Vor einem Jahr ist in Wien gewählt worden, das Ergebnis war eine rot-grüne Koalition.	Y	rot	742	  1,934	0.012	295.4667	german_at_news_2012_00913638
-3974	Wählt ALLE nicht Rot, sondern so wie Kärnten, dann geht's uns genau so gut wie die Kärntner.	Y	rot	742	  1,934	0.012	298.9375	german_at_news_2012_00916555
+3974	Wählt ALLE nicht Rot, sondern so wie Kärnten, dann geht’s uns genau so gut wie die Kärntner.	Y	rot	742	  1,934	0.012	298.9375	german_at_news_2012_00916555
 3975	Denn wenn man eine kleine Affäre hat oder bei Rot über die Kreuzung geht, ist die Karriere schon zu Ende.	Y	rot	742	  1,934	0.012	317.5263	german_at_news_2012_00224486
 3976	Laut bild.de sagt er zu den Menschen, die sich nun alle als Zeichen ihres Respekts erhoben haben: „Jetzt sind wir unter uns.	Y	de	743	  1,927	0.012	334.3043	german_at_news_2012_00651609
 3977	Wenn das nicht de Fall wäre, wurden die User immer mehr „verdummen“, weil sie fast keine neuen Informationen erhalten würden.	Y	de	743	  1,927	0.012	340.95	german_at_news_2012_00937797

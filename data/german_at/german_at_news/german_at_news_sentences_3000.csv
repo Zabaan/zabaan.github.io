@@ -121,7 +121,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 14120	Die Post habe zuletzt einen offenen Dialog mit den betroffenen Gemeinden geführt.	Y	dialog	1652	    551	0.0034	623	german_at_news_2012_00336945
 14121	Bis zum 30. April sind sie in fünf Städten zu sehen und zu hören.	Y	städten	1652	    551	0.0034	308.5833	german_at_news_2012_00119892
 14122	Integration findet daher vor allem in den Städten statt; ein Thema, das uns besonders am Herzen liegt“, so Häupl.	Y	städten	1652	    551	0.0034	404.6316	german_at_news_2012_00610441
-14123	"""Fast 70 Prozent der EU-Bürger leben in Städten,"""" stellte Pröll fest."""	Y	städten	1652	    551	0.0034	424.2727	german_at_news_2012_00478356
+14123	Fast 70 Prozent der EU-Bürger leben in Städten, stellte Pröll fest.	Y	städten	1652	    551	0.0034	424.2727	german_at_news_2012_00478356
 14124	In allen größeren österreichischen Städten, speziell in Wien, war es nur schwer möglich, zu einer Wohnung zu kommen.	Y	städten	1652	    551	0.0034	437.375	german_at_news_2012_00584842
 14125	Derzeit gibt es dort Angebote neun Städten in den USA.	Y	städten	1652	    551	0.0034	470.7	german_at_news_2012_00268907
 14126	Wir verfügen heute über viel mehr Wissen als noch vor wenigen Jahren.	Y	verfügen	1652	    551	0.0034	285.5	german_at_news_2012_00971375
@@ -172,7 +172,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 14171	Schließlich würden nicht nur seine Frau und er dort ihre Zeit verbringen.	Y	verbringen	1654	    549	0.0034	251.4167	german_at_news_2012_00782813
 14172	Es ist wichtig, dass sie bewusst einige Zeit nur mit ihrem Kind verbringen.	Y	verbringen	1654	    549	0.0034	336	german_at_news_2012_00463819
 14173	Machen Sie früher Schluss und verbringen Sie Zeit mit Ihrer Familie.	Y	verbringen	1654	    549	0.0034	426.7	german_at_news_2012_00661498
-14174	"""Kurz: """" Wir Jungen sind es, die den Rest unseres Lebens in der Zukunft verbringen müssen."""	Y	verbringen	1654	    549	0.0034	483.6	german_at_news_2012_00647692
+14174	Kurz:  Wir Jungen sind es, die den Rest unseres Lebens in der Zukunft verbringen müssen.	Y	verbringen	1654	    549	0.0034	483.6	german_at_news_2012_00647692
 14175	Wann immer Kim in New York ist, verbringen sie Zeit miteinander.	Y	verbringen	1654	    549	0.0034	640.1818	german_at_news_2012_00920162
 14176	Die Polizei gab bekannt, dass der Bus nicht zu schnell unterwegs gewesen sei.	Y	bus	1655	    548	0.0034	318.2308	german_at_news_2012_00336312
 14177	Wenn ich eine junge Frau wäre, würde ich auf keinen Fall mit der U-Bahn oder dem Bus fahren.	Y	bus	1655	    548	0.0034	331.0556	german_at_news_2012_00940924
@@ -276,7 +276,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 14275	Jeder mit einem Android-Smartphone/-Tablet kann also sehen, welcher Song als nächstes kommt.	Y	nächstes	1657	    546	0.0034	632.5714	german_at_news_2012_00620635
 14276	Bis 2005 wird Wien nochmals rund 64 Mio. Euro zur Verfügung stellen.	Y	nochmals	1657	    546	0.0034	324	german_at_news_2012_00116583
 14277	Es gibt 10 Mio. solche in Griechenland und nochmals 10 sonst wo auf der Welt.	Y	nochmals	1657	    546	0.0034	352.1538	german_at_news_2012_00456304
-14278	Nach zwei bis drei Wochen kommt man nochmals unter die Nadel, damit's eben wirklich so wird, wie man es sich wünscht.	Y	nochmals	1657	    546	0.0034	368.9048	german_at_news_2012_00711995
+14278	Nach zwei bis drei Wochen kommt man nochmals unter die Nadel, damit’s eben wirklich so wird, wie man es sich wünscht.	Y	nochmals	1657	    546	0.0034	368.9048	german_at_news_2012_00711995
 14279	Dann schoss man nochmals auf sie, auf einen nach dem anderen.	Y	nochmals	1657	    546	0.0034	405	german_at_news_2012_00153754
 14280	Im Juli dieses Jahres wurden nochmals 65 Millionen Euro in die Forschung investiert.	Y	nochmals	1657	    546	0.0034	417.6667	german_at_news_2012_00574113
 14281	Wir wollen nicht, dass Menschen länger arbeiten müssen, ohne ihnen dazu auch die Voraussetzung zu geben.	Y	voraussetzung	1657	    546	0.0034	257.875	german_at_news_2012_00973081
@@ -317,7 +317,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 14316	Anfang April 2004 stellt der ÖSV ihn wieder als Trainer ein.	Y	ösv	1659	    544	0.0034	412.6	german_at_news_2012_00049888
 14317	Wie viel der ÖSV, das Land und der Bund in die Flugshow investieren werden, steht noch nicht fest.	Y	ösv	1659	    544	0.0034	433.5882	german_at_news_2012_00960119
 14318	Er konnte immer seinen eigenen Weg gehen, da er nie auf die Gunst des ÖSV angewiesen war.	Y	ösv	1659	    544	0.0034	454.875	german_at_news_2012_00440575
-14319	"""Ich wollte mir das Leben nehmen, weil meine Welt zusammengebrochen ist """", erklärt der ehemalige ÖSV-Trainer im NEWS-Interview."""	Y	ösv	1659	    544	0.0034	455.7368	german_at_news_2012_00562128
+14319	Ich wollte mir das Leben nehmen, weil meine Welt zusammengebrochen ist , erklärt der ehemalige ÖSV-Trainer im NEWS-Interview.	Y	ösv	1659	    544	0.0034	455.7368	german_at_news_2012_00562128
 14320	Hans Pum: Hermann Maier ist mit seiner Erfahrung ein Thema für den ÖSV, das ist überhaupt keine Frage, aber es liegt an ihm, ob er sich einbringen will.	Y	ösv	1659	    544	0.0034	470.6296	german_at_news_2012_00528677
 14321	Es hat auch keine großen Konflikte auf dem neuen Bereich gegeben, sodass wir eigentlich von einem Erfolg sprechen können.“	Y	sodass	1659	    544	0.0034	353.1053	german_at_news_2012_00459331
 14322	Ich möchte die Dinge groß machen, sodass man nicht mehr so einfach an ihnen vorbeikommt.	Y	sodass	1659	    544	0.0034	441.0667	german_at_news_2012_00557791
@@ -489,7 +489,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 14488	Zuletzt hatte das Weiße Haus stets erklärt, dass sich die Haltung des Präsidenten in dieser Frage „noch entwickelt“.	Y	weiße	1663	    540	0.0034	437.7778	german_at_news_2012_00987448
 14489	Erstmals in der 232-jährigen Geschichte der USA haben die Amerikaner die Möglichkeit, einen Schwarzen ins Weiße Haus zu wählen.	Y	weiße	1663	    540	0.0034	496.7647	german_at_news_2012_00447452
 14490	Sie hätten „Das weiße Band“ also auch gut fürs Fernsehen machen können?	Y	weiße	1663	    540	0.0034	512.1667	german_at_news_2012_00808095
-14491	Die Krise allein kann's nicht sein In den vergangenen drei Jahren wurde die Wirtschafts- und Finanzkrise von der Politik für viele Probleme verantwortlich gemacht, auch bei uns in Oberösterreich.	Y	wirtschafts	1663	    540	0.0034	307.0357	german_at_news_2012_00320633
+14491	Die Krise allein kann’s nicht sein In den vergangenen drei Jahren wurde die Wirtschafts- und Finanzkrise von der Politik für viele Probleme verantwortlich gemacht, auch bei uns in Oberösterreich.	Y	wirtschafts	1663	    540	0.0034	307.0357	german_at_news_2012_00320633
 14492	Diese Initiative wird in den Jahren 2009 bis 2011 vom Wirtschafts- und Tourismusministerium sowie der Europäischen Union mit insgesamt 280.000 Euro gefördert.	Y	wirtschafts	1663	    540	0.0034	443.4737	german_at_news_2012_00347369
 14493	Im Jahr 2006, vor der Wirtschafts- und Finanzkrise, haben nur 37 Prozent diese Verbindung hergestellt, 2010 schon 53 Prozent.	Y	wirtschafts	1663	    540	0.0034	501.2143	german_at_news_2012_00573545
 14494	Und geht es nach den neuen Verantwortlichen für die Holzbranche in Wirtschafts- und Landwirtschaftskammer, die sich am Donnerstag der Öffentlichkeit präsentierten, sollen es bald noch mehr werden.	Y	wirtschafts	1663	    540	0.0034	501.375	german_at_news_2012_00876337
@@ -699,7 +699,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 14698	Es bleibt zu hoffen, dass die Verantwortlichen endlich etwas ändern.	Y	verantwortlichen	1673	    530	0.0033	523.4	german_at_news_2012_00452898
 14699	Ich finde es absolut richtig, dass die Verantwortlichen vor Gericht gestellt und zur Verantwortung gezogen wurden.	Y	verantwortlichen	1673	    530	0.0033	535.5625	german_at_news_2012_00550484
 14700	Ein Viertel der Verantwortlichen spricht von einer positiven Entwicklung im Frühjahr bisher.	Y	verantwortlichen	1673	    530	0.0033	603.4167	german_at_news_2012_00426131
-14701	Ich meine, wenn es passiert, dann passiert's, aber wir versuchen nicht, es zu vermeiden.	Y	vermeiden	1673	    530	0.0033	335	german_at_news_2012_00557641
+14701	Ich meine, wenn es passiert, dann passiert’s, aber wir versuchen nicht, es zu vermeiden.	Y	vermeiden	1673	    530	0.0033	335	german_at_news_2012_00557641
 14702	Alles, was den Menschen an Theater Angst macht, versucht man hier zu vermeiden.	Y	vermeiden	1673	    530	0.0033	369.5385	german_at_news_2012_00026607
 14703	Man könne sich aber frei kaufen und damit weitere Kosten vermeiden.	Y	vermeiden	1673	    530	0.0033	451.3636	german_at_news_2012_00666797
 14704	Die Kinder und Jugendlichen wiederum wollen es vermeiden, dass ihre Eltern davon erfahren.	Y	vermeiden	1673	    530	0.0033	470.6154	german_at_news_2012_00318144

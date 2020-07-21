@@ -61,8 +61,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 20060	Und damit standen den Vertretern der Industrie Tür und Tor offen.	Y	vertretern	1831	    372	0.0023	780.8	german_at_news_2012_00869253
 20061	Die Vienna Awards waren aber ein guter Grund, wieder einmal nach Hause zu kommen.	Y	awards	1832	    371	0.0023	397.2143	german_at_news_2012_00373292
 20062	Grammy-Awards 2012: Das sind die Gewinner Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	awards	1832	    371	0.0023	419.72	german_at_news_2012_00520197
-20063	Beste Bilder: Stars bei den Kid's Choice Awards Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	awards	1832	    371	0.0023	450.5862	german_at_news_2012_00112138
-20064	So sexy waren die People's Choice Awards Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	awards	1832	    371	0.0023	461.8148	german_at_news_2012_00830888
+20063	Beste Bilder: Stars bei den Kid’s Choice Awards Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	awards	1832	    371	0.0023	450.5862	german_at_news_2012_00112138
+20064	So sexy waren die People’s Choice Awards Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	awards	1832	    371	0.0023	461.8148	german_at_news_2012_00830888
 20065	People´s Choice Awards 2012: Musik-Stars Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	awards	1832	    371	0.0023	464.1923	german_at_news_2012_00755158
 20066	Adresse, Postleitzahl, Ort oder Bezirk Doris GETREUER über die Kunst, sich selbst zu lieben!	Y	doris	1832	    371	0.0023	555.7857	german_at_news_2012_00016180
 20067	Wenn der Bedarf in einer Gemeinde so groß sei, dann werde eine weitere Gruppe eingerichtet, hieß es aus dem Büro von Landesrätin Doris Hummer.	Y	doris	1832	    371	0.0023	564.4167	german_at_news_2012_00938007
@@ -642,7 +642,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 20641	Und niemand zwingt sie, zum Konzert zu gehen, also wirklich, wenn dass alles ist was sie zum sagen haben, dann i am sorry for you.	Y	for	1842	    361	0.0022	531.0435	german_at_news_2012_00879881
 20642	Mit „Lust for Life“ feierten sie gemeinsam um ein Zeichen für eine Zukunft ohne AIDS zu setzen.	Y	for	1842	    361	0.0022	633.6471	german_at_news_2012_00693203
 20643	Die stehen einem dann ständig im Nacken, nur hat ihnen das nichts genützt, da ich ja den Final Cut hatte, und es sich laut Vertrag um ein Shot-for-Shot-Remake handelte.	Y	for	1842	    361	0.0022	638.6452	german_at_news_2012_00363678
-20644	"""So gebe es zum Beispiel das Programm „Jobs for You(th)"""", an dem allein im heurigen Jahr über 10.000 Jugendliche teilnehmen werden."""	Y	for	1842	    361	0.0022	650.1429	german_at_news_2012_00822968
+20644	So gebe es zum Beispiel das Programm „Jobs for You(th), an dem allein im heurigen Jahr über 10.000 Jugendliche teilnehmen werden.	Y	for	1842	    361	0.0022	650.1429	german_at_news_2012_00822968
 20645	Wenn Sie nach dem Trio fragen, dann ist vermutlich „up for it“ der Realität am nächsten.	Y	for	1842	    361	0.0022	651.1875	german_at_news_2012_00944025
 20646	Was aber passiert nun, wenn dem Protest der Tiroler Erfolg hat?	Y	protest	1842	    361	0.0022	388.3636	german_at_news_2012_00923126
 20647	Denn nicht immer geht Protest gegen eine Regierung so demokratisch vor sich.	Y	protest	1842	    361	0.0022	390.3333	german_at_news_2012_00222066

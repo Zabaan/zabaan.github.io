@@ -48,7 +48,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 10047	Und so können bald wieder ein paar Euro in Alkohol investiert werden.	Y	alkohol	1433	    783	0.0049	326.0833	german_at_news_2012_00881784
 10048	Bei den einen ist es eine Scheidung, bei den anderen ist der Job weg, dann kommt vielleicht auch noch der Alkohol dazu und man ist obdachlos.	Y	alkohol	1433	    783	0.0049	354	german_at_news_2012_00095432
 10049	So können Jugendliche nicht mehr so leicht an Alkohol kommen.	Y	alkohol	1433	    783	0.0049	369.8889	german_at_news_2012_00825163
-10050	Auf dem Tisch vor ihr steht jede Menge Alkohol (hier geht's zu den Fotos).	Y	alkohol	1433	    783	0.0049	373.3333	german_at_news_2012_00074719
+10050	Auf dem Tisch vor ihr steht jede Menge Alkohol (hier geht’s zu den Fotos).	Y	alkohol	1433	    783	0.0049	373.3333	german_at_news_2012_00074719
 10051	Denn auch unter seiner Führung fanden die Wiener nicht aus ihrem Tief.	Y	fanden	1433	    783	0.0049	367.6667	german_at_news_2012_00218219
 10052	Zwei Spieler, die für solche Erfolge in den letzten Jahren gesorgt haben, fanden sich am Sonntag unter den letzten drei.	Y	fanden	1433	    783	0.0049	379.5556	german_at_news_2012_00998344
 10053	Waren es 2005 rund 63.000 Personen, die den Weg ins Museum fanden, hat sich diese Zahl in den letzten fünf Jahren beinahe verdreifacht.	Y	fanden	1433	    783	0.0049	392.65	german_at_news_2012_00920901
@@ -351,7 +351,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 10350	H&M von Zusammenarbeit begeistert H&M zeigte sich von dem Ergebnis begeistert.	Y	begeistert	1455	    757	0.0047	539.4444	german_at_news_2012_00543315
 10351	Wir haben ja auch eine Verantwortung gegenüber dem Publikum und allen, die auf einer Tour arbeiten, deswegen wird heute eher nach dem Konzert gefeiert.	Y	gefeiert	1455	    757	0.0047	353.7826	german_at_news_2012_00965947
 10352	Am Samstag wird aber auf alle Fälle eröffnet und gefeiert.	Y	gefeiert	1455	    757	0.0047	432.8	german_at_news_2012_00044150
-10353	"""Unter dem Motto „Wir feiern Europa """" wird heuer drei Tage lang gefeiert."""	Y	gefeiert	1455	    757	0.0047	452.0833	german_at_news_2012_00889538
+10353	Unter dem Motto „Wir feiern Europa  wird heuer drei Tage lang gefeiert.	Y	gefeiert	1455	    757	0.0047	452.0833	german_at_news_2012_00889538
 10354	Noch bis drei Uhr früh sollen William und Kate am Samstag gemeinsam mit 300 Freunden gefeiert haben.	Y	gefeiert	1455	    757	0.0047	478.3125	german_at_news_2012_00727772
 10355	An diesem Wochenende wird international der Tag der Sonne gefeiert.	Y	gefeiert	1455	    757	0.0047	535	german_at_news_2012_00048853
 10356	Die Zeit der Pfründe ist vorbei, das Geld haben wir nicht mehr“, so Gorbach.	Y	gorbach	1455	    757	0.0047	367.1429	german_at_news_2012_00379608
@@ -910,7 +910,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 10909	So wird für sie die Küche zum Reich der Sinne.	Y	reich	1487	    722	0.0045	405.6	german_at_news_2012_00833782
 10910	Die Grenze zwischen dem Deutschen Reich und Frankreich wird geschlossen.	Y	reich	1487	    722	0.0045	569.9	german_at_news_2012_00309003
 10911	Sie geht solange sie will und wenn sie nicht mehr kann, setzt sie sich hin.	Y	solange	1487	    722	0.0045	243.6667	german_at_news_2012_00806156
-10912	"""Solange bis die Polizei kam und gesagt hat: 'Jetzt nicht mehr'""""."""	Y	solange	1487	    722	0.0045	272.1818	german_at_news_2012_00825549
+10912	Solange bis die Polizei kam und gesagt hat: 'Jetzt nicht mehr.	Y	solange	1487	    722	0.0045	272.1818	german_at_news_2012_00825549
 10913	Ziel sei, dass die Menschen solange wie möglich zu Hause leben können.	Y	solange	1487	    722	0.0045	278.75	german_at_news_2012_00981347
 10914	Aber er weiß, dass er das darf, solange er nicht den Fehler macht, dabei ganz ernst zu bleiben.	Y	solange	1487	    722	0.0045	303.8125	german_at_news_2012_00005753
 10915	Jeder ist für Sparen, solange es nicht ihn selber betrifft.	Y	solange	1487	    722	0.0045	552.8	german_at_news_2012_00620441

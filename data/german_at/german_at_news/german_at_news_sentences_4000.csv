@@ -241,7 +241,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 19240	In Wahrheit hat es diese Gruppe quer durch alle politischen Parteien dazu getrieben, weil sie sich um die Qualität der Demokratie, ihre Entscheidungsfähigkeit und ihren Zustand Sorgen machen.	Y	quer	1814	    389	0.0024	499.0357	german_at_news_2012_00612505
 19241	Nur an den Unis steigt die Zahl der Studierenden - um rund ein Drittel im Vergleich zu 2005.	Y	unis	1814	    389	0.0024	429.375	german_at_news_2012_00733200
 19242	Wenn diese schlecht ist, dann helfen auch die besten Strukturen für Schulen und Unis nicht.	Y	unis	1814	    389	0.0024	448.4	german_at_news_2012_00938949
-19243	NEWS: Fekter sagt, ohne Reform gibt's kein Geld für Unis.	Y	unis	1814	    389	0.0024	512.7273	german_at_news_2012_00721564
+19243	NEWS: Fekter sagt, ohne Reform gibt’s kein Geld für Unis.	Y	unis	1814	    389	0.0024	512.7273	german_at_news_2012_00721564
 19244	An den übrigen Unis steht noch nicht fest, in welcher Sitzung die Entscheidung fallen wird.	Y	unis	1814	    389	0.0024	557.6	german_at_news_2012_00046257
 19245	Der deutliche Hinweis das auf die Unis sehr viel falsch läuft.	Y	unis	1814	    389	0.0024	658.8182	german_at_news_2012_00235256
 19246	Von einem Tag auf den anderen war die gute Frau Finanz- u. Steuerexpertin!	Y	finanz	1815	    388	0.0024	415.3846	german_at_news_2012_00908367
@@ -635,7 +635,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 19634	Gusenbauer betonte, dass es eine wirtschaftliche und soziale Solidarität mit den neuen Mitgliedstaaten geben müsse.	Y	solidarität	1823	    380	0.0024	508.6667	german_at_news_2012_00524273
 19635	Die Idee des Friedrich Wilhelm Raiffeisen“, so Pröll weiter, „setzt auf Solidarität und ist damit heute wichtiger denn je.	Y	solidarität	1823	    380	0.0024	561.2105	german_at_news_2012_00313566
 19636	Nächstes Jahr steht dann der 40er an – für das deutsche Topmodel, das noch immer gut im Geschäft ist, kein Problem.	Y	topmodel	1823	    380	0.0024	330.7895	german_at_news_2012_00711026
-19637	Lydia ist „Austria's next Topmodel“ 2011 Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	topmodel	1823	    380	0.0024	436.0385	german_at_news_2012_00661359
+19637	Lydia ist „Austria’s next Topmodel“ 2011 Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	topmodel	1823	    380	0.0024	436.0385	german_at_news_2012_00661359
 19638	Topmodel: Darija im Visier von Julia Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	topmodel	1823	    380	0.0024	482.5385	german_at_news_2012_00853821
 19639	Diese 22 wollen Topmodel sein Casting-Show auf Puls 4. Heute geht es los – aber wie gut sind die Mädchen?	Y	topmodel	1823	    380	0.0024	495.9444	german_at_news_2012_00344301
 19640	Die Stadt Wien sorgt daher für eine hochwertige Ausbildung von mehr als 5.000 jungen Wien sucht sein Topmodel 2012!	Y	topmodel	1823	    380	0.0024	502.4375	german_at_news_2012_00363267
@@ -800,7 +800,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 19799	Und wer einen Mann wie Ministerpräsident Wladimir Putin hinter sich weiß, der kann sogar noch dann springen, wenn er eigentlich auf dem Boden liegt.	Y	springen	1826	    377	0.0023	454.625	german_at_news_2012_00884766
 19800	Dass er bisher nicht völlig erfolgte, oder in bestimmten Systemen (noch) nicht, sagt überhaupt nicht, dass es nicht bald zum ersten Kommentar des Diskussionszweigs springen » in dem einen oder anderen System so weit sein könnte.	Y	springen	1826	    377	0.0023	474	german_at_news_2012_00194523
 19801	Ich hatte Angst nach dem Spiel und ich war den Tränen nahe.	Y	tränen	1826	    377	0.0023	390.7273	german_at_news_2012_00555145
-19802	"""Man kann mir zwar die Bühne, aber nicht meinen Tanz nehmen!"""", erzählt sie in ÖSTERREICH, den Tränen nahe."""	Y	tränen	1826	    377	0.0023	442.2222	german_at_news_2012_00666337
+19802	Man kann mir zwar die Bühne, aber nicht meinen Tanz nehmen!, erzählt sie in ÖSTERREICH, den Tränen nahe.	Y	tränen	1826	    377	0.0023	442.2222	german_at_news_2012_00666337
 19803	Wir wollen keine Tränen zusätzlich zum Regen“, so der Musiker.	Y	tränen	1826	    377	0.0023	586.4	german_at_news_2012_00973017
 19804	Mein Herz hängt an Sturm Graz“, sagte er unter Tränen.	Y	tränen	1826	    377	0.0023	659.7	german_at_news_2012_00677090
 19805	Haiders Schwester Ursula Haubner soll den Tränen nahe gewesen sein.	Y	tränen	1826	    377	0.0023	996.5	german_at_news_2012_00527189
@@ -886,7 +886,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 19885	Tut mir leid, aber damit hab ich einfach nix am Hut.	Y	hut	1828	    375	0.0023	718.8182	german_at_news_2012_00858162
 19886	Diesem ist man nun durch die Arbeit von Dipl.-Ing.	Y	ing	1828	    375	0.0023	447.9	german_at_news_2012_00348642
 19887	Die drei Millionen Euro für den Um- und Ausbau des alten Tennengebäudes aus dem Jahre 1594 durch den Grazer Architekten Dipl.-Ing.	Y	ing	1828	    375	0.0023	555.15	german_at_news_2012_00293129
-19888	"""Das Interesse an den neuen Filmen ist riesengroß - die Filme werden aber auf jeden Fall 3 Monate im Programm bleiben, sodass jeder sich alle Filme ansehen kann, die er möchte,"""" erklärt der Geschäftsführer des Neuen IMAX Wien, Ing. Alfred Gelbmann."""	Y	ing	1828	    375	0.0023	598.0556	german_at_news_2012_00175875
+19888	Das Interesse an den neuen Filmen ist riesengroß - die Filme werden aber auf jeden Fall 3 Monate im Programm bleiben, sodass jeder sich alle Filme ansehen kann, die er möchte, erklärt der Geschäftsführer des Neuen IMAX Wien, Ing. Alfred Gelbmann.	Y	ing	1828	    375	0.0023	598.0556	german_at_news_2012_00175875
 19889	Die aktuellen Arbeitsmarktdaten zeigen einmal mehr, dass Kärnten den richtigen Weg geht und die Politik des BZÖ goldrichtig ist“, zeigt sich der Arbeitsmarktreferent des Landes Dipl.-Ing.	Y	ing	1828	    375	0.0023	601.72	german_at_news_2012_00276961
 19890	Heute sind wir sehr stolz auf die starke Entwicklung der ersten fünf Jahre“, erklärt Ing. Gerhard Schmid, Vorstandsdirektor der Flughafen Wien AG.	Y	ing	1828	    375	0.0023	610.3333	german_at_news_2012_00536573
 19891	So erklärte Leitner, er sehe zwar noch eine Chance für die Regierung, diese sei aber „endenwollend“.	Y	leitner	1828	    375	0.0023	438.125	german_at_news_2012_00821787

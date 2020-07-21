@@ -251,7 +251,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 24250	Vor einer Bank kam es Samstag früh zu einem Streit zwischen einem 17-Jährigen und zwei unbekannten jungen Männern.	Y	unbekannten	1905	    298	0.0019	464.4118	german_at_news_2012_00913694
 24251	“Er ist aus dem Urlaub gekommen mit den besten Werten von allen.	Y	werten	1905	    298	0.0019	331.5	german_at_news_2012_00438907
 24252	Sie werten nicht, so wie wir Erwachsene das gerne tun.	Y	werten	1905	    298	0.0019	462.2	german_at_news_2012_00816625
-24253	"""Und angesichts der Krise haben wohl viele Leute wieder die schönen Seiten der Heimat entdeckt und zu den einfachen Werten zurück gefunden,"""" sagte er."""	Y	werten	1905	    298	0.0019	541.5	german_at_news_2012_00867390
+24253	Und angesichts der Krise haben wohl viele Leute wieder die schönen Seiten der Heimat entdeckt und zu den einfachen Werten zurück gefunden, sagte er.	Y	werten	1905	    298	0.0019	541.5	german_at_news_2012_00867390
 24254	Da gilt das Motto: Fest in den Werten, modern in den Wegen“, so Molterer.	Y	werten	1905	    298	0.0019	601.0833	german_at_news_2012_00139954
 24255	Die geringe Beteiligung an der Abstimmung sei als klare Absage der Unternehmer an das Gesetz zu werten.	Y	werten	1905	    298	0.0019	836.1333	german_at_news_2012_00307045
 24256	Insgesamt wurden in Brasilien in den letzten zehn Jahren rund 210 Mio US-Dollar von Austro-Unternehmen investiert.	Y	austro	1906	    297	0.0018	458.0625	german_at_news_2012_00609318
@@ -302,7 +302,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 24301	Microsoft stellt Windows Phone 8 vor Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	phone	1906	    297	0.0018	372.76	german_at_news_2012_00680492
 24302	Windows Phone 7 Handy von Samsung Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	phone	1906	    297	0.0018	400.28	german_at_news_2012_00961954
 24303	Windows Phone 7 für iPhone und Android Nutzer anderer Geräte können sich ein Bild von der Software machen.	Y	phone	1906	    297	0.0018	559.8824	german_at_news_2012_00961952
-24304	"""Für Microsoft ist Windows das wichtigste Produkt, noch vor Office Mit dem aktuellen Handy-Betriebssystem """" Windows Phone 7 """" hat es die Software mittlerweile auch auf Smartphones geschafft."""	Y	phone	1906	    297	0.0018	651.48	german_at_news_2012_00499276
+24304	Für Microsoft ist Windows das wichtigste Produkt, noch vor Office Mit dem aktuellen Handy-Betriebssystem  Windows Phone 7  hat es die Software mittlerweile auch auf Smartphones geschafft.	Y	phone	1906	    297	0.0018	651.48	german_at_news_2012_00499276
 24305	HTC zwischen Android und Windows Phone 7 Smartphone-Hersteller präsentierte Top-Android- und -Windows-Handys.	Y	phone	1906	    297	0.0018	1117.3636	german_at_news_2012_00545777
 24306	Jetzt führt er das BZÖ an und geht mit Schüssel in die EU-Präsidentschaft.	Y	präsidentschaft	1906	    297	0.0018	272.5714	german_at_news_2012_00623636
 24307	Bundeskanzler Dr. Schüssel hat dem Europäischen Parlament vor genau vier Wochen über die Ziele der Österreichischen Präsidentschaft berichtet.	Y	präsidentschaft	1906	    297	0.0018	420.5	german_at_news_2012_00125132
@@ -545,7 +545,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 24544	Amazon bringt Kindle Touch nach Österreich Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	touch	1909	    294	0.0018	435.7308	german_at_news_2012_00039685
 24545	Zune HD startet gegen den iPod Touch Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	touch	1909	    294	0.0018	505.4815	german_at_news_2012_00991642
 24546	Beim Spiel zwischen Österreich und Deutschland am vergangenen Montag war der Verbund gleich mit drei Vorständen vertreten.	Y	verbund	1909	    294	0.0018	426.2353	german_at_news_2012_00104087
-24547	"""Daher ist es nur vernünftig, mit diesen das Gespräch zu suchen,"""" so der Verbund-Vorstand in NEWS."""	Y	verbund	1909	    294	0.0018	429.1176	german_at_news_2012_00141087
+24547	Daher ist es nur vernünftig, mit diesen das Gespräch zu suchen, so der Verbund-Vorstand in NEWS.	Y	verbund	1909	    294	0.0018	429.1176	german_at_news_2012_00141087
 24548	Schon jetzt ist fix, dass der Verbund vor allem über den Preis angreifen wird.	Y	verbund	1909	    294	0.0018	471.1429	german_at_news_2012_00785619
 24549	Gleichzeitig ist dem Verbund zu danken, dass es ein Beispiel dafür gibt, dass Unternehmen auch neue Wege bei der Wahrnehmung ihrer Verantwortung für Natur- und Umweltschutz gehen können und müssen.	Y	verbund	1909	    294	0.0018	473.5357	german_at_news_2012_00517333
 24550	Am Mittwoch hat auch der Verbund eine Senkung des Strompreises um etwa fünf Prozent bekannt gegeben.	Y	verbund	1909	    294	0.0018	487.4375	german_at_news_2012_00042811
@@ -579,7 +579,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 24578	Die Menschen glauben, er bringe eine bessere Leistung, aber das stimmt nicht.“	Y	bringe	1910	    293	0.0018	529.5	german_at_news_2012_00326337
 24579	Die Reform bringe Verbesserungen in allen Bereichen der Sicherheit und mehr Qualität für die Bürgerinnen und Bürger.	Y	bringe	1910	    293	0.0018	672.4	german_at_news_2012_00339295
 24580	Die Europäische Union bringe für die Bürger eine Reihe wichtiger Vorteile.	Y	bringe	1910	    293	0.0018	752	german_at_news_2012_00299206
-24581	Entweder Italien schafft es selbst oder das war's dann mit dem Projekt Europa, so wie es sich jetzt darstellt.	Y	darstellt	1910	    293	0.0018	358.6842	german_at_news_2012_00431944
+24581	Entweder Italien schafft es selbst oder das war’s dann mit dem Projekt Europa, so wie es sich jetzt darstellt.	Y	darstellt	1910	    293	0.0018	358.6842	german_at_news_2012_00431944
 24582	Wir setzen auf die Jugend - sie ist es, die Europa darstellt.	Y	darstellt	1910	    293	0.0018	389.6	german_at_news_2012_00969371
 24583	Er habe bereits beim Rat im Juni diese Frage angesprochen, weil sie natürlich eine ganz wesentliche Frage für Österreich darstellt, so Gusenbauer.	Y	darstellt	1910	    293	0.0018	413.5238	german_at_news_2012_00436053
 24584	Es ist klar, dass eine große Lösung auch eine große Herausforderung darstellt.	Y	darstellt	1910	    293	0.0018	469.5	german_at_news_2012_00462567
@@ -688,7 +688,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 24687	Er geht sogar auf die Knie und macht ihr einen Antrag.	Y	knie	1911	    292	0.0018	352.8182	german_at_news_2012_00435614
 24688	Abgesehen davon, war es ein Schuss ins Knie, denn der Euro ist auch nach der Griechenland-Hilfe weiter nach unten gegangen.	Y	knie	1911	    292	0.0018	541.7368	german_at_news_2012_00013214
 24689	Das Ergebnis: Bewegen sich die Knie gerade nach unten, ist alles in Ordnung.	Y	knie	1911	    292	0.0018	558.4615	german_at_news_2012_00166385
-24690	"""Wie tief kann Minister Pröll eigentlich noch vor der Industrie und Minister Bartenstein in die Knie gehen?"""" fragt Glawischnig."""	Y	knie	1911	    292	0.0018	640.5	german_at_news_2012_00959881
+24690	Wie tief kann Minister Pröll eigentlich noch vor der Industrie und Minister Bartenstein in die Knie gehen? fragt Glawischnig.	Y	knie	1911	    292	0.0018	640.5	german_at_news_2012_00959881
 24691	Sie wurden von der Rettung in das LKH Villach gebracht.	Y	lkh	1911	    292	0.0018	585.2	german_at_news_2012_00817768
 24692	Der 40-Jährige erlitt schwere Verletzungen an der Hand und wurde ins LKH Graz gebracht.	Y	lkh	1911	    292	0.0018	628.4615	german_at_news_2012_00227482
 24693	Eines der größten Vorhaben sei laut Voves das Projekt LKH 2020.	Y	lkh	1911	    292	0.0018	682.6	german_at_news_2012_00413537
@@ -966,7 +966,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 24965	Prinz Harry: Lieber Single als mit Pippa Harry & Pippa als Traumpaar?	Y	pippa	1915	    288	0.0018	1098.375	german_at_news_2012_00762261
 24966	Ab dem Zeitpunkt wo Plech sagte „keine Entscheidung ohne Minister“ war dies anders.	Y	plech	1915	    288	0.0018	442.7692	german_at_news_2012_00001138
 24967	Plech kann sich nicht mehr an ein treffen mit Hochegger und Meischberger zur Buwog erinnern, obwohl Hochegger erklärte Plech sei dabei gewesen.	Y	plech	1915	    288	0.0018	514.95	german_at_news_2012_00758596
-24968	Für's Mund halten, hatte mir Plech „10 Millionen Schilling angeboten“.	Y	plech	1915	    288	0.0018	698.4	german_at_news_2012_00500390
+24968	Für’s Mund halten, hatte mir Plech „10 Millionen Schilling angeboten“.	Y	plech	1915	    288	0.0018	698.4	german_at_news_2012_00500390
 24969	Gemeint sind Peter Hochegger, Walter Meischberger, Ernst Plech und vor allem Karl-Heinz Grasser.	Y	plech	1915	    288	0.0018	745	german_at_news_2012_00508970
 24970	Mit ihm Peter Hochegger, Walter Meischberger und Ernst Karl Plech.	Y	plech	1915	    288	0.0018	762.4	german_at_news_2012_00692229
 24971	Und davon gibt es auch in dieser Saison wieder einmal reichlich.	Y	reichlich	1915	    288	0.0018	289.1818	german_at_news_2012_00871687

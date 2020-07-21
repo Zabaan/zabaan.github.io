@@ -1,5 +1,5 @@
 ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
-6001	"""""""Ondertussen zijn we tien jaar verder en heb ik ook dit jaar weer 15 leerlingen in het eerste jaar"""", zegt ze."""	Y	ondertussen	1133	    3,902	0.0081	161.4444	nld_news_2015_00736850
+6001	Ondertussen zijn we tien jaar verder en heb ik ook dit jaar weer 15 leerlingen in het eerste jaar, zegt ze.	Y	ondertussen	1133	    3,902	0.0081	161.4444	nld_news_2015_00736850
 6002	We hebben het er ondertussen al een paar keer over gehad.	Y	ondertussen	1133	    3,902	0.0081	216	nld_news_2019_00928971
 6003	Ondertussen ziet het de vrouwen nog steeds als verdachten in de zaak.	Y	ondertussen	1133	    3,902	0.0081	312	nld_news_2019_00730893
 6004	De bewoners zitten ondertussen niet bij de pakken neer en proberen er het beste van te maken.	Y	ondertussen	1133	    3,902	0.0081	340.875	nld_news_2016_00165318
@@ -16,7 +16,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6015	De persoon in kwestie wordt voorlopig uit de wind gehouden.	Y	wind	1134	    3,899	0.0081	515.6667	nld_news_2015_00223430
 6016	Zo niet dan moet er worden betaald aan de gemeente.	Y	betaald	1135	    3,898	0.0081	151.5	nld_news_2016_00993486
 6017	U krijgt natuurlijk niet betaald om daar een reactie op te geven.	Y	betaald	1135	    3,898	0.0081	238.9167	nld_news_2019_00851467
-6018	"""""""Het zou echt heel mooi zijn als ik ook betaald voetbal kan spelen."""	Y	betaald	1135	    3,898	0.0081	263	nld_news_2016_00492138
+6018	Het zou echt heel mooi zijn als ik ook betaald voetbal kan spelen.	Y	betaald	1135	    3,898	0.0081	263	nld_news_2016_00492138
 6019	Hoeveel geld de familie heeft betaald wilde hij niet zeggen.	Y	betaald	1135	    3,898	0.0081	326.5	nld_news_2015_00522498
 6020	Kosten daarvan zijn 6 miljoen euro en ook Drenthe betaald mee.	Y	betaald	1135	    3,898	0.0081	383.5	nld_news_2015_00618547
 6021	Die doet te weinig voor de mogelijkheden die er nu wel zijn.	Y	mogelijkheden	1136	    3,895	0.0081	163.6364	nld_news_2019_00276713
@@ -26,12 +26,12 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6025	Ze maakt daarvoor gebruik van de mogelijkheden die het Chinese systeem biedt.	Y	mogelijkheden	1136	    3,895	0.0081	427.6667	nld_news_2019_00966810
 6026	In 1815 was dat misschien nog zo, maar tegenwoordig niet meer.	Y	tegenwoordig	1137	    3,890	0.0081	163.9	nld_news_2016_00552641
 6027	Want die willen tegenwoordig een goed gevoel hebben over hun werk.'	Y	tegenwoordig	1137	    3,890	0.0081	234.0909	nld_news_2015_00921428
-6028	"""Wie elkaar niet ligt blijft tegenwoordig veel meer op afstand van elkaar."""""""	Y	tegenwoordig	1137	    3,890	0.0081	283.7273	nld_news_2016_00947110
+6028	Wie elkaar niet ligt blijft tegenwoordig veel meer op afstand van elkaar.	Y	tegenwoordig	1137	    3,890	0.0081	283.7273	nld_news_2016_00947110
 6029	Tegenwoordig is het zo normaal dat het normaal gevonden wordt.	Y	tegenwoordig	1137	    3,890	0.0081	327.75	nld_news_2019_00819432
 6030	Vroeger gingen er van de twintig spelers twee naar het buitenland, tegenwoordig blijven er slechts twee.	Y	tegenwoordig	1137	    3,890	0.0081	413.3571	nld_news_2015_00913149
 6031	Maar zo nu en dan heeft hij ook een slechte dag.	Y	slechte	1138	    3,888	0.0081	136.6364	nld_news_2015_00654790
 6032	De een zegt dat het een zeer slechte zaak was.	Y	slechte	1138	    3,888	0.0081	219	nld_news_2015_00171009
-6033	"""""""Vooral voor de jongens van nu vind ik het een slechte zaak."""	Y	slechte	1138	    3,888	0.0081	263.5	nld_news_2019_00893629
+6033	Vooral voor de jongens van nu vind ik het een slechte zaak.	Y	slechte	1138	    3,888	0.0081	263.5	nld_news_2019_00893629
 6034	Die man heeft waarschijnlijk net als ik een slechte nacht gehad.	Y	slechte	1138	    3,888	0.0081	308.5455	nld_news_2015_00279667
 6035	Natuurlijk is «slechte invloed» iets waarvan de jeugd meer wil weten.	Y	slechte	1138	    3,888	0.0081	425.1818	nld_news_2019_00694077
 6036	Ze zeggen dat ze veel bereikt hebben de laatste jaren, maar niet voor mensen zoals ik.”	Y	bereikt	1139	    3,887	0.0081	133.6	nld_news_2019_00974035
@@ -43,7 +43,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6042	Op die manier moet duidelijk worden wat de afgelopen jaren allemaal fout ging.	Y	fout	1139	    3,887	0.0081	204.7692	nld_news_2015_00762152
 6043	Ouders houden ook dan van hun kinderen, wanneer zij iets fout hebben gedaan.	Y	fout	1139	    3,887	0.0081	229.8462	nld_news_2015_00771483
 6044	Ja, dat soort dingen wordt wel gezegd, Maar niet alles wat fout gaat hoeft een reden te hebben.	Y	fout	1139	    3,887	0.0081	294.0556	nld_news_2015_00595925
-6045	Alsof jij niks fout's in je leven hebt gedaan.	Y	fout	1139	    3,887	0.0081	471.3	nld_news_2016_00039482
+6045	Alsof jij niks fout’s in je leven hebt gedaan.	Y	fout	1139	    3,887	0.0081	471.3	nld_news_2016_00039482
 6046	Een man met een gouden hart, dat wat anders in elkaar zit als dat van iemand anders.	Y	gouden	1140	    3,881	0.0081	219.8571	nld_news_2015_00321873
 6047	Met de gouden woorden: als het maar niet elke week gebeurt.	Y	gouden	1140	    3,881	0.0081	271.7273	nld_news_2019_00663209
 6048	Het is de vierde Gouden Film in een maand tijd.	Y	gouden	1140	    3,881	0.0081	274.8	nld_news_2015_00454608
@@ -54,13 +54,13 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6053	Het geld en de taal: van woorden kennen we de waarde niet, maar hoe zit dat met geld?	Y	taal	1141	    3,876	0.0081	271.125	nld_news_2015_00447103
 6054	En dan het liefst een kerk waar de eigen taal gesproken wordt.	Y	taal	1141	    3,876	0.0081	310.5	nld_news_2016_00348304
 6055	Het is alsof elke tijd, elke cultuur een eigen «taal» spreekt.	Y	taal	1141	    3,876	0.0081	449.9	nld_news_2016_00449413
-6056	"""Er is natuurlijk nog veel werk aan de winkel, maar alles valt nu op zijn plaats."""""""	Y	winkel	1142	    3,861	0.008	164.875	nld_news_2019_00366504
+6056	Er is natuurlijk nog veel werk aan de winkel, maar alles valt nu op zijn plaats.	Y	winkel	1142	    3,861	0.008	164.875	nld_news_2019_00366504
 6057	We hebben dan wel gewonnen, maar er is wel werk aan de winkel.”	Y	winkel	1142	    3,861	0.008	197.3333	nld_news_2016_00931996
 6058	De beelden laten zien dat de twee een duidelijk doel hebben als ze de winkel binnen komen.	Y	winkel	1142	    3,861	0.008	231.0667	nld_news_2019_00149058
 6059	De winkel is al enige tijd gesloten op maandag en donderdag.	Y	winkel	1142	    3,861	0.008	272	nld_news_2016_00272240
 6060	De winkel blijft vandaag gesloten, laat de eigenaar op weten.	Y	winkel	1142	    3,861	0.008	414	nld_news_2019_00265656
 6061	Als een moeder met haar kind is, is ze dus niet zichzelf, maar als ze zonder haar kind is, is ze ook niet zichzelf; het is dus net zo moeilijk om je kind te verlaten als om bij haar te zijn.’	Y	verlaten	1143	    3,856	0.008	164.375	nld_news_2019_00020745
-6062	"""""""Ik hoop dat ze snel het land verlaten,"""" zegt hij."""	Y	verlaten	1143	    3,856	0.008	222.5	nld_news_2019_00531537
+6062	Ik hoop dat ze snel het land verlaten, zegt hij.	Y	verlaten	1143	    3,856	0.008	222.5	nld_news_2019_00531537
 6063	Uiteindelijk heb ik hem buiten kunnen zetten en heb ik hem gezegd dat ik hem zou verlaten.”	Y	verlaten	1143	    3,856	0.008	266.4167	nld_news_2016_00852468
 6064	De meeste mensen die nu het land verlaten, komen uit West-Afrika.	Y	verlaten	1143	    3,856	0.008	309.1667	nld_news_2015_00206642
 6065	Ondanks het feit dat de man aan gaf dat ze zijn woning moesten verlaten besloten agenten de man hulp te bieden.	Y	verlaten	1143	    3,856	0.008	441.9444	nld_news_2016_00732082
@@ -69,25 +69,25 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6068	Geen eerste Belgische in top-tien Bij de Belgische vrouwen helaas geen plaats in de top tien.	Y	helaas	1144	    3,853	0.008	266.7273	nld_news_2016_00390217
 6069	Het zit er helaas niet in, waarschijnlijk zelfs het hele weekend niet.	Y	helaas	1144	    3,853	0.008	309.6	nld_news_2016_00491799
 6070	Helaas kun je nooit ervoor zorgen dat je iedereen kunt helpen.	Y	helaas	1144	    3,853	0.008	446.6	nld_news_2019_00406633
-6071	"""""""We vinden dit thema te mooi om nog een jaar te wachten en dan doen we het maar zelf."""""""	Y	thema	1145	    3,849	0.008	181.1765	nld_news_2016_00942435
+6071	We vinden dit thema te mooi om nog een jaar te wachten en dan doen we het maar zelf.	Y	thema	1145	    3,849	0.008	181.1765	nld_news_2016_00942435
 6072	Maar het thema moet je ook liggen, want anders wordt het moeilijk.	Y	thema	1145	    3,849	0.008	253.0909	nld_news_2015_00642676
 6073	Het eerste nummer had een thema: de jaren van Knack.	Y	thema	1145	    3,849	0.008	300.8	nld_news_2016_00437813
 6074	De geschiedenis van Heerenveen zou een vast thema moeten zijn.	Y	thema	1145	    3,849	0.008	340.4	nld_news_2015_00182450
 6075	Elk jaar kent een groot thema in 2015 staat Natuur in stad en dorp centraal.	Y	thema	1145	    3,849	0.008	461.1538	nld_news_2015_00339098
 6076	Maar misschien moet hij af en toe net iets anders een duel in gaan.	Y	duel	1146	    3,848	0.008	174.2857	nld_news_2016_00644789
 6077	En het is ook niet de eerste keer dat ik een duel verlies.	Y	duel	1146	    3,848	0.008	193	nld_news_2016_00354230
-6078	"""We willen ook deze wedstrijd weer gebruiken om beter te worden richting het eerste duel in Frankrijk."""""""	Y	duel	1146	    3,848	0.008	240.5294	nld_news_2019_00940657
+6078	We willen ook deze wedstrijd weer gebruiken om beter te worden richting het eerste duel in Frankrijk.	Y	duel	1146	    3,848	0.008	240.5294	nld_news_2019_00940657
 6079	'Het wordt een belangrijk duel, we moeten winnen om gelijk te komen met Ajax.	Y	duel	1146	    3,848	0.008	287	nld_news_2016_00489172
 6080	Normaal gesproken hadden we dit duel ook wel gewonnen, denk ik.	Y	duel	1146	    3,848	0.008	442	nld_news_2015_00712235
 6081	Het is nog niet duidelijk of de PvdA zich in het voorstel kan vinden.	Y	voorstel	1146	    3,848	0.008	182.4615	nld_news_2015_00460485
 6082	Maar wie kan mij helpen aan het voorstel van de regering.	Y	voorstel	1146	    3,848	0.008	228.2727	nld_news_2015_00653634
-6083	"""""""Ik heb er wel geloof in dat onze voorstel er ooit komt."""	Y	voorstel	1146	    3,848	0.008	260.3636	nld_news_2015_00539897
+6083	Ik heb er wel geloof in dat onze voorstel er ooit komt.	Y	voorstel	1146	    3,848	0.008	260.3636	nld_news_2015_00539897
 6084	Tijdens een eerder debat ging de Europese Commissie niet mee met het voorstel.	Y	voorstel	1146	    3,848	0.008	275.9231	nld_news_2016_00832209
-6085	"""Wellicht biedt dit voorstel een goede kans"""", aldus het CDA."""	Y	voorstel	1146	    3,848	0.008	455.2	nld_news_2015_00938142
+6085	Wellicht biedt dit voorstel een goede kans, aldus het CDA.	Y	voorstel	1146	    3,848	0.008	455.2	nld_news_2015_00938142
 6086	We hebben goed overleg met hem en hij kan ook niets aan de situatie doen.	Y	overleg	1147	    3,847	0.008	160.4667	nld_news_2016_00932716
 6087	En is er al overleg geweest met de Vlaamse regering?'	Y	overleg	1147	    3,847	0.008	235.5	nld_news_2015_00350593
 6088	Dat heeft de gemeente dinsdag besloten na overleg met de politie en het Openbaar Ministerie.	Y	overleg	1147	    3,847	0.008	275.1429	nld_news_2019_00111641
-6089	"""""""Na overleg met het Openbaar Ministerie konden de mensen gaan."""	Y	overleg	1147	    3,847	0.008	310.3	nld_news_2016_00694058
+6089	Na overleg met het Openbaar Ministerie konden de mensen gaan.	Y	overleg	1147	    3,847	0.008	310.3	nld_news_2016_00694058
 6090	Rusland bleef vandaag weg bij het Syrië-overleg in Parijs.	Y	overleg	1147	    3,847	0.008	487.4	nld_news_2016_00797866
 6091	En je zou denken dat ze het daar in de gemeenteraad over hebben.	Y	gemeenteraad	1148	    3,845	0.008	139.6923	nld_news_2016_00356612
 6092	Dat heeft het college maandag laten weten aan de gemeenteraad.	Y	gemeenteraad	1148	    3,845	0.008	248.7	nld_news_2019_00112231
@@ -106,11 +106,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6105	Ze houdt enkel rekening met de waarde van de grond waarop een bos staat.	Y	bos	1150	    3,837	0.008	401.3077	nld_news_2015_00963283
 6106	“Het gaat over mensen die niet alleen altijd maar meer willen hebben, maar nooit tevreden zijn met wat ze hebben.”	Y	tevreden	1151	    3,835	0.008	116.2222	nld_news_2016_00442490
 6107	Het houdt natuurlijk niet over, maar we zijn inmiddels met weinig tevreden.	Y	tevreden	1151	    3,835	0.008	216.1667	nld_news_2015_00451097
-6108	"""""""Ik ben tevreden over het niveau dat ik heb laten zien."""	Y	tevreden	1151	    3,835	0.008	259.2	nld_news_2019_00521628
+6108	Ik ben tevreden over het niveau dat ik heb laten zien.	Y	tevreden	1151	    3,835	0.008	259.2	nld_news_2019_00521628
 6109	Uiteindelijk is dit het geworden en ben ik tevreden met het resultaat.’	Y	tevreden	1151	    3,835	0.008	289.0909	nld_news_2019_00848781
 6110	De Boer lijkt niet tevreden met het spel van Ajax.	Y	tevreden	1151	    3,835	0.008	425.5	nld_news_2016_00166708
-6111	"""Wij gaan voor hen door het vuur, zij moeten dat ook voor ons doen."""""""	Y	vuur	1152	    3,832	0.008	160.7692	nld_news_2015_00950524
-6112	"""""""Ik vond het echt leuk om te zien dat iedereen voor elkaar door het vuur ging vandaag."""	Y	vuur	1152	    3,832	0.008	229.3125	nld_news_2019_00539724
+6111	Wij gaan voor hen door het vuur, zij moeten dat ook voor ons doen.	Y	vuur	1152	    3,832	0.008	160.7692	nld_news_2015_00950524
+6112	Ik vond het echt leuk om te zien dat iedereen voor elkaar door het vuur ging vandaag.	Y	vuur	1152	    3,832	0.008	229.3125	nld_news_2019_00539724
 6113	De brandweer had het vuur niet veel later onder controle.	Y	vuur	1152	    3,832	0.008	332.1	nld_news_2015_00158918
 6114	Ongeveer een uur later had de brandweer het vuur onder controle.	Y	vuur	1152	    3,832	0.008	344.5455	nld_news_2019_00732231
 6115	De wethouder lag al langer onder vuur van de gemeenteraad.	Y	vuur	1152	    3,832	0.008	523.2222	nld_news_2015_00264672
@@ -119,17 +119,17 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6118	De winnaar van die prijs wordt op 14 oktober bekend gemaakt.	Y	winnaar	1153	    3,831	0.008	241.3	nld_news_2019_00265944
 6119	Er stond dus heel wat op het spel: alleen de winnaar van de partij zou aan de leiding blijven.	Y	winnaar	1153	    3,831	0.008	258.8824	nld_news_2016_00371264
 6120	De winnaar speelt zondag in de WK-finale tegen Frankrijk.	Y	winnaar	1153	    3,831	0.008	416	nld_news_2019_00265845
-6121	Maar wat heb je aan 'trots' als hij er niet meer is.	Y	trots	1154	    3,830	0.008	125.3333	nld_news_2015_00652682
+6121	Maar wat heb je aan ‘trots’ als hij er niet meer is.	Y	trots	1154	    3,830	0.008	125.3333	nld_news_2015_00652682
 6122	Nog voor de verkiezingen, zodat we weer trots op ons Nederland kunnen zijn.	Y	trots	1154	    3,830	0.008	214.6923	nld_news_2016_00710915
 6123	‘Daar ben ik heel erg trots op, zeker na alles wat er gebeurd is.’	Y	trots	1154	    3,830	0.008	247.1429	nld_news_2019_00079675
-6124	"""""""Ik ben trots op mijn team, want ze hebben alles gegeven tot de laatste minuut."""	Y	trots	1154	    3,830	0.008	280.0667	nld_news_2019_00521698
+6124	Ik ben trots op mijn team, want ze hebben alles gegeven tot de laatste minuut.	Y	trots	1154	    3,830	0.008	280.0667	nld_news_2019_00521698
 6125	Wij zijn een sterk parlement, waarop we trots mogen zijn.	Y	trots	1154	    3,830	0.008	405.6667	nld_news_2019_00950159
 6126	'Het maakt mij niet uit wie wat doet, als je je er maar goed bij voelt.	Y	voelt	1155	    3,823	0.0079	145.8667	nld_news_2019_00451988
-6127	"""Het voelt vaak als het einde van de week, maar het is ook het begin."""""""	Y	voelt	1155	    3,823	0.0079	197.6667	nld_news_2019_00470432
+6127	Het voelt vaak als het einde van de week, maar het is ook het begin.	Y	voelt	1155	    3,823	0.0079	197.6667	nld_news_2019_00470432
 6128	‘Je weet dat wat je voelt, niet mag en nu ga je er ook dood aan – waarschijnlijk terecht.	Y	voelt	1155	    3,823	0.0079	248.6875	nld_news_2019_00598552
 6129	Daardoor is niet goed te zeggen wat men precies voelt.	Y	voelt	1155	    3,823	0.0079	296.7	nld_news_2015_00087319
 6130	De Boer: Het voelt als twee verloren punten - Sport - PAROOL Oh snap!	Y	voelt	1155	    3,823	0.0079	560.75	nld_news_2016_00166685
-6131	Dat zijn er zo'n 2000 minder dan vorig jaar, wat vooral komt door de regen op zaterdag.	Y	regen	1156	    3,812	0.0079	134.9412	nld_news_2015_00139276
+6131	Dat zijn er zo’n 2000 minder dan vorig jaar, wat vooral komt door de regen op zaterdag.	Y	regen	1156	    3,812	0.0079	134.9412	nld_news_2015_00139276
 6132	In de tweede helft van de week neemt de kans op wat regen toe.	Y	regen	1156	    3,812	0.0079	233.3333	nld_news_2015_00568126
 6133	Pas vanaf vrijdag… Tot het weekend alle dagen regen, maar dan.	Y	regen	1156	    3,812	0.0079	263.2727	nld_news_2016_00775973
 6134	Sinds 2006 valt er elk jaar minder regen, zei de krant.	Y	regen	1156	    3,812	0.0079	322.4	nld_news_2015_00806179
@@ -149,22 +149,22 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6148	De jeugd lijkt ook duidelijk in staat te zijn om de informatie over zichzelf op een juiste manier te delen op het internet.	Y	juiste	1159	    3,805	0.0079	288.4	nld_news_2015_00192237
 6149	Maar het bleef moeilijk om de juiste stem voor dit boek te vinden.	Y	juiste	1159	    3,805	0.0079	328.8462	nld_news_2019_00636374
 6150	De winnaar blijft natuurlijk de eerste die de juiste naam noemt.	Y	juiste	1159	    3,805	0.0079	461.7778	nld_news_2015_00265431
-6151	"""Ik zou er zo weer voor gaan, maar we moeten het wel per geval bekijken."""""""	Y	bekijken	1160	    3,799	0.0079	144.4667	nld_news_2015_00553939
-6152	Deze zijn ook in de vorm van foto's bij dit artikel te bekijken.	Y	bekijken	1160	    3,799	0.0079	235.4286	nld_news_2015_00273176
+6151	Ik zou er zo weer voor gaan, maar we moeten het wel per geval bekijken.	Y	bekijken	1160	    3,799	0.0079	144.4667	nld_news_2015_00553939
+6152	Deze zijn ook in de vorm van foto’s bij dit artikel te bekijken.	Y	bekijken	1160	    3,799	0.0079	235.4286	nld_news_2015_00273176
 6153	De twee bekijken nu hoe ze de provincie verder kunnen helpen.	Y	bekijken	1160	    3,799	0.0079	276.6	nld_news_2016_00256800
 6154	Ik denk dat we stap voor stap verder moeten bekijken.'	Y	bekijken	1160	    3,799	0.0079	316.1111	nld_news_2019_00523814
 6155	Iedere zaterdag bekijken we één maand, uit een bepaald jaar.	Y	bekijken	1160	    3,799	0.0079	390	nld_news_2015_00531033
 6156	Ik ben klaar met het CDA en de C in deze partij!	Y	c	1161	    3,796	0.0079	248.0833	nld_news_2015_00534121
 6157	Justitie kreeg de zaak echter niet rond, en liet De C. na ruim twee maanden weer vrij.	Y	c	1161	    3,796	0.0079	273.8125	nld_news_2015_00608380
 6158	De jonge C. (19) uit Den Haag zit ruim een jaar vast.	Y	c	1161	    3,796	0.0079	292.1818	nld_news_2015_00192409
-6159	"""""""We hebben geen plan B, plan C of plan D, maar spelen niet altijd hetzelfde."""	Y	c	1161	    3,796	0.0079	310.0769	nld_news_2015_00933878
+6159	We hebben geen plan B, plan C of plan D, maar spelen niet altijd hetzelfde.	Y	c	1161	    3,796	0.0079	310.0769	nld_news_2015_00933878
 6160	Beste A.C, halen wij niet het e.e.a. door elkaar heen?	Y	c	1161	    3,796	0.0079	314.7273	nld_news_2019_00050047
 6161	Toch ging hij met een voorsprong de derde en laatste dag in.	Y	voorsprong	1162	    3,791	0.0079	171.25	nld_news_2015_00834838
 6162	In de laatste ronde gaf hij die voorsprong niet meer uit handen.	Y	voorsprong	1162	    3,791	0.0079	254.8333	nld_news_2016_00562526
 6163	Tien minuten na de rust was er voor het eerst de voorsprong voor Heerenveen.	Y	voorsprong	1162	    3,791	0.0079	320.5833	nld_news_2019_00825891
 6164	Zorgen dat de stand zo bleef of om de voorsprong uit te bouwen.	Y	voorsprong	1162	    3,791	0.0079	359.75	nld_news_2016_00994659
 6165	Ondanks de voorsprong kwam het meeste gevaar van de bezoekers.	Y	voorsprong	1162	    3,791	0.0079	448.4444	nld_news_2019_00728070
-6166	"""""""Wij zien dit niet als een beslissing die aan ons is om te maken."""	Y	beslissing	1163	    3,782	0.0079	124.5	nld_news_2019_00949977
+6166	Wij zien dit niet als een beslissing die aan ons is om te maken.	Y	beslissing	1163	    3,782	0.0079	124.5	nld_news_2019_00949977
 6167	De kans dat dit gebeurt, is groot, zegt een woordvoerder van het OM tegen NU.nl. Het is nog niet bekend wanneer de beslissing genomen.	Y	beslissing	1163	    3,782	0.0079	212.7273	nld_news_2015_00194084
 6168	Het OM zegt in hoger beroep te gaan tegen de beslissing.	Y	beslissing	1163	    3,782	0.0079	268.1818	nld_news_2016_00470160
 6169	‘ Voor elke beslissing moet hij op zoek naar een meerderheid.	Y	beslissing	1163	    3,782	0.0079	320.5	nld_news_2019_00897828
@@ -173,7 +173,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6172	Buitenlandse studenten komen graag naar Nederland - Elsevier.nl maandag 23 nov 2015, 21:08 Vanavond vooral in het noorden af en toe regen.	Y	nov	1164	    3,774	0.0078	454.7895	nld_news_2015_00073553
 6173	Koning Albert II komt niet rond van 923.000 euro per jaar - Elsevier.nl zondag 15 nov 2015, 12:48 Veel wind en af en toe regen.	Y	nov	1164	    3,774	0.0078	477.6	nld_news_2015_00616892
 6174	Registreren - Elsevier.nl maandag 9 nov 2015, 5:29 In het oosten eerst nog af en toe regen.	Y	nov	1164	    3,774	0.0078	528.4286	nld_news_2015_00792088
-6175	Dit zijn de mooiste foto's van het afgelopen politieke jaar - Elsevier.nl maandag 16 nov 2015, 3:54 Vannacht op de meeste plaatsen droog.	Y	nov	1164	    3,774	0.0078	530.55	nld_news_2015_00296093
+6175	Dit zijn de mooiste foto’s van het afgelopen politieke jaar - Elsevier.nl maandag 16 nov 2015, 3:54 Vannacht op de meeste plaatsen droog.	Y	nov	1164	    3,774	0.0078	530.55	nld_news_2015_00296093
 6176	Wat is er aan de hand met de VS, het la..	Y	la	1165	    3,770	0.0078	223.2	nld_news_2015_00927267
 6177	Hoe is het om vanuit LA naar Antwerpen te kijken?	Y	la	1165	    3,770	0.0078	264.7	nld_news_2016_00518488
 6178	‘Dit is niet: la la la, maak je niet druk man.	Y	la	1165	    3,770	0.0078	332.375	nld_news_2015_00291208
@@ -191,13 +191,13 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6190	In de tweede helft kwam de overwinning alsnog tot stand.	Y	alsnog	1166	    3,768	0.0078	447.5556	nld_news_2015_00568074
 6191	Maar dat is de democratie voor wie veel geld heeft, en dat is de democratie voor wie dat niet heeft.	Y	democratie	1167	    3,765	0.0078	135.9167	nld_news_2016_00633637
 6192	Het is moeilijk voor een democratie om dit vol te houden.	Y	democratie	1167	    3,765	0.0078	231.4545	nld_news_2015_00459183
-6193	"""Want een democratie die alleen werkt als iedereen hetzelfde denkt is geen democratie."""""""	Y	democratie	1167	    3,765	0.0078	298.4167	nld_news_2015_00921493
+6193	Want een democratie die alleen werkt als iedereen hetzelfde denkt is geen democratie.	Y	democratie	1167	    3,765	0.0078	298.4167	nld_news_2015_00921493
 6194	En speelt de vierde macht nog wel haar rol in de democratie?	Y	democratie	1167	    3,765	0.0078	345.7273	nld_news_2016_00360628
 6195	Het doel is een sociaal sterke samenleving en een sterke democratie, met betrokken burgers.	Y	democratie	1167	    3,765	0.0078	512.6667	nld_news_2016_00436246
 6196	Daar zetten we ons samen met de politie en andere organisaties voor in.	Y	organisaties	1167	    3,765	0.0078	165.6923	nld_news_2019_00096973
 6197	De twee organisaties zitten in september samen om een plan uit te werken.	Y	organisaties	1167	    3,765	0.0078	207.3846	nld_news_2016_00257671
 6198	Er valt voor organisaties dus nog veel te winnen op dit vlak.”	Y	organisaties	1167	    3,765	0.0078	284.8333	nld_news_2016_00371468
-6199	In totaal zijn er zo'n 40 activiteiten, waaronder de en open dagen bij internationale organisaties.	Y	organisaties	1167	    3,765	0.0078	334.6667	nld_news_2019_00583335
+6199	In totaal zijn er zo’n 40 activiteiten, waaronder de en open dagen bij internationale organisaties.	Y	organisaties	1167	    3,765	0.0078	334.6667	nld_news_2019_00583335
 6200	Brabant-C gaat actief op zoek naar mensen en organisaties die mooie plannen hebben en gaat proberen mensen bij elkaar te brengen zodat nieuwe plannen ontstaan.	Y	organisaties	1167	    3,765	0.0078	399.3636	nld_news_2015_00071004
 6201	Je zou het niet zeggen, maar die twee lijken veel op elkaar.	Y	lijken	1168	    3,763	0.0078	151.3333	nld_news_2019_00599502
 6202	Heel af en toe, ja zelfs in de politiek, zijn de dingen gewoon wat ze lijken, niet meer, niet minder.	Y	lijken	1168	    3,763	0.0078	213.2778	nld_news_2016_00423031
@@ -208,23 +208,23 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6207	Ik dacht: waarom zou ik hun zeggen wat ze moeten dragen, ze doen dat nooit bij mij.	Y	dragen	1169	    3,751	0.0078	229	nld_news_2015_00535708
 6208	Zij zijn de enige twee in Nederland die deze titel dragen.	Y	dragen	1169	    3,751	0.0078	242.7273	nld_news_2019_00984642
 6209	Nog even en ze gaat haar haar weer los dragen.	Y	dragen	1169	    3,751	0.0078	282.7778	nld_news_2019_00709050
-6210	"""Op lange termijn kan het politieke systeem, de samenleving, dat niet dragen."""""""	Y	dragen	1169	    3,751	0.0078	391.5	nld_news_2015_00766685
+6210	Op lange termijn kan het politieke systeem, de samenleving, dat niet dragen.	Y	dragen	1169	    3,751	0.0078	391.5	nld_news_2015_00766685
 6211	Er is geen verklaring waarom dit in Nederland niet ook kan.	Y	verklaring	1170	    3,748	0.0078	160.3636	nld_news_2016_00367382
 6212	Dat gaat niet door, want de rechtbank gaat mee in de verklaring van de man.	Y	verklaring	1170	    3,748	0.0078	193.5833	nld_news_2016_00123310
 6213	Grote vraag is nog wanneer die verklaring wel gegeven kan worden.	Y	verklaring	1170	    3,748	0.0078	244.2727	nld_news_2016_00417494
 6214	Dat liet het ministerie van Veiligheid en Justitie vrijdag in een verklaring weten.	Y	verklaring	1170	    3,748	0.0078	291.3846	nld_news_2015_00127445
-6215	"""Het begon met woorden"""", zei het museum in een verklaring."""	Y	verklaring	1170	    3,748	0.0078	383.3333	nld_news_2019_00412886
-6216	"""Ze is dan wel veroordeeld, maar ze mag naar huis!"""""""	Y	veroordeeld	1170	    3,748	0.0078	195.7778	nld_news_2016_00963397
+6215	Het begon met woorden, zei het museum in een verklaring.	Y	verklaring	1170	    3,748	0.0078	383.3333	nld_news_2019_00412886
+6216	Ze is dan wel veroordeeld, maar ze mag naar huis!	Y	veroordeeld	1170	    3,748	0.0078	195.7778	nld_news_2016_00963397
 6217	Tot op de dag van vandaag is niemand veroordeeld voor de moord.	Y	veroordeeld	1170	    3,748	0.0078	278.3636	nld_news_2019_00840184
 6218	De boer is al twee keer eerder veroordeeld voor dezelfde situatie.	Y	veroordeeld	1170	    3,748	0.0078	346.3636	nld_news_2019_00153880
 6219	Nooit werd er iemand opgepakt, laat staan veroordeeld voor de moord.	Y	veroordeeld	1170	    3,748	0.0078	372.1818	nld_news_2019_00710317
 6220	De rechter bepaalde uiteindelijk dat B. veroordeeld wordt voor moord.	Y	veroordeeld	1170	    3,748	0.0078	476.2	nld_news_2016_00239406
 6221	Het EK is voor hem de eerste wedstrijd van het jaar.	Y	ek	1171	    3,747	0.0078	173.6	nld_news_2019_00420832
-6222	''Ik wil graag naar het EK, dus moet ik blijven spelen.	Y	ek	1171	    3,747	0.0078	238.5	nld_news_2016_00549366
+6222	Ik wil graag naar het EK, dus moet ik blijven spelen.	Y	ek	1171	    3,747	0.0078	238.5	nld_news_2016_00549366
 6223	Om artikelen op EK 2012 te kunnen lezen, dient de zogenaamde Javascript in uw browser ingeschakeld te staan.	Y	ek	1171	    3,747	0.0078	289.375	nld_news_2015_00724178
-6224	"""""""Vorig jaar op het EK verloren we met twee punten verschil."""	Y	ek	1171	    3,747	0.0078	346.6364	nld_news_2016_00909831
+6224	Vorig jaar op het EK verloren we met twee punten verschil.	Y	ek	1171	    3,747	0.0078	346.6364	nld_news_2016_00909831
 6225	En het leek alsof het EK voetbal al begonnen was.	Y	ek	1171	    3,747	0.0078	519.7778	nld_news_2016_00354302
-6226	Zelf was ik een aantal keer live in de programma's te horen via internet.	Y	live	1172	    3,745	0.0078	236.3333	nld_news_2015_00967775
+6226	Zelf was ik een aantal keer live in de programma’s te horen via internet.	Y	live	1172	    3,745	0.0078	236.3333	nld_news_2015_00967775
 6227	Afgelopen augustus was dat nog 40 jaar aan live video per dag.	Y	live	1172	    3,745	0.0078	270.3636	nld_news_2019_00007294
 6228	Iedere tweede vrijdag van de maand wordt er live muziek gemaakt.	Y	live	1172	    3,745	0.0078	313.0909	nld_news_2019_00517175
 6229	Ik ben zo blij dat ik hem live heb zien optreden.	Y	live	1172	    3,745	0.0078	326.1	nld_news_2016_00532535
@@ -242,7 +242,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6241	En laten we wel zijn: we doen het toch echt allemaal regelmatig.	Y	regelmatig	1173	    3,735	0.0078	192.1818	nld_news_2019_00356268
 6242	Maar hij is nog steeds regelmatig op straat te vinden.	Y	regelmatig	1173	    3,735	0.0078	228.3	nld_news_2016_00640983
 6243	‘De klanten weten dat en komen ook daarom regelmatig bij ons kijken en kopen.’	Y	regelmatig	1173	    3,735	0.0078	306.0769	nld_news_2016_00204091
-6244	"""""""Ik kom regelmatig in het buitenland en daar valt het vaak een beetje tegen."""	Y	regelmatig	1173	    3,735	0.0078	345.9231	nld_news_2019_00533661
+6244	Ik kom regelmatig in het buitenland en daar valt het vaak een beetje tegen.	Y	regelmatig	1173	    3,735	0.0078	345.9231	nld_news_2019_00533661
 6245	Als ik ergens mee bezig ben, moet ik regelmatig afstand nemen.	Y	regelmatig	1173	    3,735	0.0078	452.6	nld_news_2015_00026455
 6246	Het is van alle tijden en je doet er niets aan.	Y	tijden	1174	    3,733	0.0078	160.6364	nld_news_2016_00459084
 6247	In de wereld van dertig jaar geleden kon dat misschien nog, maar we leven nu in totaal andere tijden.	Y	tijden	1174	    3,733	0.0078	213.2222	nld_news_2016_00567199
@@ -271,26 +271,26 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6270	De rechter besloot woensdag dat Paul H. voorlopig vast blijft zitten.	Y	besloot	1178	    3,722	0.0077	504.9091	nld_news_2019_00231846
 6271	Maar ik ga het er met de coach nog wel eens over hebben.	Y	coach	1179	    3,719	0.0077	161.7692	nld_news_2015_00644132
 6272	Spelers moeten graag willen spelen voor de coach, dat is wat de coach om te beginnen voor elkaar moet zien te krijgen.	Y	coach	1179	    3,719	0.0077	227	nld_news_2016_00813007
-6273	"""""""Je moet dus goed kijken wat voor coach je nodig hebt."""	Y	coach	1179	    3,719	0.0077	272.9	nld_news_2019_00596607
+6273	Je moet dus goed kijken wat voor coach je nodig hebt.	Y	coach	1179	    3,719	0.0077	272.9	nld_news_2019_00596607
 6274	De coach legt uit wat hij goed vond aan het spel van zijn ploeg.	Y	coach	1179	    3,719	0.0077	301.0714	nld_news_2019_00160159
 6275	De coach wordt verantwoordelijk gehouden voor de slechte resultaten van de club.	Y	coach	1179	    3,719	0.0077	470.8	nld_news_2019_00160191
 6276	Hij gaat nu naar een ziekenhuis in Spanje in de hoop dat hij zo snel mogelijk terug is.'	Y	spanje	1180	    3,718	0.0077	187.75	nld_news_2016_00498701
 6277	Het ziet er naar uit dat Spanje alles zal doen om dat te voorkomen.	Y	spanje	1180	    3,718	0.0077	199.3077	nld_news_2016_00490757
 6278	Vooral op de A9 richting Spanje is het nog druk.	Y	spanje	1180	    3,718	0.0077	257.3	nld_news_2016_00898124
-6279	"""""""Als ik vrij ben, kom ik zeker terug naar Spanje."""	Y	spanje	1180	    3,718	0.0077	358	nld_news_2019_00024812
+6279	Als ik vrij ben, kom ik zeker terug naar Spanje.	Y	spanje	1180	    3,718	0.0077	358	nld_news_2019_00024812
 6280	In 2008 begon Spanje het EK nog met winst op Rusland.	Y	spanje	1180	    3,718	0.0077	440.3	nld_news_2016_00554282
-6281	"""Als je ze er te lang bij laat, dan krijg je dat wel."""""""	Y	krijg	1181	    3,715	0.0077	149.25	nld_news_2016_00038088
+6281	Als je ze er te lang bij laat, dan krijg je dat wel.	Y	krijg	1181	    3,715	0.0077	149.25	nld_news_2016_00038088
 6282	Dat liep goed en zo krijg je het gevoel van de wedstrijd al wat mee.”	Y	krijg	1181	    3,715	0.0077	229.3333	nld_news_2015_00127345
 6283	En altijd krijg ik weer die vraag: ben ik wel normaal?	Y	krijg	1181	    3,715	0.0077	286.1	nld_news_2019_00344981
 6284	Als je de dingen in vertrouwen doet, krijg je alles.”	Y	krijg	1181	    3,715	0.0077	333.8889	nld_news_2019_00025469
-6285	"""""""Ik krijg heel veel mensen die online kopen"""", vertelt Bos."""	Y	krijg	1181	    3,715	0.0077	487.1	nld_news_2019_00534119
+6285	Ik krijg heel veel mensen die online kopen, vertelt Bos.	Y	krijg	1181	    3,715	0.0077	487.1	nld_news_2019_00534119
 6286	Maar wat dit ook voor tijd is, het is zoals meestal een tijd van grote woorden.	Y	meestal	1182	    3,713	0.0077	166.5714	nld_news_2015_00652609
 6287	En als je moet kiezen, dan zijn er meestal twee.	Y	meestal	1182	    3,713	0.0077	229.6	nld_news_2016_00346754
 6288	Als je er geen last van hebt, is het meestal ook niet erg.	Y	meestal	1182	    3,713	0.0077	253	nld_news_2016_00037089
 6289	Meestal houdt voor een vrouw het verhaal bij de zwarte band wel op.	Y	meestal	1182	    3,713	0.0077	298.3077	nld_news_2015_00661713
 6290	Door het rode licht rijden mag niet; toch gebeurt het, meestal zonder gevolgen.	Y	meestal	1182	    3,713	0.0077	423.8333	nld_news_2019_00302225
 6291	Maar als ik na jaren er aan denk heb ik er nog steeds de “P” in.	Y	p	1183	    3,711	0.0077	155.9286	nld_news_2016_00631571
-6292	P.S. de bron voor dit artikel komt uit 2009, dat maakt de foto's nog niet minder echt.	Y	p	1183	    3,711	0.0077	230.75	nld_news_2015_00786679
+6292	P.S. de bron voor dit artikel komt uit 2009, dat maakt de foto’s nog niet minder echt.	Y	p	1183	    3,711	0.0077	230.75	nld_news_2015_00786679
 6293	En dat laat hij weten via Twitter: 'Aan alle media: jongens het gaat goed met me en ben heel hard aan het werk dus laat mij s.v.p. met rust.'	Y	p	1183	    3,711	0.0077	274.4231	nld_news_2019_00348416
 6294	De S&P 500 deed het beter, maar moest nog steeds met een verlies de week sluiten.	Y	p	1183	    3,711	0.0077	301.6667	nld_news_2015_00240959
 6295	Het Openbaar Ministerie (OM) had voor P. om 4 jaar cel gevraagd.	Y	p	1183	    3,711	0.0077	443.9	nld_news_2015_00474847
@@ -320,7 +320,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6319	De staatssecretaris heeft er veel vertrouwen in dat de Europese Commissie akkoord gaat.	Y	staatssecretaris	1188	    3,687	0.0077	325.9167	nld_news_2016_00249221
 6320	Volgens de staatssecretaris zitten de 'grote jongens' in Noord-Afrika en in Italië.	Y	staatssecretaris	1188	    3,687	0.0077	468.7273	nld_news_2016_00889338
 6321	Ze doet er dan ook alles aan om indruk op haar te maken.	Y	indruk	1189	    3,686	0.0077	144.1538	nld_news_2019_00958213
-6322	'Ik heb al gezegd dat in mijn leven niets zo'n indruk heeft gemaakt als de oorlog', zegt een van hen.	Y	indruk	1189	    3,686	0.0077	180.7619	nld_news_2015_00538834
+6322	'Ik heb al gezegd dat in mijn leven niets zo’n indruk heeft gemaakt als de oorlog', zegt een van hen.	Y	indruk	1189	    3,686	0.0077	180.7619	nld_news_2015_00538834
 6323	Maar ik heb niet de indruk dat gemeenten daar op zitten te wachten.	Y	indruk	1189	    3,686	0.0077	228	nld_news_2019_00639502
 6324	Wat wij daar hebben gezien heeft enorme indruk op ons gemaakt.	Y	indruk	1189	    3,686	0.0077	284.4545	nld_news_2015_00929633
 6325	Maar daarvan lijkt de 19-jarige Nederlandse nou niet bepaald onder de indruk.	Y	indruk	1189	    3,686	0.0077	415.6364	nld_news_2019_00629635
@@ -329,7 +329,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6328	Ik weet dat ik een enorm risico neem, maar ik kan niet meer terug.	Y	enorm	1190	    3,685	0.0077	297.25	nld_news_2016_00547979
 6329	De aandacht van de media voor het proces is enorm.	Y	enorm	1190	    3,685	0.0077	335.1111	nld_news_2016_00153081
 6330	‘We kregen enorm veel reactie op de uitspraak van gisteren.	Y	enorm	1190	    3,685	0.0077	419.4	nld_news_2015_00935826
-6331	''Als het over de Grote Drie ging, zei hij altijd dat er slechts een Grote Eén is.	Y	eén	1191	    3,683	0.0077	149.75	nld_news_2016_00034693
+6331	Als het over de Grote Drie ging, zei hij altijd dat er slechts een Grote Eén is.	Y	eén	1191	    3,683	0.0077	149.75	nld_news_2016_00034693
 6332	Eén artikel in een jaar of drie was al heel wat.	Y	eén	1191	    3,683	0.0077	232.9091	nld_news_2016_00317854
 6333	Eén die me heel veel zin geeft in deze kans.	Y	eén	1191	    3,683	0.0077	290.3	nld_news_2019_00316279
 6334	Eén voor één nemen ze het woord, ieder in haar eigen taal.	Y	eén	1191	    3,683	0.0077	350.5	nld_news_2019_00334986
@@ -343,33 +343,33 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6342	'Hier zit geen jonge vrouw, maar een meisje van 10 jaar dat heel erg haar best probeert te doen.	Y	probeert	1193	    3,671	0.0076	230.8889	nld_news_2015_00499066
 6343	Misschien probeert ze een plan te trekken voor de volgende dag.	Y	probeert	1193	    3,671	0.0076	291.4545	nld_news_2015_00680324
 6344	De Koning probeert verder zoveel mogelijk mensen van zijn bedrijf Suriname te laten zien en voelen.	Y	probeert	1193	    3,671	0.0076	315.3125	nld_news_2019_00194371
-6345	Hij kijkt door dingen heen, hij probeert ze 'om' te 'kijken'.	Y	probeert	1193	    3,671	0.0076	407.8	nld_news_2015_00506744
+6345	Hij kijkt door dingen heen, hij probeert ze ‘om’ te ‘kijken’.	Y	probeert	1193	    3,671	0.0076	407.8	nld_news_2015_00506744
 6346	Het zou een Irak zijn dat in niets lijkt op dat wat de VS voor ogen hebben.	Y	irak	1194	    3,669	0.0076	191.625	nld_news_2015_00495151
 6347	IS had op dat moment nog grote delen van Irak en Syrië in handen.	Y	irak	1194	    3,669	0.0076	283.1429	nld_news_2019_00587794
 6348	Kort voor de oorlog in Irak begon, heb ik een grote fout gemaakt.	Y	irak	1194	    3,669	0.0076	348	nld_news_2015_00618410
 6349	Het Britse leger is in Irak al actief in de strijd tegen IS.	Y	irak	1194	    3,669	0.0076	389.4545	nld_news_2015_00436854
 6350	Nederland begint als laatste met Irak-onderzoek - Buitenland - PAROOL Oh snap!	Y	irak	1194	    3,669	0.0076	498.1818	nld_news_2016_00696904
 6351	Ik wil wel af en toe wat doen, maar niet in vast verband.'	Y	verband	1195	    3,665	0.0076	171.2308	nld_news_2015_00552109
-6352	"""Wat denkt u? """"Ik weet niet of er een verband is."""	Y	verband	1195	    3,665	0.0076	211.5455	nld_news_2015_00924787
+6352	Wat denkt u? Ik weet niet of er een verband is.	Y	verband	1195	    3,665	0.0076	211.5455	nld_news_2015_00924787
 6353	De vraag die in dit verband ook voor ons ligt is welke rol media spelen in dit debat.	Y	verband	1195	    3,665	0.0076	274.25	nld_news_2019_00260186
 6354	'Het is normaal dat hij met Ajax in verband wordt gebracht.	Y	verband	1195	    3,665	0.0076	319.1818	nld_news_2016_00457451
 6355	Hij is echter niet officieel in verband gebracht met de moord.	Y	verband	1195	    3,665	0.0076	389.5455	nld_news_2019_00489780
 6356	Toch hebben we er vrijwel allemaal wel eens mee te maken gehad.	Y	vrijwel	1196	    3,655	0.0076	224.6667	nld_news_2016_00834762
 6357	De andere reden is dat het geld vrijwel gratis is gemaakt door de overheid.	Y	vrijwel	1196	    3,655	0.0076	281.3333	nld_news_2015_00148998
 6358	Hij weet heel goed dat vrijwel alle financiële informatie van het bedrijf bij het personeel zit.	Y	vrijwel	1196	    3,655	0.0076	285.7333	nld_news_2015_00515072
-6359	Het antwoord op die vraag moet vrijwel zeker 'ja' zijn.	Y	vrijwel	1196	    3,655	0.0076	328.9	nld_news_2016_00428619
+6359	Het antwoord op die vraag moet vrijwel zeker ‘ja’ zijn.	Y	vrijwel	1196	    3,655	0.0076	328.9	nld_news_2016_00428619
 6360	De banken en de Italiaanse overheid doen hier vrijwel niets aan.	Y	vrijwel	1196	    3,655	0.0076	412.1	nld_news_2019_00148240
 6361	Dan is er geen andere weg meer dan die terug naar het station.	Y	station	1197	    3,647	0.0076	147.0833	nld_news_2019_00099449
 6362	Toch is het Centraal Station ook na de van komende maandag nog niet helemaal af.	Y	station	1197	    3,647	0.0076	223.3333	nld_news_2019_00831045
 6363	De politie heeft hem op het station in Tilburg aangehouden.	Y	station	1197	    3,647	0.0076	291.6	nld_news_2015_00225464
 6364	Iemand had haar in de buurt van het Centraal Station gevonden.	Y	station	1197	    3,647	0.0076	335.7273	nld_news_2019_00517612
 6365	Op 21 oktober mag de winnaar een optreden geven op station Amsterdam Centraal.	Y	station	1197	    3,647	0.0076	467	nld_news_2019_00752490
-6366	"""""""Er is natuurlijk nog een lange weg te gaan, maar ze zijn positief."""""""	Y	positief	1198	    3,640	0.0076	176.3077	nld_news_2019_00366503
+6366	Er is natuurlijk nog een lange weg te gaan, maar ze zijn positief.	Y	positief	1198	    3,640	0.0076	176.3077	nld_news_2019_00366503
 6367	Het is positief wat er nu gebeurt, maar ik heb grote zorgen voor andere delen van de wijk.	Y	positief	1198	    3,640	0.0076	242.8889	nld_news_2019_00443410
 6368	En gelukkig is de Chinese eigenaar heel positief en dan zijn wij dat als gemeente ook.'	Y	positief	1198	    3,640	0.0076	290	nld_news_2019_00352166
 6369	Dankzij haar financiële steun kan een positief verschil worden gemaakt in het leven van de bewoners.	Y	positief	1198	    3,640	0.0076	345.125	nld_news_2016_00115202
 6370	Een kleine meerderheid van de gemeenteraad lijkt positief tegenover het voorstel te staan.	Y	positief	1198	    3,640	0.0076	455.8462	nld_news_2019_00322446
-6371	''We hadden het er na de wedstrijd tegen Rusland in het hotel over kunnen hebben.	Y	hotel	1199	    3,637	0.0076	196.9286	nld_news_2016_00931580
+6371	We hadden het er na de wedstrijd tegen Rusland in het hotel over kunnen hebben.	Y	hotel	1199	    3,637	0.0076	196.9286	nld_news_2016_00931580
 6372	'Als ze niet hun best hadden gedaan hadden ze in het hotel moeten blijven.	Y	hotel	1199	    3,637	0.0076	221.25	nld_news_2019_00031438
 6373	Hij is dan ook niet van plan om zonder reden zijn hotel te verlaten.	Y	hotel	1199	    3,637	0.0076	256.4286	nld_news_2019_00489571
 6374	Het idee voor het hotel deed ze in Brabant op.	Y	hotel	1199	    3,637	0.0076	296.3333	nld_news_2019_00431314
@@ -384,7 +384,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6383	Maar ik denk dat het alleen gaat gebeuren als je de best mogelijke mensen binnen je organisatie haalt.	Y	haalt	1201	    3,634	0.0076	284.8235	nld_news_2019_00639228
 6384	Je weet dat je kwaliteit in huis haalt, maar voor welke prijs?	Y	haalt	1201	    3,634	0.0076	344.6364	nld_news_2019_00598545
 6385	Je haalt gewoon vijftig procent van de mogelijkheden uit je spel.	Y	haalt	1201	    3,634	0.0076	490	nld_news_2016_00596814
-6386	"""""""Er is iets aan het veranderen en dat zal ook wel weer terug veranderen."""	Y	veranderen	1202	    3,632	0.0075	135.9231	nld_news_2019_00366134
+6386	Er is iets aan het veranderen en dat zal ook wel weer terug veranderen.	Y	veranderen	1202	    3,632	0.0075	135.9231	nld_news_2019_00366134
 6387	Om duidelijk te zijn: dat zal met deze film niet veranderen.	Y	veranderen	1202	    3,632	0.0075	190.3636	nld_news_2016_00728618
 6388	Maar deze cultuur is aan het veranderen, veel kinderen trekken naar de stad, weg van hun ouders.	Y	veranderen	1202	    3,632	0.0075	237.2941	nld_news_2019_00633311
 6389	We proberen heel wat te veranderen en dat vraagt tijd.	Y	veranderen	1202	    3,632	0.0075	313.5	nld_news_2019_00936487
@@ -422,24 +422,24 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6421	Maar dat laatste, daar verwachten de mannen er niet al te veel van.	Y	verwachten	1209	    3,607	0.0075	145	nld_news_2019_00630813
 6422	We verwachten dat in september de eerste resultaten bekend zijn.	Y	verwachten	1209	    3,607	0.0075	215	nld_news_2016_00942363
 6423	Hij zei niet te verwachten dat daar op korte termijn een einde aan zal komen.	Y	verwachten	1209	    3,607	0.0075	258	nld_news_2015_00517997
-6424	"""""""Ik wist niet wat ik moest verwachten eigenlijk, maar al met al is het goed gegaan geloof ik."""""""	Y	verwachten	1209	    3,607	0.0075	292.2	nld_news_2019_00543821
+6424	Ik wist niet wat ik moest verwachten eigenlijk, maar al met al is het goed gegaan geloof ik.	Y	verwachten	1209	    3,607	0.0075	292.2	nld_news_2019_00543821
 6425	Burgers verwachten weinig van hun politici en dus weinig van hun overheid.	Y	verwachten	1209	    3,607	0.0075	416	nld_news_2019_00071476
-6426	"""Als we dat in Boxtel voor elkaar krijgen, hebben we het goed gedaan."""""""	Y	boxtel	1210	    3,605	0.0075	170.9167	nld_news_2015_00031764
-6427	"""Het resultaat is nu op de Markt in Boxtel te zien."""""""	Y	boxtel	1210	    3,605	0.0075	268.0909	nld_news_2016_00475714
+6426	Als we dat in Boxtel voor elkaar krijgen, hebben we het goed gedaan.	Y	boxtel	1210	    3,605	0.0075	170.9167	nld_news_2015_00031764
+6427	Het resultaat is nu op de Markt in Boxtel te zien.	Y	boxtel	1210	    3,605	0.0075	268.0909	nld_news_2016_00475714
 6428	Van Boxtel was voor D66 minister en lid van de Tweede en Eerste Kamer.	Y	boxtel	1210	    3,605	0.0075	281.4167	nld_news_2015_00861316
 6429	En de 27-jarige man uit Boxtel is het belangrijkste gezicht.	Y	boxtel	1210	    3,605	0.0075	331.8	nld_news_2016_00350844
 6430	Op meerdere scholen in de gemeente Boxtel is vrijdag aandacht voor sport.	Y	boxtel	1210	    3,605	0.0075	367.5	nld_news_2019_00763612
 6431	Moet zo’n speler dan ook maar zeggen dat hij niet meer wil spelen?”	Y	speler	1210	    3,605	0.0075	155.3571	nld_news_2019_00680118
 6432	De oud-speler ziet dat de club het goed voor elkaar heeft.	Y	speler	1210	    3,605	0.0075	229.6364	nld_news_2019_00219383
 6433	In april was ik nog speler en nu ga ik voor de tweede keer als coach aan de slag.	Y	speler	1210	    3,605	0.0075	273.2941	nld_news_2016_00556515
-6434	"""""""Een mooi initiatief, want dat doen ze niet bij elke speler."""	Y	speler	1210	    3,605	0.0075	327.9091	nld_news_2015_00322742
+6434	Een mooi initiatief, want dat doen ze niet bij elke speler.	Y	speler	1210	    3,605	0.0075	327.9091	nld_news_2015_00322742
 6435	Daarin won de ploeg van de voormalige speler van FC Twente alsnog.	Y	speler	1210	    3,605	0.0075	680.2	nld_news_2016_00099332
 6436	Het moet er mogelijk worden de publieke omroep op te zeggen.	Y	publieke	1211	    3,604	0.0075	223	nld_news_2016_00467865
-6437	De kracht van de publieke omroep is dat ze programma's maken die anders niet zouden worden gemaakt.	Y	publieke	1211	    3,604	0.0075	245.9412	nld_news_2015_00198092
+6437	De kracht van de publieke omroep is dat ze programma’s maken die anders niet zouden worden gemaakt.	Y	publieke	1211	    3,604	0.0075	245.9412	nld_news_2015_00198092
 6438	Echter, de publieke omroep zal altijd onder druk blijven staan.	Y	publieke	1211	    3,604	0.0075	323.5	nld_news_2019_00309289
 6439	Per 30 maart komt er een einde aan alle publieke activiteiten op dit terrein.	Y	publieke	1211	    3,604	0.0075	347.6154	nld_news_2015_00778867
 6440	‘Raad voor Cultuur: publieke omroep te links’, was de kop.	Y	publieke	1211	    3,604	0.0075	546.9	nld_news_2019_00784971
-6441	"""""""Ik verwacht dat zij in de komende 5 jaar internationaal naam gaan maken."""""""	Y	internationaal	1212	    3,596	0.0075	226.75	nld_news_2015_00547899
+6441	Ik verwacht dat zij in de komende 5 jaar internationaal naam gaan maken.	Y	internationaal	1212	    3,596	0.0075	226.75	nld_news_2015_00547899
 6442	Het geeft Utrecht de kans om voor een internationaal publiek de stad te laten zien.	Y	internationaal	1212	    3,596	0.0075	253.2857	nld_news_2015_00446831
 6443	Volgens hem kan er alleen internationaal een oplossing worden gevonden voor de huidige situatie.	Y	internationaal	1212	    3,596	0.0075	279.9286	nld_news_2015_00892373
 6444	'Er bestaan hier nog geen Belgische cijfers over, maar er is wel al internationaal onderzoek naar gebeurd.'	Y	internationaal	1212	    3,596	0.0075	297.375	nld_news_2015_00359272
@@ -450,12 +450,12 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6449	Ik hoop dat er meer oud-spelers zijn die aandelen kopen.	Y	aandelen	1213	    3,592	0.0075	351.9091	nld_news_2015_00542452
 6450	Vrijwel alle Amerikaanse aandelen keren vier keer per jaar uit.	Y	aandelen	1213	    3,592	0.0075	431.6	nld_news_2015_00912880
 6451	Ze verloor dan wel haar baan, maar ze kreeg er een beter leven voor terug, zegt ze.	Y	verloor	1213	    3,592	0.0075	207.0667	nld_news_2015_00971517
-6452	"""""""Ik verloor me altijd helemaal in film en liep weg voor andere zaken in het leven."""	Y	verloor	1213	    3,592	0.0075	247.1333	nld_news_2019_00537877
+6452	Ik verloor me altijd helemaal in film en liep weg voor andere zaken in het leven.	Y	verloor	1213	    3,592	0.0075	247.1333	nld_news_2019_00537877
 6453	We kennen allemaal wel iemand die zijn baan verloor; misschien was je het zelf wel.	Y	verloor	1213	    3,592	0.0075	300.5	nld_news_2016_00934464
 6454	Heerenveen verloor niet alleen de punten, maar ook twee spelers.	Y	verloor	1213	    3,592	0.0075	359.8	nld_news_2015_00427045
 6455	De Duitse trainer verloor zelf zijn vijfde finale op rij.	Y	verloor	1213	    3,592	0.0075	525.6	nld_news_2016_00179093
 6456	Op dit moment houden we de positie in dit aandeel dus aan.	Y	aandeel	1214	    3,576	0.0074	273	nld_news_2019_00758706
-6457	"""Ik heb veel mogen spelen en heb denk ik ook een groot aandeel in deze titel gehad."""""""	Y	aandeel	1214	    3,576	0.0074	282.2667	nld_news_2019_00530516
+6457	Ik heb veel mogen spelen en heb denk ik ook een groot aandeel in deze titel gehad.	Y	aandeel	1214	    3,576	0.0074	282.2667	nld_news_2019_00530516
 6458	Kijk ook altijd naar je eigen aandeel in de situatie.”	Y	aandeel	1214	    3,576	0.0074	301.2	nld_news_2019_00608186
 6459	Het gaat bijna altijd om mannen, maar het aandeel vrouwen - vaak jonge meisjes - neemt toe.	Y	aandeel	1214	    3,576	0.0074	331.4286	nld_news_2015_00443515
 6460	Voor 38 dollar per aandeel kan u mede-eigenaar worden van Facebook.	Y	aandeel	1214	    3,576	0.0074	465.7273	nld_news_2015_00897594
@@ -471,10 +471,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6470	Defensie is juist blij met de uitspraak van de rechtbank.	Y	defensie	1216	    3,574	0.0074	437.4444	nld_news_2016_00185250
 6471	Maar als ze er eenmaal zijn, dan gaan ze niet meer weg.	Y	eenmaal	1217	    3,570	0.0074	147.2727	nld_news_2016_00631913
 6472	We wonen nu eenmaal in een land dat op leven na dood is.	Y	eenmaal	1217	    3,570	0.0074	213.2308	nld_news_2015_00944818
-6473	"""""""Als hij eenmaal speelt, komt hij er maar moeilijk uit."""""""	Y	eenmaal	1217	    3,570	0.0074	281.7778	nld_news_2019_00023314
+6473	Als hij eenmaal speelt, komt hij er maar moeilijk uit.	Y	eenmaal	1217	    3,570	0.0074	281.7778	nld_news_2019_00023314
 6474	Dat hoort nu eenmaal bij het rijden van een grote ronde.	Y	eenmaal	1217	    3,570	0.0074	336	nld_news_2015_00118624
 6475	'Mensen gaan tegenwoordig nou eenmaal vaker op vakantie dan vroeger.	Y	eenmaal	1217	    3,570	0.0074	629.3	nld_news_2016_00662097
-6476	"""""""Het komt niet zo vaak voor dat mensen met zoveel verschillende achtergronden bij elkaar komen."""	Y	achtergronden	1218	    3,559	0.0074	185.7333	nld_news_2016_00462494
+6476	Het komt niet zo vaak voor dat mensen met zoveel verschillende achtergronden bij elkaar komen.	Y	achtergronden	1218	    3,559	0.0074	185.7333	nld_news_2016_00462494
 6477	Gepubliceerd op dinsdag 26 juni 2012 - 07:00Onder Ons brengt vier dagen in de week achtergronden bij het nieuws.	Y	achtergronden	1218	    3,559	0.0074	227.25	nld_news_2016_00396456
 6478	Dat betekent dat er veel mensen met verschillende achtergronden aan werken.	Y	achtergronden	1218	    3,559	0.0074	253.1	nld_news_2016_00118469
 6479	Hoe leven mensen van verschillende achtergronden samen in de grote steden?	Y	achtergronden	1218	    3,559	0.0074	288.9091	nld_news_2019_00507250
@@ -485,19 +485,19 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6484	'We willen deze vragen graag laten onderzoeken, daar is niets mis mee.	Y	onderzoeken	1218	    3,559	0.0074	314.3333	nld_news_2019_00940294
 6485	Er gebeuren enorm veel onderzoeken waarvan je nooit meer iets hoort.'	Y	onderzoeken	1218	    3,559	0.0074	489.1818	nld_news_2019_00363794
 6486	Het is nu zaak om de mensen voor wie we dat doen te bereiken.	Y	bereiken	1219	    3,558	0.0074	145.4286	nld_news_2016_00457606
-6487	"""Door deze samenwerking met NU.nl bereiken we een groep mensen die ons nieuws nu misschien nog niet ziet."""""""	Y	bereiken	1219	    3,558	0.0074	215.3333	nld_news_2019_00301011
+6487	Door deze samenwerking met NU.nl bereiken we een groep mensen die ons nieuws nu misschien nog niet ziet.	Y	bereiken	1219	    3,558	0.0074	215.3333	nld_news_2019_00301011
 6488	Nu is iedereen voor economische groei, de vraag is alleen hoe die te bereiken.	Y	bereiken	1219	    3,558	0.0074	267.3846	nld_news_2015_00715269
-6489	"""""""Dat is niet wat we willen bereiken, maar als dat gebeurt weten we wel dat we een juiste beslissing genomen hebben."""""""	Y	bereiken	1219	    3,558	0.0074	308.3529	nld_news_2015_00122605
+6489	Dat is niet wat we willen bereiken, maar als dat gebeurt weten we wel dat we een juiste beslissing genomen hebben.	Y	bereiken	1219	    3,558	0.0074	308.3529	nld_news_2015_00122605
 6490	Duizenden vluchtelingen proberen uit Syrië, maar ook uit andere landen, de Europese Unie te bereiken.	Y	bereiken	1219	    3,558	0.0074	478.7857	nld_news_2019_00306317
 6491	Daarom vind ik het volgend jaar hoog tijd voor a change.	Y	change	1219	    3,558	0.0074	327.2727	nld_news_2019_00092875
-6492	"""Toegang aanvragen voor abonnees De mensen willen zo graag """"change""""; nou dat zullen WE weten ook."""	Y	change	1219	    3,558	0.0074	432.375	nld_news_2015_00837443
+6492	Toegang aanvragen voor abonnees De mensen willen zo graag change; nou dat zullen WE weten ook.	Y	change	1219	    3,558	0.0074	432.375	nld_news_2015_00837443
 6493	Om ze daarbij te helpen is het Change the Game-programma ontwikkeld, met als doel dat men op termijn wordt van geld uit het buitenland.	Y	change	1219	    3,558	0.0074	439.875	nld_news_2019_00727109
 6494	Change a few things up and try submitting again Gebruikersnavigatie Gebruikersnavigatie maandag 11 februari 2008Hij zei: laat de voorzitter maar praten en ik laat je wel weten of zijn voorstellen goed zijn.	Y	change	1219	    3,558	0.0074	502.25	nld_news_2015_00078141
-6495	"""Daarom gaat de prijs dus ook """"naar een land dat in 2009 beweerde om vol 'hope' en 'change' weer naar de onderhandelingen te komen, maar uiteindelijk meer van hetzelfde bracht""""."""	Y	change	1219	    3,558	0.0074	508.2593	nld_news_2015_00096332
+6495	Daarom gaat de prijs dus ook naar een land dat in 2009 beweerde om vol ‘hope’ en ‘change’ weer naar de onderhandelingen te komen, maar uiteindelijk meer van hetzelfde bracht.	Y	change	1219	    3,558	0.0074	508.2593	nld_news_2015_00096332
 6496	Het is niet bekend wanneer de nieuwe reeks te zien zal zijn.	Y	reeks	1219	    3,558	0.0074	175.9167	nld_news_2019_00440755
 6497	In de reeks Brief aan mijn 16jarige zelf kijken mensen terug naar wie ze waren en geven ze raad aan zichzelf.	Y	reeks	1219	    3,558	0.0074	236.3158	nld_news_2015_00566777
 6498	“De beste reeks die ooit in Vlaanderen te zien is geweest”, vond hij.	Y	reeks	1219	    3,558	0.0074	273.3077	nld_news_2019_00151282
-6499	"""""""Maar misschien heeft die slechte reeks ons ook wel goed gedaan."""	Y	reeks	1219	    3,558	0.0074	300.4545	nld_news_2019_00642544
+6499	Maar misschien heeft die slechte reeks ons ook wel goed gedaan.	Y	reeks	1219	    3,558	0.0074	300.4545	nld_news_2019_00642544
 6500	Vlaanderen heeft mede op vraag van Europa al een reeks maatregelen genomen.	Y	reeks	1219	    3,558	0.0074	411.0833	nld_news_2015_00883954
 6501	Als je de problemen met moslims weg laat blijft er de laatste tijd niet veel meer over.	Y	moslims	1220	    3,554	0.0074	159.875	nld_news_2015_00027559
 6502	Niemand zegt het, maar het gaat eigenlijk alleen om de ruim drie miljoen moslims in Duitsland.	Y	moslims	1220	    3,554	0.0074	225.4	nld_news_2019_00701922
@@ -513,25 +513,25 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6512	Maar op de televisie komen we hen elke dag al tegen.	Y	televisie	1221	    3,551	0.0074	200.1818	nld_news_2016_00647275
 6513	Hij zal daar tot en met september werken voor televisie, radio en online.	Y	televisie	1221	    3,551	0.0074	278.0833	nld_news_2016_00514939
 6514	Als ik dat lees, televisie zie ik bijna nooit, dan houdt me dat zo bezig.	Y	televisie	1221	    3,551	0.0074	338.6154	nld_news_2015_00026268
-6515	Live-televisie brengt altijd bepaalde risico's met zich mee.	Y	televisie	1221	    3,551	0.0074	525	nld_news_2019_00624339
+6515	Live-televisie brengt altijd bepaalde risico’s met zich mee.	Y	televisie	1221	    3,551	0.0074	525	nld_news_2019_00624339
 6516	Bart van U. is in Nederland niet de gevangenis in moest.	Y	bart	1222	    3,547	0.0074	314.5	nld_news_2019_00042743
 6517	Voor Bart is het wel prettig dat hij nog de leeftijd heeft dat hij bij Jong PSV mee mag doen en daar minuten kan maken.	Y	bart	1222	    3,547	0.0074	331.6522	nld_news_2019_00893823
 6518	Bart is er eerst vrijwel iedere dag, maar houdt het al snel voor gezien.	Y	bart	1222	    3,547	0.0074	337.9286	nld_news_2019_00042639
 6519	'Maar dat ligt niet aan die vrouwen', zegt Bart De Wever.	Y	bart	1222	    3,547	0.0074	365.0909	nld_news_2016_00634003
-6520	"""Ik sluit op dit moment helemaal niets uit, maar het is niet onlogisch dat Bart dat zou doen"""", zegt hij donderdag tegen de """"Verder ga ik nu niet op de inhoud in."""""""	Y	bart	1222	    3,547	0.0074	373.1481	nld_news_2019_00536932
-6521	"""""""Zij zag het leven met Frank al veel meer voor zich."""	Y	frank	1223	    3,546	0.0074	193.1818	nld_news_2015_00984795
+6520	Ik sluit op dit moment helemaal niets uit, maar het is niet onlogisch dat Bart dat zou doen, zegt hij donderdag tegen de Verder ga ik nu niet op de inhoud in.	Y	bart	1222	    3,547	0.0074	373.1481	nld_news_2019_00536932
+6521	Zij zag het leven met Frank al veel meer voor zich.	Y	frank	1223	    3,546	0.0074	193.1818	nld_news_2015_00984795
 6522	“Beste vrienden voor altijd”, staat er bij de foto van Frank.	Y	frank	1223	    3,546	0.0074	256.9091	nld_news_2019_00050216
-6523	"""Maar voor die tijd waren we ook al lang bezig"""", vertelde Frank."""	Y	frank	1223	    3,546	0.0074	286.3333	nld_news_2016_00649907
+6523	Maar voor die tijd waren we ook al lang bezig, vertelde Frank.	Y	frank	1223	    3,546	0.0074	286.3333	nld_news_2016_00649907
 6524	Frank zette haar aan de deur, maar ondanks alles kwamen de twee weer samen.	Y	frank	1223	    3,546	0.0074	382.2308	nld_news_2016_00386353
 6525	Ajax-trainer Frank de Boer wil er niet over praten.	Y	frank	1223	    3,546	0.0074	465.2	nld_news_2019_00009860
-6526	"""""""Het wordt minder, dus ik denk wel dat ik kan spelen zaterdag in Zwolle""""."""	Y	zwolle	1223	    3,546	0.0074	199.1538	nld_news_2016_00489392
+6526	Het wordt minder, dus ik denk wel dat ik kan spelen zaterdag in Zwolle.	Y	zwolle	1223	    3,546	0.0074	199.1538	nld_news_2016_00489392
 6527	Hij was op dat moment in de buurt van Zwolle aan h..	Y	zwolle	1223	    3,546	0.0074	267.5833	nld_news_2016_00512398
 6528	In elk geval waren ze in december en in februari in Zwolle.	Y	zwolle	1223	    3,546	0.0074	320.1111	nld_news_2019_00567477
 6529	Veel konden de bezoekers uit Zwolle daar niet tegenover stellen.	Y	zwolle	1223	    3,546	0.0074	372.5	nld_news_2016_00871549
-6530	FC Zwolle nam risico's en gaf daardoor ruimte weg.	Y	zwolle	1223	    3,546	0.0074	499.3	nld_news_2015_00376369
+6530	FC Zwolle nam risico’s en gaf daardoor ruimte weg.	Y	zwolle	1223	    3,546	0.0074	499.3	nld_news_2015_00376369
 6531	De basis blijft het theater en daar try-out ze momenteel met haar derde programma.	Y	try	1224	    3,544	0.0074	474.4667	nld_news_2019_00148476
 6532	Change a few things up and try submitting again Gebruikersnavigatie Gebruikersnavigatie maandag 11 februari 2008Hij zei: laat de voorzitter maar praten en ik laat je wel weten of zijn voorstellen goed zijn.	Y	try	1224	    3,544	0.0074	502.25	nld_news_2015_00078141
-6533	"""Hoewel de voorstelling zo goed als af is, leek het ons verstandig net iets meer try-outs in te plannen om het nog beter te maken."""""""	Y	try	1224	    3,544	0.0074	511.0833	nld_news_2015_00523430
+6533	Hoewel de voorstelling zo goed als af is, leek het ons verstandig net iets meer try-outs in te plannen om het nog beter te maken.	Y	try	1224	    3,544	0.0074	511.0833	nld_news_2015_00523430
 6534	Bij de try-out van dat stuk zag je ook dat mensen daar erg door waren aangedaan.'	Y	try	1224	    3,544	0.0074	526.25	nld_news_2016_00068280
 6535	Er is in die tijd ook niet verder geschreven aan de nieuwe show en daarom is besloten een aantal try-outs af te gelasten.	Y	try	1224	    3,544	0.0074	549.4348	nld_news_2015_00362226
 6536	En een op de vijf kinderen wordt na onderzoek opgenomen in het ziekenhuis.	Y	opgenomen	1225	    3,531	0.0073	180.8462	nld_news_2015_00347173
@@ -552,10 +552,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6551	In Europa zijn we rijk en daarom hebben we onze kinderen daar niet meer voor nodig.	Y	rijk	1227	    3,509	0.0073	167.4667	nld_news_2015_00574472
 6552	Dus echt rijk zullen ze er niet van geworden zijn.	Y	rijk	1227	    3,509	0.0073	219.6	nld_news_2019_00307105
 6553	Ze vragen het Rijk om daar 100 miljoen voor uit te trekken.	Y	rijk	1227	    3,509	0.0073	234.2727	nld_news_2015_00972203
-6554	"""Het Rijk moet zeggen: dat nemen wij voor onze rekening."""""""	Y	rijk	1227	    3,509	0.0073	277.4	nld_news_2016_00475930
+6554	Het Rijk moet zeggen: dat nemen wij voor onze rekening.	Y	rijk	1227	    3,509	0.0073	277.4	nld_news_2016_00475930
 6555	'Liever kwijt dan rijk?' is de vraag die centraal staat.	Y	rijk	1227	    3,509	0.0073	460.6	nld_news_2016_00626658
 6556	Dat deden ze in hun eigen land al niet en dat zullen ze hier ook niet doen’, zegt een van hen.	Y	deden	1228	    3,508	0.0073	134.8333	nld_news_2016_00121255
-6557	In totaal deden zo'n 300 regio's van over heel de wereld mee aan de wedstrijd.	Y	deden	1228	    3,508	0.0073	218.4667	nld_news_2016_00586478
+6557	In totaal deden zo’n 300 regio’s van over heel de wereld mee aan de wedstrijd.	Y	deden	1228	    3,508	0.0073	218.4667	nld_news_2016_00586478
 6558	Vroeger deden we één keer een groot onderzoek en daarna een hele tijd niet.	Y	deden	1228	    3,508	0.0073	266.6154	nld_news_2015_00913127
 6559	Jullie doen precies wat wij tien jaar geleden ook al deden.'	Y	deden	1228	    3,508	0.0073	307.8182	nld_news_2016_00605305
 6560	Ze praten dezelfde taal als ze 25 jaar geleden al deden.	Y	deden	1228	    3,508	0.0073	452.5556	nld_news_2019_00968131
@@ -569,8 +569,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6568	DVHN.nl - Het laatste nieuws uit Groningen en Drenthe Vijf vragen over: the Internet of Things GRONINGEN - Groningen is sinds donderdag de tweede stad met een netwerk waarop apparaten met elkaar verbonden kunnen worden.	Y	things	1229	    3,506	0.0073	534.5484	nld_news_2015_00308940
 6569	Change a few things up and try submitting again Bekijk al onze abonnementen Gebruikersnavigatie Gebruikersnavigatie Alles wat een man / vrouw moet weten Mannen houden er niet van als een partner een 'goed gesprek' met hen wil.	Y	things	1229	    3,506	0.0073	559	nld_news_2016_00087681
 6570	Een belangrijk thema daar, hoe kan het anders, was het Internet of Things, waardoor allerlei objecten kunnen worden verbonden met het internet.	Y	things	1229	    3,506	0.0073	563	nld_news_2019_00313522
-6571	"""""""Het is een manier om mensen uit de auto en op de fiets te krijgen."""	Y	fiets	1230	    3,505	0.0073	143.4286	nld_news_2016_00452636
-6572	Ik heb foto's laten zien van mijn nieuwe fiets.	Y	fiets	1230	    3,505	0.0073	209.7	nld_news_2019_00528166
+6571	Het is een manier om mensen uit de auto en op de fiets te krijgen.	Y	fiets	1230	    3,505	0.0073	143.4286	nld_news_2016_00452636
+6572	Ik heb foto’s laten zien van mijn nieuwe fiets.	Y	fiets	1230	    3,505	0.0073	209.7	nld_news_2019_00528166
 6573	Daarnaast is het mogelijk om er gewoon mee op de fiets te stappen.	Y	fiets	1230	    3,505	0.0073	267.9231	nld_news_2019_00087929
 6574	Waarom de vrouw viel met de fiets is niet bekend.	Y	fiets	1230	    3,505	0.0073	308.8889	nld_news_2016_00915758
 6575	Dinsdag trekken weer duizenden leerlingen met de fiets naar school.	Y	fiets	1230	    3,505	0.0073	452.4	nld_news_2016_00292445
@@ -579,10 +579,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6578	Elf jaar lang zien ze elkaar niet meer en al twaalf jaar hebben ze elkaar niet meer gesproken.	Y	elf	1231	    3,503	0.0073	306.2308	nld_news_2015_00337945
 6579	Na de verkiezingen in september 2012 kwamen elf partijen in de Tweede Kamer.	Y	elf	1231	    3,503	0.0073	355.6	nld_news_2015_00691627
 6580	Elf FC Utrecht-fans werden in Amsterdam aangehouden, meldt een woordvoerder van de politie Utrecht.	Y	elf	1231	    3,503	0.0073	421	nld_news_2015_00337936
-6581	Als het aan 'onze' regering ligt wordt nederland een islamitische staat.	Y	islamitische	1232	    3,501	0.0073	196.8182	nld_news_2015_00024731
+6581	Als het aan ‘onze’ regering ligt wordt nederland een islamitische staat.	Y	islamitische	1232	    3,501	0.0073	196.8182	nld_news_2015_00024731
 6582	Ook zou hij hebben geschreven dat hij naar Syrië wilde om zich aan te sluiten bij de strijd van de Islamitische Staat.	Y	islamitische	1232	    3,501	0.0073	276.35	nld_news_2016_00753855
 6583	Eerder op de dag viel de politie het islamitische centrum binnen.	Y	islamitische	1232	    3,501	0.0073	319	nld_news_2016_00339930
-6584	"""Wij gaan liever met het bestuur van de Islamitische Vereniging om tafel."""""""	Y	islamitische	1232	    3,501	0.0073	360	nld_news_2016_00949889
+6584	Wij gaan liever met het bestuur van de Islamitische Vereniging om tafel.	Y	islamitische	1232	    3,501	0.0073	360	nld_news_2016_00949889
 6585	Negen van de tien keer dat de vrijheid van onderwijs ter discussie staat is een kwestie rond het islamitische onderwijs de aanleiding.	Y	islamitische	1232	    3,501	0.0073	431.5556	nld_news_2019_00698986
 6586	Het geld gaat niet naar onderzoek, maar wel naar de patiënten zelf.	Y	patiënten	1233	    3,489	0.0073	168.8182	nld_news_2019_00426422
 6587	Vaak doen patiënten er ook vier keer zo lang over om een zin te schrijven.	Y	patiënten	1233	    3,489	0.0073	246.4	nld_news_2015_00857984
@@ -610,7 +610,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6609	Samen zijn wij verantwoordelijk voor de toekomst van ons eiland.	Y	eiland	1237	    3,481	0.0072	323.2	nld_news_2019_00796289
 6610	Ondertussen blijven de banken op het eiland ook donderdag gesloten.	Y	eiland	1237	    3,481	0.0072	477	nld_news_2015_00736354
 6611	De zaak ligt nu drie maanden stil, mijn kinderen en man heb ik al die tijd niet kunnen zien.	Y	stil	1237	    3,481	0.0072	163.2632	nld_news_2016_00273521
-6612	"""""""Het is goed daar soms even bij stil te staan."""	Y	stil	1237	    3,481	0.0072	212.3	nld_news_2019_00438387
+6612	Het is goed daar soms even bij stil te staan.	Y	stil	1237	    3,481	0.0072	212.3	nld_news_2019_00438387
 6613	Het werkt kort en dan is het weer een uur stil.	Y	stil	1237	    3,481	0.0072	248.2	nld_news_2016_00488350
 6614	Inmiddels ben ik 72. Stil zitten is namelijk niets voor mij.	Y	stil	1237	    3,481	0.0072	300.1	nld_news_2015_00582906
 6615	Soms spreekt God in de verhalen, maar vaker is hij stil.	Y	stil	1237	    3,481	0.0072	485.9091	nld_news_2016_00811626
@@ -632,7 +632,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6631	‘Ik heb het altijd moeten hebben van mijn harde werk.	Y	harde	1241	    3,464	0.0072	191.1	nld_news_2016_00537955
 6632	Dat doet geen recht aan het harde werk van alle medewerkers in de zorg.	Y	harde	1241	    3,464	0.0072	280.3571	nld_news_2016_00122368
 6633	'De harde kritiek op de organisatie is nieuw voor ons.	Y	harde	1241	    3,464	0.0072	318.4444	nld_news_2019_00182897
-6634	"""""""Dit kan een keer gebeuren met zo'n harde wind."""	Y	harde	1241	    3,464	0.0072	354.7	nld_news_2019_00292122
+6634	Dit kan een keer gebeuren met zo’n harde wind.	Y	harde	1241	    3,464	0.0072	354.7	nld_news_2019_00292122
 6635	De Jong had al eerder veel kritiek gekregen wegens zijn harde spel.	Y	harde	1241	    3,464	0.0072	471.5833	nld_news_2016_00201119
 6636	Het is dan ook pas de tweede keer dat ze een boom in huis heeft.	Y	boom	1242	    3,462	0.0072	141.1333	nld_news_2016_00450171
 6637	De gemeente vindt dat de boom bij het stuk grond hoort en dat hij daar ook moet blijven staan.	Y	boom	1242	    3,462	0.0072	254.5294	nld_news_2016_00189944
@@ -640,7 +640,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6639	Voor wat ik heb gedaan, is de hoogste boom niet hoog genoeg.	Y	boom	1242	    3,462	0.0072	316.6667	nld_news_2019_00902837
 6640	Een beslissing over de boom volgt waarschijnlijk pas in maart.	Y	boom	1242	    3,462	0.0072	452.2	nld_news_2015_00312972
 6641	Maar intussen weten we precies hoe het bij hen zit: eigenlijk net als bij ons, zij het natuurlijk ook net weer een beetje anders.	Y	intussen	1242	    3,462	0.0072	215.381	nld_news_2016_00643205
-6642	"""Intussen ben ik voor hen al met een nieuw project bezig dat volgende week moet klaar zijn."""""""	Y	intussen	1242	    3,462	0.0072	258.2353	nld_news_2016_00587322
+6642	Intussen ben ik voor hen al met een nieuw project bezig dat volgende week moet klaar zijn.	Y	intussen	1242	    3,462	0.0072	258.2353	nld_news_2016_00587322
 6643	Intussen heeft hij al tien studenten die voor hem werken.	Y	intussen	1242	    3,462	0.0072	277.1	nld_news_2015_00589790
 6644	Intussen heeft de eigenaar ze naar een andere plek gebracht.	Y	intussen	1242	    3,462	0.0072	331.4	nld_news_2019_00583564
 6645	België heeft de betrokken landen intussen officieel op de hoogte gesteld.	Y	intussen	1242	    3,462	0.0072	541.7	nld_news_2015_00048937
@@ -652,11 +652,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6651	Het is niet zo dat er in een keer miljoenen liggen en dat wij maar kunnen spelen.	Y	miljoenen	1244	    3,459	0.0072	153.25	nld_news_2019_00441599
 6652	‘Maar het is miljoenen meer dan wat voor wordt gevraagd.’	Y	miljoenen	1244	    3,459	0.0072	230.9	nld_news_2015_00642012
 6653	En van de vele miljoenen winst dus ook bijna niets.	Y	miljoenen	1244	    3,459	0.0072	303	nld_news_2015_00356160
-6654	De schade zou in de honderden miljoenen euro's per jaar lopen.	Y	miljoenen	1244	    3,459	0.0072	366.4545	nld_news_2015_00237626
+6654	De schade zou in de honderden miljoenen euro’s per jaar lopen.	Y	miljoenen	1244	    3,459	0.0072	366.4545	nld_news_2015_00237626
 6655	Daarvoor zal het kabinet vele miljoenen op tafel moeten leggen.	Y	miljoenen	1244	    3,459	0.0072	479	nld_news_2019_00095937
 6656	Als hij in het westen van het land is wil hij snel weer naar huis.	Y	westen	1244	    3,459	0.0072	159.0769	nld_news_2019_00023399
 6657	Volgens hem is de cultuur er nog altijd die van het Wilde Westen.	Y	westen	1244	    3,459	0.0072	217.2308	nld_news_2019_00886246
-6658	"""En al helemaal niet over wat wij hier in het Westen van Afrika kunnen leren."""""""	Y	westen	1244	    3,459	0.0072	255.2	nld_news_2019_00344148
+6658	En al helemaal niet over wat wij hier in het Westen van Afrika kunnen leren.	Y	westen	1244	    3,459	0.0072	255.2	nld_news_2019_00344148
 6659	En wat gaat het vrije westen ons voor toekomst brengen?	Y	westen	1244	    3,459	0.0072	308.4	nld_news_2015_00357202
 6660	‘Het Westen heeft in het verleden zijn verantwoordelijk niet opgenomen.	Y	westen	1244	    3,459	0.0072	498.1111	nld_news_2015_00491576
 6661	Zo kunnen we bij RTV Noord blijven doen waar we goed in zijn en willen blijven: het nieuws uit de provincie brengen.	Y	rtv	1245	    3,454	0.0072	180.3	nld_news_2016_00990462
@@ -664,20 +664,20 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6663	RTV Oost wil graag in contact komen met deze mensen.	Y	rtv	1245	    3,454	0.0072	346	nld_news_2015_00797618
 6664	Al het nieuws van RTV Oost zie je ook op Twitter.	Y	rtv	1245	    3,454	0.0072	366.3636	nld_news_2015_00014063
 6665	RTV Drenthe ging om elf uur een minuut op zwart.	Y	rtv	1245	    3,454	0.0072	616	nld_news_2019_00793005
-6666	''Nu moeten we er alles aan doen om te zorgen dat het nog wat sneller gaat.'	Y	sneller	1245	    3,454	0.0072	142.875	nld_news_2015_00715970
-6667	"""""""Ze volgen elkaar wel wat sneller op de laatste tijd."""	Y	sneller	1245	    3,454	0.0072	249.9	nld_news_2019_00971264
+6666	Nu moeten we er alles aan doen om te zorgen dat het nog wat sneller gaat.'	Y	sneller	1245	    3,454	0.0072	142.875	nld_news_2015_00715970
+6667	Ze volgen elkaar wel wat sneller op de laatste tijd.	Y	sneller	1245	    3,454	0.0072	249.9	nld_news_2019_00971264
 6668	'We zitten nu toch sneller in deze situatie dan verwacht.	Y	sneller	1245	    3,454	0.0072	282.4	nld_news_2019_00943065
 6669	Nog sneller gaat het sinds het begin van de oorlog in Irak.	Y	sneller	1245	    3,454	0.0072	331.0909	nld_news_2019_00709604
-6670	"""""""Hoe sneller je loopt, hoe groter de aanslag op je lichaam."""""""	Y	sneller	1245	    3,454	0.0072	553.3333	nld_news_2019_00507857
+6670	Hoe sneller je loopt, hoe groter de aanslag op je lichaam.	Y	sneller	1245	    3,454	0.0072	553.3333	nld_news_2019_00507857
 6671	'Daar kan wel weer een vaste baan voor in de plaats komen, maar vaak ook niet.'	Y	vaste	1245	    3,454	0.0072	180.375	nld_news_2016_00099972
-6672	Voor onze klanten is zo'n vaste plaats toch van belang.	Y	vaste	1245	    3,454	0.0072	267.7273	nld_news_2015_00907014
+6672	Voor onze klanten is zo’n vaste plaats toch van belang.	Y	vaste	1245	    3,454	0.0072	267.7273	nld_news_2015_00907014
 6673	'Ten eerste zijn onze mensen bijna allemaal in vaste dienst.	Y	vaste	1245	    3,454	0.0072	297.6	nld_news_2015_00825391
 6674	Het belangrijkste voor mij is om eerst vaste waarde te worden bij Groningen.	Y	vaste	1245	    3,454	0.0072	322.5385	nld_news_2015_00433945
 6675	Over vier maanden krijgen beide ondernemers hun eigen vaste pand..	Y	vaste	1245	    3,454	0.0072	475.8	nld_news_2016_00773426
 6676	Want dat kan toch niet de bedoeling van het leven zijn?	Y	bedoeling	1246	    3,450	0.0072	155.0909	nld_news_2015_00921085
-6677	"""""""Eigenlijk weet ik nog niet goed wat allemaal de bedoeling is."""	Y	bedoeling	1246	    3,450	0.0072	214.0909	nld_news_2015_00336385
+6677	Eigenlijk weet ik nog niet goed wat allemaal de bedoeling is.	Y	bedoeling	1246	    3,450	0.0072	214.0909	nld_news_2015_00336385
 6678	'Het is altijd mijn bedoeling geweest om uit te leggen.'	Y	bedoeling	1246	    3,450	0.0072	258.6	nld_news_2019_00432837
-6679	"""""""Het is mijn bedoeling om terug te keren en hier verder te werken aan de ontwikkeling van het dorp."""""""	Y	bedoeling	1246	    3,450	0.0072	294.4118	nld_news_2016_00455740
+6679	Het is mijn bedoeling om terug te keren en hier verder te werken aan de ontwikkeling van het dorp.	Y	bedoeling	1246	    3,450	0.0072	294.4118	nld_news_2016_00455740
 6680	Dat was al bij de bouw van de centrale de bedoeling.	Y	bedoeling	1246	    3,450	0.0072	407.4444	nld_news_2019_00129437
 6681	Dat is veel meer dan het Europees gemiddelde van 33 procent.	Y	gemiddelde	1246	    3,450	0.0072	247.7	nld_news_2019_00119192
 6682	Dat is het hoogste gemiddelde ooit en een kleine €800 meer dan een maand eerder.	Y	gemiddelde	1246	    3,450	0.0072	281.4615	nld_news_2019_00116759
@@ -697,14 +697,14 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6696	Als ze dit jaar geen kampioen worden, worden ze het niet meer.	Y	kampioen	1248	    3,446	0.0072	151.7	nld_news_2019_00031213
 6697	Hij is Nederlands kampioen en werd in 2011 al eens tweede bij het WK.	Y	kampioen	1248	    3,446	0.0072	220.7692	nld_news_2019_00490554
 6698	Laten staan die twee, ze gaan ons Europees kampioen maken.	Y	kampioen	1248	    3,446	0.0072	281.4	nld_news_2015_00623509
-6699	"""""""De andere twee mannen zijn ooit al Europees kampioen geworden."""	Y	kampioen	1248	    3,446	0.0072	347.6	nld_news_2019_00145431
+6699	De andere twee mannen zijn ooit al Europees kampioen geworden.	Y	kampioen	1248	    3,446	0.0072	347.6	nld_news_2019_00145431
 6700	Daar speelde hij 120 wedstrijden en werd hij eenmaal kampioen van Nederland.	Y	kampioen	1248	    3,446	0.0072	453	nld_news_2019_00094255
 6701	Op een gegeven moment kun je een keer naar een park, maar in het begin kwam ik de buurt niet uit.	Y	park	1249	    3,445	0.0072	217.4737	nld_news_2019_00759645
 6702	Volgens de gemeente is meer dan de helft van het dorp tegen het park.	Y	park	1249	    3,445	0.0072	252.5833	nld_news_2019_00882226
 6703	In elk geval niet als er medewerkers van het park in de buurt waren.	Y	park	1249	    3,445	0.0072	285.3846	nld_news_2015_00574173
-6704	Hij ziet zo'n groot park naast de deur niet ziet zitten.	Y	park	1249	    3,445	0.0072	328	nld_news_2019_00503588
+6704	Hij ziet zo’n groot park naast de deur niet ziet zitten.	Y	park	1249	    3,445	0.0072	328	nld_news_2019_00503588
 6705	De club hoopt dat Park dan zijn ja-woord geeft.	Y	park	1249	    3,445	0.0072	417.9	nld_news_2015_00163091
-6706	"""Meer heb je niet nodig om er een feest van te maken."""""""	Y	feest	1250	    3,444	0.0072	152.0833	nld_news_2016_00658929
+6706	Meer heb je niet nodig om er een feest van te maken.	Y	feest	1250	    3,444	0.0072	152.0833	nld_news_2016_00658929
 6707	Maar wat de activiteiten ook zijn, het is altijd feest voor iedereen.'	Y	feest	1250	    3,444	0.0072	228.8333	nld_news_2019_00648660
 6708	Waar een crisis allemaal niet goed voor is - “nee, ik heb geen feest, crisis toch”.	Y	feest	1250	    3,444	0.0072	267.7143	nld_news_2016_00914615
 6709	De schrijver gaat naar een feest maar is vergeten goed na te denken over het thema.	Y	feest	1250	    3,444	0.0072	331.0625	nld_news_2015_00238396
@@ -712,7 +712,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6711	Zeker niet als die partij ook nog eens zo groot wordt dat ze kans maakt de premier te leveren.	Y	leveren	1250	    3,444	0.0072	171.5263	nld_news_2016_00964426
 6712	Volgens een nieuwe wet mag je ook geen kritiek meer leveren op de overheid, vooral niet op de president en het leger.	Y	leveren	1250	    3,444	0.0072	255.75	nld_news_2016_00890278
 6713	Die moeten ervoor zorgen dat het bedrijf nog zorg kan blijven leveren.	Y	leveren	1250	    3,444	0.0072	313.5833	nld_news_2019_00280375
-6714	"""Dan kun je wel verwachten dat je geen zorg kan leveren en geen mensen kan betalen."""""""	Y	leveren	1250	    3,444	0.0072	347	nld_news_2019_00100357
+6714	Dan kun je wel verwachten dat je geen zorg kan leveren en geen mensen kan betalen.	Y	leveren	1250	    3,444	0.0072	347	nld_news_2019_00100357
 6715	Elk gezin moest twee mannen leveren om mee te helpen.	Y	leveren	1250	    3,444	0.0072	416	nld_news_2015_00339047
 6716	Uiteraard was die er ook al in 1971, maar door de jaren heen lijkt ze toe te nemen.	Y	uiteraard	1251	    3,440	0.0071	176.4118	nld_news_2015_00854564
 6717	En dat uiteraard zonder te weten of ze het een of het ander hebben gekregen.	Y	uiteraard	1251	    3,440	0.0071	212.8462	nld_news_2019_00348873
@@ -727,15 +727,15 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6726	De man werkte al bijna 30 jaar voor het bedrijf, net als twee van zijn kinderen.	Y	werkte	1253	    3,436	0.0071	153.8667	nld_news_2016_00213153
 6727	Ook ik had een gezin en werkte mijn man en ik ook 5 dagen per week.	Y	werkte	1253	    3,436	0.0071	259.4167	nld_news_2016_00746046
 6728	Vijf jaar werkte hij in zijn vrije tijd aan de boeken.	Y	werkte	1253	    3,436	0.0071	293.0909	nld_news_2015_00882581
-6729	Het team werkte goed samen en 'ging' voor elke bal.	Y	werkte	1253	    3,436	0.0071	356.2	nld_news_2016_00479398
+6729	Het team werkte goed samen en ‘ging’ voor elke bal.	Y	werkte	1253	    3,436	0.0071	356.2	nld_news_2016_00479398
 6730	Mijn ouders hadden een winkel en mijn moeder werkte altijd.	Y	werkte	1253	    3,436	0.0071	413.6667	nld_news_2016_00675276
 6731	Die komen dan boven op de 1000 per jaar die er nu al jaarlijks zijn.	Y	jaarlijks	1254	    3,430	0.0071	161.5385	nld_news_2019_00279011
 6732	Ze zijn nu met bijna honderd miljoen; jaarlijks komt er 20 procent bij.	Y	jaarlijks	1254	    3,430	0.0071	239.4167	nld_news_2016_00975193
-6733	"""Wat dat betreft is ons bedrijf nog klein, wij zetten jaarlijks ongeveer acht miljoen euro om."""""""	Y	jaarlijks	1254	    3,430	0.0071	301.8125	nld_news_2016_00923564
-6734	Dat kost de gemeenten jaarlijks zo'n drie miljoen euro.	Y	jaarlijks	1254	    3,430	0.0071	324.3	nld_news_2016_00136001
+6733	Wat dat betreft is ons bedrijf nog klein, wij zetten jaarlijks ongeveer acht miljoen euro om.	Y	jaarlijks	1254	    3,430	0.0071	301.8125	nld_news_2016_00923564
+6734	Dat kost de gemeenten jaarlijks zo’n drie miljoen euro.	Y	jaarlijks	1254	    3,430	0.0071	324.3	nld_news_2016_00136001
 6735	Dit gebeurt jaarlijks in opdracht van het ministerie van Economische Zaken.	Y	jaarlijks	1254	    3,430	0.0071	444.8	nld_news_2015_00288930
 6736	Change a few things up and try submitting again Gebruikersnavigatie Gebruikersnavigatie maandag 11 februari 2008Hij zei: laat de voorzitter maar praten en ik laat je wel weten of zijn voorstellen goed zijn.	Y	few	1255	    3,426	0.0071	502.25	nld_news_2015_00078141
-6737	"""""""Wie vindt dat het niet waar is, hoort bij de happy few."""	Y	few	1255	    3,426	0.0071	506.3333	nld_news_2016_00948779
+6737	Wie vindt dat het niet waar is, hoort bij de happy few.	Y	few	1255	    3,426	0.0071	506.3333	nld_news_2016_00948779
 6738	Om te voorkomen dat wonen alleen nog voor de happy few mogelijk is, moeten we nu handelen!	Y	few	1255	    3,426	0.0071	512.3529	nld_news_2016_00730614
 6739	Change a few things up and try submitting again Bekijk al onze abonnementen Gebruikersnavigatie Gebruikersnavigatie Alles wat een man / vrouw moet weten Mannen houden er niet van als een partner een 'goed gesprek' met hen wil.	Y	few	1255	    3,426	0.0071	559	nld_news_2016_00087681
 6740	Change a few things up and try submitting again zaterdag 10 februari 2007Over twee weken kabinet DEN HAAG - Jan Peter Balkenende denkt niet meer dan twee weken nodig te hebben voor de formatie van een nieuw kabinet.	Y	few	1255	    3,426	0.0071	567.8182	nld_news_2016_00089093
@@ -743,7 +743,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6742	Dat die prijs lager dan nu is, stond voor hem vast.	Y	lager	1255	    3,426	0.0071	247.9091	nld_news_2016_00122099
 6743	De groei ligt er de afgelopen tijd, mede door alle economische problemen in Europa en de VS, echter veel lager dan in die andere landen.	Y	lager	1255	    3,426	0.0071	293.5455	nld_news_2016_00192541
 6744	Op 21-jarige leeftijd gaat hij aan de slag in het lager onderwijs.	Y	lager	1255	    3,426	0.0071	338.4167	nld_news_2015_00757157
-6745	Met prijzen die tientallen, soms honderden euro's lager liggen.	Y	lager	1255	    3,426	0.0071	540.8	nld_news_2019_00669292
+6745	Met prijzen die tientallen, soms honderden euro’s lager liggen.	Y	lager	1255	    3,426	0.0071	540.8	nld_news_2019_00669292
 6746	Premier Mark Rutte vindt het nog geen tijd worden om wat anders te gaan doen.	Y	mark	1255	    3,426	0.0071	247.6667	nld_news_2019_00781203
 6747	Volgens burgemeester Van der Mark zijn zeker twintig van hen nog niet zeker van een nieuwe baan.	Y	mark	1255	    3,426	0.0071	287.5714	nld_news_2015_00886879
 6748	Op het eerste oog lijkt er dus niets aan de hand voor premier Mark Rutte.	Y	mark	1255	    3,426	0.0071	320.5333	nld_news_2016_00763203
@@ -754,7 +754,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6753	Waar mag u vanaf volgend jaar nog maar 70 km/u rijden?	Y	km	1256	    3,423	0.0071	324.7	nld_news_2019_00910322
 6754	Eigenlijk wilden de bewoners 80 km/u maar dat zat er niet in.	Y	km	1256	    3,423	0.0071	341.1667	nld_news_2016_00342421
 6755	Wat doen die moslims dan die 200 km. van je dorp wonen?	Y	km	1256	    3,423	0.0071	436	nld_news_2015_00925061
-6756	"""Niet alleen in Nederland maar ook in Europa"""", zegt Wit."""	Y	wit	1257	    3,419	0.0071	205.3333	nld_news_2015_00704253
+6756	Niet alleen in Nederland maar ook in Europa, zegt Wit.	Y	wit	1257	    3,419	0.0071	205.3333	nld_news_2015_00704253
 6757	'Het is mooi om te zien dat zoveel bezoekers de moeite hebben genomen om in het wit te komen.	Y	wit	1257	    3,419	0.0071	302.4375	nld_news_2015_00459250
 6758	'Ik heb zwart op wit dat ik er alles in mocht schrijven wat ik wilde.	Y	wit	1257	    3,419	0.0071	355.9231	nld_news_2015_00542083
 6759	De helft (23) in het wit, de andere helft in het zwart.	Y	wit	1257	    3,419	0.0071	437.7143	nld_news_2019_00183515
@@ -763,10 +763,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6762	Dus wel persoonlijke recht voor hem, maar geen recht voor de anderen!	Y	persoonlijke	1258	    3,417	0.0071	276	nld_news_2016_00314333
 6763	Of: 'Niet alleen voor de persoonlijke ontwikkeling, maar lezen is ook gewoon leuk.'	Y	persoonlijke	1258	    3,417	0.0071	292.5385	nld_news_2019_00719319
 6764	Daarnaast is er steeds minder sprake van een persoonlijke relatie met de bank.	Y	persoonlijke	1258	    3,417	0.0071	343.1538	nld_news_2016_00103217
-6765	"""De persoonlijke relatie met God staat centraal in de kerk."""""""	Y	persoonlijke	1258	    3,417	0.0071	519.7778	nld_news_2019_00222042
+6765	De persoonlijke relatie met God staat centraal in de kerk.	Y	persoonlijke	1258	    3,417	0.0071	519.7778	nld_news_2019_00222042
 6766	Ik sluit zeker niet uit dat we er over vijf jaar anders over denken dan nu.'	Y	sluit	1258	    3,417	0.0071	174.8	nld_news_2015_00546942
-6767	"""En sluit niet uit dat dit nog een keer gaat gebeuren."""""""	Y	sluit	1258	    3,417	0.0071	214.9091	nld_news_2019_00359236
-6768	"""Hij meldt zich woensdag in Amsterdam en sluit zich na de wedstrijd aan bij Oranje."""""""	Y	sluit	1258	    3,417	0.0071	251.5	nld_news_2016_00506290
+6767	En sluit niet uit dat dit nog een keer gaat gebeuren.	Y	sluit	1258	    3,417	0.0071	214.9091	nld_news_2019_00359236
+6768	Hij meldt zich woensdag in Amsterdam en sluit zich na de wedstrijd aan bij Oranje.	Y	sluit	1258	    3,417	0.0071	251.5	nld_news_2016_00506290
 6769	Hij sluit er zijn boek mee af onder de titel ‘Hoop’.	Y	sluit	1258	    3,417	0.0071	303.3636	nld_news_2019_00496120
 6770	Door de zege sluit PSV de groep als derde af.	Y	sluit	1258	    3,417	0.0071	402.6667	nld_news_2015_00300720
 6771	En dan weet 51 % ook nog eens niet te vinden wat hij zoekt.	Y	zoekt	1259	    3,383	0.007	171.75	nld_news_2019_00347034
@@ -793,20 +793,20 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6792	En er is de vrije hand die ouders de kinderen geven in hun gedrag.	Y	gedrag	1262	    3,377	0.007	256.2308	nld_news_2016_00353084
 6793	Ik heb in Suriname gewerkt en zie nog steeds hetzelfde gedrag als mensen bij de overheid werkt.	Y	gedrag	1262	    3,377	0.007	325.6471	nld_news_2015_00540671
 6794	Bijvoorbeeld aan het gedrag van de leiding van de organisatie.	Y	gedrag	1262	    3,377	0.007	370.875	nld_news_2015_00062695
-6795	"""Maar we doen zoveel, onze medewerkers die dagelijks mooie verhalen vertellen over natuur, cultuur en gedrag."""""""	Y	gedrag	1262	    3,377	0.007	526.3125	nld_news_2019_00649071
+6795	Maar we doen zoveel, onze medewerkers die dagelijks mooie verhalen vertellen over natuur, cultuur en gedrag.	Y	gedrag	1262	    3,377	0.007	526.3125	nld_news_2019_00649071
 6796	En hoe mooi is het niet als je een moeder hebt die nog op aarde is.	Y	aarde	1263	    3,374	0.007	207.0667	nld_news_2019_00353514
 6797	Ik ben niet zo heel blij met wat ik op aarde ben geworden.	Y	aarde	1263	    3,374	0.007	245	nld_news_2019_00521151
 6798	De wereld en de aarde gaan hen aan het hart.”	Y	aarde	1263	    3,374	0.007	290	nld_news_2015_00263661
 6799	Maar het voorstel valt niet bij alle partijen in goede aarde.	Y	aarde	1263	    3,374	0.007	333.4545	nld_news_2019_00637858
-6800	"""Dat gebeurt ook in veel huizen in de wijk In Goede Aarde"""", aldus de wethouder."""	Y	aarde	1263	    3,374	0.007	440.5833	nld_news_2019_00109707
+6800	Dat gebeurt ook in veel huizen in de wijk In Goede Aarde, aldus de wethouder.	Y	aarde	1263	    3,374	0.007	440.5833	nld_news_2019_00109707
 6801	Volgens de Kamer kan dit niet als de Raad zelf onderwerp is van het onderzoek.	Y	onderwerp	1264	    3,368	0.007	191	nld_news_2015_00888462
-6802	"""""""Voor ons is het onderwerp pas klaar als mensen altijd zichzelf kunnen zijn."""	Y	onderwerp	1264	    3,368	0.007	234.8462	nld_news_2019_00901390
+6802	Voor ons is het onderwerp pas klaar als mensen altijd zichzelf kunnen zijn.	Y	onderwerp	1264	    3,368	0.007	234.8462	nld_news_2019_00901390
 6803	Hij hoopt dan ook op verder onderzoek naar het onderwerp.	Y	onderwerp	1264	    3,368	0.007	269.6	nld_news_2016_00501642
 6804	Het was de laatste tijd een beetje stil rond dit onderwerp.	Y	onderwerp	1264	    3,368	0.007	313.8182	nld_news_2015_00488439
 6805	Het hele onderwerp hoort m.i. niet thuis in de publieke ruimte.	Y	onderwerp	1264	    3,368	0.007	554.25	nld_news_2015_00450351
 6806	En voor de groep die door wil werken moet er een mogelijkheid zijn.	Y	mogelijkheid	1265	    3,366	0.007	157.7692	nld_news_2019_00360682
 6807	Er is dan geen mogelijkheid meer om de zaak opnieuw aan de rechter voor te leggen.	Y	mogelijkheid	1265	    3,366	0.007	227.6667	nld_news_2015_00360898
-6808	"""""""Daar was ruimte voor, dus ik gaf de mogelijkheid"""", vertelt hij ons."""	Y	mogelijkheid	1265	    3,366	0.007	267.5833	nld_news_2015_00101012
+6808	Daar was ruimte voor, dus ik gaf de mogelijkheid, vertelt hij ons.	Y	mogelijkheid	1265	    3,366	0.007	267.5833	nld_news_2015_00101012
 6809	Dat biedt ons de mogelijkheid om ook tijdens de wedstrijd iets te kunnen veranderen.”	Y	mogelijkheid	1265	    3,366	0.007	316.8462	nld_news_2015_00109017
 6810	Helaas zonder voldoende resultaat, waardoor de staatssecretaris nu geen andere mogelijkheid meer ziet.	Y	mogelijkheid	1265	    3,366	0.007	517.0769	nld_news_2015_00428063
 6811	Dat kon ik een paar jaar geleden ook niet voorzien, maar het is zo.'	Y	voorzien	1266	    3,364	0.007	155.7857	nld_news_2015_00126022
@@ -817,7 +817,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6816	Het draait al niet om hem, wil hij maar zeggen.	Y	draait	1267	    3,358	0.007	177.4	nld_news_2019_00419223
 6817	Maar die oplossing is niet waar om het draait in dit verhaal.	Y	draait	1267	    3,358	0.007	227	nld_news_2015_00638880
 6818	En hij is de man waar de serie echt om draait.	Y	draait	1267	    3,358	0.007	282.3	nld_news_2016_00354724
-6819	"""""""Vanaf nu draait het allemaal om Amerika eerst, Amerika eerst!"""""""	Y	draait	1267	    3,358	0.007	357	nld_news_2019_00855466
+6819	Vanaf nu draait het allemaal om Amerika eerst, Amerika eerst!	Y	draait	1267	    3,358	0.007	357	nld_news_2019_00855466
 6820	Als dit park straks goed draait, ben ik helemaal tevreden.”	Y	draait	1267	    3,358	0.007	514.8	nld_news_2016_00032303
 6821	Vaak weet ik wat de oorzaak is en dat er nog tijd is.	Y	oorzaak	1267	    3,358	0.007	164.5	nld_news_2015_00858246
 6822	Wat de oorzaak is geweest van de brand, is nog niet bekend.	Y	oorzaak	1267	    3,358	0.007	231	nld_news_2019_00919106
@@ -830,7 +830,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6829	Volgend jaar wil de gemeente vooral de wegen in stand houden en de wegen veilig houden.	Y	wegen	1268	    3,351	0.007	387	nld_news_2015_00886156
 6830	Twee wegen in de buurt van het gebouw zijn voorlopig afgesloten.	Y	wegen	1268	    3,351	0.007	442.7273	nld_news_2016_00849588
 6831	‘Als er een partij is die goed is voor het milieu zijn wij het.	Y	milieu	1269	    3,350	0.007	153.1667	nld_news_2019_00021279
-6832	"""""""Als je alles op elk festival laat liggen, kan dat niet goed zijn voor het milieu."""""""	Y	milieu	1269	    3,350	0.007	227.6875	nld_news_2019_00025123
+6832	Als je alles op elk festival laat liggen, kan dat niet goed zijn voor het milieu.	Y	milieu	1269	    3,350	0.007	227.6875	nld_news_2019_00025123
 6833	Voor de omgeving en voor het milieu zijn er geen gevolgen.	Y	milieu	1269	    3,350	0.007	297.7	nld_news_2015_00901842
 6834	Een wereld met minder geweld en meer liefde en een wereld met meer aandacht voor het milieu.	Y	milieu	1269	    3,350	0.007	326.3333	nld_news_2019_00336028
 6835	En daarom vraagt Natuur & Milieu hulp aan de inwoners van Zeeland.	Y	milieu	1269	    3,350	0.007	522.4545	nld_news_2019_00345960
@@ -844,7 +844,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6843	Ook de Tom-Tom ging over in handen van de politie.	Y	tom	1271	    3,348	0.007	234.5556	nld_news_2015_00745291
 6844	Tom is niet van plan om het zonder gevolg te laten en licht meteen de politie in.	Y	tom	1271	    3,348	0.007	236.1765	nld_news_2019_00837806
 6845	Misschien zit hij er voor iets tussen want Hans en Tom waren goede vrienden.	Y	tom	1271	    3,348	0.007	310.1429	nld_news_2016_00679548
-6846	"""Ik zou willen vragen aan iedereen die iets gezien heeft, om dat te melden aan de politie."""""""	Y	melden	1272	    3,346	0.007	173.875	nld_news_2016_00551996
+6846	Ik zou willen vragen aan iedereen die iets gezien heeft, om dat te melden aan de politie.	Y	melden	1272	    3,346	0.007	173.875	nld_news_2016_00551996
 6847	Laat ik hier maar niet melden wat ik nu denk.	Y	melden	1272	    3,346	0.007	240.5556	nld_news_2016_00618861
 6848	Nu hij eindelijk mag zeggen wat hij wil en wat hij denkt, blijkt dat hij op eigen kracht niet veel heeft te melden.	Y	melden	1272	    3,346	0.007	260.4737	nld_news_2015_00714702
 6849	Ze hadden zich dinsdag moeten melden maar deden dat niet.	Y	melden	1272	    3,346	0.007	313	nld_news_2016_00961805
@@ -853,14 +853,14 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6852	Waardoor die trein ook niet meer verder kon, is niet bekend.	Y	trein	1273	    3,345	0.007	243.5	nld_news_2019_00909492
 6853	Op een avond nam ik de trein van Den Haag naar Brussel.	Y	trein	1273	    3,345	0.007	315	nld_news_2019_00759353
 6854	Zelf werkte ik in Breda en ging elke dag op en neer met de trein.	Y	trein	1273	    3,345	0.007	356.8571	nld_news_2019_00966503
-6855	De trein stond zo'n twintig minuten stil voor het centraal station.	Y	trein	1273	    3,345	0.007	524.75	nld_news_2016_00256078
+6855	De trein stond zo’n twintig minuten stil voor het centraal station.	Y	trein	1273	    3,345	0.007	524.75	nld_news_2016_00256078
 6856	Maar zondag waren de Amerikanen pas voor het eerst in ons land.	Y	amerikanen	1274	    3,340	0.0069	194.25	nld_news_2019_00650987
 6857	En dat is in het economische belang van ons Amerikanen.	Y	amerikanen	1274	    3,340	0.0069	231.2	nld_news_2016_00349702
 6858	Heel veel Amerikanen zouden vandaag liever gewoon niet stemmen op een van deze twee, maar een andere keuze hebben ze niet.	Y	amerikanen	1274	    3,340	0.0069	263.4211	nld_news_2016_00423399
 6859	Een andere reden is dat Amerikanen steeds meer kopen op internet.	Y	amerikanen	1274	    3,340	0.0069	343.3636	nld_news_2019_00312227
-6860	''Omdat ik mijn wedstrijd verloor, kregen de Amerikanen meer ruimte.	Y	amerikanen	1274	    3,340	0.0069	439.9	nld_news_2016_00726874
+6860	Omdat ik mijn wedstrijd verloor, kregen de Amerikanen meer ruimte.	Y	amerikanen	1274	    3,340	0.0069	439.9	nld_news_2016_00726874
 6861	De militaire organisatie komt van ver en Nederland is nog lang niet.	Y	militaire	1275	    3,332	0.0069	236.3333	nld_news_2019_00205985
-6862	"""""""Het is zoals ik altijd al heb gezegd, er is geen militaire oplossing."""""""	Y	militaire	1275	    3,332	0.0069	270.4167	nld_news_2015_00463642
+6862	Het is zoals ik altijd al heb gezegd, er is geen militaire oplossing.	Y	militaire	1275	    3,332	0.0069	270.4167	nld_news_2015_00463642
 6863	Europa, jullie doen/kunnen toch niks zonder militaire macht dus houdt dat dan maar zo.	Y	militaire	1275	    3,332	0.0069	329.2	nld_news_2015_00372905
 6864	Waar Obama zich eerder zorgen over maakt is het Russische militaire antwoord op druk vanuit Europa of de rest van het Westen.	Y	militaire	1275	    3,332	0.0069	382.4762	nld_news_2015_00916239
 6865	VS geven Israël voor 34 miljard euro aan militaire steun - Wereld - Knack.	Y	militaire	1275	    3,332	0.0069	517.9091	nld_news_2016_00913512
@@ -893,14 +893,14 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6892	Lees er donderdag meer over in Het Belang van Limburg.	Y	limburg	1279	    3,326	0.0069	295.1	nld_news_2016_00623190
 6893	Wel voor zuid Nederland, dus Brabant, Limburg en Zeeland samen.	Y	limburg	1279	    3,326	0.0069	374.8	nld_news_2019_00934361
 6894	Dat schrijven Het Belang van Limburg en Gazet van Antwerpen donderdag.	Y	limburg	1279	    3,326	0.0069	420.8	nld_news_2015_00131984
-6895	"""""""Vanuit Limburg ben je sneller in Parijs dan in Antwerpen"""""""	Y	limburg	1279	    3,326	0.0069	507.5556	nld_news_2019_00863986
+6895	Vanuit Limburg ben je sneller in Parijs dan in Antwerpen	Y	limburg	1279	    3,326	0.0069	507.5556	nld_news_2019_00863986
 6896	Dit is terug te zien in de omzet van het bedrijf.	Y	omzet	1280	    3,323	0.0069	170.5455	nld_news_2019_00291143
 6897	In 2015 had het een omzet van bijna een miljard euro.	Y	omzet	1280	    3,323	0.0069	236.1111	nld_news_2019_00549153
-6898	'Door meer auto's op de weg te laten rijden wilden we zorgen voor meer omzet.	Y	omzet	1280	    3,323	0.0069	268.8667	nld_news_2016_00308369
+6898	'Door meer auto’s op de weg te laten rijden wilden we zorgen voor meer omzet.	Y	omzet	1280	    3,323	0.0069	268.8667	nld_news_2016_00308369
 6899	België en Frankrijk dragen nog altijd het meest bij tot de omzet van de groep.	Y	omzet	1280	    3,323	0.0069	318	nld_news_2015_00048909
 6900	Hij is tevreden over de omzet die hij jaarlijks draait.	Y	omzet	1280	    3,323	0.0069	558.6667	nld_news_2016_00503529
 6901	Hoe ernstig is dat en wat kunnen vrouwen daar tegen doen?	Y	ernstig	1281	    3,318	0.0069	182.0909	nld_news_2019_00505475
-6902	"""""""Dat doe je maar eens in je leven"""", zegt ze ernstig."""	Y	ernstig	1281	    3,318	0.0069	254.6	nld_news_2015_00112175
+6902	Dat doe je maar eens in je leven, zegt ze ernstig.	Y	ernstig	1281	    3,318	0.0069	254.6	nld_news_2015_00112175
 6903	Wat gebeurt er met je na een ernstig auto-ongeluk?	Y	ernstig	1281	    3,318	0.0069	318.5	nld_news_2015_00926244
 6904	Uw dochter heeft een zeer ernstig ongeluk gehad en u moet snel komen.	Y	ernstig	1281	    3,318	0.0069	374.3846	nld_news_2019_00852558
 6905	'De kinderen zijn ernstig gewond geraakt' - Omroep Zeeland 'De kinderen zijn ernstig gewond geraakt'	Y	ernstig	1281	    3,318	0.0069	626.25	nld_news_2019_00192547
@@ -910,7 +910,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6909	En in Amerika kun je via de radio een auto winnen of verliezen.	Y	verliezen	1281	    3,318	0.0069	329.0769	nld_news_2015_00350191
 6910	Wie zichzelf op het spel zet, loopt het risico zichzelf te verliezen.	Y	verliezen	1281	    3,318	0.0069	486.9	nld_news_2015_00949886
 6911	Zegt dan: ‘We zeggen hier in België: daar is een hoek af.	Y	hoek	1282	    3,316	0.0069	197.9167	nld_news_2019_00959500
-6912	Wij wonen hier om de hoek en komen hier zo'n drie keer per week.	Y	hoek	1282	    3,316	0.0069	218	nld_news_2016_00952201
+6912	Wij wonen hier om de hoek en komen hier zo’n drie keer per week.	Y	hoek	1282	    3,316	0.0069	218	nld_news_2016_00952201
 6913	Niet in Nederland en ook niet in Hoek van Holland.	Y	hoek	1282	    3,316	0.0069	324	nld_news_2015_00705755
 6914	Ik heb geen enkel idee uit welke hoek de brief komt.	Y	hoek	1282	    3,316	0.0069	375.6364	nld_news_2016_00537550
 6915	Toen de agenten de hoek om kwamen lag de man op de grond.	Y	hoek	1282	    3,316	0.0069	439.2	nld_news_2019_00833479
@@ -923,28 +923,28 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6922	Iedereen zegt dat Amsterdam makkelijk is, maar dat is echt niet zo.	Y	makkelijk	1284	    3,308	0.0069	213.3	nld_news_2019_00516948
 6923	En het is ook gewoon makkelijk, je hebt er immers geen werk van.	Y	makkelijk	1284	    3,308	0.0069	252.7692	nld_news_2019_00352700
 6924	Dat denk ik namelijk wel, want zij hebben altijd makkelijk praten als het om dit onderwerp gaat.	Y	makkelijk	1284	    3,308	0.0069	296.8235	nld_news_2016_00121724
-6925	"""""""Kijk, ik vind dit soort kritiek eigenlijk veel te makkelijk."""	Y	makkelijk	1284	    3,308	0.0069	445.2	nld_news_2016_00610103
+6925	Kijk, ik vind dit soort kritiek eigenlijk veel te makkelijk.	Y	makkelijk	1284	    3,308	0.0069	445.2	nld_news_2016_00610103
 6926	En dan maar hopen dat het niet te laat is.	Y	hopen	1285	    3,307	0.0069	156.3	nld_news_2015_00342730
 6927	De resultaten hopen we binnen een week binnen te krijgen.	Y	hopen	1285	    3,307	0.0069	231.6667	nld_news_2016_00241995
-6928	"""Ik kan nu alleen maar hopen dat hij het licht gezien heeft en afstand neemt van zijn verleden."""""""	Y	hopen	1285	    3,307	0.0069	272.1111	nld_news_2015_00543834
+6928	Ik kan nu alleen maar hopen dat hij het licht gezien heeft en afstand neemt van zijn verleden.	Y	hopen	1285	    3,307	0.0069	272.1111	nld_news_2015_00543834
 6929	Je kunt stil op de grond gaan liggen en hopen dat het niet weer gebeurt.	Y	hopen	1285	    3,307	0.0069	322.0667	nld_news_2016_00598664
 6930	Ik mag hopen dat justitie nu eindelijk voldoende actief zal optreden.”	Y	hopen	1285	    3,307	0.0069	539.8182	nld_news_2019_00535025
 6931	Hij heeft er momenteel geen: het is net uit met zijn vriendin, ‘omdat er geen tijd was voor ons.’	Y	vriendin	1286	    3,306	0.0069	155.4118	nld_news_2015_00503388
 6932	Onder zijn slachtoffers waren ook zijn vriendin en haar twee kinderen, zo maakte justitie in het Zuid-Amerikaanse land dinsdag bekend.	Y	vriendin	1286	    3,306	0.0069	229.65	nld_news_2016_00735147
 6933	Of een vriend of vriendin die je mee uit wil nemen?	Y	vriendin	1286	    3,306	0.0069	288.6	nld_news_2015_00719238
-6934	"""Mijn vriendin die achter mij stond werd geraakt aan haar hoofd."""""""	Y	vriendin	1286	    3,306	0.0069	327.8182	nld_news_2015_00677033
+6934	Mijn vriendin die achter mij stond werd geraakt aan haar hoofd.	Y	vriendin	1286	    3,306	0.0069	327.8182	nld_news_2015_00677033
 6935	Zijn Turkse ex-vriendin bracht hem in contact met een advocaat.	Y	vriendin	1286	    3,306	0.0069	533.6364	nld_news_2019_00982001
 6936	Het lijkt er op dat de nieuwe aanpak van de politie dus niet werkt.	Y	aanpak	1287	    3,300	0.0069	184.3846	nld_news_2016_00465314
 6937	De gemeente gaat nu aan de slag met een plan van aanpak, dat moet in april 2017 klaar zijn.	Y	aanpak	1287	    3,300	0.0069	236.2353	nld_news_2019_00177525
-6938	"""""""We hebben die informatie nodig bij de discussie over het plan van aanpak."""""""	Y	aanpak	1287	    3,300	0.0069	276.9231	nld_news_2015_00933489
+6938	We hebben die informatie nodig bij de discussie over het plan van aanpak.	Y	aanpak	1287	    3,300	0.0069	276.9231	nld_news_2015_00933489
 6939	Waar blijft een Nederlands plan van aanpak voor de toekomst.	Y	aanpak	1287	    3,300	0.0069	303.1	nld_news_2015_00914947
 6940	Bovendien zijn de ondernemers tevreden over de aanpak van hun straat.	Y	aanpak	1287	    3,300	0.0069	463.3	nld_news_2019_00067746
 6941	Het is nog niet zeker of de gemeente het financieel rond kan krijgen.	Y	financieel	1288	    3,299	0.0069	178	nld_news_2016_00457291
 6942	Ze kunnen ook de kans bieden om er financieel op in te spelen.	Y	financieel	1288	    3,299	0.0069	226.0769	nld_news_2016_00965494
 6943	Dus mag het, nu er financieel iets meer lucht is, best wel eens een beetje minder.	Y	financieel	1288	    3,299	0.0069	258.5	nld_news_2016_00313758
-6944	"""Op financieel terrein moet je kijken wat op lange termijn het beste is voor Europa en Nederland."""""""	Y	financieel	1288	    3,299	0.0069	313.5625	nld_news_2019_00760793
+6944	Op financieel terrein moet je kijken wat op lange termijn het beste is voor Europa en Nederland.	Y	financieel	1288	    3,299	0.0069	313.5625	nld_news_2019_00760793
 6945	Maar de laatste jaren wilde ze zichzelf financieel veilig stellen.	Y	financieel	1288	    3,299	0.0069	388.9	nld_news_2015_00637418
-6946	"""""""De laatste jaren is het altijd wat minder geweest met Feyenoord."""	Y	feyenoord	1289	    3,298	0.0069	201.0909	nld_news_2019_00196200
+6946	De laatste jaren is het altijd wat minder geweest met Feyenoord.	Y	feyenoord	1289	    3,298	0.0069	201.0909	nld_news_2019_00196200
 6947	Ik hoop dat je volgende stap net zo’n mooie club zal worden als deze mooie club Feyenoord is.”	Y	feyenoord	1289	    3,298	0.0069	274.0588	nld_news_2019_00531426
 6948	De spelers van Feyenoord laten zich gaan op het podium tijdens de Open Dag twaalf jaar geleden.	Y	feyenoord	1289	    3,298	0.0069	328.5	nld_news_2019_00241345
 6949	Daarbij gaat het vooral om wedstrijden van de top 3: Ajax, Feyenoord en PSV.	Y	feyenoord	1289	    3,298	0.0069	363.9231	nld_news_2015_00085594
@@ -962,14 +962,14 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6961	Of de acht met die feiten te maken hebben, is nog niet duidelijk.	Y	feiten	1292	    3,284	0.0068	177	nld_news_2019_00717099
 6962	De politie kwam niet met nieuwe feiten over de stand van het onderzoek.	Y	feiten	1292	    3,284	0.0068	231.9167	nld_news_2015_00226262
 6963	Of houdt men rekening met heel wat andere feiten, die over het hoofd werden gezien?	Y	feiten	1292	    3,284	0.0068	273.2667	nld_news_2016_00719393
-6964	"""""""Tien dagen na de feiten hadden ze al hun mening."""	Y	feiten	1292	    3,284	0.0068	328	nld_news_2015_00830302
+6964	Tien dagen na de feiten hadden ze al hun mening.	Y	feiten	1292	    3,284	0.0068	328	nld_news_2015_00830302
 6965	“De feiten zijn bijzonder ernstig en hadden zware gevolgen voor het slachtoffer.	Y	feiten	1292	    3,284	0.0068	496.0833	nld_news_2019_00173532
 6966	Zo had je er meer in het Midden-Oosten, en nu nog een paar.	Y	oosten	1293	    3,278	0.0068	184.7143	nld_news_2015_00988640
 6967	En dan nog maar niet te spreken over het Midden Oosten.	Y	oosten	1293	    3,278	0.0068	265	nld_news_2016_00348665
 6968	Het zou heel goed kunnen dat die uit het Oosten gaat komen, uit islamitische hoek.	Y	oosten	1293	    3,278	0.0068	332.3077	nld_news_2015_00495332
 6969	Mensen die zeggen dat Turkije bij het Oosten hoort, niet bij het Westen.’	Y	oosten	1293	    3,278	0.0068	445	nld_news_2019_00659758
 6970	Een gebied met regen trekt vanuit het westen naar het oosten.	Y	oosten	1293	    3,278	0.0068	559.4	nld_news_2016_00322742
-6971	Als hij er foto's bij heeft zou het zomaar kunnen dat dat ook nog gaat komen.'	Y	zomaar	1294	    3,277	0.0068	129.9375	nld_news_2016_00035032
+6971	Als hij er foto’s bij heeft zou het zomaar kunnen dat dat ook nog gaat komen.'	Y	zomaar	1294	    3,277	0.0068	129.9375	nld_news_2016_00035032
 6972	Verder is het bijvoorbeeld nog niet mogelijk om zomaar geld naar het buitenland over te maken.	Y	zomaar	1294	    3,277	0.0068	219.0667	nld_news_2015_00875113
 6973	Dat doe je niet zomaar, zeker niet als je samen ook nog drie kinderen hebt.	Y	zomaar	1294	    3,277	0.0068	270.0769	nld_news_2015_00112185
 6974	En als je er eenmaal in zit, keer je je partij niet zomaar de rug toe.	Y	zomaar	1294	    3,277	0.0068	331.5	nld_news_2016_00346721
@@ -978,13 +978,13 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 6977	Wanneer ik de tekst voor het eerst onder ogen kreeg weet ik niet meer.	Y	tekst	1295	    3,276	0.0068	242.4615	nld_news_2016_00919056
 6978	Als ik de tekst nu lees, dan weet ik: dit ben ik!	Y	tekst	1295	    3,276	0.0068	290.3	nld_news_2015_00026338
 6979	Ik heb delen van een tekst hier om een mening te geven.	Y	tekst	1295	    3,276	0.0068	328.7273	nld_news_2019_00527256
-6980	"""En toen duidelijk werd dat we Europees voetbal hebben gehaald hebben we besloten deze tekst erop te zetten."""""""	Y	tekst	1295	    3,276	0.0068	435.25	nld_news_2019_00359837
+6980	En toen duidelijk werd dat we Europees voetbal hebben gehaald hebben we besloten deze tekst erop te zetten.	Y	tekst	1295	    3,276	0.0068	435.25	nld_news_2019_00359837
 6981	Vandaag is de laatste dag dat hij aan zijn bureau zit.	Y	bureau	1296	    3,274	0.0068	185.5455	nld_news_2019_00857042
 6982	Medewerkers zitten vaak niet aan hun bureau, als ze er al een hebben.	Y	bureau	1296	    3,274	0.0068	218	nld_news_2016_00657694
 6983	In Het Bureau schrijft hij: 'Mijn vader zegt nooit iets.	Y	bureau	1296	    3,274	0.0068	280.1	nld_news_2016_00575066
 6984	Later op het bureau kwam het hele verhaal naar boven.	Y	bureau	1296	    3,274	0.0068	301.7778	nld_news_2016_00621756
 6985	Toen de verdachte zich op het bureau meldde, is hij aangehouden.	Y	bureau	1296	    3,274	0.0068	375	nld_news_2015_00839391
-6986	''Het moet niet zo zijn dat zo'n functie voor het leven is.	Y	functie	1297	    3,271	0.0068	153.3636	nld_news_2019_00453985
+6986	Het moet niet zo zijn dat zo’n functie voor het leven is.	Y	functie	1297	    3,271	0.0068	153.3636	nld_news_2019_00453985
 6987	Als ik de kans had gehad om bijvoorbeeld in Amsterdam aan de slag te gaan in een vergelijkbare functie, had ik dat niet gedaan.	Y	functie	1297	    3,271	0.0068	235.35	nld_news_2015_00026307
 6988	Onder hem kreeg ze de functie van minister van Buitenlandse Zaken.	Y	functie	1297	    3,271	0.0068	293.5	nld_news_2016_00733285
 6989	Wat is de functie van groen in stad en regio?	Y	functie	1297	    3,271	0.0068	327.7	nld_news_2015_00927148

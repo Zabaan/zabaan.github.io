@@ -50,7 +50,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13049	Derzeit gibt es fünf verschiedene Modelle aus denen man wählen kann.	Y	modelle	1604	    599	0.0037	445.6364	german_at_news_2012_00268915
 13050	Offizielle Preise für Österreich für die neuen iPad-Modelle wurden vorerst nicht genannt.	Y	modelle	1604	    599	0.0037	648.4167	german_at_news_2012_00743233
 13051	Aber: „Wir haben zum Sterben zu viel und zum Leben zu wenig.“	Y	sterben	1604	    599	0.0037	234.7	german_at_news_2012_00011930
-13052	"""Es waren nach seinem Tod ja noch so viele Leute in dem Haus."""" sterben müssen."""	Y	sterben	1604	    599	0.0037	266.2667	german_at_news_2012_00470310
+13052	Es waren nach seinem Tod ja noch so viele Leute in dem Haus. sterben müssen.	Y	sterben	1604	    599	0.0037	266.2667	german_at_news_2012_00470310
 13053	Ich hätte nie gedacht, dass er sterben kann, jetzt weiß ich es“.	Y	sterben	1604	    599	0.0037	364.3636	german_at_news_2012_00555471
 13054	Nicht nur weil die Kinder einen verlassen oder vor die Tür setzen, sondern weil sie vorher sterben.	Y	sterben	1604	    599	0.0037	441.0667	german_at_news_2012_00724953
 13055	Der Tod ist der Tod, ein Zustand, kein Prozess wie das Sterben.	Y	sterben	1604	    599	0.0037	476.6	german_at_news_2012_00262787
@@ -100,7 +100,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13099	Verliebt wie am ersten Tag, ließ es das Traumpaar vor der Kamera so richtig knistern.	Y	traumpaar	1606	    597	0.0037	556.6	german_at_news_2012_00896351
 13100	So glücklich, wie sie die Welt glauben lassen, sollen die beiden gar nicht sein, berichteten Insider vor kurzem über das Showbiz-Traumpaar.	Y	traumpaar	1606	    597	0.0037	567.8571	german_at_news_2012_00823409
 13101	Das klingt wie Erich Fromm: „Wir sind nicht, um zu haben, sondern wir haben, um zu sein.“	Y	erich	1607	    596	0.0037	444.3077	german_at_news_2012_00182005
-13102	"""Wir haben gute Chancen, stärker zu werden!"""", stellt Erich Haider schließlich fest."""	Y	erich	1607	    596	0.0037	449.8333	german_at_news_2012_00965735
+13102	Wir haben gute Chancen, stärker zu werden!, stellt Erich Haider schließlich fest.	Y	erich	1607	    596	0.0037	449.8333	german_at_news_2012_00965735
 13103	Es ist die letzte Ausstellung von Direktor Erich Marx für das Salzburg Museum.	Y	erich	1607	    596	0.0037	540.8462	german_at_news_2012_00460883
 13104	Aber auch der oberösterreichische SPÖ-Vorsitzende Erich Haider hat sich bereits für eine Volksabstimmung über den Vertrag ausgesprochen.	Y	erich	1607	    596	0.0037	570.8333	german_at_news_2012_00001996
 13105	Gertrude D.: Dass sie einmal eine Freundin von Erich war.	Y	erich	1607	    596	0.0037	588.7	german_at_news_2012_00513131

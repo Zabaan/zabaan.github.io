@@ -29,7 +29,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 18028	Man sieht - auch die älteren Piloten bringen noch Top Leistungen.	Y	piloten	1783	    420	0.0026	592.4	german_at_news_2012_00668689
 18029	Ursprünglich lief der Vertrag des Piloten bis Ende dieser Saison.	Y	piloten	1783	    420	0.0026	666.7	german_at_news_2012_00892734
 18030	Ein „Standard“-Bericht, wonach 45 Piloten die AUA verlassen wollen, wurde bestätigt.	Y	piloten	1783	    420	0.0026	823.0909	german_at_news_2012_00424645
-18031	"""Art+Tech """" bedeutet zudem, dass hier auch Kunst eine Rolle spielt."""	Y	tech	1783	    420	0.0026	469.9091	german_at_news_2012_00057581
+18031	Art+Tech  bedeutet zudem, dass hier auch Kunst eine Rolle spielt.	Y	tech	1783	    420	0.0026	469.9091	german_at_news_2012_00057581
 18032	Die deutsche High Tech Firma ist eines von 18 Unternehmen, die die Standortagentur Tirol im letzten Jahr ins Land gebracht hat.	Y	tech	1783	    420	0.0026	511	german_at_news_2012_00291993
 18033	Da werden viele Personen im Management der VA Tech umdenken müssen oder nicht mehr dabei sein.	Y	tech	1783	    420	0.0026	520.125	german_at_news_2012_00208973
 18034	Die Reaktionen aus der Tech-Welt ließen nicht lange auf sich warten.	Y	tech	1783	    420	0.0026	540.3333	german_at_news_2012_00338841
@@ -81,7 +81,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 18080	Gescheiterte Sänger bei „The Winner is“ Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	is	1784	    419	0.0026	503.3846	german_at_news_2012_00513510
 18081	Manchmal würde man auch noch gerne hinzufügen: „Warum sind Sie eigentlich da?“, aber das wäre vielleicht nicht so optimal.	Y	optimal	1784	    419	0.0026	377.8947	german_at_news_2012_00664319
 18082	Mich hat immer die Frage interessiert: Was müsste ein Mensch essen, um optimal gesund zu sein?	Y	optimal	1784	    419	0.0026	499.4375	german_at_news_2012_00680180
-18083	"""Ein """" Nexus Two """" soll es nicht geben, da das Ziel laut Schmidt bereits mit dem ersten Handy optimal erreicht wurde."""	Y	optimal	1784	    419	0.0026	500.4	german_at_news_2012_00422303
+18083	Ein  Nexus Two  soll es nicht geben, da das Ziel laut Schmidt bereits mit dem ersten Handy optimal erreicht wurde.	Y	optimal	1784	    419	0.0026	500.4	german_at_news_2012_00422303
 18084	Wir dürfen sicher davon ausgehen, da man im Fokus der Weltöffentlichkeit steht, dass alles gemacht wird, um das optimal abzuwickeln“, ist sie sich sicher.	Y	optimal	1784	    419	0.0026	507.3478	german_at_news_2012_00963834
 18085	Für den Minister steht dabei fest: „Egal, wie alt wir sind, wir sollen immer eine aktive Rolle in der Gesellschaft spielen können und das vorhandene Potential optimal nutzen.	Y	optimal	1784	    419	0.0026	510.3333	german_at_news_2012_00493019
 18086	Das zeigt sich auch im Head-to-Head, da steht es 2:2.	Y	to	1784	    419	0.0026	439.3	german_at_news_2012_00206852
@@ -424,7 +424,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 18423	Die Schaffung einer Funktion bedeutet aber noch nicht die Schaffung einer gemeinsamen Politik.	Y	schaffung	1794	    409	0.0025	493.5	german_at_news_2012_00342628
 18424	Spindelegger spricht sich jedoch ebenso wie die deutsche Regierung gegen die Schaffung von Eurobonds aus.	Y	schaffung	1794	    409	0.0025	525.0714	german_at_news_2012_00837370
 18425	Für die Schaffung dieser Einrichtungen stellen das Land Niederösterreich insgesamt ATS 70 Mio und der Bund ATS 12 Mio zur Verfügung.	Y	schaffung	1794	    409	0.0025	526.7059	german_at_news_2012_00495571
-18426	Wenn einer wirklich zum „Genuss“ raucht, dann wird er's wohl schaffen sich zwei Minuten Zeit dafür zu nehmen.	Y	genuss	1795	    408	0.0025	357.3158	german_at_news_2012_00939463
+18426	Wenn einer wirklich zum „Genuss“ raucht, dann wird er’s wohl schaffen sich zwei Minuten Zeit dafür zu nehmen.	Y	genuss	1795	    408	0.0025	357.3158	german_at_news_2012_00939463
 18427	Damit würden heuer nur 2000 bis 5000 Österreicher in den Genuss dieser Regelung kommen.	Y	genuss	1795	    408	0.0025	395.4167	german_at_news_2012_00148880
 18428	Der kommt also gar ja nicht mehr in den Genuss des Filmtourismus?	Y	genuss	1795	    408	0.0025	403.5833	german_at_news_2012_00247458
 18429	Wo hört für Sie das Recht auf den Genuss auf?	Y	genuss	1795	    408	0.0025	442.6667	german_at_news_2012_00975408

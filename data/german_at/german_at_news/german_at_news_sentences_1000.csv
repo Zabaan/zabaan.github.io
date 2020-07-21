@@ -165,7 +165,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 4164	Von der Stadt Klagenfurt wird das Projekt mit 2180 Euro unterstützt.	Y	unterstützt	777	  1,813	0.0113	226.4	german_at_news_2012_00907789
 4165	Er geht durch so eine schwere Zeit und er unterstützt mich so sehr.	Y	unterstützt	777	  1,813	0.0113	234.7273	german_at_news_2012_00435589
 4166	Aber das ist keine Kritik an anderen Banken oder der Republik, das steht uns auch nicht zu.	Y	banken	778	  1,812	0.0113	181.1875	german_at_news_2012_00003584
-4167	Geht's den Banken gut, geht's nämlich auch der Regierung gut.	Y	banken	778	  1,812	0.0113	213.2222	german_at_news_2012_00507190
+4167	Geht’s den Banken gut, geht’s nämlich auch der Regierung gut.	Y	banken	778	  1,812	0.0113	213.2222	german_at_news_2012_00507190
 4168	Und so weit mir bekannt ist, werden die Banken das auch zur Sprache bringen.	Y	banken	778	  1,812	0.0113	237.5714	german_at_news_2012_00882061
 4169	Bei uns Banken gibt es ja auch immer weniger Möglichkeiten.	Y	banken	778	  1,812	0.0113	238.6	german_at_news_2012_00105960
 4170	Nach seinen Aussagen dürfte es die Banken in Österreich nicht mehr geben.	Y	banken	778	  1,812	0.0113	239	german_at_news_2012_00710671
@@ -997,5 +997,5 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 4996	Sie wurden in 42 Länder verkauft und waren auch im ORF zu sehen.	Y	verkauft	898	  1,505	0.0094	183.75	german_at_news_2012_00817683
 4997	Kaum einer verkauft derzeit seine Wohnung, denn was macht er dann mit dem Geld?	Y	verkauft	898	  1,505	0.0094	229.4286	german_at_news_2012_00632679
 4998	Dann wurde es am ersten Wochenende über vier Millionen Mal verkauft.	Y	verkauft	898	  1,505	0.0094	234.8182	german_at_news_2012_00154678
-4999	"""Schließlich wurde bisher noch kein iPhone so oft verkauft wie das """" 4er """"."""	Y	verkauft	898	  1,505	0.0094	242.8333	german_at_news_2012_00782777
+4999	Schließlich wurde bisher noch kein iPhone so oft verkauft wie das  4er .	Y	verkauft	898	  1,505	0.0094	242.8333	german_at_news_2012_00782777
 5000	Allein am ersten Wochenende wurden in diesen Ländern insgesamt über drei Millionen Stück verkauft.	Y	verkauft	898	  1,505	0.0094	321.3571	german_at_news_2012_00022246

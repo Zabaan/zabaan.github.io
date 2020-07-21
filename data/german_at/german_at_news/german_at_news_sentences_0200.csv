@@ -468,7 +468,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 467	Ich glaube, wenn man zu viel hat, dann steht man sich sehr, sehr im Weg.”	Y	sehr	94	 16,614	0.1032	129.5385	german_at_news_2012_00552073
 468	Im September 2001 ist er schon fast 20 Jahre lang an der Macht, und er will es noch sehr lange bleiben.	Y	sehr	94	 16,614	0.1032	130.2778	german_at_news_2012_00580494
 469	Daher noch einmal: Ich selbst konnte und kann mit Kindern immer sehr gut.	Y	sehr	94	 16,614	0.1032	138.2308	german_at_news_2012_00141412
-470	"""Ich hätte sie sehr gerne bei uns, aber was kann ich machen?"""", sagte sie jetzt in einem Interview."""	Y	sehr	94	 16,614	0.1032	138.75	german_at_news_2012_00555510
+470	Ich hätte sie sehr gerne bei uns, aber was kann ich machen?, sagte sie jetzt in einem Interview.	Y	sehr	94	 16,614	0.1032	138.75	german_at_news_2012_00555510
 471	Das hatte es noch nie gegeben, und das wird es auch nie wieder geben.	Y	hatte	95	 16,047	0.0997	101	german_at_news_2012_00173706
 472	Nein, ist sie nicht, aber ich würde es nicht so sehen, denn er hatte noch viel vor.	Y	hatte	95	 16,047	0.0997	110.25	german_at_news_2012_00718055
 473	In Österreich zurück hatte ich dann die Probleme, die sie hatte.	Y	hatte	95	 16,047	0.0997	125.7778	german_at_news_2012_00605501
@@ -792,7 +792,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 791	Aber selbst da gibt er immer alles”, sagte der 81-Jährige.	Y	sagte	159	  8,977	0.0558	94.9	german_at_news_2012_00009921
 792	Dafür habe ich aber keine Zeit“, sagte der FPÖ-Chef.	Y	sagte	159	  8,977	0.0558	119.4	german_at_news_2012_00138286
 793	Es war uns ganz wichtig, dass dieses Bild in Österreich bleibt“, sagte sie.	Y	sagte	159	  8,977	0.0558	135.1538	german_at_news_2012_00470923
-794	"""Ich hätte sie sehr gerne bei uns, aber was kann ich machen?"""", sagte sie jetzt in einem Interview."""	Y	sagte	159	  8,977	0.0558	138.75	german_at_news_2012_00555510
+794	Ich hätte sie sehr gerne bei uns, aber was kann ich machen?, sagte sie jetzt in einem Interview.	Y	sagte	159	  8,977	0.0558	138.75	german_at_news_2012_00555510
 795	Er sagte, dass er noch gleich gut und schnell arbeiten könne, wie vor 20 Jahren.	Y	sagte	159	  8,977	0.0558	158.5385	german_at_news_2012_00442941
 796	Sie will sich erst einmal ganz viel Zeit für die Familie nehmen.	Y	erst	160	  8,889	0.0552	125.5833	german_at_news_2012_00816762
 797	Erst danach kann man sagen, ob sie das können oder nicht.	Y	erst	160	  8,889	0.0552	128.9091	german_at_news_2012_00445523

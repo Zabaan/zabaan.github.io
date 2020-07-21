@@ -144,7 +144,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23143	Aber es ist wie in einer langjährigen Ehe: Dass der Nachbar auf die Gattin steht, tut einfach nichts zur Sache.	Y	gattin	1888	    315	0.002	460.5	german_at_news_2012_00006214
 23144	Der Grund: Für den 60-jährigen Austropopper fordert seine Noch-Gattin zu viel Geld.	Y	gattin	1888	    315	0.002	483.6154	german_at_news_2012_00242915
 23145	Jetzt ist nur mehr die Frage, wie lange die Gattin noch gute Miene zum bösen Spiel macht.	Y	gattin	1888	    315	0.002	486.25	german_at_news_2012_00624565
-23146	Wien bringt damit auch klar zum Ausdruck: Wir sagen 'JA' zur Zuwanderung, erwarten im Gegenzug aber auch ein 'JA' zu Wien.	Y	gegenzug	1888	    315	0.002	444.2778	german_at_news_2012_00956981
+23146	Wien bringt damit auch klar zum Ausdruck: Wir sagen ‘JA’ zur Zuwanderung, erwarten im Gegenzug aber auch ein ‘JA’ zu Wien.	Y	gegenzug	1888	    315	0.002	444.2778	german_at_news_2012_00956981
 23147	Im Gegenzug gebe die Stadt Wien für „Eigenwerbung“ fast gleich viel aus wie im Vorjahr.	Y	gegenzug	1888	    315	0.002	446.5	german_at_news_2012_00571562
 23148	Wir haben die Schmerzgrenze in Europa im Gegenzug dazu offenbar noch nicht erreicht.	Y	gegenzug	1888	    315	0.002	451.1538	german_at_news_2012_00965261
 23149	Die ÖVP hat einen starken Wähleraustausch mit der SPÖ; sie hat etwa 23.000 Stimmen an die SPÖ verloren, im Gegenzug aber 27.000 Stimmen gewonnen.	Y	gegenzug	1888	    315	0.002	470.1111	german_at_news_2012_00333969
@@ -256,7 +256,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23255	Ich wusste, dass diese Sendung über meine Zukunft im Fernsehen entscheidet, weil ich Stellung beziehen musste.	Y	beziehen	1890	    313	0.0019	711.4	german_at_news_2012_00562741
 23256	Ich habe das auch getestet, und es gab Leute, die meinten: Der Film ist eh schon fertig.	Y	getestet	1890	    313	0.0019	478.7647	german_at_news_2012_00552594
 23257	Deshalb haben wir drei Mal getestet und sind der Meinung: Nun speist man hier verlässlich gut.	Y	getestet	1890	    313	0.0019	496.6875	german_at_news_2012_00271247
-23258	Selbst die Postergemeinde ist sich in diesem Punkt ja nicht einig - wir haben's getestet.	Y	getestet	1890	    313	0.0019	500.0667	german_at_news_2012_00800185
+23258	Selbst die Postergemeinde ist sich in diesem Punkt ja nicht einig - wir haben’s getestet.	Y	getestet	1890	    313	0.0019	500.0667	german_at_news_2012_00800185
 23259	Getestet wird derzeit in Innsbruck, im Bezirk Innsbruck Land und in Hochfilzen.	Y	getestet	1890	    313	0.0019	533.3	german_at_news_2012_00514689
 23260	Wolfgang Paterno hat es getestet: Die Zukunft des Lesens kann es für sich nicht in Anspruch nehmen.	Y	getestet	1890	    313	0.0019	554.6875	german_at_news_2012_00975781
 23261	Ja, hier traut man uns noch zu, dass wir die Verantwortung für uns und die Maschine übernehmen können.	Y	maschine	1890	    313	0.0019	410.6875	german_at_news_2012_00617716
@@ -680,7 +680,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23679	Und zweitens reden wir über den Präsidenten der Vereinigten Staaten.	Y	vereinigten	1896	    307	0.0019	658.1	german_at_news_2012_00886359
 23680	Es folgten Ausstellungen in den Vereinigten Staaten von Amerika und Japan.	Y	vereinigten	1896	    307	0.0019	822.2727	german_at_news_2012_00453936
 23681	Der Euro muss und kann verteidigt werden, aber nicht so.	Y	verteidigt	1896	    307	0.0019	223.9	german_at_news_2012_00238615
-23682	Nach Kritik aus der FPÖ: Schüssel verteidigt Bartenstein und Grasser „Kein Kommentar, dabei bleibt's!	Y	verteidigt	1896	    307	0.0019	444.8667	german_at_news_2012_00709670
+23682	Nach Kritik aus der FPÖ: Schüssel verteidigt Bartenstein und Grasser „Kein Kommentar, dabei bleibt’s!	Y	verteidigt	1896	    307	0.0019	444.8667	german_at_news_2012_00709670
 23683	Generell verteidigt ich mal in Strache nicht, weil ich von Politikern nichts halte.	Y	verteidigt	1896	    307	0.0019	631.0833	german_at_news_2012_00510287
 23684	Adresse, Postleitzahl, Ort oder Bezirk Wien verteidigt Männer-Topmodel Titel!	Y	verteidigt	1896	    307	0.0019	635.9	german_at_news_2012_00018118
 23685	Der Skandal-Bauer selbst verteidigt sich gegenüber der Bild-Zeitung: „Es stimmt.	Y	verteidigt	1896	    307	0.0019	710.8182	german_at_news_2012_00259517

@@ -5,7 +5,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 5004	Daran sieht man doch, wo das Theater in Salzburg steht.	Y	theater	899	  1,502	0.0093	235.3	german_at_news_2012_00155259
 5005	Die findet in der Kunst statt, zum Beispiel im Theater.	Y	theater	899	  1,502	0.0093	251.8	german_at_news_2012_00301597
 5006	Aber sie meint auch, dass sie jetzt erkennen könne, dass sie sich wieder genau so entscheiden würde: für die Familie und gegen die Karriere.	Y	meint	900	  1,501	0.0093	277.05	german_at_news_2012_00010123
-5007	"""Ich denke mir dann immer: Die werden es auch noch lernen!"""", meint er."""	Y	meint	900	  1,501	0.0093	285.6154	german_at_news_2012_00549907
+5007	Ich denke mir dann immer: Die werden es auch noch lernen!, meint er.	Y	meint	900	  1,501	0.0093	285.6154	german_at_news_2012_00549907
 5008	Nicht 15 oder 20 Jahre, wie Orban meint, selbst acht Jahre würde er sich dann nicht an der Macht halten können.	Y	meint	900	  1,501	0.0093	287.0588	german_at_news_2012_00722996
 5009	Aber er meint damit, dass jeder an sich selbst denkt.	Y	meint	900	  1,501	0.0093	294.2	german_at_news_2012_00005655
 5010	Ich weiß nicht, ob und in welcher Funktion ich dann noch dabei bin, aber das ist ein Thema für die neue Regierung“, meint Haslauer.	Y	meint	900	  1,501	0.0093	305.7391	german_at_news_2012_00561006
@@ -72,7 +72,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 5071	Der Justiz kam es recht, will man doch sehen wie weit man mit dem §278 gehen kann.	Y	justiz	910	  1,485	0.0092	187.6667	german_at_news_2012_00246264
 5072	Von der Justiz bis über die Politik alles nur mehr zum kotzen in diesem Land.	Y	justiz	910	  1,485	0.0092	271.3333	german_at_news_2012_00907589
 5073	Das hängt aber nicht von mir ab, sondern von der Justiz.	Y	justiz	910	  1,485	0.0092	284.4	german_at_news_2012_00172979
-5074	Wie bei den 3 Affen: nix sehen, nix hören und nix sagen, damit fahren's am besten und kommen damit auch noch durch - das gibt es nicht nur bei uns in Austria - unsere Politik und Justiz sorgen schon für die 'Ihren'.	Y	justiz	910	  1,485	0.0092	302.0882	german_at_news_2012_00952017
+5074	Wie bei den 3 Affen: nix sehen, nix hören und nix sagen, damit fahren’s am besten und kommen damit auch noch durch - das gibt es nicht nur bei uns in Austria - unsere Politik und Justiz sorgen schon für die ‘Ihren’.	Y	justiz	910	  1,485	0.0092	302.0882	german_at_news_2012_00952017
 5075	Das darf dann nicht der Justiz auf den Kopf fallen.“	Y	justiz	910	  1,485	0.0092	304.6	german_at_news_2012_00164229
 5076	Hier geht eine aktuelle Studie der TU Graz davon aus, dass das bis zu 50 Prozent sein werden.“	Y	aktuelle	911	  1,483	0.0092	256.7647	german_at_news_2012_00538146
 5077	Das sagt er in einem Interview für die aktuelle NEWS-Ausgabe.	Y	aktuelle	911	  1,483	0.0092	284.7273	german_at_news_2012_00191457
@@ -323,7 +323,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 5322	Auch in Linz ging die SPÖ dabei auf Nummer sicher.	Y	nummer	946	  1,423	0.0088	231.3	german_at_news_2012_00069094
 5323	Auch in der Liebe sind Sie heute die Nummer eins.	Y	nummer	946	  1,423	0.0088	254.5	german_at_news_2012_00068678
 5324	Wir wollen und können die Nummer eins in der EU werden“, so der Finanzminister.	Y	nummer	946	  1,423	0.0088	257.4615	german_at_news_2012_00973142
-5325	In gut 2 Minuten geht's hier weiter mit Drittel Nummer zwei.	Y	nummer	946	  1,423	0.0088	274.8182	german_at_news_2012_00600759
+5325	In gut 2 Minuten geht’s hier weiter mit Drittel Nummer zwei.	Y	nummer	946	  1,423	0.0088	274.8182	german_at_news_2012_00600759
 5326	Doch wie bekommt man den kleinen Patienten jetzt dazu, das Mittel auch zu nehmen?	Y	patienten	946	  1,423	0.0088	258.5	german_at_news_2012_00388667
 5327	Man muss auch dem Patienten klar machen das man nicht mehr alles gratis bekommen kann.	Y	patienten	946	  1,423	0.0088	260.7857	german_at_news_2012_00667281
 5328	Wir wollen natürlich alles tun, um dem Patienten zu helfen“, betonte sie.	Y	patienten	946	  1,423	0.0088	270.9167	german_at_news_2012_00973065
@@ -474,7 +474,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 5473	Das ist für mich der richtige Zeitpunkt, um zu gehen.“	Y	richtige	965	  1,380	0.0086	238.2	german_at_news_2012_00178651
 5474	Ich glaube, dass wir insgesamt mit diesen Maßnahmen einen Schritt in die richtige Richtung tun“, so der Bundeskanzler.	Y	richtige	965	  1,380	0.0086	284.1111	german_at_news_2012_00551734
 5475	Das ist ein erster, aber sehr wichtiger Schritt in die richtige Richtung.	Y	richtige	965	  1,380	0.0086	329.3333	german_at_news_2012_00177961
-5476	“Ich weiß zwar auch nicht, ob‘s funktioniert mit uns beiden.	Y	funktioniert	966	  1,377	0.0086	201.1818	german_at_news_2012_00561157
+5476	“Ich weiß zwar auch nicht, ob’s funktioniert mit uns beiden.	Y	funktioniert	966	  1,377	0.0086	201.1818	german_at_news_2012_00561157
 5477	So funktioniert das Internet nun mal, so sind wir Menschen.	Y	funktioniert	966	  1,377	0.0086	205.6667	german_at_news_2012_00822460
 5478	So haben wir nie funktioniert, und so funktioniert auch keine Kunst.	Y	funktioniert	966	  1,377	0.0086	220.1111	german_at_news_2012_00823709
 5479	Aber Wien wird der letzte Ort sein, an dem dieses System noch funktioniert.	Y	funktioniert	966	  1,377	0.0086	236.7692	german_at_news_2012_00011744
@@ -488,7 +488,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 5487	Und nach außen hin bin ich auch für die Zusammenarbeit mit der SPÖ verantwortlich.	Y	verantwortlich	968	  1,374	0.0085	275.7857	german_at_news_2012_00879410
 5488	Ob sie nur für die eine Tat oder auch für andere verantwortlich sind, muss noch geklärt werden.	Y	verantwortlich	968	  1,374	0.0085	286.4375	german_at_news_2012_00739528
 5489	Man kann auch den Herrn Bundeskanzler für alles verantwortlich machen in Österreich, ja, ja.	Y	verantwortlich	968	  1,374	0.0085	286.6923	german_at_news_2012_00665963
-5490	Die Krise allein kann's nicht sein In den vergangenen drei Jahren wurde die Wirtschafts- und Finanzkrise von der Politik für viele Probleme verantwortlich gemacht, auch bei uns in Oberösterreich.	Y	verantwortlich	968	  1,374	0.0085	307.0357	german_at_news_2012_00320633
+5490	Die Krise allein kann’s nicht sein In den vergangenen drei Jahren wurde die Wirtschafts- und Finanzkrise von der Politik für viele Probleme verantwortlich gemacht, auch bei uns in Oberösterreich.	Y	verantwortlich	968	  1,374	0.0085	307.0357	german_at_news_2012_00320633
 5491	Jetzt sagt sie dazu: „Ich kann nicht sagen, ob er dort auftritt.	Y	auftritt	969	  1,373	0.0085	186.0833	german_at_news_2012_00625276
 5492	Es ist Gott sei Dank noch immer so, dass ein Auftritt in Salzburg für Künstler wichtig ist.	Y	auftritt	969	  1,373	0.0085	281.1875	german_at_news_2012_00462080
 5493	Und es war neu, dass hier eine starke Frau auftritt.	Y	auftritt	969	  1,373	0.0085	285.5	german_at_news_2012_00875812
@@ -520,7 +520,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 5519	Er ist zum ersten Mal am Metalfest und freut sich über die zahlreichen Gäste.	Y	zahlreichen	972	  1,367	0.0085	396.7143	german_at_news_2012_00439987
 5520	Strache: Ich habe es anders gesagt: Ich war mir nicht sicher, ob ich auch wirklich in Auschwitz gewesen bin, weil ich die zahlreichen Lager nicht mehr auseinander halten konnte.	Y	zahlreichen	972	  1,367	0.0085	425.96	german_at_news_2012_00843941
 5521	Wir haben jetzt noch diese vier Rennen, um viel zu lernen.	Y	rennen	973	  1,364	0.0085	235.4545	german_at_news_2012_00965993
-5522	Da stellt sich die Frage: Ja, wenn sie's eh wissen, warum rennen's dann nicht mehr?	Y	rennen	973	  1,364	0.0085	279.375	german_at_news_2012_00199940
+5522	Da stellt sich die Frage: Ja, wenn sie’s eh wissen, warum rennen’s dann nicht mehr?	Y	rennen	973	  1,364	0.0085	279.375	german_at_news_2012_00199940
 5523	Hubert und ich haben uns damals im Ziel nach dem Rennen zum ersten Mal seit Wochen wieder gesehen.“	Y	rennen	973	  1,364	0.0085	284.5	german_at_news_2012_00545887
 5524	In über 70 Prozent der Rennen landete er unter den ersten drei.	Y	rennen	973	  1,364	0.0085	294.1818	german_at_news_2012_00611749
 5525	Doch noch sind alle im Rennen, und deshalb heißt es für sie: proben, proben, proben.	Y	rennen	973	  1,364	0.0085	294.3077	german_at_news_2012_00387216
@@ -731,7 +731,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 5730	Mehr dazu auch in Wien und NÖ gemeinsam für ELGA.	Y	nö	1002	  1,322	0.0082	372.6	german_at_news_2012_00674236
 5731	Ein weiterer Grund für die Rekorde ist, dass es für den Sport immer mehr Geld gibt.	Y	weiterer	1003	  1,320	0.0082	322.8667	german_at_news_2012_00426575
 5732	Das ist ein weiterer Schritt HINTER einer Entwicklung her, die vor etwas mehr als 100 Jahren mit der Erfindung des Autos begonnen hat.	Y	weiterer	1003	  1,320	0.0082	353.8182	german_at_news_2012_00178433
-5733	"""Das ist ein weiterer Schritt auf dem Weg aus der Krise!"""" schloss Finanzminister Pröll."""	Y	weiterer	1003	  1,320	0.0082	359.4286	german_at_news_2012_00178432
+5733	Das ist ein weiterer Schritt auf dem Weg aus der Krise! schloss Finanzminister Pröll.	Y	weiterer	1003	  1,320	0.0082	359.4286	german_at_news_2012_00178432
 5734	Allerdings müssten sie dann auch in weiterer Folge persönlich zu uns kommen.	Y	weiterer	1003	  1,320	0.0082	361.4167	german_at_news_2012_00024840
 5735	Mehr Preisgeld gibt es dafür noch nicht, da muss erst noch ein weiterer Tisch weg.	Y	weiterer	1003	  1,320	0.0082	366.2857	german_at_news_2012_00675479
 5736	Das hat aber auch schon so was von nichts damit zu tun ob sie gute Ärzte sein werden.	Y	ärzte	1004	  1,318	0.0082	134	german_at_news_2012_00173045

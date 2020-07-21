@@ -271,7 +271,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 1270	Das geht natürlich nicht mit einem Kind, ein Kind muss sich auf einen verlassen können.	Y	natürlich	254	  5,581	0.0347	150.2857	german_at_news_2012_00170151
 1271	Wenn ich was gemacht hätte, wäre ich auch heute nicht mehr dort.	Y	hätte	255	  5,580	0.0347	114.0909	german_at_news_2012_00941263
 1272	Sie hätte dagegen sein können, aber das war sie nicht.	Y	hätte	255	  5,580	0.0347	132.7778	german_at_news_2012_00807977
-1273	"""Ich hätte sie sehr gerne bei uns, aber was kann ich machen?"""", sagte sie jetzt in einem Interview."""	Y	hätte	255	  5,580	0.0347	138.75	german_at_news_2012_00555510
+1273	Ich hätte sie sehr gerne bei uns, aber was kann ich machen?, sagte sie jetzt in einem Interview.	Y	hätte	255	  5,580	0.0347	138.75	german_at_news_2012_00555510
 1274	Aber, dass es so weit geht, hätte ich nicht erwartet.	Y	hätte	255	  5,580	0.0347	150.2	german_at_news_2012_00003886
 1275	Das ist ein Schritt, den hätte es vor ein paar Jahren nicht gegeben.	Y	hätte	255	  5,580	0.0347	155.0833	german_at_news_2012_00178336
 1276	Und das alles nicht nur in Salzburg, sondern vielleicht auch in Wien.	Y	salzburg	256	  5,558	0.0345	97.6364	german_at_news_2012_00869959

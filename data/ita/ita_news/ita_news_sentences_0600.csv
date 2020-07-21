@@ -1,10 +1,10 @@
 ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2001	Tanto per capire da che parte sta la base del partito.	Y	base	400	   14,875	0.0249	162	ita_news_2015_00928355
-2002	L'accordo è stato concluso sulla base di 450mila euro per un anno.	Y	base	400	   14,875	0.0249	185.9231	ita_news_2015_00467830
-2003	Se si vuole c'è la base per un cambio di passo''.	Y	base	400	   14,875	0.0249	194.5833	ita_news_2015_00872140
-2004	Alla base di tutto c'è la paura di andare subito al voto?	Y	base	400	   14,875	0.0249	198.1667	ita_news_2015_00025937
+2002	L’accordo è stato concluso sulla base di 450mila euro per un anno.	Y	base	400	   14,875	0.0249	185.9231	ita_news_2015_00467830
+2003	Se si vuole c’è la base per un cambio di passo.	Y	base	400	   14,875	0.0249	194.5833	ita_news_2015_00872140
+2004	Alla base di tutto c’è la paura di andare subito al voto?	Y	base	400	   14,875	0.0249	198.1667	ita_news_2015_00025937
 2005	Secondo me bisogna partire dalla sicurezza, questa è la base di tutto.	Y	base	400	   14,875	0.0249	198.6667	ita_news_2016_00847890
-2006	Tra il 2007 ed il 2008 è stata di circa l'1,9% (161 miliardi di euro).	Y	miliardi	401	   14,809	0.0248	93.3	ita_news_2015_00937069
+2006	Tra il 2007 ed il 2008 è stata di circa l’1,9% (161 miliardi di euro).	Y	miliardi	401	   14,809	0.0248	93.3	ita_news_2015_00937069
 2007	Nel 2010 sono stati 11 miliardi su 31,3, poco più di un terzo.	Y	miliardi	401	   14,809	0.0248	128.5	ita_news_2015_00654893
 2008	Nel 2030 in giro per il mondo ci saranno 1,8 miliardi di persone.	Y	miliardi	401	   14,809	0.0248	133.7273	ita_news_2019_00652529
 2009	Un aumento quindi di 3,9 miliardi per il 2020 e di 9,2 miliardi nel 2021.	Y	miliardi	401	   14,809	0.0248	145.1111	ita_news_2019_00962285
@@ -17,39 +17,39 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2016	Così ho fatto anche io, l’ho sempre fatto e lo fanno tutti».	Y	fanno	403	   14,711	0.0247	93.1818	ita_news_2015_00152225
 2017	Ma come, se lo fanno gli altri non va bene?	Y	fanno	403	   14,711	0.0247	103.1	ita_news_2019_00601907
 2018	E poi mi sono sempre detto: ma come fanno a non vincere?	Y	fanno	403	   14,711	0.0247	123.75	ita_news_2016_00250037
-2019	"""Non lo fanno in molti, gli italiani lo fanno più degli altri""""."""	Y	fanno	403	   14,711	0.0247	124.5	ita_news_2016_00686849
+2019	Non lo fanno in molti, gli italiani lo fanno più degli altri.	Y	fanno	403	   14,711	0.0247	124.5	ita_news_2016_00686849
 2020	Ma lo sono anche le donne, anche se lo fanno vedere di meno”.	Y	fanno	403	   14,711	0.0247	143.9091	ita_news_2019_00612299
-2021	"""E se il partito era lo era anche quello che ha preso il 40 per cento""""."""	Y	cento	404	   14,701	0.0247	119.4615	ita_news_2015_00261708
+2021	E se il partito era lo era anche quello che ha preso il 40 per cento.	Y	cento	404	   14,701	0.0247	119.4615	ita_news_2015_00261708
 2022	La crescita del 2011 è stata del 9,2% contro una crescita del 2010 del 10,4 per cento.	Y	cento	404	   14,701	0.0247	125.4444	ita_news_2015_00472926
 2023	Il 57,9 per cento è il dato più alto di tutta l’Europa.	Y	cento	404	   14,701	0.0247	152.7273	ita_news_2015_00338907
 2024	La media di Renzi, da marzo a ottobre 2014, è stata invece del 18 per cento.	Y	cento	404	   14,701	0.0247	155.7143	ita_news_2015_00489482
-2025	Al Centro va meglio, ma non troppo: l'aumento è stato del 26,2 per cento.	Y	cento	404	   14,701	0.0247	160.1429	ita_news_2016_00023801
+2025	Al Centro va meglio, ma non troppo: l’aumento è stato del 26,2 per cento.	Y	cento	404	   14,701	0.0247	160.1429	ita_news_2016_00023801
 2026	Ma in generale c’è un po’ più di rispetto”.	Y	generale	405	   14,689	0.0246	105.9	ita_news_2019_00608386
-2027	Ma si può fare di più per l'ordine pubblico in generale?	Y	generale	405	   14,689	0.0246	120	ita_news_2015_00623520
+2027	Ma si può fare di più per l’ordine pubblico in generale?	Y	generale	405	   14,689	0.0246	120	ita_news_2015_00623520
 2028	Quando le è stato chiesto di fare il Generale con chi ha parlato?«	Y	generale	405	   14,689	0.0246	167.5385	ita_news_2019_00788724
 2029	Ed è per questo che ora la partita del presidente e del direttore generale si fa ancora più dura.	Y	generale	405	   14,689	0.0246	168.7222	ita_news_2015_00220337
-2030	A causa della crisi in generale e di quella dell'auto in particolare.	Y	generale	405	   14,689	0.0246	169.25	ita_news_2015_00006851
+2030	A causa della crisi in generale e di quella dell’auto in particolare.	Y	generale	405	   14,689	0.0246	169.25	ita_news_2015_00006851
 2031	Sono stato uno dei pochi che fino all’ultimo gli ha dato del lei.	Y	pochi	406	   14,656	0.0246	114.7857	ita_news_2016_00899558
-2032	"""""""Prima o poi sarebbe successo, senza di lui abbiamo fatto pochi risultati, ma c'è sempre la prima volta."""	Y	pochi	406	   14,656	0.0246	118.8333	ita_news_2015_00783489
+2032	Prima o poi sarebbe successo, senza di lui abbiamo fatto pochi risultati, ma c’è sempre la prima volta.	Y	pochi	406	   14,656	0.0246	118.8333	ita_news_2015_00783489
 2033	E' qui da pochi giorni, ma mi sembra molto forte.	Y	pochi	406	   14,656	0.0246	158.1	ita_news_2019_00247053
 2034	Forse subito o forse mai,nei pochi anni della nostra vita!	Y	pochi	406	   14,656	0.0246	161.2	ita_news_2015_00289906
 2035	Solo per pochi» Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	pochi	406	   14,656	0.0246	170.6538	ita_news_2019_00886624
 2036	Oggi, per ogni giovane sotto i 16 anni, ci sono due persone con più di 65 anni.	Y	giovane	407	   14,640	0.0246	83.7857	ita_news_2016_00706337
-2037	Per il giovane non c'era stato nulla da fare.	Y	giovane	407	   14,640	0.0246	104.8	ita_news_2015_00746127
+2037	Per il giovane non c’era stato nulla da fare.	Y	giovane	407	   14,640	0.0246	104.8	ita_news_2015_00746127
 2038	È il suo secondo anno in un grande club ed è ancora molto giovane.	Y	giovane	407	   14,640	0.0246	120.9231	ita_news_2016_00229786
 2039	Ma per il giovane non vi è stato nulla da fare.	Y	giovane	407	   14,640	0.0246	125.1818	ita_news_2019_00617534
 2040	Non c’è stato nulla da fare per la giovane donna, che è sul colpo.	Y	giovane	407	   14,640	0.0246	148.9286	ita_news_2019_00680079
 2041	E nella vittoria di tutti c’è la mia vittoria.	Y	vittoria	408	   14,635	0.0245	98	ita_news_2016_00241448
-2042	"""Questa non è la vittoria contro qualcuno ma per Roma""""."""	Y	vittoria	408	   14,635	0.0245	126.8	ita_news_2016_00800250
+2042	Questa non è la vittoria contro qualcuno ma per Roma.	Y	vittoria	408	   14,635	0.0245	126.8	ita_news_2016_00800250
 2043	Il terzo, è una vittoria, così ho tutti e tre i risultati.	Y	vittoria	408	   14,635	0.0245	131.9167	ita_news_2015_00398080
-2044	"""Si tratta di un'altra vittoria per tutti i cittadini""""."""	Y	vittoria	408	   14,635	0.0245	137.6	ita_news_2016_00885372
+2044	Si tratta di un’altra vittoria per tutti i cittadini.	Y	vittoria	408	   14,635	0.0245	137.6	ita_news_2016_00885372
 2045	Oggi è stata una vittoria importante per il terzo posto.	Y	vittoria	408	   14,635	0.0245	152.1	ita_news_2016_00704657
 2046	Ma per il giovane non vi è stato nulla da fare.	Y	vi	409	   14,611	0.0245	125.1818	ita_news_2019_00617534
-2047	"""E al centro vi è la Germania, con l'economia più forte""""."""	Y	vi	409	   14,611	0.0245	184.75	ita_news_2015_00206041
+2047	E al centro vi è la Germania, con l’economia più forte.	Y	vi	409	   14,611	0.0245	184.75	ita_news_2015_00206041
 2048	Al primo posto vi sono gli Stati uniti con 340 miliardi.	Y	vi	409	   14,611	0.0245	185.8	ita_news_2015_00037220
 2049	Non vi sono stati altri danni a persone o cose.	Y	vi	409	   14,611	0.0245	197.9	ita_news_2015_00702287
 2050	Inoltre, vi è un altro punto su cui lavorare, ed è quello di cui al suo articolo.	Y	vi	409	   14,611	0.0245	198.8	ita_news_2016_00426292
-2051	"""Ieri è stato il primo giorno di scuola, oggi è il secondo""""."""	Y	scuola	410	   14,543	0.0244	107	ita_news_2016_00333844
+2051	Ieri è stato il primo giorno di scuola, oggi è il secondo.	Y	scuola	410	   14,543	0.0244	107	ita_news_2016_00333844
 2052	Certo, per alcuni è solo un giorno di scuola senza scuola.	Y	scuola	410	   14,543	0.0244	123.4	ita_news_2019_00100506
 2053	Arrivare alla fine della scuola a 18 anni, non un secondo dopo.	Y	scuola	410	   14,543	0.0244	130.2727	ita_news_2015_00067024
 2054	La chiesa è per la scuola, per tutta la scuola, perché la scuola fa parte del bene comune.	Y	scuola	410	   14,543	0.0244	139.6667	ita_news_2019_00469830
@@ -69,32 +69,32 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2068	Alcune volte, io ho parlato della Chiesa come di un ospedale da campo.	Y	alcune	413	   14,487	0.0243	238.2308	ita_news_2019_00022309
 2069	Era importante vincere, abbiamo fatto bene alcune cose, meno altre.	Y	alcune	413	   14,487	0.0243	245.7	ita_news_2015_00257224
 2070	Alcune idee su ciò che si potrebbe fare qui e ora.	Y	alcune	413	   14,487	0.0243	247.0909	ita_news_2019_00022097
-2071	Mercoledì 21 febbraio, sempre alle ore 21, c'è Il suo nome.	Y	mercoledì	414	   14,478	0.0243	167.1	ita_news_2015_00632223
-2072	"""Così il tecnico: """"Mercoledì ci sarà l'incontro con la società - Bisogna essere in due per trovare l'accordo."""	Y	mercoledì	414	   14,478	0.0243	177.1111	ita_news_2016_00153602
-2073	L'evento di mercoledì, in particolare, è stato un grande successo.	Y	mercoledì	414	   14,478	0.0243	179.6364	ita_news_2019_00561878
+2071	Mercoledì 21 febbraio, sempre alle ore 21, c’è Il suo nome.	Y	mercoledì	414	   14,478	0.0243	167.1	ita_news_2015_00632223
+2072	Così il tecnico: Mercoledì ci sarà l’incontro con la società - Bisogna essere in due per trovare l’accordo.	Y	mercoledì	414	   14,478	0.0243	177.1111	ita_news_2016_00153602
+2073	L’evento di mercoledì, in particolare, è stato un grande successo.	Y	mercoledì	414	   14,478	0.0243	179.6364	ita_news_2019_00561878
 2074	Mercoledì 24 ottobre Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	mercoledì	414	   14,478	0.0243	182.5769	ita_news_2019_00630309
 2075	Mercoledì 12 - Sabato 15 giugno Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	mercoledì	414	   14,478	0.0243	182.9259	ita_news_2019_00630234
 2076	Questa qui è anni che non la si vede più in TV.	Y	tv	415	   14,451	0.0242	131.9167	ita_news_2019_00800294
 2077	Il male della tv in questo Paese è la politica.	Y	tv	415	   14,451	0.0242	137	ita_news_2019_00357704
 2078	Ho fatto tanto per la squadra, ma molto di questo non è andato in tv.	Y	tv	415	   14,451	0.0242	150.3333	ita_news_2016_00323751
-2079	Quel film l'ho già visto in tv Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	tv	415	   14,451	0.0242	153.5263	ita_news_2019_00793631
-2080	"""""""Il problema non è la tv"""" Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze."""	Y	tv	415	   14,451	0.0242	157.8333	ita_news_2019_00377498
-2081	"""Grazie a chi c'è stato e avanti con i nuovi""""."""	Y	nuovi	416	   14,449	0.0242	114.7273	ita_news_2015_00313048
-2082	Il problema è che ancora non ci sono nuovi all'altezza della situazione.	Y	nuovi	416	   14,449	0.0242	222.8462	ita_news_2016_00384007
+2079	Quel film l’ho già visto in tv Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	tv	415	   14,451	0.0242	153.5263	ita_news_2019_00793631
+2080	Il problema non è la tv Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	tv	415	   14,451	0.0242	157.8333	ita_news_2019_00377498
+2081	Grazie a chi c’è stato e avanti con i nuovi.	Y	nuovi	416	   14,449	0.0242	114.7273	ita_news_2015_00313048
+2082	Il problema è che ancora non ci sono nuovi all’altezza della situazione.	Y	nuovi	416	   14,449	0.0242	222.8462	ita_news_2016_00384007
 2083	La crescita dei nuovi posti di lavoro a maggio è la più alta da dicembre.	Y	nuovi	416	   14,449	0.0242	227.8571	ita_news_2019_00475042
 2084	Due nuovi medici di famiglia in arrivo con il nuovo anno.	Y	nuovi	416	   14,449	0.0242	242.8182	ita_news_2019_00195930
 2085	I nuovi valori sono: 717 euro nel 2017, 786 euro nel 2018 e 800 euro nel 2019.	Y	nuovi	416	   14,449	0.0242	253.2857	ita_news_2019_00445675
-2086	"""Sarebbe tra l'altro il primo caso a livello nazionale""""."""	Y	livello	417	   14,428	0.0242	122.9	ita_news_2019_00836608
+2086	Sarebbe tra l’altro il primo caso a livello nazionale.	Y	livello	417	   14,428	0.0242	122.9	ita_news_2019_00836608
 2087	Sarebbe stato il primo incontro di questo livello tra le due comunità in più di 10 anni.	Y	livello	417	   14,428	0.0242	126.6	ita_news_2019_00836544
 2088	Si tratta del livello più alto da 26 mesi a questa parte.	Y	livello	417	   14,428	0.0242	150.7273	ita_news_2016_00884429
 2089	Ma nella media 2014 è al 12,7%, il livello più alto dal 1977.	Y	livello	417	   14,428	0.0242	155.5	ita_news_2016_00608633
-2090	Detto questo secondo me la squadra è al livello delle prime quattro d'Europa.	Y	livello	417	   14,428	0.0242	168.6429	ita_news_2016_00178636
+2090	Detto questo secondo me la squadra è al livello delle prime quattro d’Europa.	Y	livello	417	   14,428	0.0242	168.6429	ita_news_2016_00178636
 2091	Sono i dati dei primi due mesi di Area C da ieri sul sito del Comune.	Y	dati	418	   14,309	0.024	130.5625	ita_news_2019_00890939
 2092	Perché tutti si sono dati da fare in prima persona.	Y	dati	418	   14,309	0.024	134.4	ita_news_2019_00734634
 2093	Secondo i dati della tv di stato, il partito di governo avrebbe la maggioranza, con oltre il 53%.	Y	dati	418	   14,309	0.024	164.1333	ita_news_2019_00842607
 2094	I dati del gennaio 2010 sono meglio del gennaio 2009, è vero.	Y	dati	418	   14,309	0.024	177.375	ita_news_2015_00329726
 2095	Alla luce di questo ci siamo dati ancora qualche giorno di tempo.	Y	dati	418	   14,309	0.024	182.1818	ita_news_2015_00027864
-2096	La Chiesa non è 'contro', la Chiesa è 'con' le persone e 'per' il lavoro.	Y	chiesa	419	   14,292	0.024	69.5	ita_news_2016_00470664
+2096	La Chiesa non è ‘contro’, la Chiesa è ‘con’ le persone e ‘per’ il lavoro.	Y	chiesa	419	   14,292	0.024	69.5	ita_news_2016_00470664
 2097	Poi si dice che in Chiesa non va più nessuno.	Y	chiesa	419	   14,292	0.024	126.5	ita_news_2019_00766731
 2098	La chiesa è per la scuola, per tutta la scuola, perché la scuola fa parte del bene comune.	Y	chiesa	419	   14,292	0.024	139.6667	ita_news_2019_00469830
 2099	La Chiesa non ha proprio nulla da dire al governo italiano.	Y	chiesa	419	   14,292	0.024	146.1818	ita_news_2019_00469955
@@ -104,17 +104,17 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2103	Io, come penso tanti altri, lavoro anche di sabato, ma col cuore a Roma oggi ci sono 15 milioni di italiani.	Y	col	420	   14,262	0.0239	197.0526	ita_news_2016_00449250
 2104	Così si trova lavoro col servizio civile Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	col	420	   14,262	0.0239	197.5	ita_news_2019_00147328
 2105	O ci stanno con me e col progetto della Lega, o niente.	Y	col	420	   14,262	0.0239	225.4545	ita_news_2015_00707730
-2106	"""L'Italia è questo, non è solo insieme di problemi""""."""	Y	problemi	421	   14,260	0.0239	95	ita_news_2016_00565709
+2106	L’Italia è questo, non è solo insieme di problemi.	Y	problemi	421	   14,260	0.0239	95	ita_news_2016_00565709
 2107	Ma nel corso degli anni ci sono stati dei problemi.	Y	problemi	421	   14,260	0.0239	102	ita_news_2019_00613888
 2108	Anche perché sul resto dei problemi, per ora, non si può fare molto altro.	Y	problemi	421	   14,260	0.0239	119.9286	ita_news_2016_00051369
-2109	Ma l'Italia è un caso particolare o anche gli altri Paesi hanno questi problemi?	Y	problemi	421	   14,260	0.0239	122	ita_news_2016_00606482
-2110	"""Noi siamo per il lavoro comune ma se non hanno bisogno non ci sono problemi""""."""	Y	problemi	421	   14,260	0.0239	122.0714	ita_news_2015_00677599
+2109	Ma l’Italia è un caso particolare o anche gli altri Paesi hanno questi problemi?	Y	problemi	421	   14,260	0.0239	122	ita_news_2016_00606482
+2110	Noi siamo per il lavoro comune ma se non hanno bisogno non ci sono problemi.	Y	problemi	421	   14,260	0.0239	122.0714	ita_news_2015_00677599
 2111	Il suo primo anno e mezzo è stato un successo.	Y	mezzo	422	   14,244	0.0239	107.2	ita_news_2015_00395744
 2112	La politica deve essere il mezzo e non il fine.	Y	mezzo	422	   14,244	0.0239	114.4444	ita_news_2019_00504476
 2113	Il problema è che chi ci va di mezzo è il Paese.	Y	mezzo	422	   14,244	0.0239	122.5	ita_news_2019_00377078
 2114	Per un’ora il problema continua a essere in mezzo.	Y	mezzo	422	   14,244	0.0239	137.8	ita_news_2016_00756759
 2115	Non si tratta di un processo ad un uomo, ma a mezzo Paese.	Y	mezzo	422	   14,244	0.0239	147.25	ita_news_2015_00698598
-2116	La vittoria con l'Inter» - Sport I cookie ci aiutano ad offrirti un servizio migliore.	Y	aiutano	423	   14,225	0.0239	180.0667	ita_news_2015_00533630
+2116	La vittoria con l’Inter» - Sport I cookie ci aiutano ad offrirti un servizio migliore.	Y	aiutano	423	   14,225	0.0239	180.0667	ita_news_2015_00533630
 2117	Roma La Provincia di Como - Notizie di Como e provincia I cookie ci aiutano ad offrirti un servizio migliore.	Y	aiutano	423	   14,225	0.0239	189.375	ita_news_2015_00834310
 2118	Non è così che si aiutano l’economia, le imprese, i lavoratori.	Y	aiutano	423	   14,225	0.0239	190.8333	ita_news_2016_00681182
 2119	Persone La Provincia di Como - Notizie di Como e provincia I cookie ci aiutano ad offrirti un servizio migliore.	Y	aiutano	423	   14,225	0.0239	191.125	ita_news_2016_00755197
@@ -125,44 +125,44 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2124	Non solo, sono anche stata due volte dai carabinieri ma anche in questo caso senza alcun risultato».	Y	carabinieri	424	   14,156	0.0237	199.6875	ita_news_2019_00696331
 2125	Carabinieri La Provincia di Como - Notizie di Como e provincia I cookie ci aiutano ad offrirti un servizio migliore.	Y	carabinieri	424	   14,156	0.0237	208.9375	ita_news_2015_00095573
 2126	Ma con i soldi propri, non con quelli dello Stato.	Y	propri	425	   14,083	0.0236	160.3333	ita_news_2016_00595237
-2127	"""""""Il calcio deve essere fatto dalle società che hanno i mezzi per farlo, va fatto con i mezzi propri perché questo è il sistema."""	Y	propri	425	   14,083	0.0236	212.05	ita_news_2016_00343518
-2128	"""Nessun amore è più grande di questo: """"dare la vita per i propri amici""""."""	Y	propri	425	   14,083	0.0236	224.6429	ita_news_2019_00671167
-2129	"""""""Come sarà il 2018 per noi giovani"""" Questo sito utilizza cookie tecnici e di profilazione propri e di terze parti per le sue funzionalità e per inviarti pubblicità e servizi in linea con le tue preferenze."""	Y	propri	425	   14,083	0.0236	236.75	ita_news_2019_00125786
-2130	"""Non Sono D'accordo"""" Questo sito utilizza cookie tecnici e di profilazione propri e di terze parti per le sue funzionalità e per inviarti pubblicità e servizi in linea con le tue preferenze."""	Y	propri	425	   14,083	0.0236	241.9259	ita_news_2019_00696614
+2127	Il calcio deve essere fatto dalle società che hanno i mezzi per farlo, va fatto con i mezzi propri perché questo è il sistema.	Y	propri	425	   14,083	0.0236	212.05	ita_news_2016_00343518
+2128	Nessun amore è più grande di questo: dare la vita per i propri amici.	Y	propri	425	   14,083	0.0236	224.6429	ita_news_2019_00671167
+2129	Come sarà il 2018 per noi giovani Questo sito utilizza cookie tecnici e di profilazione propri e di terze parti per le sue funzionalità e per inviarti pubblicità e servizi in linea con le tue preferenze.	Y	propri	425	   14,083	0.0236	236.75	ita_news_2019_00125786
+2130	Non Sono D’accordo Questo sito utilizza cookie tecnici e di profilazione propri e di terze parti per le sue funzionalità e per inviarti pubblicità e servizi in linea con le tue preferenze.	Y	propri	425	   14,083	0.0236	241.9259	ita_news_2019_00696614
 2131	Un lavoro che oggi è forse più difficile di quanto lo fosse in altri tempi.	Y	tempi	426	   14,063	0.0236	138.7333	ita_news_2019_00972170
 2132	La Grecia sta li da quando il mondo è mondo e ci sarà ancora fino alla fine dei tempi.	Y	tempi	426	   14,063	0.0236	168.3333	ita_news_2015_00483139
 2133	E questo vale per tutti perché parla anche di noi e dei nostri tempi.	Y	tempi	426	   14,063	0.0236	193.1538	ita_news_2016_00256982
 2134	Tempi di intervento: 12 mesi per la chiesa e 3 mesi per il palazzo.	Y	tempi	426	   14,063	0.0236	197.1	ita_news_2015_00929985
 2135	Donne ai tempi di guerra, si va in scena Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	tempi	426	   14,063	0.0236	199.2903	ita_news_2019_00184872
-2136	"""Non sei più solo. ma questo non è un film""""."""	Y	film	427	   14,036	0.0235	100.3333	ita_news_2019_00693177
-2137	"""È quello che dice il film e io ce l'ho""""."""	Y	film	427	   14,036	0.0235	149.4545	ita_news_2015_00254107
-2138	Quel film l'ho già visto in tv Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	film	427	   14,036	0.0235	153.5263	ita_news_2019_00793631
+2136	Non sei più solo. ma questo non è un film.	Y	film	427	   14,036	0.0235	100.3333	ita_news_2019_00693177
+2137	È quello che dice il film e io ce l’ho.	Y	film	427	   14,036	0.0235	149.4545	ita_news_2015_00254107
+2138	Quel film l’ho già visto in tv Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	film	427	   14,036	0.0235	153.5263	ita_news_2019_00793631
 2139	Il loro lavoro ha fatto il giro del mondo, da un festival del film all’altro.	Y	film	427	   14,036	0.0235	158	ita_news_2019_00356988
 2140	Un anno dopo, lo stesso film delle Regionali Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	film	427	   14,036	0.0235	180.9375	ita_news_2016_00958698
 2141	Ma se anche ci fosse, non mi sembra questo il punto.	Y	fosse	428	   14,010	0.0235	105.2727	ita_news_2016_00618943
-2142	Era meglio se l'uomo non fosse stato in casa.	Y	fosse	428	   14,010	0.0235	114.5	ita_news_2016_00258614
+2142	Era meglio se l’uomo non fosse stato in casa.	Y	fosse	428	   14,010	0.0235	114.5	ita_news_2016_00258614
 2143	Se fosse vero perché non si è fatto nulla in 12 anni?	Y	fosse	428	   14,010	0.0235	128.3636	ita_news_2019_00848120
-2144	Se berlusconi non fosse in politica l'Italia sarebbe un paese migliore.	Y	fosse	428	   14,010	0.0235	135.5833	ita_news_2015_00850322
+2144	Se berlusconi non fosse in politica l’Italia sarebbe un paese migliore.	Y	fosse	428	   14,010	0.0235	135.5833	ita_news_2015_00850322
 2145	Cosa sarebbe successo se al governo ci fosse stato Berlusconi?	Y	fosse	428	   14,010	0.0235	163.7	ita_news_2015_00150117
-2146	Sia per questa stagione e sia per l'anno prossimo.	Y	prossimo	429	   13,981	0.0234	126.375	ita_news_2016_00872436
+2146	Sia per questa stagione e sia per l’anno prossimo.	Y	prossimo	429	   13,981	0.0234	126.375	ita_news_2016_00872436
 2147	Un accordo è possibile nel prossimo futuro ma non ci siamo ancora.	Y	prossimo	429	   13,981	0.0234	136.8333	ita_news_2015_00953227
 2148	Se tutto va bene, però, lui sarà fuori l’anno prossimo.	Y	prossimo	429	   13,981	0.0234	143.4545	ita_news_2016_00866823
 2149	Tre sono in programma quest’anno e altre tre l’anno prossimo».	Y	prossimo	429	   13,981	0.0234	147	ita_news_2019_00935934
 2150	Il prossimo fine settimana si fa in 3: venerdì, sabato e domenica!	Y	prossimo	429	   13,981	0.0234	165.4545	ita_news_2019_00380001
 2151	Ma come sarebbe a dire “al di la di ciò”?	Y	ciò	430	   13,961	0.0234	100.1111	ita_news_2019_00601903
 2152	Quello che ha fatto non è in linea con ciò che è stata la sua vita fino ad adesso».	Y	ciò	430	   13,961	0.0234	101.2941	ita_news_2016_00796306
-2153	"""""""Ciò che è bene per la famiglia è bene per il Paese""""."""	Y	ciò	430	   13,961	0.0234	119.2222	ita_news_2015_00118177
+2153	Ciò che è bene per la famiglia è bene per il Paese.	Y	ciò	430	   13,961	0.0234	119.2222	ita_news_2015_00118177
 2154	Non è un caso che ciò sia successo proprio oggi e proprio contro Berlusconi.	Y	ciò	430	   13,961	0.0234	126.8462	ita_news_2016_00684168
 2155	Abbiamo fatto tutto ciò che era possibile fare insieme all’Italia”.	Y	ciò	430	   13,961	0.0234	130.7273	ita_news_2016_00004557
 2156	Poco, dunque, si sa di cosa sia successo a lui e alla sua famiglia in questi anni.	Y	dunque	431	   13,948	0.0234	150.5294	ita_news_2016_00762190
 2157	In media, dunque, la crescita media tra il 2010 e il 2012 sarà dell’1,4% circa.	Y	dunque	431	   13,948	0.0234	162.3636	ita_news_2019_00419342
-2158	Poi c'è la partita, e dunque il senso del rischio.	Y	dunque	431	   13,948	0.0234	166.8182	ita_news_2015_00769292
+2158	Poi c’è la partita, e dunque il senso del rischio.	Y	dunque	431	   13,948	0.0234	166.8182	ita_news_2015_00769292
 2159	In questo l’Italia sarebbe dunque sulla stessa linea della Francia.	Y	dunque	431	   13,948	0.0234	184	ita_news_2019_00431284
 2160	Dunque, la ragione, come sempre, non sta tutta da una parte.	Y	dunque	431	   13,948	0.0234	185.3636	ita_news_2015_00203143
-2161	Per l'uomo, un 56enne, non c'è stato nulla da fare.	Y	enne	432	   13,850	0.0232	101.9167	ita_news_2019_00745923
-2162	Per l'80enne non c'è stato nulla da fare.	Y	enne	432	   13,850	0.0232	103.6	ita_news_2019_00742404
-2163	Per l'84enne non c'è stato niente da fare.	Y	enne	432	   13,850	0.0232	113.4	ita_news_2019_00742405
-2164	Per il 27enne, però, non c'è stato niente da fare.	Y	enne	432	   13,850	0.0232	114.0909	ita_news_2019_00739601
+2161	Per l’uomo, un 56enne, non c’è stato nulla da fare.	Y	enne	432	   13,850	0.0232	101.9167	ita_news_2019_00745923
+2162	Per l’80enne non c’è stato nulla da fare.	Y	enne	432	   13,850	0.0232	103.6	ita_news_2019_00742404
+2163	Per l’84enne non c’è stato niente da fare.	Y	enne	432	   13,850	0.0232	113.4	ita_news_2019_00742405
+2164	Per il 27enne, però, non c’è stato niente da fare.	Y	enne	432	   13,850	0.0232	114.0909	ita_news_2019_00739601
 2165	Sul posto il 118, in ospedale un 38enne ed una 29enne.	Y	enne	432	   13,850	0.0232	136.1111	ita_news_2019_00915920
 2166	In Italia era allo 0,9% dopo lo 0,5% a febbraio (un anno prima era a 1,4%).	Y	febbraio	433	   13,804	0.0232	97.1818	ita_news_2019_00417545
 2167	Il 13 febbraio ci sarà un incontro per fare il punto della situazione.	Y	febbraio	433	   13,804	0.0232	131.8182	ita_news_2019_00326440
@@ -176,7 +176,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2175	Il 27 agosto 1927, una domenica, è data importante per Como, ma forse più per la storia del calcio italiano ed internazionale.	Y	internazionale	434	   13,789	0.0231	220.4211	ita_news_2019_00327946
 2176	Mentre lo fa ti dice che è per il tuo bene”.	Y	ti	435	   13,717	0.023	120.1818	ita_news_2015_00630279
 2177	La Serie A invece non è come prima, ma ti fa dare il massimo.	Y	ti	435	   13,717	0.023	129.7143	ita_news_2016_00516737
-2178	"""C'è, ma non è quello che ti fa vincere""""."""	Y	ti	435	   13,717	0.023	151.4444	ita_news_2016_00103095
+2178	C’è, ma non è quello che ti fa vincere.	Y	ti	435	   13,717	0.023	151.4444	ita_news_2016_00103095
 2179	È un gioco nel quale non ti va sempre bene.	Y	ti	435	   13,717	0.023	156.1	ita_news_2019_00265644
 2180	Non che lo Stato, o il Comune ti deve dire cosa pensare.	Y	ti	435	   13,717	0.023	170.0833	ita_news_2016_00678149
 2181	E poi ci sono i lavori da fare di sotto».	Y	lavori	436	   13,682	0.0229	88.1	ita_news_2019_00239569
@@ -186,40 +186,40 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2185	Il via ai lavori dovrebbe essere tra fine mese ed inizio febbraio.	Y	lavori	436	   13,682	0.0229	207.9167	ita_news_2016_00403865
 2186	Dal 14/12/2018 al 13/01/2019 dal martedì alla domenica, dalle ore 14:00 alle ore 20:00.	Y	martedì	437	   13,664	0.0229	125.75	ita_news_2019_00153644
 2187	Il martedì e il giovedì anche dalle ore 15.30 alle ore 18.30.	Y	martedì	437	   13,664	0.0229	141.25	ita_news_2016_00366838
-2188	E così martedì, quando l'ha vista con un uomo, ha perso la testa e..	Y	martedì	437	   13,664	0.0229	154.7692	ita_news_2016_00218959
+2188	E così martedì, quando l’ha vista con un uomo, ha perso la testa e..	Y	martedì	437	   13,664	0.0229	154.7692	ita_news_2016_00218959
 2189	Fino al fino al 28 febbraio da martedì a domenica dalle 9.30 alle 14.00.	Y	martedì	437	   13,664	0.0229	162.4444	ita_news_2015_00285042
-2190	“Noi non lo siamo e durante l'incontro tecnico di martedì sera lo hanno visto.	Y	martedì	437	   13,664	0.0229	170.6429	ita_news_2016_00673827
+2190	“Noi non lo siamo e durante l’incontro tecnico di martedì sera lo hanno visto.	Y	martedì	437	   13,664	0.0229	170.6429	ita_news_2016_00673827
 2191	In realtà, è più o meno questo che le hanno detto.	Y	realtà	438	   13,631	0.0229	85.2727	ita_news_2019_00432806
 2192	In realtà per il momento non sarà così in tutto il Paese.	Y	realtà	438	   13,631	0.0229	102.5	ita_news_2015_00432134
 2193	In realtà poi non se ne è fatto più nulla.	Y	realtà	438	   13,631	0.0229	115.5	ita_news_2019_00433216
 2194	Un tutti contro tutti che al centro ha, in realtà, il ruolo di Berlusconi.	Y	realtà	438	   13,631	0.0229	130.3077	ita_news_2015_00980670
-2195	Ma la realtà è che quella persona io non l'ho vista.	Y	realtà	438	   13,631	0.0229	153.25	ita_news_2015_00606392
+2195	Ma la realtà è che quella persona io non l’ho vista.	Y	realtà	438	   13,631	0.0229	153.25	ita_news_2015_00606392
 2196	Ma come è difficile per noi lo sarà anche per loro.	Y	difficile	439	   13,614	0.0228	85.5	ita_news_2016_00594833
 2197	Fare il sindaco di Roma è più difficile che fare il presidente del Consiglio.	Y	difficile	439	   13,614	0.0228	102.6667	ita_news_2019_00271359
-2198	Questa è la partita più importante e difficile dell'anno.	Y	difficile	439	   13,614	0.0228	118	ita_news_2019_00797832
+2198	Questa è la partita più importante e difficile dell’anno.	Y	difficile	439	   13,614	0.0228	118	ita_news_2019_00797832
 2199	Un lavoro che oggi è forse più difficile di quanto lo fosse in altri tempi.	Y	difficile	439	   13,614	0.0228	138.7333	ita_news_2019_00972170
-2200	E' stata una stagione particolare e difficile sotto tanti punti di vista''.	Y	difficile	439	   13,614	0.0228	221.7273	ita_news_2015_00266833
+2200	E' stata una stagione particolare e difficile sotto tanti punti di vista.	Y	difficile	439	   13,614	0.0228	221.7273	ita_news_2015_00266833
 2201	Come tutti quelli che in Italia non stanno al Nord.	Y	stanno	440	   13,585	0.0228	139.3	ita_news_2016_00133608
 2202	!) e altri paesi fuori dall' euro stanno molto meglio di noi.	Y	stanno	440	   13,585	0.0228	164.8182	ita_news_2016_00208169
-2203	"""""""Quando i ragazzi stanno bene, stanno bene 100, 1000 persone in più."""	Y	stanno	440	   13,585	0.0228	166.375	ita_news_2015_00796018
+2203	Quando i ragazzi stanno bene, stanno bene 100, 1000 persone in più.	Y	stanno	440	   13,585	0.0228	166.375	ita_news_2015_00796018
 2204	Loro, nel bene e nel male stanno a casa loro!	Y	stanno	440	   13,585	0.0228	170.5	ita_news_2015_00576724
 2205	Stanno facendo un lavoro migliore rispetto a tutti gli altri.	Y	stanno	440	   13,585	0.0228	193.1	ita_news_2015_00912644
-2206	"""E' qui in questa piazza"""", ha detto Papa Francesco nel."""	Y	francesco	441	   13,559	0.0227	157.4	ita_news_2019_00247114
+2206	E' qui in questa piazza, ha detto Papa Francesco nel.	Y	francesco	441	   13,559	0.0227	157.4	ita_news_2019_00247114
 2207	E arriva Francesco Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	francesco	441	   13,559	0.0227	172.5385	ita_news_2019_00203328
 2208	Papa Francesco: le foto del 2016Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	francesco	441	   13,559	0.0227	177.25	ita_news_2019_00722206
 2209	È vero che ha avuto un grande palla da Francesco ma poi ha fatto tutto da solo.	Y	francesco	441	   13,559	0.0227	184.7333	ita_news_2016_00277947
 2210	Ora che Francesco è tornato a Roma, lo è ancora di più».	Y	francesco	441	   13,559	0.0227	211.0909	ita_news_2016_00712963
 2211	«E’ così, ma lui resta il più grande di tutti.	Y	resta	442	   13,558	0.0227	90.8	ita_news_2016_00218957
 2212	Resta ancora la Repubblica, ma non è detto per quanto.	Y	resta	442	   13,558	0.0227	114.1	ita_news_2015_00824388
-2213	"""Tutto questo resta per noi un punto di forza per il futuro""""."""	Y	resta	442	   13,558	0.0227	142.3636	ita_news_2015_00950031
+2213	Tutto questo resta per noi un punto di forza per il futuro.	Y	resta	442	   13,558	0.0227	142.3636	ita_news_2015_00950031
 2214	Anche a 34 anni l’inizio di una stagione resta particolare.	Y	resta	442	   13,558	0.0227	161.6	ita_news_2019_00045468
 2215	Sarà quel che sarà, ma ormai da dire resta poco.	Y	resta	442	   13,558	0.0227	174.1111	ita_news_2019_00835194
-2216	"""""""Se è vero che l’Inter con un altro tecnico avrebbe 10 punti in più?"""	Y	tecnico	443	   13,550	0.0227	145.5	ita_news_2016_00850443
-2217	Ma perché il tecnico potrebbe essere l'uomo giusto per la Roma?	Y	tecnico	443	   13,550	0.0227	155.75	ita_news_2015_00614497
-2218	Dopo tre mesi dall'inizio della stagione, l'ex tecnico del Napoli è già a rischio.	Y	tecnico	443	   13,550	0.0227	162.4375	ita_news_2016_00199069
-2219	"""Ho detto al tecnico di andare avanti su questa squadra""""."""	Y	tecnico	443	   13,550	0.0227	169.4	ita_news_2016_00323498
+2216	Se è vero che l’Inter con un altro tecnico avrebbe 10 punti in più?	Y	tecnico	443	   13,550	0.0227	145.5	ita_news_2016_00850443
+2217	Ma perché il tecnico potrebbe essere l’uomo giusto per la Roma?	Y	tecnico	443	   13,550	0.0227	155.75	ita_news_2015_00614497
+2218	Dopo tre mesi dall’inizio della stagione, l’ex tecnico del Napoli è già a rischio.	Y	tecnico	443	   13,550	0.0227	162.4375	ita_news_2016_00199069
+2219	Ho detto al tecnico di andare avanti su questa squadra.	Y	tecnico	443	   13,550	0.0227	169.4	ita_news_2016_00323498
 2220	Ma al suo posto potrebbe arrivare un altro tecnico del nostro paese.	Y	tecnico	443	   13,550	0.0227	170.5	ita_news_2015_00592482
-2221	La vittoria con l'Inter» - Sport I cookie ci aiutano ad offrirti un servizio migliore.	Y	offrirti	444	   13,545	0.0227	180.0667	ita_news_2015_00533630
+2221	La vittoria con l’Inter» - Sport I cookie ci aiutano ad offrirti un servizio migliore.	Y	offrirti	444	   13,545	0.0227	180.0667	ita_news_2015_00533630
 2222	Roma La Provincia di Como - Notizie di Como e provincia I cookie ci aiutano ad offrirti un servizio migliore.	Y	offrirti	444	   13,545	0.0227	189.375	ita_news_2015_00834310
 2223	Persone La Provincia di Como - Notizie di Como e provincia I cookie ci aiutano ad offrirti un servizio migliore.	Y	offrirti	444	   13,545	0.0227	191.125	ita_news_2016_00755197
 2224	La Provincia La Provincia di Como - Notizie di Como e provincia I cookie ci aiutano ad offrirti un servizio migliore.	Y	offrirti	444	   13,545	0.0227	194.6	ita_news_2015_00503737
@@ -236,9 +236,9 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2235	Quando, per esempio, Napoli- Milano in tre ore e mezzo?	Y	esempio	446	   13,486	0.0226	162.7	ita_news_2016_00790036
 2236	Servizi alla persona, ecco tutti i progetti Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	servizi	447	   13,454	0.0226	210.0968	ita_news_2019_00859602
 2237	Ma in estate l’offerta di servizi e sport non è da meno.	Y	servizi	447	   13,454	0.0226	218.5385	ita_news_2019_00608362
-2238	"""""""Come sarà il 2018 per noi giovani"""" Questo sito utilizza cookie tecnici e di profilazione propri e di terze parti per le sue funzionalità e per inviarti pubblicità e servizi in linea con le tue preferenze."""	Y	servizi	447	   13,454	0.0226	236.75	ita_news_2019_00125786
+2238	Come sarà il 2018 per noi giovani Questo sito utilizza cookie tecnici e di profilazione propri e di terze parti per le sue funzionalità e per inviarti pubblicità e servizi in linea con le tue preferenze.	Y	servizi	447	   13,454	0.0226	236.75	ita_news_2019_00125786
 2239	Sarebbe un ospedale in più per la sua gente e un gruppo di scuole, o di servizi sociali.	Y	servizi	447	   13,454	0.0226	239.875	ita_news_2015_00845366
-2240	"""Non Sono D'accordo"""" Questo sito utilizza cookie tecnici e di profilazione propri e di terze parti per le sue funzionalità e per inviarti pubblicità e servizi in linea con le tue preferenze."""	Y	servizi	447	   13,454	0.0226	241.9259	ita_news_2019_00696614
+2240	Non Sono D’accordo Questo sito utilizza cookie tecnici e di profilazione propri e di terze parti per le sue funzionalità e per inviarti pubblicità e servizi in linea con le tue preferenze.	Y	servizi	447	   13,454	0.0226	241.9259	ita_news_2019_00696614
 2241	Di tutto questo in Italia non si è detto niente”.	Y	niente	448	   13,360	0.0224	81.1	ita_news_2015_00186851
 2242	Lo abbiamo detto per anni e ancora non abbiamo fatto niente.	Y	niente	448	   13,360	0.0224	93.8	ita_news_2019_00575664
 2243	E il Comune, durante questi anni, non ha fatto niente?	Y	niente	448	   13,360	0.0224	116.9	ita_news_2019_00219709
@@ -249,36 +249,36 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2248	La faccia che lui ci fa fare ogni mattina, da 30 anni.	Y	mattina	449	   13,356	0.0224	157.7273	ita_news_2016_00479442
 2249	E Dio, se anche c’è, è un Dio che con la nostra vita, quella di ogni mattina, non c’entra.	Y	mattina	449	   13,356	0.0224	170.0556	ita_news_2019_00214722
 2250	Durante la mattina dalle 7 alle 10.30 e nel pomeriggio dalle 13.30 alle 17.30.	Y	mattina	449	   13,356	0.0224	179.125	ita_news_2015_00204145
-2251	E tra questi c'è anche l'ex-premier Renzi.	Y	premier	450	   13,351	0.0224	120.4	ita_news_2019_00262469
+2251	E tra questi c’è anche l’ex-premier Renzi.	Y	premier	450	   13,351	0.0224	120.4	ita_news_2019_00262469
 2252	Così il premier sarebbe a rischio» Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	premier	450	   13,351	0.0224	153.8235	ita_news_2019_00145408
 2253	Il primo incontro deve essere tra il premier e il sindaco.	Y	premier	450	   13,351	0.0224	154.8889	ita_news_2016_00382988
 2254	L’Italia ha visto al massimo una donna ministro ma mai premier o Capo di Stato.	Y	premier	450	   13,351	0.0224	166.625	ita_news_2019_00574810
 2255	Ma l’ex premier italiano non è stato l’unico.	Y	premier	450	   13,351	0.0224	167.6667	ita_news_2015_00608049
 2256	Ma per lui non è un problema, ha già deciso come fare.	Y	deciso	451	   13,343	0.0224	99.9167	ita_news_2015_00614965
 2257	Non è vero che ho deciso così perché ho solo 17 anni.	Y	deciso	451	   13,343	0.0224	118.9	ita_news_2019_00685986
-2258	"""Da parte nostra non c'è ancora nulla di deciso""""."""	Y	deciso	451	   13,343	0.0224	127.2	ita_news_2015_00168539
+2258	Da parte nostra non c’è ancora nulla di deciso.	Y	deciso	451	   13,343	0.0224	127.2	ita_news_2015_00168539
 2259	Di fronte a questa situazione in Comune cosa hanno deciso di fare?	Y	deciso	451	   13,343	0.0224	144.3636	ita_news_2016_00183346
 2260	A un certo punto della vita si diventa grandi, così mi hanno detto e così il tempo ha deciso.	Y	deciso	451	   13,343	0.0224	161.8333	ita_news_2019_00074244
-2261	E c'è spazio per lo sviluppo di nuove attività.	Y	nuove	452	   13,316	0.0223	219.6	ita_news_2015_00213970
+2261	E c’è spazio per lo sviluppo di nuove attività.	Y	nuove	452	   13,316	0.0223	219.6	ita_news_2015_00213970
 2262	Scuola di Cultura al via Oggi le nuove iniziative Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	nuove	452	   13,316	0.0223	220.0968	ita_news_2019_00840033
 2263	Quali sono le nuove proposte e di che cosa si tratta?”	Y	nuove	452	   13,316	0.0223	240	ita_news_2019_00786436
 2264	Nuove competenze per il lavoro dei giovani Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	nuove	452	   13,316	0.0223	271.7778	ita_news_2019_00701217
-2265	«Un po'di esperienza su cui contare ce l'ho ma molte cose sono nuove, e c'è da fare.	Y	nuove	452	   13,316	0.0223	280.2	ita_news_2015_00976939
+2265	«Un po’di esperienza su cui contare ce l’ho ma molte cose sono nuove, e c’è da fare.	Y	nuove	452	   13,316	0.0223	280.2	ita_news_2015_00976939
 2266	«Un intervento era stato fatto nel 1982, ma di poco conto.	Y	intervento	453	   13,301	0.0223	143.2	ita_news_2015_00971478
 2267	Anche su questo abbiamo chiesto un intervento da parte della politica, e alla Regione Lazio.	Y	intervento	453	   13,301	0.0223	154.4	ita_news_2019_00052771
-2268	Questo è l'intervento che ho fatto a nome del M5S.	Y	intervento	453	   13,301	0.0223	177.0833	ita_news_2015_00812322
-2269	Io purtroppo non l'ho fatto e ho subito un intervento e poi un altro.	Y	intervento	453	   13,301	0.0223	177.3333	ita_news_2016_00451679
-2270	"""Piazza della Libertà, la Regione: """"Non c’è il fondo per l’intervento"""""""	Y	intervento	453	   13,301	0.0223	181.6154	ita_news_2019_00757688
-2271	Rispetto al 2007 c'è stata una crescita di 0,2 anni sia per le donne sia per gli uomini.	Y	uomini	454	   13,285	0.0223	126.6667	ita_news_2015_00831206
+2268	Questo è l’intervento che ho fatto a nome del M5S.	Y	intervento	453	   13,301	0.0223	177.0833	ita_news_2015_00812322
+2269	Io purtroppo non l’ho fatto e ho subito un intervento e poi un altro.	Y	intervento	453	   13,301	0.0223	177.3333	ita_news_2016_00451679
+2270	Piazza della Libertà, la Regione: Non c’è il fondo per l’intervento	Y	intervento	453	   13,301	0.0223	181.6154	ita_news_2019_00757688
+2271	Rispetto al 2007 c’è stata una crescita di 0,2 anni sia per le donne sia per gli uomini.	Y	uomini	454	   13,285	0.0223	126.6667	ita_news_2015_00831206
 2272	Essere donne ed essere uomini nel mondo del lavoro oggi”.	Y	uomini	454	   13,285	0.0223	146.6667	ita_news_2016_00266928
 2273	Di che cosa hanno bisogno gli uomini prima di tutto?	Y	uomini	454	   13,285	0.0223	149.7778	ita_news_2015_00179830
 2274	Al voto per la prima volta in 4.350; 2252 uomini e 2098 donne.	Y	uomini	454	   13,285	0.0223	159	ita_news_2019_00042247
 2275	Con il gioco e senza gli uomini però non si va da nessuna parte.	Y	uomini	454	   13,285	0.0223	166.3571	ita_news_2019_00132307
-2276	L'importante era che il palazzo ci fosse, non come fosse.	Y	palazzo	455	   13,282	0.0223	130.9	ita_news_2015_00559560
+2276	L’importante era che il palazzo ci fosse, non come fosse.	Y	palazzo	455	   13,282	0.0223	130.9	ita_news_2015_00559560
 2277	Nel Palazzo è un altro mondo Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	palazzo	455	   13,282	0.0223	157.5667	ita_news_2019_00667015
 2278	A Palazzo Marino c’è già stato da direttore generale.	Y	palazzo	455	   13,282	0.0223	185.8	ita_news_2016_00059822
 2279	È il terzo colpo nel palazzo Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	palazzo	455	   13,282	0.0223	187.8333	ita_news_2019_00221732
-2280	Qualcuno ha scritto in questi giorni: c'è qualcosa tra il Palazzo e la Piazza?	Y	palazzo	455	   13,282	0.0223	194.6	ita_news_2016_00786604
+2280	Qualcuno ha scritto in questi giorni: c’è qualcosa tra il Palazzo e la Piazza?	Y	palazzo	455	   13,282	0.0223	194.6	ita_news_2016_00786604
 2281	Al momento, un padre vero e proprio non c’era.	Y	padre	456	   13,277	0.0223	126.4	ita_news_2019_00036240
 2282	Mio padre non ha niente a che fare con il governo”.	Y	padre	456	   13,277	0.0223	132.5455	ita_news_2016_00635252
 2283	È un tempo che ha il Padre nella sua autorità».	Y	padre	456	   13,277	0.0223	147.5	ita_news_2019_00267291
@@ -289,14 +289,14 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2288	Quando ho visto il terzo gol ho detto, ma come ha fatto?	Y	terzo	457	   13,226	0.0222	136.2727	ita_news_2016_00789002
 2289	Circa un terzo di questi ultimi ha più di 55 anni.	Y	terzo	457	   13,226	0.0222	138.6667	ita_news_2019_00114981
 2290	Oggi è stata una vittoria importante per il terzo posto.	Y	terzo	457	   13,226	0.0222	152.1	ita_news_2016_00704657
-2291	"""""""Non si può: è la parola che più hanno alla mano""""."""	Y	mano	458	   13,215	0.0222	143.1818	ita_news_2019_00694568
+2291	Non si può: è la parola che più hanno alla mano.	Y	mano	458	   13,215	0.0222	143.1818	ita_news_2019_00694568
 2292	E allora perché non può mettere mano anche alla legge 49? Se non ora, quando?»	Y	mano	458	   13,215	0.0222	160.2308	ita_news_2015_00206746
 2293	Ma quella mano per lui è l’unica cosa possibile.	Y	mano	458	   13,215	0.0222	179.3	ita_news_2019_00619103
 2294	Non solo, ma la decisione tra l’essere e il non essere della specie è in mano all’uomo.	Y	mano	458	   13,215	0.0222	179.4118	ita_news_2016_00695328
 2295	Insomma un presidente che non è certo stato con le mani in mano, ma che davvero si è dato da fare.	Y	mano	458	   13,215	0.0222	181.1579	ita_news_2019_00437279
 2296	Un fatto che con il campo da gioco ha poco a che fare.	Y	gioco	459	   13,210	0.0222	91.5833	ita_news_2016_00969219
 2297	Non è questo il nostro campo da gioco, non è questa la nostra partita.	Y	gioco	459	   13,210	0.0222	124.75	ita_news_2019_00684284
-2298	Quest'anno, per ora, è solo un gioco di parole.	Y	gioco	459	   13,210	0.0222	142.2	ita_news_2015_00807510
+2298	Quest’anno, per ora, è solo un gioco di parole.	Y	gioco	459	   13,210	0.0222	142.2	ita_news_2015_00807510
 2299	Questo è il loro gioco, è ciò che non è la scuola.	Y	gioco	459	   13,210	0.0222	144	ita_news_2019_00804583
 2300	È un gioco nel quale non ti va sempre bene.	Y	gioco	459	   13,210	0.0222	156.1	ita_news_2019_00265644
 2301	Per un’ora il problema continua a essere in mezzo.	Y	continua	460	   13,161	0.0221	137.8	ita_news_2016_00756759
@@ -306,10 +306,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2305	Il lavoro in Italia continua a essere un’emergenza nazionale.	Y	continua	460	   13,161	0.0221	185.4	ita_news_2019_00355718
 2306	Quando il Papa «non è di Roma» Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	papa	461	   13,132	0.022	124.2353	ita_news_2019_00788192
 2307	Grazie a Lui sono stata anche dal Papa il 4 febbraio dell’anno scorso».	Y	papa	461	   13,132	0.022	140.8462	ita_news_2015_00313524
-2308	L'ho visto a Roma dal Papa, anche per lui sarà un'esperienza nuova».	Y	papa	461	   13,132	0.022	143.0714	ita_news_2015_00557280
+2308	L’ho visto a Roma dal Papa, anche per lui sarà un’esperienza nuova».	Y	papa	461	   13,132	0.022	143.0714	ita_news_2015_00557280
 2309	Di una cosa però è certo: «Il Papa va avanti su tutto».	Y	papa	461	   13,132	0.022	143.0833	ita_news_2019_00179999
 2310	È quasi come il Papa, che è sia Capo di Stato, sia Capo di una chiesa.	Y	papa	461	   13,132	0.022	152.0833	ita_news_2016_00254972
-2311	"""È per questo che a questo ragazzi va detto solo grazie""""."""	Y	ragazzi	462	   13,091	0.022	116.3	ita_news_2015_00246859
+2311	È per questo che a questo ragazzi va detto solo grazie.	Y	ragazzi	462	   13,091	0.022	116.3	ita_news_2015_00246859
 2312	Per i ragazzi non può essere tutto Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	ragazzi	462	   13,091	0.022	120.9444	ita_news_2019_00742139
 2313	Ora più che mai, i ragazzi hanno bisogno di noi.	Y	ragazzi	462	   13,091	0.022	146	ita_news_2019_00715797
 2314	Forse, perché era in corso una gara di un gruppo di ragazzi».	Y	ragazzi	462	   13,091	0.022	147.1818	ita_news_2016_00290660
@@ -319,36 +319,36 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2318	Immagini che attraverso un video hanno fatto il giro del mondo.	Y	attraverso	463	   13,085	0.0219	266.0909	ita_news_2015_00404777
 2319	Per una reale nuova vita però si passa attraverso la sua morte.	Y	attraverso	463	   13,085	0.0219	310.5833	ita_news_2019_00756089
 2320	Chi non ha mai pensato almeno per una volta a Napoli attraverso i suoi luoghi comuni?	Y	attraverso	463	   13,085	0.0219	314.0625	ita_news_2019_00108734
-2321	Ma si può fare di più per l'ordine pubblico in generale?	Y	ordine	464	   13,061	0.0219	120	ita_news_2015_00623520
-2322	Non è la prima volta che l'uomo ha problemi con le forze dell'ordine.	Y	ordine	464	   13,061	0.0219	127.8	ita_news_2015_00685503
+2321	Ma si può fare di più per l’ordine pubblico in generale?	Y	ordine	464	   13,061	0.0219	120	ita_news_2015_00623520
+2322	Non è la prima volta che l’uomo ha problemi con le forze dell’ordine.	Y	ordine	464	   13,061	0.0219	127.8	ita_news_2015_00685503
 2323	Il bilancio è in ordine, ma non è stato detto.	Y	ordine	464	   13,061	0.0219	143.4444	ita_news_2019_00331569
 2324	Non è solo un problema di sicurezza e di ordine pubblico.	Y	ordine	464	   13,061	0.0219	146.4	ita_news_2019_00685036
-2325	Su questo c’è anche all'ordine del giorno un progetto di legge presentato dal nostro gruppo.	Y	ordine	464	   13,061	0.0219	149.4706	ita_news_2016_00919251
+2325	Su questo c’è anche all’ordine del giorno un progetto di legge presentato dal nostro gruppo.	Y	ordine	464	   13,061	0.0219	149.4706	ita_news_2016_00919251
 2326	Lo sono tutti i bambini, ma forse quelli di Napoli lo sono di più.	Y	bambini	465	   13,047	0.0219	130.3636	ita_news_2019_00586701
 2327	Il problema che in casa ci sono anche due bambini di 2 e 6 anni, i figli della coppia.	Y	bambini	465	   13,047	0.0219	163	ita_news_2019_00376902
 2328	Questo è il nostro grazie per tutto quello che hai fatto per i nostri bambini e la scuola.	Y	bambini	465	   13,047	0.0219	165.2941	ita_news_2019_00804659
 2329	Cento anni dalla parte dei bambini Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	bambini	465	   13,047	0.0219	168.2667	ita_news_2019_00097487
 2330	E anche la Città dei bambini, in centro, fa il pieno.	Y	bambini	465	   13,047	0.0219	171.2727	ita_news_2019_00201642
 2331	Quando tutti hanno lo stesso obiettivo, prima o poi si arriva.	Y	obiettivo	466	   13,034	0.0219	129.9091	ita_news_2016_00790831
-2332	"""Due leader con lo stesso obiettivo: fare il loro Paese """"di nuovo più grande"""""""	Y	obiettivo	466	   13,034	0.0219	131.2143	ita_news_2019_00195582
+2332	Due leader con lo stesso obiettivo: fare il loro Paese di nuovo più grande	Y	obiettivo	466	   13,034	0.0219	131.2143	ita_news_2019_00195582
 2333	L’obiettivo è comunque fare bene già da questa gara.	Y	obiettivo	466	   13,034	0.0219	145.3	ita_news_2016_00568058
 2334	L’obiettivo è quello di arrivare a fine anno al 65%.	Y	obiettivo	466	   13,034	0.0219	145.5	ita_news_2019_00576775
-2335	"""Il mio obiettivo è fare della Roma la migliore squadra possibile""""."""	Y	obiettivo	466	   13,034	0.0219	149.2727	ita_news_2016_00369537
+2335	Il mio obiettivo è fare della Roma la migliore squadra possibile.	Y	obiettivo	466	   13,034	0.0219	149.2727	ita_news_2016_00369537
 2336	Così non è stato e adesso dobbiamo fare tutto quello che non abbiamo fatto prima.	Y	dobbiamo	467	   13,011	0.0218	109.2857	ita_news_2015_00154075
 2337	Lo dobbiamo fare subito perché non c’è più tempo.	Y	dobbiamo	467	   13,011	0.0218	110.9	ita_news_2019_00578438
 2338	Nel 2017 infatti è stato molto difficile e quindi dobbiamo fare meglio.	Y	dobbiamo	467	   13,011	0.0218	161.1818	ita_news_2019_00652255
-2339	Dobbiamo andare dall'altra parte e avere anche l'altro punto di vista.	Y	dobbiamo	467	   13,011	0.0218	167.9231	ita_news_2015_00187784
+2339	Dobbiamo andare dall’altra parte e avere anche l’altro punto di vista.	Y	dobbiamo	467	   13,011	0.0218	167.9231	ita_news_2015_00187784
 2340	Se non lo fa il Parlamento lo dobbiamo fare noi».	Y	dobbiamo	467	   13,011	0.0218	174.6667	ita_news_2019_00855139
-2341	E, come una volta c'era la piazza, oggi c'è la Rete.	Y	rete	468	   12,918	0.0217	101.7273	ita_news_2019_00209487
+2341	E, come una volta c’era la piazza, oggi c’è la Rete.	Y	rete	468	   12,918	0.0217	101.7273	ita_news_2019_00209487
 2342	È una rete sociale che non ha ancora un anno di vita.	Y	rete	468	   12,918	0.0217	122.5833	ita_news_2015_00272269
 2343	«Con questa rete noi non siamo in grado di fare di più».	Y	rete	468	   12,918	0.0217	143	ita_news_2019_00136284
 2344	Tra l’altro è stata la prima rete in serie A, avrà un grande futuro».	Y	rete	468	   12,918	0.0217	155.1333	ita_news_2016_00932923
 2345	Poi, dopo aver subito la prima rete, c’è stata un po’ di paura.	Y	rete	468	   12,918	0.0217	159.1429	ita_news_2019_00763777
-2346	Nel nostro programma nazionale e regionale c'era questo punto».	Y	regionale	469	   12,894	0.0216	151.3	ita_news_2016_00664350
+2346	Nel nostro programma nazionale e regionale c’era questo punto».	Y	regionale	469	   12,894	0.0216	151.3	ita_news_2016_00664350
 2347	Per lui si parla di un ruolo da presidente del consiglio regionale.	Y	regionale	469	   12,894	0.0216	174.0833	ita_news_2015_00751622
 2348	L’occasione è stata anche quella di fare il punto sulla crisi economica regionale.	Y	regionale	469	   12,894	0.0216	190.7143	ita_news_2019_00577331
 2349	Tutto questo non può che essere motivo di attenzione per il governo regionale.	Y	regionale	469	   12,894	0.0216	205.5385	ita_news_2015_00949964
-2350	"""L'assessore regionale: """"E' ora di usare la forza"""" Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze."""	Y	regionale	469	   12,894	0.0216	240.2581	ita_news_2019_00526600
+2350	L’assessore regionale: E' ora di usare la forza Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	regionale	469	   12,894	0.0216	240.2581	ita_news_2019_00526600
 2351	Sul posto il 118, in ospedale un 38enne ed una 29enne.	Y	ospedale	470	   12,891	0.0216	136.1111	ita_news_2019_00915920
 2352	«Sono stata in ospedale due settimane e ora da due mesi sono a casa».	Y	ospedale	470	   12,891	0.0216	147.5	ita_news_2019_00897158
 2353	Fuori strada con l’auto una 33enne all’ospedale Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	ospedale	470	   12,891	0.0216	178.2812	ita_news_2019_00284345
@@ -357,41 +357,41 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2356	Il primo per appena 6 persone, il secondo per 40. Detto, fatto.	Y	appena	471	   12,883	0.0216	129	ita_news_2019_00376317
 2357	Si tratta di appena il 20 per cento del totale, contro quasi il 25 per cento del 2007.	Y	appena	471	   12,883	0.0216	200	ita_news_2015_00890067
 2358	«Voglio dire che il suo lavoro è appena all’inizio.	Y	appena	471	   12,883	0.0216	208	ita_news_2015_00995432
-2359	E l'unica verità è quella che Le ho appena detto.	Y	appena	471	   12,883	0.0216	218.2727	ita_news_2016_00239038
-2360	"""""""Certo una stagione come quella appena finita non è stata un bene per me, la squadra, i tifosi."""	Y	appena	471	   12,883	0.0216	226.7222	ita_news_2015_00104632
-2361	Poi dopo il secondo gol dell'Inter non c'è stata più partita.	Y	inter	472	   12,879	0.0216	116.1538	ita_news_2016_00764159
+2359	E l’unica verità è quella che Le ho appena detto.	Y	appena	471	   12,883	0.0216	218.2727	ita_news_2016_00239038
+2360	Certo una stagione come quella appena finita non è stata un bene per me, la squadra, i tifosi.	Y	appena	471	   12,883	0.0216	226.7222	ita_news_2015_00104632
+2361	Poi dopo il secondo gol dell’Inter non c’è stata più partita.	Y	inter	472	   12,879	0.0216	116.1538	ita_news_2016_00764159
 2362	In questo momento, tra le grandi, l’Inter è quella che sta meglio di tutte».	Y	inter	472	   12,879	0.0216	121.6667	ita_news_2015_00431027
-2363	L'inter è la squadra più forte del mondo al momento!	Y	inter	472	   12,879	0.0216	124	ita_news_2015_00563471
-2364	"""""""Se è vero che l’Inter con un altro tecnico avrebbe 10 punti in più?"""	Y	inter	472	   12,879	0.0216	145.5	ita_news_2016_00850443
-2365	La vittoria con l'Inter» - Sport I cookie ci aiutano ad offrirti un servizio migliore.	Y	inter	472	   12,879	0.0216	180.0667	ita_news_2015_00533630
+2363	L’inter è la squadra più forte del mondo al momento!	Y	inter	472	   12,879	0.0216	124	ita_news_2015_00563471
+2364	Se è vero che l’Inter con un altro tecnico avrebbe 10 punti in più?	Y	inter	472	   12,879	0.0216	145.5	ita_news_2016_00850443
+2365	La vittoria con l’Inter» - Sport I cookie ci aiutano ad offrirti un servizio migliore.	Y	inter	472	   12,879	0.0216	180.0667	ita_news_2015_00533630
 2366	Come tutti quelli che in Italia non stanno al Nord.	Y	nord	473	   12,878	0.0216	139.3	ita_news_2016_00133608
 2367	E questo anche al nord e al centro, non solo al sud.	Y	nord	473	   12,878	0.0216	154.8889	ita_news_2016_00256023
 2368	Noi abbiamo un’Italia del nord e una del sud.	Y	nord	473	   12,878	0.0216	158.2222	ita_news_2019_00675071
 2369	Quelli del Grande Nord sono contro la Lega e non fanno altro che parlare di Lega”.	Y	nord	473	   12,878	0.0216	171.8667	ita_news_2019_00795263
-2370	C'è SOLO un partito che si fa sentire,e non solo per questo,LA LEGA NORD!	Y	nord	473	   12,878	0.0216	184.875	ita_news_2015_00104934
+2370	C’è SOLO un partito che si fa sentire,e non solo per questo,LA LEGA NORD!	Y	nord	473	   12,878	0.0216	184.875	ita_news_2015_00104934
 2371	Sì, e io non sono il solo a dire questo.	Y	sì	474	   12,860	0.0216	99	ita_news_2016_00875791
 2372	Sì, in questo non si deve andare più avanti di quello che si dice.	Y	sì	474	   12,860	0.0216	137.9231	ita_news_2019_00873318
 2373	C’è chi dice no, e c’è chi dice sì.	Y	sì	474	   12,860	0.0216	155	ita_news_2019_00095666
 2374	Il grande e forte «sì» Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	sì	474	   12,860	0.0216	157.4667	ita_news_2019_00353929
-2375	Era un altro calcio, un'altra vita, un altro mondo, questo sì.	Y	sì	474	   12,860	0.0216	171.4444	ita_news_2016_00259830
+2375	Era un altro calcio, un’altra vita, un altro mondo, questo sì.	Y	sì	474	   12,860	0.0216	171.4444	ita_news_2016_00259830
 2376	Ma il partito di Renzi è ancora un partito della sinistra?	Y	sinistra	475	   12,832	0.0215	118.7	ita_news_2016_00601345
 2377	Certo, la sinistra era in crisi (quando non lo è stata?	Y	sinistra	475	   12,832	0.0215	124	ita_news_2016_00106365
 2378	Il campo della sinistra in Europa è la nostra casa.	Y	sinistra	475	   12,832	0.0215	126.4	ita_news_2016_00344251
-2379	In queste due parole c'è tutto il mondo della sinistra.	Y	sinistra	475	   12,832	0.0215	131.6364	ita_news_2015_00429292
+2379	In queste due parole c’è tutto il mondo della sinistra.	Y	sinistra	475	   12,832	0.0215	131.6364	ita_news_2015_00429292
 2380	Se così fosse, il centro-sinistra avrebbe perso «due volte».	Y	sinistra	475	   12,832	0.0215	230	ita_news_2015_00856621
-2381	"""È l'ora di far vedere a tutti chi siamo""""."""	Y	vedere	475	   12,832	0.0215	114	ita_news_2015_00237647
+2381	È l’ora di far vedere a tutti chi siamo.	Y	vedere	475	   12,832	0.0215	114	ita_news_2015_00237647
 2382	In questi giorni ci sarà tanto da fare e da vedere».	Y	vedere	475	   12,832	0.0215	122.5	ita_news_2019_00430126
 2383	E che nulla ha a che vedere con lo sport.	Y	vedere	475	   12,832	0.0215	136.4444	ita_news_2015_00214517
 2384	Ma lo sono anche le donne, anche se lo fanno vedere di meno”.	Y	vedere	475	   12,832	0.0215	143.9091	ita_news_2019_00612299
-2385	"""Deve far vedere in partita quello che a noi fa vedere durante la settimana""""."""	Y	vedere	475	   12,832	0.0215	160.7692	ita_news_2016_00178847
+2385	Deve far vedere in partita quello che a noi fa vedere durante la settimana.	Y	vedere	475	   12,832	0.0215	160.7692	ita_news_2016_00178847
 2386	Papa Francesco: le foto del 2016Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	foto	476	   12,826	0.0215	177.25	ita_news_2019_00722206
 2387	Il video e le foto hanno fatto il giro del mondo.	Y	foto	476	   12,826	0.0215	181.4	ita_news_2016_00404358
 2388	Ma la foto di gruppo, almeno per ora, non si farà.	Y	foto	476	   12,826	0.0215	198.8182	ita_news_2019_00609826
 2389	Lei ha solo la foto di suo padre in questo studio.	Y	foto	476	   12,826	0.0215	202.4545	ita_news_2015_00543110
 2390	Ecco le foto della polizia sul posto e degli amici.	Y	foto	476	   12,826	0.0215	203.2	ita_news_2019_00206110
 2391	Oggi, però, la Serie A non è prima, quando ogni domenica era un Mondiale.	Y	mondiale	477	   12,823	0.0215	106.2143	ita_news_2016_00706346
-2392	Per tutti, l'uomo che può fare arrivare fino in fondo l'Italia a questo Mondiale.	Y	mondiale	477	   12,823	0.0215	159.6667	ita_news_2015_00761795
-2393	"""""""Il nostro obiettivo è di fare meglio dell'ultimo Mondiale."""	Y	mondiale	477	   12,823	0.0215	175.9	ita_news_2015_00370757
+2392	Per tutti, l’uomo che può fare arrivare fino in fondo l’Italia a questo Mondiale.	Y	mondiale	477	   12,823	0.0215	159.6667	ita_news_2015_00761795
+2393	Il nostro obiettivo è di fare meglio dell’ultimo Mondiale.	Y	mondiale	477	   12,823	0.0215	175.9	ita_news_2015_00370757
 2394	Un altro Mondiale che ho ben presente è quello di Italia ’90.	Y	mondiale	477	   12,823	0.0215	183	ita_news_2015_00957483
 2395	L’Italia è il paese in cui si gioca di più a livello mondiale con il 22% del totale.	Y	mondiale	477	   12,823	0.0215	189.8235	ita_news_2016_00565646
 2396	Ma questo non è il suo massimo, fra un anno sarà ancora più forte.	Y	massimo	478	   12,787	0.0214	105.7857	ita_news_2019_00619625
@@ -401,17 +401,17 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2400	Il tecnico: «Il nostro obiettivo deve essere sempre il massimo.	Y	massimo	478	   12,787	0.0214	241	ita_news_2019_00393897
 2401	Anche il suo Milan non è più quello di un tempo.	Y	milan	479	   12,757	0.0214	77	ita_news_2016_00048451
 2402	Nel secondo tempo, è sempre il Milan a fare la partita.	Y	milan	479	   12,757	0.0214	104.4545	ita_news_2019_00668784
-2403	Oggi è stata la volta del Milan e dell'Inter.	Y	milan	479	   12,757	0.0214	133.6	ita_news_2015_00710119
-2404	Solo che quest'anno è molto meglio del Milan e della Juve.	Y	milan	479	   12,757	0.0214	153.5	ita_news_2015_00894867
-2405	In più, ci sono squadre in crescita come Milan e Roma, c'è sempre il Napoli.	Y	milan	479	   12,757	0.0214	162.6	ita_news_2016_00428369
+2403	Oggi è stata la volta del Milan e dell’Inter.	Y	milan	479	   12,757	0.0214	133.6	ita_news_2015_00710119
+2404	Solo che quest’anno è molto meglio del Milan e della Juve.	Y	milan	479	   12,757	0.0214	153.5	ita_news_2015_00894867
+2405	In più, ci sono squadre in crescita come Milan e Roma, c’è sempre il Napoli.	Y	milan	479	   12,757	0.0214	162.6	ita_news_2016_00428369
 2406	A rischio perché i 250 milioni sono per l’ultimo progetto e non per quello di 5 anni fa.	Y	rischio	480	   12,732	0.0214	92.1875	ita_news_2016_00068757
 2407	E questo per molti di loro potrebbe essere un rischio.	Y	rischio	480	   12,732	0.0214	116.3	ita_news_2016_00256787
 2408	Ma anche un piccolo grande rischio perché c’è sempre una prima volta in tutto nella vita.	Y	rischio	480	   12,732	0.0214	126.8824	ita_news_2019_00599686
 2409	Infatti c’è “il rischio per l’Italia di un punto di non ritorno”.	Y	rischio	480	   12,732	0.0214	128.3077	ita_news_2015_00414157
-2410	"""C'è forse una zona più a """"rischio"""" di altre?"""	Y	rischio	480	   12,732	0.0214	147.6	ita_news_2019_00096274
-2411	Dall'anno della crisi, il 2008, ad oggi, la media è di 6 mila persone all'anno.	Y	media	481	   12,712	0.0213	103.9286	ita_news_2019_00156489
+2410	C’è forse una zona più a rischio di altre?	Y	rischio	480	   12,732	0.0214	147.6	ita_news_2019_00096274
+2411	Dall’anno della crisi, il 2008, ad oggi, la media è di 6 mila persone all’anno.	Y	media	481	   12,712	0.0213	103.9286	ita_news_2019_00156489
 2412	E poi ci sono i media e siamo ad agosto.	Y	media	481	   12,712	0.0213	120.5556	ita_news_2015_00248043
-2413	L'anno scorso la media della prima serata era stata di 11 milioni 767 mila con il 49.34%.	Y	media	481	   12,712	0.0213	130.8	ita_news_2019_00498407
+2413	L’anno scorso la media della prima serata era stata di 11 milioni 767 mila con il 49.34%.	Y	media	481	   12,712	0.0213	130.8	ita_news_2019_00498407
 2414	L’Italia, al 18° posto, è sotto la media Ue con il 26,9%.	Y	media	481	   12,712	0.0213	150	ita_news_2019_00574339
 2415	La media è 30.131 euro l’anno Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	media	481	   12,712	0.0213	155.2	ita_news_2019_00493629
 2416	Ed è una cosa che si dice sempre, ma questa volta è davvero così.	Y	davvero	482	   12,668	0.0212	102	ita_news_2019_00213921
@@ -420,71 +420,71 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2419	Sta a vedere che il futuro è davvero in tutto è per tutto nel passato..	Y	davvero	482	   12,668	0.0212	157.9231	ita_news_2015_00911511
 2420	E ci ha fatto capire che davvero, in Italia, quello che siamo e abbiamo fatto, non ha valore.	Y	davvero	482	   12,668	0.0212	160.3571	ita_news_2019_00208618
 2421	Qualcosa però ci dice oggi che forse non è così.	Y	qualcosa	483	   12,664	0.0212	129.2	ita_news_2019_00784974
-2422	"""""""Forse non è possibile fare tutto ora, ma c’è comunque qualcosa da fare."""	Y	qualcosa	483	   12,664	0.0212	138	ita_news_2016_00290518
+2422	Forse non è possibile fare tutto ora, ma c’è comunque qualcosa da fare.	Y	qualcosa	483	   12,664	0.0212	138	ita_news_2016_00290518
 2423	La Juve ha qualcosa in più di tutte le altre.	Y	qualcosa	483	   12,664	0.0212	144.6	ita_news_2019_00487195
-2424	C'è qualcosa che non torna, comunque, in tutto questo.	Y	qualcosa	483	   12,664	0.0212	148.2	ita_news_2015_00101369
+2424	C’è qualcosa che non torna, comunque, in tutto questo.	Y	qualcosa	483	   12,664	0.0212	148.2	ita_news_2015_00101369
 2425	La chiesa porta qualcosa all’uomo che l’uomo non ha?	Y	qualcosa	483	   12,664	0.0212	151.8	ita_news_2019_00469977
-2426	"""""""Il messaggio è che lo Stato c'è, ci deve essere al 100% e non come spesso è accaduto in questi 30 anni"""""""	Y	spesso	484	   12,663	0.0212	171.4211	ita_news_2019_00359429
+2426	Il messaggio è che lo Stato c’è, ci deve essere al 100% e non come spesso è accaduto in questi 30 anni	Y	spesso	484	   12,663	0.0212	171.4211	ita_news_2019_00359429
 2427	Si tratta di persone che spesso hanno anche dei figli.	Y	spesso	484	   12,663	0.0212	171.8	ita_news_2019_00880846
 2428	Anche in questo caso con le squadre di club (e soprattutto con la Nazionale) l’Italia del calcio ne è uscita spesso meglio.	Y	spesso	484	   12,663	0.0212	189.9091	ita_news_2015_00047347
-2429	Tra l'altro quello che si fa spesso nella scuola pubblica italiana.	Y	spesso	484	   12,663	0.0212	193	ita_news_2016_00933074
-2430	"""E lui spesso mi ha detto: """"Ma quello non è Giorgio?"""	Y	spesso	484	   12,663	0.0212	202.2727	ita_news_2019_00230380
+2429	Tra l’altro quello che si fa spesso nella scuola pubblica italiana.	Y	spesso	484	   12,663	0.0212	193	ita_news_2016_00933074
+2430	E lui spesso mi ha detto: Ma quello non è Giorgio?	Y	spesso	484	   12,663	0.0212	202.2727	ita_news_2019_00230380
 2431	Non è detto che questi siano per forza una casa.	Y	siano	485	   12,653	0.0212	130.6	ita_news_2019_00682992
 2432	Che cosa siano l’una e l’altra non è mai stato del tutto chiaro.	Y	siano	485	   12,653	0.0212	141.7143	ita_news_2019_00103193
 2433	Sempre che l’anno prossimo siano di nuovo tutti qui.	Y	siano	485	   12,653	0.0212	145.7	ita_news_2015_00864064
 2434	Ma il fatto che il 50% siano donne è molto importante.	Y	siano	485	   12,653	0.0212	149.3333	ita_news_2016_00600854
-2435	"""Sui tifosi: """"I tifosi sono sempre i tifosi più grandi che ci siano."""	Y	siano	485	   12,653	0.0212	187.2	ita_news_2019_00911790
+2435	Sui tifosi: I tifosi sono sempre i tifosi più grandi che ci siano.	Y	siano	485	   12,653	0.0212	187.2	ita_news_2019_00911790
 2436	Ma al di sotto c’è un altro tempo: è il tempo della terra.	Y	terra	486	   12,639	0.0212	87.5833	ita_news_2019_00598502
 2437	Però la mia terra è sempre con me, nella vita e nel lavoro».	Y	terra	486	   12,639	0.0212	125.4615	ita_news_2019_00747954
 2438	Nel senso che: una terra tutta per loro? mai ma proprio mai mai mai?	Y	terra	486	   12,639	0.0212	153.3636	ita_news_2019_00668914
-2439	"""""""L'Italia è da sempre la terra in cui il domani arriva prima"""", ha detto al termine della visita."""	Y	terra	486	   12,639	0.0212	163.6842	ita_news_2015_00565878
-2440	L'hanno vista mentre era a terra, in strada, ieri sera.	Y	terra	486	   12,639	0.0212	170.2727	ita_news_2015_00556888
+2439	L’Italia è da sempre la terra in cui il domani arriva prima, ha detto al termine della visita.	Y	terra	486	   12,639	0.0212	163.6842	ita_news_2015_00565878
+2440	L’hanno vista mentre era a terra, in strada, ieri sera.	Y	terra	486	   12,639	0.0212	170.2727	ita_news_2015_00556888
 2441	A uno solo di questi è stato dato un nome.	Y	nome	487	   12,632	0.0212	109.9	ita_news_2019_00074399
 2442	Non che il suo nome sia del tutto nuovo al nostro calcio.	Y	nome	487	   12,632	0.0212	121.8333	ita_news_2019_00680287
 2443	È per questo che il suo nome è passato alla storia.	Y	nome	487	   12,632	0.0212	135.5	ita_news_2016_00248196
 2444	Poi in campo ci va l’Inter, con il nome che porta.	Y	nome	487	   12,632	0.0212	153.6667	ita_news_2019_00764949
 2445	Il nome ci può essere anche a gennaio o febbraio.	Y	nome	487	   12,632	0.0212	154.3	ita_news_2016_00371863
 2446	Tutti e tre, hanno a che fare con la morte.	Y	morte	488	   12,613	0.0212	81.9	ita_news_2015_00946681
-2447	E mai come in questo caso, perchè quando la morte c'è, non ci siamo più noi.	Y	morte	488	   12,613	0.0212	111.5882	ita_news_2015_00238660
+2447	E mai come in questo caso, perchè quando la morte c’è, non ci siamo più noi.	Y	morte	488	   12,613	0.0212	111.5882	ita_news_2015_00238660
 2448	Per questa gente non ci può essere che la morte.	Y	morte	488	   12,613	0.0212	129.9	ita_news_2015_00757298
 2449	“Perché si parla sempre di morte in questo mondo e mai di vita?	Y	morte	488	   12,613	0.0212	134.4167	ita_news_2016_00735188
 2450	Per loro era una questione di vita o di morte».	Y	morte	488	   12,613	0.0212	155.4444	ita_news_2019_00745433
 2451	Questo è il futuro delle società, un centro così in un campionato alla fine porta punti».	Y	campionato	489	   12,610	0.0211	140.9333	ita_news_2016_00804741
 2452	È l’ultima partita in casa, l’ultima di questo campionato.	Y	campionato	489	   12,610	0.0211	143.7778	ita_news_2019_00230427
 2453	Ha due punti in più rispetto alla stessa giornata di campionato dello scorso anno.	Y	campionato	489	   12,610	0.0211	153.7857	ita_news_2016_00317919
-2454	Pochi giorni all'inizio del campionato, a che punto è il Firenze?	Y	campionato	489	   12,610	0.0211	156.75	ita_news_2015_00767513
+2454	Pochi giorni all’inizio del campionato, a che punto è il Firenze?	Y	campionato	489	   12,610	0.0211	156.75	ita_news_2015_00767513
 2455	Soprattutto il giorno dopo la prima vittoria in campionato del nuovo Milan.	Y	campionato	489	   12,610	0.0211	167.3333	ita_news_2019_00899574
 2456	Anche nel 2016 era la regione con il numero più alto, 11.623.	Y	alto	490	   12,608	0.0211	120.8	ita_news_2019_00049528
 2457	Si tratta del livello più alto da 26 mesi a questa parte.	Y	alto	490	   12,608	0.0211	150.7273	ita_news_2016_00884429
 2458	Il 57,9 per cento è il dato più alto di tutta l’Europa.	Y	alto	490	   12,608	0.0211	152.7273	ita_news_2015_00338907
 2459	Ma nella media 2014 è al 12,7%, il livello più alto dal 1977.	Y	alto	490	   12,608	0.0211	155.5	ita_news_2016_00608633
 2460	Ma il gioco a questo punto è ad alto rischio per tutte le parti in causa.	Y	alto	490	   12,608	0.0211	163.375	ita_news_2016_00600955
-2461	L'Italia ha un futuro più grande del suo passato''.	Y	passato	491	   12,572	0.0211	112.8	ita_news_2019_00574802
+2461	L’Italia ha un futuro più grande del suo passato.	Y	passato	491	   12,572	0.0211	112.8	ita_news_2019_00574802
 2462	È per questo che il suo nome è passato alla storia.	Y	passato	491	   12,572	0.0211	135.5	ita_news_2016_00248196
 2463	Dal passato al futuro, tutto su un campo di calcio.	Y	passato	491	   12,572	0.0211	153.7	ita_news_2015_00165790
 2464	Sta a vedere che il futuro è davvero in tutto è per tutto nel passato..	Y	passato	491	   12,572	0.0211	157.9231	ita_news_2015_00911511
 2465	Quando arriva il lunedì, a quel punto tutto è già un po´ passato.	Y	passato	491	   12,572	0.0211	171.1538	ita_news_2016_00788075
 2466	La crescita del 2011 è stata del 9,2% contro una crescita del 2010 del 10,4 per cento.	Y	crescita	492	   12,509	0.021	125.4444	ita_news_2015_00472926
 2467	Gli degli italiani sono stati 13.531, con una crescita del 10,38% rispetto a settembre 2016.	Y	crescita	492	   12,509	0.021	125.8333	ita_news_2016_00307017
-2468	Rispetto al 2007 c'è stata una crescita di 0,2 anni sia per le donne sia per gli uomini.	Y	crescita	492	   12,509	0.021	126.6667	ita_news_2015_00831206
+2468	Rispetto al 2007 c’è stata una crescita di 0,2 anni sia per le donne sia per gli uomini.	Y	crescita	492	   12,509	0.021	126.6667	ita_news_2015_00831206
 2469	E' stata una grande crescita per me, essere in quella squadra in quel momento.	Y	crescita	492	   12,509	0.021	135.0769	ita_news_2019_00258288
 2470	Il dato è in crescita del 2,3% rispetto al dato di fine dicembre 2009 e del 10% rispetto al luglio dello scorso anno.	Y	crescita	492	   12,509	0.021	136.5625	ita_news_2015_00351071
-2471	Anche la lega in Italia dice l'Italia agli Italiani.	Y	lega	493	   12,478	0.0209	137.2222	ita_news_2015_00047968
-2472	"""Con lui e con la Lega si è sempre trovato un accordo""""."""	Y	lega	493	   12,478	0.0209	156.0909	ita_news_2015_00140501
+2471	Anche la lega in Italia dice l’Italia agli Italiani.	Y	lega	493	   12,478	0.0209	137.2222	ita_news_2015_00047968
+2472	Con lui e con la Lega si è sempre trovato un accordo.	Y	lega	493	   12,478	0.0209	156.0909	ita_news_2015_00140501
 2473	Ma non è tra i primi 20 della lega, nel ruolo.	Y	lega	493	   12,478	0.0209	160.8	ita_news_2019_00615392
 2474	Quelli del Grande Nord sono contro la Lega e non fanno altro che parlare di Lega”.	Y	lega	493	   12,478	0.0209	171.8667	ita_news_2019_00795263
 2475	Per il segretario della Lega non si può più andare avanti.	Y	lega	493	   12,478	0.0209	184.7273	ita_news_2019_00741254
-2476	La difesa è quella che è, come l'anno scorso.	Y	difesa	494	   12,462	0.0209	109.7778	ita_news_2015_00475267
-2477	E poi un'ultima cosa, ma la più importante: la difesa.	Y	difesa	494	   12,462	0.0209	141.6	ita_news_2015_00249342
+2476	La difesa è quella che è, come l’anno scorso.	Y	difesa	494	   12,462	0.0209	109.7778	ita_news_2015_00475267
+2477	E poi un’ultima cosa, ma la più importante: la difesa.	Y	difesa	494	   12,462	0.0209	141.6	ita_news_2015_00249342
 2478	Quello che ho detto sul Milan era una difesa, non un attacco.	Y	difesa	494	   12,462	0.0209	174.75	ita_news_2016_00796330
 2479	La linea di difesa continua a essere sempre la stessa.	Y	difesa	494	   12,462	0.0209	181	ita_news_2015_00485569
-2480	"""Anche in difesa è così e questo è importante"""" conferma."""	Y	difesa	494	   12,462	0.0209	186.1111	ita_news_2015_00047158
+2480	Anche in difesa è così e questo è importante conferma.	Y	difesa	494	   12,462	0.0209	186.1111	ita_news_2015_00047158
 2481	Quella fu la nostra notte, la notte di tutti gli italiani.	Y	fu	495	   12,458	0.0209	175.3333	ita_news_2015_00802501
 2482	Non fu così e anche la Svizzera al termine della Grande guerra non sarà più quella di prima.	Y	fu	495	   12,458	0.0209	185.1176	ita_news_2015_00688556
 2483	Infatti nel novembre scorso fu al centro di un caso di cui si era parlato molto.	Y	fu	495	   12,458	0.0209	185.4667	ita_news_2019_00413924
 2484	A 1.35 l’euro torna al livello che fu raggiunto per la prima volta alla fine del 2004.	Y	fu	495	   12,458	0.0209	187.5625	ita_news_2019_00000088
 2485	La Sinistra, a partire dal 1876, non fu comunque da meno.	Y	fu	495	   12,458	0.0209	205.4	ita_news_2016_00517688
-2486	Non solo nell'Europa dell'economia, ma anche in quella del calcio.	Y	economia	496	   12,456	0.0209	119.4167	ita_news_2015_00699431
+2486	Non solo nell’Europa dell’economia, ma anche in quella del calcio.	Y	economia	496	   12,456	0.0209	119.4167	ita_news_2015_00699431
 2487	Il 2015 è stato un anno di ripresa per l’economia dell’area dell’euro.	Y	economia	496	   12,456	0.0209	144.2308	ita_news_2016_00338521
 2488	Da allora l’economia in Italia non si è più ripresa.	Y	economia	496	   12,456	0.0209	163.7273	ita_news_2019_00151293
 2489	È l’ultima cosa di cui la nostra economia ha bisogno”.	Y	economia	496	   12,456	0.0209	171.8182	ita_news_2019_00230405
@@ -492,23 +492,23 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2491	La Juve ha dato tutto quello che aveva in questo momento.	Y	juve	497	   12,411	0.0208	117.9091	ita_news_2019_00487188
 2492	Il Napoli è una grande squadra ma la Juve è la più forte.	Y	juve	497	   12,411	0.0208	131.8182	ita_news_2016_00371234
 2493	La Juve ha qualcosa in più di tutte le altre.	Y	juve	497	   12,411	0.0208	144.6	ita_news_2019_00487195
-2494	Solo che quest'anno è molto meglio del Milan e della Juve.	Y	juve	497	   12,411	0.0208	153.5	ita_news_2015_00894867
+2494	Solo che quest’anno è molto meglio del Milan e della Juve.	Y	juve	497	   12,411	0.0208	153.5	ita_news_2015_00894867
 2495	Un mio gol anche alla Juve dopo quello al Milan?	Y	juve	497	   12,411	0.0208	183.3	ita_news_2015_00972876
 2496	Quello che non fa la stampa, in questi casi, non può essere fatto da altri.	Y	stampa	498	   12,372	0.0207	135.5714	ita_news_2015_00804123
-2497	Al termine c'è stato l'incontro con la stampa.	Y	stampa	498	   12,372	0.0207	152.8	ita_news_2015_00038595
+2497	Al termine c’è stato l’incontro con la stampa.	Y	stampa	498	   12,372	0.0207	152.8	ita_news_2015_00038595
 2498	Lo ha annunciato nel corso di una conferenza stampa che è in corso in questo momento.	Y	stampa	498	   12,372	0.0207	202.5	ita_news_2015_00570941
 2499	So che c’è stata una campagna di stampa, ma la richiesta non è partita da noi.	Y	stampa	498	   12,372	0.0207	208	ita_news_2019_00884214
 2500	In altre parole: la stampa è parte del Web o sta a parte dal Web?	Y	stampa	498	   12,372	0.0207	208.6923	ita_news_2019_00405769
-2501	Ho detto di no a chi me l'ha chiesto.	Y	chiesto	499	   12,370	0.0207	141.6	ita_news_2015_00322460
+2501	Ho detto di no a chi me l’ha chiesto.	Y	chiesto	499	   12,370	0.0207	141.6	ita_news_2015_00322460
 2502	Non l’ho fatto prima perché nessuno me l’ha chiesto.	Y	chiesto	499	   12,370	0.0207	146.4	ita_news_2019_00687755
-2503	Nessuno di noi ha chiesto all'altro se era possibile.	Y	chiesto	499	   12,370	0.0207	148.4	ita_news_2015_00672363
+2503	Nessuno di noi ha chiesto all’altro se era possibile.	Y	chiesto	499	   12,370	0.0207	148.4	ita_news_2015_00672363
 2504	E il gioco che mi viene chiesto è comunque sempre lo stesso”.	Y	chiesto	499	   12,370	0.0207	155.5	ita_news_2019_00220055
 2505	Ho chiesto anche a lei la storia della sua famiglia.	Y	chiesto	499	   12,370	0.0207	156.1	ita_news_2016_00323171
 2506	Il mondo non è di chi parla, ma di chi fa.	Y	parla	500	   12,369	0.0207	95.3333	ita_news_2015_00368793
 2507	Due punti in meno ogni volta che parla, e due in più per noi.	Y	parla	500	   12,369	0.0207	117.25	ita_news_2015_00202357
 2508	“Perché si parla sempre di morte in questo mondo e mai di vita?	Y	parla	500	   12,369	0.0207	134.4167	ita_news_2016_00735188
-2509	C'è chi ne parla, ma nessuno l'ha visto.	Y	parla	500	   12,369	0.0207	141	ita_news_2016_00101877
-2510	Ha detto cose dell'altro mondo e nessuno ne parla.	Y	parla	500	   12,369	0.0207	176.1	ita_news_2015_00316904
+2509	C’è chi ne parla, ma nessuno l’ha visto.	Y	parla	500	   12,369	0.0207	141	ita_news_2016_00101877
+2510	Ha detto cose dell’altro mondo e nessuno ne parla.	Y	parla	500	   12,369	0.0207	176.1	ita_news_2015_00316904
 2511	In Toscana sono ben 90, dei quali 30 solo nella provincia di Firenze.	Y	toscana	501	   12,335	0.0207	163.4545	ita_news_2016_00443580
 2512	Per la Toscana si tratta di circa 30-40 milioni in meno in arrivo da Roma.	Y	toscana	501	   12,335	0.0207	163.6923	ita_news_2016_00744601
 2513	Sono stato già in Toscana e credo sia la più bella regione d’Italia.	Y	toscana	501	   12,335	0.0207	175.2857	ita_news_2016_00899478
@@ -519,23 +519,23 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2518	Dieci minuti in cui è successo di tutto e poi quasi più nulla.	Y	minuti	502	   12,332	0.0207	172.4615	ita_news_2016_00181702
 2519	I minuti di vantaggio ci sono, ma è chiaro che la gara non sarà la loro.	Y	minuti	502	   12,332	0.0207	178.8667	ita_news_2015_00404626
 2520	A 20 minuti dalla fine della partita, è sempre il numero 11 il protagonista.	Y	minuti	502	   12,332	0.0207	215.1818	ita_news_2016_00002759
-2521	"""""""Abbiamo però un'altra partita e nel calcio non bisogna mai dire mai."""	Y	bisogna	503	   12,330	0.0207	165.9167	ita_news_2015_00004421
-2522	"""C'è tanto lavoro da fare, ma poco tempo, bisogna dare tempo a questi ragazzi di diventare quello che sono gli altri""""."""	Y	bisogna	503	   12,330	0.0207	167.1429	ita_news_2016_00107549
-2523	"""Così il tecnico: """"Mercoledì ci sarà l'incontro con la società - Bisogna essere in due per trovare l'accordo."""	Y	bisogna	503	   12,330	0.0207	177.1111	ita_news_2016_00153602
+2521	Abbiamo però un’altra partita e nel calcio non bisogna mai dire mai.	Y	bisogna	503	   12,330	0.0207	165.9167	ita_news_2015_00004421
+2522	C’è tanto lavoro da fare, ma poco tempo, bisogna dare tempo a questi ragazzi di diventare quello che sono gli altri.	Y	bisogna	503	   12,330	0.0207	167.1429	ita_news_2016_00107549
+2523	Così il tecnico: Mercoledì ci sarà l’incontro con la società - Bisogna essere in due per trovare l’accordo.	Y	bisogna	503	   12,330	0.0207	177.1111	ita_news_2016_00153602
 2524	“Si tratta di un passo importante, ma bisogna fare di più (…).	Y	bisogna	503	   12,330	0.0207	190.4	ita_news_2016_00886054
 2525	Perché per essere davvero una grande squadra bisogna vincere: non soltanto il campionato, come abbiamo già fatto, ma tutto.	Y	bisogna	503	   12,330	0.0207	194.2105	ita_news_2016_00734573
-2526	Ma non c'erano le condizioni per un nuovo accordo.	Y	condizioni	504	   12,325	0.0207	127.5	ita_news_2016_00609645
+2526	Ma non c’erano le condizioni per un nuovo accordo.	Y	condizioni	504	   12,325	0.0207	127.5	ita_news_2016_00609645
 2527	Ma non mi sembra che il Paese sia in queste condizioni.	Y	condizioni	504	   12,325	0.0207	128.3636	ita_news_2016_00610454
 2528	Lo è anche per loro, ma non siamo nelle condizioni di guardare in casa degli altri.	Y	condizioni	504	   12,325	0.0207	173	ita_news_2015_00570068
 2529	Ci sono tutte le condizioni per fare bene nel prossimi cinque anni.	Y	condizioni	504	   12,325	0.0207	192.8333	ita_news_2015_00122807
-2530	L'Europa deve essere un'altra cosa, ci sono le condizioni per cambiare musica in Europa.	Y	condizioni	504	   12,325	0.0207	194.3333	ita_news_2015_00554562
-2531	Uno di loro era già in causa contro l'azienda.	Y	causa	505	   12,322	0.0207	141	ita_news_2015_00974364
+2530	L’Europa deve essere un’altra cosa, ci sono le condizioni per cambiare musica in Europa.	Y	condizioni	504	   12,325	0.0207	194.3333	ita_news_2015_00554562
+2531	Uno di loro era già in causa contro l’azienda.	Y	causa	505	   12,322	0.0207	141	ita_news_2015_00974364
 2532	Ma il gioco a questo punto è ad alto rischio per tutte le parti in causa.	Y	causa	505	   12,322	0.0207	163.375	ita_news_2016_00600955
-2533	A causa della crisi in generale e di quella dell'auto in particolare.	Y	causa	505	   12,322	0.0207	169.25	ita_news_2015_00006851
+2533	A causa della crisi in generale e di quella dell’auto in particolare.	Y	causa	505	   12,322	0.0207	169.25	ita_news_2015_00006851
 2534	Un problema tecnico di cui, al momento, non si sa la causa.	Y	causa	505	   12,322	0.0207	179	ita_news_2019_00979107
-2535	Di anno in anno L'economia di San Marino in crisi, causa la politica.	Y	causa	505	   12,322	0.0207	193.7273	ita_news_2015_00178865
+2535	Di anno in anno L’economia di San Marino in crisi, causa la politica.	Y	causa	505	   12,322	0.0207	193.7273	ita_news_2015_00178865
 2536	In Italia ci sarà la possibilità di fare la stessa cosa?	Y	possibilità	506	   12,314	0.0207	130.3	ita_news_2019_00417485
-2537	C'è un'altra possibilità per tutti quelli come lui.	Y	possibilità	506	   12,314	0.0207	134.5	ita_news_2019_00101519
+2537	C’è un’altra possibilità per tutti quelli come lui.	Y	possibilità	506	   12,314	0.0207	134.5	ita_news_2019_00101519
 2538	Per questo penso che la possibilità di avere un centro nella nostra regione sia una possibilità in più.	Y	possibilità	506	   12,314	0.0207	153.3529	ita_news_2015_00759002
 2539	Non hanno mai la possibilità di fare nel modo in cui lo vogliono fare.	Y	possibilità	506	   12,314	0.0207	157.4615	ita_news_2019_00686691
 2540	Al di sotto, molto al di sotto, delle sue possibilità.	Y	possibilità	506	   12,314	0.0207	162	ita_news_2016_00025839
@@ -543,24 +543,24 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2542	Il calcio, nonostante tutto, è sempre dalle nostre parti, almeno con loro!	Y	nonostante	507	   12,277	0.0206	207.3333	ita_news_2015_00342242
 2543	Di positivo c’è stato anche il pubblico, nonostante il primo giorno.	Y	nonostante	507	   12,277	0.0206	212.8182	ita_news_2015_00184249
 2544	Sono certo che nonostante tutto a vincere a Firenze sarà il sì.	Y	nonostante	507	   12,277	0.0206	214	ita_news_2016_00892653
-2545	Nonostante il pronto intervento dei medici per l'uomo non c'è stato nulla da fare.	Y	nonostante	507	   12,277	0.0206	217	ita_news_2019_00689687
+2545	Nonostante il pronto intervento dei medici per l’uomo non c’è stato nulla da fare.	Y	nonostante	507	   12,277	0.0206	217	ita_news_2019_00689687
 2546	Il progetto, che oggi alle 16 sarà anche al centro di una commissione.	Y	commissione	508	   12,255	0.0206	102.6667	ita_news_2019_00378413
 2547	Ma alla fine di tutto questo non è passato niente, in Commissione.	Y	commissione	508	   12,255	0.0206	149.1667	ita_news_2015_00592100
-2548	Ma intanto c'è un caso sul nome del futuro presidente della Commissione.	Y	commissione	508	   12,255	0.0206	173.9231	ita_news_2019_00608710
-2549	Lo stesso che è stato ben due volte alla guida dell'Italia e per cinque anni presidente della Commissione Ue.	Y	commissione	508	   12,255	0.0206	174.55	ita_news_2016_00580910
-2550	C'è la parte che riguarda i rapporti tra la commissione e l'Italia.	Y	commissione	508	   12,255	0.0206	194.6923	ita_news_2019_00096688
+2548	Ma intanto c’è un caso sul nome del futuro presidente della Commissione.	Y	commissione	508	   12,255	0.0206	173.9231	ita_news_2019_00608710
+2549	Lo stesso che è stato ben due volte alla guida dell’Italia e per cinque anni presidente della Commissione Ue.	Y	commissione	508	   12,255	0.0206	174.55	ita_news_2016_00580910
+2550	C’è la parte che riguarda i rapporti tra la commissione e l’Italia.	Y	commissione	508	   12,255	0.0206	194.6923	ita_news_2019_00096688
 2551	Per questa gente non ci può essere che la morte.	Y	gente	509	   12,248	0.0205	129.9	ita_news_2015_00757298
-2552	Con gente così non si va avanti, non c'è futuro.	Y	gente	509	   12,248	0.0205	155.4	ita_news_2015_00137407
+2552	Con gente così non si va avanti, non c’è futuro.	Y	gente	509	   12,248	0.0205	155.4	ita_news_2015_00137407
 2553	La gente sta dalla mia parte e mi da la forza.	Y	gente	509	   12,248	0.0205	156.1	ita_news_2019_00484572
 2554	«A me, che la gente mi vuole bene, non sarebbe mai successo».	Y	gente	509	   12,248	0.0205	165.4167	ita_news_2016_00044456
-2555	Avanti ragazzi, senza questa gente l'Italia non è la stessa.	Y	gente	509	   12,248	0.0205	177.5455	ita_news_2015_00074744
-2556	Non è l'unico, non è quello che lo fa meglio.	Y	unico	510	   12,216	0.0205	113.6667	ita_news_2015_00685616
+2555	Avanti ragazzi, senza questa gente l’Italia non è la stessa.	Y	gente	509	   12,248	0.0205	177.5455	ita_news_2015_00074744
+2556	Non è l’unico, non è quello che lo fa meglio.	Y	unico	510	   12,216	0.0205	113.6667	ita_news_2015_00685616
 2557	E quello di piazza della Repubblica non è stato »l’unico caso.	Y	unico	510	   12,216	0.0205	117.4167	ita_news_2016_00255369
 2558	Italia unico Paese al mondo in cui chi ha perso le.	Y	unico	510	   12,216	0.0205	135.2727	ita_news_2019_00459040
 2559	Il nostro mercato unico è il più importante al mondo.	Y	unico	510	   12,216	0.0205	163.7778	ita_news_2019_00364200
 2560	Ma l’ex premier italiano non è stato l’unico.	Y	unico	510	   12,216	0.0205	167.6667	ita_news_2015_00608049
-2561	"""""""Nel sistema di quel paese, è stato un leader, molto di più di quanto non lo sia stato il nostro presidente ()."""	Y	leader	511	   12,181	0.0204	114.0556	ita_news_2016_00666503
-2562	"""Due leader con lo stesso obiettivo: fare il loro Paese """"di nuovo più grande"""""""	Y	leader	511	   12,181	0.0204	131.2143	ita_news_2019_00195582
+2561	Nel sistema di quel paese, è stato un leader, molto di più di quanto non lo sia stato il nostro presidente ().	Y	leader	511	   12,181	0.0204	114.0556	ita_news_2016_00666503
+2562	Due leader con lo stesso obiettivo: fare il loro Paese di nuovo più grande	Y	leader	511	   12,181	0.0204	131.2143	ita_news_2019_00195582
 2563	Berlusconi era a Napoli come presidente del Consiglio e non come leader di partito».	Y	leader	511	   12,181	0.0204	139.4615	ita_news_2016_00087314
 2564	Perché, nel bene o nel male, il leader è sempre lui.	Y	leader	511	   12,181	0.0204	159.6	ita_news_2015_00739418
 2565	Era il leader della destra, adesso anche la destra non lo vuole più.	Y	leader	511	   12,181	0.0204	180.25	ita_news_2016_00258221
@@ -570,10 +570,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2569	C’è gente che ancora oggi fa soldi su questo.	Y	soldi	512	   12,178	0.0204	140.1	ita_news_2019_00096283
 2570	Queste sono cose di soldi e di oggi, le altre sono cose di uomini e di ieri.	Y	soldi	512	   12,178	0.0204	187.0909	ita_news_2016_00802397
 2571	L’azienda non è di questo o di quel partito.	Y	azienda	513	   12,145	0.0204	127.3333	ita_news_2016_00533513
-2572	Uno di loro era già in causa contro l'azienda.	Y	azienda	513	   12,145	0.0204	141	ita_news_2015_00974364
+2572	Uno di loro era già in causa contro l’azienda.	Y	azienda	513	   12,145	0.0204	141	ita_news_2015_00974364
 2573	L’azienda è l’azienda, la mia vita è questa).	Y	azienda	513	   12,145	0.0204	148.1429	ita_news_2015_00535092
 2574	E cosa dovrebbe fare un’azienda (e lo stesso stato) per andare incontro al bene comune?	Y	azienda	513	   12,145	0.0204	166.4	ita_news_2015_00217451
-2575	"""""""Chi mi dice che poi a Finale l'azienda resta davvero?"""	Y	azienda	513	   12,145	0.0204	196.6364	ita_news_2015_00113418
+2575	Chi mi dice che poi a Finale l’azienda resta davvero?	Y	azienda	513	   12,145	0.0204	196.6364	ita_news_2015_00113418
 2576	Nel 2030 in giro per il mondo ci saranno 1,8 miliardi di persone.	Y	giro	514	   12,117	0.0203	133.7273	ita_news_2019_00652529
 2577	In tanti in giro per il mondo mi hanno chiesto perché non ci siamo”.	Y	giro	514	   12,117	0.0203	147.4615	ita_news_2015_00436930
 2578	Il loro lavoro ha fatto il giro del mondo, da un festival del film all’altro.	Y	giro	514	   12,117	0.0203	158	ita_news_2019_00356988
@@ -586,51 +586,51 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2585	Al voto per la prima volta in 4.350; 2252 uomini e 2098 donne.	Y	voto	515	   12,098	0.0203	159	ita_news_2019_00042247
 2586	A maggio tutto il San Paolo era con lui e contro di noi.	Y	paolo	516	   12,083	0.0203	114	ita_news_2016_00043907
 2587	Non è un titolo di 20 anni fa ma quello che è successo ieri al San Paolo.	Y	paolo	516	   12,083	0.0203	136.1333	ita_news_2015_00688119
-2588	Un tempo era stata la sede di un'agenzia del governo, a San Paolo.	Y	paolo	516	   12,083	0.0203	205.8462	ita_news_2019_00982088
+2588	Un tempo era stata la sede di un’agenzia del governo, a San Paolo.	Y	paolo	516	   12,083	0.0203	205.8462	ita_news_2019_00982088
 2589	Video Due gol in una sola partita, per di più al San Paolo contro il Napoli.	Y	paolo	516	   12,083	0.0203	206.5625	ita_news_2016_00991416
 2590	Ma è vero che non andrà più al San Paolo?	Y	paolo	516	   12,083	0.0203	249.6	ita_news_2016_00598120
 2591	Insomma questa edizione deve essere proprio come la festa dei 18 anni che non ho mai avuto.	Y	edizione	517	   12,051	0.0202	180	ita_news_2015_00435584
 2592	Giovedì al via la nuova edizione in prima serata su La7.	Y	edizione	517	   12,051	0.0202	193.5	ita_news_2019_00290551
 2593	32.a edizione di «Insieme è festa» in programma fino a domenica.	Y	edizione	517	   12,051	0.0202	193.9	ita_news_2016_00001661
 2594	Il programma dell’edizione 2015: si parte la sera di giovedì 2 luglio con il “Concerto per l’Europa”	Y	edizione	517	   12,051	0.0202	207	ita_news_2019_00379383
-2595	Già si pensa all’edizione 2017, con l'ipotesi di una il giorno prima.	Y	edizione	517	   12,051	0.0202	210.8462	ita_news_2019_00288834
+2595	Già si pensa all’edizione 2017, con l’ipotesi di una il giorno prima.	Y	edizione	517	   12,051	0.0202	210.8462	ita_news_2019_00288834
 2596	Ieri pomeriggio c’è stato un incontro al quale i due hanno preso parte.	Y	pomeriggio	518	   12,046	0.0202	148.7143	ita_news_2019_00322897
 2597	Ma per buona parte del pomeriggio non si era visto nessuno.	Y	pomeriggio	518	   12,046	0.0202	168.0909	ita_news_2016_00612198
 2598	Nel primo pomeriggio, verso le 14,30, ha fatto ritorno a casa.	Y	pomeriggio	518	   12,046	0.0202	177.2	ita_news_2019_00667912
 2599	Durante la mattina dalle 7 alle 10.30 e nel pomeriggio dalle 13.30 alle 17.30.	Y	pomeriggio	518	   12,046	0.0202	179.125	ita_news_2015_00204145
 2600	Oggi pomeriggio, sabato, occasione per tutti Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	pomeriggio	518	   12,046	0.0202	182.1034	ita_news_2019_00706410
 2601	Perché alla fine si torna lì, a quello che si può fare per gli altri.	Y	torna	519	   12,009	0.0201	137.0714	ita_news_2019_00731176
-2602	C'è chi arriva per caso e poi torna con la famiglia la domenica.	Y	torna	519	   12,009	0.0201	139.9231	ita_news_2015_00098874
-2603	C'è qualcosa che non torna, comunque, in tutto questo.	Y	torna	519	   12,009	0.0201	148.2	ita_news_2015_00101369
-2604	"""La sinistra torna in campo a Roma più forte di prima""""."""	Y	torna	519	   12,009	0.0201	159.5455	ita_news_2016_00517784
+2602	C’è chi arriva per caso e poi torna con la famiglia la domenica.	Y	torna	519	   12,009	0.0201	139.9231	ita_news_2015_00098874
+2603	C’è qualcosa che non torna, comunque, in tutto questo.	Y	torna	519	   12,009	0.0201	148.2	ita_news_2015_00101369
+2604	La sinistra torna in campo a Roma più forte di prima.	Y	torna	519	   12,009	0.0201	159.5455	ita_news_2016_00517784
 2605	Ma per un amore che torna, un amore se ne va.	Y	torna	519	   12,009	0.0201	178.3333	ita_news_2019_00617847
 2606	Poi, non si può dire: l’ha detto il Capo dello Stato, quindi si fa così punto e basta.	Y	capo	520	   11,973	0.0201	131.1111	ita_news_2016_00766517
 2607	Questo non può essere il tuo 'momento più difficile' da quando sei Capo del Governo.	Y	capo	520	   11,973	0.0201	146.1333	ita_news_2015_00814093
 2608	È quasi come il Papa, che è sia Capo di Stato, sia Capo di una chiesa.	Y	capo	520	   11,973	0.0201	152.0833	ita_news_2016_00254972
-2609	E dall'altra parte abbiamo Renzi a capo del PD.	Y	capo	520	   11,973	0.0201	159.9	ita_news_2016_00219623
+2609	E dall’altra parte abbiamo Renzi a capo del PD.	Y	capo	520	   11,973	0.0201	159.9	ita_news_2016_00219623
 2610	E' un impegno che con il Capo dello Stato non ho preso solo io».	Y	capo	520	   11,973	0.0201	161	ita_news_2016_00275206
 2611	Quella politica lì e quel mondo lì è quello che ha prodotto questa politica e questo mondo qui.	Y	prodotto	521	   11,878	0.0199	161.5714	ita_news_2019_00794677
 2612	Il problema e' che gli italiani non hanno fiducia nel loro prodotto.	Y	prodotto	521	   11,878	0.0199	169.5833	ita_news_2016_00384045
 2613	A fare la differenza non è più solo il prodotto ma soprattutto il servizio.	Y	prodotto	521	   11,878	0.0199	172.2308	ita_news_2019_00014951
-2614	Questa è l'Italia globale, con la forza del prodotto italiano che va in tutto il mondo».	Y	prodotto	521	   11,878	0.0199	213.7059	ita_news_2015_00806015
+2614	Questa è l’Italia globale, con la forza del prodotto italiano che va in tutto il mondo».	Y	prodotto	521	   11,878	0.0199	213.7059	ita_news_2015_00806015
 2615	La ricerca per il tag ha prodotto 66 risultati Serie A, Roma-Inter non ci stanno.	Y	prodotto	521	   11,878	0.0199	224.8667	ita_news_2015_00510431
 2616	Ma intanto il 2 settembre un primo passo è stato fatto.	Y	intanto	522	   11,848	0.0199	169.9	ita_news_2015_00604403
 2617	Poi «c’è chi dice che le cose non vanno bene, ma noi intanto ci si prova».	Y	intanto	522	   11,848	0.0199	172.1765	ita_news_2016_00763236
-2618	Ma intanto c'è un caso sul nome del futuro presidente della Commissione.	Y	intanto	522	   11,848	0.0199	173.9231	ita_news_2019_00608710
+2618	Ma intanto c’è un caso sul nome del futuro presidente della Commissione.	Y	intanto	522	   11,848	0.0199	173.9231	ita_news_2019_00608710
 2619	Intanto il presidente, non solo grazie a me, ha deciso di tornare in campo.	Y	intanto	522	   11,848	0.0199	188.2143	ita_news_2019_00439113
 2620	Intanto si è appena aperto un altro fronte che sembra essere importante.	Y	intanto	522	   11,848	0.0199	232.75	ita_news_2016_00441072
-2621	"""""""E con una prima squadra, perché questa è la scelta che ho fatto."""	Y	scelta	523	   11,813	0.0198	85.0769	ita_news_2016_00218277
+2621	E con una prima squadra, perché questa è la scelta che ho fatto.	Y	scelta	523	   11,813	0.0198	85.0769	ita_news_2016_00218277
 2622	L’ho sempre detto, per me è una scelta di vita.	Y	scelta	523	   11,813	0.0198	119.1818	ita_news_2019_00564401
 2623	E per noi il problema non è mai stata la scelta che hanno preso.	Y	scelta	523	   11,813	0.0198	132.8571	ita_news_2019_00238281
 2624	Alla fine del 2014, erano le persone che hanno dovuto fare questa scelta (contro gli 1,2 milioni del 2012).	Y	scelta	523	   11,813	0.0198	143	ita_news_2019_00026170
 2625	Alla fine del mese ci sarà la scelta del nuovo presidente.	Y	scelta	523	   11,813	0.0198	144.2	ita_news_2019_00026305
-2626	"""""""In quel senso io non sono mai stato come lui."""	Y	senso	524	   11,784	0.0198	131.5	ita_news_2015_00428765
+2626	In quel senso io non sono mai stato come lui.	Y	senso	524	   11,784	0.0198	131.5	ita_news_2015_00428765
 2627	Il senso è sempre lo stesso: dare non per avere.	Y	senso	524	   11,784	0.0198	140	ita_news_2016_00393625
 2628	Nel senso che: una terra tutta per loro? mai ma proprio mai mai mai?	Y	senso	524	   11,784	0.0198	153.3636	ita_news_2019_00668914
-2629	Poi c'è la partita, e dunque il senso del rischio.	Y	senso	524	   11,784	0.0198	166.8182	ita_news_2015_00769292
+2629	Poi c’è la partita, e dunque il senso del rischio.	Y	senso	524	   11,784	0.0198	166.8182	ita_news_2015_00769292
 2630	Che senso ha la morte, che senso ha la vita?	Y	senso	524	   11,784	0.0198	197	ita_news_2015_00110134
-2631	Non è la prima volta che l'uomo ha problemi con le forze dell'ordine.	Y	forze	525	   11,722	0.0197	127.8	ita_news_2015_00685503
-2632	"""Ma c'è stata una risposta in forze della polizia""""."""	Y	forze	525	   11,722	0.0197	165.9	ita_news_2019_00600849
+2631	Non è la prima volta che l’uomo ha problemi con le forze dell’ordine.	Y	forze	525	   11,722	0.0197	127.8	ita_news_2015_00685503
+2632	Ma c’è stata una risposta in forze della polizia.	Y	forze	525	   11,722	0.0197	165.9	ita_news_2019_00600849
 2633	I problemi ci sono in tutte le forze dell’ordine.	Y	forze	525	   11,722	0.0197	171	ita_news_2016_00454997
 2634	Ormai sono senza forze e senza la possibilità di fare altro.	Y	forze	525	   11,722	0.0197	172.8	ita_news_2016_00718194
 2635	E il piano di sicurezza delle forze dell’ordine è sempre pronto.	Y	forze	525	   11,722	0.0197	202.1667	ita_news_2019_00220795
@@ -642,40 +642,40 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2641	In Europa e in Italia, così come nel resto del mondo.	Y	resto	527	   11,697	0.0196	109	ita_news_2019_00412963
 2642	La grande crisi, dal 2008 in poi, ha fatto il resto.	Y	resto	527	   11,697	0.0196	113.5	ita_news_2019_00486304
 2643	Anche perché sul resto dei problemi, per ora, non si può fare molto altro.	Y	resto	527	   11,697	0.0196	119.9286	ita_news_2016_00051369
-2644	"""Come del resto nell'Inter di qualche anno fa c'era un solo italiano""""."""	Y	resto	527	   11,697	0.0196	139.8571	ita_news_2015_00127066
+2644	Come del resto nell’Inter di qualche anno fa c’era un solo italiano.	Y	resto	527	   11,697	0.0196	139.8571	ita_news_2015_00127066
 2645	La media del resto d’Italia è stata del 9 per cento.	Y	resto	527	   11,697	0.0196	165.9	ita_news_2016_00491442
 2646	Solo che questo in più è stato messo da parte.	Y	messo	528	   11,686	0.0196	80.6	ita_news_2016_00889378
 2647	Quale, quella che ha messo in campo nella partita dopo?	Y	messo	528	   11,686	0.0196	141.4	ita_news_2015_00793805
 2648	Ci abbiamo messo del nostro per fare le cose per bene.	Y	messo	528	   11,686	0.0196	152.6	ita_news_2016_00117648
-2649	Il Pd ha messo in servizio 4000 persone per il servizio d'ordine.	Y	messo	528	   11,686	0.0196	162.6	ita_news_2015_00374332
-2650	Però ho sempre messo tutta me stessa, e mai come quest'anno.	Y	messo	528	   11,686	0.0196	194.3333	ita_news_2016_00748393
+2649	Il Pd ha messo in servizio 4000 persone per il servizio d’ordine.	Y	messo	528	   11,686	0.0196	162.6	ita_news_2015_00374332
+2650	Però ho sempre messo tutta me stessa, e mai come quest’anno.	Y	messo	528	   11,686	0.0196	194.3333	ita_news_2016_00748393
 2651	Negli anni della crisi, il settore ha perso 700 mila posti di lavoro.	Y	settore	529	   11,652	0.0195	213.1667	ita_news_2019_00646509
 2652	Nel settore pubblico invece c’è stato un aumento della stessa voce del 50%.	Y	settore	529	   11,652	0.0195	233.6154	ita_news_2019_00669050
 2653	Qui un solo fondo vale come tutto il settore in Italia.	Y	settore	529	   11,652	0.0195	234.4545	ita_news_2016_00812451
-2654	E magari arrivare ad un accordo di settore per l'auto?	Y	settore	529	   11,652	0.0195	243.6364	ita_news_2015_00238574
+2654	E magari arrivare ad un accordo di settore per l’auto?	Y	settore	529	   11,652	0.0195	243.6364	ita_news_2015_00238574
 2655	È una realtà importante nel settore dello sviluppo del territorio.	Y	settore	529	   11,652	0.0195	246.1	ita_news_2019_00264313
 2656	Su di lui si dice un gran bene da tempo.	Y	gran	530	   11,616	0.0195	122.4	ita_news_2015_00918244
 2657	“Oggi è un gran giorno per tutti i cittadini di Firenze.	Y	gran	530	   11,616	0.0195	129.2727	ita_news_2019_00704745
 2658	O che questa non sia proprio stata una gran stagione.	Y	gran	530	   11,616	0.0195	130.9	ita_news_2016_00703108
-2659	Si perché a San Marino c'è un gran bisogno di politica!	Y	gran	530	   11,616	0.0195	164.6667	ita_news_2015_00886066
+2659	Si perché a San Marino c’è un gran bisogno di politica!	Y	gran	530	   11,616	0.0195	164.6667	ita_news_2015_00886066
 2660	Una parte della città sta con lui, così come gran parte del Pdl.	Y	gran	530	   11,616	0.0195	165.3333	ita_news_2015_00959189
-2661	E mai come in questo caso, perchè quando la morte c'è, non ci siamo più noi.	Y	perchè	531	   11,594	0.0194	111.5882	ita_news_2015_00238660
+2661	E mai come in questo caso, perchè quando la morte c’è, non ci siamo più noi.	Y	perchè	531	   11,594	0.0194	111.5882	ita_news_2015_00238660
 2662	Perchè mai gli italiani non se ne sono stati a casa loro?	Y	perchè	531	   11,594	0.0194	124.5833	ita_news_2016_00733924
 2663	Perchè il calcio è anche e soprattutto quello che resta dopo il calcio.	Y	perchè	531	   11,594	0.0194	156.7273	ita_news_2019_00732231
 2664	Non ha fatto niente invece, quindi gli va chiesto perchè e per chi?	Y	perchè	531	   11,594	0.0194	168.9231	ita_news_2016_00685151
 2665	Perchè la scuola ti porta avanti, lo sport ti porta avanti e il lavoro ti porta avanti.	Y	perchè	531	   11,594	0.0194	232.4545	ita_news_2015_00739006
 2666	È il suo secondo anno in un grande club ed è ancora molto giovane.	Y	club	532	   11,577	0.0194	120.9231	ita_news_2016_00229786
 2667	E sarebbe la prima volta nella storia di un club di calcio del nostro Paese.	Y	club	532	   11,577	0.0194	135.6429	ita_news_2015_00260592
-2668	"""""""Io lavoro a Roma come ho fatto prima negli altri club, come se fosse il mio ultimo."""	Y	club	532	   11,577	0.0194	153.75	ita_news_2015_00448550
+2668	Io lavoro a Roma come ho fatto prima negli altri club, come se fosse il mio ultimo.	Y	club	532	   11,577	0.0194	153.75	ita_news_2015_00448550
 2669	Allo stesso tempo può essere stato l’inizio di un nuovo rapporto tra i due club.	Y	club	532	   11,577	0.0194	157.375	ita_news_2016_00035944
-2670	"""E secondo lui non c'è """"nessun accordo fatto fra i club."""	Y	club	532	   11,577	0.0194	187.25	ita_news_2016_00262715
+2670	E secondo lui non c’è nessun accordo fatto fra i club.	Y	club	532	   11,577	0.0194	187.25	ita_news_2016_00262715
 2671	Abbiamo un assessore alla sicurezza: cosa fa per la zona?	Y	assessore	533	   11,559	0.0194	165.3	ita_news_2016_00006453
-2672	Forse forse ha fatto bene l'assessore Ha fatto bene.	Y	assessore	533	   11,559	0.0194	175.3333	ita_news_2016_00290015
-2673	"""Difficile, ma sarà con noi al 100%"""" sarà un assessore, ma sarà con me al 100 per cento""""."""	Y	assessore	533	   11,559	0.0194	177.5455	ita_news_2016_00182836
-2674	Per l'ex assessore comunale Pd di Milano, era tutto vero.	Y	assessore	533	   11,559	0.0194	201.3636	ita_news_2016_00745346
+2672	Forse forse ha fatto bene l’assessore Ha fatto bene.	Y	assessore	533	   11,559	0.0194	175.3333	ita_news_2016_00290015
+2673	Difficile, ma sarà con noi al 100% sarà un assessore, ma sarà con me al 100 per cento.	Y	assessore	533	   11,559	0.0194	177.5455	ita_news_2016_00182836
+2674	Per l’ex assessore comunale Pd di Milano, era tutto vero.	Y	assessore	533	   11,559	0.0194	201.3636	ita_news_2016_00745346
 2675	S’è visto il sindaco, s’è visto qualche assessore.	Y	assessore	533	   11,559	0.0194	203.2857	ita_news_2019_00861729
-2676	Al termine c'è stato l'incontro con la stampa.	Y	termine	534	   11,545	0.0194	152.8	ita_news_2015_00038595
-2677	"""""""L'Italia è da sempre la terra in cui il domani arriva prima"""", ha detto al termine della visita."""	Y	termine	534	   11,545	0.0194	163.6842	ita_news_2015_00565878
+2676	Al termine c’è stato l’incontro con la stampa.	Y	termine	534	   11,545	0.0194	152.8	ita_news_2015_00038595
+2677	L’Italia è da sempre la terra in cui il domani arriva prima, ha detto al termine della visita.	Y	termine	534	   11,545	0.0194	163.6842	ita_news_2015_00565878
 2678	Non fu così e anche la Svizzera al termine della Grande guerra non sarà più quella di prima.	Y	termine	534	   11,545	0.0194	185.1176	ita_news_2015_00688556
 2679	E credo che non ci saranno problemi fino al termine della stagione.	Y	termine	534	   11,545	0.0194	190.6667	ita_news_2016_00219304
 2680	Il termine dei lavori è in programma entro la fine di Marzo del prossimo anno.	Y	termine	534	   11,545	0.0194	192.3333	ita_news_2019_00394847
@@ -691,82 +691,82 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2690	Due film diversi in tutto, ma che insieme fanno del 1960 un anno fondamentale per il cinema.	Y	diversi	536	   11,501	0.0193	244.75	ita_news_2015_00201423
 2691	Lei non ha idea di quanto tutto questo sia importante per tutti noi’’.	Y	idea	537	   11,499	0.0193	129.6154	ita_news_2019_00549576
 2692	Ho il rispetto del lavoro di tutti, ma io resto della mia idea”.	Y	idea	537	   11,499	0.0193	157.0769	ita_news_2019_00311226
-2693	Nessuno può quindi dire che quella è un'idea come un'altra.	Y	idea	537	   11,499	0.0193	161.5455	ita_news_2015_00672872
-2694	"""Invece no, siamo noi a avere qualche idea in più""""."""	Y	idea	537	   11,499	0.0193	163.1	ita_news_2015_00445806
-2695	Fuori da ogni senso della realtà, come non avere un'idea di quello di cui si parla.	Y	idea	537	   11,499	0.0193	179	ita_news_2015_00294083
+2693	Nessuno può quindi dire che quella è un’idea come un’altra.	Y	idea	537	   11,499	0.0193	161.5455	ita_news_2015_00672872
+2694	Invece no, siamo noi a avere qualche idea in più.	Y	idea	537	   11,499	0.0193	163.1	ita_news_2015_00445806
+2695	Fuori da ogni senso della realtà, come non avere un’idea di quello di cui si parla.	Y	idea	537	   11,499	0.0193	179	ita_news_2015_00294083
 2696	Il voto sull’acqua non è stato solo un voto sull’acqua.	Y	acqua	538	   11,492	0.0193	153.8889	ita_news_2019_00400922
 2697	L’impegno per l’acqua è un impegno per la vita.	Y	acqua	538	   11,492	0.0193	170.625	ita_news_2016_00558841
 2698	L’acqua pubblica è un bene a cui tutti i cittadini hanno diritto di avere.	Y	acqua	538	   11,492	0.0193	177.4667	ita_news_2019_00474854
-2699	Lui dice che in Germania non si può più vivere, che l'Italia fa acqua da tutte le parti.	Y	acqua	538	   11,492	0.0193	179.7778	ita_news_2019_00591336
-2700	"""Non ci e' stata data acqua per tutto il giorno""""."""	Y	acqua	538	   11,492	0.0193	180.1	ita_news_2015_00681660
-2701	"""""""Di cosa ha più bisogno l'Italia in questo momento?"""	Y	bisogno	539	   11,486	0.0193	101.6	ita_news_2016_00181350
-2702	Questo è il caso migliore, ma c'è bisogno di tempo.	Y	bisogno	539	   11,486	0.0193	118.1	ita_news_2015_00811990
-2703	L'ho fatto per bisogno»Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	bisogno	539	   11,486	0.0193	135.125	ita_news_2019_00564284
+2699	Lui dice che in Germania non si può più vivere, che l’Italia fa acqua da tutte le parti.	Y	acqua	538	   11,492	0.0193	179.7778	ita_news_2019_00591336
+2700	Non ci e' stata data acqua per tutto il giorno.	Y	acqua	538	   11,492	0.0193	180.1	ita_news_2015_00681660
+2701	Di cosa ha più bisogno l’Italia in questo momento?	Y	bisogno	539	   11,486	0.0193	101.6	ita_news_2016_00181350
+2702	Questo è il caso migliore, ma c’è bisogno di tempo.	Y	bisogno	539	   11,486	0.0193	118.1	ita_news_2015_00811990
+2703	L’ho fatto per bisogno»Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	bisogno	539	   11,486	0.0193	135.125	ita_news_2019_00564284
 2704	L’Europa è il nostro futuro, abbiamo bisogno dell’Europa.	Y	bisogno	539	   11,486	0.0193	158.5556	ita_news_2019_00561382
 2705	Di cosa ha davvero bisogno la gente del Centro Italia?	Y	bisogno	539	   11,486	0.0193	194.4	ita_news_2019_00173633
 2706	E così è stato per il consiglio comunale, per il Pd e per il governo.	Y	comunale	540	   11,457	0.0192	129.5	ita_news_2015_00217828
 2707	E proprio come lui in Consiglio comunale non ci sarebbe mai.	Y	comunale	540	   11,457	0.0192	131.2727	ita_news_2019_00242903
 2708	Più che mai c’è bisogno di un Consiglio Comunale per la sicurezza».	Y	comunale	540	   11,457	0.0192	147.5385	ita_news_2019_00759264
 2709	È la prima donna presidente della società comunale della casa da gioco.	Y	comunale	540	   11,457	0.0192	168.5455	ita_news_2019_00226507
-2710	Per l'ex assessore comunale Pd di Milano, era tutto vero.	Y	comunale	540	   11,457	0.0192	201.3636	ita_news_2016_00745346
+2710	Per l’ex assessore comunale Pd di Milano, era tutto vero.	Y	comunale	540	   11,457	0.0192	201.3636	ita_news_2016_00745346
 2711	Si è visto che qualcuno non c’era con la testa.	Y	qualcuno	541	   11,422	0.0192	120.4545	ita_news_2016_00876932
-2712	"""Se c'è qualcuno che ha perso tempo in questi mesi, sono stati loro""""."""	Y	qualcuno	541	   11,422	0.0192	124.8571	ita_news_2016_00843532
-2713	"""Questa non è la vittoria contro qualcuno ma per Roma""""."""	Y	qualcuno	541	   11,422	0.0192	126.8	ita_news_2016_00800250
+2712	Se c’è qualcuno che ha perso tempo in questi mesi, sono stati loro.	Y	qualcuno	541	   11,422	0.0192	124.8571	ita_news_2016_00843532
+2713	Questa non è la vittoria contro qualcuno ma per Roma.	Y	qualcuno	541	   11,422	0.0192	126.8	ita_news_2016_00800250
 2714	Ormai e' tanto che non voto per qualcuno ma CONTRO qualcuno.	Y	qualcuno	541	   11,422	0.0192	179.5	ita_news_2016_00717908
 2715	E poi qualcuno che dice “sì, ho 71 anni e allora?	Y	qualcuno	541	   11,422	0.0192	199.6667	ita_news_2019_00240364
 2716	La vita è quella sfida, ma anche altro, e di più.	Y	sfida	542	   11,390	0.0191	92.3636	ita_news_2015_00533296
-2717	"""La loro è una sfida a noi e allo Stato""""."""	Y	sfida	542	   11,390	0.0191	109.6	ita_news_2019_00490156
-2718	"""Per me sarà una grande sfida, perché il campionato italiano è molto difficile""""."""	Y	sfida	542	   11,390	0.0191	188.8462	ita_news_2016_00746916
+2717	La loro è una sfida a noi e allo Stato.	Y	sfida	542	   11,390	0.0191	109.6	ita_news_2019_00490156
+2718	Per me sarà una grande sfida, perché il campionato italiano è molto difficile.	Y	sfida	542	   11,390	0.0191	188.8462	ita_news_2016_00746916
 2719	La sua vita e la sua morte, una sfida per tutta la chiesa.	Y	sfida	542	   11,390	0.0191	195	ita_news_2019_00530227
 2720	La sfida a tre (sulla terra) può avere adesso inizio.	Y	sfida	542	   11,390	0.0191	232.7	ita_news_2015_00519619
 2721	Non è un problema solo di Torino, ma anche di altre città.	Y	torino	543	   11,355	0.019	122.8182	ita_news_2016_00684446
-2722	"""Quanto al futuro: """"Il Torino è per me una grande squadra."""	Y	torino	543	   11,355	0.019	145.8182	ita_news_2015_00798768
+2722	Quanto al futuro: Il Torino è per me una grande squadra.	Y	torino	543	   11,355	0.019	145.8182	ita_news_2015_00798768
 2723	E per quanto riguarda il Torino, che si può dire?	Y	torino	543	   11,355	0.019	162.3	ita_news_2016_00248101
 2724	Torino non lo sarà più, e alla fine è una sconfitta per molti.	Y	torino	543	   11,355	0.019	176.1538	ita_news_2019_00926978
 2725	Quella di ieri era la sua seconda partita da titolare, il gol è stato il secondo in campionato dopo quello del 5 ottobre 2014 nel 2-1 al Torino.	Y	torino	543	   11,355	0.019	185.2083	ita_news_2015_00802239
-2726	Il 3,9% in meno dell'Italia, pari a oltre 300 euro l'anno.	Y	pari	544	   11,349	0.019	103.4545	ita_news_2015_00338586
+2726	Il 3,9% in meno dell’Italia, pari a oltre 300 euro l’anno.	Y	pari	544	   11,349	0.019	103.4545	ita_news_2015_00338586
 2727	Ma il «rapporto tra i due non era alla pari..	Y	pari	544	   11,349	0.019	136.8	ita_news_2016_00601646
 2728	Per il 2014 in Italia è previsto un mercato pari a 239 milioni di euro.	Y	pari	544	   11,349	0.019	154.3077	ita_news_2016_00740079
-2729	Ora il Napoli è secondo, pari a 35 punti con la Fiorentina, a -1 dall'Inter che però ha una partita in meno.	Y	pari	544	   11,349	0.019	155.65	ita_news_2016_00714253
+2729	Ora il Napoli è secondo, pari a 35 punti con la Fiorentina, a -1 dall’Inter che però ha una partita in meno.	Y	pari	544	   11,349	0.019	155.65	ita_news_2016_00714253
 2730	Nel 2014 sono 8 i morti, un numero pari a quello del 1945.	Y	pari	544	   11,349	0.019	183.7	ita_news_2019_00651838
 2731	Ma un Paese che non ha rispetto per la propria storia quale rispetto può avere di se stesso?	Y	propria	544	   11,349	0.019	113.7059	ita_news_2015_00626451
-2732	Anche se il calcio una vera e propria fine non ce l'ha mai.	Y	propria	544	   11,349	0.019	196	ita_news_2016_00052831
+2732	Anche se il calcio una vera e propria fine non ce l’ha mai.	Y	propria	544	   11,349	0.019	196	ita_news_2016_00052831
 2733	Ovvero, c’era già tutto quanto fosse possibile per far bene la propria attività in sicurezza e non è stato fatto».	Y	propria	544	   11,349	0.019	196.8571	ita_news_2019_00719647
 2734	Ma troppo spesso si parla della propria libertà e non di quella degli altri.	Y	propria	544	   11,349	0.019	212.2143	ita_news_2019_00625171
 2735	Storia di uno stadio e dell’amore di una città per la propria squadra.	Y	propria	544	   11,349	0.019	220.6923	ita_news_2015_00915850
 2736	E nel secondo tempo la Lazio ha fatto tutto meno bene di prima.	Y	lazio	545	   11,319	0.019	102.9231	ita_news_2015_00241092
 2737	Nella Lazio è più se stesso che in ogni altra situazione.	Y	lazio	545	   11,319	0.019	134.7273	ita_news_2019_00658366
-2738	Su di lui c'è la Lazio, ma ci sono anche altre squadre.	Y	lazio	545	   11,319	0.019	151.6154	ita_news_2016_00912737
+2738	Su di lui c’è la Lazio, ma ci sono anche altre squadre.	Y	lazio	545	   11,319	0.019	151.6154	ita_news_2016_00912737
 2739	Anche su questo abbiamo chiesto un intervento da parte della politica, e alla Regione Lazio.	Y	lazio	545	   11,319	0.019	154.4	ita_news_2019_00052771
 2740	Oggi non c’è in Italia una squadra più forte della Juve, così come non c’è una squadra più bella della Lazio.	Y	lazio	545	   11,319	0.019	166.9375	ita_news_2016_00706136
 2741	E, prima ancora, il modo in cui la squadra lo ha sempre seguito.	Y	seguito	545	   11,319	0.019	94.5385	ita_news_2016_00252434
-2742	Solo l'ultimo di una serie che ha seguito l'incontro tra i due a gennaio.	Y	seguito	545	   11,319	0.019	123.8	ita_news_2015_00895842
-2743	"""E poi a tutti i tifosi che ci hanno seguito da casa""""."""	Y	seguito	545	   11,319	0.019	133.8333	ita_news_2016_00249022
+2742	Solo l’ultimo di una serie che ha seguito l’incontro tra i due a gennaio.	Y	seguito	545	   11,319	0.019	123.8	ita_news_2015_00895842
+2743	E poi a tutti i tifosi che ci hanno seguito da casa.	Y	seguito	545	   11,319	0.019	133.8333	ita_news_2016_00249022
 2744	«Di certo è il primo che la nostra associazione ha seguito.	Y	seguito	545	   11,319	0.019	160.5455	ita_news_2015_00179488
 2745	In seguito è stato annunciato che non si sarebbe più fatto.	Y	seguito	545	   11,319	0.019	165.3636	ita_news_2016_00435124
 2746	E pure la notte, almeno una alla settimana se non di più.	Y	pure	546	   11,305	0.019	140.0833	ita_news_2016_00253209
 2747	C´è pure chi dice che la Fiorentina può anche fare a meno di lui.	Y	pure	546	   11,305	0.019	144.6667	ita_news_2015_00101322
-2748	Su cui c'è comunque un interesse pure della Roma..	Y	pure	546	   11,305	0.019	206.4	ita_news_2016_00912660
+2748	Su cui c’è comunque un interesse pure della Roma..	Y	pure	546	   11,305	0.019	206.4	ita_news_2016_00912660
 2749	Gli altri pure per la verità ma nel suo caso è più grave!	Y	pure	546	   11,305	0.019	217.9231	ita_news_2016_00305470
-2750	Il suo 4-2-3-1 mette sotto pure l'Inter, che dire di più?	Y	pure	546	   11,305	0.019	218.1818	ita_news_2019_00391728
+2750	Il suo 4-2-3-1 mette sotto pure l’Inter, che dire di più?	Y	pure	546	   11,305	0.019	218.1818	ita_news_2019_00391728
 2751	E' stato un uomo del suo tempo, nel bene e nel male..	Y	male	547	   11,251	0.0189	115	ita_news_2015_00268511
 2752	E comunque, nel bene e nel male, tutto quello che ho fatto lo ho fatto da solo, senza nessuno nella testa».	Y	male	547	   11,251	0.0189	137.0588	ita_news_2019_00209686
 2753	Poi sì, ha fatto male, ma anche questo è il calcio».	Y	male	547	   11,251	0.0189	147	ita_news_2016_00767569
 2754	Perché, nel bene o nel male, il leader è sempre lui.	Y	male	547	   11,251	0.0189	159.6	ita_news_2015_00739418
-2755	"""Nessuno di noi due però ha fatto niente di male""""."""	Y	male	547	   11,251	0.0189	192.1111	ita_news_2015_00672361
-2756	Il video, in meno di un'ora, è stato visto più di 700mila volte.	Y	video	548	   11,213	0.0188	126.6154	ita_news_2016_00404409
+2755	Nessuno di noi due però ha fatto niente di male.	Y	male	547	   11,251	0.0189	192.1111	ita_news_2015_00672361
+2756	Il video, in meno di un’ora, è stato visto più di 700mila volte.	Y	video	548	   11,213	0.0188	126.6154	ita_news_2016_00404409
 2757	Su il suo video è stato visto più di 10 milioni di volte.	Y	video	548	   11,213	0.0188	131.2727	ita_news_2016_00913204
 2758	Una giornata di lavoro è nuova serie di video di sui lavori in giro per il mondo.	Y	video	548	   11,213	0.0188	178.3333	ita_news_2016_00956157
 2759	Il video e le foto hanno fatto il giro del mondo.	Y	video	548	   11,213	0.0188	181.4	ita_news_2016_00404358
 2760	Intervento video di Papa Francesco Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	video	548	   11,213	0.0188	222.2	ita_news_2019_00441687
-2761	"""Ma non lo si può fare in periodo di crisi""""."""	Y	periodo	549	   11,204	0.0188	114.3	ita_news_2019_00615573
-2762	"""Il che, in un periodo di crisi"""", non è il massimo."""	Y	periodo	549	   11,204	0.0188	136.4	ita_news_2015_00345525
+2761	Ma non lo si può fare in periodo di crisi.	Y	periodo	549	   11,204	0.0188	114.3	ita_news_2019_00615573
+2762	Il che, in un periodo di crisi, non è il massimo.	Y	periodo	549	   11,204	0.0188	136.4	ita_news_2015_00345525
 2763	Abbiamo bisogno di tutti in questo periodo e anche di loro.	Y	periodo	549	   11,204	0.0188	140.3	ita_news_2015_00002898
 2764	In questo periodo la città ha avuto una forte crescita.	Y	periodo	549	   11,204	0.0188	194.4	ita_news_2019_00432046
 2765	Quest’anno il periodo dovrebbe essere l’inizio di settembre.	Y	periodo	549	   11,204	0.0188	208.3	ita_news_2019_00799495
-2766	"""Tre anni fa non c’era niente e oggi c’è una squadra che fa parlare""""."""	Y	parlare	550	   11,191	0.0188	117.4286	ita_news_2015_00940984
+2766	Tre anni fa non c’era niente e oggi c’è una squadra che fa parlare.	Y	parlare	550	   11,191	0.0188	117.4286	ita_news_2015_00940984
 2767	Che senso ha parlare di tutto questo, a 62 anni dalla fine della guerra?	Y	parlare	550	   11,191	0.0188	143.8462	ita_news_2016_00112276
-2768	"""""""Non vuole parlare con me perché dice che non ha tempo."""	Y	parlare	550	   11,191	0.0188	155.2	ita_news_2019_00699068
+2768	Non vuole parlare con me perché dice che non ha tempo.	Y	parlare	550	   11,191	0.0188	155.2	ita_news_2019_00699068
 2769	Quelli del Grande Nord sono contro la Lega e non fanno altro che parlare di Lega”.	Y	parlare	550	   11,191	0.0188	171.8667	ita_news_2019_00795263
 2770	Ma perché in tv nessuno va a dire queste cose, a parlare così?	Y	parlare	550	   11,191	0.0188	207.8333	ita_news_2016_00612271
 2771	Solo di due donne l’associazione non ha più notizie.	Y	associazione	551	   11,164	0.0187	145.7	ita_news_2015_00895111
@@ -774,11 +774,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2773	L' associazione ha chiesto un incontro al presidente della Repubblica.	Y	associazione	551	   11,164	0.0187	187.8	ita_news_2015_00524193
 2774	Arriva un contributo per l’associazione “Insieme per il domani” Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	associazione	551	   11,164	0.0187	211.1562	ita_news_2019_00066992
 2775	In provincia la prima è l’associazione “Un cuore, un mondo” di Massa con 72mila euro (al 374° posto).	Y	associazione	551	   11,164	0.0187	214.1765	ita_news_2019_00428000
-2776	Di fronte a questo problema che cosa fa l'amministrazione?	Y	amministrazione	552	   11,143	0.0187	150.4	ita_news_2015_00182627
-2777	"""Non cittadini di domani, ma cittadini oggi, al centro delle politiche dell'amministrazione""""."""	Y	amministrazione	552	   11,143	0.0187	182.25	ita_news_2019_00681243
-2778	Una gara di grande livello che deve molto anche all'Amministrazione comunale.	Y	amministrazione	552	   11,143	0.0187	191.1667	ita_news_2019_00952201
+2776	Di fronte a questo problema che cosa fa l’amministrazione?	Y	amministrazione	552	   11,143	0.0187	150.4	ita_news_2015_00182627
+2777	Non cittadini di domani, ma cittadini oggi, al centro delle politiche dell’amministrazione.	Y	amministrazione	552	   11,143	0.0187	182.25	ita_news_2019_00681243
+2778	Una gara di grande livello che deve molto anche all’Amministrazione comunale.	Y	amministrazione	552	   11,143	0.0187	191.1667	ita_news_2019_00952201
 2779	Per Lavoro e Pubblica amministrazione resta invece ancora molto da fare.	Y	amministrazione	552	   11,143	0.0187	195.1818	ita_news_2015_00750111
-2780	Il danno per l'amministrazione è di cento milioni l'anno.	Y	amministrazione	552	   11,143	0.0187	227.5	ita_news_2016_00352709
+2780	Il danno per l’amministrazione è di cento milioni l’anno.	Y	amministrazione	552	   11,143	0.0187	227.5	ita_news_2016_00352709
 2781	Ma Napoli è un teatro del mondo, più di ogni altra città.	Y	teatro	553	   11,138	0.0187	126.6667	ita_news_2019_00613036
 2782	Ma quanto è forte l’amore dei ragazzi di oggi per il teatro?	Y	teatro	553	   11,138	0.0187	178.1538	ita_news_2016_00614146
 2783	Questa volta si parla del nuovo teatro dell’Opera Ma non solo.	Y	teatro	553	   11,138	0.0187	180.9167	ita_news_2015_00808988
@@ -789,10 +789,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2788	«Dalle 17,30 siamo in attesa di qualcuno ma a parte i Carabinieri non si è visto nessuno».	Y	attesa	554	   11,131	0.0187	157.625	ita_news_2015_00164538
 2789	Questo ha chiesto alla società, in attesa di una risposta dopo la fine della stagione.	Y	attesa	554	   11,131	0.0187	170.6667	ita_news_2015_00813143
 2790	Per l’azienda siamo in attesa, invece, di quelli della Regione.	Y	attesa	554	   11,131	0.0187	174.1818	ita_news_2019_00744330
-2791	"""L'importante per noi sarà partire bene, cosa che negli ultimi anni non abbiamo mai fatto""""."""	Y	partire	555	   11,065	0.0186	142.0625	ita_news_2015_00559612
+2791	L’importante per noi sarà partire bene, cosa che negli ultimi anni non abbiamo mai fatto.	Y	partire	555	   11,065	0.0186	142.0625	ita_news_2015_00559612
 2792	Non si dovrebbe forse partire da questo, prima di tutto?	Y	partire	555	   11,065	0.0186	145.5	ita_news_2016_00693277
 2793	Per loro il 2019 è un anno particolare, l’, già a partire dal tema d’italiano.	Y	partire	555	   11,065	0.0186	147.4	ita_news_2019_00745450
-2794	"""Su questo, e su molto altro, siamo già al lavoro per una nuova stagione di sport e partecipazione per la nostra città a partire dal nuovo anno""""."""	Y	partire	555	   11,065	0.0186	158.5417	ita_news_2015_00925016
+2794	Su questo, e su molto altro, siamo già al lavoro per una nuova stagione di sport e partecipazione per la nostra città a partire dal nuovo anno.	Y	partire	555	   11,065	0.0186	158.5417	ita_news_2015_00925016
 2795	Ma per il Governo non è possibile far partire soltanto una parte del programma.	Y	partire	555	   11,065	0.0186	168.0714	ita_news_2016_00612543
 2796	Il rispetto per le elezioni degli altri Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	elezioni	556	   11,041	0.0185	131.6111	ita_news_2019_00384906
 2797	Il dato nazionale infatti non è tutto, quando si parla di elezioni Usa.	Y	elezioni	556	   11,041	0.0185	170.0769	ita_news_2015_00351136
@@ -803,36 +803,36 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2802	A Milano ha fatto bene, su di lui conto molto.	Y	conto	557	   11,032	0.0185	133.3	ita_news_2016_00045346
 2803	Ma il conto da quasi 5 milioni è un’altra storia.	Y	conto	557	   11,032	0.0185	142.9	ita_news_2016_00600717
 2804	«Un intervento era stato fatto nel 1982, ma di poco conto.	Y	conto	557	   11,032	0.0185	143.2	ita_news_2015_00971478
-2805	Ma il conto delle preferenze non ha seguito sempre quest'ordine.	Y	conto	557	   11,032	0.0185	207.5455	ita_news_2015_00602271
+2805	Ma il conto delle preferenze non ha seguito sempre quest’ordine.	Y	conto	557	   11,032	0.0185	207.5455	ita_news_2015_00602271
 2806	Come a dire: io non c’entro niente, hanno fatto tutto loro.	Y	entro	558	   11,026	0.0185	146.3333	ita_news_2016_00128517
 2807	Il termine dei lavori è in programma entro la fine di Marzo del prossimo anno.	Y	entro	558	   11,026	0.0185	192.3333	ita_news_2019_00394847
 2808	Io non c’entro nulla con la persona che dice lei.	Y	entro	558	   11,026	0.0185	203.5455	ita_news_2016_00450817
 2809	Entro la fine di luglio, al massimo i primi giorni di agosto.	Y	entro	558	   11,026	0.0185	213.4545	ita_news_2019_00236132
-2810	"""E allora basta con la cultura del """"io non c'entro""""."""	Y	entro	558	   11,026	0.0185	213.5455	ita_news_2016_00207509
-2811	"""Altri hanno dato poco, ma perché era quello che avevano""""."""	Y	avevano	559	   10,983	0.0184	141.2	ita_news_2015_00040197
+2810	E allora basta con la cultura del io non c’entro.	Y	entro	558	   11,026	0.0185	213.5455	ita_news_2016_00207509
+2811	Altri hanno dato poco, ma perché era quello che avevano.	Y	avevano	559	   10,983	0.0184	141.2	ita_news_2015_00040197
 2812	I ragazzi, perché mi hanno dato tutto quello che avevano.	Y	avevano	559	   10,983	0.0184	166.2	ita_news_2016_00456121
 2813	Dal primo maggio non si avevano più notizie di lei.	Y	avevano	559	   10,983	0.0184	172.4	ita_news_2016_00166901
-2814	Ho fatto di tutto per avere informazioni, sono stato a Palermo perché mi avevano detto che c'erano delle notizie su di lui, ma non era vero.	Y	avevano	559	   10,983	0.0184	177.8077	ita_news_2016_00323681
-2815	E questi l'avevano e non ce l'hanno più.	Y	avevano	559	   10,983	0.0184	180	ita_news_2015_00254801
+2814	Ho fatto di tutto per avere informazioni, sono stato a Palermo perché mi avevano detto che c’erano delle notizie su di lui, ma non era vero.	Y	avevano	559	   10,983	0.0184	177.8077	ita_news_2016_00323681
+2815	E questi l’avevano e non ce l’hanno più.	Y	avevano	559	   10,983	0.0184	180	ita_news_2015_00254801
 2816	Quel “La musica, come la vita, si può fare solo in un modo: insieme” e poi “La musica siamo noi.	Y	musica	560	   10,982	0.0184	118.8235	ita_news_2016_00795082
 2817	Ma anche per vedere cosa c’era nella vita oltre la musica.	Y	musica	560	   10,982	0.0184	139.1667	ita_news_2019_00599499
 2818	Più che la politica li ha fatti la musica»Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	musica	560	   10,982	0.0184	165.3684	ita_news_2019_00759252
 2819	Sono aperto a quasi tutta la musica che c’è».	Y	musica	560	   10,982	0.0184	180.2	ita_news_2019_00888493
-2820	Anche se il tempo non è stato dei migliori, sono sicuro che in finale sarà un'altra musica.	Y	musica	560	   10,982	0.0184	181.0556	ita_news_2015_00051445
-2821	L'Europa e l'Italia che ruolo hanno al mondo nel 2012?	Y	ruolo	561	   10,979	0.0184	106.8	ita_news_2019_00561394
+2820	Anche se il tempo non è stato dei migliori, sono sicuro che in finale sarà un’altra musica.	Y	musica	560	   10,982	0.0184	181.0556	ita_news_2015_00051445
+2821	L’Europa e l’Italia che ruolo hanno al mondo nel 2012?	Y	ruolo	561	   10,979	0.0184	106.8	ita_news_2019_00561394
 2822	Un tutti contro tutti che al centro ha, in realtà, il ruolo di Berlusconi.	Y	ruolo	561	   10,979	0.0184	130.3077	ita_news_2015_00980670
 2823	Non è un problema di ruolo rispetto alla politica ma di ruolo rispetto al futuro di Milano.	Y	ruolo	561	   10,979	0.0184	145.2308	ita_news_2016_00684433
-2824	"""""""E' un ruolo che ho fatto anche altre volte - dice."""	Y	ruolo	561	   10,979	0.0184	152.9	ita_news_2016_00276589
+2824	E' un ruolo che ho fatto anche altre volte - dice.	Y	ruolo	561	   10,979	0.0184	152.9	ita_news_2016_00276589
 2825	Certo la società deve avere un ruolo importante in questo momento.	Y	ruolo	561	   10,979	0.0184	180.8182	ita_news_2016_00106368
 2826	Il Napoli vince in Germania per la prima volta nella sua storia europea e lo fa da grande squadra.	Y	europea	562	   10,963	0.0184	178.5789	ita_news_2015_00369697
 2827	Il dato, per la nostra situazione è nella media europea, bene.	Y	europea	562	   10,963	0.0184	183	ita_news_2019_00343768
 2828	E questo lo si può fare soltanto su base europea».	Y	europea	562	   10,963	0.0184	203	ita_news_2019_00246591
 2829	Potrebbe essere la linea di questo governo a cambiare la storia europea?	Y	europea	562	   10,963	0.0184	208.0909	ita_news_2019_00770195
-2830	"""Ed è anche """"la prima volta che papa Francesco visita una grande città europea""""."""	Y	europea	562	   10,963	0.0184	211.1429	ita_news_2016_00220289
+2830	Ed è anche la prima volta che papa Francesco visita una grande città europea.	Y	europea	562	   10,963	0.0184	211.1429	ita_news_2016_00220289
 2831	Si parla di un anno per fatti tra il 20 e il 23 giugno 2014.	Y	fatti	563	   10,938	0.0183	138.5455	ita_news_2019_00875219
-2832	E' stata fatta l'Italia a suo tempo, ma non sono mai stati fatti gli italiani.	Y	fatti	563	   10,938	0.0183	142.3125	ita_news_2015_00266160
+2832	E' stata fatta l’Italia a suo tempo, ma non sono mai stati fatti gli italiani.	Y	fatti	563	   10,938	0.0183	142.3125	ita_news_2015_00266160
 2833	Noi italiani siamo fatti così, proprio come lui (per lo meno la maggioranza di noi, quella che ci classifica nel mondo).	Y	fatti	563	   10,938	0.0183	163.35	ita_news_2015_00676741
-2834	La storia è una lunga serie di fatti che prima non c'erano stati.	Y	fatti	563	   10,938	0.0183	165.3571	ita_news_2015_00525380
+2834	La storia è una lunga serie di fatti che prima non c’erano stati.	Y	fatti	563	   10,938	0.0183	165.3571	ita_news_2015_00525380
 2835	Più che la politica li ha fatti la musica»Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	fatti	563	   10,938	0.0183	165.3684	ita_news_2019_00759252
 2836	«Poi è in programma un incontro con la società dopo la partita di Bergamo.	Y	bergamo	564	   10,930	0.0183	137.3846	ita_news_2015_00770438
 2837	I primi ad arrivare sul posto sono stati gli uomini del 118 di Bergamo.	Y	bergamo	564	   10,930	0.0183	190.5385	ita_news_2019_00452942
@@ -840,21 +840,21 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2839	La 10.000 «Città di Bergamo»: sabato sera il centro sarà chiuso - Sport Bergamo I cookie ci aiutano ad offrirti un servizio migliore.	Y	bergamo	564	   10,930	0.0183	209.5	ita_news_2015_00464312
 2840	Il servizio di Bergamo Tv (1) - Video I cookie ci aiutano ad offrirti un servizio migliore.	Y	bergamo	564	   10,930	0.0183	214.3571	ita_news_2015_00391948
 2841	Questo per dire che non è questione di parte politica.	Y	questione	565	   10,925	0.0183	111.6	ita_news_2015_00814424
-2842	La questione e' proprio questa: quanto tempo ha l'Europa?	Y	questione	565	   10,925	0.0183	122.4	ita_news_2015_00504269
+2842	La questione e' proprio questa: quanto tempo ha l’Europa?	Y	questione	565	   10,925	0.0183	122.4	ita_news_2015_00504269
 2843	Per loro era una questione di vita o di morte».	Y	questione	565	   10,925	0.0183	155.4444	ita_news_2019_00745433
 2844	E’ una questione di vita e di morte per milioni di persone.	Y	questione	565	   10,925	0.0183	166.3333	ita_news_2016_00273653
-2845	"""E il voto """"sarà questione al massimo di qualche settimana""""."""	Y	questione	565	   10,925	0.0183	216.8	ita_news_2015_00229466
+2845	E il voto sarà questione al massimo di qualche settimana.	Y	questione	565	   10,925	0.0183	216.8	ita_news_2015_00229466
 2846	Percorso che non è detto che non si possa fare anche alla Regione».	Y	possa	566	   10,920	0.0183	167.8182	ita_news_2019_00735966
-2847	Credo possa essere per il Paese e per l'Europa una grande possibilità».	Y	possa	566	   10,920	0.0183	184.9167	ita_news_2016_00157844
-2848	"""Quindi non c'è ragione perché da noi non si possa fare la stessa cosa""""."""	Y	possa	566	   10,920	0.0183	187.2143	ita_news_2015_00818219
+2847	Credo possa essere per il Paese e per l’Europa una grande possibilità».	Y	possa	566	   10,920	0.0183	184.9167	ita_news_2016_00157844
+2848	Quindi non c’è ragione perché da noi non si possa fare la stessa cosa.	Y	possa	566	   10,920	0.0183	187.2143	ita_news_2015_00818219
 2849	Questa la difficoltà che c’è e non credo possa andare avanti a lungo.	Y	possa	566	   10,920	0.0183	218.7143	ita_news_2015_00806589
 2850	O meglio si pensa poco al fatto che un’unione possa essere “per sempre”.	Y	possa	566	   10,920	0.0183	220.7857	ita_news_2019_00711804
-2851	L'Italia ha fatto una cosa buona e non lo a detto a nessuno.	Y	buona	567	   10,895	0.0183	109.3077	ita_news_2016_00565870
+2851	L’Italia ha fatto una cosa buona e non lo a detto a nessuno.	Y	buona	567	   10,895	0.0183	109.3077	ita_news_2016_00565870
 2852	Alla fine abbiamo fatto una buona partita, soprattutto nel primo tempo.	Y	buona	567	   10,895	0.0183	149.8182	ita_news_2016_00028253
 2853	Per il resto, però, la sua gara è stata buona.	Y	buona	567	   10,895	0.0183	169.2	ita_news_2015_00747194
 2854	La buona è che la ha deciso di andare comunque avanti con il piano.	Y	buona	567	   10,895	0.0183	182.4615	ita_news_2016_00467878
 2855	Una buona scelta per oggi e un rischio per domani.	Y	buona	567	   10,895	0.0183	223	ita_news_2015_00952964
-2856	"""E se il partito era lo era anche quello che ha preso il 40 per cento""""."""	Y	preso	568	   10,884	0.0183	119.4615	ita_news_2015_00261708
+2856	E se il partito era lo era anche quello che ha preso il 40 per cento.	Y	preso	568	   10,884	0.0183	119.4615	ita_news_2015_00261708
 2857	E per noi il problema non è mai stata la scelta che hanno preso.	Y	preso	568	   10,884	0.0183	132.8571	ita_news_2019_00238281
 2858	Per il bene mio e del gruppo, per questo ho preso un’altra strada».	Y	preso	568	   10,884	0.0183	144.3846	ita_news_2019_00739682
 2859	Preso Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	preso	568	   10,884	0.0183	181.84	ita_news_2019_00773316
@@ -862,7 +862,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2861	Senza di loro, mettere a punto tutto questo lavoro non sarebbe stato possibile.	Y	mettere	569	   10,875	0.0182	124.9231	ita_news_2015_00867265
 2862	Ma l’unica a mettere un punto, per ora, è stata quella di..	Y	mettere	569	   10,875	0.0182	134.0769	ita_news_2016_00607066
 2863	E allora perché non può mettere mano anche alla legge 49? Se non ora, quando?»	Y	mettere	569	   10,875	0.0182	160.2308	ita_news_2015_00206746
-2864	È che si devono mettere d'accordo tra di loro.	Y	mettere	569	   10,875	0.0182	173	ita_news_2016_00215718
+2864	È che si devono mettere d’accordo tra di loro.	Y	mettere	569	   10,875	0.0182	173	ita_news_2016_00215718
 2865	Per questo hanno deciso di mettere la parola fine alla loro vita, insieme.	Y	mettere	569	   10,875	0.0182	199.7692	ita_news_2016_00752414
 2866	Qui le imprese sono 496, +5% in un anno e +235% rispetto alle 148 di quasi dieci anni fa.	Y	imprese	570	   10,871	0.0182	138	ita_news_2019_00809929
 2867	Non solo da parte di imprese, ma anche di famiglie.	Y	imprese	570	   10,871	0.0182	152.3333	ita_news_2019_00695672
@@ -876,7 +876,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2875	Ma non è certo la mia presenza che non fa uscire fuori nuovi leader.	Y	presenza	571	   10,863	0.0182	280.5385	ita_news_2016_00609843
 2876	«È una questione che mi sta molto a cuore- ha detto - ma è anche una questione importante per il Paese».	Y	cuore	572	   10,836	0.0182	126.2941	ita_news_2015_00272161
 2877	Però anche il cuore vuole la sua parte in questa storia.	Y	cuore	572	   10,836	0.0182	133	ita_news_2016_00747949
-2878	Il massimo, forse, per un presidente che nel cuore ha da sempre l'Inter.	Y	cuore	572	   10,836	0.0182	147.2857	ita_news_2015_00365069
+2878	Il massimo, forse, per un presidente che nel cuore ha da sempre l’Inter.	Y	cuore	572	   10,836	0.0182	147.2857	ita_news_2015_00365069
 2879	Ma sarebbe un voto dato con la testa, non più con il cuore.	Y	cuore	572	   10,836	0.0182	165.9167	ita_news_2016_00618825
 2880	La vista di quella gente mi fa male al cuore.”	Y	cuore	572	   10,836	0.0182	230.6	ita_news_2015_00533220
 2881	Poi, non si può dire: l’ha detto il Capo dello Stato, quindi si fa così punto e basta.	Y	basta	573	   10,835	0.0182	131.1111	ita_news_2016_00766517
@@ -891,7 +891,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2890	Ho preso del tempo per capire quale fosse la scelta migliore.	Y	capire	574	   10,798	0.0181	251.3636	ita_news_2019_00312064
 2891	Quella è la sua cultura e non ne ha altre.	Y	cultura	575	   10,775	0.0181	116.3	ita_news_2015_00802445
 2892	E’ un centro importante per la sua storia e la sua cultura.	Y	cultura	575	   10,775	0.0181	147.6667	ita_news_2019_00265149
-2893	"""Ma un libro è sempre un libro"""" ha detto il ministro della Cultura."""	Y	cultura	575	   10,775	0.0181	172.5455	ita_news_2015_00626414
+2893	Ma un libro è sempre un libro ha detto il ministro della Cultura.	Y	cultura	575	   10,775	0.0181	172.5455	ita_news_2015_00626414
 2894	Lo fa PER una cultura in favore del rispetto della vita.	Y	cultura	575	   10,775	0.0181	178.1818	ita_news_2016_00570312
 2895	Se in Italia non c’è la cultura della sconfitta?	Y	cultura	575	   10,775	0.0181	188.4	ita_news_2016_00853072
 2896	Non si tratta di un processo ad un uomo, ma a mezzo Paese.	Y	processo	576	   10,760	0.018	147.25	ita_news_2015_00698598
@@ -900,8 +900,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2899	Rischia un nuovo processo Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	processo	576	   10,760	0.018	206.8929	ita_news_2016_00824206
 2900	Ma al termine del processo di primo grado, il 19 novembre '94 (nove anni dopo!	Y	processo	576	   10,760	0.018	236.1538	ita_news_2015_00592495
 2901	E' sempre stato così, e credo che così sarà sempre.	Y	credo	577	   10,744	0.018	123	ita_news_2015_00262256
-2902	"""In questo momento credo di avere il migliore dei quattro, il migliore al mondo""""."""	Y	credo	577	   10,744	0.018	140.1667	ita_news_2015_00430866
-2903	Credo possa essere per il Paese e per l'Europa una grande possibilità».	Y	credo	577	   10,744	0.018	184.9167	ita_news_2016_00157844
+2902	In questo momento credo di avere il migliore dei quattro, il migliore al mondo.	Y	credo	577	   10,744	0.018	140.1667	ita_news_2015_00430866
+2903	Credo possa essere per il Paese e per l’Europa una grande possibilità».	Y	credo	577	   10,744	0.018	184.9167	ita_news_2016_00157844
 2904	“Credo di sì e non solo a livello di risultati.	Y	credo	577	   10,744	0.018	207	ita_news_2016_00157705
 2905	Non credo ci siano problemi, qualcuno in porta deve andare.	Y	credo	577	   10,744	0.018	300.6	ita_news_2016_00679793
 2906	È una persona molto importante, non solo per la Roma ma per tutto il calcio».	Y	persona	578	   10,731	0.018	115.7143	ita_news_2016_00273476
@@ -913,22 +913,22 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2912	Siamo stati uniti, quanto è stato parte della mia vita.	Y	uniti	579	   10,727	0.018	152.6	ita_news_2015_00877421
 2913	Che futuro c’è per la sinistra negli Stati Uniti?	Y	uniti	579	   10,727	0.018	175.1	ita_news_2016_00110252
 2914	Al primo posto vi sono gli Stati uniti con 340 miliardi.	Y	uniti	579	   10,727	0.018	185.8	ita_news_2015_00037220
-2915	"""Per vedere una donna presidente degli Stati Uniti """"hanno tutta la vita davanti""""."""	Y	uniti	579	   10,727	0.018	187.7692	ita_news_2016_00756975
+2915	Per vedere una donna presidente degli Stati Uniti hanno tutta la vita davanti.	Y	uniti	579	   10,727	0.018	187.7692	ita_news_2016_00756975
 2916	Ma se un politico non fa queste cose, che ci sta a fare?»	Y	politico	580	   10,710	0.018	126.0769	ita_news_2015_00623087
-2917	"""Questo è il punto politico ed è quello che ho sempre detto a Renzi dall'inizio""""."""	Y	politico	580	   10,710	0.018	136.8667	ita_news_2015_00812175
-2918	Soprattutto se c'è il suo futuro politico di mezzo..	Y	politico	580	   10,710	0.018	170.3	ita_news_2016_00900918
-2919	"""""""Abbiamo anche un partito politico, ma al momento c’è bisogno di gente… sul campo""""."""	Y	politico	580	   10,710	0.018	173.5333	ita_news_2015_00002610
+2917	Questo è il punto politico ed è quello che ho sempre detto a Renzi dall’inizio.	Y	politico	580	   10,710	0.018	136.8667	ita_news_2015_00812175
+2918	Soprattutto se c’è il suo futuro politico di mezzo..	Y	politico	580	   10,710	0.018	170.3	ita_news_2016_00900918
+2919	Abbiamo anche un partito politico, ma al momento c’è bisogno di gente… sul campo.	Y	politico	580	   10,710	0.018	173.5333	ita_news_2015_00002610
 2920	Ma Francesco sei un uomo di Chiesa o un politico?	Y	politico	580	   10,710	0.018	222.8889	ita_news_2016_00598598
-2921	Il fine settimana è solo l'inizio di una settimana di fuoco.	Y	fuoco	581	   10,706	0.018	151.8	ita_news_2016_00357609
+2921	Il fine settimana è solo l’inizio di una settimana di fuoco.	Y	fuoco	581	   10,706	0.018	151.8	ita_news_2016_00357609
 2922	Dopo due ore i vigili del fuoco erano ancora al lavoro.	Y	fuoco	581	   10,706	0.018	184	ita_news_2019_00186810
 2923	Sul posto sono ancora al lavoro i vigili del fuoco.	Y	fuoco	581	   10,706	0.018	190.9	ita_news_2015_00923025
 2924	Sul posto, oltre ai vigili del fuoco, la Polizia di Stato.	Y	fuoco	581	   10,706	0.018	195.5455	ita_news_2019_00916119
 2925	Ma così non è stato, grazie all’intervento dei vigili del fuoco.	Y	fuoco	581	   10,706	0.018	199	ita_news_2016_00595610
 2926	Per quel che mi riguarda quel giorno sarà un giorno di lavoro e lavoro.	Y	riguarda	582	   10,643	0.0179	115	ita_news_2015_00757118
-2927	"""Non riguarda solo Roma e l'Italia, ma anche altri Paesi""""."""	Y	riguarda	582	   10,643	0.0179	122.1818	ita_news_2019_00692413
+2927	Non riguarda solo Roma e l’Italia, ma anche altri Paesi.	Y	riguarda	582	   10,643	0.0179	122.1818	ita_news_2019_00692413
 2928	E per quanto riguarda il Torino, che si può dire?	Y	riguarda	582	   10,643	0.0179	162.3	ita_news_2016_00248101
 2929	Il resto è un problema che riguarda il suo gruppo».	Y	riguarda	582	   10,643	0.0179	191.6667	ita_news_2019_00383628
-2930	"""""""Si tratta di una questione che riguarda le forze dell'ordine."""	Y	riguarda	582	   10,643	0.0179	231.5455	ita_news_2015_00890832
+2930	Si tratta di una questione che riguarda le forze dell’ordine.	Y	riguarda	582	   10,643	0.0179	231.5455	ita_news_2015_00890832
 2931	Ma se la società ha deciso così, rispetto questa decisione.	Y	decisione	583	   10,627	0.0178	166.3	ita_news_2016_00619330
 2932	Non solo, ma la decisione tra l’essere e il non essere della specie è in mano all’uomo.	Y	decisione	583	   10,627	0.0178	179.4118	ita_news_2016_00695328
 2933	Per ora è stata una buona decisione, poi nel calcio non si sa mai.	Y	decisione	583	   10,627	0.0178	183.4286	ita_news_2015_00754735
@@ -937,8 +937,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2936	Non è un titolo di 20 anni fa ma quello che è successo ieri al San Paolo.	Y	titolo	584	   10,602	0.0178	136.1333	ita_news_2015_00688119
 2937	Io sono il migliore e quindi non è poi così importante chi lo abbia vinto, questo titolo”.	Y	titolo	584	   10,602	0.0178	185.4118	ita_news_2016_00452034
 2938	Con tutto quello che è successo, il titolo ha perso valore».	Y	titolo	584	   10,602	0.0178	197.4545	ita_news_2016_00147213
-2939	"""Il nostro obiettivo non è il titolo, ma tornare in Europa""""."""	Y	titolo	584	   10,602	0.0178	223.1	ita_news_2016_00372502
-2940	"""""""Questo titolo è il frutto il molto lavoro fatto da un anno a questa parte."""	Y	titolo	584	   10,602	0.0178	227.8571	ita_news_2015_00815452
+2939	Il nostro obiettivo non è il titolo, ma tornare in Europa.	Y	titolo	584	   10,602	0.0178	223.1	ita_news_2016_00372502
+2940	Questo titolo è il frutto il molto lavoro fatto da un anno a questa parte.	Y	titolo	584	   10,602	0.0178	227.8571	ita_news_2015_00815452
 2941	«Il fatto è che lo si sa già a tempo.	Y	sa	585	   10,577	0.0177	92.5	ita_news_2016_00356482
 2942	Non è più quella che è stata e non sa quel che sarà.	Y	sa	585	   10,577	0.0177	115.8	ita_news_2016_00682455
 2943	E lei lo ha visto e lei lo sa, però non può fare a meno del suo ruolo.	Y	sa	585	   10,577	0.0177	155.9333	ita_news_2015_00235906
@@ -950,19 +950,19 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2949	Una festa per le famiglie, i bambini, le scuole Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	famiglie	586	   10,567	0.0177	213.9	ita_news_2019_00951655
 2950	Centro per le famiglie: un mese di iniziative Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	famiglie	586	   10,567	0.0177	218.6552	ita_news_2019_00097744
 2951	Che insieme alla squadra anche la città ha fatto esperienza.	Y	esperienza	587	   10,545	0.0177	130.1	ita_news_2016_00110734
-2952	L'ho visto a Roma dal Papa, anche per lui sarà un'esperienza nuova».	Y	esperienza	587	   10,545	0.0177	143.0714	ita_news_2015_00557280
+2952	L’ho visto a Roma dal Papa, anche per lui sarà un’esperienza nuova».	Y	esperienza	587	   10,545	0.0177	143.0714	ita_news_2015_00557280
 2953	Nella mia esperienza, poi, ho visto che la prima volta c’è stata una crescita continua».	Y	esperienza	587	   10,545	0.0177	166.4375	ita_news_2019_00658992
-2954	È stata l'esperienza più bella e più grande della mia vita.	Y	esperienza	587	   10,545	0.0177	182.7273	ita_news_2015_00266354
+2954	È stata l’esperienza più bella e più grande della mia vita.	Y	esperienza	587	   10,545	0.0177	182.7273	ita_news_2015_00266354
 2955	Quando ho deciso di mettere la mia esperienza al servizio degli altri.	Y	esperienza	587	   10,545	0.0177	203.5833	ita_news_2019_00787911
 2956	Diverse però i punti di vista all’interno del consiglio.	Y	diverse	588	   10,542	0.0177	197.3	ita_news_2019_00180477
-2957	L'ultima volta mi sono visto con lui a Milano diverse settimane fa.	Y	diverse	588	   10,542	0.0177	201.8462	ita_news_2015_00585572
+2957	L’ultima volta mi sono visto con lui a Milano diverse settimane fa.	Y	diverse	588	   10,542	0.0177	201.8462	ita_news_2015_00585572
 2958	La cosa più importante, e mai vista, è il processo messo in moto da migliaia di persone molto diverse tra loro.	Y	diverse	588	   10,542	0.0177	238.2381	ita_news_2015_00472521
 2959	Per me, ora, questo vuole dire diverse cose: la famiglia, la squadra, essere un cittadino.	Y	diverse	588	   10,542	0.0177	238.3571	ita_news_2016_00746867
 2960	I nostri figli hanno preso strade diverse e quindi è bene sia così».	Y	diverse	588	   10,542	0.0177	262.1538	ita_news_2019_00424175
 2961	La Capitale, dice ieri mattina, ha fatto la sua parte.	Y	capitale	589	   10,533	0.0177	180.2222	ita_news_2019_00467451
-2962	Non è la capitale e c'è voglia di fare meglio.	Y	capitale	589	   10,533	0.0177	196.2	ita_news_2015_00685406
-2963	«Al momento non hanno detto che c'è un vero pericolo per la capitale».	Y	capitale	589	   10,533	0.0177	199.7857	ita_news_2015_00036116
-2964	"""Per il leader di Forza Italia l'unico vero nome è quello di """": sarà il sindaco della Capitale""""."""	Y	capitale	589	   10,533	0.0177	207.0625	ita_news_2019_00740194
+2962	Non è la capitale e c’è voglia di fare meglio.	Y	capitale	589	   10,533	0.0177	196.2	ita_news_2015_00685406
+2963	«Al momento non hanno detto che c’è un vero pericolo per la capitale».	Y	capitale	589	   10,533	0.0177	199.7857	ita_news_2015_00036116
+2964	Per il leader di Forza Italia l’unico vero nome è quello di : sarà il sindaco della Capitale.	Y	capitale	589	   10,533	0.0177	207.0625	ita_news_2019_00740194
 2965	La prima delle città italiane è Milano che si piazza al quarto posto, ma pur sempre prima della capitale d’Italia.	Y	capitale	589	   10,533	0.0177	215.75	ita_news_2015_00501292
 2966	E' stato come un figlio per me. Lui però ora non c’è.	Y	figlio	590	   10,525	0.0177	109.3846	ita_news_2016_00268564
 2967	Per me era uno di famiglia, era come un figlio.	Y	figlio	590	   10,525	0.0177	152.2222	ita_news_2015_00752015
@@ -974,17 +974,17 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2973	In fondo non sono tanti di meno di quelli dell’anno scorso.	Y	fondo	591	   10,513	0.0176	164.7273	ita_news_2016_00419143
 2974	Ma in fondo, si tratta di un’idea come un’altra.	Y	fondo	591	   10,513	0.0176	177.7	ita_news_2016_00602361
 2975	In fondo io ho solo bisogno di un posto auto.	Y	fondo	591	   10,513	0.0176	189.7	ita_news_2019_00415961
-2976	Tra di loro non c'è mai stato un grande rapporto.	Y	rapporto	592	   10,503	0.0176	100.4545	ita_news_2016_00930442
+2976	Tra di loro non c’è mai stato un grande rapporto.	Y	rapporto	592	   10,503	0.0176	100.4545	ita_news_2016_00930442
 2977	Ma il «rapporto tra i due non era alla pari..	Y	rapporto	592	   10,503	0.0176	136.8	ita_news_2016_00601646
 2978	Di fatto si tratta di un vero e proprio rapporto a quattro.	Y	rapporto	592	   10,503	0.0176	159.0909	ita_news_2015_00181720
-2979	Tra di noi c'è un rapporto particolare, come da padre a figlio.	Y	rapporto	592	   10,503	0.0176	180.1538	ita_news_2015_00935614
+2979	Tra di noi c’è un rapporto particolare, come da padre a figlio.	Y	rapporto	592	   10,503	0.0176	180.1538	ita_news_2015_00935614
 2980	Una, non meno importante, riguarda il rapporto tra i cittadini e il voto.	Y	rapporto	592	   10,503	0.0176	210.5833	ita_news_2015_00958741
 2981	È un fatto, però, che il bilancio ancora non ci sia.	Y	bilancio	593	   10,493	0.0176	93.9091	ita_news_2016_00274912
 2982	Ma che bilancio si può fare di questi tre anni?	Y	bilancio	593	   10,493	0.0176	115	ita_news_2016_00593882
 2983	Il bilancio è in ordine, ma non è stato detto.	Y	bilancio	593	   10,493	0.0176	143.4444	ita_news_2019_00331569
-2984	"""Era un partito che in Europa non aveva casa, aveva un problema di bilancio""""."""	Y	bilancio	593	   10,493	0.0176	143.9167	ita_news_2019_00250571
+2984	Era un partito che in Europa non aveva casa, aveva un problema di bilancio.	Y	bilancio	593	   10,493	0.0176	143.9167	ita_news_2019_00250571
 2985	In questo bilancio c’è una nuova idea di città.	Y	bilancio	593	   10,493	0.0176	159.4	ita_news_2016_00432074
-2986	"""Che la maggioranza non ci sia più è un dato di fatto""""."""	Y	maggioranza	594	   10,480	0.0176	94.3333	ita_news_2019_00104324
+2986	Che la maggioranza non ci sia più è un dato di fatto.	Y	maggioranza	594	   10,480	0.0176	94.3333	ita_news_2019_00104324
 2987	Che in Italia, come detto, in fondo sono sempre stati maggioranza.	Y	maggioranza	594	   10,480	0.0176	163.1	ita_news_2019_00104183
 2988	Poi, anche se a maggioranza, il consiglio aveva detto sì.	Y	maggioranza	594	   10,480	0.0176	170.2	ita_news_2019_00762615
 2989	Siamo fuori della maggioranza, ma siamo con Renzi tutta la vita”.	Y	maggioranza	594	   10,480	0.0176	171.2	ita_news_2019_00865254
@@ -994,8 +994,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2993	E non si parla di dieci anni fa, ma di quattro.	Y	dieci	595	   10,466	0.0176	152.4	ita_news_2016_00243089
 2994	Quattro giovani su dieci senza lavoro Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	dieci	595	   10,466	0.0176	182.9655	ita_news_2019_00792850
 2995	Da mesi, almeno una volta la settimana o al massimo dieci giorni.	Y	dieci	595	   10,466	0.0176	191.8333	ita_news_2016_00168120
-2996	"""Non è possibile che un consigliere deve andare da una parte all'altra della città quando invece si può avere tutto in un'unica sede""""."""	Y	sede	596	   10,447	0.0175	183.2917	ita_news_2016_00682546
-2997	Domani alle ore 16 ci sarà l'incontro tra Renzi e Berlusconi per parlare della legge elettorale nella sede del Pd.	Y	sede	596	   10,447	0.0175	195.7	ita_news_2015_00189279
-2998	Un tempo era stata la sede di un'agenzia del governo, a San Paolo.	Y	sede	596	   10,447	0.0175	205.8462	ita_news_2019_00982088
-2999	Lo penso e l'ho detto, l'ho detto in questa sede”.	Y	sede	596	   10,447	0.0175	212.2222	ita_news_2015_00574224
+2996	Non è possibile che un consigliere deve andare da una parte all’altra della città quando invece si può avere tutto in un’unica sede.	Y	sede	596	   10,447	0.0175	183.2917	ita_news_2016_00682546
+2997	Domani alle ore 16 ci sarà l’incontro tra Renzi e Berlusconi per parlare della legge elettorale nella sede del Pd.	Y	sede	596	   10,447	0.0175	195.7	ita_news_2015_00189279
+2998	Un tempo era stata la sede di un’agenzia del governo, a San Paolo.	Y	sede	596	   10,447	0.0175	205.8462	ita_news_2019_00982088
+2999	Lo penso e l’ho detto, l’ho detto in questa sede”.	Y	sede	596	   10,447	0.0175	212.2222	ita_news_2015_00574224
 3000	Una questione, insomma, quella del voto per i fuori sede non proprio dell’ultima ora.	Y	sede	596	   10,447	0.0175	226.8	ita_news_2015_00960500

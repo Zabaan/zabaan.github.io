@@ -369,7 +369,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 21368	Der normale Amerikaner fragt sich, wie man an der Spitze eines Unternehmens stehen kann und dann nicht verantwortlich für dessen Entscheidungen sein will.	Y	normale	1857	    346	0.0022	502.1818	german_at_news_2012_00253220
 21369	Seine Aufgabe als Vater sieht Hannes Hofer auch darin, Bernhard in die Welt zu begleiten, mit ihm völlig normale Dinge zu unternehmen, ihn immer wieder zu stärken.	Y	normale	1857	    346	0.0022	591.4	german_at_news_2012_00791253
 21370	Eine echte Jugend konnte er seinen Kindern nicht bieten, eine normale zumindest nicht.	Y	normale	1857	    346	0.0022	604.2727	german_at_news_2012_00406212
-21371	"""Er hat ihr gesagt, dass er ohne sie nicht leben kann und sie schon mal die Hochzeit planen soll,"""" so die Quelle."""	Y	quelle	1857	    346	0.0022	336.6316	german_at_news_2012_00437305
+21371	Er hat ihr gesagt, dass er ohne sie nicht leben kann und sie schon mal die Hochzeit planen soll, so die Quelle.	Y	quelle	1857	    346	0.0022	336.6316	german_at_news_2012_00437305
 21372	Und so ist die kleine Wallfahrtskirche mit ihrer Quelle zum Anziehungspunkt für viele Menschen aus der Region geworden.	Y	quelle	1857	    346	0.0022	457.3889	german_at_news_2012_00881740
 21373	Es erinnert uns daran, dass wir eine gemeinsame Quelle haben.	Y	quelle	1857	    346	0.0022	468.7	german_at_news_2012_00453572
 21374	Diese Show wird gegen den Willen ihrer Familie gemacht“, so eine Quelle gegenüber dem Online-Magazin.	Y	quelle	1857	    346	0.0022	472.9375	german_at_news_2012_00353780
@@ -537,7 +537,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 21536	So stoppen Sie Ihre Facebook-Werbung Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	stoppen	1860	    343	0.0021	346.28	german_at_news_2012_00831764
 21537	In dieser Situation ist es wichtig dieses Programm zu stoppen.	Y	stoppen	1860	    343	0.0021	352	german_at_news_2012_00596679
 21538	Was er allerdings gut kann, ist automatisch starten und stoppen, und das zeigt er auch sehr häufig.	Y	stoppen	1860	    343	0.0021	450.2667	german_at_news_2012_00924716
-21539	"""Sollten wir die Sache jetzt stoppen?"""", habe Obama dort gefragt."""	Y	stoppen	1860	    343	0.0021	554.5	german_at_news_2012_00827713
+21539	Sollten wir die Sache jetzt stoppen?, habe Obama dort gefragt.	Y	stoppen	1860	    343	0.0021	554.5	german_at_news_2012_00827713
 21540	Es gelte sofort zu reagieren und die Gewalt zu stoppen.	Y	stoppen	1860	    343	0.0021	740.5556	german_at_news_2012_00456245
 21541	Wir haben uns einmal auf die Suche nach den kommenden IT-Trends gemacht.	Y	trends	1860	    343	0.0021	409.5385	german_at_news_2012_00966477
 21542	Wir wollen in die neue Saison 2012 so starten, dass wir wieder neue Trends präsentieren können.“	Y	trends	1860	    343	0.0021	428	german_at_news_2012_00972984
@@ -675,7 +675,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 21674	Die Begründung der Kommission: Bei beiden Vorhaben sei neben Slowenien und Ungarn auch Österreich dagegen.	Y	begründung	1863	    340	0.0021	540.6667	german_at_news_2012_00284442
 21675	Die Marke Nokia sei weltweit bekannt und beliebt, schrieb sie zur Begründung.	Y	begründung	1863	    340	0.0021	764.1667	german_at_news_2012_00324755
 21676	Jetzt geht es darum, dass wir alle in Europa die Konsequenzen aus der Finanzkrise ziehen, damit uns das nicht in zwei, drei Jahren wieder passiert.	Y	finanzkrise	1863	    340	0.0021	293.0417	german_at_news_2012_00623709
-21677	Die Krise allein kann's nicht sein In den vergangenen drei Jahren wurde die Wirtschafts- und Finanzkrise von der Politik für viele Probleme verantwortlich gemacht, auch bei uns in Oberösterreich.	Y	finanzkrise	1863	    340	0.0021	307.0357	german_at_news_2012_00320633
+21677	Die Krise allein kann’s nicht sein In den vergangenen drei Jahren wurde die Wirtschafts- und Finanzkrise von der Politik für viele Probleme verantwortlich gemacht, auch bei uns in Oberösterreich.	Y	finanzkrise	1863	    340	0.0021	307.0357	german_at_news_2012_00320633
 21678	Man kann sich das gar nicht mehr vorstellen, aber man hatte nicht einmal eine Finanzkrise zum Fürchten!	Y	finanzkrise	1863	    340	0.0021	374.5333	german_at_news_2012_00666507
 21679	So richtig ernst genommen hat sie bis zur Finanzkrise niemand.	Y	finanzkrise	1863	    340	0.0021	463.7	german_at_news_2012_00830256
 21680	Angesprochen auf die Finanzkrise meinte Pröll: „Wir brauchen nicht mehr Regeln, sondern bessere Regeln.	Y	finanzkrise	1863	    340	0.0021	634.1538	german_at_news_2012_00051639

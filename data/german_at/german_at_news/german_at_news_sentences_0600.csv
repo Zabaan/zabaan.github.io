@@ -37,13 +37,13 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2036	Wir fragen uns, ob das bei uns auch so sein wird“.	Y	fragen	405	  3,530	0.0219	90.9	german_at_news_2012_00964218
 2037	Und wenn Sie sich jetzt immer noch nicht sicher sind, fragen Sie meine Frau.	Y	fragen	405	  3,530	0.0219	123	german_at_news_2012_00884644
 2038	Wie viele sehen Sie denn auf der Straße (wenn ich mal fragen darf)?	Y	fragen	405	  3,530	0.0219	169.9231	german_at_news_2012_00960314
-2039	"""Weiß Gusenbauer eigentlich noch was er will?"""", kann man da nur fragen."""	Y	fragen	405	  3,530	0.0219	177.0833	german_at_news_2012_00931956
+2039	Weiß Gusenbauer eigentlich noch was er will?, kann man da nur fragen.	Y	fragen	405	  3,530	0.0219	177.0833	german_at_news_2012_00931956
 2040	Dann suchen Sie nach einer neuen Welt für sich und Ihre Kinder! profil ist 40. Da fragen Freunde gerne, ob profil auch 50 werden wird.	Y	fragen	405	  3,530	0.0219	196.7273	german_at_news_2012_00154070
 2041	Er muss ja eigentlich mit allen Menschen in Österreich gut sein.	Y	eigentlich	406	  3,529	0.0219	114.7273	german_at_news_2012_00441771
 2042	Es stellt eine Frage, die sich auch Kinder immer wieder stellen: „Wer bin ich eigentlich?“	Y	eigentlich	406	  3,529	0.0219	151	german_at_news_2012_00468904
 2043	Da stellt sich die Frage, was Sie im vergangenen Jahr eigentlich gemacht haben.	Y	eigentlich	406	  3,529	0.0219	152.9231	german_at_news_2012_00199941
 2044	AT: Warum tun Sie sich das eigentlich alles noch an?	Y	eigentlich	406	  3,529	0.0219	169.4	german_at_news_2012_00058939
-2045	"""Weiß Gusenbauer eigentlich noch was er will?"""", kann man da nur fragen."""	Y	eigentlich	406	  3,529	0.0219	177.0833	german_at_news_2012_00931956
+2045	Weiß Gusenbauer eigentlich noch was er will?, kann man da nur fragen.	Y	eigentlich	406	  3,529	0.0219	177.0833	german_at_news_2012_00931956
 2046	Den den ich hatte, der war von Anfang an auf der Seite meiner Ex.	Y	ex	407	  3,524	0.0219	177.5833	german_at_news_2012_00216010
 2047	Was man dem Ex-FPÖ-Politiker auch nur wünschen kann.	Y	ex	407	  3,524	0.0219	284.3	german_at_news_2012_00926919
 2048	ÖSTERREICH: Warum sucht Ihre Ex-Frau dann eine neue Wohnung?	Y	ex	407	  3,524	0.0219	317.3	german_at_news_2012_00751282
@@ -630,7 +630,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2629	Aber die Bevölkerung soll wissen, dass eine Gruppe von Personen aus dem Ausland in die Stadt kommt.	Y	bevölkerung	511	  2,851	0.0177	203.875	german_at_news_2012_00004499
 2630	Er sollte aber der Bevölkerung beweisen, von was er und seine Frau derzeit leben.	Y	bevölkerung	511	  2,851	0.0177	233.4615	german_at_news_2012_00444574
 2631	Wenn sie einen haben dann würde ich diesen auch gerne mal sehen!	Y	gerne	512	  2,837	0.0176	131.6667	german_at_news_2012_00943796
-2632	"""Ich hätte sie sehr gerne bei uns, aber was kann ich machen?"""", sagte sie jetzt in einem Interview."""	Y	gerne	512	  2,837	0.0176	138.75	german_at_news_2012_00555510
+2632	Ich hätte sie sehr gerne bei uns, aber was kann ich machen?, sagte sie jetzt in einem Interview.	Y	gerne	512	  2,837	0.0176	138.75	german_at_news_2012_00555510
 2633	Wenn ich eine Frau sein will dann bitte von mir aus gerne.	Y	gerne	512	  2,837	0.0176	140.0833	german_at_news_2012_00940922
 2634	Ich liebe Wien und bin sehr gerne hier“, sagte der 74-Jährige.	Y	gerne	512	  2,837	0.0176	163.2727	german_at_news_2012_00557321
 2635	Und es kommen auch Leute, die gerne bei uns arbeiten wollen.	Y	gerne	512	  2,837	0.0176	168.2727	german_at_news_2012_00875643
@@ -805,7 +805,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2804	Allerdings zeigen die Zahlen, dass wir hier auf einem sehr guten Weg sind.	Y	zahlen	539	  2,677	0.0166	180.4615	german_at_news_2012_00025561
 2805	Und wenn Sie das nicht schaffen, dann zahlen Sie das Geld zurück.	Y	zahlen	539	  2,677	0.0166	182.7	german_at_news_2012_00884607
 2806	Nur nicht die SPÖ, weil deren Chef Gusenbauer noch immer liegt.	Y	gusenbauer	540	  2,676	0.0166	171	german_at_news_2012_00735261
-2807	"""Weiß Gusenbauer eigentlich noch was er will?"""", kann man da nur fragen."""	Y	gusenbauer	540	  2,676	0.0166	177.0833	german_at_news_2012_00931956
+2807	Weiß Gusenbauer eigentlich noch was er will?, kann man da nur fragen.	Y	gusenbauer	540	  2,676	0.0166	177.0833	german_at_news_2012_00931956
 2808	Daher will ich von Gusenbauer wissen, was er wirklich will.	Y	gusenbauer	540	  2,676	0.0166	179.8889	german_at_news_2012_00141956
 2809	Gusenbauer: Das war das Ergebnis der Politik in dieser Zeit.	Y	gusenbauer	540	  2,676	0.0166	183.7778	german_at_news_2012_00524309
 2810	Gusenbauer müsse sich endlich die Frage stellen, „was er eigentlich will“.	Y	gusenbauer	540	  2,676	0.0166	245.9091	german_at_news_2012_00524525
@@ -814,7 +814,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 2813	Wenn er nichts gemacht hat, braucht er sich auch keine Sorgen zu machen.	Y	braucht	541	  2,675	0.0166	167.0833	german_at_news_2012_00939817
 2814	Da braucht es auch Zeit, das auf sich wirken zu lassen.	Y	braucht	541	  2,675	0.0166	204.7273	german_at_news_2012_00135738
 2815	Wenn man eine braucht, muss man an die Öffentlichkeit gehen.	Y	braucht	541	  2,675	0.0166	205.8889	german_at_news_2012_00942164
-2816	"""Ich hätte sie sehr gerne bei uns, aber was kann ich machen?"""", sagte sie jetzt in einem Interview."""	Y	interview	542	  2,674	0.0166	138.75	german_at_news_2012_00555510
+2816	Ich hätte sie sehr gerne bei uns, aber was kann ich machen?, sagte sie jetzt in einem Interview.	Y	interview	542	  2,674	0.0166	138.75	german_at_news_2012_00555510
 2817	Mehr dazu und das Interview lesen Sie im neuen NEWS.	Y	interview	542	  2,674	0.0166	183	german_at_news_2012_00674353
 2818	Nur die Sache mit dem Interview ließ sich nicht mehr aus der Welt schaffen, oder doch?	Y	interview	542	  2,674	0.0166	189.75	german_at_news_2012_00733863
 2819	Das ganze Interview und alle Informationen rund um dem Fall lesen Sie im NEWS 11/48!	Y	interview	542	  2,674	0.0166	218.5714	german_at_news_2012_00169324

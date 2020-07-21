@@ -193,7 +193,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 17192	Das ist eine der Fragen, die am Donnerstag im oberösterreichischen Landtag zur Diskussion stehen.	Y	oberösterreichischen	1760	    443	0.0028	390	german_at_news_2012_00177730
 17193	Schließlich konnten sich die Salzburger Landesregierung mit der Oberösterreichischen Landesregierung bereits vor zwei Jahren auf das vorliegende Projekt einigen.	Y	oberösterreichischen	1760	    443	0.0028	442.8889	german_at_news_2012_00782218
 17194	Das gesamte Interview lesen Sie am Freitag in den Oberösterreichischen Nachrichten und auf www.nachrichten.at/sport!	Y	oberösterreichischen	1760	    443	0.0028	467.375	german_at_news_2012_00170954
-17195	"""Wer kann einen Computer brauchen?"""" und sind „Österreichs Betriebe dafür zu klein?"""", fragten die Oberösterreichischen Nachrichten am Donnerstag, 18. April 1968, also heute vor 44 Jahren."""	Y	oberösterreichischen	1760	    443	0.0028	472.9565	german_at_news_2012_00947676
+17195	Wer kann einen Computer brauchen? und sind „Österreichs Betriebe dafür zu klein?, fragten die Oberösterreichischen Nachrichten am Donnerstag, 18. April 1968, also heute vor 44 Jahren.	Y	oberösterreichischen	1760	    443	0.0028	472.9565	german_at_news_2012_00947676
 17196	Was diese Umfragen wert sind, sieht man ja nach jeder Wahl immer wieder.	Y	umfragen	1760	    443	0.0028	291.9231	german_at_news_2012_00924495
 17197	Die Strache-FPÖ fällt jetzt auch in den Umfragen zurück.	Y	umfragen	1760	    443	0.0028	389.1	german_at_news_2012_00364518
 17198	Umfragen zeigen, dass eine klare Mehrheit von rund 80 Prozent der Österreicher für die notwendigen Reformen ist.	Y	umfragen	1760	    443	0.0028	498.0625	german_at_news_2012_00864740
@@ -421,7 +421,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 17420	Nur zwei volle Erfolge halten das Rennen zumindest bis in den Herbst hinein offen.	Y	hinein	1766	    437	0.0027	593.5	german_at_news_2012_00736428
 17421	Und Know How was verloren geht holt man sich wenn man es braucht nicht mehr so schnell wieder.	Y	know	1766	    437	0.0027	426.6471	german_at_news_2012_00878633
 17422	In Österreich haben wir das Know how und die Erfahrung.	Y	know	1766	    437	0.0027	491.5	german_at_news_2012_00604924
-17423	"""Damit erhöht Österreich die Chancen, das wichtige Know-How von jungen Menschen, in die wir investiert haben, im Land zu halten."""" so Kapsch."""	Y	know	1766	    437	0.0027	507.6818	german_at_news_2012_00145118
+17423	Damit erhöht Österreich die Chancen, das wichtige Know-How von jungen Menschen, in die wir investiert haben, im Land zu halten. so Kapsch.	Y	know	1766	    437	0.0027	507.6818	german_at_news_2012_00145118
 17424	Wir wollen hier unser Know-how zur Verfügung stellen, um dadurch auch besser mit den Nachbarn ins Gespräch zu kommen“, Zum Regionalmanager wird man sich an mehreren Orten ausbilden lassen können.	Y	know	1766	    437	0.0027	533.8387	german_at_news_2012_00972968
 17425	Gerade in der E-Wirtschaft könnte etwas Gemeinsames durchgeführt werden, weil Kärnten hier großes Know-how habe.	Y	know	1766	    437	0.0027	542.5294	german_at_news_2012_00511911
 17426	Es geht um eine Frau, deren Beziehung gut beginnt, die sie dann nicht mehr will, der Mann aber nicht locker lässt.	Y	locker	1766	    437	0.0027	272.05	german_at_news_2012_00455943
@@ -833,7 +833,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 17832	Robert & Kristen: So werden Sexszenen Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	kristen	1776	    427	0.0027	411.5833	german_at_news_2012_00772468
 17833	Pattinson will ein Baby mit Kristen Stewart Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	kristen	1776	    427	0.0027	413.1154	german_at_news_2012_00754547
 17834	Robert Pattinson verletzt von Kristen Stewart “Kristen hat durch diesen Seitensprung sein Vertrauen verloren, deshalb ist er sich nicht sicher, ob sie ihm genau erzählen würde, was tatsächlich zwischen den beiden passierte.	Y	kristen	1776	    427	0.0027	525.0968	german_at_news_2012_00772551
-17835	"""Im Interview ist sich Kristen sicher: „Das ist nicht wahr!"""" und hat damit quasi recht, den beißen schaut tatsächlich anders aus."""	Y	kristen	1776	    427	0.0027	563.2	german_at_news_2012_00572992
+17835	Im Interview ist sich Kristen sicher: „Das ist nicht wahr! und hat damit quasi recht, den beißen schaut tatsächlich anders aus.	Y	kristen	1776	    427	0.0027	563.2	german_at_news_2012_00572992
 17836	Die FPÖ kann sich dank der ÖVP-Verluste wieder auf dem zweiten Platz behaupten.	Y	verluste	1776	    427	0.0027	377.2143	german_at_news_2012_00303111
 17837	Die Hypo Kärnten werde von den Kosten her die künftigen Verluste aus der österreichischen Griechenland-Hilfe in den Schatten stellen.	Y	verluste	1776	    427	0.0027	566.6667	german_at_news_2012_00313465
 17838	Es ist bis heute unklar, wer wann in welchem Ausmaß über die Verluste informiert war.	Y	verluste	1776	    427	0.0027	621	german_at_news_2012_00460429
@@ -928,7 +928,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 17927	In Moskau werden heute wieder 50.000 Menschen auf die Straße gehen.	Y	moskau	1780	    423	0.0026	296.5	german_at_news_2012_00603446
 17928	Warum sind Sie nicht in Moskau?, hatte er ihn gefragt.	Y	moskau	1780	    423	0.0026	363.7	german_at_news_2012_00922581
 17929	Wir stehen alle noch unter dem Schock der Geiselnahme in Moskau, die in dieser Nacht ein Ende genommen hat.	Y	moskau	1780	    423	0.0026	443.6667	german_at_news_2012_00970675
-17930	"""Aber da habe die Regierung in Moskau „sich ihn geschnappt und ihm gesagt: 'Denk nicht einmal daran'""""."""	Y	moskau	1780	    423	0.0026	470.2941	german_at_news_2012_00003103
+17930	Aber da habe die Regierung in Moskau „sich ihn geschnappt und ihm gesagt: 'Denk nicht einmal daran.	Y	moskau	1780	    423	0.0026	470.2941	german_at_news_2012_00003103
 17931	Zwar nicht so wie der Patrick, aber die Rosie so heben zu dürfen, war für mich rund und das ist Geschichte.	Y	patrick	1780	    423	0.0026	370.25	german_at_news_2012_00996675
 17932	In den folgenden Wochen hat Patrick allerdings noch viel Zeit, sich zu beweisen.	Y	patrick	1780	    423	0.0026	453.0769	german_at_news_2012_00587102
 17933	In dieser Folge zieht Patrick alle Register und sieht sich schon knapp vor dem Ziel.	Y	patrick	1780	    423	0.0026	457.2667	german_at_news_2012_00596453
