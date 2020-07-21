@@ -55,6 +55,7 @@ function load_corpus(lang) {
       c = "<input placeholder='";
       for(var i=0;i<b.length;i++) c += "-";
       c +="' autofocus id='editor' style='width:" + b.length +"ch' ";
+      c += "myval=\"" + b + "\" ";
       c += "onkeyup='oneditorchange(\"" + b+ "\")'></input>";
       a = a.replace(b, c);
       this.mydata.push(a);
@@ -80,8 +81,16 @@ function previousSentence() {
   localStorage.setItem(this.lang+zabancntstr, cnt);
 }
 
-function tagSentence() {
-
+function hint() {
+  t = $('#editor').val();
+  val = $('#editor').attr('myval');
+  $('#editor').val(val);
+ //  if(t == m)  {
+ //  $('#editor').css('color','green');
+ //  $("#editor").attr('disabled','disabled');
+ //  nextSentence();
+ //  $("#editor").focus();
+ // }
 }
 
 function SelectTopic() {
