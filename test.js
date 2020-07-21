@@ -54,12 +54,13 @@ function load_corpus(lang) {
       // + "'>---</span>";
       c = "<input placeholder='";
       for(var i=0;i<b.length;i++) c += "-";
-      c +="' autofocus id='editor' size='" + b.length +"' ";
+      c +="' autofocus id='editor' style='width:" + b.length +"ch' ";
       c += "onkeyup='oneditorchange(\"" + b+ "\")'></input>";
       a = a.replace(b, c);
       this.mydata.push(a);
     });
     $('#sentence').html(mydata[cnt]);
+    $('#sentence').focus();
 
   }, 'text');
 }
@@ -160,10 +161,11 @@ function handleTouchMove(evt) {
 // $('#editor').on('DOMSubtreeModified',function(){
 function oneditorchange(m) {
   t = $('#editor').val();
-  console.log(t + " " + m);
   if(t == m)  {
   $('#editor').css('color','green');
   $("#editor").attr('disabled','disabled');
+  nextSentence();
+  $("#editor").focus();
 }
   // if(t.length > 3 && t.includes('-')) t.replace('-',' ');
   // if(t.length < 3 )
