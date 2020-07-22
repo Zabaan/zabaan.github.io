@@ -1,0 +1,1001 @@
+ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
+1	Saat ini mereka adalah tim yang lebih baik dari kami.	Y	yang	1	1,280,411	2.6326	32.4	ind_news_2012_00645003
+2	Namun, kata dia, yang selama ini terjadi, tidak seperti itu.	Y	yang	1	1,280,411	2.6326	34.2	ind_news_2011_00525949
+3	Tidak, saya hanya melakukan apa yang ada di kepala saya.	Y	yang	1	1,280,411	2.6326	47.2222	ind_news_2016_00944879
+4	Ada yang bulan ini dan ada yang baru bulan depan.	Y	yang	1	1,280,411	2.6326	54	ind_news_2011_00023972
+5	“Masih ada 20 persen lagi yang terkait kasus ini,” katanya beberapa waktu lalu.	Y	yang	1	1,280,411	2.6326	71.6667	ind_news_2011_00848718
+6	Tidak, saya hanya melakukan apa yang ada di kepala saya.	Y	di	2	  953,747	1.9609	47.2222	ind_news_2016_00944879
+7	“Kami akan memiliki sekitar 10 orang lebih banyak di tim ini tahun depan.	Y	di	2	  953,747	1.9609	51.3333	ind_news_2011_00695180
+8	Tidak hanya terjadi di Indonesia, tetapi juga terjadi di negara lain.	Y	di	2	  953,747	1.9609	53.1111	ind_news_2012_00002705
+9	Apa saja yang telah menjadi kasus yang terjadi di Jakarta?	Y	di	2	  953,747	1.9609	56.7778	ind_news_2016_00042891
+10	Tak hanya di dalam negeri, tetapi juga di luar negeri.	Y	di	2	  953,747	1.9609	77.75	ind_news_2016_00898163
+11	Saat ini sudah lebih baik dan harus akan lebih baik lagi.	Y	dan	3	  929,219	1.9105	31.3333	ind_news_2016_00724226
+12	Pada 2008 menjadi Rp 624 juta dan tahun lalu menjadi Rp 700 juta.	Y	dan	3	  929,219	1.9105	39.8571	ind_news_2011_00102420
+13	Saat itu saya dan anak saya berada di dalam rumah.	Y	dan	3	  929,219	1.9105	46.8889	ind_news_2016_00725867
+14	Pada 2010 sejumlah 991 orang atau 96 persen dan pada 2011 sejumlah 622 orang (42 persen).	Y	dan	3	  929,219	1.9105	52.8333	ind_news_2012_00557439
+15	Ada yang bulan ini dan ada yang baru bulan depan.	Y	dan	3	  929,219	1.9105	54	ind_news_2011_00023972
+16	Saat ini sudah lebih baik dan harus akan lebih baik lagi.	Y	ini	4	  558,199	1.1477	31.3333	ind_news_2016_00724226
+17	Namun, kata dia, yang selama ini terjadi, tidak seperti itu.	Y	ini	4	  558,199	1.1477	34.2	ind_news_2011_00525949
+18	Tapi, saya tak akan mengatakan bahwa hal ini sama dengan ketika saya masih 50 tahun.	Y	ini	4	  558,199	1.1477	46.1538	ind_news_2012_00485163
+19	Ada yang bulan ini dan ada yang baru bulan depan.	Y	ini	4	  558,199	1.1477	54	ind_news_2011_00023972
+20	Tahun ini jumlah bisa mencapai 50 juta orang ke seluruh dunia.	Y	ini	4	  558,199	1.1477	86.8	ind_news_2011_00514298
+21	“Itu tidak akan baik baik untuk anak-anak saya atau masyarakat.	Y	itu	5	  494,644	1.017	33.6667	ind_news_2011_00313480
+22	Namun, kata dia, yang selama ini terjadi, tidak seperti itu.	Y	itu	5	  494,644	1.017	34.2	ind_news_2011_00525949
+23	“Karena memang setiap tahun juga sudah seperti itu,” kata dia.	Y	itu	5	  494,644	1.017	45.6	ind_news_2012_00681250
+24	Sebab menurut mereka hal itu pernah terjadi pada tahun-tahun sebelumnya.	Y	itu	5	  494,644	1.017	77.9	ind_news_2011_00164129
+25	Oleh sebab itu, kita harus mulai dari diri kita sendiri.	Y	itu	5	  494,644	1.017	85.7778	ind_news_2016_00610343
+26	Tapi, saya tak akan mengatakan bahwa hal ini sama dengan ketika saya masih 50 tahun.	Y	dengan	6	  467,199	0.9606	46.1538	ind_news_2012_00485163
+27	Tidak hanya mereka bisa bersama dengan baik dalam film, namun juga di luar film.	Y	dengan	6	  467,199	0.9606	67.3846	ind_news_2012_00878972
+28	Jadi, secara hukum, tidak ada yang salah dengan SE ini.	Y	dengan	6	  467,199	0.9606	69	ind_news_2016_00332223
+29	Tim ini masih sama dengan tim yang ada dua atau tiga pekan lalu.	Y	dengan	6	  467,199	0.9606	69.0833	ind_news_2016_00947483
+30	Hal tersebut sudah berlangsung sejak tahun 2012 sampai dengan saat ini.	Y	dengan	6	  467,199	0.9606	75.7	ind_news_2016_00254475
+31	“Itu tidak akan baik baik untuk anak-anak saya atau masyarakat.	Y	untuk	7	  461,183	0.9482	33.6667	ind_news_2011_00313480
+32	Juga untuk pelaku agar tidak akan melakukan hal seperti itu lagi.	Y	untuk	7	  461,183	0.9482	56.6364	ind_news_2011_00351600
+33	Tidak hanya untuk diri sendiri, tapi juga untuk orang lain.	Y	untuk	7	  461,183	0.9482	63.6667	ind_news_2016_00943337
+34	“Tapi, untuk kasus ini para tersangka adalah orang atau pemain baru,”katanya.	Y	untuk	7	  461,183	0.9482	69.75	ind_news_2016_00915990
+35	Untuk itu, akan terjadi beberapa hal yang diharapkan terjadi di 2016.	Y	untuk	7	  461,183	0.9482	71.5556	ind_news_2016_00962834
+36	Saat ini mereka adalah tim yang lebih baik dari kami.	Y	dari	8	  410,672	0.8444	32.4	ind_news_2012_00645003
+37	Tapi dari pihak warga ini belum ada yang menjadi tersangka, katanya.	Y	dari	8	  410,672	0.8444	59.1818	ind_news_2011_00997600
+38	Mereka memberikan semua, setiap hari, dan saya tidak bisa meminta yang lebih dari mereka.	Y	dari	8	  410,672	0.8444	61.3846	ind_news_2012_00994270
+39	Namun hak yang ada pada kita tidak lebih dari hak orang lain terhadap jalan tersebut.	Y	dari	8	  410,672	0.8444	65.6429	ind_news_2012_00217023
+40	“Dua orang lebih baik dari satu orang, dan tiga orang lebih baik dari dua orang, dan empat lebih baik dari tiga orang.	Y	dari	8	  410,672	0.8444	67.4444	ind_news_2011_00621019
+41	“Itu tidak akan baik baik untuk anak-anak saya atau masyarakat.	Y	tidak	9	  349,679	0.719	33.6667	ind_news_2011_00313480
+42	’’Namun katanya kalau tahun lalu sudah dapat, tahun ini tidak bisa.’	Y	tidak	9	  349,679	0.719	42.1	ind_news_2012_00064370
+43	Tidak, saya hanya melakukan apa yang ada di kepala saya.	Y	tidak	9	  349,679	0.719	47.2222	ind_news_2016_00944879
+44	Saya tidak pernah menjadi besar kepala dan tidak akan pernah.	Y	tidak	9	  349,679	0.719	57.875	ind_news_2011_00795805
+45	Tidak hanya dari dalam negeri, bahkan juga dari luar negeri.	Y	tidak	9	  349,679	0.719	69.5	ind_news_2011_00836413
+46	Saat itu saya dan anak saya berada di dalam rumah.	Y	dalam	10	  325,160	0.6685	46.8889	ind_news_2016_00725867
+47	“Kalau itu saya tidak tahu karena saya ada di dalam.	Y	dalam	10	  325,160	0.6685	53.4444	ind_news_2016_00363412
+48	Tidak hanya mereka bisa bersama dengan baik dalam film, namun juga di luar film.	Y	dalam	10	  325,160	0.6685	67.3846	ind_news_2012_00878972
+49	Tidak hanya dari dalam negeri, bahkan juga dari luar negeri.	Y	dalam	10	  325,160	0.6685	69.5	ind_news_2011_00836413
+50	Hanya saja memang masih ada beberapa yang tidak ikut dalam program ini.	Y	dalam	10	  325,160	0.6685	72.25	ind_news_2016_00258557
+51	Saat ini sudah lebih baik dan harus akan lebih baik lagi.	Y	akan	11	  312,184	0.6419	31.3333	ind_news_2016_00724226
+52	“Itu tidak akan baik baik untuk anak-anak saya atau masyarakat.	Y	akan	11	  312,184	0.6419	33.6667	ind_news_2011_00313480
+53	Tapi, saya tak akan mengatakan bahwa hal ini sama dengan ketika saya masih 50 tahun.	Y	akan	11	  312,184	0.6419	46.1538	ind_news_2012_00485163
+54	“Kami akan memiliki sekitar 10 orang lebih banyak di tim ini tahun depan.	Y	akan	11	  312,184	0.6419	51.3333	ind_news_2011_00695180
+55	Jika memang daerah memiliki dana maka akan bisa lebih besar lagi.	Y	akan	11	  312,184	0.6419	78.9091	ind_news_2011_00224283
+56	Pada 2008 menjadi Rp 624 juta dan tahun lalu menjadi Rp 700 juta.	Y	pada	12	  269,152	0.5534	39.8571	ind_news_2011_00102420
+57	Saya tidak dapat mengatakan apa-apa lagi pada saat ini.	Y	pada	12	  269,152	0.5534	46	ind_news_2012_00821931
+58	Pada 2010 sejumlah 991 orang atau 96 persen dan pada 2011 sejumlah 622 orang (42 persen).	Y	pada	12	  269,152	0.5534	52.8333	ind_news_2012_00557439
+59	Namun hak yang ada pada kita tidak lebih dari hak orang lain terhadap jalan tersebut.	Y	pada	12	  269,152	0.5534	65.6429	ind_news_2012_00217023
+60	“(Tetap) benar apa yang terjadi pada hari itu dan itu benar hingga hari ini,” katanya.	Y	pada	12	  269,152	0.5534	68.3333	ind_news_2011_00535986
+61	Kami tidak ke mana-mana, tapi ada di mana-mana.	Y	ke	13	  244,682	0.5031	63.1429	ind_news_2016_00386334
+62	Namun, yang ke Indonesia baru 1 persen atau masih di angka 1,2 juta orang.	Y	ke	13	  244,682	0.5031	76.5	ind_news_2016_00599754
+63	Jadi, kita akan melihat apa yang terjadi dalam beberapa hari ke depan.	Y	ke	13	  244,682	0.5031	78.4167	ind_news_2012_00251729
+64	Tapi yang ke Indonesia baru 1%, masih di angka 1,2 juta orang.	Y	ke	13	  244,682	0.5031	80.4	ind_news_2016_00916472
+65	Saat itu juga belum tahu kasus tersebut akan ke mana.	Y	ke	13	  244,682	0.5031	83.2	ind_news_2011_00523943
+66	“Karena memang setiap tahun juga sudah seperti itu,” kata dia.	Y	juga	14	  236,123	0.4855	45.6	ind_news_2012_00681250
+67	Tidak hanya terjadi di Indonesia, tetapi juga terjadi di negara lain.	Y	juga	14	  236,123	0.4855	53.1111	ind_news_2012_00002705
+68	Tidak hanya untuk diri sendiri, tapi juga untuk orang lain.	Y	juga	14	  236,123	0.4855	63.6667	ind_news_2016_00943337
+69	Tidak hanya dari dalam negeri, bahkan juga dari luar negeri.	Y	juga	14	  236,123	0.4855	69.5	ind_news_2011_00836413
+70	Tak hanya di dalam negeri, tetapi juga di luar negeri.	Y	juga	14	  236,123	0.4855	77.75	ind_news_2016_00898163
+71	Namun hak yang ada pada kita tidak lebih dari hak orang lain terhadap jalan tersebut.	Y	tersebut	15	  221,939	0.4563	65.6429	ind_news_2012_00217023
+72	Atau bisa jadi mereka juga akan melakukan hal yang sama, ketika mereka berada di posisi seperti pemain-pemain tersebut.	Y	tersebut	15	  221,939	0.4563	72.5294	ind_news_2012_00359658
+73	Hal tersebut sudah berlangsung sejak tahun 2012 sampai dengan saat ini.	Y	tersebut	15	  221,939	0.4563	75.7	ind_news_2016_00254475
+74	Pasalnya belum ada satu daerah pun di Indonesia yang melakukan hal tersebut.	Y	tersebut	15	  221,939	0.4563	76.75	ind_news_2016_00636066
+75	Namun dari jumlah tersebut, pemerintah hanya mampu sekitar 1,6 juta saja.	Y	tersebut	15	  221,939	0.4563	79.9	ind_news_2011_00061101
+76	Mereka ada yang sudah satu tahun, ada yang satu bulan.	Y	ada	16	  212,974	0.4379	38.5714	ind_news_2016_00543767
+77	Tidak, saya hanya melakukan apa yang ada di kepala saya.	Y	ada	16	  212,974	0.4379	47.2222	ind_news_2016_00944879
+78	Ada yang Rp6 juta, tapi juga ada sekitar Rp2 juta.	Y	ada	16	  212,974	0.4379	52.7143	ind_news_2011_00985542
+79	“Kalau itu saya tidak tahu karena saya ada di dalam.	Y	ada	16	  212,974	0.4379	53.4444	ind_news_2016_00363412
+80	Ada yang bulan ini dan ada yang baru bulan depan.	Y	ada	16	  212,974	0.4379	54	ind_news_2011_00023972
+81	“Karena memang setiap tahun juga sudah seperti itu,” kata dia.	Y	karena	17	  194,807	0.4005	45.6	ind_news_2012_00681250
+82	“Kalau itu saya tidak tahu karena saya ada di dalam.	Y	karena	17	  194,807	0.4005	53.4444	ind_news_2016_00363412
+83	Karena dia saat itu dia sedang berada di luar kota.	Y	karena	17	  194,807	0.4005	77.8889	ind_news_2011_00867314
+84	Selain itu juga beberapa kegiatan belum jalan karena masih di awal tahun.	Y	karena	17	  194,807	0.4005	79.1667	ind_news_2011_00630206
+85	Oleh karena itu, rumah seperti itu tidak baik untuk tempat tinggal.	Y	karena	17	  194,807	0.4005	82.8	ind_news_2011_00121029
+86	’’Namun katanya kalau tahun lalu sudah dapat, tahun ini tidak bisa.’	Y	bisa	18	  191,086	0.3929	42.1	ind_news_2012_00064370
+87	Mereka memberikan semua, setiap hari, dan saya tidak bisa meminta yang lebih dari mereka.	Y	bisa	18	  191,086	0.3929	61.3846	ind_news_2012_00994270
+88	Tidak hanya mereka bisa bersama dengan baik dalam film, namun juga di luar film.	Y	bisa	18	  191,086	0.3929	67.3846	ind_news_2012_00878972
+89	Namun saat ini, ia belum bisa melihat program apa yang akan dilakukan.	Y	bisa	18	  191,086	0.3929	67.4167	ind_news_2011_00713650
+90	Musim ini masih bisa menjadi musim yang baik bagi kami.	Y	bisa	18	  191,086	0.3929	67.7778	ind_news_2012_00580110
+91	Saat ini sudah lebih baik dan harus akan lebih baik lagi.	Y	sudah	19	  180,172	0.3704	31.3333	ind_news_2016_00724226
+92	Mereka ada yang sudah satu tahun, ada yang satu bulan.	Y	sudah	19	  180,172	0.3704	38.5714	ind_news_2016_00543767
+93	’’Namun katanya kalau tahun lalu sudah dapat, tahun ini tidak bisa.’	Y	sudah	19	  180,172	0.3704	42.1	ind_news_2012_00064370
+94	“Karena memang setiap tahun juga sudah seperti itu,” kata dia.	Y	sudah	19	  180,172	0.3704	45.6	ind_news_2012_00681250
+95	Kami adalah sama seperti tahun lalu, tetapi sudah mulai lebih baik.	Y	sudah	19	  180,172	0.3704	66.4545	ind_news_2016_00372159
+96	Saat ini sudah lebih baik dan harus akan lebih baik lagi.	Y	saat	20	  165,128	0.3395	31.3333	ind_news_2016_00724226
+97	Saat ini mereka adalah tim yang lebih baik dari kami.	Y	saat	20	  165,128	0.3395	32.4	ind_news_2012_00645003
+98	Saya tidak dapat mengatakan apa-apa lagi pada saat ini.	Y	saat	20	  165,128	0.3395	46	ind_news_2012_00821931
+99	Saat itu saya dan anak saya berada di dalam rumah.	Y	saat	20	  165,128	0.3395	46.8889	ind_news_2016_00725867
+100	“Saat ini di daerah ada yang baik dan ada juga yang kurang.	Y	saat	20	  165,128	0.3395	59.1	ind_news_2011_00784325
+101	Mereka ada yang sudah satu tahun, ada yang satu bulan.	Y	tahun	21	  157,749	0.3243	38.5714	ind_news_2016_00543767
+102	’’Namun katanya kalau tahun lalu sudah dapat, tahun ini tidak bisa.’	Y	tahun	21	  157,749	0.3243	42.1	ind_news_2012_00064370
+103	Tapi, saya tak akan mengatakan bahwa hal ini sama dengan ketika saya masih 50 tahun.	Y	tahun	21	  157,749	0.3243	46.1538	ind_news_2012_00485163
+104	Kami adalah sama seperti tahun lalu, tetapi sudah mulai lebih baik.	Y	tahun	21	  157,749	0.3243	66.4545	ind_news_2016_00372159
+105	Tahun ini jumlah bisa mencapai 50 juta orang ke seluruh dunia.	Y	tahun	21	  157,749	0.3243	86.8	ind_news_2011_00514298
+106	Pada 2008 menjadi Rp 624 juta dan tahun lalu menjadi Rp 700 juta.	Y	menjadi	22	  156,464	0.3217	39.8571	ind_news_2011_00102420
+107	Apa saja yang telah menjadi kasus yang terjadi di Jakarta?	Y	menjadi	22	  156,464	0.3217	56.7778	ind_news_2016_00042891
+108	Saya tidak pernah menjadi besar kepala dan tidak akan pernah.	Y	menjadi	22	  156,464	0.3217	57.875	ind_news_2011_00795805
+109	Tapi dari pihak warga ini belum ada yang menjadi tersangka, katanya.	Y	menjadi	22	  156,464	0.3217	59.1818	ind_news_2011_00997600
+110	Musim ini masih bisa menjadi musim yang baik bagi kami.	Y	menjadi	22	  156,464	0.3217	67.7778	ind_news_2012_00580110
+111	Saat ini mereka adalah tim yang lebih baik dari kami.	Y	mereka	23	  147,078	0.3024	32.4	ind_news_2012_00645003
+112	Mereka ada yang sudah satu tahun, ada yang satu bulan.	Y	mereka	23	  147,078	0.3024	38.5714	ind_news_2016_00543767
+113	Mereka memberikan semua, setiap hari, dan saya tidak bisa meminta yang lebih dari mereka.	Y	mereka	23	  147,078	0.3024	61.3846	ind_news_2012_00994270
+114	Tidak hanya mereka bisa bersama dengan baik dalam film, namun juga di luar film.	Y	mereka	23	  147,078	0.3024	67.3846	ind_news_2012_00878972
+115	Mereka bahkan sudah berada di kota ini sejak 10 hari lalu.	Y	mereka	23	  147,078	0.3024	67.4	ind_news_2011_00186351
+116	Tidak hanya terjadi di Indonesia, tetapi juga terjadi di negara lain.	Y	indonesia	24	  134,223	0.276	53.1111	ind_news_2012_00002705
+117	Tidak hanya bagi bank itu sendiri, tapi bagi pemerintah dan masyarakat Indonesia.	Y	indonesia	24	  134,223	0.276	62.0909	ind_news_2016_00942299
+118	Di Indonesia, mereka bisa tinggal 1-3 tahun, bahkan ada yang sampai 7 tahun.	Y	indonesia	24	  134,223	0.276	74.2	ind_news_2012_00744233
+119	Dan ini terjadi bukan hanya di kota Manado tapi terjadi di semua kota di Indonesia.	Y	indonesia	24	  134,223	0.276	75	ind_news_2012_00238632
+120	Namun, yang ke Indonesia baru 1 persen atau masih di angka 1,2 juta orang.	Y	indonesia	24	  134,223	0.276	76.5	ind_news_2016_00599754
+121	“Namun sebagai sebuah tim besar, kami tetap menerima hasil ini.	Y	sebagai	25	  128,722	0.2647	100.1	ind_news_2016_00595527
+122	Tapi saya tak bisa menerima jika mereka tak bermain sebagai sebuah tim.	Y	sebagai	25	  128,722	0.2647	117.7273	ind_news_2012_00041137
+123	Sebagai kabupaten baru, Mitra harus lebih dari daerah kabupaten/kota lainnya di Sulut.	Y	sebagai	25	  128,722	0.2647	125	ind_news_2016_00770361
+124	Karena itu sudah jadi hak saya sebagai warga negara untuk ikut serta dalam Pemilu.	Y	sebagai	25	  128,722	0.2647	125.7857	ind_news_2011_00089530
+125	Apa yang terjadi membantu kami untuk menjadi lebih kuat sebagai sebuah tim.	Y	sebagai	25	  128,722	0.2647	133.4167	ind_news_2011_00549822
+126	“Itu tidak akan baik baik untuk anak-anak saya atau masyarakat.	Y	saya	26	  128,153	0.2635	33.6667	ind_news_2011_00313480
+127	Saya tidak dapat mengatakan apa-apa lagi pada saat ini.	Y	saya	26	  128,153	0.2635	46	ind_news_2012_00821931
+128	Tapi, saya tak akan mengatakan bahwa hal ini sama dengan ketika saya masih 50 tahun.	Y	saya	26	  128,153	0.2635	46.1538	ind_news_2012_00485163
+129	Tidak, saya hanya melakukan apa yang ada di kepala saya.	Y	saya	26	  128,153	0.2635	47.2222	ind_news_2016_00944879
+130	Saya tidak pernah menjadi besar kepala dan tidak akan pernah.	Y	saya	26	  128,153	0.2635	57.875	ind_news_2011_00795805
+131	Saat ini sudah lebih baik dan harus akan lebih baik lagi.	Y	lebih	27	  127,295	0.2617	31.3333	ind_news_2016_00724226
+132	Saat ini mereka adalah tim yang lebih baik dari kami.	Y	lebih	27	  127,295	0.2617	32.4	ind_news_2012_00645003
+133	“Kami akan memiliki sekitar 10 orang lebih banyak di tim ini tahun depan.	Y	lebih	27	  127,295	0.2617	51.3333	ind_news_2011_00695180
+134	Kami adalah sama seperti tahun lalu, tetapi sudah mulai lebih baik.	Y	lebih	27	  127,295	0.2617	66.4545	ind_news_2016_00372159
+135	Jika memang daerah memiliki dana maka akan bisa lebih besar lagi.	Y	lebih	27	  127,295	0.2617	78.9091	ind_news_2011_00224283
+136	Oleh karena itu, rumah seperti itu tidak baik untuk tempat tinggal.	Y	oleh	28	  125,502	0.258	82.8	ind_news_2011_00121029
+137	Oleh sebab itu, kita harus mulai dari diri kita sendiri.	Y	oleh	28	  125,502	0.258	85.7778	ind_news_2016_00610343
+138	Apa yang dilakukan ibu saya tidak mungkin bisa dilakukan oleh orang lain.	Y	oleh	28	  125,502	0.258	95.1818	ind_news_2011_00539137
+139	Memang, kegiatan-kegiatan warga itu digelar oleh, dari dan untuk masyarakat.	Y	oleh	28	  125,502	0.258	95.5	ind_news_2012_00722041
+140	Hal yang tidak banyak dilakukan oleh perempuan yang tidak punya anak.	Y	oleh	28	  125,502	0.258	111.3333	ind_news_2011_00543500
+141	Namun, kata dia, yang selama ini terjadi, tidak seperti itu.	Y	kata	29	  118,999	0.2447	34.2	ind_news_2011_00525949
+142	“Karena memang setiap tahun juga sudah seperti itu,” kata dia.	Y	kata	29	  118,999	0.2447	45.6	ind_news_2012_00681250
+143	Jadi ini sama saja, ini bukan hal baru untuk keluarga, kata dia.	Y	kata	29	  118,999	0.2447	74.6364	ind_news_2012_00395759
+144	Ini sudah berlangsung sejak tiga tahun yang lalu, kata dia.	Y	kata	29	  118,999	0.2447	79.6	ind_news_2011_00127442
+145	Dengan kata lain, setiap tahun tidak kurang dari Rp2,4 miliar.	Y	kata	29	  118,999	0.2447	92	ind_news_2011_00628908
+146	Saat ini sudah lebih baik dan harus akan lebih baik lagi.	Y	harus	30	  116,806	0.2402	31.3333	ind_news_2016_00724226
+147	Saya tidak bisa, saya harus menjadi diri saya sendiri, ujarnya.	Y	harus	30	  116,806	0.2402	79.5	ind_news_2012_00413909
+148	Dengan kondisi yang ada saat ini, harus ada kebijakan baru, katanya di Jakarta, Senin (2/1).	Y	harus	30	  116,806	0.2402	83.7692	ind_news_2012_00351014
+149	Oleh sebab itu, kita harus mulai dari diri kita sendiri.	Y	harus	30	  116,806	0.2402	85.7778	ind_news_2016_00610343
+150	Begitu juga dengan seorang pejabat, ia juga harus bisa melakukan hal yang sama.	Y	harus	30	  116,806	0.2402	86.6667	ind_news_2012_00728450
+151	Namun, kata dia, yang selama ini terjadi, tidak seperti itu.	Y	dia	31	  116,300	0.2391	34.2	ind_news_2011_00525949
+152	“Karena memang setiap tahun juga sudah seperti itu,” kata dia.	Y	dia	31	  116,300	0.2391	45.6	ind_news_2012_00681250
+153	Tapi saya mau dia menjadi orang yang lebih baik saja, katanya.	Y	dia	31	  116,300	0.2391	67.8182	ind_news_2012_00771699
+154	Sementara jumlah guru yang ada saat ini, menurut dia, sudah lebih dari cukup.	Y	dia	31	  116,300	0.2391	70.8462	ind_news_2011_00986986
+155	Jadi ini sama saja, ini bukan hal baru untuk keluarga, kata dia.	Y	dia	31	  116,300	0.2391	74.6364	ind_news_2012_00395759
+156	“Itu tidak akan baik baik untuk anak-anak saya atau masyarakat.	Y	atau	32	  114,123	0.2346	33.6667	ind_news_2011_00313480
+157	Pada 2010 sejumlah 991 orang atau 96 persen dan pada 2011 sejumlah 622 orang (42 persen).	Y	atau	32	  114,123	0.2346	52.8333	ind_news_2012_00557439
+158	Tim ini masih sama dengan tim yang ada dua atau tiga pekan lalu.	Y	atau	32	  114,123	0.2346	69.0833	ind_news_2016_00947483
+159	Pada 2011 hanya ada 40 kasus, tahun ini naik menjadi 139 kasus atau sekitar 247%.	Y	atau	32	  114,123	0.2346	69.7	ind_news_2012_00084274
+160	“Tapi, untuk kasus ini para tersangka adalah orang atau pemain baru,”katanya.	Y	atau	32	  114,123	0.2346	69.75	ind_news_2016_00915990
+161	Saat ini mereka adalah tim yang lebih baik dari kami.	Y	kami	33	  112,832	0.232	32.4	ind_news_2012_00645003
+162	“Kami akan memiliki sekitar 10 orang lebih banyak di tim ini tahun depan.	Y	kami	33	  112,832	0.232	51.3333	ind_news_2011_00695180
+163	Kami tidak ke mana-mana, tapi ada di mana-mana.	Y	kami	33	  112,832	0.232	63.1429	ind_news_2016_00386334
+164	Padahal, di antara kami tidak ada yang melakukan hal itu.	Y	kami	33	  112,832	0.232	65.2	ind_news_2012_00047493
+165	Kami adalah sama seperti tahun lalu, tetapi sudah mulai lebih baik.	Y	kami	33	  112,832	0.232	66.4545	ind_news_2016_00372159
+166	Namun, kata dia, yang selama ini terjadi, tidak seperti itu.	Y	namun	34	  111,596	0.2294	34.2	ind_news_2011_00525949
+167	’’Namun katanya kalau tahun lalu sudah dapat, tahun ini tidak bisa.’	Y	namun	34	  111,596	0.2294	42.1	ind_news_2012_00064370
+168	Namun hak yang ada pada kita tidak lebih dari hak orang lain terhadap jalan tersebut.	Y	namun	34	  111,596	0.2294	65.6429	ind_news_2012_00217023
+169	Tidak hanya mereka bisa bersama dengan baik dalam film, namun juga di luar film.	Y	namun	34	  111,596	0.2294	67.3846	ind_news_2012_00878972
+170	Namun saat ini, ia belum bisa melihat program apa yang akan dilakukan.	Y	namun	34	  111,596	0.2294	67.4167	ind_news_2011_00713650
+171	“Kami akan memiliki sekitar 10 orang lebih banyak di tim ini tahun depan.	Y	orang	35	  111,240	0.2287	51.3333	ind_news_2011_00695180
+172	Pada 2010 sejumlah 991 orang atau 96 persen dan pada 2011 sejumlah 622 orang (42 persen).	Y	orang	35	  111,240	0.2287	52.8333	ind_news_2012_00557439
+173	Tidak hanya untuk diri sendiri, tapi juga untuk orang lain.	Y	orang	35	  111,240	0.2287	63.6667	ind_news_2016_00943337
+174	Namun hak yang ada pada kita tidak lebih dari hak orang lain terhadap jalan tersebut.	Y	orang	35	  111,240	0.2287	65.6429	ind_news_2012_00217023
+175	“Dua orang lebih baik dari satu orang, dan tiga orang lebih baik dari dua orang, dan empat lebih baik dari tiga orang.	Y	orang	35	  111,240	0.2287	67.4444	ind_news_2011_00621019
+176	Apa saja yang telah menjadi kasus yang terjadi di Jakarta?	Y	telah	36	  110,857	0.2279	56.7778	ind_news_2016_00042891
+177	Tim telah bermain sangat baik dan telah memberikan yang mereka bisa.	Y	telah	36	  110,857	0.2279	86.9	ind_news_2012_00052143
+178	Namun, kedua perusahaan ini telah melakukan kegiatan usaha di Indonesia baik secara langsung maupun tidak langsung.	Y	telah	36	  110,857	0.2279	100.3333	ind_news_2016_00588586
+179	Di Indonesia program ini sejak 2008 ini telah membantu 3.700 orang di 15 kota di Indonesia.	Y	telah	36	  110,857	0.2279	101	ind_news_2012_00732558
+180	Kami telah menunggu saat ini untuk waktu yang sangat lama.	Y	telah	36	  110,857	0.2279	107.9	ind_news_2012_00782714
+181	Tapi, saya tak akan mengatakan bahwa hal ini sama dengan ketika saya masih 50 tahun.	Y	masih	37	  110,718	0.2276	46.1538	ind_news_2012_00485163
+182	Musim ini masih bisa menjadi musim yang baik bagi kami.	Y	masih	37	  110,718	0.2276	67.7778	ind_news_2012_00580110
+183	Tim ini masih sama dengan tim yang ada dua atau tiga pekan lalu.	Y	masih	37	  110,718	0.2276	69.0833	ind_news_2016_00947483
+184	“Masih ada 20 persen lagi yang terkait kasus ini,” katanya beberapa waktu lalu.	Y	masih	37	  110,718	0.2276	71.6667	ind_news_2011_00848718
+185	Hanya saja memang masih ada beberapa yang tidak ikut dalam program ini.	Y	masih	37	  110,718	0.2276	72.25	ind_news_2016_00258557
+186	Tidak, saya hanya melakukan apa yang ada di kepala saya.	Y	hanya	38	  110,687	0.2276	47.2222	ind_news_2016_00944879
+187	Tidak hanya terjadi di Indonesia, tetapi juga terjadi di negara lain.	Y	hanya	38	  110,687	0.2276	53.1111	ind_news_2012_00002705
+188	Tidak hanya untuk diri sendiri, tapi juga untuk orang lain.	Y	hanya	38	  110,687	0.2276	63.6667	ind_news_2016_00943337
+189	Tapi ini tidak hanya terjadi di jakarta, tapi di daerah lain dan luar negeri.	Y	hanya	38	  110,687	0.2276	64.0833	ind_news_2012_00855284
+190	Tak hanya di dalam negeri, tetapi juga di luar negeri.	Y	hanya	38	  110,687	0.2276	77.75	ind_news_2016_00898163
+191	Tapi, saya tak akan mengatakan bahwa hal ini sama dengan ketika saya masih 50 tahun.	Y	tak	39	  109,627	0.2254	46.1538	ind_news_2012_00485163
+192	Tak hanya di dalam negeri, tetapi juga di luar negeri.	Y	tak	39	  109,627	0.2254	77.75	ind_news_2016_00898163
+193	Bahkan warga ini tak hanya datang dari Jakarta, tapi dari tempat-tempat lain.	Y	tak	39	  109,627	0.2254	80.3636	ind_news_2016_00067801
+194	“Saya juga tak tahu ada pemain baru yang akan datang.	Y	tak	39	  109,627	0.2254	88.2	ind_news_2016_00746857
+195	Saya tak pernah melihat hal seperti itu ada pada dirinya sebelumnya.	Y	tak	39	  109,627	0.2254	90.9091	ind_news_2012_00910355
+196	Mereka ada yang sudah satu tahun, ada yang satu bulan.	Y	satu	40	  109,304	0.2247	38.5714	ind_news_2016_00543767
+197	“Dua orang lebih baik dari satu orang, dan tiga orang lebih baik dari dua orang, dan empat lebih baik dari tiga orang.	Y	satu	40	  109,304	0.2247	67.4444	ind_news_2011_00621019
+198	Pasalnya belum ada satu daerah pun di Indonesia yang melakukan hal tersebut.	Y	satu	40	  109,304	0.2247	76.75	ind_news_2016_00636066
+199	Mereka adalah salah satu tim terbaik di dunia dan tidak hanya tahun ini.	Y	satu	40	  109,304	0.2247	77.0769	ind_news_2011_00498576
+200	Bahkan, saat itu, tidak ada satu pun polisi yang berada di lokasi.	Y	satu	40	  109,304	0.2247	79.9167	ind_news_2011_00736930
+201	Saat ini mereka adalah tim yang lebih baik dari kami.	Y	adalah	41	  106,289	0.2185	32.4	ind_news_2012_00645003
+202	Kami adalah sama seperti tahun lalu, tetapi sudah mulai lebih baik.	Y	adalah	41	  106,289	0.2185	66.4545	ind_news_2016_00372159
+203	“Tapi, untuk kasus ini para tersangka adalah orang atau pemain baru,”katanya.	Y	adalah	41	  106,289	0.2185	69.75	ind_news_2016_00915990
+204	Mereka adalah salah satu tim terbaik di dunia dan tidak hanya tahun ini.	Y	adalah	41	  106,289	0.2185	77.0769	ind_news_2011_00498576
+205	Mereka adalah salah satu tim terbaik yang ada di Indonesia.	Y	adalah	41	  106,289	0.2185	84.7	ind_news_2012_00786645
+206	Apa saja yang telah menjadi kasus yang terjadi di Jakarta?	Y	jakarta	42	  105,869	0.2177	56.7778	ind_news_2016_00042891
+207	Tapi ini tidak hanya terjadi di jakarta, tapi di daerah lain dan luar negeri.	Y	jakarta	42	  105,869	0.2177	64.0833	ind_news_2012_00855284
+208	Bahkan warga ini tak hanya datang dari Jakarta, tapi dari tempat-tempat lain.	Y	jakarta	42	  105,869	0.2177	80.3636	ind_news_2016_00067801
+209	Yang jelas, yang bisa membuat Jakarta lebih baik lagi dari sekarang.	Y	jakarta	42	  105,869	0.2177	81.5	ind_news_2016_00992963
+210	Dengan kondisi yang ada saat ini, harus ada kebijakan baru, katanya di Jakarta, Senin (2/1).	Y	jakarta	42	  105,869	0.2177	83.7692	ind_news_2012_00351014
+211	“Tapi, untuk kasus ini para tersangka adalah orang atau pemain baru,”katanya.	Y	para	43	  103,242	0.2123	69.75	ind_news_2016_00915990
+212	Ia juga menambahkan, Ia membuat para pemain menjadi lebih baik.	Y	para	43	  103,242	0.2123	96	ind_news_2011_00750204
+213	Namun keputusan pemerintah tersebut, juga di tentang oleh para anggota dewan.	Y	para	43	  103,242	0.2123	120.6364	ind_news_2011_00063634
+214	Kita semua merupakan karya dari para guru kita,” kata presiden.	Y	para	43	  103,242	0.2123	124.4444	ind_news_2016_00458421
+215	Untuk itu, dalam kasus ini kementerian tidak bisa menyatakan salah atau benar terhadap para pengusaha.	Y	para	43	  103,242	0.2123	129.4667	ind_news_2016_00962994
+216	Ini mengatakan kepada orang lain apa yang menjadi kebutuhan mereka.	Y	kepada	44	  101,781	0.2093	79	ind_news_2011_00868728
+217	Dari Rp 8,5 juta, hanya Rp 8,2 juta yang diberikan kepada warga.	Y	kepada	44	  101,781	0.2093	96.625	ind_news_2011_00767381
+218	Tapi ini, sampai Rp40 juta,” kata kepada wartawan baru-baru ini.	Y	kepada	44	  101,781	0.2093	98	ind_news_2011_00965340
+219	Sebab, mereka hanya meminta uang kepada korban secara baik-baik.	Y	kepada	44	  101,781	0.2093	106.8889	ind_news_2016_00765167
+220	Selain itu, tim juga akan melakukan pemeriksaan kesehatan kepada sejumlah warga desa tersebut.	Y	kepada	44	  101,781	0.2093	114.6923	ind_news_2011_00738128
+221	Tapi, saya tak akan mengatakan bahwa hal ini sama dengan ketika saya masih 50 tahun.	Y	hal	45	   99,147	0.2038	46.1538	ind_news_2012_00485163
+222	Juga untuk pelaku agar tidak akan melakukan hal seperti itu lagi.	Y	hal	45	   99,147	0.2038	56.6364	ind_news_2011_00351600
+223	Padahal, di antara kami tidak ada yang melakukan hal itu.	Y	hal	45	   99,147	0.2038	65.2	ind_news_2012_00047493
+224	Untuk itu, akan terjadi beberapa hal yang diharapkan terjadi di 2016.	Y	hal	45	   99,147	0.2038	71.5556	ind_news_2016_00962834
+225	Atau bisa jadi mereka juga akan melakukan hal yang sama, ketika mereka berada di posisi seperti pemain-pemain tersebut.	Y	hal	45	   99,147	0.2038	72.5294	ind_news_2012_00359658
+226	Namun, kata dia, yang selama ini terjadi, tidak seperti itu.	Y	seperti	46	   96,941	0.1993	34.2	ind_news_2011_00525949
+227	“Karena memang setiap tahun juga sudah seperti itu,” kata dia.	Y	seperti	46	   96,941	0.1993	45.6	ind_news_2012_00681250
+228	Juga untuk pelaku agar tidak akan melakukan hal seperti itu lagi.	Y	seperti	46	   96,941	0.1993	56.6364	ind_news_2011_00351600
+229	Kami adalah sama seperti tahun lalu, tetapi sudah mulai lebih baik.	Y	seperti	46	   96,941	0.1993	66.4545	ind_news_2016_00372159
+230	Sampai saat ini tidak ada informasi yang masuk seperti itu.	Y	seperti	46	   96,941	0.1993	66.5	ind_news_2012_00012184
+231	Pada 2008 menjadi Rp 624 juta dan tahun lalu menjadi Rp 700 juta.	Y	rp	47	   95,160	0.1957	39.8571	ind_news_2011_00102420
+232	Ada yang Rp6 juta, tapi juga ada sekitar Rp2 juta.	Y	rp	47	   95,160	0.1957	52.7143	ind_news_2011_00985542
+233	Yakni dari Rp314,767 miliar di tahun 2011 menjadi Rp274,586 miliar di tahun 2012.	Y	rp	47	   95,160	0.1957	70.7143	ind_news_2012_00691283
+234	Yakni jika pada tahun 2015 hanya sekitar Rp 28 miliar, maka pada tahun 2016 ini menjadi Rp 63 miliar.	Y	rp	47	   95,160	0.1957	78.2727	ind_news_2016_00989787
+235	Ada yang menerima Rp 1,80 juta ada juga yang menerima Rp 1,130 juta.	Y	rp	47	   95,160	0.1957	90.8333	ind_news_2011_00318392
+236	Namun hak yang ada pada kita tidak lebih dari hak orang lain terhadap jalan tersebut.	Y	kita	48	   94,713	0.1947	65.6429	ind_news_2012_00217023
+237	Jadi, kita akan melihat apa yang terjadi dalam beberapa hari ke depan.	Y	kita	48	   94,713	0.1947	78.4167	ind_news_2012_00251729
+238	Oleh sebab itu, kita harus mulai dari diri kita sendiri.	Y	kita	48	   94,713	0.1947	85.7778	ind_news_2016_00610343
+239	Lebih-lebih untuk kita yang akan berada di sekolah baru, lingkungan baru, dan dunia baru.	Y	kita	48	   94,713	0.1947	86.5	ind_news_2011_00925195
+240	Satu lagi, kita masalah karena anak-anak kan masih harus sekolah.	Y	kita	48	   94,713	0.1947	89.8	ind_news_2012_00206242
+241	Saya tidak dapat mengatakan apa-apa lagi pada saat ini.	Y	mengatakan	49	   89,580	0.1842	46	ind_news_2012_00821931
+242	Tapi, saya tak akan mengatakan bahwa hal ini sama dengan ketika saya masih 50 tahun.	Y	mengatakan	49	   89,580	0.1842	46.1538	ind_news_2012_00485163
+243	Saya tidak bisa mengatakan apa yang akan terjadi di masa depan.	Y	mengatakan	49	   89,580	0.1842	69.4545	ind_news_2016_00757358
+244	Ini mengatakan kepada orang lain apa yang menjadi kebutuhan mereka.	Y	mengatakan	49	   89,580	0.1842	79	ind_news_2011_00868728
+245	Namun dia juga mengatakan, Kami juga merupakan sebuah negara penting.	Y	mengatakan	49	   89,580	0.1842	89.1111	ind_news_2012_00201356
+246	Ada yang bulan ini dan ada yang baru bulan depan.	Y	baru	50	   89,188	0.1834	54	ind_news_2011_00023972
+247	“Tapi, untuk kasus ini para tersangka adalah orang atau pemain baru,”katanya.	Y	baru	50	   89,188	0.1834	69.75	ind_news_2016_00915990
+248	Jadi ini sama saja, ini bukan hal baru untuk keluarga, kata dia.	Y	baru	50	   89,188	0.1834	74.6364	ind_news_2012_00395759
+249	Namun, yang ke Indonesia baru 1 persen atau masih di angka 1,2 juta orang.	Y	baru	50	   89,188	0.1834	76.5	ind_news_2016_00599754
+250	Tapi yang ke Indonesia baru 1%, masih di angka 1,2 juta orang.	Y	baru	50	   89,188	0.1834	80.4	ind_news_2016_00916472
+251	“Itu tidak akan baik baik untuk anak-anak saya atau masyarakat.	Y	masyarakat	51	   88,946	0.1829	33.6667	ind_news_2011_00313480
+252	Tidak hanya bagi bank itu sendiri, tapi bagi pemerintah dan masyarakat Indonesia.	Y	masyarakat	51	   88,946	0.1829	62.0909	ind_news_2016_00942299
+253	Memang, kegiatan-kegiatan warga itu digelar oleh, dari dan untuk masyarakat.	Y	masyarakat	51	   88,946	0.1829	95.5	ind_news_2012_00722041
+254	Jadi, pembangunan di Jakarta bukan dari gubernur saja, tapi dari masyarakat.	Y	masyarakat	51	   88,946	0.1829	97.2	ind_news_2012_00755601
+255	Karena bagaimana pun juga, mereka adalah bagian dari masyarakat Sulut.	Y	masyarakat	51	   88,946	0.1829	105.8	ind_news_2016_00391005
+256	Namun saat ini, ia belum bisa melihat program apa yang akan dilakukan.	Y	ia	52	   87,772	0.1805	67.4167	ind_news_2011_00713650
+257	Ketika itu ia merasa baik-baik saja dan tidak ada yang salah.	Y	ia	52	   87,772	0.1805	73.4545	ind_news_2011_00628969
+258	Begitu juga dengan seorang pejabat, ia juga harus bisa melakukan hal yang sama.	Y	ia	52	   87,772	0.1805	86.6667	ind_news_2012_00728450
+259	Apa lagi, saat ini ia memiliki dua orang anak kecil.	Y	ia	52	   87,772	0.1805	92.5	ind_news_2012_00441912
+260	Pertama, ia menjadi bagi orang-orang kecil saat sudah tidak ada yang dapat diharapkan.	Y	ia	52	   87,772	0.1805	93.3846	ind_news_2016_00680241
+261	Tapi dari pihak warga ini belum ada yang menjadi tersangka, katanya.	Y	belum	53	   86,499	0.1778	59.1818	ind_news_2011_00997600
+262	Namun saat ini, ia belum bisa melihat program apa yang akan dilakukan.	Y	belum	53	   86,499	0.1778	67.4167	ind_news_2011_00713650
+263	Pasalnya belum ada satu daerah pun di Indonesia yang melakukan hal tersebut.	Y	belum	53	   86,499	0.1778	76.75	ind_news_2016_00636066
+264	Selain itu juga beberapa kegiatan belum jalan karena masih di awal tahun.	Y	belum	53	   86,499	0.1778	79.1667	ind_news_2011_00630206
+265	Saat itu juga belum tahu kasus tersebut akan ke mana.	Y	belum	53	   86,499	0.1778	83.2	ind_news_2011_00523943
+266	Mereka bahkan sudah berada di kota ini sejak 10 hari lalu.	Y	kota	54	   86,259	0.1774	67.4	ind_news_2011_00186351
+267	Dan ini terjadi bukan hanya di kota Manado tapi terjadi di semua kota di Indonesia.	Y	kota	54	   86,259	0.1774	75	ind_news_2012_00238632
+268	Karena dia saat itu dia sedang berada di luar kota.	Y	kota	54	   86,259	0.1774	77.8889	ind_news_2011_00867314
+269	Sama seperti yang terjadi di Kota Manado beberapa waktu lalu.	Y	kota	54	   86,259	0.1774	82.4	ind_news_2016_00735595
+270	Ketika itu, warga Indonesia yang tinggal di kota itu sudah cukup banyak.	Y	kota	54	   86,259	0.1774	82.6364	ind_news_2016_00444406
+271	“Dua orang lebih baik dari satu orang, dan tiga orang lebih baik dari dua orang, dan empat lebih baik dari tiga orang.	Y	dua	55	   85,186	0.1751	67.4444	ind_news_2011_00621019
+272	Tim ini masih sama dengan tim yang ada dua atau tiga pekan lalu.	Y	dua	55	   85,186	0.1751	69.0833	ind_news_2016_00947483
+273	Namun ada juga kepala daerah tingkat dua yang menjadi korban.	Y	dua	55	   85,186	0.1751	77.9	ind_news_2016_00577864
+274	“Kasus ini sudah ada tersangka, mungkin ada satu atau dua orang.	Y	dua	55	   85,186	0.1751	80.1	ind_news_2011_00420212
+275	Saya sendiri di Ibu Kota sudah dua kali melakukan itu.	Y	dua	55	   85,186	0.1751	83.3	ind_news_2012_00007879
+276	Tidak hanya bagi bank itu sendiri, tapi bagi pemerintah dan masyarakat Indonesia.	Y	pemerintah	56	   85,179	0.1751	62.0909	ind_news_2016_00942299
+277	Namun dari jumlah tersebut, pemerintah hanya mampu sekitar 1,6 juta saja.	Y	pemerintah	56	   85,179	0.1751	79.9	ind_news_2011_00061101
+278	Saya meminta pemerintah kabupaten/kota pun melakukan hal yang sama, katanya.	Y	pemerintah	56	   85,179	0.1751	83.1818	ind_news_2016_00749110
+279	Lebih lanjut, ia meminta agar pemerintah melakukan hal itu secara bersama-sama.	Y	pemerintah	56	   85,179	0.1751	100.6667	ind_news_2016_00480815
+280	Karena tak ada jalan nasional, maka tak ada anggaran dari Pemerintah Pusat.	Y	pemerintah	56	   85,179	0.1751	109	ind_news_2012_00763747
+281	Tapi dari pihak warga ini belum ada yang menjadi tersangka, katanya.	Y	warga	57	   84,261	0.1732	59.1818	ind_news_2011_00997600
+282	Bahkan warga ini tak hanya datang dari Jakarta, tapi dari tempat-tempat lain.	Y	warga	57	   84,261	0.1732	80.3636	ind_news_2016_00067801
+283	Menurut dia, warga Indonesia tidak ada yang menjadi korban dalam bencana itu.	Y	warga	57	   84,261	0.1732	80.4167	ind_news_2011_00173391
+284	Ketika itu, warga Indonesia yang tinggal di kota itu sudah cukup banyak.	Y	warga	57	   84,261	0.1732	82.6364	ind_news_2016_00444406
+285	Warga dari kedua desa kembali ke tempat mereka masing-masing.	Y	warga	57	   84,261	0.1732	88.3333	ind_news_2011_00538870
+286	Pada 2008 menjadi Rp 624 juta dan tahun lalu menjadi Rp 700 juta.	Y	lalu	58	   83,958	0.1726	39.8571	ind_news_2011_00102420
+287	’’Namun katanya kalau tahun lalu sudah dapat, tahun ini tidak bisa.’	Y	lalu	58	   83,958	0.1726	42.1	ind_news_2012_00064370
+288	Kami adalah sama seperti tahun lalu, tetapi sudah mulai lebih baik.	Y	lalu	58	   83,958	0.1726	66.4545	ind_news_2016_00372159
+289	Mereka bahkan sudah berada di kota ini sejak 10 hari lalu.	Y	lalu	58	   83,958	0.1726	67.4	ind_news_2011_00186351
+290	Tim ini masih sama dengan tim yang ada dua atau tiga pekan lalu.	Y	lalu	58	   83,958	0.1726	69.0833	ind_news_2016_00947483
+291	Mereka memberikan semua, setiap hari, dan saya tidak bisa meminta yang lebih dari mereka.	Y	hari	59	   81,872	0.1683	61.3846	ind_news_2012_00994270
+292	Mereka bahkan sudah berada di kota ini sejak 10 hari lalu.	Y	hari	59	   81,872	0.1683	67.4	ind_news_2011_00186351
+293	“(Tetap) benar apa yang terjadi pada hari itu dan itu benar hingga hari ini,” katanya.	Y	hari	59	   81,872	0.1683	68.3333	ind_news_2011_00535986
+294	Di mana saat ini masih mencapai 30 hari, bahkan bisa lebih.	Y	hari	59	   81,872	0.1683	75.5	ind_news_2016_00196403
+295	Jadi, kita akan melihat apa yang terjadi dalam beberapa hari ke depan.	Y	hari	59	   81,872	0.1683	78.4167	ind_news_2012_00251729
+296	“Kami akan memiliki sekitar 10 orang lebih banyak di tim ini tahun depan.	Y	banyak	60	   81,846	0.1683	51.3333	ind_news_2011_00695180
+297	Ketika itu, warga Indonesia yang tinggal di kota itu sudah cukup banyak.	Y	banyak	60	   81,846	0.1683	82.6364	ind_news_2016_00444406
+298	Itu penting karena selama ini banyak orang yang tidak tahu.	Y	banyak	60	   81,846	0.1683	86.5	ind_news_2016_00321930
+299	Namun hanya satu atau dua orang tetapi yang terjadi pada beberapa hari terakhir semakin banyak.	Y	banyak	60	   81,846	0.1683	87.0667	ind_news_2012_00307696
+300	Banyak juga yang tidak sampai karena terus mencari dan mencari.	Y	banyak	60	   81,846	0.1683	89.2222	ind_news_2011_00434754
+301	Tidak, saya hanya melakukan apa yang ada di kepala saya.	Y	melakukan	61	   81,753	0.1681	47.2222	ind_news_2016_00944879
+302	Juga untuk pelaku agar tidak akan melakukan hal seperti itu lagi.	Y	melakukan	61	   81,753	0.1681	56.6364	ind_news_2011_00351600
+303	Padahal, di antara kami tidak ada yang melakukan hal itu.	Y	melakukan	61	   81,753	0.1681	65.2	ind_news_2012_00047493
+304	Atau bisa jadi mereka juga akan melakukan hal yang sama, ketika mereka berada di posisi seperti pemain-pemain tersebut.	Y	melakukan	61	   81,753	0.1681	72.5294	ind_news_2012_00359658
+305	Sementara, di Provinsi dan beberapa Kabupaten juga sudah akan melakukan hal yang sama.	Y	melakukan	61	   81,753	0.1681	74.1538	ind_news_2012_00998925
+306	Saya masih punya empat tahun lagi dan setelah itu sudah, katanya.	Y	setelah	62	   80,350	0.1652	82.8182	ind_news_2011_00221921
+307	Ini adalah kali pertama mereka sampai ke final lagi setelah tahun 1974 dan 1978.	Y	setelah	62	   80,350	0.1652	106.9167	ind_news_2011_00374935
+308	Tidak tahu kalau lima tahun ke depan setelah saya tidak jadi pemain.	Y	setelah	62	   80,350	0.1652	108.4545	ind_news_2011_00064817
+309	Apalagi dia baru tiba di Indonesia setelah 10 tahun tak pernah datang lagi ke Indonesia.	Y	setelah	62	   80,350	0.1652	114.0769	ind_news_2012_00997530
+310	Kerja sama ini mungkin setelah tahun depan karena untuk dekat-dekat ini atau tahun depan mungkin belum.	Y	setelah	62	   80,350	0.1652	115.5	ind_news_2016_00438815
+311	“(Tetap) benar apa yang terjadi pada hari itu dan itu benar hingga hari ini,” katanya.	Y	hingga	63	   78,465	0.1613	68.3333	ind_news_2011_00535986
+312	Indonesia hanya dapat bagian 1 hingga 3 persen, sedangkan di negara lain bisa 5 hingga 10 persen.	Y	hingga	63	   78,465	0.1613	81.3636	ind_news_2012_00821730
+313	Hanya saja hingga saat ini belum ada keputusan terkait hal tersebut.	Y	hingga	63	   78,465	0.1613	83.7273	ind_news_2016_00257775
+314	Tapi hingga saat ini mereka mengaku tidak mendapat bantuan tersebut.	Y	hingga	63	   78,465	0.1613	97.2	ind_news_2011_00188786
+315	Hingga kini barang-barang warga belum ada yang kembali, katanya.	Y	hingga	63	   78,465	0.1613	100.4444	ind_news_2012_00536107
+316	’’Namun katanya kalau tahun lalu sudah dapat, tahun ini tidak bisa.’	Y	dapat	64	   78,153	0.1607	42.1	ind_news_2012_00064370
+317	Saya tidak dapat mengatakan apa-apa lagi pada saat ini.	Y	dapat	64	   78,153	0.1607	46	ind_news_2012_00821931
+318	Indonesia hanya dapat bagian 1 hingga 3 persen, sedangkan di negara lain bisa 5 hingga 10 persen.	Y	dapat	64	   78,153	0.1607	81.3636	ind_news_2012_00821730
+319	Kalau tidak seperti itu dari mana partai bisa dapat uang?	Y	dapat	64	   78,153	0.1607	83.3	ind_news_2011_00677574
+320	Saya berharap dapat melakukan yang lebih baik dalam dua atau tiga minggu lagi.	Y	dapat	64	   78,153	0.1607	86	ind_news_2012_00473529
+321	Tim telah bermain sangat baik dan telah memberikan yang mereka bisa.	Y	sangat	65	   76,584	0.1575	86.9	ind_news_2012_00052143
+322	Bisa mencapai 8 persen itu sudah sangat luar biasa, kalau saat ini masih sekitar 15 persen.	Y	sangat	65	   76,584	0.1575	97.2308	ind_news_2012_00382764
+323	’’Dana itu memang sangat diharapkan warga dengan kondisi saat ini,’’ ujar dia.	Y	sangat	65	   76,584	0.1575	98.4167	ind_news_2012_00586881
+324	Pertandingan ini adalah pertandingan yang sangat penting bagi kami semua.	Y	sangat	65	   76,584	0.1575	100.6667	ind_news_2011_00702876
+325	“Warga Jakarta sudah sangat lebih baik, sehingga kejadian-kejadian yang ada di daerah diharapkan tidak terjadi di Jakarta,” ujarnya.	Y	sangat	65	   76,584	0.1575	104.5625	ind_news_2012_00779900
+326	Sementara jumlah guru yang ada saat ini, menurut dia, sudah lebih dari cukup.	Y	menurut	66	   76,337	0.157	70.8462	ind_news_2011_00986986
+327	Sebab menurut mereka hal itu pernah terjadi pada tahun-tahun sebelumnya.	Y	menurut	66	   76,337	0.157	77.9	ind_news_2011_00164129
+328	Menurut dia, warga Indonesia tidak ada yang menjadi korban dalam bencana itu.	Y	menurut	66	   76,337	0.157	80.4167	ind_news_2011_00173391
+329	Bahkan menurut korban aksi ini sudah dilakukan pelaku terhadap beberapa warga lain.	Y	menurut	66	   76,337	0.157	99.1667	ind_news_2016_00063899
+330	Menurut dia, yang jelas untuk tahun anggaran 2016 tidak ada pembangunan sekolah.	Y	menurut	66	   76,337	0.157	99.2727	ind_news_2016_00525953
+331	Tidak hanya bagi bank itu sendiri, tapi bagi pemerintah dan masyarakat Indonesia.	Y	bagi	67	   75,814	0.1559	62.0909	ind_news_2016_00942299
+332	Musim ini masih bisa menjadi musim yang baik bagi kami.	Y	bagi	67	   75,814	0.1559	67.7778	ind_news_2012_00580110
+333	Laga ini akan menjadi laga yang ke-17 bagi kedua tim.	Y	bagi	67	   75,814	0.1559	86.3333	ind_news_2012_00134337
+334	Saya bagi dua mulai sekarang karena memang anak saya dua.	Y	bagi	67	   75,814	0.1559	89.75	ind_news_2016_00742472
+335	Ini adalah satu lagi pertandingan besar bagi kami - namun kami hanya bermain dalam pertandingan besar.	Y	bagi	67	   75,814	0.1559	92.75	ind_news_2011_00363999
+336	Apa saja yang telah menjadi kasus yang terjadi di Jakarta?	Y	saja	68	   75,769	0.1558	56.7778	ind_news_2016_00042891
+337	Tapi saya mau dia menjadi orang yang lebih baik saja, katanya.	Y	saja	68	   75,769	0.1558	67.8182	ind_news_2012_00771699
+338	Hanya saja memang masih ada beberapa yang tidak ikut dalam program ini.	Y	saja	68	   75,769	0.1558	72.25	ind_news_2016_00258557
+339	Ketika itu ia merasa baik-baik saja dan tidak ada yang salah.	Y	saja	68	   75,769	0.1558	73.4545	ind_news_2011_00628969
+340	Jadi ini sama saja, ini bukan hal baru untuk keluarga, kata dia.	Y	saja	68	   75,769	0.1558	74.6364	ind_news_2012_00395759
+341	Tidak hanya terjadi di Indonesia, tetapi juga terjadi di negara lain.	Y	lain	69	   75,359	0.1549	53.1111	ind_news_2012_00002705
+342	Tidak hanya untuk diri sendiri, tapi juga untuk orang lain.	Y	lain	69	   75,359	0.1549	63.6667	ind_news_2016_00943337
+343	Tapi ini tidak hanya terjadi di jakarta, tapi di daerah lain dan luar negeri.	Y	lain	69	   75,359	0.1549	64.0833	ind_news_2012_00855284
+344	Namun hak yang ada pada kita tidak lebih dari hak orang lain terhadap jalan tersebut.	Y	lain	69	   75,359	0.1549	65.6429	ind_news_2012_00217023
+345	Ini mengatakan kepada orang lain apa yang menjadi kebutuhan mereka.	Y	lain	69	   75,359	0.1549	79	ind_news_2011_00868728
+346	Tapi, saya tak akan mengatakan bahwa hal ini sama dengan ketika saya masih 50 tahun.	Y	bahwa	70	   75,162	0.1545	46.1538	ind_news_2012_00485163
+347	Mereka bisa jadi tak tahu bahwa yang dilakukan adalah korupsi.	Y	bahwa	70	   75,162	0.1545	100.5	ind_news_2011_00179323
+348	Untuk semua orang yang tahu bahwa jika tidak kita, lalu siapa?	Y	bahwa	70	   75,162	0.1545	110.4545	ind_news_2016_00972447
+349	Kedua pria itu mengatakan pada saya bahwa mereka adalah wartawan, katanya.	Y	bahwa	70	   75,162	0.1545	112.6364	ind_news_2012_00753417
+350	Saya tahu jika apa yang terjadi, orang akan mengatakan bahwa kami tidak memiliki peluang.	Y	bahwa	70	   75,162	0.1545	117.0714	ind_news_2012_00107413
+351	Tidak hanya terjadi di Indonesia, tetapi juga terjadi di negara lain.	Y	negara	71	   74,242	0.1526	53.1111	ind_news_2012_00002705
+352	Indonesia hanya dapat bagian 1 hingga 3 persen, sedangkan di negara lain bisa 5 hingga 10 persen.	Y	negara	71	   74,242	0.1526	81.3636	ind_news_2012_00821730
+353	Namun dia juga mengatakan, Kami juga merupakan sebuah negara penting.	Y	negara	71	   74,242	0.1526	89.1111	ind_news_2012_00201356
+354	Jadi, mereka warga negara kami dan memiliki hak yang sama, katanya.	Y	negara	71	   74,242	0.1526	94.8182	ind_news_2012_00845103
+355	Mereka bukan hanya dari dalam negeri, namun sejumlah negara besar pun i..	Y	negara	71	   74,242	0.1526	99.5	ind_news_2016_00545445
+356	Namun saat ini, ia belum bisa melihat program apa yang akan dilakukan.	Y	dilakukan	72	   73,350	0.1508	67.4167	ind_news_2011_00713650
+357	Apa yang dilakukan ibu saya tidak mungkin bisa dilakukan oleh orang lain.	Y	dilakukan	72	   73,350	0.1508	95.1818	ind_news_2011_00539137
+358	Bahkan menurut korban aksi ini sudah dilakukan pelaku terhadap beberapa warga lain.	Y	dilakukan	72	   73,350	0.1508	99.1667	ind_news_2016_00063899
+359	Bahkan hal tersebut, lanjut kata dia, sudah dilakukan setiap Jumat sejak tahun lalu.	Y	dilakukan	72	   73,350	0.1508	99.6923	ind_news_2012_00659855
+360	Dalam hal ini terkait hal-hal apa saja yang perlu dilakukan pusat maupun daerah.	Y	dilakukan	72	   73,350	0.1508	100.3333	ind_news_2016_00122707
+361	Jadi, secara hukum, tidak ada yang salah dengan SE ini.	Y	secara	73	   73,295	0.1507	69	ind_news_2016_00332223
+362	Namun, kedua perusahaan ini telah melakukan kegiatan usaha di Indonesia baik secara langsung maupun tidak langsung.	Y	secara	73	   73,295	0.1507	100.3333	ind_news_2016_00588586
+363	Lebih lanjut, ia meminta agar pemerintah melakukan hal itu secara bersama-sama.	Y	secara	73	   73,295	0.1507	100.6667	ind_news_2016_00480815
+364	Sebab, mereka hanya meminta uang kepada korban secara baik-baik.	Y	secara	73	   73,295	0.1507	106.8889	ind_news_2016_00765167
+365	Tidak hanya di Sulut, tapi juga secara nasional bahkan internasional.	Y	secara	73	   73,295	0.1507	110.5	ind_news_2016_00942497
+366	Sementara jumlah guru yang ada saat ini, menurut dia, sudah lebih dari cukup.	Y	sementara	74	   71,776	0.1476	70.8462	ind_news_2011_00986986
+367	Sementara, di Provinsi dan beberapa Kabupaten juga sudah akan melakukan hal yang sama.	Y	sementara	74	   71,776	0.1476	74.1538	ind_news_2012_00998925
+368	Sementara pada saat yang sama tahun lalu hanya ditemukan 61 kasus.	Y	sementara	74	   71,776	0.1476	96	ind_news_2012_00581793
+369	Mereka sementara naik ke tempat yang lebih tinggi di rumah masing-masing.	Y	sementara	74	   71,776	0.1476	96.4545	ind_news_2016_00552001
+370	Sementara kita tidak punya anggaran yang cukup besar untuk membuat itu.	Y	sementara	74	   71,776	0.1476	103.3636	ind_news_2012_00643321
+371	“Saat ini di daerah ada yang baik dan ada juga yang kurang.	Y	daerah	75	   71,489	0.147	59.1	ind_news_2011_00784325
+372	Tapi ini tidak hanya terjadi di jakarta, tapi di daerah lain dan luar negeri.	Y	daerah	75	   71,489	0.147	64.0833	ind_news_2012_00855284
+373	Pasalnya belum ada satu daerah pun di Indonesia yang melakukan hal tersebut.	Y	daerah	75	   71,489	0.147	76.75	ind_news_2016_00636066
+374	Namun ada juga kepala daerah tingkat dua yang menjadi korban.	Y	daerah	75	   71,489	0.147	77.9	ind_news_2016_00577864
+375	Jika memang daerah memiliki dana maka akan bisa lebih besar lagi.	Y	daerah	75	   71,489	0.147	78.9091	ind_news_2011_00224283
+376	“Itu tidak akan baik baik untuk anak-anak saya atau masyarakat.	Y	anak	76	   70,754	0.1455	33.6667	ind_news_2011_00313480
+377	Saat itu saya dan anak saya berada di dalam rumah.	Y	anak	76	   70,754	0.1455	46.8889	ind_news_2016_00725867
+378	Saya bagi dua mulai sekarang karena memang anak saya dua.	Y	anak	76	   70,754	0.1455	89.75	ind_news_2016_00742472
+379	Satu lagi, kita masalah karena anak-anak kan masih harus sekolah.	Y	anak	76	   70,754	0.1455	89.8	ind_news_2012_00206242
+380	Apa lagi, saat ini ia memiliki dua orang anak kecil.	Y	anak	76	   70,754	0.1455	92.5	ind_news_2012_00441912
+381	Yakni jika pada tahun 2015 hanya sekitar Rp 28 miliar, maka pada tahun 2016 ini menjadi Rp 63 miliar.	Y	jika	77	   70,634	0.1452	78.2727	ind_news_2016_00989787
+382	Jika memang daerah memiliki dana maka akan bisa lebih besar lagi.	Y	jika	77	   70,634	0.1452	78.9091	ind_news_2011_00224283
+383	Jika tahun 2008 mencapai Rp 1,5 miliar, tahun 2009 ini mencapai Rp 979 juta.	Y	jika	77	   70,634	0.1452	91.5714	ind_news_2011_00863819
+384	Jika tahun lalu menerima Rp 754 juta, tahun ini menjadi Rp 2 miliar.	Y	jika	77	   70,634	0.1452	99.2222	ind_news_2011_00963678
+385	Jika mereka tidak berhasil di satu bidang, mereka akan berhasil di bidang lainnya.	Y	jika	77	   70,634	0.1452	99.7778	ind_news_2011_00390358
+386	Saat itu saya dan anak saya berada di dalam rumah.	Y	rumah	78	   70,431	0.1448	46.8889	ind_news_2016_00725867
+387	Tersangka juga tidak ada di rumah atau di tempat kerja.	Y	rumah	78	   70,431	0.1448	74.1111	ind_news_2016_00933195
+388	“Sejak saat itu, tidak pernah ada kegiatan apa pun di rumah itu.	Y	rumah	78	   70,431	0.1448	81.6364	ind_news_2016_00801405
+389	Oleh karena itu, rumah seperti itu tidak baik untuk tempat tinggal.	Y	rumah	78	   70,431	0.1448	82.8	ind_news_2011_00121029
+390	Tidak hanya di jalan air juga masuk ke rumah sekitar pukul 19.00 WIB.	Y	rumah	78	   70,431	0.1448	94	ind_news_2016_00942448
+391	Tapi, saya tak akan mengatakan bahwa hal ini sama dengan ketika saya masih 50 tahun.	Y	tapi	79	   68,749	0.1414	46.1538	ind_news_2012_00485163
+392	Ada yang Rp6 juta, tapi juga ada sekitar Rp2 juta.	Y	tapi	79	   68,749	0.1414	52.7143	ind_news_2011_00985542
+393	Tapi dari pihak warga ini belum ada yang menjadi tersangka, katanya.	Y	tapi	79	   68,749	0.1414	59.1818	ind_news_2011_00997600
+394	Tidak hanya bagi bank itu sendiri, tapi bagi pemerintah dan masyarakat Indonesia.	Y	tapi	79	   68,749	0.1414	62.0909	ind_news_2016_00942299
+395	Kami tidak ke mana-mana, tapi ada di mana-mana.	Y	tapi	79	   68,749	0.1414	63.1429	ind_news_2016_00386334
+396	Untuk itu, akan terjadi beberapa hal yang diharapkan terjadi di 2016.	Y	beberapa	80	   67,281	0.1383	71.5556	ind_news_2016_00962834
+397	“Masih ada 20 persen lagi yang terkait kasus ini,” katanya beberapa waktu lalu.	Y	beberapa	80	   67,281	0.1383	71.6667	ind_news_2011_00848718
+398	Hanya saja memang masih ada beberapa yang tidak ikut dalam program ini.	Y	beberapa	80	   67,281	0.1383	72.25	ind_news_2016_00258557
+399	Sementara, di Provinsi dan beberapa Kabupaten juga sudah akan melakukan hal yang sama.	Y	beberapa	80	   67,281	0.1383	74.1538	ind_news_2012_00998925
+400	Jadi, kita akan melihat apa yang terjadi dalam beberapa hari ke depan.	Y	beberapa	80	   67,281	0.1383	78.4167	ind_news_2012_00251729
+401	Saat ini mereka adalah tim yang lebih baik dari kami.	Y	tim	81	   67,138	0.138	32.4	ind_news_2012_00645003
+402	“Kami akan memiliki sekitar 10 orang lebih banyak di tim ini tahun depan.	Y	tim	81	   67,138	0.138	51.3333	ind_news_2011_00695180
+403	Tim ini masih sama dengan tim yang ada dua atau tiga pekan lalu.	Y	tim	81	   67,138	0.138	69.0833	ind_news_2016_00947483
+404	Mereka adalah salah satu tim terbaik di dunia dan tidak hanya tahun ini.	Y	tim	81	   67,138	0.138	77.0769	ind_news_2011_00498576
+405	Saat ini saja sudah ada 212 tim dari berbagai daerah yang mengikuti.	Y	tim	81	   67,138	0.138	80.9091	ind_news_2016_00723849
+406	Saat ini sudah lebih baik dan harus akan lebih baik lagi.	Y	lagi	82	   64,363	0.1323	31.3333	ind_news_2016_00724226
+407	Saya tidak dapat mengatakan apa-apa lagi pada saat ini.	Y	lagi	82	   64,363	0.1323	46	ind_news_2012_00821931
+408	“Masih ada 20 persen lagi yang terkait kasus ini,” katanya beberapa waktu lalu.	Y	lagi	82	   64,363	0.1323	71.6667	ind_news_2011_00848718
+409	Jika memang daerah memiliki dana maka akan bisa lebih besar lagi.	Y	lagi	82	   64,363	0.1323	78.9091	ind_news_2011_00224283
+410	Satu lagi, kita masalah karena anak-anak kan masih harus sekolah.	Y	lagi	82	   64,363	0.1323	89.8	ind_news_2012_00206242
+411	Saya tidak pernah menjadi besar kepala dan tidak akan pernah.	Y	besar	83	   64,023	0.1316	57.875	ind_news_2011_00795805
+412	Jika memang daerah memiliki dana maka akan bisa lebih besar lagi.	Y	besar	83	   64,023	0.1316	78.9091	ind_news_2011_00224283
+413	Ini adalah satu lagi pertandingan besar bagi kami - namun kami hanya bermain dalam pertandingan besar.	Y	besar	83	   64,023	0.1316	92.75	ind_news_2011_00363999
+414	“Kalau melihat memang kali ini besar tapi masih tahun 2008 yang paling besar.	Y	besar	83	   64,023	0.1316	95.7273	ind_news_2011_00631474
+415	Paling besar sekitar 5% atau Rp30 miliar,” ujarnya di Jakarta hari ini (01/02).	Y	besar	83	   64,023	0.1316	95.9091	ind_news_2012_00056188
+416	Juga untuk pelaku agar tidak akan melakukan hal seperti itu lagi.	Y	agar	84	   63,974	0.1315	56.6364	ind_news_2011_00351600
+417	Lebih lanjut, ia meminta agar pemerintah melakukan hal itu secara bersama-sama.	Y	agar	84	   63,974	0.1315	100.6667	ind_news_2016_00480815
+418	Tentu hal tersebut yang diharapkan, agar tidak terjadi hal-hal seperti itu.	Y	agar	84	   63,974	0.1315	106.7	ind_news_2011_00177457
+419	Agar kita tidak hanya akan kembali menjadi pasar yang besar bagi mobil listrik dari luar negeri.	Y	agar	84	   63,974	0.1315	110.4375	ind_news_2016_00013179
+420	Dia berharap agar kejadian-kejadian seperti ini tidak terjadi lagi.	Y	agar	84	   63,974	0.1315	122.4444	ind_news_2016_00166963
+421	Namun dia juga mengatakan, Kami juga merupakan sebuah negara penting.	Y	merupakan	85	   63,452	0.1305	89.1111	ind_news_2012_00201356
+422	Kita merupakan dua ketua umum dan satu mantan ketua umum partai.	Y	merupakan	85	   63,452	0.1305	101.4444	ind_news_2012_00718179
+423	Saat itu juga merupakan bulan penuh pertama dalam Tahun Baru tersebut.	Y	merupakan	85	   63,452	0.1305	108.5455	ind_news_2011_00749368
+424	Ia mengatakan,  Sebenarnya, saat ini merupakan saat pertama kali saya jauh dari mereka.	Y	merupakan	85	   63,452	0.1305	109.75	ind_news_2011_00726791
+425	Dia merupakan wartawan pertama yang tewas di negara itu pada tahun ini.	Y	merupakan	85	   63,452	0.1305	112.1667	ind_news_2012_00934858
+426	Saat ini sudah lebih baik dan harus akan lebih baik lagi.	Y	baik	86	   63,025	0.1296	31.3333	ind_news_2016_00724226
+427	Saat ini mereka adalah tim yang lebih baik dari kami.	Y	baik	86	   63,025	0.1296	32.4	ind_news_2012_00645003
+428	“Itu tidak akan baik baik untuk anak-anak saya atau masyarakat.	Y	baik	86	   63,025	0.1296	33.6667	ind_news_2011_00313480
+429	“Saat ini di daerah ada yang baik dan ada juga yang kurang.	Y	baik	86	   63,025	0.1296	59.1	ind_news_2011_00784325
+430	Kami adalah sama seperti tahun lalu, tetapi sudah mulai lebih baik.	Y	baik	86	   63,025	0.1296	66.4545	ind_news_2016_00372159
+431	’’Namun katanya kalau tahun lalu sudah dapat, tahun ini tidak bisa.’	Y	kalau	87	   62,999	0.1295	42.1	ind_news_2012_00064370
+432	“Kalau itu saya tidak tahu karena saya ada di dalam.	Y	kalau	87	   62,999	0.1295	53.4444	ind_news_2016_00363412
+433	Kalau tidak seperti itu dari mana partai bisa dapat uang?	Y	kalau	87	   62,999	0.1295	83.3	ind_news_2011_00677574
+434	Kalau tidak kami mulai dari desa ini, lalu dari mana lagi?”	Y	kalau	87	   62,999	0.1295	86.7	ind_news_2012_00243516
+435	Kalau tidak ada mungkin kita proses satu-satu, mereka korban.	Y	kalau	87	   62,999	0.1295	91.1111	ind_news_2016_00369362
+436	Pasalnya belum ada satu daerah pun di Indonesia yang melakukan hal tersebut.	Y	pun	88	   61,766	0.127	76.75	ind_news_2016_00636066
+437	Bahkan, saat itu, tidak ada satu pun polisi yang berada di lokasi.	Y	pun	88	   61,766	0.127	79.9167	ind_news_2011_00736930
+438	“Sejak saat itu, tidak pernah ada kegiatan apa pun di rumah itu.	Y	pun	88	   61,766	0.127	81.6364	ind_news_2016_00801405
+439	Saya meminta pemerintah kabupaten/kota pun melakukan hal yang sama, katanya.	Y	pun	88	   61,766	0.127	83.1818	ind_news_2016_00749110
+440	“Di mana pun di seluruh dunia, hal ini bisa terjadi.	Y	pun	88	   61,766	0.127	94.6667	ind_news_2011_00248066
+441	Jadi, secara hukum, tidak ada yang salah dengan SE ini.	Y	salah	89	   61,669	0.1268	69	ind_news_2016_00332223
+442	Ketika itu ia merasa baik-baik saja dan tidak ada yang salah.	Y	salah	89	   61,669	0.1268	73.4545	ind_news_2011_00628969
+443	Mereka adalah salah satu tim terbaik di dunia dan tidak hanya tahun ini.	Y	salah	89	   61,669	0.1268	77.0769	ind_news_2011_00498576
+444	Mereka adalah salah satu tim terbaik yang ada di Indonesia.	Y	salah	89	   61,669	0.1268	84.7	ind_news_2012_00786645
+445	Kalau tidak salah ada sekitar 15 ribu orang lebih yang ikut.	Y	salah	89	   61,669	0.1268	99.7	ind_news_2016_00369740
+446	Namun, kata dia, yang selama ini terjadi, tidak seperti itu.	Y	terjadi	90	   61,140	0.1257	34.2	ind_news_2011_00525949
+447	Tidak hanya terjadi di Indonesia, tetapi juga terjadi di negara lain.	Y	terjadi	90	   61,140	0.1257	53.1111	ind_news_2012_00002705
+448	Apa saja yang telah menjadi kasus yang terjadi di Jakarta?	Y	terjadi	90	   61,140	0.1257	56.7778	ind_news_2016_00042891
+449	Tapi ini tidak hanya terjadi di jakarta, tapi di daerah lain dan luar negeri.	Y	terjadi	90	   61,140	0.1257	64.0833	ind_news_2012_00855284
+450	Sebab menurut mereka hal itu pernah terjadi pada tahun-tahun sebelumnya.	Y	terjadi	90	   61,140	0.1257	77.9	ind_news_2011_00164129
+451	Itu semua juga melakukan, itu KPK melakukan, Ketua KPK juga melakukan.	Y	ketua	91	   60,184	0.1237	99.5	ind_news_2012_00016966
+452	Kita merupakan dua ketua umum dan satu mantan ketua umum partai.	Y	ketua	91	   60,184	0.1237	101.4444	ind_news_2012_00718179
+453	Tetapi di sisi lain, masih ada menteri yang menjadi ketua partai.	Y	ketua	91	   60,184	0.1237	113.0909	ind_news_2012_00570049
+454	“Jangan sampai, orang yang baru masuk (partai) lalu menjadi ketua DPRD.	Y	ketua	91	   60,184	0.1237	115.9091	ind_news_2011_00402773
+455	“Di luar negeri, untuk jadi presiden, harus menjadi ketua umum partai dulu.	Y	ketua	91	   60,184	0.1237	125.0833	ind_news_2016_00194196
+456	“Kami akan memiliki sekitar 10 orang lebih banyak di tim ini tahun depan.	Y	memiliki	92	   58,415	0.1201	51.3333	ind_news_2011_00695180
+457	Jika memang daerah memiliki dana maka akan bisa lebih besar lagi.	Y	memiliki	92	   58,415	0.1201	78.9091	ind_news_2011_00224283
+458	Apa lagi, saat ini ia memiliki dua orang anak kecil.	Y	memiliki	92	   58,415	0.1201	92.5	ind_news_2012_00441912
+459	Jadi, mereka warga negara kami dan memiliki hak yang sama, katanya.	Y	memiliki	92	   58,415	0.1201	94.8182	ind_news_2012_00845103
+460	Tetapi dalam beberapa kasus kita memiliki kebutuhan akan hal itu.	Y	memiliki	92	   58,415	0.1201	94.9	ind_news_2012_00793385
+461	Namun, kata dia, yang selama ini terjadi, tidak seperti itu.	Y	selama	93	   57,745	0.1187	34.2	ind_news_2011_00525949
+462	Itu penting karena selama ini banyak orang yang tidak tahu.	Y	selama	93	   57,745	0.1187	86.5	ind_news_2016_00321930
+463	Sebelumnya dia sempat bekerja dengan orang lain selama tiga tahun.	Y	selama	93	   57,745	0.1187	109.6	ind_news_2012_00249080
+464	Namun, selama ini belum ada pihak pengusaha yang melakukan hal demikian.	Y	selama	93	   57,745	0.1187	115.2727	ind_news_2012_00581863
+465	Dengan hal-hal yang selama ini belum jelas menjadi jelas dan peran-peran orang ini jelas.	Y	selama	93	   57,745	0.1187	115.4545	ind_news_2012_00147501
+466	Namun hak yang ada pada kita tidak lebih dari hak orang lain terhadap jalan tersebut.	Y	terhadap	94	   56,444	0.1161	65.6429	ind_news_2012_00217023
+467	Bahkan menurut korban aksi ini sudah dilakukan pelaku terhadap beberapa warga lain.	Y	terhadap	94	   56,444	0.1161	99.1667	ind_news_2016_00063899
+468	Tetapi, hingga saat ini pemerintah masih belum melakukan tindakan apa pun terhadap warga desa tersebut.	Y	terhadap	94	   56,444	0.1161	110.8667	ind_news_2011_00880111
+469	Untuk itu, dalam kasus ini kementerian tidak bisa menyatakan salah atau benar terhadap para pengusaha.	Y	terhadap	94	   56,444	0.1161	129.4667	ind_news_2016_00962994
+470	Sementara terhadap 12 desa yang tidak ikut serta, tidak ada alasan apa-apa.	Y	terhadap	94	   56,444	0.1161	148	ind_news_2011_00901812
+471	“Masih ada 20 persen lagi yang terkait kasus ini,” katanya beberapa waktu lalu.	Y	waktu	95	   56,140	0.1154	71.6667	ind_news_2011_00848718
+472	Sama seperti yang terjadi di Kota Manado beberapa waktu lalu.	Y	waktu	95	   56,140	0.1154	82.4	ind_news_2016_00735595
+473	Tetapi bukan dari sekarang karena terjadi dari beberapa waktu lalu bukan karena kondisi saat ini.	Y	waktu	95	   56,140	0.1154	90.3333	ind_news_2012_00890637
+474	Dia masih berada di dalam kita, dia bagian dari masa lalu kita dan dia akan hidup untuk waktu yang lama di dalam kita,” katanya.	Y	waktu	95	   56,140	0.1154	93.2778	ind_news_2012_00476137
+475	Mereka yang punya cukup dana dan waktu mungkin tidak masalah dengan hal ini.	Y	waktu	95	   56,140	0.1154	98.8462	ind_news_2012_00109558
+476	“Kami akan memiliki sekitar 10 orang lebih banyak di tim ini tahun depan.	Y	sekitar	96	   55,991	0.1151	51.3333	ind_news_2011_00695180
+477	Ada yang Rp6 juta, tapi juga ada sekitar Rp2 juta.	Y	sekitar	96	   55,991	0.1151	52.7143	ind_news_2011_00985542
+478	Pada 2011 hanya ada 40 kasus, tahun ini naik menjadi 139 kasus atau sekitar 247%.	Y	sekitar	96	   55,991	0.1151	69.7	ind_news_2012_00084274
+479	Yakni jika pada tahun 2015 hanya sekitar Rp 28 miliar, maka pada tahun 2016 ini menjadi Rp 63 miliar.	Y	sekitar	96	   55,991	0.1151	78.2727	ind_news_2016_00989787
+480	Namun dari jumlah tersebut, pemerintah hanya mampu sekitar 1,6 juta saja.	Y	sekitar	96	   55,991	0.1151	79.9	ind_news_2011_00061101
+481	Tapi dari pihak warga ini belum ada yang menjadi tersangka, katanya.	Y	pihak	97	   55,939	0.115	59.1818	ind_news_2011_00997600
+482	Namun, selama ini belum ada pihak pengusaha yang melakukan hal demikian.	Y	pihak	97	   55,939	0.115	115.2727	ind_news_2012_00581863
+483	Demikian juga dengan Dana Pihak Ketiga yang pada tahun 2005 masih Rp 1,3 triliun, tahun 2006 telah menjadi Rp 1,7 triliun atau naik 30,46 persen.	Y	pihak	97	   55,939	0.115	115.6471	ind_news_2011_00208465
+484	Tapi banyak pihak yang me-nilai saya yang bukan-bukan.	Y	pihak	97	   55,939	0.115	118.25	ind_news_2011_00820930
+485	Kami akan terus meminta dukungan kepada semua pihak, termasuk pada warga Indonesia yang berada di luar negeri, katanya.	Y	pihak	97	   55,939	0.115	118.5556	ind_news_2011_00694465
+486	Mereka tidak tahu apa yang akan terjadi atas mereka kemudian.	Y	atas	98	   55,934	0.115	94.2222	ind_news_2011_00927577
+487	Tetapi, itu hanya untuk proyek-proyek besar yang di atas Rp 1 triliun.	Y	atas	98	   55,934	0.115	108.8182	ind_news_2012_00537963
+488	Di dalam atas nama DPR, padahal bukan begitu, kata dia.	Y	atas	98	   55,934	0.115	134.5	ind_news_2011_00500910
+489	“Dari hasil pemeriksaan atas semua itu, ternyata tidak ada masalah dengan lembaga tersebut.	Y	atas	98	   55,934	0.115	136.1538	ind_news_2011_00023512
+490	Itu satu-satunya partai yang mencapai di atas 20 persen, ujarnya.	Y	atas	98	   55,934	0.115	141.5	ind_news_2012_00025358
+491	Selain itu juga beberapa kegiatan belum jalan karena masih di awal tahun.	Y	selain	99	   55,703	0.1145	79.1667	ind_news_2011_00630206
+492	Selain itu, saat ini pembangunan ekonomi Indonesia hanya jalan di tempat.	Y	selain	99	   55,703	0.1145	82.7273	ind_news_2012_00877004
+493	Selain itu, kami juga memiliki rencana untuk proyek-proyek lain di Indonesia.	Y	selain	99	   55,703	0.1145	98.0909	ind_news_2016_00814723
+494	Selain kedua korban, diduga masih ada 20 orang korban yang lain.	Y	selain	99	   55,703	0.1145	102.2222	ind_news_2011_00597804
+495	Selain itu ia juga ingin melakukan banyak hal yang baik dan di terima semua orang.	Y	selain	99	   55,703	0.1145	111.6667	ind_news_2011_00192158
+496	Tapi, saya tak akan mengatakan bahwa hal ini sama dengan ketika saya masih 50 tahun.	Y	sama	100	   55,532	0.1142	46.1538	ind_news_2012_00485163
+497	Kami adalah sama seperti tahun lalu, tetapi sudah mulai lebih baik.	Y	sama	100	   55,532	0.1142	66.4545	ind_news_2016_00372159
+498	Tim ini masih sama dengan tim yang ada dua atau tiga pekan lalu.	Y	sama	100	   55,532	0.1142	69.0833	ind_news_2016_00947483
+499	Atau bisa jadi mereka juga akan melakukan hal yang sama, ketika mereka berada di posisi seperti pemain-pemain tersebut.	Y	sama	100	   55,532	0.1142	72.5294	ind_news_2012_00359658
+500	Sementara, di Provinsi dan beberapa Kabupaten juga sudah akan melakukan hal yang sama.	Y	sama	100	   55,532	0.1142	74.1538	ind_news_2012_00998925
+501	Namun hak yang ada pada kita tidak lebih dari hak orang lain terhadap jalan tersebut.	Y	jalan	101	   55,466	0.114	65.6429	ind_news_2012_00217023
+502	Selain itu juga beberapa kegiatan belum jalan karena masih di awal tahun.	Y	jalan	101	   55,466	0.114	79.1667	ind_news_2011_00630206
+503	Selain itu, saat ini pembangunan ekonomi Indonesia hanya jalan di tempat.	Y	jalan	101	   55,466	0.114	82.7273	ind_news_2012_00877004
+504	Tidak hanya di jalan air juga masuk ke rumah sekitar pukul 19.00 WIB.	Y	jalan	101	   55,466	0.114	94	ind_news_2016_00942448
+505	Karena tak ada jalan nasional, maka tak ada anggaran dari Pemerintah Pusat.	Y	jalan	101	   55,466	0.114	109	ind_news_2012_00763747
+506	Apa saja yang telah menjadi kasus yang terjadi di Jakarta?	Y	kasus	102	   55,284	0.1137	56.7778	ind_news_2016_00042891
+507	Pada 2011 hanya ada 40 kasus, tahun ini naik menjadi 139 kasus atau sekitar 247%.	Y	kasus	102	   55,284	0.1137	69.7	ind_news_2012_00084274
+508	“Tapi, untuk kasus ini para tersangka adalah orang atau pemain baru,”katanya.	Y	kasus	102	   55,284	0.1137	69.75	ind_news_2016_00915990
+509	“Masih ada 20 persen lagi yang terkait kasus ini,” katanya beberapa waktu lalu.	Y	kasus	102	   55,284	0.1137	71.6667	ind_news_2011_00848718
+510	AS juga pernah melakukan hal yang sama dalam kasus ini.	Y	kasus	102	   55,284	0.1137	77.1	ind_news_2016_00048469
+511	Namun ada juga kepala daerah tingkat dua yang menjadi korban.	Y	korban	103	   55,023	0.1131	77.9	ind_news_2016_00577864
+512	Menurut dia, warga Indonesia tidak ada yang menjadi korban dalam bencana itu.	Y	korban	103	   55,023	0.1131	80.4167	ind_news_2011_00173391
+513	Kalau tidak ada mungkin kita proses satu-satu, mereka korban.	Y	korban	103	   55,023	0.1131	91.1111	ind_news_2016_00369362
+514	Bahkan menurut korban aksi ini sudah dilakukan pelaku terhadap beberapa warga lain.	Y	korban	103	   55,023	0.1131	99.1667	ind_news_2016_00063899
+515	Selain kedua korban, diduga masih ada 20 orang korban yang lain.	Y	korban	103	   55,023	0.1131	102.2222	ind_news_2011_00597804
+516	Sehingga sampai saat ini, hal tersebut sudah menjadi budaya di sekolah kami.	Y	sehingga	104	   52,984	0.1089	98.5	ind_news_2016_00798337
+517	“Warga Jakarta sudah sangat lebih baik, sehingga kejadian-kejadian yang ada di daerah diharapkan tidak terjadi di Jakarta,” ujarnya.	Y	sehingga	104	   52,984	0.1089	104.5625	ind_news_2012_00779900
+518	Saat ini semua masih dalam proses sehingga belum pasti,” katanya, kemarin.	Y	sehingga	104	   52,984	0.1089	110.1818	ind_news_2012_00737576
+519	Sehingga diharapkan kabupaten/kota yang lainnya dapat melakukan hal yang sama.	Y	sehingga	104	   52,984	0.1089	112.5	ind_news_2016_00795901
+520	Bahkan bisa naik lagi Rp 20 miliar sehingga menjadi Rp 100 miliar.	Y	sehingga	104	   52,984	0.1089	117.875	ind_news_2012_00897946
+521	Mereka memberikan semua, setiap hari, dan saya tidak bisa meminta yang lebih dari mereka.	Y	semua	105	   52,325	0.1076	61.3846	ind_news_2012_00994270
+522	Dan ini terjadi bukan hanya di kota Manado tapi terjadi di semua kota di Indonesia.	Y	semua	105	   52,325	0.1076	75	ind_news_2012_00238632
+523	Semua itu terjadi di satu tempat yang tidak jauh: di dalam diri!	Y	semua	105	   52,325	0.1076	84.5455	ind_news_2012_00950994
+524	Kita sudah punya semua hukum, hukum apa yang tidak kita punya.	Y	semua	105	   52,325	0.1076	99.125	ind_news_2012_00693573
+525	Itu semua juga melakukan, itu KPK melakukan, Ketua KPK juga melakukan.	Y	semua	105	   52,325	0.1076	99.5	ind_news_2012_00016966
+526	Jadi, secara hukum, tidak ada yang salah dengan SE ini.	Y	jadi	106	   52,310	0.1076	69	ind_news_2016_00332223
+527	Atau bisa jadi mereka juga akan melakukan hal yang sama, ketika mereka berada di posisi seperti pemain-pemain tersebut.	Y	jadi	106	   52,310	0.1076	72.5294	ind_news_2012_00359658
+528	Jadi ini sama saja, ini bukan hal baru untuk keluarga, kata dia.	Y	jadi	106	   52,310	0.1076	74.6364	ind_news_2012_00395759
+529	Jadi, kita akan melihat apa yang terjadi dalam beberapa hari ke depan.	Y	jadi	106	   52,310	0.1076	78.4167	ind_news_2012_00251729
+530	Jadi, mereka warga negara kami dan memiliki hak yang sama, katanya.	Y	jadi	106	   52,310	0.1076	94.8182	ind_news_2012_00845103
+531	’’Namun katanya kalau tahun lalu sudah dapat, tahun ini tidak bisa.’	Y	katanya	107	   51,987	0.1069	42.1	ind_news_2012_00064370
+532	Tapi dari pihak warga ini belum ada yang menjadi tersangka, katanya.	Y	katanya	107	   51,987	0.1069	59.1818	ind_news_2011_00997600
+533	Tapi saya mau dia menjadi orang yang lebih baik saja, katanya.	Y	katanya	107	   51,987	0.1069	67.8182	ind_news_2012_00771699
+534	“(Tetap) benar apa yang terjadi pada hari itu dan itu benar hingga hari ini,” katanya.	Y	katanya	107	   51,987	0.1069	68.3333	ind_news_2011_00535986
+535	“Tapi, untuk kasus ini para tersangka adalah orang atau pemain baru,”katanya.	Y	katanya	107	   51,987	0.1069	69.75	ind_news_2016_00915990
+536	Pada 2010 sejumlah 991 orang atau 96 persen dan pada 2011 sejumlah 622 orang (42 persen).	Y	sejumlah	108	   51,168	0.1052	52.8333	ind_news_2012_00557439
+537	Hal ini lanjut dia terjadi di sejumlah daerah lainnya di Indonesia.	Y	sejumlah	108	   51,168	0.1052	85.4	ind_news_2016_00245488
+538	Mereka bukan hanya dari dalam negeri, namun sejumlah negara besar pun i..	Y	sejumlah	108	   51,168	0.1052	99.5	ind_news_2016_00545445
+539	Kegiatan ini akan kembali di sejumlah kota di Tanah Air.	Y	sejumlah	108	   51,168	0.1052	107.2222	ind_news_2016_00418591
+540	Selain itu, tim juga akan melakukan pemeriksaan kesehatan kepada sejumlah warga desa tersebut.	Y	sejumlah	108	   51,168	0.1052	114.6923	ind_news_2011_00738128
+541	Sampai saat ini tidak ada informasi yang masuk seperti itu.	Y	sampai	109	   50,539	0.1039	66.5	ind_news_2012_00012184
+542	Di Indonesia, mereka bisa tinggal 1-3 tahun, bahkan ada yang sampai 7 tahun.	Y	sampai	109	   50,539	0.1039	74.2	ind_news_2012_00744233
+543	Hal tersebut sudah berlangsung sejak tahun 2012 sampai dengan saat ini.	Y	sampai	109	   50,539	0.1039	75.7	ind_news_2016_00254475
+544	Tapi, sampai 27 tahun kemudian, hari ini, lahan tersebut masih tetap sama dengan 27 tahun yang lalu.	Y	sampai	109	   50,539	0.1039	84.8571	ind_news_2012_00657732
+545	Ada yang hanya cukup dua orang, ada yang sampai lima.	Y	sampai	109	   50,539	0.1039	86.875	ind_news_2012_00941242
+546	“Karena memang setiap tahun juga sudah seperti itu,” kata dia.	Y	memang	110	   50,503	0.1038	45.6	ind_news_2012_00681250
+547	Hanya saja memang masih ada beberapa yang tidak ikut dalam program ini.	Y	memang	110	   50,503	0.1038	72.25	ind_news_2016_00258557
+548	Jika memang daerah memiliki dana maka akan bisa lebih besar lagi.	Y	memang	110	   50,503	0.1038	78.9091	ind_news_2011_00224283
+549	Saya bagi dua mulai sekarang karena memang anak saya dua.	Y	memang	110	   50,503	0.1038	89.75	ind_news_2016_00742472
+550	Memang, kegiatan-kegiatan warga itu digelar oleh, dari dan untuk masyarakat.	Y	memang	110	   50,503	0.1038	95.5	ind_news_2012_00722041
+551	Jangan-jangan hal dan proses serta kegiatan ini sudah sementara berlangsung di daerah kita ini sekarang.	Y	serta	111	   50,209	0.1032	125	ind_news_2016_00337351
+552	Karena itu sudah jadi hak saya sebagai warga negara untuk ikut serta dalam Pemilu.	Y	serta	111	   50,209	0.1032	125.7857	ind_news_2011_00089530
+553	Ada masalah keluarga, anak dan serta begitu banyak persoalan yang terjadi.	Y	serta	111	   50,209	0.1032	142	ind_news_2016_00007427
+554	Bupati serta Walikota melakukan hal yang sama di 15 Kabupaten dan Kota.	Y	serta	111	   50,209	0.1032	146.0909	ind_news_2011_00895953
+555	Sementara terhadap 12 desa yang tidak ikut serta, tidak ada alasan apa-apa.	Y	serta	111	   50,209	0.1032	148	ind_news_2011_00901812
+556	Yang jelas, yang bisa membuat Jakarta lebih baik lagi dari sekarang.	Y	membuat	112	   49,818	0.1024	81.5	ind_news_2016_00992963
+557	Ia juga menambahkan, Ia membuat para pemain menjadi lebih baik.	Y	membuat	112	   49,818	0.1024	96	ind_news_2011_00750204
+558	Sementara kita tidak punya anggaran yang cukup besar untuk membuat itu.	Y	membuat	112	   49,818	0.1024	103.3636	ind_news_2012_00643321
+559	Tidak akan terjadi apa-apa yang membuat dia tidak akan bersama klub.	Y	membuat	112	   49,818	0.1024	113.1111	ind_news_2011_00612210
+560	Karena dengan begitu Anda bisa membuat banyak orang bisa bekerja dengan lebih baik, termasuk diri sendiri.	Y	membuat	112	   49,818	0.1024	119.9286	ind_news_2011_00595474
+561	Tapi, saya tak akan mengatakan bahwa hal ini sama dengan ketika saya masih 50 tahun.	Y	ketika	113	   49,524	0.1018	46.1538	ind_news_2012_00485163
+562	Atau bisa jadi mereka juga akan melakukan hal yang sama, ketika mereka berada di posisi seperti pemain-pemain tersebut.	Y	ketika	113	   49,524	0.1018	72.5294	ind_news_2012_00359658
+563	Ketika itu ia merasa baik-baik saja dan tidak ada yang salah.	Y	ketika	113	   49,524	0.1018	73.4545	ind_news_2011_00628969
+564	Ketika itu, warga Indonesia yang tinggal di kota itu sudah cukup banyak.	Y	ketika	113	   49,524	0.1018	82.6364	ind_news_2016_00444406
+565	Jika (klub) itu tidak besar, itu akan menjadi besar ketika saya datang, ini merupakan hal yang sama, ujarnya menambahkan.	Y	ketika	113	   49,524	0.1018	113.1765	ind_news_2016_00345731
+566	“(Tetap) benar apa yang terjadi pada hari itu dan itu benar hingga hari ini,” katanya.	Y	tetap	114	   49,151	0.1011	68.3333	ind_news_2011_00535986
+567	Tapi, sampai 27 tahun kemudian, hari ini, lahan tersebut masih tetap sama dengan 27 tahun yang lalu.	Y	tetap	114	   49,151	0.1011	84.8571	ind_news_2012_00657732
+568	“Namun sebagai sebuah tim besar, kami tetap menerima hasil ini.	Y	tetap	114	   49,151	0.1011	100.1	ind_news_2016_00595527
+569	Tidak ada di dunia yang tetap, tapi yang tetap adalah perubahan.	Y	tetap	114	   49,151	0.1011	104	ind_news_2011_00665059
+570	Tetapi, yang sering terjadi, dari hari ke hari dia tetap melakukan hal-hal lama dengan cara-cara yang sama.	Y	tetap	114	   49,151	0.1011	113.7333	ind_news_2012_00473995
+571	“Dua orang lebih baik dari satu orang, dan tiga orang lebih baik dari dua orang, dan empat lebih baik dari tiga orang.	Y	tiga	115	   48,760	0.1003	67.4444	ind_news_2011_00621019
+572	Tim ini masih sama dengan tim yang ada dua atau tiga pekan lalu.	Y	tiga	115	   48,760	0.1003	69.0833	ind_news_2016_00947483
+573	Ini sudah berlangsung sejak tiga tahun yang lalu, kata dia.	Y	tiga	115	   48,760	0.1003	79.6	ind_news_2011_00127442
+574	Saya berharap dapat melakukan yang lebih baik dalam dua atau tiga minggu lagi.	Y	tiga	115	   48,760	0.1003	86	ind_news_2012_00473529
+575	Tapi, tiga orang itu baik-baik saja dan kini sudah kembali bekerja.	Y	tiga	115	   48,760	0.1003	94.9091	ind_news_2012_00484301
+576	Pada 2008 menjadi Rp 624 juta dan tahun lalu menjadi Rp 700 juta.	Y	juta	116	   48,419	0.0996	39.8571	ind_news_2011_00102420
+577	Ada yang Rp6 juta, tapi juga ada sekitar Rp2 juta.	Y	juta	116	   48,419	0.0996	52.7143	ind_news_2011_00985542
+578	Namun, yang ke Indonesia baru 1 persen atau masih di angka 1,2 juta orang.	Y	juta	116	   48,419	0.0996	76.5	ind_news_2016_00599754
+579	Namun dari jumlah tersebut, pemerintah hanya mampu sekitar 1,6 juta saja.	Y	juta	116	   48,419	0.0996	79.9	ind_news_2011_00061101
+580	Tapi yang ke Indonesia baru 1%, masih di angka 1,2 juta orang.	Y	juta	116	   48,419	0.0996	80.4	ind_news_2016_00916472
+581	Namun, kedua perusahaan ini telah melakukan kegiatan usaha di Indonesia baik secara langsung maupun tidak langsung.	Y	langsung	117	   47,968	0.0986	100.3333	ind_news_2016_00588586
+582	Tapi malam itu juga sebagian besar langsung kembali ke rumah.	Y	langsung	117	   47,968	0.0986	117.7	ind_news_2016_00911402
+583	Sampai saat ini ada sekitar 1300 pilkada langsung di provinsi, kabupaten dan kota.	Y	langsung	117	   47,968	0.0986	127.0833	ind_news_2016_00736714
+584	“Bisa juga langsung ke desa-desa, tapi bisa juga sekaligus.	Y	langsung	117	   47,968	0.0986	128	ind_news_2016_00101788
+585	Ketika itu tiba-tiba datang empat orang yang langsung masuk ke dalam bank.	Y	langsung	117	   47,968	0.0986	131.6667	ind_news_2011_00084895
+586	Warga dari kedua desa kembali ke tempat mereka masing-masing.	Y	kembali	118	   47,841	0.0984	88.3333	ind_news_2011_00538870
+587	Tapi, tiga orang itu baik-baik saja dan kini sudah kembali bekerja.	Y	kembali	118	   47,841	0.0984	94.9091	ind_news_2012_00484301
+588	Mungkin ia tak ingin kembali, karena memang tak ada lagi yang bisa diharapkan di tempat ini.	Y	kembali	118	   47,841	0.0984	98.6	ind_news_2011_00780904
+589	Hingga kini barang-barang warga belum ada yang kembali, katanya.	Y	kembali	118	   47,841	0.0984	100.4444	ind_news_2012_00536107
+590	Bahkan di antara mereka masih ada yang belum bisa pulang karena tidak ada lagi uang untuk kembali.	Y	kembali	118	   47,841	0.0984	101.25	ind_news_2016_00060894
+591	Mereka bahkan sudah berada di kota ini sejak 10 hari lalu.	Y	bahkan	119	   47,661	0.098	67.4	ind_news_2011_00186351
+592	Tidak hanya dari dalam negeri, bahkan juga dari luar negeri.	Y	bahkan	119	   47,661	0.098	69.5	ind_news_2011_00836413
+593	Di Indonesia, mereka bisa tinggal 1-3 tahun, bahkan ada yang sampai 7 tahun.	Y	bahkan	119	   47,661	0.098	74.2	ind_news_2012_00744233
+594	Di mana saat ini masih mencapai 30 hari, bahkan bisa lebih.	Y	bahkan	119	   47,661	0.098	75.5	ind_news_2016_00196403
+595	Bahkan, saat itu, tidak ada satu pun polisi yang berada di lokasi.	Y	bahkan	119	   47,661	0.098	79.9167	ind_news_2011_00736930
+596	Laga ini akan menjadi laga yang ke-17 bagi kedua tim.	Y	kedua	120	   47,592	0.0979	86.3333	ind_news_2012_00134337
+597	Warga dari kedua desa kembali ke tempat mereka masing-masing.	Y	kedua	120	   47,592	0.0979	88.3333	ind_news_2011_00538870
+598	Namun, kedua perusahaan ini telah melakukan kegiatan usaha di Indonesia baik secara langsung maupun tidak langsung.	Y	kedua	120	   47,592	0.0979	100.3333	ind_news_2016_00588586
+599	Selain kedua korban, diduga masih ada 20 orang korban yang lain.	Y	kedua	120	   47,592	0.0979	102.2222	ind_news_2011_00597804
+600	Ini adalah yang kedua yang dilakukan Jepang pada tahun ini.	Y	kedua	120	   47,592	0.0979	104.625	ind_news_2012_00418012
+601	Mereka adalah salah satu tim terbaik di dunia dan tidak hanya tahun ini.	Y	dunia	121	   46,991	0.0966	77.0769	ind_news_2011_00498576
+602	Lebih-lebih untuk kita yang akan berada di sekolah baru, lingkungan baru, dan dunia baru.	Y	dunia	121	   46,991	0.0966	86.5	ind_news_2011_00925195
+603	Tahun ini jumlah bisa mencapai 50 juta orang ke seluruh dunia.	Y	dunia	121	   46,991	0.0966	86.8	ind_news_2011_00514298
+604	Jumlah 6,9 persen ini sama dengan sekitar 225 juta orang di seluruh dunia.	Y	dunia	121	   46,991	0.0966	88	ind_news_2012_00137898
+605	“Di mana pun di seluruh dunia, hal ini bisa terjadi.	Y	dunia	121	   46,991	0.0966	94.6667	ind_news_2011_00248066
+606	Kita tahu semua kerja anggota DPR kalau masih di dalam,	Y	anggota	122	   46,251	0.0951	113.2	ind_news_2012_00730560
+607	Sebab, kemarin tidak ada satu pun anggota DPRD yang berada di kantor.	Y	anggota	122	   46,251	0.0951	114.3333	ind_news_2016_00763783
+608	Namun keputusan pemerintah tersebut, juga di tentang oleh para anggota dewan.	Y	anggota	122	   46,251	0.0951	120.6364	ind_news_2011_00063634
+609	Sejumlah anggota dewan yang lain di kota ini juga mengakui hal yang sama.	Y	anggota	122	   46,251	0.0951	128.0833	ind_news_2011_00233067
+610	Secara tidak langsung menurutnya, kejadian tersebut akan jadi salah satu hal yang bisa membuat masyarakat lebih dekat dengan anggota polri.	Y	anggota	122	   46,251	0.0951	134.05	ind_news_2016_00785487
+611	“Namun sebagai sebuah tim besar, kami tetap menerima hasil ini.	Y	hasil	123	   46,209	0.095	100.1	ind_news_2016_00595527
+612	“Kami berharap akan melihat hasil karya dari Indonesia tahun ini.	Y	hasil	123	   46,209	0.095	108.1	ind_news_2011_00221679
+613	“Hasil itu hanya terjadi sekali dalam tiga atau empat tahun.	Y	hasil	123	   46,209	0.095	109.9	ind_news_2016_00264853
+614	Dan, kami telah mencapai hasil yang cukup berarti dalam hal tersebut.	Y	hasil	123	   46,209	0.095	110.6364	ind_news_2012_00142300
+615	Padahal dengan usaha lainnya mereka sudah mendapatkan hasil yang besar.	Y	hasil	123	   46,209	0.095	130.6	ind_news_2012_00303239
+616	Tidak, saya hanya melakukan apa yang ada di kepala saya.	Y	kepala	124	   46,016	0.0946	47.2222	ind_news_2016_00944879
+617	Saya tidak pernah menjadi besar kepala dan tidak akan pernah.	Y	kepala	124	   46,016	0.0946	57.875	ind_news_2011_00795805
+618	Namun ada juga kepala daerah tingkat dua yang menjadi korban.	Y	kepala	124	   46,016	0.0946	77.9	ind_news_2016_00577864
+619	Hingga saat ini, kata dia, sudah jalan beberapa bulan ini, karena sedang musim pemilihan kepala daerah.	Y	kepala	124	   46,016	0.0946	119.2	ind_news_2011_00538184
+620	Karena tidak sedikit kepala daerah yang menjadi tersangka akibat dari dana tersebut.	Y	kepala	124	   46,016	0.0946	122.4167	ind_news_2016_00404754
+621	Kalau tidak seperti itu dari mana partai bisa dapat uang?	Y	partai	125	   45,710	0.094	83.3	ind_news_2011_00677574
+622	Baik partai yang sudah lama ada, maupun partai yang baru.	Y	partai	125	   45,710	0.094	94.625	ind_news_2016_00068875
+623	Dalam dua hari ini Partai Golkar sudah tidak ada masalah.	Y	partai	125	   45,710	0.094	97.5	ind_news_2016_00121924
+624	Kita merupakan dua ketua umum dan satu mantan ketua umum partai.	Y	partai	125	   45,710	0.094	101.4444	ind_news_2012_00718179
+625	Tetapi di sisi lain, masih ada menteri yang menjadi ketua partai.	Y	partai	125	   45,710	0.094	113.0909	ind_news_2012_00570049
+626	Saya sendiri di Ibu Kota sudah dua kali melakukan itu.	Y	kali	126	   45,165	0.0929	83.3	ind_news_2012_00007879
+627	Jumlah itu naik menjadi 93,6 juta atau dua kali pada tahun 1960.	Y	kali	126	   45,165	0.0929	91	ind_news_2012_00786012
+628	“Kalau melihat memang kali ini besar tapi masih tahun 2008 yang paling besar.	Y	kali	126	   45,165	0.0929	95.7273	ind_news_2011_00631474
+629	Bahkan bisa berlangsung dua sampai tiga kali dalam satu tahun.	Y	kali	126	   45,165	0.0929	99.7	ind_news_2011_00656280
+630	Ternyata, aksi seperti ini tidak hanya kali ini saja terjadi.	Y	kali	126	   45,165	0.0929	104.8889	ind_news_2016_00931343
+631	Pada 2010 sejumlah 991 orang atau 96 persen dan pada 2011 sejumlah 622 orang (42 persen).	Y	persen	127	   45,157	0.0928	52.8333	ind_news_2012_00557439
+632	“Masih ada 20 persen lagi yang terkait kasus ini,” katanya beberapa waktu lalu.	Y	persen	127	   45,157	0.0928	71.6667	ind_news_2011_00848718
+633	Pada tahun 2004 sebesar 16,7 persen pada tahun 2005 15,97 persen dan pada tahun 2009 14,1 persen.	Y	persen	127	   45,157	0.0928	73.4	ind_news_2011_00173250
+634	Namun, yang ke Indonesia baru 1 persen atau masih di angka 1,2 juta orang.	Y	persen	127	   45,157	0.0928	76.5	ind_news_2016_00599754
+635	Indonesia hanya dapat bagian 1 hingga 3 persen, sedangkan di negara lain bisa 5 hingga 10 persen.	Y	persen	127	   45,157	0.0928	81.3636	ind_news_2012_00821730
+636	Jadi ini sama saja, ini bukan hal baru untuk keluarga, kata dia.	Y	bukan	128	   44,960	0.0924	74.6364	ind_news_2012_00395759
+637	Dan ini terjadi bukan hanya di kota Manado tapi terjadi di semua kota di Indonesia.	Y	bukan	128	   44,960	0.0924	75	ind_news_2012_00238632
+638	Tetapi bukan dari sekarang karena terjadi dari beberapa waktu lalu bukan karena kondisi saat ini.	Y	bukan	128	   44,960	0.0924	90.3333	ind_news_2012_00890637
+639	Kondisi yang terjadi saat ini sebenarnya bukan hal yang baru karena sebelumnya pun sudah terjadi.	Y	bukan	128	   44,960	0.0924	95.2308	ind_news_2011_00380104
+640	Jadi, pembangunan di Jakarta bukan dari gubernur saja, tapi dari masyarakat.	Y	bukan	128	   44,960	0.0924	97.2	ind_news_2012_00755601
+641	Begitu juga dengan seorang pejabat, ia juga harus bisa melakukan hal yang sama.	Y	seorang	129	   44,729	0.092	86.6667	ind_news_2012_00728450
+642	Tapi, tidak ada seorang pun yang bisa memberikan jalan keluar.	Y	seorang	129	   44,729	0.092	109.5	ind_news_2016_00915645
+643	Kami tidak meminta seorang pemain untuk melakukan tugas lebih banyak dari pemain lainnya.	Y	seorang	129	   44,729	0.092	110.0833	ind_news_2012_00307710
+644	Ia mengaku baru tahu dari salah seorang warga tentang hal tersebut ketika berada di lokasi.	Y	seorang	129	   44,729	0.092	114.1333	ind_news_2012_00058768
+645	Hanya satu yang masih hidup, dan seorang pemain lagi belum ditemukan.	Y	seorang	129	   44,729	0.092	125.0909	ind_news_2011_00398050
+646	“Tapi, untuk kasus ini para tersangka adalah orang atau pemain baru,”katanya.	Y	pemain	130	   44,439	0.0914	69.75	ind_news_2016_00915990
+647	Atau bisa jadi mereka juga akan melakukan hal yang sama, ketika mereka berada di posisi seperti pemain-pemain tersebut.	Y	pemain	130	   44,439	0.0914	72.5294	ind_news_2012_00359658
+648	“Saya juga tak tahu ada pemain baru yang akan datang.	Y	pemain	130	   44,439	0.0914	88.2	ind_news_2016_00746857
+649	Ia juga menambahkan, Ia membuat para pemain menjadi lebih baik.	Y	pemain	130	   44,439	0.0914	96	ind_news_2011_00750204
+650	Tim, kata dia sudah memberikan yang terbaik untuk pemain ini.	Y	pemain	130	   44,439	0.0914	96.5	ind_news_2012_00677472
+651	Hanya satu orang yang bisa melakukan itu, yakni Presiden SBY.	Y	presiden	131	   44,156	0.0908	115.2	ind_news_2011_00645863
+652	“Dia calon Presiden AS yang akan datang dan juga pernah tinggal di Indonesia.	Y	presiden	131	   44,156	0.0908	121.4615	ind_news_2011_00192085
+653	Kita semua merupakan karya dari para guru kita,” kata presiden.	Y	presiden	131	   44,156	0.0908	124.4444	ind_news_2016_00458421
+654	“Di luar negeri, untuk jadi presiden, harus menjadi ketua umum partai dulu.	Y	presiden	131	   44,156	0.0908	125.0833	ind_news_2016_00194196
+655	Negara dan rakyat harus memberikan kesempatan kepada calon presiden yang seperti ini, ujarnya.	Y	presiden	131	   44,156	0.0908	126.1538	ind_news_2012_00048298
+656	Harga kontrak di negara lain tersebut sudah terjadi lebih dari 10 tahun yang lalu.	Y	harga	132	   44,048	0.0906	106.8462	ind_news_2012_00813724
+657	Harga sebesar itu sudah tidak sesuai lagi dengan kondisi lapangan saat ini.	Y	harga	132	   44,048	0.0906	109.3333	ind_news_2012_00779664
+658	Harga masing-masing menjadi Rp 60 ribu, Rp 35 ribu, dan Rp 40 ribu.	Y	harga	132	   44,048	0.0906	113	ind_news_2011_00378101
+659	Harga di beberapa wilayah lain, bahkan lebih tinggi dari harga rata-rata nasional tersebut.	Y	harga	132	   44,048	0.0906	122.5	ind_news_2016_00261185
+660	Kenaikan harga sekitar Rp 5.000 ini sendiri sudah terjadi sejak beberapa hari terakhir.	Y	harga	132	   44,048	0.0906	131.6667	ind_news_2016_00430538
+661	Mereka memberikan semua, setiap hari, dan saya tidak bisa meminta yang lebih dari mereka.	Y	memberikan	133	   43,705	0.0899	61.3846	ind_news_2012_00994270
+662	Tim telah bermain sangat baik dan telah memberikan yang mereka bisa.	Y	memberikan	133	   43,705	0.0899	86.9	ind_news_2012_00052143
+663	Tim, kata dia sudah memberikan yang terbaik untuk pemain ini.	Y	memberikan	133	   43,705	0.0899	96.5	ind_news_2012_00677472
+664	Tapi, tidak ada seorang pun yang bisa memberikan jalan keluar.	Y	memberikan	133	   43,705	0.0899	109.5	ind_news_2016_00915645
+665	“Dia sudah banyak memberikan informasi, tapi kita tidak tahu benar atau tidak.	Y	memberikan	133	   43,705	0.0899	111.7273	ind_news_2011_00704222
+666	Mereka bahkan sudah berada di kota ini sejak 10 hari lalu.	Y	sejak	134	   43,576	0.0896	67.4	ind_news_2011_00186351
+667	Hal tersebut sudah berlangsung sejak tahun 2012 sampai dengan saat ini.	Y	sejak	134	   43,576	0.0896	75.7	ind_news_2016_00254475
+668	Ini sudah berlangsung sejak tiga tahun yang lalu, kata dia.	Y	sejak	134	   43,576	0.0896	79.6	ind_news_2011_00127442
+669	“Sejak saat itu, tidak pernah ada kegiatan apa pun di rumah itu.	Y	sejak	134	   43,576	0.0896	81.6364	ind_news_2016_00801405
+670	Bahkan hal tersebut, lanjut kata dia, sudah dilakukan setiap Jumat sejak tahun lalu.	Y	sejak	134	   43,576	0.0896	99.6923	ind_news_2012_00659855
+671	Tidak hanya bagi bank itu sendiri, tapi bagi pemerintah dan masyarakat Indonesia.	Y	sendiri	135	   43,214	0.0888	62.0909	ind_news_2016_00942299
+672	Tidak hanya untuk diri sendiri, tapi juga untuk orang lain.	Y	sendiri	135	   43,214	0.0888	63.6667	ind_news_2016_00943337
+673	Saya tidak bisa, saya harus menjadi diri saya sendiri, ujarnya.	Y	sendiri	135	   43,214	0.0888	79.5	ind_news_2012_00413909
+674	Saya sendiri di Ibu Kota sudah dua kali melakukan itu.	Y	sendiri	135	   43,214	0.0888	83.3	ind_news_2012_00007879
+675	Oleh sebab itu, kita harus mulai dari diri kita sendiri.	Y	sendiri	135	   43,214	0.0888	85.7778	ind_news_2016_00610343
+676	Banyak juga yang tidak sampai karena terus mencari dan mencari.	Y	terus	136	   42,961	0.0883	89.2222	ind_news_2011_00434754
+677	Sampai saat ini saya masih ingin terus berada di dunia pendidikan,” ujarnya.	Y	terus	136	   42,961	0.0883	105.5	ind_news_2012_00526658
+678	Bagi saya ini masalah karena mungkin saya tidak akan terus bekerja.	Y	terus	136	   42,961	0.0883	108.8	ind_news_2011_00121061
+679	Kami akan terus meminta dukungan kepada semua pihak, termasuk pada warga Indonesia yang berada di luar negeri, katanya.	Y	terus	136	   42,961	0.0883	118.5556	ind_news_2011_00694465
+680	Kami harus terus bisa menunjukkan yang terbaik dari hari ke hari.	Y	terus	136	   42,961	0.0883	130.8	ind_news_2016_00376375
+681	Padahal, di antara kami tidak ada yang melakukan hal itu.	Y	antara	137	   42,775	0.0879	65.2	ind_news_2012_00047493
+682	Bahkan di antara mereka masih ada yang belum bisa pulang karena tidak ada lagi uang untuk kembali.	Y	antara	137	   42,775	0.0879	101.25	ind_news_2016_00060894
+683	Di antara mereka banyak yang berusia lebih dari 70 atau 80 tahun.	Y	antara	137	   42,775	0.0879	103.3	ind_news_2012_00247221
+684	Dia hanya mengatakan, salah satu di antara mereka adalah pengusaha.	Y	antara	137	   42,775	0.0879	110.4	ind_news_2011_00841163
+685	’’Bisa saja kami akan memilih satu di antara kedua calon.	Y	antara	137	   42,775	0.0879	116.5	ind_news_2012_00778960
+686	Hal ini lanjut dia terjadi di sejumlah daerah lainnya di Indonesia.	Y	lainnya	138	   42,598	0.0876	85.4	ind_news_2016_00245488
+687	Jika mereka tidak berhasil di satu bidang, mereka akan berhasil di bidang lainnya.	Y	lainnya	138	   42,598	0.0876	99.7778	ind_news_2011_00390358
+688	Kami tidak meminta seorang pemain untuk melakukan tugas lebih banyak dari pemain lainnya.	Y	lainnya	138	   42,598	0.0876	110.0833	ind_news_2012_00307710
+689	Sehingga diharapkan kabupaten/kota yang lainnya dapat melakukan hal yang sama.	Y	lainnya	138	   42,598	0.0876	112.5	ind_news_2016_00795901
+690	Dan itu tidak terjadi di Indonesia saja, tetapi juga di banyak negara maju lainnya.	Y	lainnya	138	   42,598	0.0876	114	ind_news_2012_00414819
+691	Kami adalah sama seperti tahun lalu, tetapi sudah mulai lebih baik.	Y	mulai	139	   42,345	0.0871	66.4545	ind_news_2016_00372159
+692	Oleh sebab itu, kita harus mulai dari diri kita sendiri.	Y	mulai	139	   42,345	0.0871	85.7778	ind_news_2016_00610343
+693	Kalau tidak kami mulai dari desa ini, lalu dari mana lagi?”	Y	mulai	139	   42,345	0.0871	86.7	ind_news_2012_00243516
+694	Saya bagi dua mulai sekarang karena memang anak saya dua.	Y	mulai	139	   42,345	0.0871	89.75	ind_news_2016_00742472
+695	Seperti mulai pukul 09.00 hingga pukul 12.00, lalu sekitar pukul 15.30 hingga pukul 17.00.	Y	mulai	139	   42,345	0.0871	114	ind_news_2012_00070620
+696	Sebab menurut mereka hal itu pernah terjadi pada tahun-tahun sebelumnya.	Y	sebelumnya	140	   41,626	0.0856	77.9	ind_news_2011_00164129
+697	Setiap orang berharap tahun ini akan lebih baik dari tahun sebelumnya.	Y	sebelumnya	140	   41,626	0.0856	78.4	ind_news_2012_00480686
+698	Saya tak pernah melihat hal seperti itu ada pada dirinya sebelumnya.	Y	sebelumnya	140	   41,626	0.0856	90.9091	ind_news_2012_00910355
+699	Kalau tahun-tahun sebelumnya hanya 19-20 persen, tahun ini bisa mencapai 40 persen, ujarnya.	Y	sebelumnya	140	   41,626	0.0856	91.4444	ind_news_2011_00791092
+700	Kondisi yang terjadi saat ini sebenarnya bukan hal yang baru karena sebelumnya pun sudah terjadi.	Y	sebelumnya	140	   41,626	0.0856	95.2308	ind_news_2011_00380104
+701	’’Dana itu memang sangat diharapkan warga dengan kondisi saat ini,’’ ujar dia.	Y	ujar	141	   41,620	0.0856	98.4167	ind_news_2012_00586881
+702	Mereka mengaku mendapatkan barang-barang tersebut dari Indonesia, ujar dia.	Y	ujar	141	   41,620	0.0856	108.5556	ind_news_2011_00354782
+703	Hanya tertentu saja yang bisa, tidak semua perusahaan bisa, ujar dia di Jakarta, Rabu (10/8/2016).	Y	ujar	141	   41,620	0.0856	138.5385	ind_news_2016_00260047
+704	Terutama posisi ibu kota, dan ini membuat masyarakat berharap lebih, ujar dia.	Y	ujar	141	   41,620	0.0856	149.3333	ind_news_2011_00412993
+705	Kalau sampai 30 persen, dana yang masuk diharapkan sampai Rp 1,5 triliun, ujar dia.	Y	ujar	141	   41,620	0.0856	150.9091	ind_news_2011_00002321
+706	Apa pun yang kita dapat harus melalui proses dan usaha.	Y	melalui	142	   41,559	0.0854	105.4	ind_news_2016_00042578
+707	Kalau untuk jumlah yang lebih besar biasanya melalui pemerintah kota.	Y	melalui	142	   41,559	0.0854	128.8	ind_news_2016_00370025
+708	Melalui pertemuan dengan berbagai pihak, masih banyak informasi yang baru masuk.	Y	melalui	142	   41,559	0.0854	134.5455	ind_news_2012_00731902
+709	Baik melalui pemilihan umum maupun dukungan langsung dari masyarakat untuk menjadi anggota.	Y	melalui	142	   41,559	0.0854	166.25	ind_news_2016_00068792
+710	Karena hanya melalui dunia pendidikan, kita berharap adanya perubahan akan kondisi bangsa ke depan.	Y	melalui	142	   41,559	0.0854	172.7857	ind_news_2011_00366998
+711	Tersangka juga tidak ada di rumah atau di tempat kerja.	Y	tempat	143	   41,389	0.0851	74.1111	ind_news_2016_00933195
+712	Bahkan warga ini tak hanya datang dari Jakarta, tapi dari tempat-tempat lain.	Y	tempat	143	   41,389	0.0851	80.3636	ind_news_2016_00067801
+713	Selain itu, saat ini pembangunan ekonomi Indonesia hanya jalan di tempat.	Y	tempat	143	   41,389	0.0851	82.7273	ind_news_2012_00877004
+714	Oleh karena itu, rumah seperti itu tidak baik untuk tempat tinggal.	Y	tempat	143	   41,389	0.0851	82.8	ind_news_2011_00121029
+715	Semua itu terjadi di satu tempat yang tidak jauh: di dalam diri!	Y	tempat	143	   41,389	0.0851	84.5455	ind_news_2012_00950994
+716	Jika memang daerah memiliki dana maka akan bisa lebih besar lagi.	Y	dana	144	   40,986	0.0843	78.9091	ind_news_2011_00224283
+717	’’Dana itu memang sangat diharapkan warga dengan kondisi saat ini,’’ ujar dia.	Y	dana	144	   40,986	0.0843	98.4167	ind_news_2012_00586881
+718	Mereka yang punya cukup dana dan waktu mungkin tidak masalah dengan hal ini.	Y	dana	144	   40,986	0.0843	98.8462	ind_news_2012_00109558
+719	Dia mengatakan, dana tersebut akan diberikan ke seluruh wilayah di Indonesia.	Y	dana	144	   40,986	0.0843	104.5455	ind_news_2011_00573286
+720	Tahun lalu, pemerintah sudah memberikan dana desa kita Rp20,5 triliun, tahun 2016, Rp47 triliun, tahun depan, Rp60 triliun.	Y	dana	144	   40,986	0.0843	113.3636	ind_news_2016_00896805
+721	Pertama, ia menjadi bagi orang-orang kecil saat sudah tidak ada yang dapat diharapkan.	Y	pertama	145	   40,822	0.0839	93.3846	ind_news_2016_00680241
+722	Ini adalah kali pertama mereka sampai ke final lagi setelah tahun 1974 dan 1978.	Y	pertama	145	   40,822	0.0839	106.9167	ind_news_2011_00374935
+723	Saat itu juga merupakan bulan penuh pertama dalam Tahun Baru tersebut.	Y	pertama	145	   40,822	0.0839	108.5455	ind_news_2011_00749368
+724	Ia mengatakan,  Sebenarnya, saat ini merupakan saat pertama kali saya jauh dari mereka.	Y	pertama	145	   40,822	0.0839	109.75	ind_news_2011_00726791
+725	Dia merupakan wartawan pertama yang tewas di negara itu pada tahun ini.	Y	pertama	145	   40,822	0.0839	112.1667	ind_news_2012_00934858
+726	Tidak hanya mereka bisa bersama dengan baik dalam film, namun juga di luar film.	Y	bersama	146	   40,479	0.0832	67.3846	ind_news_2012_00878972
+727	Lebih lanjut, ia meminta agar pemerintah melakukan hal itu secara bersama-sama.	Y	bersama	146	   40,479	0.0832	100.6667	ind_news_2016_00480815
+728	Untuk anak-anak kita dan untuk anak-anak mereka, kita harus menghadapi berbagai masalah dunia bersama-sama dan tidak sendiri.	Y	bersama	146	   40,479	0.0832	111.6429	ind_news_2016_00961294
+729	Tidak akan terjadi apa-apa yang membuat dia tidak akan bersama klub.	Y	bersama	146	   40,479	0.0832	113.1111	ind_news_2011_00612210
+730	Kita sekarang sudah 32 tahun, waktu sudah lewat untuk kita bersama.	Y	bersama	146	   40,479	0.0832	123	ind_news_2011_00359655
+731	Tak hanya di Sulut, tetapi juga di se-jumlah daerah lain.	Y	sulut	147	   40,036	0.0823	94.6	ind_news_2016_00898221
+732	Karena bagaimana pun juga, mereka adalah bagian dari masyarakat Sulut.	Y	sulut	147	   40,036	0.0823	105.8	ind_news_2016_00391005
+733	Tidak hanya di Sulut, tapi juga secara nasional bahkan internasional.	Y	sulut	147	   40,036	0.0823	110.5	ind_news_2016_00942497
+734	Ini karena dalam beberapa hari ini akan ada kegiatan penting yang dilakukan Polda Sulut.	Y	sulut	147	   40,036	0.0823	123.3077	ind_news_2012_00794703
+735	Sebagai kabupaten baru, Mitra harus lebih dari daerah kabupaten/kota lainnya di Sulut.	Y	sulut	147	   40,036	0.0823	125	ind_news_2016_00770361
+736	Saya tidak dapat mengatakan apa-apa lagi pada saat ini.	Y	apa	148	   40,003	0.0822	46	ind_news_2012_00821931
+737	Tidak, saya hanya melakukan apa yang ada di kepala saya.	Y	apa	148	   40,003	0.0822	47.2222	ind_news_2016_00944879
+738	Apa saja yang telah menjadi kasus yang terjadi di Jakarta?	Y	apa	148	   40,003	0.0822	56.7778	ind_news_2016_00042891
+739	Namun saat ini, ia belum bisa melihat program apa yang akan dilakukan.	Y	apa	148	   40,003	0.0822	67.4167	ind_news_2011_00713650
+740	“(Tetap) benar apa yang terjadi pada hari itu dan itu benar hingga hari ini,” katanya.	Y	apa	148	   40,003	0.0822	68.3333	ind_news_2011_00535986
+741	Yakni jika pada tahun 2015 hanya sekitar Rp 28 miliar, maka pada tahun 2016 ini menjadi Rp 63 miliar.	Y	maka	149	   39,588	0.0814	78.2727	ind_news_2016_00989787
+742	Jika memang daerah memiliki dana maka akan bisa lebih besar lagi.	Y	maka	149	   39,588	0.0814	78.9091	ind_news_2011_00224283
+743	Karena tak ada jalan nasional, maka tak ada anggaran dari Pemerintah Pusat.	Y	maka	149	   39,588	0.0814	109	ind_news_2012_00763747
+744	Sampai di Jakarta sekitar jam 8.00 maka ada dua jam lagi untuk sampai di tempat acara.	Y	maka	149	   39,588	0.0814	116.0833	ind_news_2012_00154716
+745	Jika ada anak atau wanita yang meminta uang, maka mereka akan memberikan apa saja yang mereka bisa, termasuk saja.	Y	maka	149	   39,588	0.0814	117.25	ind_news_2012_00243936
+746	Mereka ada yang sudah satu tahun, ada yang satu bulan.	Y	bulan	150	   39,174	0.0805	38.5714	ind_news_2016_00543767
+747	Ada yang bulan ini dan ada yang baru bulan depan.	Y	bulan	150	   39,174	0.0805	54	ind_news_2011_00023972
+748	Pada 2004 Rp 647 ribu per bulan menjadi sekitar Rp 1,7 juta tahun ini.	Y	bulan	150	   39,174	0.0805	95.7	ind_news_2011_00823494
+749	Jadi, masih cukup untuk dua bulan ke depan, katanya, kemarin.	Y	bulan	150	   39,174	0.0805	97	ind_news_2012_00818920
+750	Untuk itu, dalam waktu dua bulan ini, kita harus kerja keras.	Y	bulan	150	   39,174	0.0805	100.8182	ind_news_2012_00943270
+751	“Masih ada 20 persen lagi yang terkait kasus ini,” katanya beberapa waktu lalu.	Y	terkait	151	   38,904	0.08	71.6667	ind_news_2011_00848718
+752	Hanya saja hingga saat ini belum ada keputusan terkait hal tersebut.	Y	terkait	151	   38,904	0.08	83.7273	ind_news_2016_00257775
+753	Dalam hal ini terkait hal-hal apa saja yang perlu dilakukan pusat maupun daerah.	Y	terkait	151	   38,904	0.08	100.3333	ind_news_2016_00122707
+754	Sebelum ini sudah banyak juga yang lain, termasuk yang terkait dengan MA.	Y	terkait	151	   38,904	0.08	107.1818	ind_news_2012_00928032
+755	Yang dapat dilakukan hanya memberikan informasi terkait dengan kondisi sekolah.	Y	terkait	151	   38,904	0.08	114.4	ind_news_2012_00427244
+756	Jadi, secara hukum, tidak ada yang salah dengan SE ini.	Y	hukum	152	   38,433	0.079	69	ind_news_2016_00332223
+757	Hanya saja, proses hukum dari kasus ini masih belum jelas.	Y	hukum	152	   38,433	0.079	87.6	ind_news_2011_00406235
+758	Kita sudah punya semua hukum, hukum apa yang tidak kita punya.	Y	hukum	152	   38,433	0.079	99.125	ind_news_2012_00693573
+759	Hal tersebut merupakan hak hukum yang bisa digunakan atau tidak digunakan.	Y	hukum	152	   38,433	0.079	126.3	ind_news_2012_00150879
+760	Hukum akan terus berjalan karena negara kita negara hukum,” ujarnya.	Y	hukum	152	   38,433	0.079	133.25	ind_news_2011_00567627
+761	Namun dia juga mengatakan, Kami juga merupakan sebuah negara penting.	Y	sebuah	153	   38,364	0.0789	89.1111	ind_news_2012_00201356
+762	“Namun sebagai sebuah tim besar, kami tetap menerima hasil ini.	Y	sebuah	153	   38,364	0.0789	100.1	ind_news_2016_00595527
+763	Tapi saya tak bisa menerima jika mereka tak bermain sebagai sebuah tim.	Y	sebuah	153	   38,364	0.0789	117.7273	ind_news_2012_00041137
+764	Tidak hanya di tempat kami di sebuah pasar desa yang dikenal dengan Pasar Jumat, tetapi juga di desa-desa di sekitar.	Y	sebuah	153	   38,364	0.0789	130.6	ind_news_2011_00488970
+765	Kedua nama ini menjadi sebuah kawasan yang berada di wilayah Jakarta Selatan.	Y	sebuah	153	   38,364	0.0789	133.1667	ind_news_2011_00930937
+766	“Kami akan memiliki sekitar 10 orang lebih banyak di tim ini tahun depan.	Y	depan	154	   38,329	0.0788	51.3333	ind_news_2011_00695180
+767	Ada yang bulan ini dan ada yang baru bulan depan.	Y	depan	154	   38,329	0.0788	54	ind_news_2011_00023972
+768	Saya tidak bisa mengatakan apa yang akan terjadi di masa depan.	Y	depan	154	   38,329	0.0788	69.4545	ind_news_2016_00757358
+769	Jadi, kita akan melihat apa yang terjadi dalam beberapa hari ke depan.	Y	depan	154	   38,329	0.0788	78.4167	ind_news_2012_00251729
+770	Jadi, masih cukup untuk dua bulan ke depan, katanya, kemarin.	Y	depan	154	   38,329	0.0788	97	ind_news_2012_00818920
+771	Sementara, di Provinsi dan beberapa Kabupaten juga sudah akan melakukan hal yang sama.	Y	kabupaten	155	   38,157	0.0785	74.1538	ind_news_2012_00998925
+772	Saya meminta pemerintah kabupaten/kota pun melakukan hal yang sama, katanya.	Y	kabupaten	155	   38,157	0.0785	83.1818	ind_news_2016_00749110
+773	Sehingga diharapkan kabupaten/kota yang lainnya dapat melakukan hal yang sama.	Y	kabupaten	155	   38,157	0.0785	112.5	ind_news_2016_00795901
+774	Saya akan datang ke provinsi atau kabupaten yang perlu saya datang, katanya.	Y	kabupaten	155	   38,157	0.0785	123	ind_news_2016_00742002
+775	Sebagai kabupaten baru, Mitra harus lebih dari daerah kabupaten/kota lainnya di Sulut.	Y	kabupaten	155	   38,157	0.0785	125	ind_news_2016_00770361
+776	Warga dari kedua desa kembali ke tempat mereka masing-masing.	Y	masing	156	   37,468	0.077	88.3333	ind_news_2011_00538870
+777	Mereka sementara naik ke tempat yang lebih tinggi di rumah masing-masing.	Y	masing	156	   37,468	0.077	96.4545	ind_news_2016_00552001
+778	Harga masing-masing menjadi Rp 60 ribu, Rp 35 ribu, dan Rp 40 ribu.	Y	masing	156	   37,468	0.077	113	ind_news_2011_00378101
+779	Itu semua merupakan kebijakan dari masing-masing dinas, kata dia.	Y	masing	156	   37,468	0.077	113.8889	ind_news_2011_00348218
+780	Sekitar pukul 7 malam, kami pun sampai di rumah masing-masing di Jakarta.	Y	masing	156	   37,468	0.077	118.3	ind_news_2012_00947553
+781	Kalau tidak kami mulai dari desa ini, lalu dari mana lagi?”	Y	desa	157	   37,440	0.077	86.7	ind_news_2012_00243516
+782	Warga dari kedua desa kembali ke tempat mereka masing-masing.	Y	desa	157	   37,440	0.077	88.3333	ind_news_2011_00538870
+783	Tetapi, hingga saat ini pemerintah masih belum melakukan tindakan apa pun terhadap warga desa tersebut.	Y	desa	157	   37,440	0.077	110.8667	ind_news_2011_00880111
+784	Tahun lalu, pemerintah sudah memberikan dana desa kita Rp20,5 triliun, tahun 2016, Rp47 triliun, tahun depan, Rp60 triliun.	Y	desa	157	   37,440	0.077	113.3636	ind_news_2016_00896805
+785	Selain itu, tim juga akan melakukan pemeriksaan kesehatan kepada sejumlah warga desa tersebut.	Y	desa	157	   37,440	0.077	114.6923	ind_news_2011_00738128
+786	Karena tak ada jalan nasional, maka tak ada anggaran dari Pemerintah Pusat.	Y	nasional	158	   37,187	0.0765	109	ind_news_2012_00763747
+787	Tidak hanya di Sulut, tapi juga secara nasional bahkan internasional.	Y	nasional	158	   37,187	0.0765	110.5	ind_news_2016_00942497
+788	Harga di beberapa wilayah lain, bahkan lebih tinggi dari harga rata-rata nasional tersebut.	Y	nasional	158	   37,187	0.0765	122.5	ind_news_2016_00261185
+789	Banyak pemain yang tidak sempat tampil sampai 100 kali di tim nasional.	Y	nasional	158	   37,187	0.0765	124.0909	ind_news_2011_00053368
+790	Tahun ini, secara nasional hanya ada satu juara, sementara pada tahun-tahun sebelumnya setiap bidang usaha ada juara pertama dan kedua.	Y	nasional	158	   37,187	0.0765	125.4118	ind_news_2012_00627816
+791	Tapi, sampai 27 tahun kemudian, hari ini, lahan tersebut masih tetap sama dengan 27 tahun yang lalu.	Y	kemudian	159	   37,177	0.0764	84.8571	ind_news_2012_00657732
+792	Mereka tidak tahu apa yang akan terjadi atas mereka kemudian.	Y	kemudian	159	   37,177	0.0764	94.2222	ind_news_2011_00927577
+793	Kemudian 2014 turun menjadi 49 kasus dan di 2015 turun lagi menjadi 41 kasus.	Y	kemudian	159	   37,177	0.0764	104.2857	ind_news_2016_00427224
+794	Kemudian, pada Senin (11/7) lalu, yang merupakan hari pertama masuk kerja, turun menjadi 32.409 orang.	Y	kemudian	159	   37,177	0.0764	117.0769	ind_news_2016_00429016
+795	Kemudian akan naik menjadi Rp 70 triliun di 2017, naik lagi menjadi Rp 103 triliun di 2018 dan Rp 111 triliun di 2019.	Y	kemudian	159	   37,177	0.0764	121.1111	ind_news_2016_00427372
+796	Sampai saat ini tidak ada informasi yang masuk seperti itu.	Y	masuk	160	   37,090	0.0763	66.5	ind_news_2012_00012184
+797	Tidak hanya di jalan air juga masuk ke rumah sekitar pukul 19.00 WIB.	Y	masuk	160	   37,090	0.0763	94	ind_news_2016_00942448
+798	425. Akan tetapi, laporan dari daerah sampai saat ini belum masuk.	Y	masuk	160	   37,090	0.0763	99.1	ind_news_2011_00241635
+799	Ini kan bisnis, saya tak bisa masuk ke dalam bisnis.	Y	masuk	160	   37,090	0.0763	106.7778	ind_news_2011_00500374
+800	“Jangan sampai, orang yang baru masuk (partai) lalu menjadi ketua DPRD.	Y	masuk	160	   37,090	0.0763	115.9091	ind_news_2011_00402773
+801	Tidak hanya terjadi di Indonesia, tetapi juga terjadi di negara lain.	Y	tetapi	161	   36,919	0.0759	53.1111	ind_news_2012_00002705
+802	Kami adalah sama seperti tahun lalu, tetapi sudah mulai lebih baik.	Y	tetapi	161	   36,919	0.0759	66.4545	ind_news_2016_00372159
+803	Tak hanya di dalam negeri, tetapi juga di luar negeri.	Y	tetapi	161	   36,919	0.0759	77.75	ind_news_2016_00898163
+804	Namun hanya satu atau dua orang tetapi yang terjadi pada beberapa hari terakhir semakin banyak.	Y	tetapi	161	   36,919	0.0759	87.0667	ind_news_2012_00307696
+805	Tetapi bukan dari sekarang karena terjadi dari beberapa waktu lalu bukan karena kondisi saat ini.	Y	tetapi	161	   36,919	0.0759	90.3333	ind_news_2012_00890637
+806	Tidak hanya di jalan air juga masuk ke rumah sekitar pukul 19.00 WIB.	Y	air	162	   36,906	0.0759	94	ind_news_2016_00942448
+807	Tidak hanya di seluruh dunia, tapi juga di tanah air.	Y	air	162	   36,906	0.0759	101.3333	ind_news_2016_00942491
+808	Kegiatan ini akan kembali di sejumlah kota di Tanah Air.	Y	air	162	   36,906	0.0759	107.2222	ind_news_2016_00418591
+809	Air mulai masuk ke dalam rumah sekitar tiga jam kemudian.	Y	air	162	   36,906	0.0759	132.3	ind_news_2016_00016023
+810	Pada korban di air laut, setelah lima hari, baru terjadi proses tersebut.	Y	air	162	   36,906	0.0759	134.5	ind_news_2016_00623476
+811	Kami menunggu dari beberapa bulan yang lalu, namun, hingga saat ini buruh PT.	Y	pt	163	   36,733	0.0755	178.0769	ind_news_2012_00572673
+812	Apa yang terjadi hari ini di negara maju, pasti akan juga terjadi di Indonesia, ungkap presiden direktur PT.	Y	pt	163	   36,733	0.0755	191.375	ind_news_2011_00900710
+813	Yang saya tahu, proses menuju badan hukum PT sudah berada pada jalur yang benar.	Y	pt	163	   36,733	0.0755	204.1538	ind_news_2011_00727611
+814	Dia juga menegaskan, PT pemilu lalu sebesar 2,5 persen dan hanya berlaku untuk DPR, maka Pemilu 2014 mendatang PT sebesar 5 persen akan berlaku hingga DPRD provinsi dan DPRD kabupaten/kota.	Y	pt	163	   36,733	0.0755	210.3333	ind_news_2012_00846658
+815	Seorang pejabat pemerintah mengatakan Direktur Utama PT Perusahaan Listrik Negara (PT.	Y	pt	163	   36,733	0.0755	231.4	ind_news_2012_00347930
+816	“Karena memang setiap tahun juga sudah seperti itu,” kata dia.	Y	setiap	164	   36,732	0.0755	45.6	ind_news_2012_00681250
+817	Mereka memberikan semua, setiap hari, dan saya tidak bisa meminta yang lebih dari mereka.	Y	setiap	164	   36,732	0.0755	61.3846	ind_news_2012_00994270
+818	Setiap orang berharap tahun ini akan lebih baik dari tahun sebelumnya.	Y	setiap	164	   36,732	0.0755	78.4	ind_news_2012_00480686
+819	Dengan kata lain, setiap tahun tidak kurang dari Rp2,4 miliar.	Y	setiap	164	   36,732	0.0755	92	ind_news_2011_00628908
+820	Bahkan hal tersebut, lanjut kata dia, sudah dilakukan setiap Jumat sejak tahun lalu.	Y	setiap	164	   36,732	0.0755	99.6923	ind_news_2012_00659855
+821	Sementara jumlah guru yang ada saat ini, menurut dia, sudah lebih dari cukup.	Y	cukup	165	   36,524	0.0751	70.8462	ind_news_2011_00986986
+822	Ketika itu, warga Indonesia yang tinggal di kota itu sudah cukup banyak.	Y	cukup	165	   36,524	0.0751	82.6364	ind_news_2016_00444406
+823	Ada yang hanya cukup dua orang, ada yang sampai lima.	Y	cukup	165	   36,524	0.0751	86.875	ind_news_2012_00941242
+824	Jadi, masih cukup untuk dua bulan ke depan, katanya, kemarin.	Y	cukup	165	   36,524	0.0751	97	ind_news_2012_00818920
+825	Dan kondisi ini sudah cukup lama dan masih sedang terjadi sampai saat ini.	Y	cukup	165	   36,524	0.0751	98.1818	ind_news_2011_00080932
+826	Tersangka juga tidak ada di rumah atau di tempat kerja.	Y	kerja	166	   36,508	0.0751	74.1111	ind_news_2016_00933195
+827	Untuk itu, dalam waktu dua bulan ini, kita harus kerja keras.	Y	kerja	166	   36,508	0.0751	100.8182	ind_news_2012_00943270
+828	Kita tahu semua kerja anggota DPR kalau masih di dalam,	Y	kerja	166	   36,508	0.0751	113.2	ind_news_2012_00730560
+829	Karena tenaga kerja bisa saja dari wilayah lain atau bahkan dari negara lain.	Y	kerja	166	   36,508	0.0751	114.5455	ind_news_2016_00404468
+830	Kerja sama ini mungkin setelah tahun depan karena untuk dekat-dekat ini atau tahun depan mungkin belum.	Y	kerja	166	   36,508	0.0751	115.5	ind_news_2016_00438815
+831	Sementara jumlah guru yang ada saat ini, menurut dia, sudah lebih dari cukup.	Y	jumlah	167	   36,189	0.0744	70.8462	ind_news_2011_00986986
+832	Namun dari jumlah tersebut, pemerintah hanya mampu sekitar 1,6 juta saja.	Y	jumlah	167	   36,189	0.0744	79.9	ind_news_2011_00061101
+833	Saat ini, jumlah tersebut sudah naik menjadi sekitar 3.000 orang per tahun.	Y	jumlah	167	   36,189	0.0744	84	ind_news_2016_00722097
+834	Tahun ini jumlah bisa mencapai 50 juta orang ke seluruh dunia.	Y	jumlah	167	   36,189	0.0744	86.8	ind_news_2011_00514298
+835	Jumlah 6,9 persen ini sama dengan sekitar 225 juta orang di seluruh dunia.	Y	jumlah	167	   36,189	0.0744	88	ind_news_2012_00137898
+836	Namun saya tidak dapat hadir karena tengah di luar kota.	Y	tengah	168	   36,185	0.0744	115.2	ind_news_2011_00939681
+837	Jika hal ini memang terjadi, maka mungkin memang tengah terjadi masalah.	Y	tengah	168	   36,185	0.0744	124.6667	ind_news_2011_00218518
+838	Saya tidak yakin dengan apa yang tengah terjadi di tim.	Y	tengah	168	   36,185	0.0744	129.4	ind_news_2012_00850867
+839	Sebelumnya, Jawa Tengah juga sudah mendapatkan dana sebesar Rp 14,9 miliar dalam tahun anggaran 2010.	Y	tengah	168	   36,185	0.0744	136	ind_news_2011_00438705
+840	Karena saat itu, Gubernur Jawa tengah tersebut masih menjadi anggota DPR RI.	Y	tengah	168	   36,185	0.0744	138.75	ind_news_2016_00403080
+841	Saat ini saja sudah ada 212 tim dari berbagai daerah yang mengikuti.	Y	berbagai	169	   36,003	0.074	80.9091	ind_news_2016_00723849
+842	Ia tidak berada di satu posisi tapi ada di berbagai posisi.	Y	berbagai	169	   36,003	0.074	98.1111	ind_news_2012_00066059
+843	Untuk anak-anak kita dan untuk anak-anak mereka, kita harus menghadapi berbagai masalah dunia bersama-sama dan tidak sendiri.	Y	berbagai	169	   36,003	0.074	111.6429	ind_news_2016_00961294
+844	Tidak hanya terjadi di Medan tetapi juga di berbagai kota di Indonesia.	Y	berbagai	169	   36,003	0.074	111.7	ind_news_2016_00943311
+845	Kalau pun tidak ada, masih ada berbagai sumber dana lainnya.	Y	berbagai	169	   36,003	0.074	123	ind_news_2016_00367343
+846	Agar kita tidak hanya akan kembali menjadi pasar yang besar bagi mobil listrik dari luar negeri.	Y	pasar	170	   35,964	0.0739	110.4375	ind_news_2016_00013179
+847	Tidak hanya di tempat kami di sebuah pasar desa yang dikenal dengan Pasar Jumat, tetapi juga di desa-desa di sekitar.	Y	pasar	170	   35,964	0.0739	130.6	ind_news_2011_00488970
+848	Semua sumber daya ada di negara ini, termasuk juga pasar yang besar.	Y	pasar	170	   35,964	0.0739	135.1667	ind_news_2011_00578778
+849	Apalagi warga di sekitar pasar itu tidak ada yang mau memberikan keterangan.	Y	pasar	170	   35,964	0.0739	137.6667	ind_news_2011_00669683
+850	Dan ketiga, bangsa Indonesia hanya akan menjadi pasar dari produk-produk luar.	Y	pasar	170	   35,964	0.0739	141.3636	ind_news_2011_00677463
+851	Saat ini, jumlah tersebut sudah naik menjadi sekitar 3.000 orang per tahun.	Y	per	171	   35,826	0.0737	84	ind_news_2016_00722097
+852	Namun, dalam dua tahun terakhir sudah mencapai 11 juta orang per tahun.	Y	per	171	   35,826	0.0737	94.6	ind_news_2011_00593618
+853	Pada 2004 Rp 647 ribu per bulan menjadi sekitar Rp 1,7 juta tahun ini.	Y	per	171	   35,826	0.0737	95.7	ind_news_2011_00823494
+854	Kalau Rp300 juta per orang itu bagi saya biasa saja.	Y	per	171	   35,826	0.0737	104.3	ind_news_2016_00367450
+855	Ada yang lima hingga 7 orang per kelompok, atau 10 orang dan 12 orang setiap kelompok.	Y	per	171	   35,826	0.0737	112	ind_news_2012_00835269
+856	Tapi ini tidak hanya terjadi di jakarta, tapi di daerah lain dan luar negeri.	Y	negeri	172	   35,757	0.0735	64.0833	ind_news_2012_00855284
+857	Tidak hanya dari dalam negeri, bahkan juga dari luar negeri.	Y	negeri	172	   35,757	0.0735	69.5	ind_news_2011_00836413
+858	Tak hanya di dalam negeri, tetapi juga di luar negeri.	Y	negeri	172	   35,757	0.0735	77.75	ind_news_2016_00898163
+859	Hal seperti itu sudah menjadi hal biasa di negeri ini.	Y	negeri	172	   35,757	0.0735	81.7778	ind_news_2012_00677242
+860	Mereka bukan hanya dari dalam negeri, namun sejumlah negara besar pun i..	Y	negeri	172	   35,757	0.0735	99.5	ind_news_2016_00545445
+861	Tidak hanya di jalan air juga masuk ke rumah sekitar pukul 19.00 WIB.	Y	wib	173	   35,576	0.0731	94	ind_news_2016_00942448
+862	Pukul 17.30 Wib hingga 19.30 Wib, pukul 19.30 Wib hingga pukul 21.30 Wib dan dari pukul 21.30 Wib hingga 23.30 Wib.	Y	wib	173	   35,576	0.0731	105.8	ind_news_2016_00704520
+863	Pertama, pukul 08.00 WIB hingga pukul 20.00 WIB dan dari pukul 20.00 WIB hingga pukul 08.00 WIB.	Y	wib	173	   35,576	0.0731	112.3333	ind_news_2016_00680823
+864	Dan kejadian lainnya terjadi pukul 13.30 WIB di hari yang sama.	Y	wib	173	   35,576	0.0731	131.6	ind_news_2016_00137617
+865	Aksi yang tidak diketahui warga ini terjadi sekitar pukul 19.30 WIB.	Y	wib	173	   35,576	0.0731	133.2	ind_news_2011_00963045
+866	Kita merupakan dua ketua umum dan satu mantan ketua umum partai.	Y	umum	174	   35,211	0.0724	101.4444	ind_news_2012_00718179
+867	Secara umum, masih banyak yang bisa dilakukan untuk membangun negeri.	Y	umum	174	   35,211	0.0724	113.3	ind_news_2016_00785628
+868	“Di luar negeri, untuk jadi presiden, harus menjadi ketua umum partai dulu.	Y	umum	174	   35,211	0.0724	125.0833	ind_news_2016_00194196
+869	Padahal tidak ada kendaraan umum dari desa mereka ke sekolah.	Y	umum	174	   35,211	0.0724	128.7	ind_news_2012_00243815
+870	Secara umum pada hari kedua ini berjalan jauh lebih baik.	Y	umum	174	   35,211	0.0724	131.5	ind_news_2016_00785648
+871	Namun saat ini, ia belum bisa melihat program apa yang akan dilakukan.	Y	program	175	   34,980	0.0719	67.4167	ind_news_2011_00713650
+872	Hanya saja memang masih ada beberapa yang tidak ikut dalam program ini.	Y	program	175	   34,980	0.0719	72.25	ind_news_2016_00258557
+873	Di Indonesia program ini sejak 2008 ini telah membantu 3.700 orang di 15 kota di Indonesia.	Y	program	175	   34,980	0.0719	101	ind_news_2012_00732558
+874	Tahun depan program ini akan digelar di 44 kota di Indonesia.	Y	program	175	   34,980	0.0719	102	ind_news_2016_00895869
+875	Namun program itu belum sesuai dengan undang-undang yang ada.	Y	program	175	   34,980	0.0719	103.1111	ind_news_2011_00103283
+876	Jadi, masih cukup untuk dua bulan ke depan, katanya, kemarin.	Y	kemarin	176	   34,759	0.0715	97	ind_news_2012_00818920
+877	Saat ini semua masih dalam proses sehingga belum pasti,” katanya, kemarin.	Y	kemarin	176	   34,759	0.0715	110.1818	ind_news_2012_00737576
+878	Apa yang terjadi di Ibu Kota Negara, Jumat (1/2) kemarin, bukan hal baru.	Y	kemarin	176	   34,759	0.0715	113.9167	ind_news_2012_00308829
+879	Sebab, kemarin tidak ada satu pun anggota DPRD yang berada di kantor.	Y	kemarin	176	   34,759	0.0715	114.3333	ind_news_2016_00763783
+880	Hingga hari Kamis, (29/04) kemarin, korban yang memiliki 5 anak ini belum juga pulang.	Y	kemarin	176	   34,759	0.0715	142.4167	ind_news_2011_00144196
+881	Tapi, tiga orang itu baik-baik saja dan kini sudah kembali bekerja.	Y	kini	177	   34,604	0.0711	94.9091	ind_news_2012_00484301
+882	Hingga kini barang-barang warga belum ada yang kembali, katanya.	Y	kini	177	   34,604	0.0711	100.4444	ind_news_2012_00536107
+883	Mereka yang mampu akan membantu mereka yang tidak mampu karena memang hingga kini belum ada program khusus dari pemerintah untuk siswa tidak mampu.	Y	kini	177	   34,604	0.0711	113.1667	ind_news_2011_00497336
+884	Ke mana-mana pun orang kini tak perlu surat jalan lagi.	Y	kini	177	   34,604	0.0711	130.6	ind_news_2011_00183432
+885	Namun, hingga kini tidak ada perhatian baik dari pihak perusahaan maupun pemerintah daerah, katanya.	Y	kini	177	   34,604	0.0711	132.7143	ind_news_2012_00778508
+886	Bahkan, saat itu, tidak ada satu pun polisi yang berada di lokasi.	Y	polisi	178	   34,527	0.071	79.9167	ind_news_2011_00736930
+887	Polisi saat ini sudah jauh lebih baik dari masa lalu.	Y	polisi	178	   34,527	0.071	99.4	ind_news_2012_00194837
+888	“Di antara mereka ada seorang polisi dan seorang anggota TNI.	Y	polisi	178	   34,527	0.071	135.4444	ind_news_2011_00984719
+889	Polisi juga sempat mencari para pelaku hingga ke rumah-rumah warga sekitar.	Y	polisi	178	   34,527	0.071	136.5455	ind_news_2012_00958285
+890	Untuk saat ini sudah ada tiga anggota polisi yang ditangkap.	Y	polisi	178	   34,527	0.071	138.7	ind_news_2012_00432309
+891	Di mana saat ini masih mencapai 30 hari, bahkan bisa lebih.	Y	mencapai	179	   34,471	0.0709	75.5	ind_news_2016_00196403
+892	Tahun ini jumlah bisa mencapai 50 juta orang ke seluruh dunia.	Y	mencapai	179	   34,471	0.0709	86.8	ind_news_2011_00514298
+893	Kalau tahun-tahun sebelumnya hanya 19-20 persen, tahun ini bisa mencapai 40 persen, ujarnya.	Y	mencapai	179	   34,471	0.0709	91.4444	ind_news_2011_00791092
+894	Jika tahun 2008 mencapai Rp 1,5 miliar, tahun 2009 ini mencapai Rp 979 juta.	Y	mencapai	179	   34,471	0.0709	91.5714	ind_news_2011_00863819
+895	Dari jumlah tersebut, saat ini yang sudah digunakan mencapai Rp 900 juta.	Y	mencapai	179	   34,471	0.0709	93.8182	ind_news_2012_00256291
+896	Tapi hingga saat ini mereka mengaku tidak mendapat bantuan tersebut.	Y	mengaku	180	   34,326	0.0706	97.2	ind_news_2011_00188786
+897	Mereka mengaku mendapatkan barang-barang tersebut dari Indonesia, ujar dia.	Y	mengaku	180	   34,326	0.0706	108.5556	ind_news_2011_00354782
+898	Namun ia mengaku tidak tahu, dan ia memang benar-benar tidak tahu.	Y	mengaku	180	   34,326	0.0706	113.875	ind_news_2011_00110688
+899	Ia mengaku baru tahu dari salah seorang warga tentang hal tersebut ketika berada di lokasi.	Y	mengaku	180	   34,326	0.0706	114.1333	ind_news_2012_00058768
+900	Meskipun ia mengaku pada masa lalu hal tersebut pernah terjadi, namun sekarang ini hal tersebut sudah tidak ada.	Y	mengaku	180	   34,326	0.0706	114.25	ind_news_2011_00383142
+901	Kalau tidak seperti itu dari mana partai bisa dapat uang?	Y	uang	181	   34,267	0.0705	83.3	ind_news_2011_00677574
+902	Dalam kasus ini, tidak ada tersangka lain karena uang itu hanya digunakan tersangka sendiri.	Y	uang	181	   34,267	0.0705	96.0769	ind_news_2016_00123425
+903	Bahkan di antara mereka masih ada yang belum bisa pulang karena tidak ada lagi uang untuk kembali.	Y	uang	181	   34,267	0.0705	101.25	ind_news_2016_00060894
+904	Apa cukup uang Rp 50.000 untuk satu bulan, jelas tidak cukup.	Y	uang	181	   34,267	0.0705	106.4444	ind_news_2011_00536614
+905	Sebab, mereka hanya meminta uang kepada korban secara baik-baik.	Y	uang	181	   34,267	0.0705	106.8889	ind_news_2016_00765167
+906	Atau, kita tidak tahu tentang diri kita sendiri dalam hal ini, karena memang tidak mau tahu?	Y	tentang	182	   34,178	0.0703	104	ind_news_2012_00203774
+907	Ia mengaku baru tahu dari salah seorang warga tentang hal tersebut ketika berada di lokasi.	Y	tentang	182	   34,178	0.0703	114.1333	ind_news_2012_00058768
+908	Namun keputusan pemerintah tersebut, juga di tentang oleh para anggota dewan.	Y	tentang	182	   34,178	0.0703	120.6364	ind_news_2011_00063634
+909	Orang-orang tidak merasa mereka perlu tahu tentang hal itu.	Y	tentang	182	   34,178	0.0703	130.4444	ind_news_2016_00612329
+910	Ketika saya menjadi pimpinan (sementara), saya jadi tahu lebih banyak dan lebih dalam tentang KPK.	Y	tentang	182	   34,178	0.0703	134.1538	ind_news_2016_00445330
+911	Mungkin ia tak ingin kembali, karena memang tak ada lagi yang bisa diharapkan di tempat ini.	Y	ingin	183	   34,110	0.0701	98.6	ind_news_2011_00780904
+912	Sampai saat ini saya masih ingin terus berada di dunia pendidikan,” ujarnya.	Y	ingin	183	   34,110	0.0701	105.5	ind_news_2012_00526658
+913	Selain itu ia juga ingin melakukan banyak hal yang baik dan di terima semua orang.	Y	ingin	183	   34,110	0.0701	111.6667	ind_news_2011_00192158
+914	Dia hanya ingin menunjukkan bahwa kita berada dalam tempat yang baik.	Y	ingin	183	   34,110	0.0701	117.4545	ind_news_2012_00602251
+915	Tapi, kita ingin bagi yang tidak mampu bisa dapat listrik.	Y	ingin	183	   34,110	0.0701	118.4	ind_news_2011_00213815
+916	Karena dia saat itu dia sedang berada di luar kota.	Y	sedang	184	   33,626	0.0691	77.8889	ind_news_2011_00867314
+917	Dan kondisi ini sudah cukup lama dan masih sedang terjadi sampai saat ini.	Y	sedang	184	   33,626	0.0691	98.1818	ind_news_2011_00080932
+918	Hingga saat ini, kata dia, sudah jalan beberapa bulan ini, karena sedang musim pemilihan kepala daerah.	Y	sedang	184	   33,626	0.0691	119.2	ind_news_2011_00538184
+919	Waktu itu saya sedang benar-benar tidak punya uang,” kata dia, Minggu (3-7).	Y	sedang	184	   33,626	0.0691	123.2727	ind_news_2011_00314632
+920	Hubungan kedua negara saat ini sedang berada pada kondisi yang sangat baik.	Y	sedang	184	   33,626	0.0691	131.9167	ind_news_2016_00272175
+921	Saya tidak pernah menjadi besar kepala dan tidak akan pernah.	Y	pernah	185	   33,612	0.0691	57.875	ind_news_2011_00795805
+922	Di masa lalu, kami tidak pernah melakukan hal ini, katanya.	Y	pernah	185	   33,612	0.0691	76	ind_news_2011_00916378
+923	AS juga pernah melakukan hal yang sama dalam kasus ini.	Y	pernah	185	   33,612	0.0691	77.1	ind_news_2016_00048469
+924	Sebab menurut mereka hal itu pernah terjadi pada tahun-tahun sebelumnya.	Y	pernah	185	   33,612	0.0691	77.9	ind_news_2011_00164129
+925	“Sejak saat itu, tidak pernah ada kegiatan apa pun di rumah itu.	Y	pernah	185	   33,612	0.0691	81.6364	ind_news_2016_00801405
+926	Tapi ini tidak hanya terjadi di jakarta, tapi di daerah lain dan luar negeri.	Y	luar	186	   33,557	0.069	64.0833	ind_news_2012_00855284
+927	Tidak hanya mereka bisa bersama dengan baik dalam film, namun juga di luar film.	Y	luar	186	   33,557	0.069	67.3846	ind_news_2012_00878972
+928	Tidak hanya dari dalam negeri, bahkan juga dari luar negeri.	Y	luar	186	   33,557	0.069	69.5	ind_news_2011_00836413
+929	Tak hanya di dalam negeri, tetapi juga di luar negeri.	Y	luar	186	   33,557	0.069	77.75	ind_news_2016_00898163
+930	Karena dia saat itu dia sedang berada di luar kota.	Y	luar	186	   33,557	0.069	77.8889	ind_news_2011_00867314
+931	Tidak hanya untuk diri sendiri, tapi juga untuk orang lain.	Y	diri	187	   33,552	0.069	63.6667	ind_news_2016_00943337
+932	Saya tidak bisa, saya harus menjadi diri saya sendiri, ujarnya.	Y	diri	187	   33,552	0.069	79.5	ind_news_2012_00413909
+933	Semua itu terjadi di satu tempat yang tidak jauh: di dalam diri!	Y	diri	187	   33,552	0.069	84.5455	ind_news_2012_00950994
+934	Oleh sebab itu, kita harus mulai dari diri kita sendiri.	Y	diri	187	   33,552	0.069	85.7778	ind_news_2016_00610343
+935	Atau, kita tidak tahu tentang diri kita sendiri dalam hal ini, karena memang tidak mau tahu?	Y	diri	187	   33,552	0.069	104	ind_news_2012_00203774
+936	Satu lagi, kita masalah karena anak-anak kan masih harus sekolah.	Y	masalah	188	   33,538	0.069	89.8	ind_news_2012_00206242
+937	Yang menjadi masalah adalah tak banyak perubahan yang terjadi dari tahun ke tahun.	Y	masalah	188	   33,538	0.069	94.1818	ind_news_2012_00313843
+938	Dalam dua hari ini Partai Golkar sudah tidak ada masalah.	Y	masalah	188	   33,538	0.069	97.5	ind_news_2016_00121924
+939	Mereka yang punya cukup dana dan waktu mungkin tidak masalah dengan hal ini.	Y	masalah	188	   33,538	0.069	98.8462	ind_news_2012_00109558
+940	Bagi saya ini masalah karena mungkin saya tidak akan terus bekerja.	Y	masalah	188	   33,538	0.069	108.8	ind_news_2011_00121061
+941	Lebih-lebih untuk kita yang akan berada di sekolah baru, lingkungan baru, dan dunia baru.	Y	sekolah	189	   33,396	0.0687	86.5	ind_news_2011_00925195
+942	Satu lagi, kita masalah karena anak-anak kan masih harus sekolah.	Y	sekolah	189	   33,396	0.0687	89.8	ind_news_2012_00206242
+943	Sehingga sampai saat ini, hal tersebut sudah menjadi budaya di sekolah kami.	Y	sekolah	189	   33,396	0.0687	98.5	ind_news_2016_00798337
+944	Menurut dia, yang jelas untuk tahun anggaran 2016 tidak ada pembangunan sekolah.	Y	sekolah	189	   33,396	0.0687	99.2727	ind_news_2016_00525953
+945	Yang dapat dilakukan hanya memberikan informasi terkait dengan kondisi sekolah.	Y	sekolah	189	   33,396	0.0687	114.4	ind_news_2012_00427244
+946	Mereka sementara naik ke tempat yang lebih tinggi di rumah masing-masing.	Y	tinggi	190	   33,291	0.0684	96.4545	ind_news_2016_00552001
+947	Jumlah ini lebih tinggi dari target tahun 2009 yang hanya Rp 46,86 miliar.	Y	tinggi	190	   33,291	0.0684	110	ind_news_2011_00365125
+948	Harga di beberapa wilayah lain, bahkan lebih tinggi dari harga rata-rata nasional tersebut.	Y	tinggi	190	   33,291	0.0684	122.5	ind_news_2016_00261185
+949	Selain itu, lembaga pendidikan tinggi Islam yang ada merupakan paling besar di dunia karena tidak memiliki sebanyak di Indonesia.	Y	tinggi	190	   33,291	0.0684	127.8333	ind_news_2016_00815768
+950	Angka ini lebih tinggi dibandingkan dengan Jakarta yang berada hanya ada di angka 70%.	Y	tinggi	190	   33,291	0.0684	135.9167	ind_news_2012_00987202
+951	Satu lagi, kita masalah karena anak-anak kan masih harus sekolah.	Y	kan	191	   33,229	0.0683	89.8	ind_news_2012_00206242
+952	Ini kan bisnis, saya tak bisa masuk ke dalam bisnis.	Y	kan	191	   33,229	0.0683	106.7778	ind_news_2011_00500374
+953	Kan kalau kita dekat dengan orang baik akan menjadi baik.	Y	kan	191	   33,229	0.0683	107.2222	ind_news_2016_00387987
+954	“Ini kan belum 36 bulan dan belum ada badan usaha yang jelas,” katanya.	Y	kan	191	   33,229	0.0683	123.3636	ind_news_2012_00968765
+955	Semua anak sekolah itu kan memiliki hak yang sama untuk mengikuti hal seperti ini.	Y	kan	191	   33,229	0.0683	124.2857	ind_news_2012_00908240
+956	Sebab menurut mereka hal itu pernah terjadi pada tahun-tahun sebelumnya.	Y	sebab	192	   33,183	0.0682	77.9	ind_news_2011_00164129
+957	Oleh sebab itu, kita harus mulai dari diri kita sendiri.	Y	sebab	192	   33,183	0.0682	85.7778	ind_news_2016_00610343
+958	Sebab, mereka hanya meminta uang kepada korban secara baik-baik.	Y	sebab	192	   33,183	0.0682	106.8889	ind_news_2016_00765167
+959	Sebab, kemarin tidak ada satu pun anggota DPRD yang berada di kantor.	Y	sebab	192	   33,183	0.0682	114.3333	ind_news_2016_00763783
+960	Sebab, masih banyak anak-anak yang menjadi korban orang tua.	Y	sebab	192	   33,183	0.0682	128.8889	ind_news_2011_00684640
+961	Namun, kedua perusahaan ini telah melakukan kegiatan usaha di Indonesia baik secara langsung maupun tidak langsung.	Y	perusahaan	193	   33,166	0.0682	100.3333	ind_news_2016_00588586
+962	‘’Tiba-tiba sudah ada orang baru yang bekerja, dan orang yang bekerja tersebut bukan warga sekitar perusahaan.	Y	perusahaan	193	   33,166	0.0682	102.9231	ind_news_2012_00742060
+963	Sebesar 50% perusahaan diketahui telah melakukan hal ini, dan pada 2008 angka tersebut akan naik menjadi 65%.	Y	perusahaan	193	   33,166	0.0682	127.0714	ind_news_2011_00429073
+964	Apakah mereka berada dalam tim, unit, dan perusahaan yang sama atau dari luar?	Y	perusahaan	193	   33,166	0.0682	128.8462	ind_news_2012_00062939
+965	Jumlah ini hanya satu persen dari total perusahaan media yang ada.	Y	perusahaan	193	   33,166	0.0682	130.8182	ind_news_2016_00354328
+966	Tahun ini jumlah bisa mencapai 50 juta orang ke seluruh dunia.	Y	seluruh	194	   32,845	0.0675	86.8	ind_news_2011_00514298
+967	Jumlah 6,9 persen ini sama dengan sekitar 225 juta orang di seluruh dunia.	Y	seluruh	194	   32,845	0.0675	88	ind_news_2012_00137898
+968	Itu hanya di beberapa wilayah saja, tidak seluruh daerah, katanya di Jakarta, Rabu.	Y	seluruh	194	   32,845	0.0675	91	ind_news_2012_00135855
+969	“Di mana pun di seluruh dunia, hal ini bisa terjadi.	Y	seluruh	194	   32,845	0.0675	94.6667	ind_news_2011_00248066
+970	Tidak hanya di seluruh dunia, tapi juga di tanah air.	Y	seluruh	194	   32,845	0.0675	101.3333	ind_news_2016_00942491
+971	Dengan kondisi yang ada saat ini, harus ada kebijakan baru, katanya di Jakarta, Senin (2/1).	Y	kondisi	195	   32,664	0.0672	83.7692	ind_news_2012_00351014
+972	Tetapi bukan dari sekarang karena terjadi dari beberapa waktu lalu bukan karena kondisi saat ini.	Y	kondisi	195	   32,664	0.0672	90.3333	ind_news_2012_00890637
+973	Kondisi yang terjadi saat ini sebenarnya bukan hal yang baru karena sebelumnya pun sudah terjadi.	Y	kondisi	195	   32,664	0.0672	95.2308	ind_news_2011_00380104
+974	Dan kondisi ini sudah cukup lama dan masih sedang terjadi sampai saat ini.	Y	kondisi	195	   32,664	0.0672	98.1818	ind_news_2011_00080932
+975	’’Dana itu memang sangat diharapkan warga dengan kondisi saat ini,’’ ujar dia.	Y	kondisi	195	   32,664	0.0672	98.4167	ind_news_2012_00586881
+976	Meski pun turun dari tahun sebelum ini yang mencapai 56 persen.	Y	meski	196	   32,548	0.0669	120.9	ind_news_2012_00019765
+977	Menurut dia, meski rencana itu bagus namun pemerintah juga harus melihat kondisi yang ada.	Y	meski	196	   32,548	0.0669	131.3571	ind_news_2016_00524657
+978	Meski rumah dan semua yang punya ada di sana, mereka tidak ingin kembali.	Y	meski	196	   32,548	0.0669	136.1538	ind_news_2016_00560828
+979	Dan memang berhasil meski harga masih tinggi, ujarnya di Jakarta akhir pekan lalu.	Y	meski	196	   32,548	0.0669	137.6154	ind_news_2012_00119706
+980	Meski demikian, untuk tahun ini belum dilakukan pemeriksaan lebih lanjut”.	Y	meski	196	   32,548	0.0669	143.3	ind_news_2016_00557240
+981	Yakni dari Rp314,767 miliar di tahun 2011 menjadi Rp274,586 miliar di tahun 2012.	Y	miliar	197	   32,372	0.0666	70.7143	ind_news_2012_00691283
+982	Yakni jika pada tahun 2015 hanya sekitar Rp 28 miliar, maka pada tahun 2016 ini menjadi Rp 63 miliar.	Y	miliar	197	   32,372	0.0666	78.2727	ind_news_2016_00989787
+983	Jika tahun 2008 mencapai Rp 1,5 miliar, tahun 2009 ini mencapai Rp 979 juta.	Y	miliar	197	   32,372	0.0666	91.5714	ind_news_2011_00863819
+984	Dengan kata lain, setiap tahun tidak kurang dari Rp2,4 miliar.	Y	miliar	197	   32,372	0.0666	92	ind_news_2011_00628908
+985	Paling besar sekitar 5% atau Rp30 miliar,” ujarnya di Jakarta hari ini (01/02).	Y	miliar	197	   32,372	0.0666	95.9091	ind_news_2012_00056188
+986	Yakni dari Rp314,767 miliar di tahun 2011 menjadi Rp274,586 miliar di tahun 2012.	Y	yakni	198	   32,292	0.0664	70.7143	ind_news_2012_00691283
+987	Yakni jika pada tahun 2015 hanya sekitar Rp 28 miliar, maka pada tahun 2016 ini menjadi Rp 63 miliar.	Y	yakni	198	   32,292	0.0664	78.2727	ind_news_2016_00989787
+988	Yakni pada tahun 2013 sebesar Rp 300 miliar, tahun 2014 Rp 800 miliar dan pada tahun 2015 sebesar Rp 300 miliar.	Y	yakni	198	   32,292	0.0664	97.4286	ind_news_2012_00217227
+989	Jumlah anggaran ini lebih besar dari tahun sebelumnya, 2006, yakni hanya Rp 210 miliar.	Y	yakni	198	   32,292	0.0664	104.3333	ind_news_2012_00387809
+990	Hanya satu orang yang bisa melakukan itu, yakni Presiden SBY.	Y	yakni	198	   32,292	0.0664	115.2	ind_news_2011_00645863
+991	Indonesia hanya dapat bagian 1 hingga 3 persen, sedangkan di negara lain bisa 5 hingga 10 persen.	Y	sedangkan	199	   31,943	0.0657	81.3636	ind_news_2012_00821730
+992	Sedangkan yang tidak memiliki cukup hanya Rp5 ribu per bulan.	Y	sedangkan	199	   31,943	0.0657	119	ind_news_2011_00761603
+993	Selama tahun 2010 hanya empat kali rapat, sedangkan tahun 2011 ini baru satu kali rapat.	Y	sedangkan	199	   31,943	0.0657	130.1	ind_news_2012_00021669
+994	Sedangkan untuk seluruh Indonesia target 100.000 orang namun yang datang sekitar 151.000 orang.	Y	sedangkan	199	   31,943	0.0657	138.6	ind_news_2012_00427280
+995	Sedangkan periode yang sama tahun lalu hanya 31 orang dan tahun sebelumnya 36 orang.	Y	sedangkan	199	   31,943	0.0657	141.7	ind_news_2011_00438205
+996	Dalam hal ini terkait hal-hal apa saja yang perlu dilakukan pusat maupun daerah.	Y	perlu	200	   31,932	0.0657	100.3333	ind_news_2016_00122707
+997	Ini perlu dilakukan tidak hanya di Jawa tetapi di luar Jawa.	Y	perlu	200	   31,932	0.0657	101.2222	ind_news_2016_00308759
+998	Dalam kondisi seperti saat ini sebenarnya hal seperti ini tidak perlu terjadi lagi.	Y	perlu	200	   31,932	0.0657	103.8182	ind_news_2012_00777999
+999	”Kita perlu dana Rp 10 miliar lagi untuk pembangunan kantor tersebut.	Y	perlu	200	   31,932	0.0657	120	ind_news_2011_00782025
+1000	Saya akan datang ke provinsi atau kabupaten yang perlu saya datang, katanya.	Y	perlu	200	   31,932	0.0657	123	ind_news_2016_00742002

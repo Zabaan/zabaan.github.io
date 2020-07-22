@@ -1,0 +1,1001 @@
+ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
+1	Aber die Welt ist nicht in uns, wir sind in der Welt.	Y	die	1	1,607,139	3.4298	45.7	german_de_news_2015_00012319
+2	Damit ist auch der EURO und die EU am Ende!	Y	die	1	1,607,139	3.4298	51.5	german_de_news_2014_00152370
+3	Es sind zu viele, die es einfach nicht können – und es machen“, sagte er.	Y	die	1	1,607,139	3.4298	60.8333	german_de_news_2013_00497575
+4	Bis in die 60er-Jahre sei das noch so gewesen.	Y	die	1	1,607,139	3.4298	63.5	german_de_news_2014_00124540
+5	So werden die Letzten die Ersten und die Ersten die Letzten sein.	Y	die	1	1,607,139	3.4298	66	german_de_news_2015_00794318
+6	Und wie wurde er zu dem, der er heute ist?	Y	der	2	1,497,314	3.1954	31.5556	german_de_news_2014_00853870
+7	Aber die Welt ist nicht in uns, wir sind in der Welt.	Y	der	2	1,497,314	3.1954	45.7	german_de_news_2015_00012319
+8	Es ist nicht das Ende der Welt, aber das Ende einer Welt.	Y	der	2	1,497,314	3.1954	49.3333	german_de_news_2013_00492104
+9	Damit ist auch der EURO und die EU am Ende!	Y	der	2	1,497,314	3.1954	51.5	german_de_news_2014_00152370
+10	Der 78-Jährige ist zum ersten Mal in seinem Leben in den USA.	Y	der	2	1,497,314	3.1954	92.4545	german_de_news_2015_00233504
+11	Und wie wurde er zu dem, der er heute ist?	Y	und	3	  984,511	2.101	31.5556	german_de_news_2014_00853870
+12	Wie er immer schon war und wie er immer sein wird!	Y	und	3	  984,511	2.101	42.875	german_de_news_2013_00951483
+13	Damit ist auch der EURO und die EU am Ende!	Y	und	3	  984,511	2.101	51.5	german_de_news_2014_00152370
+14	Aber was nicht war und ist, könnte ja noch werden.	Y	und	3	  984,511	2.101	55	german_de_news_2014_00017114
+15	DIE müssen dies und das und alles, und WIR müssen nichts!	Y	und	3	  984,511	2.101	87.5	german_de_news_2014_00337802
+16	Sie hat das so weil das war so vor zwei Jahren in und so..	Y	in	4	  843,995	1.8012	43.9091	german_de_news_2013_00808116
+17	Aber die Welt ist nicht in uns, wir sind in der Welt.	Y	in	4	  843,995	1.8012	45.7	german_de_news_2015_00012319
+18	Aber es muss ja nicht schon wieder bei uns in Deutschland sein.	Y	in	4	  843,995	1.8012	62.9167	german_de_news_2013_00014256
+19	Aber in den USA kann man so was ja machen.	Y	in	4	  843,995	1.8012	73.1	german_de_news_2015_00014774
+20	Der 78-Jährige ist zum ersten Mal in seinem Leben in den USA.	Y	in	4	  843,995	1.8012	92.4545	german_de_news_2015_00233504
+21	Was er hat, das will er nicht, und was er will, das hat er nicht.	Y	das	5	  590,960	1.2612	33.5714	german_de_news_2013_00920354
+22	Aber ich kann das nicht machen, ich kann es nicht.“	Y	das	5	  590,960	1.2612	45.8571	german_de_news_2013_00015366
+23	Wie, das sagt sie nicht, auch nicht, wer WIR ist!	Y	das	5	  590,960	1.2612	47.6667	german_de_news_2015_00912544
+24	Auf das eine Jahr auf oder ab kommt es nicht an“, sagt er.	Y	das	5	  590,960	1.2612	53.5	german_de_news_2015_00080988
+25	DIE müssen dies und das und alles, und WIR müssen nichts!	Y	das	5	  590,960	1.2612	87.5	german_de_news_2014_00337802
+26	In den 1930er Jahren waren es noch mehr als 70 gewesen.	Y	den	6	  538,042	1.1482	62.8	german_de_news_2015_00575452
+27	Das geht aber nicht vom einen auf den anderen Tag.	Y	den	6	  538,042	1.1482	69.3	german_de_news_2014_00175746
+28	So, wie das auch schon in den vergangenen Jahren gewesen sei.	Y	den	6	  538,042	1.1482	72.0909	german_de_news_2015_00794461
+29	Aber in den USA kann man so was ja machen.	Y	den	6	  538,042	1.1482	73.1	german_de_news_2015_00014774
+30	Und natürlich auch die Frage: Wie geht es den anderen?	Y	den	6	  538,042	1.1482	86.8	german_de_news_2013_00876664
+31	Das sind etwas weniger als 2011 (48,5 Prozent) und etwas mehr als 2007 mit 48,3 Prozent.	Y	mit	7	  453,641	0.9681	63	german_de_news_2015_00200522
+32	Denn mit 33 hat man nicht mehr alle Zeit der Welt.	Y	mit	7	  453,641	0.9681	67.7	german_de_news_2013_00232732
+33	Was hat denn das eine mit dem anderen zu tun?	Y	mit	7	  453,641	0.9681	76	german_de_news_2014_00894359
+34	Das eine hat doch mit dem anderen nichts zu tun!	Y	mit	7	  453,641	0.9681	83.5	german_de_news_2015_00170617
+35	Aber mit den Fans ist es nicht immer einfach», sagt er.	Y	mit	7	  453,641	0.9681	90.8182	german_de_news_2015_00015698
+36	Im Jahr darauf sollen es 85 Prozent (7,22 Euro) sein, von 2017 an dann 8,50 Euro.	Y	von	8	  450,338	0.9611	73.8182	german_de_news_2015_00563438
+37	Und das ist dann das Ende von Deutschland und Europa.	Y	von	8	  450,338	0.9611	74.25	german_de_news_2013_00867851
+38	Es gibt aber immer noch viel zu viele Menschen, die von dieser Entwicklung nichts haben.	Y	von	8	  450,338	0.9611	91.9333	german_de_news_2013_00485317
+39	Von daher ist es gerade wirklich so, dass man nicht immer das haben kann, was man will.	Y	von	8	  450,338	0.9611	92	german_de_news_2013_00902804
+40	Und ich weiß nun auch, was er von mir will“, sagt die 23-Jährige.	Y	von	8	  450,338	0.9611	94.9231	german_de_news_2013_00874538
+41	Und wie wurde er zu dem, der er heute ist?	Y	zu	9	  421,604	0.8997	31.5556	german_de_news_2014_00853870
+42	Wenn wir gut sind, ist das noch nicht zu Ende.“	Y	zu	9	  421,604	0.8997	46.6	german_de_news_2015_00904560
+43	Wenn das dann nur nicht zu viel auf einmal ist.	Y	zu	9	  421,604	0.8997	51.6	german_de_news_2015_00898475
+44	Und für das Jahr 2016 gibt es dann bis zu 400 Euro – wieder im Jahr darauf.	Y	zu	9	  421,604	0.8997	57	german_de_news_2015_00836419
+45	Es sind zu viele, die es einfach nicht können – und es machen“, sagte er.	Y	zu	9	  421,604	0.8997	60.8333	german_de_news_2013_00497575
+46	Und wie wurde er zu dem, der er heute ist?	Y	ist	10	  407,568	0.8698	31.5556	german_de_news_2014_00853870
+47	Auch wenn er nicht mehr das ist, was er einmal war.	Y	ist	10	  407,568	0.8698	47	german_de_news_2015_00079725
+48	Wenn das dann nur nicht zu viel auf einmal ist.	Y	ist	10	  407,568	0.8698	51.6	german_de_news_2015_00898475
+49	Es ist, wie es ist - und wir müssen damit leben.	Y	ist	10	  407,568	0.8698	65.75	german_de_news_2015_00464695
+50	Der 78-Jährige ist zum ersten Mal in seinem Leben in den USA.	Y	ist	10	  407,568	0.8698	92.4545	german_de_news_2015_00233504
+51	Wenn das dann nur nicht zu viel auf einmal ist.	Y	auf	11	  404,692	0.8636	51.6	german_de_news_2015_00898475
+52	Auf das eine Jahr auf oder ab kommt es nicht an“, sagt er.	Y	auf	11	  404,692	0.8636	53.5	german_de_news_2015_00080988
+53	Im Jahr 2020 9 Millionen, 2030 10 Millionen und so weiter bis im Jahr 2060 auf 13 bis 14 Millionen.	Y	auf	11	  404,692	0.8636	56.75	german_de_news_2014_00568822
+54	Auf dem Land ist das ja so aber in einer Stadt.	Y	auf	11	  404,692	0.8636	66.7273	german_de_news_2014_00080822
+55	Das geht aber nicht vom einen auf den anderen Tag.	Y	auf	11	  404,692	0.8636	69.3	german_de_news_2014_00175746
+56	Das sind um +41,5 Prozent mehr als im Jahr 2013 und um +39,5 Prozent mehr als 2012.	Y	im	12	  397,997	0.8494	35.1111	german_de_news_2015_00200831
+57	Im Jahr 2020 9 Millionen, 2030 10 Millionen und so weiter bis im Jahr 2060 auf 13 bis 14 Millionen.	Y	im	12	  397,997	0.8494	56.75	german_de_news_2014_00568822
+58	Und für das Jahr 2016 gibt es dann bis zu 400 Euro – wieder im Jahr darauf.	Y	im	12	  397,997	0.8494	57	german_de_news_2015_00836419
+59	Im Jahr darauf sollen es 85 Prozent (7,22 Euro) sein, von 2017 an dann 8,50 Euro.	Y	im	12	  397,997	0.8494	73.8182	german_de_news_2015_00563438
+60	Das sind fast 3 Millionen Euro mehr als im letzten Jahr.	Y	im	12	  397,997	0.8494	82.2	german_de_news_2013_00204607
+61	Das ist für 22 Prozent der Fall – 9 Prozent mehr als noch vor einem Jahr.	Y	für	13	  383,206	0.8178	51.6667	german_de_news_2015_00183538
+62	Alle, alle, alle werden für alle, alle, alle da sein.	Y	für	13	  383,206	0.8178	55	german_de_news_2014_00024835
+63	Und für das Jahr 2016 gibt es dann bis zu 400 Euro – wieder im Jahr darauf.	Y	für	13	  383,206	0.8178	57	german_de_news_2015_00836419
+64	Und wenn nicht mehr, dann war’s das für mich.»	Y	für	13	  383,206	0.8178	63.2	german_de_news_2013_00881649
+65	Haben wir für das eine oder für das andere Geld?	Y	für	13	  383,206	0.8178	70.5	german_de_news_2013_00550946
+66	Aber hier dabei zu sein, ist für mich immer wieder ein Ziel“, sagte sie.	Y	ein	14	  346,906	0.7403	80.2857	german_de_news_2013_00014971
+67	«Es war alles ein wenig zu viel», gibt er zu.	Y	ein	14	  346,906	0.7403	81.6667	german_de_news_2013_00498664
+68	Zwei Jahre später waren es schon 21,7 und noch ein Jahr später dann gut 69 Millionen.	Y	ein	14	  346,906	0.7403	85.6923	german_de_news_2015_00960326
+69	“Und das war vor ein paar Jahren nicht der Fall.”	Y	ein	14	  346,906	0.7403	88.5	german_de_news_2013_00868878
+70	Ja, Sie in der Schweiz sind da schon ein wenig weiter als wir in Deutschland.	Y	ein	14	  346,906	0.7403	93.1429	german_de_news_2013_00640935
+71	Aber es ist ja immer so, das man sich selbst am nächsten ist.	Y	sich	15	  345,417	0.7372	75.5	german_de_news_2013_00014103
+72	So einfach kann es sich die Regierung aber nicht machen.	Y	sich	15	  345,417	0.7372	77.3	german_de_news_2015_00783142
+73	Das sagt sich so leicht, aber ist es das auch?	Y	sich	15	  345,417	0.7372	87.3333	german_de_news_2015_00196356
+74	Das ist die eine Frage, die man sich stellen kann.	Y	sich	15	  345,417	0.7372	88	german_de_news_2014_00183130
+75	Es sieht doch so aus als kann sich die EU nicht mehr halten.	Y	sich	15	  345,417	0.7372	88.3077	german_de_news_2013_00497048
+76	Es gibt sie, es gibt sie nicht, es gibt sie.	Y	nicht	16	  343,930	0.734	33	german_de_news_2013_00486999
+77	Auch wenn er nicht mehr das ist, was er einmal war.	Y	nicht	16	  343,930	0.734	47	german_de_news_2015_00079725
+78	Aber was nicht war und ist, könnte ja noch werden.	Y	nicht	16	  343,930	0.734	55	german_de_news_2014_00017114
+79	Und wenn nicht mehr, dann war’s das für mich.»	Y	nicht	16	  343,930	0.734	63.2	german_de_news_2013_00881649
+80	Die Welt ist gut, die Menschen,die in ihr leben nicht so sehr.	Y	nicht	16	  343,930	0.734	78.8182	german_de_news_2015_00379864
+81	Es gibt sie, es gibt sie nicht, es gibt sie.	Y	es	17	  342,979	0.7319	33	german_de_news_2013_00486999
+82	Es ist sein Leben, und es ist, wie es ist.	Y	es	17	  342,979	0.7319	51.8333	german_de_news_2014_00468640
+83	Aber das kann nicht alles sein, da gibt es noch viele mehr.	Y	es	17	  342,979	0.7319	58.5	german_de_news_2014_00010407
+84	Uns geht es so gut, doch sie haben nicht viel.	Y	es	17	  342,979	0.7319	67.1	german_de_news_2015_00847913
+85	Mir geht es so, wie es jetzt ist, sehr gut.	Y	es	17	  342,979	0.7319	77.2222	german_de_news_2013_00695470
+86	Auch wenn er nicht mehr das ist, was er einmal war.	Y	auch	18	  291,574	0.6222	47	german_de_news_2015_00079725
+87	Wie, das sagt sie nicht, auch nicht, wer WIR ist!	Y	auch	18	  291,574	0.6222	47.6667	german_de_news_2015_00912544
+88	Damit ist auch der EURO und die EU am Ende!	Y	auch	18	  291,574	0.6222	51.5	german_de_news_2014_00152370
+89	Das KANN nicht gut gehen und wird es auch nicht.	Y	auch	18	  291,574	0.6222	55.1111	german_de_news_2013_00189612
+90	Das geht jetzt nicht mehr und es ist auch besser so.	Y	auch	18	  291,574	0.6222	57.8182	german_de_news_2013_00177589
+91	Und wie wurde er zu dem, der er heute ist?	Y	dem	19	  288,883	0.6165	31.5556	german_de_news_2014_00853870
+92	Auf dem Land ist das ja so aber in einer Stadt.	Y	dem	19	  288,883	0.6165	66.7273	german_de_news_2014_00080822
+93	Was hat denn das eine mit dem anderen zu tun?	Y	dem	19	  288,883	0.6165	76	german_de_news_2014_00894359
+94	Was macht Sie denn so sicher, dass dem dann nicht so ist?	Y	dem	19	  288,883	0.6165	81.7273	german_de_news_2013_00923025
+95	Ab dem 24. November 2014 soll es für 140 Euro zu haben sein.	Y	dem	19	  288,883	0.6165	82.1	german_de_news_2014_00008199
+96	Auf das eine Jahr auf oder ab kommt es nicht an“, sagt er.	Y	eine	20	  288,665	0.616	53.5	german_de_news_2015_00080988
+97	Viele wollen auch nicht das eine oder das andere sein.	Y	eine	20	  288,665	0.616	67.2222	german_de_news_2014_00870338
+98	Haben wir für das eine oder für das andere Geld?	Y	eine	20	  288,665	0.616	70.5	german_de_news_2013_00550946
+99	Was hat denn das eine mit dem anderen zu tun?	Y	eine	20	  288,665	0.616	76	german_de_news_2014_00894359
+100	Ob man nicht kann oder nicht will, das ist dann eine andere Frage.	Y	eine	20	  288,665	0.616	78.9167	german_de_news_2014_00720476
+101	Es gibt sie, es gibt sie nicht, es gibt sie.	Y	sie	21	  263,195	0.5617	33	german_de_news_2013_00486999
+102	Sie hat das so weil das war so vor zwei Jahren in und so..	Y	sie	21	  263,195	0.5617	43.9091	german_de_news_2013_00808116
+103	Wie, das sagt sie nicht, auch nicht, wer WIR ist!	Y	sie	21	  263,195	0.5617	47.6667	german_de_news_2015_00912544
+104	Wie soll ich leben, wenn sie nicht mehr da sind?	Y	sie	21	  263,195	0.5617	61	german_de_news_2013_00955809
+105	Wenn sie es nicht wollen, dann machen wir es nicht.	Y	sie	21	  263,195	0.5617	67.25	german_de_news_2014_00911898
+106	Bis zum Ende des Jahres sollen es über 270 hier sein.	Y	des	22	  255,027	0.5443	105.5	german_de_news_2013_00127027
+107	Und noch vor dem Ende des Jahres werden wir wissen, was.	Y	des	22	  255,027	0.5443	107.1818	german_de_news_2013_00877186
+108	Und dann sagt er so zu mir: „Was is des?	Y	des	22	  255,027	0.5443	109.6	german_de_news_2015_00830884
+109	Es wird also sicher nicht die 4,80  Euro des vergangenen Jahres geben.	Y	des	22	  255,027	0.5443	135.9091	german_de_news_2015_00471748
+110	Und wäre der Titel nicht schon wieder zu viel des Guten?	Y	des	22	  255,027	0.5443	137.5455	german_de_news_2013_00880257
+111	Das sind um +41,5 Prozent mehr als im Jahr 2013 und um +39,5 Prozent mehr als 2012.	Y	als	23	  227,828	0.4862	35.1111	german_de_news_2015_00200831
+112	Das ist für 22 Prozent der Fall – 9 Prozent mehr als noch vor einem Jahr.	Y	als	23	  227,828	0.4862	51.6667	german_de_news_2015_00183538
+113	In den 1930er Jahren waren es noch mehr als 70 gewesen.	Y	als	23	  227,828	0.4862	62.8	german_de_news_2015_00575452
+114	Das sind etwas weniger als 2011 (48,5 Prozent) und etwas mehr als 2007 mit 48,3 Prozent.	Y	als	23	  227,828	0.4862	63	german_de_news_2015_00200522
+115	Das sind rund fünf Prozent mehr als noch vor einem Jahr.	Y	als	23	  227,828	0.4862	64.7273	german_de_news_2013_00204844
+116	Aber es muss ja nicht schon wieder bei uns in Deutschland sein.	Y	bei	24	  208,933	0.4459	62.9167	german_de_news_2013_00014256
+117	Das ist nicht nur bei der Zeit so aber die Welt Bild und viele anderen sind da nicht besser.	Y	bei	24	  208,933	0.4459	76.6111	german_de_news_2015_00184645
+118	Jetzt will ich bei der nächsten dabei sein“, sagte er.	Y	bei	24	  208,933	0.4459	87.9	german_de_news_2013_00647314
+119	Und es ist bei diesem Thema doch wie bei so vielen anderen auch.	Y	bei	24	  208,933	0.4459	90.0833	german_de_news_2014_00845394
+120	Bei Menschen über 75 Jahren liegt sie bei bis zu zehn Prozent.	Y	bei	24	  208,933	0.4459	93.1	german_de_news_2015_00108461
+121	Auf das eine Jahr auf oder ab kommt es nicht an“, sagt er.	Y	an	25	  208,773	0.4455	53.5	german_de_news_2015_00080988
+122	Im Jahr darauf sollen es 85 Prozent (7,22 Euro) sein, von 2017 an dann 8,50 Euro.	Y	an	25	  208,773	0.4455	73.8182	german_de_news_2015_00563438
+123	Ich war zum ersten Mal seit mehr als 30 Jahren so lange an Land.	Y	an	25	  208,773	0.4455	87.2308	german_de_news_2013_00582214
+124	Jetzt steht er auf und macht sich an die Arbeit.	Y	an	25	  208,773	0.4455	88.5	german_de_news_2014_00616863
+125	Und 2014 wird auch nicht besser - das liegt nicht nur an den Zahlen.	Y	an	25	  208,773	0.4455	91.4545	german_de_news_2014_00837780
+126	Und wie wurde er zu dem, der er heute ist?	Y	er	26	  206,059	0.4397	31.5556	german_de_news_2014_00853870
+127	Was er hat, das will er nicht, und was er will, das hat er nicht.	Y	er	26	  206,059	0.4397	33.5714	german_de_news_2013_00920354
+128	Wie er immer schon war und wie er immer sein wird!	Y	er	26	  206,059	0.4397	42.875	german_de_news_2013_00951483
+129	Auch wenn er nicht mehr das ist, was er einmal war.	Y	er	26	  206,059	0.4397	47	german_de_news_2015_00079725
+130	Auf das eine Jahr auf oder ab kommt es nicht an“, sagt er.	Y	er	26	  206,059	0.4397	53.5	german_de_news_2015_00080988
+131	Damit ist auch der EURO und die EU am Ende!	Y	am	27	  203,596	0.4345	51.5	german_de_news_2014_00152370
+132	Aber es ist ja immer so, das man sich selbst am nächsten ist.	Y	am	27	  203,596	0.4345	75.5	german_de_news_2013_00014103
+133	Sie leben hier am Land und doch in der Stadt.	Y	am	27	  203,596	0.4345	84.8	german_de_news_2013_00811007
+134	Und das ist schon sehr wichtig für uns alle, die wir heute am Leben sind!	Y	am	27	  203,596	0.4345	90.1333	german_de_news_2013_00867990
+135	Wenn nicht schon am Dienstag, so doch gegen Ende der Woche.	Y	am	27	  203,596	0.4345	94.3636	german_de_news_2015_00903045
+136	Was er hat, das will er nicht, und was er will, das hat er nicht.	Y	hat	28	  196,835	0.4201	33.5714	german_de_news_2013_00920354
+137	Sie hat das so weil das war so vor zwei Jahren in und so..	Y	hat	28	  196,835	0.4201	43.9091	german_de_news_2013_00808116
+138	Denn mit 33 hat man nicht mehr alle Zeit der Welt.	Y	hat	28	  196,835	0.4201	67.7	german_de_news_2013_00232732
+139	Was hat denn das eine mit dem anderen zu tun?	Y	hat	28	  196,835	0.4201	76	german_de_news_2014_00894359
+140	Das eine hat doch mit dem anderen nichts zu tun!	Y	hat	28	  196,835	0.4201	83.5	german_de_news_2015_00170617
+141	Es ist nicht so, dass man muss, sondern so dass man will.	Y	dass	29	  195,561	0.4173	58.1111	german_de_news_2013_00492309
+142	Und ich will, dass wir noch mehr unternehmen, auch in Europa.	Y	dass	29	  195,561	0.4173	66.3636	german_de_news_2013_00874558
+143	Und ich war erst 34, so dass die „will ich noch Kinder?	Y	dass	29	  195,561	0.4173	69.7	german_de_news_2013_00874517
+144	Und es ist ja nun nicht so, dass es diese nicht geben würde.	Y	dass	29	  195,561	0.4173	74.3636	german_de_news_2013_00872799
+145	Was macht Sie denn so sicher, dass dem dann nicht so ist?	Y	dass	29	  195,561	0.4173	81.7273	german_de_news_2013_00923025
+146	Ob es dann auch nach Deutschland kommen wird, ist noch nicht bekannt.	Y	nach	30	  195,025	0.4162	81.1667	german_de_news_2014_00719965
+147	»Es stellt sich nicht die Frage nach dem einen oder anderen.«	Y	nach	30	  195,025	0.4162	98.1818	german_de_news_2014_00473659
+148	Kann nach der vergangenen Saison aber auch nur besser werden.	Y	nach	30	  195,025	0.4162	101	german_de_news_2015_00614508
+149	Es gibt ein Leben nach dem Fußball“, sagt der 65-Jährige.	Y	nach	30	  195,025	0.4162	105	german_de_news_2014_00462492
+150	Es geht um die Frage nach dem Weg, den das Land in Zukunft gehen wird.	Y	nach	30	  195,025	0.4162	106.6667	german_de_news_2013_00484830
+151	Noch ist aber nicht zu sagen, was sie ist und was aus ihr wird.	Y	aus	31	  185,685	0.3963	61.1667	german_de_news_2014_00709452
+152	Aber es sieht besser aus, zwei zu haben“, sagte sie.	Y	aus	31	  185,685	0.3963	84.3	german_de_news_2014_00012919
+153	Es sieht doch so aus als kann sich die EU nicht mehr halten.	Y	aus	31	  185,685	0.3963	88.3077	german_de_news_2013_00497048
+154	Das ist wirklich eine andere Welt, wie aus einer anderen Zeit.	Y	aus	31	  185,685	0.3963	98.2727	german_de_news_2015_00185558
+155	Insgesamt sieht es für die USA aber sehr, sehr gut aus.	Y	aus	31	  185,685	0.3963	100.3	german_de_news_2015_00595687
+156	Und wie wurde er zu dem, der er heute ist?	Y	wie	32	  173,574	0.3704	31.5556	german_de_news_2014_00853870
+157	Wie er immer schon war und wie er immer sein wird!	Y	wie	32	  173,574	0.3704	42.875	german_de_news_2013_00951483
+158	Es ist sein Leben, und es ist, wie es ist.	Y	wie	32	  173,574	0.3704	51.8333	german_de_news_2014_00468640
+159	Es ist, wie es ist - und wir müssen damit leben.	Y	wie	32	  173,574	0.3704	65.75	german_de_news_2015_00464695
+160	Mir geht es so, wie es jetzt ist, sehr gut.	Y	wie	32	  173,574	0.3704	77.2222	german_de_news_2013_00695470
+161	Aber was nicht war und ist, könnte ja noch werden.	Y	werden	33	  170,790	0.3645	55	german_de_news_2014_00017114
+162	So werden die Letzten die Ersten und die Ersten die Letzten sein.	Y	werden	33	  170,790	0.3645	66	german_de_news_2015_00794318
+163	Waren es vor drei Jahren noch 100 Kinder, sind es bis heute schon 350. Und es werden immer mehr.	Y	werden	33	  170,790	0.3645	73.3333	german_de_news_2013_00916750
+164	Wenn für uns was möglich sein wird, werden wir da sein.“	Y	werden	33	  170,790	0.3645	80.2	german_de_news_2014_00909257
+165	Dass sie nicht mehr so wichtig ist und nie mehr so wichtig werden wird, wie sie war.	Y	werden	33	  170,790	0.3645	87	german_de_news_2014_00203359
+166	Das sind um +41,5 Prozent mehr als im Jahr 2013 und um +39,5 Prozent mehr als 2012.	Y	um	34	  165,591	0.3534	35.1111	german_de_news_2015_00200831
+167	Aber es geht nicht nur um Geld, sondern auch um Können.	Y	um	34	  165,591	0.3534	72.8	german_de_news_2014_00012466
+168	Um die Frage was man noch alles machen könnte geht es nicht.	Y	um	34	  165,591	0.3534	88.75	german_de_news_2014_00834930
+169	Zum einen, um die Unternehmen in der Stadt zu halten.	Y	um	34	  165,591	0.3534	89.6	german_de_news_2015_00950870
+170	Wieder einmal geht es um mehr als Deutschland – um Europa.	Y	um	34	  165,591	0.3534	94	german_de_news_2015_00912883
+171	Aber die Welt ist nicht in uns, wir sind in der Welt.	Y	aber	35	  157,865	0.3369	45.7	german_de_news_2015_00012319
+172	Aber ich kann das nicht machen, ich kann es nicht.“	Y	aber	35	  157,865	0.3369	45.8571	german_de_news_2013_00015366
+173	Aber was nicht war und ist, könnte ja noch werden.	Y	aber	35	  157,865	0.3369	55	german_de_news_2014_00017114
+174	Aber das kann nicht alles sein, da gibt es noch viele mehr.	Y	aber	35	  157,865	0.3369	58.5	german_de_news_2014_00010407
+175	Aber in den USA kann man so was ja machen.	Y	aber	35	  157,865	0.3369	73.1	german_de_news_2015_00014774
+176	Wie er immer schon war und wie er immer sein wird!	Y	wird	36	  155,466	0.3318	42.875	german_de_news_2013_00951483
+177	Das KANN nicht gut gehen und wird es auch nicht.	Y	wird	36	  155,466	0.3318	55.1111	german_de_news_2013_00189612
+178	Das war er nie, und das wird er auch nie sein..	Y	wird	36	  155,466	0.3318	61.125	german_de_news_2013_00214292
+179	Noch ist aber nicht zu sagen, was sie ist und was aus ihr wird.	Y	wird	36	  155,466	0.3318	61.1667	german_de_news_2014_00709452
+180	Wie ist das denn jetzt: Wird es das nun auch in Deutschland geben?	Y	wird	36	  155,466	0.3318	62.8333	german_de_news_2013_00952966
+181	Das sind um +41,5 Prozent mehr als im Jahr 2013 und um +39,5 Prozent mehr als 2012.	Y	sind	37	  154,947	0.3307	35.1111	german_de_news_2015_00200831
+182	Aber die Welt ist nicht in uns, wir sind in der Welt.	Y	sind	37	  154,947	0.3307	45.7	german_de_news_2015_00012319
+183	Wenn wir gut sind, ist das noch nicht zu Ende.“	Y	sind	37	  154,947	0.3307	46.6	german_de_news_2015_00904560
+184	Es sind zu viele, die es einfach nicht können – und es machen“, sagte er.	Y	sind	37	  154,947	0.3307	60.8333	german_de_news_2013_00497575
+185	Wie soll ich leben, wenn sie nicht mehr da sind?	Y	sind	37	  154,947	0.3307	61	german_de_news_2013_00955809
+186	Wenn wir gut sind, ist das noch nicht zu Ende.“	Y	noch	38	  152,990	0.3265	46.6	german_de_news_2015_00904560
+187	Das ist für 22 Prozent der Fall – 9 Prozent mehr als noch vor einem Jahr.	Y	noch	38	  152,990	0.3265	51.6667	german_de_news_2015_00183538
+188	Aber was nicht war und ist, könnte ja noch werden.	Y	noch	38	  152,990	0.3265	55	german_de_news_2014_00017114
+189	Aber das kann nicht alles sein, da gibt es noch viele mehr.	Y	noch	38	  152,990	0.3265	58.5	german_de_news_2014_00010407
+190	Noch ist aber nicht zu sagen, was sie ist und was aus ihr wird.	Y	noch	38	  152,990	0.3265	61.1667	german_de_news_2014_00709452
+191	Sie hat das so weil das war so vor zwei Jahren in und so..	Y	vor	39	  143,810	0.3069	43.9091	german_de_news_2013_00808116
+192	Das ist heute so und das war vor 25 Jahren so!	Y	vor	39	  143,810	0.3069	45.25	german_de_news_2015_00183769
+193	Das ist für 22 Prozent der Fall – 9 Prozent mehr als noch vor einem Jahr.	Y	vor	39	  143,810	0.3069	51.6667	german_de_news_2015_00183538
+194	Das sind rund fünf Prozent mehr als noch vor einem Jahr.	Y	vor	39	  143,810	0.3069	64.7273	german_de_news_2013_00204844
+195	Das sind über 50 Prozent mehr als noch vor zehn Jahren.	Y	vor	39	  143,810	0.3069	66.1	german_de_news_2013_00204903
+196	Das geht aber nicht vom einen auf den anderen Tag.	Y	einen	40	  141,879	0.3028	69.3	german_de_news_2014_00175746
+197	Die Welt: Aber Sie hatten ja nur Platz für einen.	Y	einen	40	  141,879	0.3028	88.1	german_de_news_2013_00403036
+198	Zum einen, um die Unternehmen in der Stadt zu halten.	Y	einen	40	  141,879	0.3028	89.6	german_de_news_2015_00950870
+199	Und doch gibt es einen, der sagt: „Für mich war es eine gute Woche.“	Y	einen	40	  141,879	0.3028	90.1538	german_de_news_2015_00834722
+200	»Es stellt sich nicht die Frage nach dem einen oder anderen.«	Y	einen	40	  141,879	0.3028	98.1818	german_de_news_2014_00473659
+201	Das ist für 22 Prozent der Fall – 9 Prozent mehr als noch vor einem Jahr.	Y	einem	41	  141,039	0.301	51.6667	german_de_news_2015_00183538
+202	Das sind rund fünf Prozent mehr als noch vor einem Jahr.	Y	einem	41	  141,039	0.301	64.7273	german_de_news_2013_00204844
+203	Vor einem Jahr waren es noch 579 Euro – 140 Euro mehr als derzeit.	Y	einem	41	  141,039	0.301	69.3	german_de_news_2015_00874903
+204	Das sind 39’000 oder 2,5 Prozent weniger als im September vor einem Jahr.	Y	einem	41	  141,039	0.301	90.1818	german_de_news_2015_00200190
+205	'Wir sind erst bei einem Prozent davon, was möglich ist.'	Y	einem	41	  141,039	0.301	93.5	german_de_news_2013_00966859
+206	Sie hat das so weil das war so vor zwei Jahren in und so..	Y	so	42	  140,407	0.2996	43.9091	german_de_news_2013_00808116
+207	Das ist heute so und das war vor 25 Jahren so!	Y	so	42	  140,407	0.2996	45.25	german_de_news_2015_00183769
+208	Uns geht es so gut, doch sie haben nicht viel.	Y	so	42	  140,407	0.2996	67.1	german_de_news_2015_00847913
+209	Aber in den USA kann man so was ja machen.	Y	so	42	  140,407	0.2996	73.1	german_de_news_2015_00014774
+210	Die Welt ist gut, die Menschen,die in ihr leben nicht so sehr.	Y	so	42	  140,407	0.2996	78.8182	german_de_news_2015_00379864
+211	Aber ich kann das nicht machen, ich kann es nicht.“	Y	ich	43	  139,068	0.2968	45.8571	german_de_news_2013_00015366
+212	Wie soll ich leben, wenn sie nicht mehr da sind?	Y	ich	43	  139,068	0.2968	61	german_de_news_2013_00955809
+213	Und ich will, dass wir noch mehr unternehmen, auch in Europa.	Y	ich	43	  139,068	0.2968	66.3636	german_de_news_2013_00874558
+214	Und ich war erst 34, so dass die „will ich noch Kinder?	Y	ich	43	  139,068	0.2968	69.7	german_de_news_2013_00874517
+215	Und ich bin auch schon seit Ende der 80er dabei.	Y	ich	43	  139,068	0.2968	72.9	german_de_news_2015_00837107
+216	Es ist nicht das Ende der Welt, aber das Ende einer Welt.	Y	einer	44	  137,378	0.2932	49.3333	german_de_news_2013_00492104
+217	Auf dem Land ist das ja so aber in einer Stadt.	Y	einer	44	  137,378	0.2932	66.7273	german_de_news_2014_00080822
+218	Wenn einer wie er geht, geht er natürlich nicht ganz.	Y	einer	44	  137,378	0.2932	87	german_de_news_2015_00900129
+219	Nicht jeder kann in einer großen Stadt leben und will es auch nicht!	Y	einer	44	  137,378	0.2932	98.25	german_de_news_2014_00705492
+220	Das ist wirklich eine andere Welt, wie aus einer anderen Zeit.	Y	einer	44	  137,378	0.2932	98.2727	german_de_news_2015_00185558
+221	Uns geht es so gut, doch sie haben nicht viel.	Y	haben	45	  127,931	0.273	67.1	german_de_news_2015_00847913
+222	Haben wir für das eine oder für das andere Geld?	Y	haben	45	  127,931	0.273	70.5	german_de_news_2013_00550946
+223	Sie sind aber noch nicht dort, wo wir sie haben wollen.	Y	haben	45	  127,931	0.273	75.8	german_de_news_2014_00784101
+224	Ab dem 24. November 2014 soll es für 140 Euro zu haben sein.	Y	haben	45	  127,931	0.273	82.1	german_de_news_2014_00008199
+225	Aber es sieht besser aus, zwei zu haben“, sagte sie.	Y	haben	45	  127,931	0.273	84.3	german_de_news_2014_00012919
+226	Das sind über 50 Prozent mehr als noch vor zehn Jahren.	Y	über	46	  123,974	0.2646	66.1	german_de_news_2013_00204903
+227	Und zwar beim „Team für unter 25jährige“, auch wenn man schon über 25 ist.	Y	über	46	  123,974	0.2646	80.6923	german_de_news_2015_00845072
+228	Bei Menschen über 75 Jahren liegt sie bei bis zu zehn Prozent.	Y	über	46	  123,974	0.2646	93.1	german_de_news_2015_00108461
+229	Bis zum Ende des Jahres sollen es über 270 hier sein.	Y	über	46	  123,974	0.2646	105.5	german_de_news_2013_00127027
+230	Aber dann gibt es immer noch über 70 Prozent, die den Menschen helfen wollen.	Y	über	46	  123,974	0.2646	109.8462	german_de_news_2015_00010441
+231	Ich war zum ersten Mal seit mehr als 30 Jahren so lange an Land.	Y	zum	47	  122,977	0.2624	87.2308	german_de_news_2013_00582214
+232	Zum einen, um die Unternehmen in der Stadt zu halten.	Y	zum	47	  122,977	0.2624	89.6	german_de_news_2015_00950870
+233	Der 78-Jährige ist zum ersten Mal in seinem Leben in den USA.	Y	zum	47	  122,977	0.2624	92.4545	german_de_news_2015_00233504
+234	Bis zum Ende des Jahres sollen es über 270 hier sein.	Y	zum	47	  122,977	0.2624	105.5	german_de_news_2013_00127027
+235	Das heißt natürlich nicht, dass das bis zum Ende der Saison so bleiben wird.	Y	zum	47	  122,977	0.2624	127.0769	german_de_news_2015_00179762
+236	Wenn das dann nur nicht zu viel auf einmal ist.	Y	nur	48	  121,956	0.2603	51.6	german_de_news_2015_00898475
+237	Aber es geht nicht nur um Geld, sondern auch um Können.	Y	nur	48	  121,956	0.2603	72.8	german_de_news_2014_00012466
+238	Das ist nicht nur bei der Zeit so aber die Welt Bild und viele anderen sind da nicht besser.	Y	nur	48	  121,956	0.2603	76.6111	german_de_news_2015_00184645
+239	Nur weil etwas immer so war, muss es nicht auch immer so bleiben.	Y	nur	48	  121,956	0.2603	88.0909	german_de_news_2014_00717232
+240	Die Welt: Aber Sie hatten ja nur Platz für einen.	Y	nur	48	  121,956	0.2603	88.1	german_de_news_2013_00403036
+241	Wie er immer schon war und wie er immer sein wird!	Y	war	49	  120,438	0.257	42.875	german_de_news_2013_00951483
+242	Sie hat das so weil das war so vor zwei Jahren in und so..	Y	war	49	  120,438	0.257	43.9091	german_de_news_2013_00808116
+243	Das ist heute so und das war vor 25 Jahren so!	Y	war	49	  120,438	0.257	45.25	german_de_news_2015_00183769
+244	Auch wenn er nicht mehr das ist, was er einmal war.	Y	war	49	  120,438	0.257	47	german_de_news_2015_00079725
+245	Und wenn nicht mehr, dann war’s das für mich.»	Y	war	49	  120,438	0.257	63.2	german_de_news_2013_00881649
+246	Aber die Welt ist nicht in uns, wir sind in der Welt.	Y	wir	50	  115,900	0.2473	45.7	german_de_news_2015_00012319
+247	Wenn wir gut sind, ist das noch nicht zu Ende.“	Y	wir	50	  115,900	0.2473	46.6	german_de_news_2015_00904560
+248	Wie, das sagt sie nicht, auch nicht, wer WIR ist!	Y	wir	50	  115,900	0.2473	47.6667	german_de_news_2015_00912544
+249	Es ist, wie es ist - und wir müssen damit leben.	Y	wir	50	  115,900	0.2473	65.75	german_de_news_2015_00464695
+250	DIE müssen dies und das und alles, und WIR müssen nichts!	Y	wir	50	  115,900	0.2473	87.5	german_de_news_2014_00337802
+251	Auch wenn er nicht mehr das ist, was er einmal war.	Y	mehr	51	  114,167	0.2436	47	german_de_news_2015_00079725
+252	Aber das kann nicht alles sein, da gibt es noch viele mehr.	Y	mehr	51	  114,167	0.2436	58.5	german_de_news_2014_00010407
+253	Wie soll ich leben, wenn sie nicht mehr da sind?	Y	mehr	51	  114,167	0.2436	61	german_de_news_2013_00955809
+254	Und wenn nicht mehr, dann war’s das für mich.»	Y	mehr	51	  114,167	0.2436	63.2	german_de_news_2013_00881649
+255	Denn mit 33 hat man nicht mehr alle Zeit der Welt.	Y	mehr	51	  114,167	0.2436	67.7	german_de_news_2013_00232732
+256	Es ist nicht so, dass man muss, sondern so dass man will.	Y	man	52	  113,839	0.2429	58.1111	german_de_news_2013_00492309
+257	Denn mit 33 hat man nicht mehr alle Zeit der Welt.	Y	man	52	  113,839	0.2429	67.7	german_de_news_2013_00232732
+258	Es kommt nicht gut, wenn man immer gegen alles ist.	Y	man	52	  113,839	0.2429	71.4	german_de_news_2015_00465456
+259	Aber in den USA kann man so was ja machen.	Y	man	52	  113,839	0.2429	73.1	german_de_news_2015_00014774
+260	Aber es ist ja immer so, das man sich selbst am nächsten ist.	Y	man	52	  113,839	0.2429	75.5	german_de_news_2013_00014103
+261	Auf das eine Jahr auf oder ab kommt es nicht an“, sagt er.	Y	oder	53	  106,366	0.227	53.5	german_de_news_2015_00080988
+262	Viele wollen auch nicht das eine oder das andere sein.	Y	oder	53	  106,366	0.227	67.2222	german_de_news_2014_00870338
+263	Haben wir für das eine oder für das andere Geld?	Y	oder	53	  106,366	0.227	70.5	german_de_news_2013_00550946
+264	Wie es ist, wie es sein könnte oder wie es sein sollte.	Y	oder	53	  106,366	0.227	71.5714	german_de_news_2013_00951714
+265	Oder: „Machen wir es uns nicht zu einfach, wenn wir.	Y	oder	53	  106,366	0.227	75	german_de_news_2013_00755547
+266	Wie er immer schon war und wie er immer sein wird!	Y	sein	54	   91,166	0.1946	42.875	german_de_news_2013_00951483
+267	Es ist sein Leben, und es ist, wie es ist.	Y	sein	54	   91,166	0.1946	51.8333	german_de_news_2014_00468640
+268	Aber das kann nicht alles sein, da gibt es noch viele mehr.	Y	sein	54	   91,166	0.1946	58.5	german_de_news_2014_00010407
+269	Aber es muss ja nicht schon wieder bei uns in Deutschland sein.	Y	sein	54	   91,166	0.1946	62.9167	german_de_news_2013_00014256
+270	Wie es ist, wie es sein könnte oder wie es sein sollte.	Y	sein	54	   91,166	0.1946	71.5714	german_de_news_2013_00951714
+271	Im Jahr 2020 9 Millionen, 2030 10 Millionen und so weiter bis im Jahr 2060 auf 13 bis 14 Millionen.	Y	bis	55	   84,929	0.1812	56.75	german_de_news_2014_00568822
+272	Und für das Jahr 2016 gibt es dann bis zu 400 Euro – wieder im Jahr darauf.	Y	bis	55	   84,929	0.1812	57	german_de_news_2015_00836419
+273	Bis in die 60er-Jahre sei das noch so gewesen.	Y	bis	55	   84,929	0.1812	63.5	german_de_news_2014_00124540
+274	Waren es vor drei Jahren noch 100 Kinder, sind es bis heute schon 350. Und es werden immer mehr.	Y	bis	55	   84,929	0.1812	73.3333	german_de_news_2013_00916750
+275	Bei Menschen über 75 Jahren liegt sie bei bis zu zehn Prozent.	Y	bis	55	   84,929	0.1812	93.1	german_de_news_2015_00108461
+276	Wenn wir gut sind, ist das noch nicht zu Ende.“	Y	wenn	56	   84,414	0.1801	46.6	german_de_news_2015_00904560
+277	Auch wenn er nicht mehr das ist, was er einmal war.	Y	wenn	56	   84,414	0.1801	47	german_de_news_2015_00079725
+278	Wie soll ich leben, wenn sie nicht mehr da sind?	Y	wenn	56	   84,414	0.1801	61	german_de_news_2013_00955809
+279	Und wenn nicht mehr, dann war’s das für mich.»	Y	wenn	56	   84,414	0.1801	63.2	german_de_news_2013_00881649
+280	Es kommt nicht gut, wenn man immer gegen alles ist.	Y	wenn	56	   84,414	0.1801	71.4	german_de_news_2015_00465456
+281	Es kommt nicht gut, wenn man immer gegen alles ist.	Y	gegen	57	   84,184	0.1797	71.4	german_de_news_2015_00465456
+282	Wenn nicht schon am Dienstag, so doch gegen Ende der Woche.	Y	gegen	57	   84,184	0.1797	94.3636	german_de_news_2015_00903045
+283	Können sie so was auch gegen die US-Regierung schreiben?	Y	gegen	57	   84,184	0.1797	105.9	german_de_news_2015_00624939
+284	Mir ist klar, dass es immer Leute gibt, die gegen oder für mich sind.	Y	gegen	57	   84,184	0.1797	107.2143	german_de_news_2014_00667220
+285	Es wird nicht nur ein Problem für das Spiel am Samstag sein, es könnte auch ein Problem für das Spiel gegen München werden.	Y	gegen	57	   84,184	0.1797	112.6471	german_de_news_2014_00476648
+286	Aber ich kann das nicht machen, ich kann es nicht.“	Y	kann	58	   80,016	0.1708	45.8571	german_de_news_2013_00015366
+287	Das KANN nicht gut gehen und wird es auch nicht.	Y	kann	58	   80,016	0.1708	55.1111	german_de_news_2013_00189612
+288	Aber das kann nicht alles sein, da gibt es noch viele mehr.	Y	kann	58	   80,016	0.1708	58.5	german_de_news_2014_00010407
+289	Aber in den USA kann man so was ja machen.	Y	kann	58	   80,016	0.1708	73.1	german_de_news_2015_00014774
+290	So einfach kann es sich die Regierung aber nicht machen.	Y	kann	58	   80,016	0.1708	77.3	german_de_news_2015_00783142
+291	Und wie wurde er zu dem, der er heute ist?	Y	wurde	59	   80,013	0.1708	31.5556	german_de_news_2014_00853870
+292	Es wurde aber deutlich, dass dies nicht so einfach werden könnte.	Y	wurde	59	   80,013	0.1708	92	german_de_news_2015_00472598
+293	Und was wurde nicht alles schon berichtet und wird noch berichtet werden.	Y	wurde	59	   80,013	0.1708	95.6	german_de_news_2014_00852417
+294	Aber ganz so einfach wurde es in der Folge nicht.	Y	wurde	59	   80,013	0.1708	113	german_de_news_2014_00013202
+295	Aus G9 wurde G8, G9 geht jetzt aber auch wieder.	Y	wurde	59	   80,013	0.1708	149.5	german_de_news_2013_00088827
+296	Das ist hier die Frage! 06.06.2014 Bis zur WM ist es keine Woche mehr.	Y	zur	60	   77,442	0.1653	101.1667	german_de_news_2014_00184688
+297	Sie war von der ersten bis zur letzten Folge dabei.	Y	zur	60	   77,442	0.1653	123.1	german_de_news_2015_00778211
+298	Und die Leute uns auch in Jahren noch zur Seite stehen.	Y	zur	60	   77,442	0.1653	123.7273	german_de_news_2015_00833874
+299	Die 19-Jährige hatte sich kurz nach 4 Uhr auf den Weg zur Arbeit gemacht.	Y	zur	60	   77,442	0.1653	128	german_de_news_2013_00297118
+300	Zur Situation von Frauen in Deutschland sagt sie: „Uns geht es hier sehr gut.	Y	zur	60	   77,442	0.1653	129.5714	german_de_news_2014_00962171
+301	Damit ist auch der EURO und die EU am Ende!	Y	euro	61	   74,368	0.1587	51.5	german_de_news_2014_00152370
+302	Und für das Jahr 2016 gibt es dann bis zu 400 Euro – wieder im Jahr darauf.	Y	euro	61	   74,368	0.1587	57	german_de_news_2015_00836419
+303	Vor einem Jahr waren es noch 579 Euro – 140 Euro mehr als derzeit.	Y	euro	61	   74,368	0.1587	69.3	german_de_news_2015_00874903
+304	Im Jahr darauf sollen es 85 Prozent (7,22 Euro) sein, von 2017 an dann 8,50 Euro.	Y	euro	61	   74,368	0.1587	73.8182	german_de_news_2015_00563438
+305	Ab dem 24. November 2014 soll es für 140 Euro zu haben sein.	Y	euro	61	   74,368	0.1587	82.1	german_de_news_2014_00008199
+306	Denn damals hatte ich noch nicht das, was ich heute habe.	Y	hatte	62	   73,790	0.1575	91.5	german_de_news_2013_00229678
+307	Aber wenn man ihn einmal hatte, dann geht es nie mehr.	Y	hatte	62	   73,790	0.1575	100.2727	german_de_news_2014_00017416
+308	Man könnte es auch so sehen: Am Ende hatte die dpa doch recht.	Y	hatte	62	   73,790	0.1575	107.6923	german_de_news_2014_00652509
+309	Dann sagt er noch: „Wissen Sie, ich hatte immer eine gute Zeit dort!	Y	hatte	62	   73,790	0.1575	110.6923	german_de_news_2014_00159780
+310	Vor 20 Jahren hatte es noch einen Wert von 2059,3 Milliarden Euro, Ende 2002 waren es 3576,0 Milliarden Euro.	Y	hatte	62	   73,790	0.1575	111.1667	german_de_news_2013_00906063
+311	Was er hat, das will er nicht, und was er will, das hat er nicht.	Y	was	63	   71,368	0.1523	33.5714	german_de_news_2013_00920354
+312	Auch wenn er nicht mehr das ist, was er einmal war.	Y	was	63	   71,368	0.1523	47	german_de_news_2015_00079725
+313	Aber was nicht war und ist, könnte ja noch werden.	Y	was	63	   71,368	0.1523	55	german_de_news_2014_00017114
+314	Noch ist aber nicht zu sagen, was sie ist und was aus ihr wird.	Y	was	63	   71,368	0.1523	61.1667	german_de_news_2014_00709452
+315	Die Zukunft ist auch nicht mehr das, was sie mal war.	Y	was	63	   71,368	0.1523	66.5455	german_de_news_2013_00407174
+316	Wie er immer schon war und wie er immer sein wird!	Y	schon	64	   70,150	0.1497	42.875	german_de_news_2013_00951483
+317	Aber es muss ja nicht schon wieder bei uns in Deutschland sein.	Y	schon	64	   70,150	0.1497	62.9167	german_de_news_2013_00014256
+318	Aber so sicher ist es auch dort nicht mehr wie auch schon.	Y	schon	64	   70,150	0.1497	69.2727	german_de_news_2014_00016399
+319	Das war schon immer so und wird auch so bleiben.	Y	schon	64	   70,150	0.1497	70.5556	german_de_news_2014_00210535
+320	So, wie das auch schon in den vergangenen Jahren gewesen sei.	Y	schon	64	   70,150	0.1497	72.0909	german_de_news_2015_00794461
+321	Das sind um +41,5 Prozent mehr als im Jahr 2013 und um +39,5 Prozent mehr als 2012.	Y	prozent	65	   69,673	0.1487	35.1111	german_de_news_2015_00200831
+322	Das ist für 22 Prozent der Fall – 9 Prozent mehr als noch vor einem Jahr.	Y	prozent	65	   69,673	0.1487	51.6667	german_de_news_2015_00183538
+323	Das sind etwas weniger als 2011 (48,5 Prozent) und etwas mehr als 2007 mit 48,3 Prozent.	Y	prozent	65	   69,673	0.1487	63	german_de_news_2015_00200522
+324	Das sind rund fünf Prozent mehr als noch vor einem Jahr.	Y	prozent	65	   69,673	0.1487	64.7273	german_de_news_2013_00204844
+325	Das sind über 50 Prozent mehr als noch vor zehn Jahren.	Y	prozent	65	   69,673	0.1487	66.1	german_de_news_2013_00204903
+326	Wenn das dann nur nicht zu viel auf einmal ist.	Y	dann	66	   69,145	0.1476	51.6	german_de_news_2015_00898475
+327	Und für das Jahr 2016 gibt es dann bis zu 400 Euro – wieder im Jahr darauf.	Y	dann	66	   69,145	0.1476	57	german_de_news_2015_00836419
+328	Und wenn nicht mehr, dann war’s das für mich.»	Y	dann	66	   69,145	0.1476	63.2	german_de_news_2013_00881649
+329	Wenn sie es nicht wollen, dann machen wir es nicht.	Y	dann	66	   69,145	0.1476	67.25	german_de_news_2014_00911898
+330	Ab und zu wird er dann auch mal sehr deutlich!	Y	dann	66	   69,145	0.1476	70.3	german_de_news_2013_00021522
+331	Aber für diese Menschen gibt es kein Vor und kein Zurück.	Y	diese	67	   66,418	0.1417	73.2	german_de_news_2015_00013691
+332	Und es ist ja nun nicht so, dass es diese nicht geben würde.	Y	diese	67	   66,418	0.1417	74.3636	german_de_news_2013_00872799
+333	Und diese Kinder kommen nicht erst. Sie sind schon da.	Y	diese	67	   66,418	0.1417	87.8	german_de_news_2014_00843706
+334	An diese Daten zu kommen, ist allerdings nicht so einfach.	Y	diese	67	   66,418	0.1417	107.5	german_de_news_2014_00052083
+335	Ich könnte noch mehr sagen, aber ich bin nicht so wie diese Frau.“	Y	diese	67	   66,418	0.1417	112.75	german_de_news_2013_00578728
+336	Das ist nicht immer einfach, aber da muss er durch.	Y	durch	68	   66,415	0.1417	62.3	german_de_news_2013_00187714
+337	Und dann gibt es da noch ein Thema, das eigentlich schon hätte durch sein müssen.	Y	durch	68	   66,415	0.1417	97.7333	german_de_news_2013_00866842
+338	Mit mir könnte man das nicht machen, ich wäre am zweiten Tag durch.	Y	durch	68	   66,415	0.1417	109.2308	german_de_news_2013_00706338
+339	Lässt er sie durch, dann spielen wir am Ende dort.	Y	durch	68	   66,415	0.1417	114	german_de_news_2014_00638409
+340	Bisher hat man das gemacht, was man wollte und kam damit durch - soll es nun wohl anders sein?	Y	durch	68	   66,415	0.1417	133.2941	german_de_news_2014_00123670
+341	Und zwar beim „Team für unter 25jährige“, auch wenn man schon über 25 ist.	Y	unter	69	   66,133	0.1411	80.6923	german_de_news_2015_00845072
+342	Wir wollen es besser machen als 2012 und werden alles unternehmen, um unter die Top 3 zu kommen.	Y	unter	69	   66,133	0.1411	123.6875	german_de_news_2013_00970058
+343	Seit Jahren liegt der Wert nun schon unter zwei Prozent.	Y	unter	69	   66,133	0.1411	128.8	german_de_news_2013_00799320
+344	Außerdem bleibt mir unter der Woche mehr Zeit für mich.	Y	unter	69	   66,133	0.1411	149.2	german_de_news_2013_00090581
+345	Unser Ziel war und bleibt es, unter die ersten Sechs zu kommen.	Y	unter	69	   66,133	0.1411	165.5833	german_de_news_2014_00857090
+346	Bis in die 60er-Jahre sei das noch so gewesen.	Y	sei	70	   65,706	0.1402	63.5	german_de_news_2014_00124540
+347	So, wie das auch schon in den vergangenen Jahren gewesen sei.	Y	sei	70	   65,706	0.1402	72.0909	german_de_news_2015_00794461
+348	Auch das, so sagt er, sei aber gar nicht so einfach gewesen.	Y	sei	70	   65,706	0.1402	96.9091	german_de_news_2015_00069939
+349	Alles sei gut bei der Deutschen Bank, auch wenn nichts gut sei.	Y	sei	70	   65,706	0.1402	113.5	german_de_news_2015_00032469
+350	Ich habe gehört, dass man sagt, es sei nicht einfach, mit ihm zu arbeiten.	Y	sei	70	   65,706	0.1402	119.8571	german_de_news_2015_00545849
+351	Es sind zu viele, die es einfach nicht können – und es machen“, sagte er.	Y	können	71	   64,091	0.1368	60.8333	german_de_news_2013_00497575
+352	Aber es geht nicht nur um Geld, sondern auch um Können.	Y	können	71	   64,091	0.1368	72.8	german_de_news_2014_00012466
+353	Aber die meisten wollen nicht, oder sie können es nicht.	Y	können	71	   64,091	0.1368	88.3333	german_de_news_2015_00011973
+354	Das ist alles was wir tun können aber auch müssen.	Y	können	71	   64,091	0.1368	88.6	german_de_news_2013_00184390
+355	Das ist hier nicht anders, und damit muss man leben können.	Y	können	71	   64,091	0.1368	93.9091	german_de_news_2014_00184697
+356	Und für das Jahr 2016 gibt es dann bis zu 400 Euro – wieder im Jahr darauf.	Y	wieder	72	   63,965	0.1365	57	german_de_news_2015_00836419
+357	Aber es muss ja nicht schon wieder bei uns in Deutschland sein.	Y	wieder	72	   63,965	0.1365	62.9167	german_de_news_2013_00014256
+358	Aber hier dabei zu sein, ist für mich immer wieder ein Ziel“, sagte sie.	Y	wieder	72	   63,965	0.1365	80.2857	german_de_news_2013_00014971
+359	Ist auch in der Schweiz so sieht man immer wieder.	Y	wieder	72	   63,965	0.1365	88.2	german_de_news_2015_00602000
+360	Für sie war klar, da will sie wieder dabei sein.	Y	wieder	72	   63,965	0.1365	88.5556	german_de_news_2014_00507327
+361	Uns geht es so gut, doch sie haben nicht viel.	Y	doch	73	   62,288	0.1329	67.1	german_de_news_2015_00847913
+362	Das eine hat doch mit dem anderen nichts zu tun!	Y	doch	73	   62,288	0.1329	83.5	german_de_news_2015_00170617
+363	Sie leben hier am Land und doch in der Stadt.	Y	doch	73	   62,288	0.1329	84.8	german_de_news_2013_00811007
+364	Es sieht doch so aus als kann sich die EU nicht mehr halten.	Y	doch	73	   62,288	0.1329	88.3077	german_de_news_2013_00497048
+365	Und es ist bei diesem Thema doch wie bei so vielen anderen auch.	Y	doch	73	   62,288	0.1329	90.0833	german_de_news_2014_00845394
+366	Aber ich habe hier 2009 verloren und es war nicht das Ende und ich habe heute verloren und es ist auch nicht das Ende.	Y	habe	74	   60,753	0.1297	90.5	german_de_news_2015_00014313
+367	Denn damals hatte ich noch nicht das, was ich heute habe.	Y	habe	74	   60,753	0.1297	91.5	german_de_news_2013_00229678
+368	Er habe immer wieder klar gemacht, dass das für ihn «nicht in Frage kommt», sagte er.	Y	habe	74	   60,753	0.1297	107.6667	german_de_news_2013_00465515
+369	Doch noch habe sie viel vor: „Es sind noch 16 Monate.	Y	habe	74	   60,753	0.1297	119.4444	german_de_news_2013_00415854
+370	Ich habe gehört, dass man sagt, es sei nicht einfach, mit ihm zu arbeiten.	Y	habe	74	   60,753	0.1297	119.8571	german_de_news_2015_00545849
+371	Wie soll ich leben, wenn sie nicht mehr da sind?	Y	soll	75	   59,461	0.1269	61	german_de_news_2013_00955809
+372	Ab dem 24. November 2014 soll es für 140 Euro zu haben sein.	Y	soll	75	   59,461	0.1269	82.1	german_de_news_2014_00008199
+373	Das Auto soll für weniger als 20.000 Euro zu haben sein.	Y	soll	75	   59,461	0.1269	88.9	german_de_news_2015_00165957
+374	Es soll den Beiden gut gehen, wo immer sie auch jetzt sind.	Y	soll	75	   59,461	0.1269	90.4167	german_de_news_2014_00473049
+375	Von denen soll es in diesem Jahr rund 500 neue geben.	Y	soll	75	   59,461	0.1269	104.2	german_de_news_2014_00875980
+376	Ohne zu wissen, ob ihre Kinder noch am Leben sind.	Y	ihre	76	   57,906	0.1236	126.2	german_de_news_2015_00717921
+377	Aber natürlich nur für Ihre Mutter und nicht für Sie.	Y	ihre	76	   57,906	0.1236	132.7778	german_de_news_2014_00015257
+378	Sie können schon jetzt Ihre Frage stellen - mehr dazu in Fragen Sie nach!	Y	ihre	76	   57,906	0.1236	134.9167	german_de_news_2013_00810548
+379	Und alle die für ihre Kinder nicht arbeiten sind keine Eltern.	Y	ihre	76	   57,906	0.1236	143.7273	german_de_news_2014_00837882
+380	Wenn ich Ihre Probleme hätte, dann hätte ich keine Probleme.	Y	ihre	76	   57,906	0.1236	151.7143	german_de_news_2015_00901431
+381	Sie hat das so weil das war so vor zwei Jahren in und so..	Y	zwei	77	   56,880	0.1214	43.9091	german_de_news_2013_00808116
+382	Aber es sieht besser aus, zwei zu haben“, sagte sie.	Y	zwei	77	   56,880	0.1214	84.3	german_de_news_2014_00012919
+383	Zwei Jahre später waren es schon 21,7 und noch ein Jahr später dann gut 69 Millionen.	Y	zwei	77	   56,880	0.1214	85.6923	german_de_news_2015_00960326
+384	Der Euro ist so stark wie seit fast zwei Jahren nicht.	Y	zwei	77	   56,880	0.1214	93	german_de_news_2014_00246396
+385	In der Schweiz sind es ein bis zwei pro Jahr.	Y	zwei	77	   56,880	0.1214	93.5	german_de_news_2014_00587541
+386	Es gibt sie, es gibt sie nicht, es gibt sie.	Y	gibt	78	   56,839	0.1213	33	german_de_news_2013_00486999
+387	Und für das Jahr 2016 gibt es dann bis zu 400 Euro – wieder im Jahr darauf.	Y	gibt	78	   56,839	0.1213	57	german_de_news_2015_00836419
+388	Aber das kann nicht alles sein, da gibt es noch viele mehr.	Y	gibt	78	   56,839	0.1213	58.5	german_de_news_2014_00010407
+389	Aber für diese Menschen gibt es kein Vor und kein Zurück.	Y	gibt	78	   56,839	0.1213	73.2	german_de_news_2015_00013691
+390	«Es war alles ein wenig zu viel», gibt er zu.	Y	gibt	78	   56,839	0.1213	81.6667	german_de_news_2013_00498664
+391	Wie er immer schon war und wie er immer sein wird!	Y	immer	79	   56,595	0.1208	42.875	german_de_news_2013_00951483
+392	Das ist nicht immer einfach, aber da muss er durch.	Y	immer	79	   56,595	0.1208	62.3	german_de_news_2013_00187714
+393	Wie auch immer, das ist alles hätte, wenn und aber.	Y	immer	79	   56,595	0.1208	65.3	german_de_news_2015_00911770
+394	Das war schon immer so und wird auch so bleiben.	Y	immer	79	   56,595	0.1208	70.5556	german_de_news_2014_00210535
+395	Es kommt nicht gut, wenn man immer gegen alles ist.	Y	immer	79	   56,595	0.1208	71.4	german_de_news_2015_00465456
+396	Das geht aber nicht vom einen auf den anderen Tag.	Y	vom	80	   55,330	0.1181	69.3	german_de_news_2014_00175746
+397	Wenn es so ist, ist es der Anfang vom Ende.	Y	vom	80	   55,330	0.1181	89.75	german_de_news_2013_00936725
+398	Welt: Ist die Entscheidung vom Sonntag der Anfang vom Ende des Euro?	Y	vom	80	   55,330	0.1181	151.5455	german_de_news_2015_00896798
+399	Vom einem Tag auf den anderen wird sich aber nichts ändern.	Y	vom	80	   55,330	0.1181	156.7273	german_de_news_2015_00864890
+400	Wenn man das Training und das erste Spiel sieht. kann es alles sein – vom 3:0 bis zum 0:3.“	Y	vom	80	   55,330	0.1181	162.4	german_de_news_2013_00938386
+401	Denn die sind nicht immer so sicher wie sie seine sollten.	Y	seine	81	   54,965	0.1173	97.1818	german_de_news_2013_00231010
+402	Ich war mit 23 nicht so gut wie mit 26. Alles braucht seine Zeit.	Y	seine	81	   54,965	0.1173	117.3636	german_de_news_2013_00582014
+403	Aber auch seine Partei würde nur auf zwei Prozent kommen.	Y	seine	81	   54,965	0.1173	121.3	german_de_news_2013_00010339
+404	Aber vielleicht ist es auch einfach so, dass der DAX seine..	Y	seine	81	   54,965	0.1173	154.7273	german_de_news_2015_00017518
+405	Das sind genau seine Spiele, er war einfach er selbst.	Y	seine	81	   54,965	0.1173	158.1111	german_de_news_2013_00204636
+406	Und zwar beim „Team für unter 25jährige“, auch wenn man schon über 25 ist.	Y	beim	82	   54,348	0.116	80.6923	german_de_news_2015_00845072
+407	Die werden sich beim eine oder anderen noch eine Art A..	Y	beim	82	   54,348	0.116	120.1	german_de_news_2013_00403890
+408	Nicht erst in fünf Jahren, schon beim nächsten Windows soll es so weit sein.	Y	beim	82	   54,348	0.116	142.1429	german_de_news_2014_00705175
+409	So wie er das schon beim Titel der U-17 WM war.	Y	beim	82	   54,348	0.116	147.5455	german_de_news_2013_00833395
+410	Und so, dass es beim nächsten Mal auch etwas anderes wird.	Y	beim	82	   54,348	0.116	164.3636	german_de_news_2015_00841086
+411	Und ich bin auch schon seit Ende der 80er dabei.	Y	seit	83	   53,955	0.1151	72.9	german_de_news_2015_00837107
+412	Dies ist seit Ende der 1930er Jahre nicht mehr der Fall.	Y	seit	83	   53,955	0.1151	87.2	german_de_news_2013_00383700
+413	Ich war zum ersten Mal seit mehr als 30 Jahren so lange an Land.	Y	seit	83	   53,955	0.1151	87.2308	german_de_news_2013_00582214
+414	Der Euro ist so stark wie seit fast zwei Jahren nicht.	Y	seit	83	   53,955	0.1151	93	german_de_news_2014_00246396
+415	Das ist jetzt aber auch nicht erst seit gestern so!	Y	seit	83	   53,955	0.1151	99.3	german_de_news_2015_00184063
+416	Alle, alle, alle werden für alle, alle, alle da sein.	Y	da	84	   53,788	0.1148	55	german_de_news_2014_00024835
+417	Aber das kann nicht alles sein, da gibt es noch viele mehr.	Y	da	84	   53,788	0.1148	58.5	german_de_news_2014_00010407
+418	Wie soll ich leben, wenn sie nicht mehr da sind?	Y	da	84	   53,788	0.1148	61	german_de_news_2013_00955809
+419	Das ist nicht immer einfach, aber da muss er durch.	Y	da	84	   53,788	0.1148	62.3	german_de_news_2013_00187714
+420	Das ist nicht nur bei der Zeit so aber die Welt Bild und viele anderen sind da nicht besser.	Y	da	84	   53,788	0.1148	76.6111	german_de_news_2015_00184645
+421	Und sie sollen so sicher sein, wie keine vor ihnen.	Y	keine	85	   53,237	0.1136	98.6	german_de_news_2014_00850437
+422	Und wenn Sie noch keine haben, seien Sie sicher: Sie kommt noch.	Y	keine	85	   53,237	0.1136	101.1111	german_de_news_2014_00853203
+423	Das ist hier die Frage! 06.06.2014 Bis zur WM ist es keine Woche mehr.	Y	keine	85	   53,237	0.1136	101.1667	german_de_news_2014_00184688
+424	Sie wissen auch wie ich es weiß, dass es keine gibt!	Y	keine	85	   53,237	0.1136	107.4	german_de_news_2015_00779062
+425	Und das eigentlich schon seit immer, das ist keine neue Entwicklung.	Y	keine	85	   53,237	0.1136	117.9	german_de_news_2014_00840805
+426	Das sind um +41,5 Prozent mehr als im Jahr 2013 und um +39,5 Prozent mehr als 2012.	Y	jahr	86	   53,122	0.1134	35.1111	german_de_news_2015_00200831
+427	Das ist für 22 Prozent der Fall – 9 Prozent mehr als noch vor einem Jahr.	Y	jahr	86	   53,122	0.1134	51.6667	german_de_news_2015_00183538
+428	Auf das eine Jahr auf oder ab kommt es nicht an“, sagt er.	Y	jahr	86	   53,122	0.1134	53.5	german_de_news_2015_00080988
+429	Im Jahr 2020 9 Millionen, 2030 10 Millionen und so weiter bis im Jahr 2060 auf 13 bis 14 Millionen.	Y	jahr	86	   53,122	0.1134	56.75	german_de_news_2014_00568822
+430	Und für das Jahr 2016 gibt es dann bis zu 400 Euro – wieder im Jahr darauf.	Y	jahr	86	   53,122	0.1134	57	german_de_news_2015_00836419
+431	Es sind zu viele, die es einfach nicht können – und es machen“, sagte er.	Y	sagte	87	   53,019	0.1131	60.8333	german_de_news_2013_00497575
+432	Aber hier dabei zu sein, ist für mich immer wieder ein Ziel“, sagte sie.	Y	sagte	87	   53,019	0.1131	80.2857	german_de_news_2013_00014971
+433	Aber es sieht besser aus, zwei zu haben“, sagte sie.	Y	sagte	87	   53,019	0.1131	84.3	german_de_news_2014_00012919
+434	Jetzt will ich bei der nächsten dabei sein“, sagte er.	Y	sagte	87	   53,019	0.1131	87.9	german_de_news_2013_00647314
+435	Das ist doch viel besser für die Spieler“, sagte er.	Y	sagte	87	   53,019	0.1131	95.6	german_de_news_2014_00183398
+436	Wie ist das denn jetzt: Wird es das nun auch in Deutschland geben?	Y	nun	88	   52,916	0.1129	62.8333	german_de_news_2013_00952966
+437	Und es ist ja nun nicht so, dass es diese nicht geben würde.	Y	nun	88	   52,916	0.1129	74.3636	german_de_news_2013_00872799
+438	«Es ist nicht immer alles einfach, aber so ist es nun mal».	Y	nun	88	   52,916	0.1129	75.4	german_de_news_2013_00492206
+439	Das ist nun mal so. Aber das muss man wissen.	Y	nun	88	   52,916	0.1129	87.1111	german_de_news_2013_00187908
+440	Es ist nun einmal so das nicht alle Menschen gleich sind.	Y	nun	88	   52,916	0.1129	87.1818	german_de_news_2013_00492450
+441	Damit ist auch der EURO und die EU am Ende!	Y	damit	89	   50,866	0.1086	51.5	german_de_news_2014_00152370
+442	Es ist, wie es ist - und wir müssen damit leben.	Y	damit	89	   50,866	0.1086	65.75	german_de_news_2015_00464695
+443	Das ist hier nicht anders, und damit muss man leben können.	Y	damit	89	   50,866	0.1086	93.9091	german_de_news_2014_00184697
+444	Damit sich nicht noch mehr Flüchtlinge auf den Weg nach Europa machen.	Y	damit	89	   50,866	0.1086	112.75	german_de_news_2015_00153079
+445	Insgesamt waren es 450.000 und damit fast 55 Prozent mehr als im September 2011.	Y	damit	89	   50,866	0.1086	113	german_de_news_2013_00631036
+446	Sie hat das so weil das war so vor zwei Jahren in und so..	Y	jahren	90	   48,726	0.104	43.9091	german_de_news_2013_00808116
+447	Das ist heute so und das war vor 25 Jahren so!	Y	jahren	90	   48,726	0.104	45.25	german_de_news_2015_00183769
+448	In den 1930er Jahren waren es noch mehr als 70 gewesen.	Y	jahren	90	   48,726	0.104	62.8	german_de_news_2015_00575452
+449	Das sind über 50 Prozent mehr als noch vor zehn Jahren.	Y	jahren	90	   48,726	0.104	66.1	german_de_news_2013_00204903
+450	So, wie das auch schon in den vergangenen Jahren gewesen sei.	Y	jahren	90	   48,726	0.104	72.0909	german_de_news_2015_00794461
+451	Alle, alle, alle werden für alle, alle, alle da sein.	Y	alle	91	   48,032	0.1025	55	german_de_news_2014_00024835
+452	Denn mit 33 hat man nicht mehr alle Zeit der Welt.	Y	alle	91	   48,032	0.1025	67.7	german_de_news_2013_00232732
+453	Es ist nun einmal so das nicht alle Menschen gleich sind.	Y	alle	91	   48,032	0.1025	87.1818	german_de_news_2013_00492450
+454	Und das ist schon sehr wichtig für uns alle, die wir heute am Leben sind!	Y	alle	91	   48,032	0.1025	90.1333	german_de_news_2013_00867990
+455	Wir haben aber nur Geld, das alle fünf Jahre machen zu lassen.	Y	alle	91	   48,032	0.1025	96.75	german_de_news_2015_00923753
+456	Das war bereits nach zwei bis drei Tagen der Fall.	Y	bereits	92	   46,961	0.1002	112.5	german_de_news_2014_00209323
+457	Das war in diesem Jahr bereits für mehrere Wochen der Fall.	Y	bereits	92	   46,961	0.1002	117.1818	german_de_news_2013_00214525
+458	Kommt erst mal mit denen klar die es bereits gibt!	Y	bereits	92	   46,961	0.1002	120.4	german_de_news_2013_00659439
+459	Dabei hat die Polizei bereits in der Nacht von Montag auf Dienstag (10./11.	Y	bereits	92	   46,961	0.1002	134.5	german_de_news_2014_00139657
+460	In Deutschland gibt es bereits vier von ihnen, weitere sollen folgen.	Y	bereits	92	   46,961	0.1002	138.9091	german_de_news_2014_00589241
+461	Das geht jetzt nicht mehr und es ist auch besser so.	Y	jetzt	93	   46,432	0.0991	57.8182	german_de_news_2013_00177589
+462	Wie ist das denn jetzt: Wird es das nun auch in Deutschland geben?	Y	jetzt	93	   46,432	0.0991	62.8333	german_de_news_2013_00952966
+463	Mir geht es so, wie es jetzt ist, sehr gut.	Y	jetzt	93	   46,432	0.0991	77.2222	german_de_news_2013_00695470
+464	Die Frage ist jetzt: Wollen wir mehr oder wollen wir nicht mehr?	Y	jetzt	93	   46,432	0.0991	79	german_de_news_2013_00329346
+465	Jetzt will ich bei der nächsten dabei sein“, sagte er.	Y	jetzt	93	   46,432	0.0991	87.9	german_de_news_2013_00647314
+466	Was er hat, das will er nicht, und was er will, das hat er nicht.	Y	will	94	   46,225	0.0986	33.5714	german_de_news_2013_00920354
+467	Es ist nicht so, dass man muss, sondern so dass man will.	Y	will	94	   46,225	0.0986	58.1111	german_de_news_2013_00492309
+468	Und ich will, dass wir noch mehr unternehmen, auch in Europa.	Y	will	94	   46,225	0.0986	66.3636	german_de_news_2013_00874558
+469	Und ich war erst 34, so dass die „will ich noch Kinder?	Y	will	94	   46,225	0.0986	69.7	german_de_news_2013_00874517
+470	Ob man nicht kann oder nicht will, das ist dann eine andere Frage.	Y	will	94	   46,225	0.0986	78.9167	german_de_news_2014_00720476
+471	Es ist nicht so, dass man muss, sondern so dass man will.	Y	muss	95	   45,586	0.0973	58.1111	german_de_news_2013_00492309
+472	Das ist nicht immer einfach, aber da muss er durch.	Y	muss	95	   45,586	0.0973	62.3	german_de_news_2013_00187714
+473	Aber es muss ja nicht schon wieder bei uns in Deutschland sein.	Y	muss	95	   45,586	0.0973	62.9167	german_de_news_2013_00014256
+474	Das ist nun mal so. Aber das muss man wissen.	Y	muss	95	   45,586	0.0973	87.1111	german_de_news_2013_00187908
+475	Nur weil etwas immer so war, muss es nicht auch immer so bleiben.	Y	muss	95	   45,586	0.0973	88.0909	german_de_news_2014_00717232
+476	Es wird Zeit das was gemacht wird und wenn es dieser Weg ist auch gut.	Y	dieser	96	   45,479	0.0971	81.3846	german_de_news_2015_00472521
+477	Es gibt aber immer noch viel zu viele Menschen, die von dieser Entwicklung nichts haben.	Y	dieser	96	   45,479	0.0971	91.9333	german_de_news_2013_00485317
+478	Und auf dieser wird er auch in dieser Saison bleiben.	Y	dieser	96	   45,479	0.0971	94.1111	german_de_news_2015_00829563
+479	Dieser Artikel ist von 2012, und da ist es schon ein Problem, was man hier natürlich nicht sehen will.	Y	dieser	96	   45,479	0.0971	105.8824	german_de_news_2015_00355147
+480	Dieses Auto kann eigentlich nicht von dieser Welt sein, ist es aber.	Y	dieser	96	   45,479	0.0971	110.5	german_de_news_2013_00378564
+481	Von denen soll es in diesem Jahr rund 500 neue geben.	Y	neue	97	   43,481	0.0928	104.2	german_de_news_2014_00875980
+482	Aber dass sie jetzt gar nicht kommt, das ist dann doch eine neue Situation.	Y	neue	97	   43,481	0.0928	107.7143	german_de_news_2013_00011663
+483	Und das eigentlich schon seit immer, das ist keine neue Entwicklung.	Y	neue	97	   43,481	0.0928	117.9	german_de_news_2014_00840805
+484	Sie hatte eine neue Familie, für uns war kein Platz.	Y	neue	97	   43,481	0.0928	122.2	german_de_news_2015_00770296
+485	Auch der neue Rahmen ist gleich, und nicht nur er.	Y	neue	97	   43,481	0.0928	125.9	german_de_news_2015_00070700
+486	Aber hier dabei zu sein, ist für mich immer wieder ein Ziel“, sagte sie.	Y	hier	98	   41,938	0.0895	80.2857	german_de_news_2013_00014971
+487	Sie leben hier am Land und doch in der Stadt.	Y	hier	98	   41,938	0.0895	84.8	german_de_news_2013_00811007
+488	Aber ich habe hier 2009 verloren und es war nicht das Ende und ich habe heute verloren und es ist auch nicht das Ende.	Y	hier	98	   41,938	0.0895	90.5	german_de_news_2015_00014313
+489	Das ist hier nicht anders, und damit muss man leben können.	Y	hier	98	   41,938	0.0895	93.9091	german_de_news_2014_00184697
+490	Und wir sind wie die Deutschen – aber hier auch nur wie die guten.	Y	hier	98	   41,938	0.0895	95.1818	german_de_news_2015_00844712
+491	Ab und zu wird er dann auch mal sehr deutlich!	Y	sehr	99	   41,856	0.0893	70.3	german_de_news_2013_00021522
+492	Mir geht es so, wie es jetzt ist, sehr gut.	Y	sehr	99	   41,856	0.0893	77.2222	german_de_news_2013_00695470
+493	Die Welt ist gut, die Menschen,die in ihr leben nicht so sehr.	Y	sehr	99	   41,856	0.0893	78.8182	german_de_news_2015_00379864
+494	Und das ist schon sehr wichtig für uns alle, die wir heute am Leben sind!	Y	sehr	99	   41,856	0.0893	90.1333	german_de_news_2013_00867990
+495	Insgesamt sieht es für die USA aber sehr, sehr gut aus.	Y	sehr	99	   41,856	0.0893	100.3	german_de_news_2015_00595687
+496	Auf das eine Jahr auf oder ab kommt es nicht an“, sagt er.	Y	ab	100	   41,202	0.0879	53.5	german_de_news_2015_00080988
+497	Ab und zu wird er dann auch mal sehr deutlich!	Y	ab	100	   41,202	0.0879	70.3	german_de_news_2013_00021522
+498	Ab dem 24. November 2014 soll es für 140 Euro zu haben sein.	Y	ab	100	   41,202	0.0879	82.1	german_de_news_2014_00008199
+499	Jetzt will ich das aber erst ab Seite 2 so haben.	Y	ab	100	   41,202	0.0879	94.3	german_de_news_2013_00647315
+500	In zwei bis drei Jahren geht es hier richtig ab.	Y	ab	100	   41,202	0.0879	110.8	german_de_news_2013_00635312
+501	Noch ist aber nicht zu sagen, was sie ist und was aus ihr wird.	Y	ihr	101	   41,015	0.0875	61.1667	german_de_news_2014_00709452
+502	Die Welt ist gut, die Menschen,die in ihr leben nicht so sehr.	Y	ihr	101	   41,015	0.0875	78.8182	german_de_news_2015_00379864
+503	Die leben ihr Leben und das wird sich auch nicht ändern.	Y	ihr	101	   41,015	0.0875	131.3	german_de_news_2014_00331754
+504	Und dann steht da noch, ihr Leben sei Arbeit gewesen.	Y	ihr	101	   41,015	0.0875	134.4	german_de_news_2013_00867165
+505	Das sie ihr Geld zurück bekommen ist ja nur gut und recht.	Y	ihr	101	   41,015	0.0875	135.25	german_de_news_2015_00200064
+506	Und ich bin auch schon seit Ende der 80er dabei.	Y	dabei	102	   40,950	0.0874	72.9	german_de_news_2015_00837107
+507	Aber hier dabei zu sein, ist für mich immer wieder ein Ziel“, sagte sie.	Y	dabei	102	   40,950	0.0874	80.2857	german_de_news_2013_00014971
+508	Jetzt will ich bei der nächsten dabei sein“, sagte er.	Y	dabei	102	   40,950	0.0874	87.9	german_de_news_2013_00647314
+509	Für sie war klar, da will sie wieder dabei sein.	Y	dabei	102	   40,950	0.0874	88.5556	german_de_news_2014_00507327
+510	Für mich ist es auch wichtig, dass sie dabei sind.	Y	dabei	102	   40,950	0.0874	93.3	german_de_news_2014_00506293
+511	Da war ich dann gleich mal von 7 bis 21 Uhr hier.	Y	uhr	103	   40,252	0.0859	98.1	german_de_news_2014_00215299
+512	Dort steht die Polizei seit 6 Uhr und bleibt noch bis 9 Uhr.	Y	uhr	103	   40,252	0.0859	106	german_de_news_2013_00420871
+513	Es ist die Zeit um kurz nach 14 Uhr, als in Berlin nach und nach nichts mehr geht bei der S-Bahn.	Y	uhr	103	   40,252	0.0859	111.8947	german_de_news_2014_00466286
+514	Am 4. Dezember von 14 bis 21 Uhr, am 5. und 6. Dezember von 10 bis 19 Uhr.	Y	uhr	103	   40,252	0.0859	115.6667	german_de_news_2014_00041183
+515	Von Donnerstag bis Sonntag ist er fast rund um die Uhr im Einsatz.	Y	uhr	103	   40,252	0.0859	119.4615	german_de_news_2015_00867857
+516	Waren es vor drei Jahren noch 100 Kinder, sind es bis heute schon 350. Und es werden immer mehr.	Y	drei	104	   39,718	0.0848	73.3333	german_de_news_2013_00916750
+517	In zwei bis drei Jahren geht es hier richtig ab.	Y	drei	104	   39,718	0.0848	110.8	german_de_news_2013_00635312
+518	Das war bereits nach zwei bis drei Tagen der Fall.	Y	drei	104	   39,718	0.0848	112.5	german_de_news_2014_00209323
+519	Dies könnte so etwa in zwei bis drei Wochen der Fall sein.	Y	drei	104	   39,718	0.0848	113.25	german_de_news_2013_00384120
+520	Er kam auf 11,6 Punkte – mehr als drei Punkte vor dem Zweiten.	Y	drei	104	   39,718	0.0848	117.8	german_de_news_2014_00446619
+521	Ein Jahr später will er nun nur noch eines: Zurück nach Deutschland, und zwar so schnell wie möglich.	Y	eines	105	   39,702	0.0847	113.1111	german_de_news_2013_00449901
+522	Eines sei aber sicher: „Wir bringen das Thema hier zu Ende.	Y	eines	105	   39,702	0.0847	141.2727	german_de_news_2013_00443966
+523	Wie gesagt das zu tun ist eines, aber wenn du mit 20 anderen..	Y	eines	105	   39,702	0.0847	152.75	german_de_news_2014_00923081
+524	Hier sollte es nur um eines gehen, nämlich den Menschen.	Y	eines	105	   39,702	0.0847	156	german_de_news_2015_00534346
+525	Im nächsten Jahr soll dann eines der drei Geräte auf den Markt kommen.	Y	eines	105	   39,702	0.0847	171.8462	german_de_news_2013_00598883
+526	Das geht jetzt nicht mehr und es ist auch besser so.	Y	geht	106	   39,399	0.0841	57.8182	german_de_news_2013_00177589
+527	Uns geht es so gut, doch sie haben nicht viel.	Y	geht	106	   39,399	0.0841	67.1	german_de_news_2015_00847913
+528	Das geht aber nicht vom einen auf den anderen Tag.	Y	geht	106	   39,399	0.0841	69.3	german_de_news_2014_00175746
+529	Aber es geht nicht nur um Geld, sondern auch um Können.	Y	geht	106	   39,399	0.0841	72.8	german_de_news_2014_00012466
+530	Mir geht es so, wie es jetzt ist, sehr gut.	Y	geht	106	   39,399	0.0841	77.2222	german_de_news_2013_00695470
+531	Die Zukunft ist auch nicht mehr das, was sie mal war.	Y	mal	107	   39,272	0.0838	66.5455	german_de_news_2013_00407174
+532	Ab und zu wird er dann auch mal sehr deutlich!	Y	mal	107	   39,272	0.0838	70.3	german_de_news_2013_00021522
+533	«Es ist nicht immer alles einfach, aber so ist es nun mal».	Y	mal	107	   39,272	0.0838	75.4	german_de_news_2013_00492206
+534	Das ist nun mal so. Aber das muss man wissen.	Y	mal	107	   39,272	0.0838	87.1111	german_de_news_2013_00187908
+535	Ich war zum ersten Mal seit mehr als 30 Jahren so lange an Land.	Y	mal	107	   39,272	0.0838	87.2308	german_de_news_2013_00582214
+536	In den 1930er Jahren waren es noch mehr als 70 gewesen.	Y	waren	108	   38,697	0.0826	62.8	german_de_news_2015_00575452
+537	Vor einem Jahr waren es noch 579 Euro – 140 Euro mehr als derzeit.	Y	waren	108	   38,697	0.0826	69.3	german_de_news_2015_00874903
+538	Waren es vor drei Jahren noch 100 Kinder, sind es bis heute schon 350. Und es werden immer mehr.	Y	waren	108	   38,697	0.0826	73.3333	german_de_news_2013_00916750
+539	«Für immer zusammen, wie sie es auch im Leben immer waren!»	Y	waren	108	   38,697	0.0826	82.9	german_de_news_2015_00500238
+540	Zwei Jahre später waren es schon 21,7 und noch ein Jahr später dann gut 69 Millionen.	Y	waren	108	   38,697	0.0826	85.6923	german_de_news_2015_00960326
+541	Aber für diese Menschen gibt es kein Vor und kein Zurück.	Y	menschen	109	   38,168	0.0815	73.2	german_de_news_2015_00013691
+542	Die Welt ist gut, die Menschen,die in ihr leben nicht so sehr.	Y	menschen	109	   38,168	0.0815	78.8182	german_de_news_2015_00379864
+543	Es ist nun einmal so das nicht alle Menschen gleich sind.	Y	menschen	109	   38,168	0.0815	87.1818	german_de_news_2013_00492450
+544	Es gibt aber immer noch viel zu viele Menschen, die von dieser Entwicklung nichts haben.	Y	menschen	109	   38,168	0.0815	91.9333	german_de_news_2013_00485317
+545	Bei Menschen über 75 Jahren liegt sie bei bis zu zehn Prozent.	Y	menschen	109	   38,168	0.0815	93.1	german_de_news_2015_00108461
+546	Wenn wir gut sind, ist das noch nicht zu Ende.“	Y	gut	110	   38,061	0.0812	46.6	german_de_news_2015_00904560
+547	Uns geht es so gut, doch sie haben nicht viel.	Y	gut	110	   38,061	0.0812	67.1	german_de_news_2015_00847913
+548	Es kommt nicht gut, wenn man immer gegen alles ist.	Y	gut	110	   38,061	0.0812	71.4	german_de_news_2015_00465456
+549	Mir geht es so, wie es jetzt ist, sehr gut.	Y	gut	110	   38,061	0.0812	77.2222	german_de_news_2013_00695470
+550	Die Welt ist gut, die Menschen,die in ihr leben nicht so sehr.	Y	gut	110	   38,061	0.0812	78.8182	german_de_news_2015_00379864
+551	Aber das kann nicht alles sein, da gibt es noch viele mehr.	Y	viele	111	   37,976	0.081	58.5	german_de_news_2014_00010407
+552	Es sind zu viele, die es einfach nicht können – und es machen“, sagte er.	Y	viele	111	   37,976	0.081	60.8333	german_de_news_2013_00497575
+553	Viele wollen auch nicht das eine oder das andere sein.	Y	viele	111	   37,976	0.081	67.2222	german_de_news_2014_00870338
+554	Das ist nicht nur bei der Zeit so aber die Welt Bild und viele anderen sind da nicht besser.	Y	viele	111	   37,976	0.081	76.6111	german_de_news_2015_00184645
+555	Das waren 1,5 Prozent mehr als im Jahr 2011 und so viele wie nie zuvor.	Y	viele	111	   37,976	0.081	91.3077	german_de_news_2013_00214097
+556	So werden die Letzten die Ersten und die Ersten die Letzten sein.	Y	ersten	112	   37,816	0.0807	66	german_de_news_2015_00794318
+557	Ich war zum ersten Mal seit mehr als 30 Jahren so lange an Land.	Y	ersten	112	   37,816	0.0807	87.2308	german_de_news_2013_00582214
+558	Der 78-Jährige ist zum ersten Mal in seinem Leben in den USA.	Y	ersten	112	   37,816	0.0807	92.4545	german_de_news_2015_00233504
+559	So etwas kann man eben noch nicht im ersten Jahr.	Y	ersten	112	   37,816	0.0807	109.5	german_de_news_2013_00822158
+560	Nicht am ersten Tag, nicht am zweiten Tag, aber nach einer Woche.	Y	ersten	112	   37,816	0.0807	115.6667	german_de_news_2013_00736280
+561	Wie ist das denn jetzt: Wird es das nun auch in Deutschland geben?	Y	deutschland	113	   37,439	0.0799	62.8333	german_de_news_2013_00952966
+562	Aber es muss ja nicht schon wieder bei uns in Deutschland sein.	Y	deutschland	113	   37,439	0.0799	62.9167	german_de_news_2013_00014256
+563	Und das ist dann das Ende von Deutschland und Europa.	Y	deutschland	113	   37,439	0.0799	74.25	german_de_news_2013_00867851
+564	Ob es dann auch nach Deutschland kommen wird, ist noch nicht bekannt.	Y	deutschland	113	   37,439	0.0799	81.1667	german_de_news_2014_00719965
+565	In Deutschland und in der Schweiz ist das schon der Fall.	Y	deutschland	113	   37,439	0.0799	89.4444	german_de_news_2015_00584041
+566	Ich bin sicher, dass er noch nicht am Ende seiner Entwicklung ist.	Y	seiner	114	   37,113	0.0792	122.3333	german_de_news_2014_00547187
+567	Zu seiner eigenen Zukunft sagte er da aber noch nichts.	Y	seiner	114	   37,113	0.0792	124.5	german_de_news_2014_00963990
+568	Das ist eine der großen Fragen am Tag nach seiner Entscheidung.	Y	seiner	114	   37,113	0.0792	149	german_de_news_2015_00182693
+569	An seiner Stelle würde ich auch nicht mehr Trainer sein wollen.	Y	seiner	114	   37,113	0.0792	158.1818	german_de_news_2015_00058008
+570	Ich meine, wenn du zum Beispiel mit ihm über einer seiner..	Y	seiner	114	   37,113	0.0792	158.8182	german_de_news_2015_00549429
+571	Lag diese am 12. November noch bei 0,57 Prozent, so wurden es am 18. November 0,65 Prozent.	Y	wurden	115	   37,052	0.0791	158.5	german_de_news_2013_00665250
+572	Zwei Tore wurden es dann auch, nur nicht für sein Team.	Y	wurden	115	   37,052	0.0791	180.2727	german_de_news_2015_00961323
+573	Welt: Was hat sich seit 2005 verändert, dem Jahr als Sie zum Chef wurden?	Y	wurden	115	   37,052	0.0791	191.6154	german_de_news_2015_00896940
+574	Im vergangenen Jahr waren es noch 30. 720 Menschen wurden festgenommen, das sind 39 weniger als im vergangenen Jahr.	Y	wurden	115	   37,052	0.0791	192.6923	german_de_news_2014_00576521
+575	Und die haben noch nicht alle ein Smartphone. 2013 wurden in China rund 350 Millionen Smartphones verkauft, 2014 sollen es noch einmal 100 Millionen mehr sein.	Y	wurden	115	   37,052	0.0791	200.25	german_de_news_2014_00843246
+576	Das sind rund fünf Prozent mehr als noch vor einem Jahr.	Y	rund	116	   36,005	0.0768	64.7273	german_de_news_2013_00204844
+577	Von denen soll es in diesem Jahr rund 500 neue geben.	Y	rund	116	   36,005	0.0768	104.2	german_de_news_2014_00875980
+578	Sie könnte also dann für 2012 nur noch bei rund 78,5 Prozent liegen.	Y	rund	116	   36,005	0.0768	110.8182	german_de_news_2014_00781395
+579	Im vergangenen Jahr waren es rund 1,1 Millionen, davon mehr als 300.000 in China.	Y	rund	116	   36,005	0.0768	117.9167	german_de_news_2015_00570905
+580	Von Donnerstag bis Sonntag ist er fast rund um die Uhr im Einsatz.	Y	rund	116	   36,005	0.0768	119.4615	german_de_news_2015_00867857
+581	Im Jahr 2020 9 Millionen, 2030 10 Millionen und so weiter bis im Jahr 2060 auf 13 bis 14 Millionen.	Y	millionen	117	   36,002	0.0768	56.75	german_de_news_2014_00568822
+582	Das sind fast 3 Millionen Euro mehr als im letzten Jahr.	Y	millionen	117	   36,002	0.0768	82.2	german_de_news_2013_00204607
+583	Zwei Jahre später waren es schon 21,7 und noch ein Jahr später dann gut 69 Millionen.	Y	millionen	117	   36,002	0.0768	85.6923	german_de_news_2015_00960326
+584	Das waren 72 Millionen Euro oder 0,3 mehr als im Jahr zuvor.	Y	millionen	117	   36,002	0.0768	86.7	german_de_news_2014_00209970
+585	Das sind noch einmal vier Millionen mehr als am Mittwoch.	Y	millionen	117	   36,002	0.0768	95.2	german_de_news_2014_00201331
+586	Wie ist das denn jetzt: Wird es das nun auch in Deutschland geben?	Y	denn	118	   35,553	0.0759	62.8333	german_de_news_2013_00952966
+587	Denn mit 33 hat man nicht mehr alle Zeit der Welt.	Y	denn	118	   35,553	0.0759	67.7	german_de_news_2013_00232732
+588	Was hat denn das eine mit dem anderen zu tun?	Y	denn	118	   35,553	0.0759	76	german_de_news_2014_00894359
+589	Was macht Sie denn so sicher, dass dem dann nicht so ist?	Y	denn	118	   35,553	0.0759	81.7273	german_de_news_2013_00923025
+590	Denn wenn sie etwas machen, machen die Kinder das auch.	Y	denn	118	   35,553	0.0759	85	german_de_news_2015_00229337
+591	Wenn das dann nur nicht zu viel auf einmal ist.	Y	viel	119	   35,394	0.0755	51.6	german_de_news_2015_00898475
+592	Uns geht es so gut, doch sie haben nicht viel.	Y	viel	119	   35,394	0.0755	67.1	german_de_news_2015_00847913
+593	«Es war alles ein wenig zu viel», gibt er zu.	Y	viel	119	   35,394	0.0755	81.6667	german_de_news_2013_00498664
+594	Er zeigt aber auch, dass noch viel zu tun ist.	Y	viel	119	   35,394	0.0755	91	german_de_news_2015_00453149
+595	Es gibt aber immer noch viel zu viele Menschen, die von dieser Entwicklung nichts haben.	Y	viel	119	   35,394	0.0755	91.9333	german_de_news_2013_00485317
+596	Das ist immer so, wenn man einen neuen Film hat.	Y	neuen	120	   35,348	0.0754	107.6	german_de_news_2014_00184773
+597	Man muss ja auch wissen, was es mal für einen neuen Stand gibt.	Y	neuen	120	   35,348	0.0754	112.7692	german_de_news_2013_00682977
+598	Im neuen Jahr wird alles besser Das sollten Sie 2015 besser machen.	Y	neuen	120	   35,348	0.0754	117.3	german_de_news_2015_00567412
+599	Es scheint aber auch im neuen Deutschland genau so zu sein.	Y	neuen	120	   35,348	0.0754	117.6364	german_de_news_2014_00471212
+600	Bis zum neuen Jahr sind es noch ein paar Wochen hin.	Y	neuen	120	   35,348	0.0754	142.0909	german_de_news_2015_00125750
+601	Wie, das sagt sie nicht, auch nicht, wer WIR ist!	Y	sagt	121	   35,316	0.0754	47.6667	german_de_news_2015_00912544
+602	Auf das eine Jahr auf oder ab kommt es nicht an“, sagt er.	Y	sagt	121	   35,316	0.0754	53.5	german_de_news_2015_00080988
+603	Das sagt sich so leicht, aber ist es das auch?	Y	sagt	121	   35,316	0.0754	87.3333	german_de_news_2015_00196356
+604	Und doch gibt es einen, der sagt: „Für mich war es eine gute Woche.“	Y	sagt	121	   35,316	0.0754	90.1538	german_de_news_2015_00834722
+605	Aber mit den Fans ist es nicht immer einfach», sagt er.	Y	sagt	121	   35,316	0.0754	90.8182	german_de_news_2015_00015698
+606	Aber die Welt ist nicht in uns, wir sind in der Welt.	Y	uns	122	   35,148	0.075	45.7	german_de_news_2015_00012319
+607	Aber es muss ja nicht schon wieder bei uns in Deutschland sein.	Y	uns	122	   35,148	0.075	62.9167	german_de_news_2013_00014256
+608	Uns geht es so gut, doch sie haben nicht viel.	Y	uns	122	   35,148	0.075	67.1	german_de_news_2015_00847913
+609	Oder: „Machen wir es uns nicht zu einfach, wenn wir.	Y	uns	122	   35,148	0.075	75	german_de_news_2013_00755547
+610	Wenn für uns was möglich sein wird, werden wir da sein.“	Y	uns	122	   35,148	0.075	80.2	german_de_news_2014_00909257
+611	Können sie so was auch gegen die US-Regierung schreiben?	Y	us	123	   34,826	0.0743	105.9	german_de_news_2015_00624939
+612	Sie meinen wohl vor 40 Jahren - aber die US-Politik war schon immer so, auch vor 50 und mehr Jahren und heute ist sie es noch immer.	Y	us	123	   34,826	0.0743	114.85	german_de_news_2013_00811474
+613	Das Unternehmen geht von bis zu 39 Mio. US-Dollar aus.	Y	us	123	   34,826	0.0743	124.8	german_de_news_2013_00210812
+614	Das ganze soll ab Anfang 2016 zu haben sein und nur 9 US-Dollar kosten.	Y	us	123	   34,826	0.0743	147.5385	german_de_news_2015_00174474
+615	Vor einem Jahr waren es noch lediglich 1,21 Milliarden US-Dollar.	Y	us	123	   34,826	0.0743	158.1	german_de_news_2014_00883856
+616	Und wie wurde er zu dem, der er heute ist?	Y	heute	124	   34,466	0.0736	31.5556	german_de_news_2014_00853870
+617	Das ist heute so und das war vor 25 Jahren so!	Y	heute	124	   34,466	0.0736	45.25	german_de_news_2015_00183769
+618	Waren es vor drei Jahren noch 100 Kinder, sind es bis heute schon 350. Und es werden immer mehr.	Y	heute	124	   34,466	0.0736	73.3333	german_de_news_2013_00916750
+619	Und das ist schon sehr wichtig für uns alle, die wir heute am Leben sind!	Y	heute	124	   34,466	0.0736	90.1333	german_de_news_2013_00867990
+620	Aber ich habe hier 2009 verloren und es war nicht das Ende und ich habe heute verloren und es ist auch nicht das Ende.	Y	heute	124	   34,466	0.0736	90.5	german_de_news_2015_00014313
+621	Sie hat das so weil das war so vor zwei Jahren in und so..	Y	weil	125	   33,895	0.0723	43.9091	german_de_news_2013_00808116
+622	Nur weil etwas immer so war, muss es nicht auch immer so bleiben.	Y	weil	125	   33,895	0.0723	88.0909	german_de_news_2014_00717232
+623	Und der heißt nun mal so, ohne von und zu, weil das gibt es bei Ihnen in Österreich nicht.	Y	weil	125	   33,895	0.0723	95.5	german_de_news_2014_00842500
+624	So, so, dieses Jahr und dann nicht mehr - wohl weil kein Geld mehr da ist?	Y	weil	125	   33,895	0.0723	95.8462	german_de_news_2015_00792548
+625	Dieses Geld werden wir nicht geben, weil wir es nicht haben.	Y	weil	125	   33,895	0.0723	100.2222	german_de_news_2015_00358093
+626	Er soll dabei verletzt worden sein oder sich selbst verletzt haben.	Y	worden	126	   33,691	0.0719	114.1	german_de_news_2014_00450694
+627	Zudem sollen 50 bis zu mehr als 100 Menschen verletzt worden sein.	Y	worden	126	   33,691	0.0719	129.6	german_de_news_2015_00944436
+628	Wir sind einfach nur von einem Ort zum anderen gebracht worden.	Y	worden	126	   33,691	0.0719	165.4545	german_de_news_2014_00936563
+629	Wirklich viele Informationen sind in den vergangenen Monaten noch nicht veröffentlicht worden.	Y	worden	126	   33,691	0.0719	201	german_de_news_2014_00934065
+630	Schließlich sei doch schon alles gesagt worden, eben nur nicht von ihm.	Y	worden	126	   33,691	0.0719	205.3333	german_de_news_2013_00785131
+631	Und es ist bei diesem Thema doch wie bei so vielen anderen auch.	Y	diesem	127	   33,663	0.0718	90.0833	german_de_news_2014_00845394
+632	In diesem Jahr waren es schon viele - Ende November mehr als 180 000 -, und 2015 sollen es noch mehr werden.	Y	diesem	127	   33,663	0.0718	92.1333	german_de_news_2014_00590389
+633	Das Land gibt seit diesem Jahr 5,2 Millionen Euro, 2013 waren es noch 8,1 Millionen Euro gewesen.	Y	diesem	127	   33,663	0.0718	100.25	german_de_news_2014_00189490
+634	Und jeder weiß: In diesem Jahr werden es noch mehr.	Y	diesem	127	   33,663	0.0718	104.1	german_de_news_2015_00838138
+635	Von denen soll es in diesem Jahr rund 500 neue geben.	Y	diesem	127	   33,663	0.0718	104.2	german_de_news_2014_00875980
+636	Im Jahr 2020 9 Millionen, 2030 10 Millionen und so weiter bis im Jahr 2060 auf 13 bis 14 Millionen.	Y	weiter	128	   33,248	0.071	56.75	german_de_news_2014_00568822
+637	Ja, Sie in der Schweiz sind da schon ein wenig weiter als wir in Deutschland.	Y	weiter	128	   33,248	0.071	93.1429	german_de_news_2013_00640935
+638	Der Weg ist etwas weiter als von der SPD zu uns	Y	weiter	128	   33,248	0.071	98.2	german_de_news_2013_00288763
+639	Das ist eine Zeit, um weiter zu führen», sagte er.	Y	weiter	128	   33,248	0.071	107.6	german_de_news_2013_00186067
+640	Aber viel weiter sind wir noch nicht gekommen“, sagte er weiter.	Y	weiter	128	   33,248	0.071	108.3	german_de_news_2015_00017567
+641	Bis in die 60er-Jahre sei das noch so gewesen.	Y	jahre	129	   33,173	0.0708	63.5	german_de_news_2014_00124540
+642	Zwei Jahre später waren es schon 21,7 und noch ein Jahr später dann gut 69 Millionen.	Y	jahre	129	   33,173	0.0708	85.6923	german_de_news_2015_00960326
+643	Dies ist seit Ende der 1930er Jahre nicht mehr der Fall.	Y	jahre	129	   33,173	0.0708	87.2	german_de_news_2013_00383700
+644	Wir haben aber nur Geld, das alle fünf Jahre machen zu lassen.	Y	jahre	129	   33,173	0.0708	96.75	german_de_news_2015_00923753
+645	So gibt es viele U 12er, die schon mehr als fünf Jahre dabei sind.	Y	jahre	129	   33,173	0.0708	103.7143	german_de_news_2013_00823401
+646	Es ist, wie es ist - und wir müssen damit leben.	Y	müssen	130	   33,070	0.0706	65.75	german_de_news_2015_00464695
+647	DIE müssen dies und das und alles, und WIR müssen nichts!	Y	müssen	130	   33,070	0.0706	87.5	german_de_news_2014_00337802
+648	Das ist alles was wir tun können aber auch müssen.	Y	müssen	130	   33,070	0.0706	88.6	german_de_news_2013_00184390
+649	Und dann gibt es da noch ein Thema, das eigentlich schon hätte durch sein müssen.	Y	müssen	130	   33,070	0.0706	97.7333	german_de_news_2013_00866842
+650	Die sagen dann: Das sind doch alles Menschen, da müssen wir was machen.	Y	müssen	130	   33,070	0.0706	99.3077	german_de_news_2015_00347755
+651	Aber es ist ja immer so, das man sich selbst am nächsten ist.	Y	selbst	131	   32,670	0.0697	75.5	german_de_news_2013_00014103
+652	Da müssen die selbst mal was tun wie wir hier.	Y	selbst	131	   32,670	0.0697	104.5	german_de_news_2014_00155327
+653	Er soll dabei verletzt worden sein oder sich selbst verletzt haben.	Y	selbst	131	   32,670	0.0697	114.1	german_de_news_2014_00450694
+654	Oder bin ich nur das, was ich selbst von mir weiß?	Y	selbst	131	   32,670	0.0697	119.1	german_de_news_2015_00713941
+655	Der 59-Jährige selbst sagte nach der Wahl: «Wir wollen nicht in die Regierung.»	Y	selbst	131	   32,670	0.0697	124.25	german_de_news_2013_00239706
+656	Denn mit 33 hat man nicht mehr alle Zeit der Welt.	Y	zeit	132	   32,495	0.0693	67.7	german_de_news_2013_00232732
+657	Das ist nicht nur bei der Zeit so aber die Welt Bild und viele anderen sind da nicht besser.	Y	zeit	132	   32,495	0.0693	76.6111	german_de_news_2015_00184645
+658	Es wird Zeit das was gemacht wird und wenn es dieser Weg ist auch gut.	Y	zeit	132	   32,495	0.0693	81.3846	german_de_news_2015_00472521
+659	Das war er schon mal. Was hat er in der Zeit noch gleich gemacht?	Y	zeit	132	   32,495	0.0693	90	german_de_news_2013_00214293
+660	Es ist nicht mehr viel Zeit, das ist das Problem.	Y	zeit	132	   32,495	0.0693	94.125	german_de_news_2015_00463623
+661	Das sind zwischen 23 und 30 Prozent weniger als es derzeit sind.	Y	zwischen	133	   32,179	0.0687	83	german_de_news_2015_00200901
+662	Am 13. Oktober zwischen 13 und 18 Uhr ist es wieder so weit.	Y	zwischen	133	   32,179	0.0687	125.5	german_de_news_2013_00041849
+663	Morgen sind wir ab 15.15 Uhr mit dem Spiel zwischen Österreich und Deutschland weiter.	Y	zwischen	133	   32,179	0.0687	162.2308	german_de_news_2013_00711813
+664	Zwischen März 2010 und Juli 2012 ist fünf Mal die Polizei bei ihm.	Y	zwischen	133	   32,179	0.0687	166.5455	german_de_news_2015_00962039
+665	Bei Kindern zwischen sechs und zehn Jahren sind es allerdings schon 75 Prozent.	Y	zwischen	133	   32,179	0.0687	174.1667	german_de_news_2014_00107543
+666	Denn ohne Sie wäre er heute nicht da wo er ist.	Y	ohne	134	   32,032	0.0684	91.2	german_de_news_2015_00228457
+667	Wer nicht da ist, zeigt, dass es auch ohne ihn geht.	Y	ohne	134	   32,032	0.0684	93.7273	german_de_news_2014_00916412
+668	Und der heißt nun mal so, ohne von und zu, weil das gibt es bei Ihnen in Österreich nicht.	Y	ohne	134	   32,032	0.0684	95.5	german_de_news_2014_00842500
+669	Ohne zu wissen, ob ihre Kinder noch am Leben sind.	Y	ohne	134	   32,032	0.0684	126.2	german_de_news_2015_00717921
+670	Und es darf dann nur eine Antwort geben, ohne wenn und aber.	Y	ohne	134	   32,032	0.0684	128.9091	german_de_news_2013_00872575
+671	Wenn wir gut sind, ist das noch nicht zu Ende.“	Y	ende	135	   31,146	0.0665	46.6	german_de_news_2015_00904560
+672	Es ist nicht das Ende der Welt, aber das Ende einer Welt.	Y	ende	135	   31,146	0.0665	49.3333	german_de_news_2013_00492104
+673	Damit ist auch der EURO und die EU am Ende!	Y	ende	135	   31,146	0.0665	51.5	german_de_news_2014_00152370
+674	Und ich bin auch schon seit Ende der 80er dabei.	Y	ende	135	   31,146	0.0665	72.9	german_de_news_2015_00837107
+675	Und das ist dann das Ende von Deutschland und Europa.	Y	ende	135	   31,146	0.0665	74.25	german_de_news_2013_00867851
+676	Einmal wird der 38-Jährige allerdings noch auf dem Platz stehen.	Y	allerdings	136	   30,881	0.0659	104.8	german_de_news_2013_00451357
+677	An diese Daten zu kommen, ist allerdings nicht so einfach.	Y	allerdings	136	   30,881	0.0659	107.5	german_de_news_2014_00052083
+678	Ganz so einfach ist es auf den zweiten Blick allerdings nicht.	Y	allerdings	136	   30,881	0.0659	116.9091	german_de_news_2015_00504898
+679	Was allerdings nicht so schwer war“, sagt der heute 37-Jährige.	Y	allerdings	136	   30,881	0.0659	117.6	german_de_news_2013_00918904
+680	Von denen es in der letzten Zeit allerdings mehrere gab und gibt.	Y	allerdings	136	   30,881	0.0659	121.9167	german_de_news_2013_00903217
+681	Er war gerade dabei, seinen Platz bei Bayern München zu finden.	Y	seinen	137	   30,756	0.0656	168.8182	german_de_news_2015_00451131
+682	Um seinen Kommentar geht es in der News doch gar nicht.	Y	seinen	137	   30,756	0.0656	170.6364	german_de_news_2015_00827166
+683	Dafür muss aber jeder bereit sein, seinen Teil zu geben.	Y	seinen	137	   30,756	0.0656	198.6	german_de_news_2013_00146032
+684	Und dass er sich hinter seinen Spieler Stelle, ist ja wohl klar und auch richtig.	Y	seinen	137	   30,756	0.0656	201.1429	german_de_news_2013_00868549
+685	Wir wollen die besten Leute, und das hat eben seinen Preis.	Y	seinen	137	   30,756	0.0656	211.0909	german_de_news_2013_00969957
+686	Ob man nicht kann oder nicht will, das ist dann eine andere Frage.	Y	ob	138	   30,569	0.0652	78.9167	german_de_news_2014_00720476
+687	Ob es dann auch nach Deutschland kommen wird, ist noch nicht bekannt.	Y	ob	138	   30,569	0.0652	81.1667	german_de_news_2014_00719965
+688	Aber sie werden es tun, ob wir wollen oder nicht.	Y	ob	138	   30,569	0.0652	87.7	german_de_news_2013_00018008
+689	Jetzt muss man sich fragen, ob das heute auch so ist.	Y	ob	138	   30,569	0.0652	92.4545	german_de_news_2013_00646501
+690	Es ist aber nicht klar, ob das viel oder wenig ist.	Y	ob	138	   30,569	0.0652	96.9	german_de_news_2015_00460659
+691	Aber was nicht war und ist, könnte ja noch werden.	Y	ja	139	   30,312	0.0647	55	german_de_news_2014_00017114
+692	Aber es muss ja nicht schon wieder bei uns in Deutschland sein.	Y	ja	139	   30,312	0.0647	62.9167	german_de_news_2013_00014256
+693	Auf dem Land ist das ja so aber in einer Stadt.	Y	ja	139	   30,312	0.0647	66.7273	german_de_news_2014_00080822
+694	Aber in den USA kann man so was ja machen.	Y	ja	139	   30,312	0.0647	73.1	german_de_news_2015_00014774
+695	Und es ist ja nun nicht so, dass es diese nicht geben würde.	Y	ja	139	   30,312	0.0647	74.3636	german_de_news_2013_00872799
+696	Und ich war erst 34, so dass die „will ich noch Kinder?	Y	erst	140	   30,226	0.0645	69.7	german_de_news_2013_00874517
+697	Und diese Kinder kommen nicht erst. Sie sind schon da.	Y	erst	140	   30,226	0.0645	87.8	german_de_news_2014_00843706
+698	'Wir sind erst bei einem Prozent davon, was möglich ist.'	Y	erst	140	   30,226	0.0645	93.5	german_de_news_2013_00966859
+699	Jetzt will ich das aber erst ab Seite 2 so haben.	Y	erst	140	   30,226	0.0645	94.3	german_de_news_2013_00647315
+700	Ist die Mannschaft dann erst bei 70%, ist man auch nicht da, wo man sein will :).	Y	erst	140	   30,226	0.0645	97	german_de_news_2015_00602490
+701	Das sind etwas weniger als 2011 (48,5 Prozent) und etwas mehr als 2007 mit 48,3 Prozent.	Y	etwas	141	   30,178	0.0644	63	german_de_news_2015_00200522
+702	Denn wenn sie etwas machen, machen die Kinder das auch.	Y	etwas	141	   30,178	0.0644	85	german_de_news_2015_00229337
+703	Für diesen Fall haben wir auch noch etwas für Sie.	Y	etwas	141	   30,178	0.0644	86.2222	german_de_news_2014_00503225
+704	Nur weil etwas immer so war, muss es nicht auch immer so bleiben.	Y	etwas	141	   30,178	0.0644	88.0909	german_de_news_2014_00717232
+705	Der Weg ist etwas weiter als von der SPD zu uns	Y	etwas	141	   30,178	0.0644	98.2	german_de_news_2013_00288763
+706	Das geht aber nicht vom einen auf den anderen Tag.	Y	anderen	142	   29,919	0.0638	69.3	german_de_news_2014_00175746
+707	Was hat denn das eine mit dem anderen zu tun?	Y	anderen	142	   29,919	0.0638	76	german_de_news_2014_00894359
+708	Das ist nicht nur bei der Zeit so aber die Welt Bild und viele anderen sind da nicht besser.	Y	anderen	142	   29,919	0.0638	76.6111	german_de_news_2015_00184645
+709	Das eine hat doch mit dem anderen nichts zu tun!	Y	anderen	142	   29,919	0.0638	83.5	german_de_news_2015_00170617
+710	Und natürlich auch die Frage: Wie geht es den anderen?	Y	anderen	142	   29,919	0.0638	86.8	german_de_news_2013_00876664
+711	Dies könnte so etwa in zwei bis drei Wochen der Fall sein.	Y	etwa	143	   29,839	0.0637	113.25	german_de_news_2013_00384120
+712	Doch nicht etwa von einem Mann, sondern von zwei anderen Frauen!	Y	etwa	143	   29,839	0.0637	120.1	german_de_news_2015_00391886
+713	So in etwa: „Wenn ich schon mehr zu sagen hätte, wäre alles besser.	Y	etwa	143	   29,839	0.0637	127.0769	german_de_news_2014_00794787
+714	Etwa so. In der Schweiz gibt es rund 4,3 Millionen Leute, die arbeiten oder arbeiten wollen.	Y	etwa	143	   29,839	0.0637	140.3571	german_de_news_2013_00503396
+715	Diese sollen offenbar nicht mehr als etwa vier bis fünf Euro kosten.	Y	etwa	143	   29,839	0.0637	146.3333	german_de_news_2015_00358777
+716	«Gut ist, dass wir immer wieder gut ins Spiel gefunden haben.»	Y	ins	144	   29,344	0.0626	142.2	german_de_news_2013_00549967
+717	Aber immer wieder schön zu sehen das sie sich selbst ins..	Y	ins	144	   29,344	0.0626	148.2727	german_de_news_2014_00014122
+718	Ich kann dazu nichts sagen wie es zu ihm ins Auto gekommen ist, weiß ich nicht.	Y	ins	144	   29,344	0.0626	169.8	german_de_news_2015_00548164
+719	Selbst dann, wenn sie erst mal nicht direkt hinter uns ins Ziel kommen.	Y	ins	144	   29,344	0.0626	170.1538	german_de_news_2015_00762802
+720	Es ging immer der ins Tor, der nicht mehr konnte.	Y	ins	144	   29,344	0.0626	171.6667	german_de_news_2014_00463998
+721	Wenn einer wie er geht, geht er natürlich nicht ganz.	Y	ganz	145	   29,256	0.0624	87	german_de_news_2015_00900129
+722	Ganz einfach, weil man das hier schon immer so gemacht hat.	Y	ganz	145	   29,256	0.0624	102.4545	german_de_news_2015_00504525
+723	Es gibt aber auch Menschen, die das ganz anders sehen.	Y	ganz	145	   29,256	0.0624	103.2	german_de_news_2014_00461898
+724	Er ist für mich einer der ganz großen Trainer in Europa.	Y	ganz	145	   29,256	0.0624	112.6364	german_de_news_2013_00468576
+725	Aber ganz so einfach wurde es in der Folge nicht.	Y	ganz	145	   29,256	0.0624	113	german_de_news_2014_00013202
+726	Und ich will, dass wir noch mehr unternehmen, auch in Europa.	Y	unternehmen	146	   28,755	0.0614	66.3636	german_de_news_2013_00874558
+727	Zum einen, um die Unternehmen in der Stadt zu halten.	Y	unternehmen	146	   28,755	0.0614	89.6	german_de_news_2015_00950870
+728	Wir wollen es besser machen als 2012 und werden alles unternehmen, um unter die Top 3 zu kommen.	Y	unternehmen	146	   28,755	0.0614	123.6875	german_de_news_2013_00970058
+729	Das Unternehmen geht von bis zu 39 Mio. US-Dollar aus.	Y	unternehmen	146	   28,755	0.0614	124.8	german_de_news_2013_00210812
+730	Selbst für das Unternehmen ist er derzeit nicht zu erreichen.	Y	unternehmen	146	   28,755	0.0614	130.6	german_de_news_2014_00771888
+731	Aber ich kann das nicht machen, ich kann es nicht.“	Y	machen	147	   28,435	0.0607	45.8571	german_de_news_2013_00015366
+732	Es sind zu viele, die es einfach nicht können – und es machen“, sagte er.	Y	machen	147	   28,435	0.0607	60.8333	german_de_news_2013_00497575
+733	Wenn sie es nicht wollen, dann machen wir es nicht.	Y	machen	147	   28,435	0.0607	67.25	german_de_news_2014_00911898
+734	Aber in den USA kann man so was ja machen.	Y	machen	147	   28,435	0.0607	73.1	german_de_news_2015_00014774
+735	Oder: „Machen wir es uns nicht zu einfach, wenn wir.	Y	machen	147	   28,435	0.0607	75	german_de_news_2013_00755547
+736	Aber für diese Menschen gibt es kein Vor und kein Zurück.	Y	kein	148	   27,877	0.0595	73.2	german_de_news_2015_00013691
+737	Und wenn man es kann, ist es auch kein Problem.	Y	kein	148	   27,877	0.0595	85	german_de_news_2015_00843704
+738	So, so, dieses Jahr und dann nicht mehr - wohl weil kein Geld mehr da ist?	Y	kein	148	   27,877	0.0595	95.8462	german_de_news_2015_00792548
+739	Aber es ist für mich kein Problem, hier zu sein.	Y	kein	148	   27,877	0.0595	96.2	german_de_news_2014_00012709
+740	Sie hatte eine neue Familie, für uns war kein Platz.	Y	kein	148	   27,877	0.0595	122.2	german_de_news_2015_00770296
+741	Jetzt wissen sie mal wie es ihren „Kunden“ so geht.	Y	ihren	149	   27,814	0.0594	123.8	german_de_news_2013_00647450
+742	Ein Leben für und mit der Familie habe es für ihren Mann nicht gegeben.	Y	ihren	149	   27,814	0.0594	125.3077	german_de_news_2014_00427460
+743	Wie viele von ihnen werden ihren Weg auf den Markt finden?	Y	ihren	149	   27,814	0.0594	133.5455	german_de_news_2013_00956784
+744	Die Frau hatte gegen 6.00 Uhr ihren Mann in die Arbeit gebracht.	Y	ihren	149	   27,814	0.0594	176.3	german_de_news_2013_00330152
+745	Aber sie ist sicher, dass sie ihren Job auch machen würde, wenn sie Kinder hätte.	Y	ihren	149	   27,814	0.0594	199.6154	german_de_news_2014_00016123
+746	Und wir sind wie die Deutschen – aber hier auch nur wie die guten.	Y	deutschen	150	   27,794	0.0593	95.1818	german_de_news_2015_00844712
+747	Für ihn war es so, für die meisten Deutschen nicht.	Y	deutschen	150	   27,794	0.0593	98.6667	german_de_news_2015_00500108
+748	Alles sei gut bei der Deutschen Bank, auch wenn nichts gut sei.	Y	deutschen	150	   27,794	0.0593	113.5	german_de_news_2015_00032469
+749	Was immer die Deutschen sagen, am Ende werden sie immer zahlen.	Y	deutschen	150	   27,794	0.0593	120.9	german_de_news_2015_00886500
+750	Von da an war dem Deutschen die Führung nicht mehr zu nehmen.	Y	deutschen	150	   27,794	0.0593	131.5	german_de_news_2015_00866371
+751	Aber so sicher ist es auch dort nicht mehr wie auch schon.	Y	dort	151	   27,779	0.0593	69.2727	german_de_news_2014_00016399
+752	Sie sind aber noch nicht dort, wo wir sie haben wollen.	Y	dort	151	   27,779	0.0593	75.8	german_de_news_2014_00784101
+753	Aber das ist das Problem: Es sind die Menschen, die dort leben.	Y	dort	151	   27,779	0.0593	96.3	german_de_news_2015_00010760
+754	Dort steht die Polizei seit 6 Uhr und bleibt noch bis 9 Uhr.	Y	dort	151	   27,779	0.0593	106	german_de_news_2013_00420871
+755	Dann sagt er noch: „Wissen Sie, ich hatte immer eine gute Zeit dort!	Y	dort	151	   27,779	0.0593	110.6923	german_de_news_2014_00159780
+756	Die Welt: Nach allem, was so über Sie zu lesen ist.	Y	allem	152	   27,768	0.0593	117.8182	german_de_news_2015_00379930
+757	Vor allem weil es so knapp war, da will man in der nächsten Saison noch besser ein.	Y	allem	152	   27,768	0.0593	118.1176	german_de_news_2015_00873239
+758	Aber es liegt vor allem an uns – sie nehmen nur, was wir ihnen geben.	Y	allem	152	   27,768	0.0593	121.5	german_de_news_2013_00014238
+759	An der SPD und vor allem an den Grünen liegt es nicht.	Y	allem	152	   27,768	0.0593	123.1818	german_de_news_2013_00054692
+760	Doch die große Frage bleibt, für wie lange und vor allem wo?	Y	allem	152	   27,768	0.0593	129.5	german_de_news_2015_00388432
+761	Mehr muss und kann man dazu eigentlich auch nicht sagen.	Y	dazu	153	   27,555	0.0588	111.9	german_de_news_2015_00653831
+762	Wenn es etwas dazu zu sagen gibt, werden wir das tun.“	Y	dazu	153	   27,555	0.0588	114.7273	german_de_news_2013_00936427
+763	Und warum tun Sie nicht dazu, was Sie tun können?	Y	dazu	153	   27,555	0.0588	126.375	german_de_news_2015_00842595
+764	Politik ist dazu da, das Leben der Menschen besser zu machen.	Y	dazu	153	   27,555	0.0588	126.9091	german_de_news_2014_00735165
+765	Ich weiß nicht, was ich dazu sagen soll, was sie machen werden.	Y	dazu	153	   27,555	0.0588	132.3	german_de_news_2015_00552096
+766	Im Jahr darauf sollen es 85 Prozent (7,22 Euro) sein, von 2017 an dann 8,50 Euro.	Y	sollen	154	   27,451	0.0586	73.8182	german_de_news_2015_00563438
+767	In diesem Jahr waren es schon viele - Ende November mehr als 180 000 -, und 2015 sollen es noch mehr werden.	Y	sollen	154	   27,451	0.0586	92.1333	german_de_news_2014_00590389
+768	Das geht eigentlich nicht, aber was sollen wir machen?, sagt er.	Y	sollen	154	   27,451	0.0586	93.1818	german_de_news_2014_00176004
+769	Sie wissen jedoch nicht, was und wie sie das machen sollen.	Y	sollen	154	   27,451	0.0586	98.4	german_de_news_2013_00817434
+770	Und sie sollen so sicher sein, wie keine vor ihnen.	Y	sollen	154	   27,451	0.0586	98.6	german_de_news_2014_00850437
+771	Aber das kann nicht alles sein, da gibt es noch viele mehr.	Y	alles	155	   27,419	0.0585	58.5	german_de_news_2014_00010407
+772	Wie auch immer, das ist alles hätte, wenn und aber.	Y	alles	155	   27,419	0.0585	65.3	german_de_news_2015_00911770
+773	Es kommt nicht gut, wenn man immer gegen alles ist.	Y	alles	155	   27,419	0.0585	71.4	german_de_news_2015_00465456
+774	«Es ist nicht immer alles einfach, aber so ist es nun mal».	Y	alles	155	   27,419	0.0585	75.4	german_de_news_2013_00492206
+775	«Es war alles ein wenig zu viel», gibt er zu.	Y	alles	155	   27,419	0.0585	81.6667	german_de_news_2013_00498664
+776	Wie, das sagt sie nicht, auch nicht, wer WIR ist!	Y	wer	156	   27,397	0.0585	47.6667	german_de_news_2015_00912544
+777	Wer nicht da ist, zeigt, dass es auch ohne ihn geht.	Y	wer	156	   27,397	0.0585	93.7273	german_de_news_2014_00916412
+778	Es geht nicht nur um die Frage, wer Recht hat.	Y	wer	156	   27,397	0.0585	103.6	german_de_news_2015_00456638
+779	«Wer sagt denn, dass ich weg will oder weg muss?»	Y	wer	156	   27,397	0.0585	104.1111	german_de_news_2014_00916682
+780	Aber wer das Spiel nicht mehr hat (oder nie hatte), warum nicht?	Y	wer	156	   27,397	0.0585	113.5455	german_de_news_2015_00018282
+781	Das hier ist nicht der Ort dafür, auch nicht die Zeit.	Y	dafür	157	   26,915	0.0574	98.9	german_de_news_2013_00182646
+782	So lange das aber nicht so ist, gebe ich dafür auch kein Geld aus.	Y	dafür	157	   26,915	0.0574	127.1538	german_de_news_2015_00786986
+783	Das sei eine wichtige Zeit, und vor allem sei es das letzte mal für viele Jahre dass wir dafür Zeit haben werden.	Y	dafür	157	   26,915	0.0574	141.7895	german_de_news_2013_00202602
+784	Am Ende sehen wir was wir alles dafür nehmen können.”	Y	dafür	157	   26,915	0.0574	146.3333	german_de_news_2014_00043544
+785	Dafür waren die ersten 45 Minuten am Samstag nur ein Beispiel.	Y	dafür	157	   26,915	0.0574	150.8	german_de_news_2013_00146652
+786	Jetzt steht er auf und macht sich an die Arbeit.	Y	steht	158	   26,577	0.0567	88.5	german_de_news_2014_00616863
+787	Dort steht die Polizei seit 6 Uhr und bleibt noch bis 9 Uhr.	Y	steht	158	   26,577	0.0567	106	german_de_news_2013_00420871
+788	Wenn dem so sein sollte, steht Russland vor dem Ende.	Y	steht	158	   26,577	0.0567	111	german_de_news_2014_00906976
+789	Und dann steht da noch, ihr Leben sei Arbeit gewesen.	Y	steht	158	   26,577	0.0567	134.4	german_de_news_2013_00867165
+790	Sie steht auf der Straße, sie weiß nicht mehr, wo sie ist.	Y	steht	158	   26,577	0.0567	135.8	german_de_news_2015_00776663
+791	Er kommt nicht wegen seiner großen Geschichte zurück, sondern weil er noch mehr Geschichte schreiben will.	Y	wegen	159	   26,572	0.0567	164.5	german_de_news_2014_00447056
+792	Oder wegen dem Fall?) Auf dem Boden (Auf den Boden?	Y	wegen	159	   26,572	0.0567	202.2857	german_de_news_2014_00723278
+793	Aber wir sind wegen der WM hier und nicht, um Party zu machen.	Y	wegen	159	   26,572	0.0567	219.6923	german_de_news_2014_00018063
+794	Die Angst, wegen ihr noch einmal verlassen zu werden, ist zu groß.	Y	wegen	159	   26,572	0.0567	252.4545	german_de_news_2013_00302094
+795	Viele wählen aber wegen der CSU, die ja nur in Bayern ist, die CDU.	Y	wegen	159	   26,572	0.0567	258.3846	german_de_news_2014_00870263
+796	In Deutschland gibt es bereits vier von ihnen, weitere sollen folgen.	Y	weitere	160	   26,419	0.0564	138.9091	german_de_news_2014_00589241
+797	Nach anderen Informationen sollen 4 000 bis Ende 2013 und weitere 11 000 bis Ende 2014 gehen.	Y	weitere	160	   26,419	0.0564	146.8889	german_de_news_2013_00715386
+798	Zwei weitere sollen im Jahr 2015 in Deutschland und Frankreich folgen.	Y	weitere	160	   26,419	0.0564	172.2	german_de_news_2014_00968582
+799	Weitere sollen zwar folgen, doch davon ist bisher nichts zu sehen.	Y	weitere	160	   26,419	0.0564	178.5455	german_de_news_2015_00894724
+800	Antwort schreiben weitere Kommentare (10) Was haben es die SCHWEIZER doch so gut!	Y	weitere	160	   26,419	0.0564	199.75	german_de_news_2014_00060504
+801	Vor einem Jahr war sie schon einmal mit ihrer Tochter hier, auch damals war es knapp.	Y	ihrer	161	   26,418	0.0564	154.2	german_de_news_2014_00883863
+802	Die meisten von ihnen sind immer noch in ihrer Hand.	Y	ihrer	161	   26,418	0.0564	161.9	german_de_news_2013_00352772
+803	Immer geht es um Menschen, die etwas vom Leben wollen und nach ihrer Chance suchen.	Y	ihrer	161	   26,418	0.0564	177.2	german_de_news_2014_00570741
+804	Dann wird es ja wohl keine Probleme mit ihrer Rolle geben.	Y	ihrer	161	   26,418	0.0564	177.8182	german_de_news_2013_00161704
+805	Leider ist es nicht so. Welt: Wie ist es denn aus Ihrer Sicht?	Y	ihrer	161	   26,418	0.0564	186.1818	german_de_news_2014_00642671
+806	Auf das eine Jahr auf oder ab kommt es nicht an“, sagt er.	Y	kommt	162	   26,396	0.0563	53.5	german_de_news_2015_00080988
+807	Es kommt nicht gut, wenn man immer gegen alles ist.	Y	kommt	162	   26,396	0.0563	71.4	german_de_news_2015_00465456
+808	Und wenn Sie noch keine haben, seien Sie sicher: Sie kommt noch.	Y	kommt	162	   26,396	0.0563	101.1111	german_de_news_2014_00853203
+809	Er kommt nur noch zu mir, wenn er was hat oder wenn er was möchte.	Y	kommt	162	   26,396	0.0563	103.9091	german_de_news_2014_00447058
+810	Er habe immer wieder klar gemacht, dass das für ihn «nicht in Frage kommt», sagte er.	Y	kommt	162	   26,396	0.0563	107.6667	german_de_news_2013_00465515
+811	Viele wollen auch nicht das eine oder das andere sein.	Y	andere	163	   26,393	0.0563	67.2222	german_de_news_2014_00870338
+812	Haben wir für das eine oder für das andere Geld?	Y	andere	163	   26,393	0.0563	70.5	german_de_news_2013_00550946
+813	Ob man nicht kann oder nicht will, das ist dann eine andere Frage.	Y	andere	163	   26,393	0.0563	78.9167	german_de_news_2014_00720476
+814	Das ist wirklich eine andere Welt, wie aus einer anderen Zeit.	Y	andere	163	   26,393	0.0563	98.2727	german_de_news_2015_00185558
+815	So jeder will immer andere Frau haben, als was ist da.	Y	andere	163	   26,393	0.0563	102.2727	german_de_news_2013_00824684
+816	Aber was nicht war und ist, könnte ja noch werden.	Y	könnte	164	   26,357	0.0562	55	german_de_news_2014_00017114
+817	Wie es ist, wie es sein könnte oder wie es sein sollte.	Y	könnte	164	   26,357	0.0562	71.5714	german_de_news_2013_00951714
+818	Um die Frage was man noch alles machen könnte geht es nicht.	Y	könnte	164	   26,357	0.0562	88.75	german_de_news_2014_00834930
+819	Es wurde aber deutlich, dass dies nicht so einfach werden könnte.	Y	könnte	164	   26,357	0.0562	92	german_de_news_2015_00472598
+820	Man könnte es auch so sehen: Am Ende hatte die dpa doch recht.	Y	könnte	164	   26,357	0.0562	107.6923	german_de_news_2014_00652509
+821	Viele wollen auch nicht das eine oder das andere sein.	Y	wollen	165	   26,349	0.0562	67.2222	german_de_news_2014_00870338
+822	Wenn sie es nicht wollen, dann machen wir es nicht.	Y	wollen	165	   26,349	0.0562	67.25	german_de_news_2014_00911898
+823	Das ist das Team, das wir sind und das wir sein wollen.	Y	wollen	165	   26,349	0.0562	72.375	german_de_news_2013_00184967
+824	Sie sind aber noch nicht dort, wo wir sie haben wollen.	Y	wollen	165	   26,349	0.0562	75.8	german_de_news_2014_00784101
+825	Die Frage ist jetzt: Wollen wir mehr oder wollen wir nicht mehr?	Y	wollen	165	   26,349	0.0562	79	german_de_news_2013_00329346
+826	Er sagt laut und deutlich: Bei mir läuft es, ich habe Erfolg, Macht und Geld.	Y	laut	166	   26,337	0.0562	169.4286	german_de_news_2014_00449450
+827	«Was nicht heisst, dass ich ab und zu nicht laut werden kann», sagt er dazu.	Y	laut	166	   26,337	0.0562	175.7857	german_de_news_2013_00923423
+828	Dies wird laut einer Studie auch in Zukunft so bleiben.	Y	laut	166	   26,337	0.0562	176.8	german_de_news_2015_00369142
+829	Sie setzen laut Studie in diesem Jahr 5,1 Milliarden Euro um.	Y	laut	166	   26,337	0.0562	194.4	german_de_news_2014_00784007
+830	Laut Experten ist das nicht nur schlecht für die Partei.	Y	laut	166	   26,337	0.0562	233.8	german_de_news_2014_00640116
+831	Der 78-Jährige ist zum ersten Mal in seinem Leben in den USA.	Y	seinem	167	   26,257	0.056	92.4545	german_de_news_2015_00233504
+832	Wohl auch, weil er weiß, dass das in seinem Fall nicht möglich ist.	Y	seinem	167	   26,257	0.056	119.8462	german_de_news_2015_00935174
+833	Doch was ist, wenn der Chef trotzdem nicht von seinem Mitarbeiter lassen will?	Y	seinem	167	   26,257	0.056	146.1538	german_de_news_2015_00393596
+834	Es war mehr, als man erwarten konnte in seinem ersten Spiel.	Y	seinem	167	   26,257	0.056	160	german_de_news_2015_00471058
+835	Er habe so etwas in seinem Leben noch nie gesehen.	Y	seinem	167	   26,257	0.056	173.3	german_de_news_2013_00465765
+836	Es ist nicht so, dass man muss, sondern so dass man will.	Y	sondern	168	   25,974	0.0554	58.1111	german_de_news_2013_00492309
+837	Aber es geht nicht nur um Geld, sondern auch um Können.	Y	sondern	168	   25,974	0.0554	72.8	german_de_news_2014_00012466
+838	Das wird nicht nur viel Geld, sondern auch viel Zeit kosten.	Y	sondern	168	   25,974	0.0554	113.5	german_de_news_2013_00216231
+839	Doch nicht etwa von einem Mann, sondern von zwei anderen Frauen!	Y	sondern	168	   25,974	0.0554	120.1	german_de_news_2015_00391886
+840	Aber das kann man nicht allein machen, sondern nur zusammen.	Y	sondern	168	   25,974	0.0554	132.8	german_de_news_2015_00010886
+841	Damit ist auch der EURO und die EU am Ende!	Y	eu	169	   25,664	0.0548	51.5	german_de_news_2014_00152370
+842	Es sieht doch so aus als kann sich die EU nicht mehr halten.	Y	eu	169	   25,664	0.0548	88.3077	german_de_news_2013_00497048
+843	Das ist die Politik der EU, nicht nur in Griechenland.	Y	eu	169	   25,664	0.0548	130.4	german_de_news_2014_00183242
+844	Ihnen ist schon klar dass das hier weder was mit der EU noch dem EURO zu tun hat?	Y	eu	169	   25,664	0.0548	132.5	german_de_news_2014_00559466
+845	Die EU“ zu sagen ist hier wohl etwas zu einfach.	Y	eu	169	   25,664	0.0548	135.8889	german_de_news_2014_00310964
+846	Das habe sich bereits Ende Januar sowie Anfang Februar gezeigt und nun wieder.	Y	sowie	170	   25,308	0.054	230.6923	german_de_news_2015_00177982
+847	Die Ausstellung ist weiterhin zu sehen am Mittwoch, 1. Oktober, und Donnerstag, 2. Oktober, sowie am Montag, 6. Oktober und am Dienstag, 7. Oktober, jeweils in der Zeit von 15 bis 16 Uhr.	Y	sowie	170	   25,308	0.054	251.381	german_de_news_2014_00293454
+848	Dazu: Apple und Google sowie ein Blick in die zweite Reihe.	Y	sowie	170	   25,308	0.054	272.6364	german_de_news_2014_00215946
+849	Gearbeitet wird in der Nacht von Samstag, 26. Oktober, ab 20 Uhr, auf Sonntag, 27. Oktober, 2.35 Uhr sowie von Freitag, 1. bis Montag, 3. November.	Y	sowie	170	   25,308	0.054	285.3529	german_de_news_2013_00531782
+850	Geöffnet ist der Markt am Samstag und Sonntag von 11 bis 22 Uhr sowie am Montag von 11 bis 19 Uhr.	Y	sowie	170	   25,308	0.054	287.1538	german_de_news_2013_00537977
+851	Wie es ist, wie es sein könnte oder wie es sein sollte.	Y	sollte	171	   24,769	0.0529	71.5714	german_de_news_2013_00951714
+852	Und dann war das Ergebnis doch wieder nicht so, wie es eigentlich sein sollte.	Y	sollte	171	   24,769	0.0529	103.2857	german_de_news_2013_00867200
+853	Warum sollte ich jetzt sagen, dass wir es nicht mehr sind?	Y	sollte	171	   24,769	0.0529	110.2727	german_de_news_2015_00883387
+854	Wenn dem so sein sollte, steht Russland vor dem Ende.	Y	sollte	171	   24,769	0.0529	111	german_de_news_2014_00906976
+855	Sicher sein, dass es solche geben wird, sollte man nach dem letzten Jahr nicht mehr.	Y	sollte	171	   24,769	0.0529	116.3333	german_de_news_2013_00803531
+856	Sie könnte also dann für 2012 nur noch bei rund 78,5 Prozent liegen.	Y	also	172	   24,647	0.0526	110.8182	german_de_news_2014_00781395
+857	Es geht also nicht nur um 16 Personen in den letzten 40 Jahren!	Y	also	172	   24,647	0.0526	115.3636	german_de_news_2014_00460922
+858	Nur hin und wieder sagte er mal: Also das geht wirklich nicht.	Y	also	172	   24,647	0.0526	116.5833	german_de_news_2014_00716132
+859	Die wollen Geld von uns, also müssen sie das machen, was wir ihnen sagen.	Y	also	172	   24,647	0.0526	121.4286	german_de_news_2015_00381578
+860	Da sieht es für mich aus ob also alle hier bleiben sollen.	Y	also	172	   24,647	0.0526	129.8333	german_de_news_2015_00180469
+861	Dies ist seit Ende der 1930er Jahre nicht mehr der Fall.	Y	dies	173	   24,550	0.0524	87.2	german_de_news_2013_00383700
+862	DIE müssen dies und das und alles, und WIR müssen nichts!	Y	dies	173	   24,550	0.0524	87.5	german_de_news_2014_00337802
+863	Wie sich nun zeigt, ist dies aber nicht der Fall.	Y	dies	173	   24,550	0.0524	89.5	german_de_news_2015_00918020
+864	Es wurde aber deutlich, dass dies nicht so einfach werden könnte.	Y	dies	173	   24,550	0.0524	92	german_de_news_2015_00472598
+865	In den 1960er Jahren seien dies noch weniger als zwei Prozent gewesen.	Y	dies	173	   24,550	0.0524	98	german_de_news_2015_00575460
+866	Im vergangenen Jahr seien es dann nur noch 57 Prozent gewesen.	Y	seien	174	   24,467	0.0522	96.8	german_de_news_2015_00570844
+867	In den 1960er Jahren seien dies noch weniger als zwei Prozent gewesen.	Y	seien	174	   24,467	0.0522	98	german_de_news_2015_00575460
+868	Und wenn Sie noch keine haben, seien Sie sicher: Sie kommt noch.	Y	seien	174	   24,467	0.0522	101.1111	german_de_news_2014_00853203
+869	Heute, gerade mal 15 Jahre später, seien es nur noch 50 Prozent.	Y	seien	174	   24,467	0.0522	122.1	german_de_news_2014_00535858
+870	Dann sagte sie, dass noch zwei andere Frauen im Haus seien.	Y	seien	174	   24,467	0.0522	137.3636	german_de_news_2013_00160721
+871	Und wenn nicht mehr, dann war’s das für mich.»	Y	mich	175	   24,337	0.0519	63.2	german_de_news_2013_00881649
+872	Aber hier dabei zu sein, ist für mich immer wieder ein Ziel“, sagte sie.	Y	mich	175	   24,337	0.0519	80.2857	german_de_news_2013_00014971
+873	Und doch gibt es einen, der sagt: „Für mich war es eine gute Woche.“	Y	mich	175	   24,337	0.0519	90.1538	german_de_news_2015_00834722
+874	Danach wird er für mich nicht mehr der sein, der er war.	Y	mich	175	   24,337	0.0519	90.8	german_de_news_2013_00157134
+875	Für mich ist es auch wichtig, dass sie dabei sind.	Y	mich	175	   24,337	0.0519	93.3	german_de_news_2014_00506293
+876	Auch wenn er nicht mehr das ist, was er einmal war.	Y	einmal	176	   24,078	0.0514	47	german_de_news_2015_00079725
+877	Wenn das dann nur nicht zu viel auf einmal ist.	Y	einmal	176	   24,078	0.0514	51.6	german_de_news_2015_00898475
+878	Es ist nun einmal so das nicht alle Menschen gleich sind.	Y	einmal	176	   24,078	0.0514	87.1818	german_de_news_2013_00492450
+879	Wieder einmal geht es um mehr als Deutschland – um Europa.	Y	einmal	176	   24,078	0.0514	94	german_de_news_2015_00912883
+880	Das sind noch einmal vier Millionen mehr als am Mittwoch.	Y	einmal	176	   24,078	0.0514	95.2	german_de_news_2014_00201331
+881	Wir haben aber nur Geld, das alle fünf Jahre machen zu lassen.	Y	lassen	176	   24,078	0.0514	96.75	german_de_news_2015_00923753
+882	Die Frage ist, wie viel davon wir zu uns lassen sollen.	Y	lassen	176	   24,078	0.0514	105.3636	german_de_news_2013_00329441
+883	Sie wissen, was Sie wollen, und lassen es sich gut gehen.	Y	lassen	176	   24,078	0.0514	115.3	german_de_news_2013_00817462
+884	Die Nutzer müssen aber nicht alles mit sich machen lassen.	Y	lassen	176	   24,078	0.0514	118.1	german_de_news_2015_00338621
+885	Dies werden die Berliner nicht mehr mit sich machen lassen.	Y	lassen	176	   24,078	0.0514	131.3	german_de_news_2014_00371781
+886	Die Welt: Aber Sie hatten ja nur Platz für einen.	Y	hatten	177	   24,030	0.0513	88.1	german_de_news_2013_00403036
+887	Mit 2 Dollar am Tag konnten, können nur die Menschen leben, die sie hatten, haben!	Y	hatten	177	   24,030	0.0513	125.9231	german_de_news_2015_00661040
+888	Aber das, was wir hatten, ist mehr wert als drei oder sechs Punkte.	Y	hatten	177	   24,030	0.0513	136.5385	german_de_news_2014_00010709
+889	Wir wissen, dass wir nicht dort waren, wo jeder uns erwartet hat und wo auch wir selbst uns erwartet hatten.	Y	hatten	177	   24,030	0.0513	140	german_de_news_2013_00969667
+890	«Es gab eine Zeit, da hatten wir ein Problem mit Video.	Y	hatten	177	   24,030	0.0513	143.6364	german_de_news_2015_00455264
+891	Das sind noch einmal vier Millionen mehr als am Mittwoch.	Y	vier	178	   23,895	0.051	95.2	german_de_news_2014_00201331
+892	Die ersten vier Jahr habe man „keine Zahlen sehen wollen.“	Y	vier	178	   23,895	0.051	130.7	german_de_news_2014_00309676
+893	Doch heute, nach gut vier Jahren, sei dies kein Problem mehr.	Y	vier	178	   23,895	0.051	131.8182	german_de_news_2013_00414338
+894	Der 31-Jährige sei so stark, wie zuletzt vor vier Jahren.	Y	vier	178	   23,895	0.051	137	german_de_news_2014_00232926
+895	In Deutschland gibt es bereits vier von ihnen, weitere sollen folgen.	Y	vier	178	   23,895	0.051	138.9091	german_de_news_2014_00589241
+896	Denn ohne Sie wäre er heute nicht da wo er ist.	Y	wäre	179	   23,833	0.0509	91.2	german_de_news_2015_00228457
+897	Jetzt wäre es an der Zeit, sich Zeit zu nehmen.	Y	wäre	179	   23,833	0.0509	100.6667	german_de_news_2014_00617026
+898	Es wäre das erste Mal seit mehr als zehn Jahren.	Y	wäre	179	   23,833	0.0509	102.8	german_de_news_2015_00470027
+899	Wenn das alle so in der Wirtschaft machen würden, wäre die Wirtschaft schon am Ende.	Y	wäre	179	   23,833	0.0509	107.1429	german_de_news_2014_00906674
+900	Mit mir könnte man das nicht machen, ich wäre am zweiten Tag durch.	Y	wäre	179	   23,833	0.0509	109.2308	german_de_news_2013_00706338
+901	Aber die Welt ist nicht in uns, wir sind in der Welt.	Y	welt	180	   23,582	0.0503	45.7	german_de_news_2015_00012319
+902	Es ist nicht das Ende der Welt, aber das Ende einer Welt.	Y	welt	180	   23,582	0.0503	49.3333	german_de_news_2013_00492104
+903	Denn mit 33 hat man nicht mehr alle Zeit der Welt.	Y	welt	180	   23,582	0.0503	67.7	german_de_news_2013_00232732
+904	Das ist nicht nur bei der Zeit so aber die Welt Bild und viele anderen sind da nicht besser.	Y	welt	180	   23,582	0.0503	76.6111	german_de_news_2015_00184645
+905	Die Welt ist gut, die Menschen,die in ihr leben nicht so sehr.	Y	welt	180	   23,582	0.0503	78.8182	german_de_news_2015_00379864
+906	So, so, dieses Jahr und dann nicht mehr - wohl weil kein Geld mehr da ist?	Y	dieses	181	   23,510	0.0502	95.8462	german_de_news_2015_00792548
+907	Dieses Geld werden wir nicht geben, weil wir es nicht haben.	Y	dieses	181	   23,510	0.0502	100.2222	german_de_news_2015_00358093
+908	Dieses Auto kann eigentlich nicht von dieser Welt sein, ist es aber.	Y	dieses	181	   23,510	0.0502	110.5	german_de_news_2013_00378564
+909	Wie für so viele Probleme gibt es aber auch für dieses mehr als eine Lösung.	Y	dieses	181	   23,510	0.0502	126.3571	german_de_news_2015_00915058
+910	Und damit ist für dieses Jahr auch noch nicht Schluss, es geht noch weiter.	Y	dieses	181	   23,510	0.0502	132	german_de_news_2015_00830420
+911	Und zwar beim „Team für unter 25jährige“, auch wenn man schon über 25 ist.	Y	jährige	182	   23,213	0.0495	80.6923	german_de_news_2015_00845072
+912	Der 78-Jährige ist zum ersten Mal in seinem Leben in den USA.	Y	jährige	182	   23,213	0.0495	92.4545	german_de_news_2015_00233504
+913	Und ich weiß nun auch, was er von mir will“, sagt die 23-Jährige.	Y	jährige	182	   23,213	0.0495	94.9231	german_de_news_2013_00874538
+914	Sie wird das nicht tun, ist sich der 76-Jährige sicher.	Y	jährige	182	   23,213	0.0495	96.2	german_de_news_2013_00817219
+915	Einmal wird der 38-Jährige allerdings noch auf dem Platz stehen.	Y	jährige	182	   23,213	0.0495	104.8	german_de_news_2013_00451357
+916	Das eine hat doch mit dem anderen nichts zu tun!	Y	nichts	183	   23,181	0.0495	83.5	german_de_news_2015_00170617
+917	DIE müssen dies und das und alles, und WIR müssen nichts!	Y	nichts	183	   23,181	0.0495	87.5	german_de_news_2014_00337802
+918	Es gibt aber immer noch viel zu viele Menschen, die von dieser Entwicklung nichts haben.	Y	nichts	183	   23,181	0.0495	91.9333	german_de_news_2013_00485317
+919	Da macht es auch nichts, das es immer weniger werden.	Y	nichts	183	   23,181	0.0495	93.6667	german_de_news_2015_00149473
+920	Im Leben der Familie ist nichts mehr wie es war.	Y	nichts	183	   23,181	0.0495	101.4	german_de_news_2013_00595971
+921	Wer nicht da ist, zeigt, dass es auch ohne ihn geht.	Y	ihn	184	   23,174	0.0495	93.7273	german_de_news_2014_00916412
+922	Für ihn war es so, für die meisten Deutschen nicht.	Y	ihn	184	   23,174	0.0495	98.6667	german_de_news_2015_00500108
+923	Aber wenn man ihn einmal hatte, dann geht es nie mehr.	Y	ihn	184	   23,174	0.0495	100.2727	german_de_news_2014_00017416
+924	Er habe immer wieder klar gemacht, dass das für ihn «nicht in Frage kommt», sagte er.	Y	ihn	184	   23,174	0.0495	107.6667	german_de_news_2013_00465515
+925	Genau das frage ich ihn auch und es kommt keine Antwort mehr von ihm.	Y	ihn	184	   23,174	0.0495	127.1429	german_de_news_2014_00515362
+926	Aber in den USA kann man so was ja machen.	Y	usa	185	   23,145	0.0494	73.1	german_de_news_2015_00014774
+927	Der 78-Jährige ist zum ersten Mal in seinem Leben in den USA.	Y	usa	185	   23,145	0.0494	92.4545	german_de_news_2015_00233504
+928	Insgesamt sieht es für die USA aber sehr, sehr gut aus.	Y	usa	185	   23,145	0.0494	100.3	german_de_news_2015_00595687
+929	Dieser Fall hat nichts mit den USA zu tun“, sagte er.	Y	usa	185	   23,145	0.0494	111.1818	german_de_news_2013_00376658
+930	Es kann doch nicht sein, dass wir uns immer nur auf die USA verlassen.	Y	usa	185	   23,145	0.0494	111.7857	german_de_news_2014_00469440
+931	Mir geht es so, wie es jetzt ist, sehr gut.	Y	mir	186	   23,139	0.0494	77.2222	german_de_news_2013_00695470
+932	Das zeigt mir, es geht schon wenn man will/es kann.	Y	mir	186	   23,139	0.0494	91.5	german_de_news_2013_00217495
+933	Und ich weiß nun auch, was er von mir will“, sagt die 23-Jährige.	Y	mir	186	   23,139	0.0494	94.9231	german_de_news_2013_00874538
+934	Ich bin mir nicht sicher, dass das so ist“, sagt er.	Y	mir	186	   23,139	0.0494	96.0909	german_de_news_2014_00546783
+935	Nun gut, von mir kam ja auch nicht so viel.	Y	mir	186	   23,139	0.0494	96.4	german_de_news_2014_00712428
+936	Und es ist ja nun nicht so, dass es diese nicht geben würde.	Y	würde	187	   22,951	0.049	74.3636	german_de_news_2013_00872799
+937	Doch auf der anderen Seite muss man sich auch Fragen, was das mit Russland machen würde.	Y	würde	187	   22,951	0.049	119.5625	german_de_news_2014_00389157
+938	Aber auch seine Partei würde nur auf zwei Prozent kommen.	Y	würde	187	   22,951	0.049	121.3	german_de_news_2013_00010339
+939	Einen Großen Preis von Deutschland würde es dann in der Saison 2013 nicht geben.	Y	würde	187	   22,951	0.049	132.6154	german_de_news_2013_00439855
+940	Wir bekommen nur das, was jeder andere auch bekommen würde.	Y	würde	187	   22,951	0.049	133.8889	german_de_news_2014_00928831
+941	Ob es dann auch nach Deutschland kommen wird, ist noch nicht bekannt.	Y	kommen	188	   22,903	0.0489	81.1667	german_de_news_2014_00719965
+942	Und diese Kinder kommen nicht erst. Sie sind schon da.	Y	kommen	188	   22,903	0.0489	87.8	german_de_news_2014_00843706
+943	Es kommen immer mehr, so dass wir kaum sagen können, wie viele es noch werden.	Y	kommen	188	   22,903	0.0489	99.9286	german_de_news_2013_00494085
+944	An diese Daten zu kommen, ist allerdings nicht so einfach.	Y	kommen	188	   22,903	0.0489	107.5	german_de_news_2014_00052083
+945	Sie hält es eigentlich nicht aus, aber er hält es nicht aus, nicht zu kommen.	Y	kommen	188	   22,903	0.0489	110.1	german_de_news_2013_00808004
+946	Was macht Sie denn so sicher, dass dem dann nicht so ist?	Y	macht	189	   22,705	0.0485	81.7273	german_de_news_2013_00923025
+947	Jetzt steht er auf und macht sich an die Arbeit.	Y	macht	189	   22,705	0.0485	88.5	german_de_news_2014_00616863
+948	Da macht es auch nichts, das es immer weniger werden.	Y	macht	189	   22,705	0.0485	93.6667	german_de_news_2015_00149473
+949	Hier geht es wie so oft nur um Macht und Geld!	Y	macht	189	   22,705	0.0485	102.4545	german_de_news_2015_00532806
+950	Doch er macht das alles nicht für das große Geld, sagt er.	Y	macht	189	   22,705	0.0485	106.2	german_de_news_2014_00392633
+951	Was es war, wissen wir noch nicht“, so der Deutsche.	Y	deutsche	190	   22,333	0.0477	81.7	german_de_news_2013_00920471
+952	Das sind deutlich mehr Deutsche als noch vor zehn Jahren.	Y	deutsche	190	   22,333	0.0477	97.9	german_de_news_2014_00200957
+953	Auch für die deutsche Wirtschaft sieht es jetzt wieder gut aus.	Y	deutsche	190	   22,333	0.0477	116.5455	german_de_news_2013_00071934
+954	Die ist zwar auch Deutsche, steht aber gar nicht zur Wahl.	Y	deutsche	190	   22,333	0.0477	139.6364	german_de_news_2014_00325897
+955	Vielleicht gibt es dann ja mal ein Spiel gegen eine deutsche Mannschaft.	Y	deutsche	190	   22,333	0.0477	145.6667	german_de_news_2014_00870732
+956	Wenn ich spielen kann, dann werde ich auch da sein.»	Y	werde	191	   22,295	0.0476	99.2222	german_de_news_2015_00901610
+957	Aber ich weiß noch nicht, ob ich es sein werde.	Y	werde	191	   22,295	0.0476	103.6667	german_de_news_2014_00013931
+958	Und dass ich sagte: ‚Das werde ich sicher nicht tun.'	Y	werde	191	   22,295	0.0476	116.5556	german_de_news_2015_00832197
+959	Dann werde ich’s ja jetzt wohl auch nicht tun!	Y	werde	191	   22,295	0.0476	133.2	german_de_news_2013_00161496
+960	Es sei aber nicht sicher, dass es am Ende zu einem Angebot kommen werde.	Y	werde	191	   22,295	0.0476	133.7692	german_de_news_2013_00495884
+961	Dort steht die Polizei seit 6 Uhr und bleibt noch bis 9 Uhr.	Y	polizei	192	   22,244	0.0475	106	german_de_news_2013_00420871
+962	Und auch mit der Polizei möchte ich nichts zu tun haben.“	Y	polizei	192	   22,244	0.0475	120.4545	german_de_news_2013_00865365
+963	Es wird schon einen Grund haben, das die Polizei vor Ort war.	Y	polizei	192	   22,244	0.0475	120.5	german_de_news_2013_00501708
+964	Sie sind auch nach wie vor ein Thema, das die Polizei fordert.	Y	polizei	192	   22,244	0.0475	125.0833	german_de_news_2013_00813488
+965	Dabei hat die Polizei bereits in der Nacht von Montag auf Dienstag (10./11.	Y	polizei	192	   22,244	0.0475	134.5	german_de_news_2014_00139657
+966	Sie wissen jedoch nicht, was und wie sie das machen sollen.	Y	jedoch	193	   22,199	0.0474	98.4	german_de_news_2013_00817434
+967	Jedoch haben Sie in diesem Fall auch eine gute Seite.	Y	jedoch	193	   22,199	0.0474	135.1	german_de_news_2013_00643463
+968	Genau das jedoch ist heute offenbar nicht mehr der Fall.	Y	jedoch	193	   22,199	0.0474	137.4	german_de_news_2013_00536703
+969	Das habe ich jedoch für mich entschieden und nicht für alle anderen Menschen.	Y	jedoch	193	   22,199	0.0474	144.9167	german_de_news_2014_00178584
+970	So ganz klar, was das Ganze eigentlich soll, wird das jedoch nicht.	Y	jedoch	193	   22,199	0.0474	151.3636	german_de_news_2014_00793312
+971	Doch wie geht’s nach dieser Saison mit ihm weiter?	Y	ihm	194	   22,136	0.0472	117.8	german_de_news_2014_00397011
+972	Ich habe gehört, dass man sagt, es sei nicht einfach, mit ihm zu arbeiten.	Y	ihm	194	   22,136	0.0472	119.8571	german_de_news_2015_00545849
+973	Ich habe nur gehört, dass es ihm gut gehen soll.»	Y	ihm	194	   22,136	0.0472	125.2	german_de_news_2014_00551817
+974	Genau das frage ich ihn auch und es kommt keine Antwort mehr von ihm.	Y	ihm	194	   22,136	0.0472	127.1429	german_de_news_2014_00515362
+975	Das kann ich aber nicht, wenn ich ihm Haus bin.	Y	ihm	194	   22,136	0.0472	131.8889	german_de_news_2014_00187144
+976	Es ist sein Leben, und es ist, wie es ist.	Y	leben	195	   22,099	0.0472	51.8333	german_de_news_2014_00468640
+977	Wie soll ich leben, wenn sie nicht mehr da sind?	Y	leben	195	   22,099	0.0472	61	german_de_news_2013_00955809
+978	Es ist, wie es ist - und wir müssen damit leben.	Y	leben	195	   22,099	0.0472	65.75	german_de_news_2015_00464695
+979	Die Welt ist gut, die Menschen,die in ihr leben nicht so sehr.	Y	leben	195	   22,099	0.0472	78.8182	german_de_news_2015_00379864
+980	Der 78-Jährige ist zum ersten Mal in seinem Leben in den USA.	Y	leben	195	   22,099	0.0472	92.4545	german_de_news_2015_00233504
+981	Es soll den Beiden gut gehen, wo immer sie auch jetzt sind.	Y	beiden	196	   22,046	0.047	90.4167	german_de_news_2014_00473049
+982	Der ist für mich noch nicht so komplett wie die beiden.	Y	beiden	196	   22,046	0.047	128.7273	german_de_news_2014_00254290
+983	Wie lange das noch so gehen wird, lassen die beiden offen.	Y	beiden	196	   22,046	0.047	156.0909	german_de_news_2013_00953605
+984	Derzeit leben bereits gut 370.000 Menschen aus den beiden Staaten in Deutschland.	Y	beiden	196	   22,046	0.047	156.4545	german_de_news_2013_00290793
+985	Ob die beiden schon mal was von Berlin gesehen haben?	Y	beiden	196	   22,046	0.047	157.8	german_de_news_2013_00751362
+986	So, wie das auch schon in den vergangenen Jahren gewesen sei.	Y	vergangenen	197	   22,040	0.047	72.0909	german_de_news_2015_00794461
+987	Das sind schon jetzt 100 mehr als in der vergangenen Saison.	Y	vergangenen	197	   22,040	0.047	79	german_de_news_2015_00200772
+988	Im vergangenen Jahr seien es dann nur noch 57 Prozent gewesen.	Y	vergangenen	197	   22,040	0.047	96.8	german_de_news_2015_00570844
+989	Kann nach der vergangenen Saison aber auch nur besser werden.	Y	vergangenen	197	   22,040	0.047	101	german_de_news_2015_00614508
+990	Im vergangenen Jahr waren es rund 1,1 Millionen, davon mehr als 300.000 in China.	Y	vergangenen	197	   22,040	0.047	117.9167	german_de_news_2015_00570905
+991	Und wenn nicht mehr, dann war’s das für mich.»	Y	s	198	   21,816	0.0466	63.2	german_de_news_2013_00881649
+992	Es ist die Zeit um kurz nach 14 Uhr, als in Berlin nach und nach nichts mehr geht bei der S-Bahn.	Y	s	198	   21,816	0.0466	111.8947	german_de_news_2014_00466286
+993	Doch wie geht’s nach dieser Saison mit ihm weiter?	Y	s	198	   21,816	0.0466	117.8	german_de_news_2014_00397011
+994	Dann werde ich’s ja jetzt wohl auch nicht tun!	Y	s	198	   21,816	0.0466	133.2	german_de_news_2013_00161496
+995	Und er wird’s bei der nächsten Wahl wieder sein.	Y	s	198	   21,816	0.0466	135.5	german_de_news_2013_00872528
+996	Und zwar beim „Team für unter 25jährige“, auch wenn man schon über 25 ist.	Y	zwar	199	   21,658	0.0462	80.6923	german_de_news_2015_00845072
+997	«Wir arbeiten zwar besser als vor einem Jahr und noch besser als vor zwei Jahren.	Y	zwar	199	   21,658	0.0462	111.0833	german_de_news_2015_00921229
+998	Ein Jahr später will er nun nur noch eines: Zurück nach Deutschland, und zwar so schnell wie möglich.	Y	zwar	199	   21,658	0.0462	113.1111	german_de_news_2013_00449901
+999	Bei uns spielen fünf, zwar nicht so lange, aber man hat mehr davon.	Y	zwar	199	   21,658	0.0462	120.0769	german_de_news_2014_00111755
+1000	Dies sind zwar drei weniger als in der vergangenen Woche.	Y	zwar	199	   21,658	0.0462	122.5	german_de_news_2015_00365813

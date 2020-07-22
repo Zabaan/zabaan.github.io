@@ -1,0 +1,1001 @@
+ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
+15001	Azt hiszem nem kell bizonygatni, hogy ez a művész nem csak művész, hanem ember is.	Y	művész	2289	    1,709	0.0034	590.2308	hun_news_2011_00069133
+15002	Abban is igazad van, hogy sajnos ez nem csak a művész-világban, de más területeken is így működik.	Y	művész	2289	    1,709	0.0034	657.1176	hun_news_2011_00770209
+15003	Ma is ez a cél elsősorban, hiszen nem lesz mindegyikükből művész.	Y	művész	2289	    1,709	0.0034	724.7273	hun_news_2016_00736956
+15004	Egy tehetséges művész számára ennél nagyobb lehetőség talán nem is létezik. 1963-ban született Budapesten, jelenleg Spanyolországban él és dolgozik.	Y	művész	2289	    1,709	0.0034	736.8421	hun_news_2016_00489518
+15005	Egy tehetséges művész számára ennél nagyobb lehetőség talán nem is létezik.	Y	művész	2289	    1,709	0.0034	744.8182	hun_news_2017_00485341
+15006	Ők is 74 éve élnek ott, egészen pontosan az édesapja ott született.	Y	édesapja	2290	    1,708	0.0034	582	hun_news_2016_00846295
+15007	Sándor Tamás esélyt kap - talán ő is hasonlóan sikeres lesz, mint az édesapja A hozzászólás sikeresen el lett küldve és hamarosan megjelenik az oldalon.	Y	édesapja	2290	    1,708	0.0034	617.6087	hun_news_2016_00893744
+15008	Mint nyilatkozta, 17-18 éves volt, amikor édesapja közölte vele a hírt, hogy mennyire gazdag.	Y	édesapja	2290	    1,708	0.0034	630.8462	hun_news_2011_00369330
+15009	Nem úgy tűnik, hogy az Ön édesapja tiltakozott volna ez ellen.	Y	édesapja	2290	    1,708	0.0034	680.4545	hun_news_2016_00832357
+15010	A vállalkozás ma is működik, de már felesége vezeti, s 81 éves édesapja is nap mint nap részt vesz a munkában.	Y	édesapja	2290	    1,708	0.0034	759.9412	hun_news_2017_00289848
+15011	Miért döntött úgy végül, hogy hajlandó egy televíziós sorozatban dolgozni?	Y	televíziós	2291	    1,707	0.0034	774.7	hun_news_2011_00171013
+15012	Majd végül egy televíziós interjúban azt nyilatkozta, a beszélgetés három hónappal ezelőtt történt.	Y	televíziós	2291	    1,707	0.0034	877.6154	hun_news_2017_00735236
+15013	Mondta, hogy indul egy televíziós sorozat, de kísérleti adásról van szó, valószínûleg nem lesz nagy siker.	Y	televíziós	2291	    1,707	0.0034	887.125	hun_news_2017_00794747
+15014	Mindig kíváncsi a véleményekreKözönségdíjból úgy látja, elég sok van már itthon is, nagy szükség volt egy olyan szakmai díjra, mint a Televíziós Újságírók Díja.	Y	televíziós	2291	    1,707	0.0034	905.6087	hun_news_2017_00780706
+15015	Az önálló televíziós szereplésekről azonban az elnök sem tett le.	Y	televíziós	2291	    1,707	0.0034	937.8889	hun_news_2011_00973719
+15016	S ez, igaz évente csak egyszer, de egészen biztosan jó üzlet.	Y	üzlet	2291	    1,707	0.0034	480.9091	hun_news_2011_00764943
+15017	Ez a költségvetés is mutatja, hogy a brit gazdaság továbbra is nyitott az üzlet előtt.	Y	üzlet	2291	    1,707	0.0034	563.1538	hun_news_2011_00577021
+15018	Az üzleti része nem érdekel (nem is tudtam, hogy a kultúra jó üzlet).	Y	üzlet	2291	    1,707	0.0034	731.9167	hun_news_2017_00406819
+15019	Nehezen indul be az az üzlet, amit most fontosnak tart.	Y	üzlet	2291	    1,707	0.0034	744.8889	hun_news_2011_00533107
+15020	Üzlet – és valami más - Kelet-MagyarországDigitális és nyomtatott előfizetésekDigitális Kelet olvasásLevél a szerkesztőségnekSpóroljon csoportos beszedéssel!	Y	üzlet	2291	    1,707	0.0034	1061.1538	hun_news_2017_00974147
+15021	Aki annyira szereti, mint mi, annak tényleg mindenre jó, különösen azért, mert nagyon-nagyon finom.	Y	finom	2292	    1,705	0.0034	667.6429	hun_news_2017_00114963
+15022	Annak nem volt jelentősége, hogy ki kezdett és ki lépett csereként pályára, hiszen a finom munka még csak most következik.	Y	finom	2292	    1,705	0.0034	722.8421	hun_news_2016_00210240
+15023	Hozzáadom a könyvjelzõhözKüldd ide: Delicious Ami egészséges az lehet finom is - jön a saláta szezon Figyelem!	Y	finom	2292	    1,705	0.0034	767.0667	hun_news_2017_00633677
+15024	Érdemes lenne azonban gyakrabban készíteni, hiszen az év többi napján is nagyon finom, ráadásul igazán egészséges.	Y	finom	2292	    1,705	0.0034	786.5625	hun_news_2011_00428464
+15025	Itt minden tényleg frissen készül, és minden nagyon-nagyon finom.	Y	finom	2292	    1,705	0.0034	789.25	hun_news_2016_00667447
+15026	És úgy gondolom, hogy az ember tényleg kap néha második lehetõséget.	Y	lehetõséget	2292	    1,705	0.0034	539.5455	hun_news_2016_00532240
+15027	De ha még csak látni sem akarnak - ez nagyon rosszul esik Csak egy lehetõséget szeretnék.	Y	lehetõséget	2292	    1,705	0.0034	560.9286	hun_news_2017_00450375
+15028	Ez egy ilyen szakma, amikor lehetõséget kap az ember, élni kell vele.	Y	lehetõséget	2292	    1,705	0.0034	583.8333	hun_news_2017_00541036
+15029	Úgy látja, hogy a hazai biztonsági helyzet is óriási lehetõséget jelent a turizmus számára.	Y	lehetõséget	2292	    1,705	0.0034	635.4615	hun_news_2017_00964762
+15030	A helyi rendõrség ennek ellenére nem zár ki egyetlen lehetõséget sem.	Y	lehetõséget	2292	    1,705	0.0034	689.0909	hun_news_2017_00084276
+15031	De nem csak mi, a Videoton, az MTK vagy a Debrecen sincs ezen a szinten.”	Y	mtk	2292	    1,705	0.0034	575.6154	hun_news_2016_00458963
+15032	Tudtuk, hogy az MTK nagyon jó csapat, nem érdemtelenül áll a második helyen.	Y	mtk	2292	    1,705	0.0034	664.0769	hun_news_2017_00956957
+15033	Hétfőn kezdődik majd az MTK elleni párharc Kérjük jelentkezzen be, hogy a teljes cikket olvashassa Már van előfizetésem vagy korábban regisztráltam!	Y	mtk	2292	    1,705	0.0034	688	hun_news_2017_00622361
+15034	A Nemzeti Sport Online ezzel kapcsolatban az MTK-tól kért és kapott tájékoztatást.	Y	mtk	2292	    1,705	0.0034	689.5385	hun_news_2017_00202316
+15035	Aztán, hogy ez jó-e az MTK-nak, az majd jövő héten Szerbiában kiderül..	Y	mtk	2292	    1,705	0.0034	692.6154	hun_news_2016_00395745
+15036	Úgy vélte továbbá, hogy magyar gazdaság növekedése 0,6 és 0,8 százalék között lesz ebben az évben.	Y	növekedése	2292	    1,705	0.0034	454.7857	hun_news_2011_00989493
+15037	A szerb gazdaság növekedése az idén jóval a tervezett három százalék alatt lesz, hiszen januárban a szerb gazdasági termelés 17 százalékkal kisebb volt, mint tavaly januárban.	Y	növekedése	2292	    1,705	0.0034	538.1905	hun_news_2011_00060169
+15038	A fő kérdés ennek ellenére az USA gazdasági növekedése marad.	Y	növekedése	2292	    1,705	0.0034	557.7	hun_news_2017_00061714
+15039	Mindezt úgy, hogy az alacsony infláció mellett az európai gazdaság növekedése is alacsony szinten marad.	Y	növekedése	2292	    1,705	0.0034	670.6923	hun_news_2016_00781668
+15040	A magyar gazdaság növekedése idén és jövőre is elérheti a 2,8-2,9 százalékot - ez jobb a kormány által korábban vártnál.	Y	növekedése	2292	    1,705	0.0034	732	hun_news_2017_00159690
+15041	Ehhez képest most újabb 120 millió forintos pályázatot nyert a Gyurcsány-cég.	Y	pályázatot	2292	    1,705	0.0034	473.9091	hun_news_2016_00491943
+15042	Képes-e két év alatt kiírni az összes EU-pályázatot a kormány?	Y	pályázatot	2292	    1,705	0.0034	622.5833	hun_news_2016_00687136
+15043	Így ítélhettek oda tavaly több mint 50 milliárd forint támogatást, s írhatják ki idén február végén ismét ezt a pályázatot.	Y	pályázatot	2292	    1,705	0.0034	717	hun_news_2011_00186935
+15044	A szatmárnémeti Német Nemzetközi Együttműködési Alapítvány ebben az évben eddig nem kevesebb mint 19 pályázatot nyert el.	Y	pályázatot	2292	    1,705	0.0034	718.25	hun_news_2011_00353367
+15045	Pénz helyett az a hír jött, hogy a kulturális minisztérium maga írta ki a pályázatot, a nyertes egy Prahova megyei cég lett.	Y	pályázatot	2292	    1,705	0.0034	730.3158	hun_news_2016_00869167
+15046	Fotó: Nemes János, MTI Kérjük jelentkezzen be, hogy a teljes cikket olvashassa Már van előfizetésem vagy korábban regisztráltam!	Y	nemes	2293	    1,704	0.0034	564.2778	hun_news_2017_00583982
+15047	A nemes ne Kérjük jelentkezzen be, hogy a teljes cikket olvashassa Már van előfizetésem vagy korábban regisztráltam!	Y	nemes	2293	    1,704	0.0034	574.8125	hun_news_2017_00200326
+15048	Nemes és szép dolog ez, persze csak abban az esetben, ha meglepetésbuliról van szó.	Y	nemes	2293	    1,704	0.0034	590.5714	hun_news_2011_00324050
+15049	Az egyesület honlapján ez is olvasható: „E nemes „Ha előre tudom, hogy ez a kaland ennyire jó, nem várok rá 25 évet” Kérjük jelentkezzen be, hogy a teljes cikket olvashassa Már van előfizetésem vagy korábban regisztráltam!	Y	nemes	2293	    1,704	0.0034	736.375	hun_news_2017_00326835
+15050	Ám ez nem mindig van így, erről Nemes József és Mészáros József is mesélhetett volna.	Y	nemes	2293	    1,704	0.0034	751.6429	hun_news_2011_00021519
+15051	De mostanában már inkább azt mondják, hogy ez is te vagy?	Y	mostanában	2294	    1,703	0.0034	411.7273	hun_news_2016_00458431
+15052	Most, 33 évvel késõbb az autóban még mindig csak 2500 kilométer van, annak nagy része is mostanában került bele.	Y	mostanában	2294	    1,703	0.0034	567.5294	hun_news_2017_00795398
+15053	A helyzet az, hogy minden szó igaz, ami a dubajozással kapcsolatban megjelent mostanában.	Y	mostanában	2294	    1,703	0.0034	657	hun_news_2011_00012301
+15054	Hozzáadom a könyvjelzõhözKüldd ide: Delicious 2 hét alatt 10 áldozat - Miért ilyen sok a gyilkosság mostanában?	Y	mostanában	2294	    1,703	0.0034	658.8462	hun_news_2016_00636747
+15055	Ez csak mostanában múlt el, úgy gondoltam, nem éri meg.	Y	mostanában	2294	    1,703	0.0034	670.9	hun_news_2016_00543398
+15056	Csapata, a Fradi otthon nyert A hozzászólás sikeresen el lett küldve és hamarosan megjelenik az oldalon.	Y	fradi	2295	    1,702	0.0034	670.5333	hun_news_2016_00445727
+15057	Egyetlen meccs, ráadásul az ellenfél, az olasz A Fradi nyert 1:0-ra.	Y	fradi	2295	    1,702	0.0034	717.5	hun_news_2016_00478424
+15058	Az meg Budapest szégyene, hogy szinte már csak a Fradi maradt, mert a többi klub tönkre ment.	Y	fradi	2295	    1,702	0.0034	727.9375	hun_news_2016_00374261
+15059	Cikk megjelenítése: 540Olvasóink értékelése: Ha hozzá szeretne szólni, jelentkezzen be Nyert a Fradi (OTP Bank Liga)Ferencváros a második, Debrecen pedig a negyedik helyét erősítette meg a magyarországi labdarúgó OTP Bank Liga 28. fordulójában.	Y	fradi	2295	    1,702	0.0034	750.3333	hun_news_2017_00434639
+15060	Mert azt tudomásul kell venni: a Fradi és az Újpest esetében eredmény kell!	Y	fradi	2295	    1,702	0.0034	790.1667	hun_news_2011_00704725
+15061	De az is lehet, hogy ennél komolyabb oka is van rá..	Y	komolyabb	2295	    1,702	0.0034	410.3	hun_news_2016_00452415
+15062	Viszont ha esetleg nem sikerül, akkor sem áll meg az élet, annál komolyabb vagyok már, mint hogy újra megsértődjek.	Y	komolyabb	2295	    1,702	0.0034	553.3158	hun_news_2017_00993455
+15063	Annak idején sokan véletlenül kerültek a reklámszakmába, hiszen Magyarországon ez csak akkor indult el komolyabb szinten, nem volt igazi képzés sem.	Y	komolyabb	2295	    1,702	0.0034	694.619	hun_news_2017_00205912
+15064	A két 16-os között zajlik a játék, Sándor György fejese óta egyik csapat sem dolgozott ki komolyabb lehetőséget.	Y	komolyabb	2295	    1,702	0.0034	729.6471	hun_news_2017_00110857
+15065	Az AS viszont úgy tudja, hogy a Chelsea egy komolyabb ajánlattal állt elő.	Y	komolyabb	2295	    1,702	0.0034	746.6154	hun_news_2011_00430899
+15066	És próbálják ki akkor is, ha nem az lenne a tökéletes.	Y	próbálják	2295	    1,702	0.0034	383.5455	hun_news_2017_00528333
+15067	Véleménye szerint a kérdés nem az, hogy van-e ilyen törekvés, hanem az, hogy azt mikor próbálják azt megvalósítani.	Y	próbálják	2295	    1,702	0.0034	698	hun_news_2016_00987946
+15068	Az adatok azt mutatják, hogy a kábítószert is egyre korábban próbálják ki a fiatalok.	Y	próbálják	2295	    1,702	0.0034	714.4615	hun_news_2011_00452545
+15069	Vagyis azt próbálják megbecsülni, hogy 3-5-10 év múlva képes lesz-e Magyarország fizetni.	Y	próbálják	2295	    1,702	0.0034	761	hun_news_2016_00975521
+15070	Igen, az ember ilyenkor azt érzi, hogy a világ mégis jobb lesz, hiába próbálják mindig lerángatni a sötétbe.	Y	próbálják	2295	    1,702	0.0034	834.9412	hun_news_2017_00647312
+15071	Érdekes, hogy további 8 százalék eddig nem tette ezt, de a következő időszakban tervezi.	Y	tervezi	2295	    1,702	0.0034	423.8462	hun_news_2011_00954522
+15072	A még vajon arra utal, hogy nem történt meg, de tervezi?	Y	tervezi	2295	    1,702	0.0034	491.5455	hun_news_2017_00173085
+15073	Mint hozzátette, neki maga Matolcsy György mondta, hogy ezt tervezi a tárca.	Y	tervezi	2295	    1,702	0.0034	637.3333	hun_news_2016_00786150
+15074	Az elkövetkező 1 évben csupán 9 százalék szeretne új autót venni, míg 2, illetve 3 éven belül 10, illetve 8 százalék tervezi ezt.	Y	tervezi	2295	    1,702	0.0034	681.2667	hun_news_2011_00255083
+15075	A volt elnök az MTI-nek annyit mondott: nem tervezi, hogy megméretteti magát.	Y	tervezi	2295	    1,702	0.0034	706.9231	hun_news_2011_00988468
+15076	A probléma a továbbiakban csak nagyobb lesz annál, mint ahogyan azt sok nyugat-európai politikus gondolja.	Y	továbbiakban	2295	    1,702	0.0034	613	hun_news_2016_00227402
+15077	Emlékezni kell nemcsak ma, hanem a továbbiakban is - tette hozzá.	Y	továbbiakban	2295	    1,702	0.0034	664	hun_news_2016_00509675
+15078	Ha négy vagy nyolc évig parlamenti képviselő voltál, még nem azt jelenti, hogy a továbbiakban is az leszel.	Y	továbbiakban	2295	    1,702	0.0034	696.7222	hun_news_2016_00611878
+15079	A városi tanács által megígért anyagi támogatást – ami persze kevesebb volt, mint egy évvel korábban – megkaptuk, és biztos vagyok abban, hogy a továbbiakban is segíteni fognak minket.	Y	továbbiakban	2295	    1,702	0.0034	703.2692	hun_news_2017_00292103
+15080	Ez azt jelenti, hogy a továbbiakban gyakorlatilag minden állampolgárt illetően fel kell tenni a legfontosabb kérdést: Önnek jó az unió?	Y	továbbiakban	2295	    1,702	0.0034	714.8421	hun_news_2017_00539885
+15081	Ha előbb teszem le, akkor az egész cég úgy értesült volna, hogy én vagyok a hibás.	Y	értesült	2296	    1,701	0.0034	631.625	hun_news_2011_00521959
+15082	A Portfolio most arról is értesült, hogy a teljes projekt várható piaci értéke 140 milliárd forint.	Y	értesült	2296	    1,701	0.0034	691.3571	hun_news_2017_00221868
+15083	Ő egyébként telefonon értesült róla, hogy jövőre egyetlen apró szerepet sem találtak neki.	Y	értesült	2296	    1,701	0.0034	768	hun_news_2011_00396542
+15084	Arra a riporteri kérdésre, feljelentéssel indult-e az ügy – ahogy az egyik újság értesült – politikus azt mondta, nem gondolja, hogy ez a fontos.	Y	értesült	2296	    1,701	0.0034	778.381	hun_news_2016_00241922
+15085	A TASZSZ hírügynökség ezzel szemben úgy értesült, hogy a két eset nem áll kapcsolatban egymással.	Y	értesült	2296	    1,701	0.0034	780.3571	hun_news_2017_00269595
+15086	A kiadó szerint kormány- és miniszteri rendeletek száma is több volt, mint 2010-ben.	Y	kiadó	2296	    1,701	0.0034	724.3846	hun_news_2017_00114400
+15087	Az utolsó kiadó EL-helyet a bajnoki harmadik szerzi meg.	Y	kiadó	2296	    1,701	0.0034	786.3	hun_news_2011_00234290
+15088	Most már egy regényen is túl vagyok, úgy tűnik, elfogadta a kiadó.	Y	kiadó	2296	    1,701	0.0034	807.4167	hun_news_2016_00799230
+15089	Még további három hely kiadó, és egy csapat a hét második helyezettek közül kerül kisorsolásra.	Y	kiadó	2296	    1,701	0.0034	826.9333	hun_news_2016_00761219
+15090	Mindez azt jelenti, hogy a 32 helyből már csak kilenc kiadó.	Y	kiadó	2296	    1,701	0.0034	858	hun_news_2011_00109059
+15091	Ám ezzel még nem ért véget az ügy, mert a rendőrség is nyomozást indított.	Y	nyomozást	2296	    1,701	0.0034	418	hun_news_2011_00871079
+15092	Azt, hogy a rendőrség indít-e nyomozást az ügyben, egyelőre nem lehet tudni.	Y	nyomozást	2296	    1,701	0.0034	547.1538	hun_news_2011_00727002
+15093	Megjegyezte, úgy tudja, hogy a mai napig nem zárták le a nyomozást ebben az ügyben.	Y	nyomozást	2296	    1,701	0.0034	676.5714	hun_news_2016_00755615
+15094	Sőt, úgy tudni, hogy a nyitrai rendőrség már le is állította a nyomozást az ügyben.	Y	nyomozást	2296	    1,701	0.0034	694.5	hun_news_2011_00519039
+15095	Hétfőn ugyanakkor azt közölte az MTI-vel, hogy a feljelentést még nem tették meg, és mivel a nyomozást elrendelte az ügyészség, újabb feljelentést nem tesznek.	Y	nyomozást	2296	    1,701	0.0034	707.619	hun_news_2011_00254920
+15096	Valaki azt írta egy helyen, hogy át akartak menni az úton.	Y	akartak	2297	    1,700	0.0034	511.9091	hun_news_2011_00757642
+15097	A kérdés, hogy nem találtak, vagy nem akartak találni semmit.	Y	akartak	2297	    1,700	0.0034	646.3333	hun_news_2011_00936434
+15098	Ezt követően viszont már az történt a pályán, amit a portugálok akartak.	Y	akartak	2297	    1,700	0.0034	662.4545	hun_news_2011_00919336
+15099	A második játékrészben nekünk semmi nem jött össze, ők pedig jobban akartak, így kaptunk még négy gólt.	Y	akartak	2297	    1,700	0.0034	662.7059	hun_news_2017_00168328
+15100	A fenti képen látható ellenőrzőkód: Ha már törvényt akartak hozni, akkor az már kormány szint nem?	Y	akartak	2297	    1,700	0.0034	703.7333	hun_news_2011_00550135
+15101	A pénz is jól jön, de hát miért is ne segítenénk egymásnak, ha tudunk.	Y	egymásnak	2297	    1,700	0.0034	741.3846	hun_news_2016_00221186
+15102	Adóügyben ismét egymásnak esett a Fidesz és az MSZP Kíváncsi vagyok a jelenlegi kormány szóvivő mivel fog foglalkozni május után.	Y	egymásnak	2297	    1,700	0.0034	855.4737	hun_news_2011_00618534
+15103	Négy évvel, nyolc évvel korábban, de talán még a keleti és nyugati világ évtizedekig tartó egymásnak feszülése, a hidegháború idején is a labdarúgó Európa-bajnokság igazi ünnep volt.	Y	egymásnak	2297	    1,700	0.0034	880.56	hun_news_2016_00812870
+15104	Nem sokkal késõbb két újabb személyautó ütközött egymásnak, közel ahhoz a helyhez, ahol az elõzõ baleset történt.	Y	egymásnak	2297	    1,700	0.0034	885.2353	hun_news_2016_00829898
+15105	Bizony négy év kellett ahhoz, hogy a két csapat ismét nekifeszüljön egymásnak, és a pályán eldöntse: ki a jobb, ha azt vesszük, ki az úr a háznál.	Y	egymásnak	2297	    1,700	0.0034	914.3913	hun_news_2011_00091109
+15106	Ha viszont meg akarja építeni, akkor korábban miért mondták azt, hogy nem?	Y	építeni	2297	    1,700	0.0034	432.0833	hun_news_2016_00622928
+15107	Erre építeni kell és lehet is, ezt bebizonyította a csapat.	Y	építeni	2297	    1,700	0.0034	619.4	hun_news_2017_00520189
+15108	Budapesten viszont még baj van, ezért meg kell építeni a szuperkórházat - tette hozzá.	Y	építeni	2297	    1,700	0.0034	628.6154	hun_news_2017_00428472
+15109	Ez csak annyit jelent, hogy néhány esetben korrupció nélkül is lehet építeni nem megfelelõ dolgokat.	Y	építeni	2297	    1,700	0.0034	641.2	hun_news_2016_00543337
+15110	Hogy miért kellett azt a sok lakást építeni az megint más téma.	Y	építeni	2297	    1,700	0.0034	655.9167	hun_news_2016_00632556
+15111	Egyébként nem hittem volna, hogy a dél-afrikai George ilyen jól megy majd.	Y	george	2297	    1,700	0.0034	628.4615	hun_news_2011_00037379
+15112	George Bush amerikai elnök szintén az év utolsó napján azt mondta, hogy még nem döntöttek az Irak elleni háborúról.	Y	george	2297	    1,700	0.0034	907.6111	hun_news_2017_00587819
+15113	Ezzel összefüggésben emlékeztetett arra, hogy amikor 2000-ben Bush és ő volt a két elnökjelölt, akkor is szoros volt a verseny, sokan már neki gratuláltak, pedig a végén George W. Bush lett a győztes.	Y	george	2297	    1,700	0.0034	911.75	hun_news_2016_00569925
+15114	Ezzel összefüggésben emlékeztetett arra, hogy amikor 2000-ben Bush és õ volt a két elnökjelölt, akkor is szoros volt a verseny, sokan már neki gratuláltak, pedig a végén George W. Bush lett a gyõztes.	Y	george	2297	    1,700	0.0034	959.5357	hun_news_2017_00567121
+15115	2001 januárja után most adott először közös interjút George Bush és apja, aki 1989 és 1993 között volt az Egyesült Államok első embere.	Y	george	2297	    1,700	0.0034	959.8947	hun_news_2011_00025699
+15116	Igény mindig volt és mindig lesz rá - miért nem lehet ezt elfogadni?	Y	igény	2297	    1,700	0.0034	532	hun_news_2016_00652496
+15117	Már sok játszótér már nem ott, nem abban a város részben van ahol igény is van rá.	Y	igény	2297	    1,700	0.0034	555.0714	hun_news_2011_00319277
+15118	Ma ilyen iskola nincs a társadalomban, igény azonban van rá.	Y	igény	2297	    1,700	0.0034	668.3	hun_news_2017_00734138
+15119	Nem is értem mi ez a nagy igény az új autókra.	Y	igény	2297	    1,700	0.0034	717.4545	hun_news_2017_00822957
+15120	Egyébként ettől azért nem tartok, mert egy dolog, hogy ők milyen viszonyban vannak egymással, más azonban a társadalmi igény.	Y	igény	2297	    1,700	0.0034	735.8421	hun_news_2017_00470304
+15121	A 6-os villamos a tervek szerint éjszaka 0 óra 30-ig jár majd.	Y	villamos	2297	    1,700	0.0034	654.4	hun_news_2011_00843744
+15122	Nem jár egy szakaszon az 51-es és az 52-es villamos.	Y	villamos	2297	    1,700	0.0034	700.5	hun_news_2017_00823420
+15123	Az Árkád és a 4-es villamos a jó példa, a 2-es meg a rossz!	Y	villamos	2297	    1,700	0.0034	781.5	hun_news_2011_00024973
+15124	Amikor azonban a fotó készült, még villamos járt ide a Nagykõrösi úton.	Y	villamos	2297	    1,700	0.0034	789.4545	hun_news_2016_00185697
+15125	A villamos is várja a látogatókat szombaton Kérjük jelentkezzen be, hogy a teljes cikket olvashassa Ahhoz, hogy cikkünket el tudja olvasni, kérjük, jelentkezzen be!	Y	villamos	2297	    1,700	0.0034	816	hun_news_2016_00303229
+15126	Az államtitkár úr 100 százalék, hogy jobban látja majd el ezt a feladatot.	Y	feladatot	2298	    1,698	0.0034	507.6667	hun_news_2011_00307345
+15127	Nálunk hét ilyen csapat látja el éves terv alapján ezt a feladatot.	Y	feladatot	2298	    1,698	0.0034	512.4167	hun_news_2017_00808177
+15128	Nem jött jól nekünk, de így is meg kell oldani a feladatot.	Y	feladatot	2298	    1,698	0.0034	583.9167	hun_news_2016_00825231
+15129	Magyarország már eddig is sok mindent tett, ha úgy tetszik, sok feladatot elvégzett - fejtette ki a miniszter.	Y	feladatot	2298	    1,698	0.0034	696.5	hun_news_2017_00732301
+15130	Sok feladatot kell megoldani, de a legfontosabb része mindig az előadás.	Y	feladatot	2298	    1,698	0.0034	706.2727	hun_news_2011_00381173
+15131	Jézus tudta, hogy Ő is csak egy ember a sok közül.	Y	jézus	2299	    1,697	0.0034	301.6364	hun_news_2011_00954698
+15132	Jézus tudta, hogy Õ is csak egy ember a sok közül.	Y	jézus	2299	    1,697	0.0034	337.4545	hun_news_2016_00674597
+15133	Egyesek szerint 20-án, mások szerint április 18-án vagy 19-én, ismét mások szerint November 25-én vagy január 6-án született Jézus.	Y	jézus	2299	    1,697	0.0034	662	hun_news_2016_00477407
+15134	Az ott levő gyerekeknek azt mondta, ők is olyan menekültek, mint Jézus és családja volt.	Y	jézus	2299	    1,697	0.0034	706.9333	hun_news_2017_00387062
+15135	Ugyanakkor a világ jelentős részén az emberek életében az egyik legmeghatározóbb kapcsolatot még mindig – vagy újra – Jézus jelenti.	Y	jézus	2299	    1,697	0.0034	728.0588	hun_news_2017_00959405
+15136	18:01 Úgy tudjuk, hogy a dolgozók kérték, de Sódar István nem közölte, hogy miért van erre szükség.	Y	kérték	2299	    1,697	0.0034	631.9333	hun_news_2011_00040407
+15137	Emellett kérték a 2010-es üzleti tervet, ezt pedig nem készült el most este fél 7-re, és a munkáltató nem is tudta vállalni, csak holnap fél 10-re - tette hozzá.	Y	kérték	2299	    1,697	0.0034	696.2917	hun_news_2011_00590972
+15138	Orbán Viktor szerint akik ezt kérték, arra tettek javaslatot, hogy már most folytassuk le a következő négy év legfontosabb vitáit.	Y	kérték	2299	    1,697	0.0034	760.45	hun_news_2011_00797714
+15139	A szervezők azt kérték, hogy legyen egy egész Bánya-nap.	Y	kérték	2299	    1,697	0.0034	817.2	hun_news_2016_00260350
+15140	Csintalan szerint a két fiatal már közel volt a 18-hoz, és olyan kevés szeretet van ebben a városban, ezért megtette, amire kérték.	Y	kérték	2299	    1,697	0.0034	832.45	hun_news_2016_00447154
+15141	A Honvéd ellen azonban eljöhet az õ ideje, két dolog miatt is.	Y	honvéd	2300	    1,696	0.0034	680.1667	hun_news_2016_00096184
+15142	Az elmúlt két évtizedben egyébként már mindkét említett fővárosi klub kiesett az élvonalból, az MTK 1994-ben, a Honvéd 2003-ban, de egy év után mindkét csapat vissza is jutott.	Y	honvéd	2300	    1,696	0.0034	755.6	hun_news_2011_00445911
+15143	Honvéd párharc lesz, és úgy hozta a párosítás, hogy a nyolc közé biztosan bejut majd legalább három, nem NB I-es csapat.	Y	honvéd	2300	    1,696	0.0034	815.4762	hun_news_2016_00634863
+15144	Cikk megjelenítése: 1102Olvasóink értékelése: Ha hozzá szeretne szólni, jelentkezzen be Két fővárosi rangadóra is sor kerül az OTP Bank Liga 20. fordulójában: a Budapest Honvéd a Ferencvárost, az Újpest pedig a második helyen álló MTK-t fogadja.	Y	honvéd	2300	    1,696	0.0034	837.9394	hun_news_2016_00437204
+15145	A magyarok közül eddig csak a Bp. Honvéd nyert ebben a kupában, még 1982-ben.	Y	honvéd	2300	    1,696	0.0034	840.9167	hun_news_2016_00166040
+15146	Az ország a csõd szélén áll már több mint tíz éve, a mostani helyzet várható volt – mondja Máté László.	Y	máté	2301	    1,695	0.0034	668.6111	hun_news_2016_00385983
+15147	Máté Péter már 3o éve meghalt azóta sokat fordult a világ.	Y	máté	2301	    1,695	0.0034	711.3636	hun_news_2011_00195989
+15148	Máté elmondta, az RMDSZ egyszerű tagja marad, és továbbra is támogatja a szövetséget.	Y	máté	2301	    1,695	0.0034	754.4615	hun_news_2017_00746002
+15149	Máté Péter öt mérkőzésen nem futott annyit, mint ezen az egy meccsen.	Y	máté	2301	    1,695	0.0034	758.4167	hun_news_2016_00748437
+15150	Müller Máté 1992 január 8-án született, tehát alig több mint 18 éves!	Y	máté	2301	    1,695	0.0034	782.7	hun_news_2011_00934343
+15151	Ez a cég ugyanolyan helyzetben van, mint annyi más vállalkozás Magyarországon: tartoznak neki, ezért ő is tartozik.	Y	tartoznak	2301	    1,695	0.0034	591.2941	hun_news_2017_00533491
+15152	Ezek az országok tartoznak Magyarországnak Ez a program emailben elküldi a cikk címét és bevezetőjét, önnek csak a címzett e-mail címét kell megadnia.	Y	tartoznak	2301	    1,695	0.0034	717.4762	hun_news_2011_00216957
+15153	A lap szerint a legtöbb érintett település nem is tudott arról, hogy tartoznak, hanem tõlük értesült róla.	Y	tartoznak	2301	    1,695	0.0034	781.5	hun_news_2016_00147876
+15154	A közgazdász szólt arról is, hogy természetesen vannak olyan országok, ahol nagyon magas az újraelosztás, de ennek ellenére a világ élvonalába tartoznak.	Y	tartoznak	2301	    1,695	0.0034	786.8095	hun_news_2017_00134563
+15155	Nagyon nehéz lesz a következő szezon minden olyan csapatnak, akik nem tartoznak a gazdag klubok közé.	Y	tartoznak	2301	    1,695	0.0034	843.5333	hun_news_2011_00311988
+15156	Ez volt akkoriban az egyetlen olyan politikai szervezet az országban, amelynek vezetőit nem a Párt választotta ki.	Y	akkoriban	2302	    1,694	0.0034	609.6875	hun_news_2011_00498936
+15157	Bár annak meg azért nem lenne értelme, mert akkoriban az volt a divat.	Y	akkoriban	2302	    1,694	0.0034	622.5385	hun_news_2017_00411276
+15158	Akkoriban mindenki ahhoz akart menni játszani, akinek volt ilyen, vagy akinek a legtöbb volt.	Y	akkoriban	2302	    1,694	0.0034	685.75	hun_news_2016_00126202
+15159	Akkoriban viszont ezek a gépek 22 millió forintot értek, a kár ez esetben 5 millió forint volt.	Y	akkoriban	2302	    1,694	0.0034	712.5385	hun_news_2017_00122546
+15160	Akkoriban százhatvan ilyen intézmény volt az országban, ez a szám ma jóval száz alá csökkent.	Y	akkoriban	2302	    1,694	0.0034	743.6667	hun_news_2011_00879683
+15161	Cserébe a rendelet szerint január 10-én szombaton dolgozni kell majd.	Y	cserébe	2302	    1,694	0.0034	697	hun_news_2016_00446565
+15162	Kósa Lajos: az LMP nem kért semmit cserébe A Lehet Más a Politika (LMP) nem kért semmit azért cserébe, hogy támogatja a két..	Y	cserébe	2302	    1,694	0.0034	749.3125	hun_news_2016_00709640
+15163	A magyar labdarúgásban ilyen nincs, inkább az van helyette, hogy ha én nem mondom a másiknak, hogy szerintem ez meg az nem volt jó, amit csinált, akkor majd ha én hibázok, cserébe a másik sem szól.	Y	cserébe	2302	    1,694	0.0034	795.9655	hun_news_2016_00165101
+15164	Az ADM ellen végül nem indított eljárást az amerikai kormány azért cserébe, hogy a cég tavaly 54 millió dolláros bírságot fizetett.	Y	cserébe	2302	    1,694	0.0034	811.5789	hun_news_2017_00306089
+15165	Más országok ezért cserébe élelmiszert tudnak adni, mert nekik abból van több.	Y	cserébe	2302	    1,694	0.0034	835.4167	hun_news_2011_00152042
+15166	Ma is vannak ilyenek, és biztos vagyok benne, hogy a jövõben is lesznek.	Y	jövõben	2302	    1,694	0.0034	584.8333	hun_news_2016_00737022
+15167	Így tesznek a szocialisták most és a jövõben is - tette hozzá.	Y	jövõben	2302	    1,694	0.0034	656.1	hun_news_2016_00656923
+15168	Két-három évig még itt képzelem el magam, nem is nagyon gondolkozom azon, hogy mi lesz a jövõben.”	Y	jövõben	2302	    1,694	0.0034	697.6111	hun_news_2017_00688290
+15169	Már most is 200 ezer család igényelhetnéRétvári Bence szerint az új támogatás feltételeinek több mint 200 ezer olyan család felel meg már most, ahol három vagy több gyermek él, de a kabinet abban bízik, hogy a jövõben még több ilyen család lesz.	Y	jövõben	2302	    1,694	0.0034	722	hun_news_2017_00741423
+15170	Az ókorban más eszközök voltak, mint 2014-ben és a jövõben is mások lesznek.	Y	jövõben	2302	    1,694	0.0034	747.8462	hun_news_2016_00379082
+15171	Kovács Kálmán miniszter szerint a mobilpiac is jobban jár, ha nem marad ki belőle.	Y	kálmán	2302	    1,694	0.0034	709.8571	hun_news_2017_00707591
+15172	Zsisku Kálmán polgármester ezzel nem ért egyet, ugyanis az összeget a kormány adja, egy érvényben lévő törvény alapján.	Y	kálmán	2302	    1,694	0.0034	788.8889	hun_news_2011_00637778
+15173	A szavazatok több mint a felét szerezte meg Kálmán János.	Y	kálmán	2302	    1,694	0.0034	900.1111	hun_news_2011_00994305
+15174	A cikk a hirdetés után folytatódik Katona Kálmán szerint most elsősorban MSZP-s kötődésű segítséggel alakult volna meg a frakció, ez pedig neki már nem fért bele.	Y	kálmán	2302	    1,694	0.0034	908.48	hun_news_2011_00590431
+15175	Mészöly Kálmán szintén azt emelte ki, hogy ezek a fiatalok már évek óta együtt játszanak, ráadásul sokan közülük külföldi tapasztalatokat is szereztek már.	Y	kálmán	2302	    1,694	0.0034	918.4545	hun_news_2017_00765225
+15176	Máshol talán elég lenne, de mi magyarok vagyunk, ezért ez mind nem elég.	Y	máshol	2302	    1,694	0.0034	345.0833	hun_news_2016_00746131
+15177	És ha amerikában jó, akkor máshol (pl nálunk) miért nem jó?	Y	máshol	2302	    1,694	0.0034	642.4	hun_news_2016_00528768
+15178	A négy hétvége havi 1 millió, van aki máshol nem is dolgozik.	Y	máshol	2302	    1,694	0.0034	663.3636	hun_news_2016_00203648
+15179	Nem csak Magyarországon, máshol is ügyködni szeretne Az egykori NB I-es labdarúgó most a megyei első osztályban szerepel.	Y	máshol	2302	    1,694	0.0034	665.3684	hun_news_2016_00819967
+15180	Én azt hiszem, hogy sajnos máshol is így van, a megyében óriási hiány, hogy nem működik a politikai egyeztető tanács.	Y	máshol	2302	    1,694	0.0034	719.5556	hun_news_2011_00056609
+15181	Ez azt jelenti, hogy sok meglepetésben van az embernek része Izraelben, és nem mindig lehet tudni, hogy mi lesz a következő órákban.	Y	órákban	2302	    1,694	0.0034	614.9048	hun_news_2017_00540091
+15182	Kérdéses, hogy történik-e valami hétfőn, európai idő szerint az esti órákban.	Y	órákban	2302	    1,694	0.0034	697	hun_news_2011_00987250
+15183	A svájci frank árfolyama sem változott az elmúlt órákban, fél 10 körül 189,4 forintot adtak érte.	Y	órákban	2302	    1,694	0.0034	794	hun_news_2017_00247600
+15184	Mi lehet itt a déli órákban, amikor csúcsforgalom van és déli meleg?	Y	órákban	2302	    1,694	0.0034	802	hun_news_2011_00941283
+15185	Az esti órákban is, amíg ott tartózkodtam, több ilyen volt.	Y	órákban	2302	    1,694	0.0034	806.6	hun_news_2011_00378909
+15186	Hét óra előtt egy euró 270,87 forintot ért a kedd késő esti 270,85 forinttal szemben.	Y	késő	2303	    1,693	0.0034	599.6923	hun_news_2011_00137888
+15187	De nem kapok semmit, csak akkor, amikor már minden késő lesz.	Y	késő	2303	    1,693	0.0034	601.0909	hun_news_2017_00454448
+15188	Nem létezik ’nem’, nem létezik ’talán’, nem létezik ’már késő van’.	Y	késő	2303	    1,693	0.0034	646.5	hun_news_2011_00637278
+15189	A dollár reggel 182,90 forint volt a hétfő késő esti 182,60 forint után (+0,16 százalék).	Y	késő	2303	    1,693	0.0034	664.9	hun_news_2011_00506095
+15190	Meglátjuk, mit lehet tenni ilyen rövid idő alatt, de az biztos, hogy máris késő.	Y	késő	2303	    1,693	0.0034	666.1429	hun_news_2017_00754688
+15191	Aztán azok az újságírók, akik nem voltak ott ezen a sajtótájékoztatón Miskolcon, már úgy vették át, mintha én mondtam volna.	Y	miskolcon	2304	    1,692	0.0034	565.3	hun_news_2017_00390368
+15192	A külföldi vendégek száma azonban csak kis mértékben nő Miskolcon és környékén.	Y	miskolcon	2304	    1,692	0.0034	574.5	hun_news_2011_00327174
+15193	Ahogy elnöke fogalmazott: a lényeg, hogy az utca 13-15 alatt, Miskolcon.	Y	miskolcon	2304	    1,692	0.0034	622.6	hun_news_2016_00094390
+15194	Csak magát a darabot nagyon régen játszották Miskolcon, de az is lehet, hogy még nem is került itt színpadra.	Y	miskolcon	2304	    1,692	0.0034	714.3889	hun_news_2016_00444248
+15195	Adatokat is közölt, többek között, hogy 4–5 évvel ezelőtt közel 13 ezer ember keresett munkát Miskolcon, míg mostanra ez a szám 8 ezer alá csökkent.	Y	miskolcon	2304	    1,692	0.0034	753.4762	hun_news_2016_00042613
+15196	A csapat vasárnap 13 órától a még pont nélkül álló Újpest II-t fogadja.	Y	újpest	2304	    1,692	0.0034	586.0833	hun_news_2016_00039251
+15197	Újpest polgármestere úgy látja, az biztos, hogy sokan jól járnak.	Y	újpest	2304	    1,692	0.0034	712.9	hun_news_2017_00969684
+15198	Mert azt tudomásul kell venni: a Fradi és az Újpest esetében eredmény kell!	Y	újpest	2304	    1,692	0.0034	790.1667	hun_news_2011_00704725
+15199	Öt szezon óta nem kezdett három ponttal a lila-fehér csapat, és 2011 után elõször nyert a szombathelyi csapat ellen az Újpest.	Y	újpest	2304	    1,692	0.0034	808.7895	hun_news_2016_00859219
+15200	Öt forduló ment le a labdarúgó Magyar Kupa idei sorozatából, és csupán két csapat büszkélkedhet azzal, hogy egy adott körben a legtöbb gólt szerezte: az Újpest és a Ferencváros.	Y	újpest	2304	    1,692	0.0034	822.4615	hun_news_2017_00856728
+15201	Csak éppen korábban elindult a magyar játékos, mint kellett volna, a belga még a pályán volt.	Y	elindult	2305	    1,691	0.0033	451.0714	hun_news_2016_00443069
+15202	1962-ben tűnt fel, mikor elindult az első Ki mit tud?	Y	elindult	2305	    1,691	0.0033	489.8	hun_news_2011_00973279
+15203	Én ennyi voltam, minden, ami elindult, egyszer véget is ér.	Y	elindult	2305	    1,691	0.0033	665.8	hun_news_2016_00511263
+15204	Úgy tűnik, itthon most kezdődik ez a folyamat, de legalábbis elindult valami.	Y	elindult	2305	    1,691	0.0033	722.1667	hun_news_2016_00966077
+15205	Úgy érzem, hogy elindult egy folyamat, és vannak pozitív jelek.	Y	elindult	2305	    1,691	0.0033	881	hun_news_2016_00963483
+15206	Tíz éve még csak hatvan voltam, most meg itt vagyok!	Y	hatvan	2306	    1,690	0.0033	406.7	hun_news_2017_00945110
+15207	Ezzel csak egy gond van: az, hogy hatvan napig érvényes.	Y	hatvan	2306	    1,690	0.0033	628.1	hun_news_2011_00997278
+15208	Most a cél, azaz a döntő előtt állunk, de ez a hatvan perc ugyanolyan, mint az első, a második vagy éppen az ötödik.	Y	hatvan	2306	    1,690	0.0033	651.4737	hun_news_2017_00795448
+15209	Igaz, Auschwitz után vagyunk, de az is igaz, hogy hatvan évvel.	Y	hatvan	2306	    1,690	0.0033	712.6	hun_news_2016_00650422
+15210	Tény, hogy a munka ma sokszor mást jelent, mint ötven-hatvan évvel ezelőtt.	Y	hatvan	2306	    1,690	0.0033	723.2308	hun_news_2017_00939621
+15211	Csak ha jól tudom ez az USA-ban ez is tilos.	Y	tilos	2306	    1,690	0.0033	423.3	hun_news_2011_00323650
+15212	Eddig senki nem jelezte nekünk, hogy ez tilos - hangsúlyozta az igazgató.	Y	tilos	2306	    1,690	0.0033	578.7273	hun_news_2017_00465833
+15213	Ez azt jelenti, hogy sem kötelező, sem tilos nem lesz az euro használata.	Y	tilos	2306	    1,690	0.0033	787.0833	hun_news_2016_00542995
+15214	Ha az élet és mű szétválasztása szerinte is tilos, akkor miért teszi mégis azt?	Y	tilos	2306	    1,690	0.0033	809.8571	hun_news_2016_00600981
+15215	Hivatalosan ezt is tilos, de ezért még szerintem soha senkit nem büntettek meg.	Y	tilos	2306	    1,690	0.0033	810.1538	hun_news_2016_00629596
+15216	Marad közel 17 ezer, ám hogy ebből még hányan váltak le, nem lehet tudni.	Y	váltak	2306	    1,690	0.0033	587.3846	hun_news_2011_00964025
+15217	Több mint két éve váltak el, azóta a férfi eltűnt, nem Újhelyben lakik, de azt nem tudom, honnan jár be dolgozni.	Y	váltak	2306	    1,690	0.0033	700.25	hun_news_2017_00948125
+15218	Ha válás után ilyen jó a kapcsolat,milyen volt mikor váltak?	Y	váltak	2306	    1,690	0.0033	746	hun_news_2011_00656896
+15219	A kapcsolatuk azonban nem tartott sokáig, hét hónappal később el is váltak.	Y	váltak	2306	    1,690	0.0033	811.5833	hun_news_2011_00230805
+15220	Voltak azonban olyan „jövendölései” is, amelyek valóra váltak: ilyen volt az 1995. november 22-én bekövetkezett erős földrengés, amelyre előre felhívta a figyelmet, és azt is elmondta, hogy nem vagy alig lesznek áldozatok.	Y	váltak	2306	    1,690	0.0033	843.2	hun_news_2017_00994934
+15221	Lehet olyan jelentése, hogy magyar is vagyok, meg cigány is vagyok, de lehet más jelentése is.	Y	cigány	2307	    1,689	0.0033	430.6364	hun_news_2011_00255908
+15222	Vagy egyik sem igazán, csak egy cigány fiú, akinek sikerült?	Y	cigány	2307	    1,689	0.0033	463.6	hun_news_2011_00919060
+15223	És, ha valamit Ő megmond, az úgy lesz még akkor is, ha cigány.	Y	cigány	2307	    1,689	0.0033	617.75	hun_news_2011_00976907
+15224	Ha vannak román és magyar osztályok, akkor miért nem lehetnek cigány osztályok is?	Y	cigány	2307	    1,689	0.0033	630.8333	hun_news_2011_00772028
+15225	Az is nagyon jó volna, ha lenne egy cigány konszilier.	Y	cigány	2307	    1,689	0.0033	654.5	hun_news_2011_00929251
+15226	Sajnos nálunk a bíróság az utóbbi időben nem ezt a szerepet tölti be.	Y	tölti	2307	    1,689	0.0033	498.1667	hun_news_2016_00892827
+15227	Van, aki a karácsonyt is munkával tölti, és van, aki azt sem tudja, hogy mi az a karácsony.	Y	tölti	2307	    1,689	0.0033	747.8	hun_news_2017_00980668
+15228	Mit jelent önnek, hogy most az ő helyét tölti be a Nemzet Színészei között?	Y	tölti	2307	    1,689	0.0033	749.7143	hun_news_2016_00790307
+15229	Mivel az asszony már nyugdíjas, ideje nagy részét otthon tölti.	Y	tölti	2307	    1,689	0.0033	760.3	hun_news_2017_00791535
+15230	Azt hiszem, hogy aki egész életét az egyházban tölti, azért dolgozik, annak fizetés is jár.	Y	tölti	2307	    1,689	0.0033	838.5333	hun_news_2011_00095946
+15231	Nagy játékosok még most is, jó helyen van náluk a labda.	Y	labda	2308	    1,688	0.0033	595.0909	hun_news_2011_00483353
+15232	Két labda a pályán, pedig néha még az egy is zavar..	Y	labda	2308	    1,688	0.0033	650.1818	hun_news_2016_00692250
+15233	Pénteken ismét útjára indul a labda az NB I-ben.	Y	labda	2308	    1,688	0.0033	707.7	hun_news_2016_00868702
+15234	Ezeken nem látható a labda, de az eredeti képen még volt, csak mi leradíroztuk.	Y	labda	2308	    1,688	0.0033	747.5714	hun_news_2016_00546288
+15235	Nálunk marad a labda, de nem tudunk vele mit kezdeni.	Y	labda	2308	    1,688	0.0033	765.6	hun_news_2016_00809716
+15236	 Általában nehéz az amerikaiak ellen játszani, most is az volt.	Y	amerikaiak	2309	    1,687	0.0033	587.7778	hun_news_2011_00279897
+15237	De ezt nem fogták fel sem a magyarok, sem az amerikaiak.	Y	amerikaiak	2309	    1,687	0.0033	590.4	hun_news_2016_00454651
+15238	Más kérdés persze, mi lesz akkor, ha az amerikaiak majd csalódnak benne.	Y	amerikaiak	2309	    1,687	0.0033	621.4167	hun_news_2016_00746475
+15239	De akkor hogyan tudnak majd továbbra is egy országban élni és együttműködni az amerikaiak?	Y	amerikaiak	2309	    1,687	0.0033	635.0714	hun_news_2016_00451289
+15240	Chernomaz a találkozó utáni sajtótájékoztatón kiemelte: a mostani válogatott más volt, mint egy nappal korábban az amerikaiak ellen.	Y	amerikaiak	2309	    1,687	0.0033	795.8235	hun_news_2016_00436549
+15241	Ez egy olyan érzés, mint amikor az ember már túl sokat látott az életében.	Y	érzés	2310	    1,686	0.0033	449.6154	hun_news_2011_00351418
+15242	A legjobb érzés az, hogy mindenki tudja, mennyire erős vagyok.	Y	érzés	2310	    1,686	0.0033	482.1	hun_news_2016_00151414
+15243	Ez az érzés minden nap velünk van, Magyarországra pedig ez különösen igaz.	Y	érzés	2310	    1,686	0.0033	608.2727	hun_news_2017_00538809
+15244	Mintha valami született volna ott, aminek valahogy jó érzés volt a közelében lenni.	Y	érzés	2310	    1,686	0.0033	665.6154	hun_news_2011_00810210
+15245	Nagyon érdekes és jó érzés volt látni, pont olyan felnőtt lett belőle, mint egykor gondoltam.	Y	érzés	2310	    1,686	0.0033	794.2667	hun_news_2016_00806204
+15246	2008-ban és 2009-ben több mint 15 ezer nemi erőszak történt az államban.	Y	nemi	2310	    1,686	0.0033	745.1818	hun_news_2011_00216495
+15247	S ki tudja mikor kezdett el normális nemi életet élni.	Y	nemi	2310	    1,686	0.0033	811.6	hun_news_2011_00432809
+15248	Pedig ez a természetes, hiszen ha valaki fiatalabb korában rendszeres és aktív nemi életet élt, az idősebb korában is rendszeresen tud nemi életet élni.	Y	nemi	2310	    1,686	0.0033	911.2381	hun_news_2011_00360065
+15249	Kiss László annak ellenére mondott le, hogy nem tartja magát bûnösnek a nemi erõszak ügyében.	Y	nemi	2310	    1,686	0.0033	921.3333	hun_news_2016_00702128
+15250	Azt sem szabad elfelejteni, hogy az egészséges nemi élet nem csak szexből áll.	Y	nemi	2310	    1,686	0.0033	939.6154	hun_news_2011_00921696
+15251	Jobban kezdett a norvég csapat, és a találkozó elején egy-két góllal vezetett.	Y	norvég	2310	    1,686	0.0033	660.4167	hun_news_2011_00602510
+15252	A magyar válogatott a nyitó találkozó után december 8-án a francia, 10-én pedig a norvég együttes ellen lép pályára.	Y	norvég	2310	    1,686	0.0033	696.5625	hun_news_2011_00316488
+15253	Jobb, erősebb csapat a Hearts, és akkor mi van, a norvég is az volt.	Y	norvég	2310	    1,686	0.0033	724.7692	hun_news_2011_00997700
+15254	07:14 Öt észak-európai ország azt tervezi, hogy közös védelmi rendszert hoz létre 10-15 éven belül - közölte szerdán a norvég külügyminiszter.	Y	norvég	2310	    1,686	0.0033	733.8947	hun_news_2011_00356540
+15255	A norvég tömeggyilkos szerint ez is azt bizonyítja, hogy az Európai Unió nem demokratikus.	Y	norvég	2310	    1,686	0.0033	760	hun_news_2016_00212426
+15256	A bejelentés után rablás miatt indult nyomozás, de hamar kiderült, hogy a rablás nem is történt meg, ezért a férfi ellen eljárás indult.	Y	bejelentés	2311	    1,685	0.0033	581	hun_news_2017_00020040
+15257	A múlt héten így szinte menetrend szerint meg is érkezett a bejelentés.	Y	bejelentés	2311	    1,685	0.0033	611.1818	hun_news_2017_00192456
+15258	A bank árfolyama ma több mint mint 5 százalékot esett, az elsõ bejelentés.	Y	bejelentés	2311	    1,685	0.0033	613	hun_news_2016_00016674
+15259	Tóth B. Csaba igazgató elmondta, hogy néhány nap alatt több lakossági bejelentés is érkezett.	Y	bejelentés	2311	    1,685	0.0033	639.0714	hun_news_2011_00662924
+15260	Az eset a már korábban bejelentett két lopástól független, ez már a harmadik ilyen bejelentés az elmúlt fél év alatt.	Y	bejelentés	2311	    1,685	0.0033	690.3529	hun_news_2017_00351900
+15261	Ez ma úgy működik, hogy az a legfontosabb, aki „hozzánk tartozik”, és sajnos nem az a fontos, ki mit tud. Másik kérdés persze, hogy mi volt előbb, a tyúk vagy a tojás.	Y	hozzánk	2311	    1,685	0.0033	549.4444	hun_news_2017_00553637
+15262	És ez csak egy ügy a sok közül, ami nap, mint nap eljut hozzánk.	Y	hozzánk	2311	    1,685	0.0033	557.3846	hun_news_2011_00387105
+15263	Az is régi tapasztalat, hogy általában nem az első évben jönnek el hozzánk, hanem akkor, amikor már két-három éve itt vannak Budapesten, részesei a felsőoktatásnak.	Y	hozzánk	2311	    1,685	0.0033	687.04	hun_news_2017_00367908
+15264	Ha az USL-nek 50–51 százaléka lesz, nem fordul hozzánk, ha 48 százaléka lesz, akkor egészen biztos, hogy igen,..	Y	hozzánk	2311	    1,685	0.0033	727.7857	hun_news_2017_00597780
+15265	De érzem, hogy a sötétség még mindig nagyon közel van hozzánk.	Y	hozzánk	2311	    1,685	0.0033	736.2727	hun_news_2017_00449489
+15266	Juhász Ferenc a ma élő legnagyobb magyar költő az idén lesz 85 éves.	Y	juhász	2311	    1,685	0.0033	535.25	hun_news_2017_00676353
+15267	A mostani szembenállás nem az első eset Juhász Ferenc és Kovács László között.	Y	juhász	2311	    1,685	0.0033	703.9231	hun_news_2017_00190620
+15268	Ezen aztán elgondolkodott a bíró, de a juhász ment tovább, mert messze volt még az oda.	Y	juhász	2311	    1,685	0.0033	704.2	hun_news_2017_00547018
+15269	Juhász József szerit azonban az ország számára kedvező, ha minél hamarabb új kormány áll fel, a jelenlegi ugyanis már nem partner Európa számára.	Y	juhász	2311	    1,685	0.0033	731.5	hun_news_2011_00240114
+15270	Juhász István öt éven át volt az MSZP városi elnöke, ma a pécsi közgyűlés szocialista frakciójának tagja.	Y	juhász	2311	    1,685	0.0033	737.8824	hun_news_2017_00676382
+15271	Az már más kérdés, hogy melyik tanár mit tud kezdeni vele.	Y	kezdeni	2311	    1,685	0.0033	515.9091	hun_news_2017_00370141
+15272	Ha pedig nem adja meg magát, akkor ez a nagy gépezet nem tud vele mit kezdeni.	Y	kezdeni	2311	    1,685	0.0033	552.9333	hun_news_2016_00614711
+15273	Lehet, hogy nem a legmagasabb poszton kell kezdeni, de mint ismert és ilyen sikeres ember ne adja fel!	Y	kezdeni	2311	    1,685	0.0033	555.3889	hun_news_2011_00524745
+15274	Ha meg az van, amit sejteni lehet, vagyis, hogy nem így van, akkor talán érdemes lenne ezzel és hasonló ügyekkel kezdeni.	Y	kezdeni	2311	    1,685	0.0033	575.3	hun_news_2011_00646576
+15275	Vannak ugyanis, akik nem tudnak mit kezdeni több mint ezer év magyar történelmével.	Y	kezdeni	2311	    1,685	0.0033	579.4615	hun_news_2017_00982507
+15276	Úgy tűnik, hogy a mostani püspökválasztás nem ennek jegyében történt.	Y	jegyében	2312	    1,684	0.0033	796.8	hun_news_2011_00007472
+15277	Utóbbi jegyében a kormány már 2012-re is 180–200 milliárd forint közötti bevételt vár a bankadóból, holott korábban erre az évre ennek csak a felét tervezték be.	Y	jegyében	2312	    1,684	0.0033	858.3913	hun_news_2011_00974853
+15278	Az őszi vigasságok jegyében telt a két nap Kérjük jelentkezzen be, hogy a teljes cikket olvashassa Ahhoz, hogy cikkünket el tudja olvasni, kérjük, jelentkezzen be!	Y	jegyében	2312	    1,684	0.0033	893.55	hun_news_2016_00389888
+15279	Cikk megjelenítése: 477Olvasóink értékelése: Ha hozzá szeretne szólni, jelentkezzen be A harmadik pulzArt fesztivál a Hagyományok éve jegyében zajlik.	Y	jegyében	2312	    1,684	0.0033	907.4444	hun_news_2016_00439219
+15280	Tegnap hat új közlemény került fel a honlapra ennek jegyében.	Y	jegyében	2312	    1,684	0.0033	915.3	hun_news_2017_00936416
+15281	Ez azonban nem jelenti azt, hogy mindenkinek ugyanaz kell – tette hozzá.	Y	ugyanaz	2312	    1,684	0.0033	394.0909	hun_news_2017_00539335
+15282	Mintha nem is ugyanaz az ember lenne, mint a választások előtt.	Y	ugyanaz	2312	    1,684	0.0033	399.9091	hun_news_2011_00308969
+15283	Nincs új a nap alatt, ugyanaz az álelszámoltatás megy ott is mint itt.	Y	ugyanaz	2312	    1,684	0.0033	568.4615	hun_news_2011_00205525
+15284	Az EU és az euróövezet nem ugyanaz A brit miniszterelnök szerint hivatalosan ki kell mondani, hogy az Európai Unió és az euróövezet nem ugyanaz.	Y	ugyanaz	2312	    1,684	0.0033	573.5882	hun_news_2016_00357748
+15285	De vajon át lehet-e alakítani úgy ezt a törvényt, hogy közben még mindig ugyanaz marad?	Y	ugyanaz	2312	    1,684	0.0033	573.6875	hun_news_2017_00456093
+15286	De ennél ugye sokkal több ember érkezett és érkezik az EU-ba.	Y	ba	2313	    1,683	0.0033	592.8333	hun_news_2016_00454152
+15287	Csütörtökön csak az lesz szép, akit ki akarnak hozni első 3-ba.	Y	ba	2313	    1,683	0.0033	602.5455	hun_news_2011_00040012
+15288	Kérdés, hogy ha majd a két héten belül elrendelt újabb vizsgálat - miért is kell ez, mikor nemrég ért véget az 50 millió Ft-ba került átvilágítás?	Y	ba	2313	    1,683	0.0033	614.24	hun_news_2011_00118462
+15289	Az 58 éves férfi elõzõ este, 19 óra körül ment úszni a ba, s azóta nem került elõ.	Y	ba	2313	    1,683	0.0033	696.9375	hun_news_2016_00308883
+15290	Eszembe jut azonban a 90-es évek vége, amikor arról volt szó, bevesznek-e minket a NATO-ba vagy sem.	Y	ba	2313	    1,683	0.0033	763.2778	hun_news_2011_00163879
+15291	A második szünet elõtt aztán elõbb az olasz, majd a magyar volt eredményes.	Y	elõbb	2313	    1,683	0.0033	633.0833	hun_news_2017_00168846
+15292	Most például egy értékes autót, amit elõbb meg kellett találni.	Y	elõbb	2313	    1,683	0.0033	786.4	hun_news_2017_00798574
+15293	Akkor nem gondoltam volna, hogy én elõbb fogok a vb-re kijutni, mint a magyar válogatott.”	Y	elõbb	2313	    1,683	0.0033	829.2667	hun_news_2016_00127102
+15294	Persze, feltehetjük úgy is a kérdést, miért nem elõbb történt mindez?	Y	elõbb	2313	    1,683	0.0033	831.7273	hun_news_2016_00870599
+15295	Hogy mi az igazság, azt persze nem tudni, a cikk is csak annyit ír: Matolcsy elõbb dicsérte a könyvet, késõbb pedig azt mondta, nem igaz, amit írnak.	Y	elõbb	2313	    1,683	0.0033	852.375	hun_news_2016_00632506
+15296	Ide csak a legjobbakat hívják meg, és én vagyok az elsõ magyar nõ, akinek ez sikerült.	Y	hívják	2314	    1,682	0.0033	527.375	hun_news_2016_00647450
+15297	Ezt a tökfejet nem is úgy hívják, csak itt adja ki annak magát.	Y	hívják	2314	    1,682	0.0033	603.3077	hun_news_2017_00557964
+15298	Eltelt egy év, majd még egy, aztán jött a harmadik, õ pedig hiába várta, hogy hívják.	Y	hívják	2314	    1,682	0.0033	631.8667	hun_news_2016_00505683
+15299	A meglepetés az, hogy három év után ismét úgy hívják: Ferencváros.	Y	hívják	2314	    1,682	0.0033	659.4545	hun_news_2017_00172122
+15300	És minél rosszabb egy zenekar, annál kevesebbet ér a piacon, viszont nincs pénz, ezért őket hívják inkább.	Y	hívják	2314	    1,682	0.0033	765	hun_news_2017_00527285
+15301	Ebben természetesen a két bécsi döntés is fontos szerepet játszott.	Y	bécsi	2315	    1,681	0.0033	543.1	hun_news_2016_00468107
+15302	Második Bécsi döntést követõen c. Mikor érkezett meg hosszú idõ után újra a Székely Gyors Erdélybe?	Y	bécsi	2315	    1,681	0.0033	838.5625	hun_news_2017_00744640
+15303	Az első és második bécsi döntés csak megerősítette ezt a meggyőződésüket.	Y	bécsi	2315	    1,681	0.0033	852.0909	hun_news_2011_00547655
+15304	Az érdekelt minket, hogy az 1940. augusztus 30-i bécsi döntés alapján mi került Észak-Erdélyhez és mi maradt Dél-Erdélyben?	Y	bécsi	2315	    1,681	0.0033	870.0588	hun_news_2011_00316443
+15305	Azt látni kell, hogy az OMV elképzelése szerint nem egy osztrák-magyar, hanem egy közös, inkább nemzetközi európai társaság jönne létre, bécsi illetve budapesti központtal.	Y	bécsi	2315	    1,681	0.0033	873.6667	hun_news_2011_00234257
+15306	Csak a negyedik héten volt egy kis betegségem, de az sem vetett vissza annyira.	Y	vetett	2315	    1,681	0.0033	581.6429	hun_news_2011_00975241
+15307	Sajnos, a kis magyar világ csupán négy évig tartott, de ez is nagyon fontos volt, hiszen a magyarság visszanyerte jövőbe vetett hitét.	Y	vetett	2315	    1,681	0.0033	836.2381	hun_news_2016_00892006
+15308	1953. november 25-én történt, hogy a már szárnyaló magyar labdarúgó-válogatott Londonban véget vetett az angol válogatott 90 éves hazai veretlenségének.	Y	vetett	2315	    1,681	0.0033	849.7222	hun_news_2016_00001038
+15309	Újabb trükköt vetett be Trump - Napi.huEz a program emailben elküldi a cikk címét és bevezetőjét, önnek csak a címzett e-mail címét kell megadnia.	Y	vetett	2315	    1,681	0.0033	850.7727	hun_news_2017_00968327
+15310	S érdekes módon pont most történik meg, amikor az Orbán-kormány szemet vetett sikeres cégekre?	Y	vetett	2315	    1,681	0.0033	872.6	hun_news_2016_00897502
+15311	Nekik a munka a fontos, és attól, hogy én valamit úgy akarok, az nem biztos, hogy úgy jó.	Y	akarok	2316	    1,680	0.0033	366.8	hun_news_2016_00816368
+15312	Az mindig bennem volt, hogy talán valami majd csak másként lesz, de ha nem lenne másként, akkor is itt akarok élni.	Y	akarok	2316	    1,680	0.0033	470.2	hun_news_2017_00370551
+15313	De már akkor is tudtam, hogy én nem akarok színész lenni.	Y	akarok	2316	    1,680	0.0033	507.1818	hun_news_2016_00457115
+15314	Meg mit akarok én, hiszen nem is vagyok magyar állampolgár.	Y	akarok	2316	    1,680	0.0033	509.2	hun_news_2017_00755758
+15315	Egy demokratikus vita azonban nem arról szól, hogy csak az én véleményem számít, vagy az van, amit én akarok, vagy semmi.	Y	akarok	2316	    1,680	0.0033	530.8889	hun_news_2016_00473968
+15316	Azt persze nagyon sajnáltam, hogy a magyar válogatott nem volt a résztvevők között.	Y	résztvevők	2316	    1,680	0.0033	573	hun_news_2011_00803168
+15317	Számítani lehet arra, ha javul az idő, a résztvevők száma is nő.	Y	résztvevők	2316	    1,680	0.0033	701.8333	hun_news_2017_00910879
+15318	A tanulmány ideje alatt 26 145 férfi vesztette életét, ez a résztvevők 2,3 százaléka.	Y	résztvevők	2316	    1,680	0.0033	740.6	hun_news_2017_00267355
+15319	Ugyan ki gondolta volna az egykori résztvevők közül, hogy alig három esztendővel később fogalma sem lesz, mit hoz számára a jövő, s egyáltalán, hogy hol köt majd ki?	Y	résztvevők	2316	    1,680	0.0033	762.9615	hun_news_2017_00962712
+15320	A felmérésben résztvevők túlnyomó többsége (97 százaléka) azt nyilatkozta, hogy nem vett fel hitelt 2007-ben, és a következő két évben sem.	Y	résztvevők	2316	    1,680	0.0033	774.8947	hun_news_2011_00637019
+15321	Úgy érzem, hogy abszolút azt írja meg, ami nekem is ül.	Y	abszolút	2317	    1,679	0.0033	686.5455	hun_news_2011_00075409
+15322	A korábbi abszolút rekord a tavaly Kérjük jelentkezzen be, hogy a teljes cikket olvashassa Már van előfizetésem vagy korábban regisztráltam!	Y	abszolút	2317	    1,679	0.0033	687.7778	hun_news_2017_00127620
+15323	A második is abszolút legjobb lett. mindenki kijött még egyszer.	Y	abszolút	2317	    1,679	0.0033	691.4	hun_news_2016_00172593
+15324	Az országos választási bizottság múlt héten ugyanakkor azt közölte: az első fordulóban egyik jelölt sem szerzett abszolút többséget.	Y	abszolút	2317	    1,679	0.0033	722.9412	hun_news_2011_00781704
+15325	Igen, aki gyereket vállal, annak fel kell készülnie arra, hogy az első 10 év abszolút nem róla szól.	Y	abszolút	2317	    1,679	0.0033	740.6471	hun_news_2011_00477611
+15326	Nem lehetett tudni, hogy mi a programja, és miért van rá szükség.	Y	programja	2317	    1,679	0.0033	326.9167	hun_news_2011_00047812
+15327	A világos és jó programja miatt biztosan nem, mert olyan nincs neki.	Y	programja	2317	    1,679	0.0033	460	hun_news_2011_00488911
+15328	OTP Bank Liga, a 27. forduló programja: Kérjük jelentkezzen be, hogy a teljes cikket olvashassa Már van előfizetésem vagy korábban regisztráltam!	Y	programja	2317	    1,679	0.0033	714.8947	hun_news_2017_00857153
+15329	Kosárlabda: a női Európa Kupa programja - Észak-MagyarországDigitális és nyomtatott előfizetésekDigitális Észak olvasásKüldjön olvasói levelet!	Y	programja	2317	    1,679	0.0033	1077.4286	hun_news_2017_00706383
+15330	A fesztivál pénteki programja - Kelet-MagyarországDigitális és nyomtatott előfizetésekDigitális Kelet olvasásLevél a szerkesztőségnekSpóroljon csoportos beszedéssel!	Y	programja	2317	    1,679	0.0033	1221.6154	hun_news_2016_00060545
+15331	Az is lehet, hogy igen, legalább is most mindenki ebben bízik.	Y	bízik	2318	    1,678	0.0033	330.1	hun_news_2011_00634634
+15332	Sok hülye ember van az országban és ebben bízik a kormány.	Y	bízik	2318	    1,678	0.0033	542.8182	hun_news_2017_00901990
+15333	Megjegyezte, folyamatosan épül, erősödik a válogatott, ráadásul egyre több fiatal kap lehetőséget, s bízik benne, hogy három-négy év múlva egy nagyon erős magyar válogatott lesz.	Y	bízik	2318	    1,678	0.0033	594.32	hun_news_2017_00752983
+15334	Az ember csak bízik abban, hogy amit mondanak, az úgy van.	Y	bízik	2318	    1,678	0.0033	604.2	hun_news_2016_00347061
+15335	Az elnök bízik abban, hogy a következő ilyen jellegű rendezvényen sokkal többen lesznek.	Y	bízik	2318	    1,678	0.0033	658.3077	hun_news_2011_00367240
+15336	Nagy szerencse ért egy kis pécsi céget Az Ön is tudja?	Y	céget	2318	    1,678	0.0033	646.7273	hun_news_2017_00807135
+15337	Akkor a pécsi fidesz most ad egy céget neki Pécsen is?	Y	céget	2318	    1,678	0.0033	660.0909	hun_news_2011_00459766
+15338	Mit mondta, azért is vették meg a céget, mert az utóbbi 20 évben évente több mint 10 százalékot növekedett és ezt tovább lehet fejleszteni nemzetközileg.	Y	céget	2318	    1,678	0.0033	696.2609	hun_news_2017_00788736
+15339	Ha valaki igazán sikeres akar lenni, akkor egy céget vezessen, de azt napi 25-26 órán át!	Y	céget	2318	    1,678	0.0033	754.4	hun_news_2011_00005828
+15340	Egy másik céget – ami a friss bevallásomban egyébként szerepel, de azt gondoltam, hogy már nem vagyok tagja – valóban nem tüntettem fel mindig.	Y	céget	2318	    1,678	0.0033	760.9048	hun_news_2016_00483920
+15341	Cikk megjelenítése: 3099Olvasóink értékelése: Ha hozzá szeretne szólni, jelentkezzen be Földi István: A XX.	Y	földi	2319	    1,677	0.0033	689.6429	hun_news_2016_00438891
+15342	Földi László: - A jól küzdő Pécs ellen még sok volt a hiba.	Y	földi	2319	    1,677	0.0033	806.7273	hun_news_2011_00787986
+15343	Hangsúlyozta ugyanakkor, hogy ennek hátterében nagyon is földi dolgok állnak.	Y	földi	2319	    1,677	0.0033	861.4	hun_news_2017_00609708
+15344	Annak ellenére, hogy teljesen váratlanul ért bennünket e minden földi jótól való megvonás, a kezd Kérjük jelentkezzen be, hogy a teljes cikket olvashassa Már van előfizetésem vagy korábban regisztráltam!	Y	földi	2319	    1,677	0.0033	875.5926	hun_news_2017_00205701
+15345	Hogy aztán ez korona- e, vagy sem, én inkább úgy vélem, nem tudjuk, az életnek milyen olyan elismerése van, amit talán nem is a földi létben kapunk meg.	Y	földi	2319	    1,677	0.0033	903.8148	hun_news_2017_00627901
+15346	Ez a PVSK akkor jó csapat, ha küzd és harcol, de ezt ma nem tette meg.	Y	küzd	2319	    1,677	0.0033	620.125	hun_news_2011_00607669
+15347	Az ország több gazdasági problémával is küzd, amelyeket természetesen nem ez az ügy okozott.	Y	küzd	2319	    1,677	0.0033	712.3846	hun_news_2017_00382976
+15348	Felmérések szerint még 25 éves kora után is ezzel a problémával küzd minden 20. nő és minden 100. férfi.	Y	küzd	2319	    1,677	0.0033	721.1333	hun_news_2011_00460374
+15349	Mindez nemzetközi ügy, és hasonlóval nem csak Magyarország, hanem egész Európa küzd.	Y	küzd	2319	    1,677	0.0033	730.4167	hun_news_2016_00781199
+15350	Mivel körmérkőzéses rendszerben küzd az első hat csapat, így nem is olyan régen találkozott már a két együttes.	Y	küzd	2319	    1,677	0.0033	738.0556	hun_news_2016_00794067
+15351	Bár minden gyilkos olyan gyilkos lenne mint ő. Akkor lenne itt jó világ.	Y	gyilkos	2320	    1,676	0.0033	285.8182	hun_news_2011_00467513
+15352	Majd kiderül, ki a gyilkos, és hogy ismerték-e vagy sem.	Y	gyilkos	2320	    1,676	0.0033	583.5455	hun_news_2011_00382393
+15353	Azt ugyan egyelőre még nem tudni, mi váltotta ki a gyilkos indulatot, azonban az MTI úgy tudja: a gyilkos lehetséges, hogy rendőr volt.	Y	gyilkos	2320	    1,676	0.0033	633.4286	hun_news_2016_00401220
+15354	Jó hogy nem azt mondja: nem gyilkos, csak ne legyen a közelében kés!	Y	gyilkos	2320	    1,676	0.0033	651.75	hun_news_2011_00503617
+15355	Ezek kikapcsolnak, és mivel egy hónap múlva már nem emlékszem, hogy ki is volt a gyilkos, újra tudom olvasni őket.	Y	gyilkos	2320	    1,676	0.0033	664.6	hun_news_2017_00544454
+15356	Emiatt a múlt héten egy olyan megegyezés született a politikai csoportok vezetői között, hogy az Európa Tanács közgyűlésének elnöke a következő két évre egy szocialista képviselő legyen.	Y	csoportok	2321	    1,675	0.0033	710.7083	hun_news_2011_00640234
+15357	Egyes csoportok szerint túl konzervatív, mások szerint túl liberális volt.	Y	csoportok	2321	    1,675	0.0033	893.625	hun_news_2017_00472980
+15358	De mi van akkor, ha egyes közösségek, illetve társadalmi rétegek ellen indítanak még most is harcot politikai csoportok?	Y	csoportok	2321	    1,675	0.0033	935.2222	hun_news_2016_00458195
+15359	A nokok nem fogyasztói csoportok - így magyarázza az államtitkár - Napi.huEz a program emailben elküldi a cikk címét és bevezetőjét, önnek csak a címzett e-mail címét kell megadnia.	Y	csoportok	2321	    1,675	0.0033	948.88	hun_news_2017_00207814
+15360	Ugyancsak nagy a különbség az egyes társadalmi csoportok kiadásai között.	Y	csoportok	2321	    1,675	0.0033	949.1	hun_news_2017_00961421
+15361	S addig még hosszú az út, hiszen a 30 kilométerre fekvő Nizzába is át kellett jutniuk.	Y	fekvő	2321	    1,675	0.0033	909.9333	hun_news_2016_00891121
+15362	A vasúti rendőrség szóvivője elmondta, hogy a sínek között fekvő fiatal férfi nem ébredt fel, és minden bizonnyal ennek köszönheti az életét.	Y	fekvő	2321	    1,675	0.0033	968.9048	hun_news_2017_00293367
+15363	Egyetért a piac megtisztításával, és azzal is, hogy hosszú távú megoldást kell találni, a parlament előtt fekvő javaslat azonban szerinte nem szolgálja egyik célt sem.	Y	fekvő	2321	    1,675	0.0033	982.125	hun_news_2016_00478075
+15364	Így aztán azt is elég nehéz lenne összefésülni, hogy egy jól fekvő csapatot szponzoráló vállalat életére milyen hatással van a támogatás.	Y	fekvő	2321	    1,675	0.0033	983.4286	hun_news_2016_00653618
+15365	Ilyen foglalkozások gyakran vannak a Debrecenhez közel fekvő telepü Kérjük jelentkezzen be, hogy a teljes cikket olvashassa Már van előfizetésem vagy korábban regisztráltam!	Y	fekvő	2321	    1,675	0.0033	985.9091	hun_news_2017_00654487
+15366	Amúgy nem számít, hogy fél millió, vagy sem – tette hozzá, a lényeg, hogy a közönség nagy szeretettel fogadja őt.	Y	szeretettel	2322	    1,674	0.0033	599.3529	hun_news_2011_00440983
+15367	A szívemhez nőtt az összes diák, és olyan jó volt látni, hogy ők is milyen szeretettel vannak egymás felé.	Y	szeretettel	2322	    1,674	0.0033	648.6316	hun_news_2016_00263224
+15368	Aki itt akar tanulni, az nagyon jól teszi, és azt szeretettel látjuk.	Y	szeretettel	2322	    1,674	0.0033	701.75	hun_news_2011_00303686
+15369	Nem múlik el nap, hogy ne gondoljunk rá nagy szeretettel.	Y	szeretettel	2322	    1,674	0.0033	844.5	hun_news_2017_00826718
+15370	Szerintem lehet úgy is otthon lenni, hogy pár órát vagyok a gyermekemmel, de azt igazán szeretettel és figyelemmel töltöm be!	Y	szeretettel	2322	    1,674	0.0033	878.7	hun_news_2011_00747738
+15371	Ezen a mérkőzésen minden volt, sajnos foci nagyon kevés Szabolcs-Szatmár-Bereg - A labdarúgó megyei II.	Y	bereg	2323	    1,672	0.0033	737	hun_news_2016_00549676
+15372	Veres János, az MSZP megyei elnöke a sajtótájékoztatón elmondta, az ország és Szabolcs-Szatmár-Bereg megye szempontjából eddig is fontos volt és fontos is marad az ország uniós tagsága.	Y	bereg	2323	    1,672	0.0033	776.1304	hun_news_2016_00988885
+15373	Ilyen játékvezetők szerintem ebben a megyében is vannak… Szabolcs-Szatmár-Bereg - A labdarúgó megyei II.	Y	bereg	2323	    1,672	0.0033	825.7143	hun_news_2017_00654644
+15374	A játékvezető nem igazán tudta, hogy milyen rendezvényen van Szabolcs-Szatmár-Bereg - A labdarúgó megyei II.	Y	bereg	2323	    1,672	0.0033	843.0667	hun_news_2016_00100868
+15375	Nézze meg ön is, mi történt vasárnap Szabolcs-Szatmár-Bereg megyében!	Y	bereg	2323	    1,672	0.0033	855.4545	hun_news_2011_00242833
+15376	Hát úgy, hogy tavaly már nem is nõttek annyira a beruházások.	Y	beruházások	2324	    1,671	0.0033	654.8182	hun_news_2016_00621284
+15377	Idén 30 százalékkal nagyobb volt a beruházások összege, mint két éve, jövőben 40 százalékkal több pénz­re számítanak – mondta el az áramszolgáltató igazgatója.	Y	beruházások	2324	    1,671	0.0033	703.2	hun_news_2016_00647876
+15378	Kérdés, hogy miért nem volt szükség erre az önrészre, miért maradtak el a tervezett beruházások?	Y	beruházások	2324	    1,671	0.0033	713.8571	hun_news_2017_00684206
+15379	Magyarországnak mindig az a legfontosabb, hogy az itt élő emberek és az itt működő beruházások biztonságban legyenek – jelentette ki Orbán Viktor.	Y	beruházások	2324	    1,671	0.0033	739.4444	hun_news_2017_00732408
+15380	Én viszont azt gondolom, hogy a beruházások csupán eszközök és nem célok.	Y	beruházások	2324	    1,671	0.0033	739.75	hun_news_2011_00614490
+15381	Mint mondta, a Szent István-i örökség lényege az országépítés, de ez nem fog úgy menni, ha csak a parlament meg a kormány építi az országot.	Y	lényege	2324	    1,671	0.0033	775.3478	hun_news_2017_00786355
+15382	De hát egy Aratógép csak azt tudja adni, mi lényege!	Y	lényege	2324	    1,671	0.0033	796.5	hun_news_2016_00455234
+15383	Egy működő házasság lényege éppen az, hogy az ember adni akar.	Y	lényege	2324	    1,671	0.0033	825.8	hun_news_2017_00480654
+15384	Ennek lényege, hogy majd ők eldöntik, hogy ki az igazi egyház és ki nem. Már most látható, hogy szerintük igazi egyház az, amely támogatja a Fideszt, ahogyan azt több nagy és kisegyház meg is teszi (erről bővebben a 12-13.	Y	lényege	2324	    1,671	0.0033	856.3333	hun_news_2017_00512073
+15385	Nem sok idõ, az érte járó pénz se az, de a programnak egyébként is csak az volna a lényege, hogy az embereket visszaszoktassa a munkába.	Y	lényege	2324	    1,671	0.0033	866.5	hun_news_2017_00828233
+15386	Ez a tény is bizonyítja azt, hogy a „hagyományos” - már csak 2010.	Y	bizonyítja	2325	    1,670	0.0033	458.1	hun_news_2011_00037751
+15387	Mi sem bizonyítja ezt jobban, mint az, hogy a XX.	Y	bizonyítja	2325	    1,670	0.0033	611.2	hun_news_2016_00789348
+15388	Ezt bizonyítja az idei csapat vb és az egyéni Eb döntő is.	Y	bizonyítja	2325	    1,670	0.0033	630	hun_news_2011_00008254
+15389	Az a baj ezzel, hogy ezt azt bizonyítja, hogy a szabály a rossz.	Y	bizonyítja	2325	    1,670	0.0033	664.1	hun_news_2011_00479480
+15390	Ezt mi sem bizonyítja jobban, mint az, hogy több ezren vettek részt a katolikus egyház és az RMDSZ által szervezett tüntetésen.	Y	bizonyítja	2325	    1,670	0.0033	665	hun_news_2016_00563848
+15391	A konferencia elnöke úgy véli: nagy problémát jelent az, hogy túl nagy a különbség a két finanszírozási rendszer között.	Y	konferencia	2325	    1,670	0.0033	653	hun_news_2011_00694111
+15392	A konferencia másik célja: javaslatot tenni arra, hogy az elkövetkező években Uniós szinten milyen közös fellépésre van szükség ezen a területen.	Y	konferencia	2325	    1,670	0.0033	788.1	hun_news_2011_00370662
+15393	Ezek találkozásából jön létre az idei Országos HR Konferencia, amely még mindig (vagy már megint) az ország egyik legnagyobb HR eseménye.	Y	konferencia	2325	    1,670	0.0033	889.3158	hun_news_2016_00548717
+15394	Kõrösi arra számít, hogy ez az összeg a mostani konferencia után tovább növekszik.	Y	konferencia	2325	    1,670	0.0033	893.1538	hun_news_2016_00709146
+15395	Sok esetben fel sem merül már a magyar fõváros mint lehetséges nemzetközi konferencia-helyszín.	Y	konferencia	2325	    1,670	0.0033	897.6429	hun_news_2016_00903170
+15396	A lehetőséget mindenkinek megadja, és ha valaki nem akar vagy nem tud élni ezzel, akkor az komoly gondot okozhat az adott országnak.	Y	okozhat	2325	    1,670	0.0033	773.7	hun_news_2016_00154930
+15397	Mögötte áll a harmadik helyen pedig az összetettben vezető a vasárnap nem jött össze, ám ő azért még igencsak okozhat meglepetést hétfőn.	Y	okozhat	2325	    1,670	0.0033	785.5714	hun_news_2016_00795239
+15398	Ha szinte minden információ ennyire könnyen elérhető, nem okozhat olyan érzést, hogy ami nincs ott a találatok között, az nem is létezik, de legalábbis nem fontos?	Y	okozhat	2325	    1,670	0.0033	825.625	hun_news_2016_00618555
+15399	Ez ugyanakkor azt is jelenti, hogy 11 százaléka még olyan vizet iszik, amely betegségeket okozhat.	Y	okozhat	2325	    1,670	0.0033	888.9286	hun_news_2017_00562466
+15400	Az Európai Parlament, amely már jelezte, hogy még keményebb költségvetési szabályokat akar, a következő hónapokban még okozhat problémákat ebben az ügyben.	Y	okozhat	2325	    1,670	0.0033	934.8947	hun_news_2011_00308744
+15401	Az odds alig több mint egy óra alatt 20:1-ről 9:1-re csökkent.	Y	ről	2325	    1,670	0.0033	734.5455	hun_news_2016_00377623
+15402	De hát akkor kiről is van szó, ha nem az RMDSZ-ről és nem a magyarokról?	Y	ről	2325	    1,670	0.0033	742.9333	hun_news_2011_00704525
+15403	Ezt nagyon furcsának tartom, mert azért nem két kft.-ről van szó.	Y	ről	2325	    1,670	0.0033	746.75	hun_news_2017_00561301
+15404	Bár eddig sem volt nagy véleményem erről a kettős-ről!	Y	ről	2325	    1,670	0.0033	760.2	hun_news_2011_00606190
+15405	A magyarországi sajtótájékoztatón arról nem esett szó, hogy a magyarság további 67 százaléka miként vélekedik az RMDSZ-ről.	Y	ről	2325	    1,670	0.0033	767.5	hun_news_2011_00651750
+15406	A rendőrség információi szerint azóta még egy támadás történt, azt pedig egyelőre nem tudják, mennyi lehetett előtte.	Y	információi	2326	    1,669	0.0033	573.0588	hun_news_2016_00235906
+15407	A lap információi szerint az érintettek 18 és 25 év közötti fiatalok.	Y	információi	2326	    1,669	0.0033	669.5	hun_news_2016_00147404
+15408	Az RTL Klub információi szerint eddig 230 ezer hívás, összesen több mint 57 millió forint érkezett a Nemzeti Segélyvonalra a 1752-re.	Y	információi	2326	    1,669	0.0033	737.8333	hun_news_2011_00902331
+15409	Az MTI eddigi információi szerint már a cég által üzemeltetett.	Y	információi	2326	    1,669	0.0033	741.5	hun_news_2017_00371912
+15410	A majd a Világgazdaság információi szerint nincs is olyan messze: a napilap.	Y	információi	2326	    1,669	0.0033	741.8	hun_news_2016_00168666
+15411	Ezért is lehet, hogy a spanyol emberek alig-alig ismerik Magyarországot.	Y	ismerik	2326	    1,669	0.0033	551	hun_news_2017_00549954
+15412	Ezt sem a férfiak, sem a nők nem szívesen ismerik el, de ettől ez tény marad.	Y	ismerik	2326	    1,669	0.0033	609.7143	hun_news_2011_00379186
+15413	Egyre több darabját ismerik meg, de még mindig nem állt össze a kép.	Y	ismerik	2326	    1,669	0.0033	637.3077	hun_news_2011_00466751
+15414	Jobban ismerik a nyugati szociális rendszert, mint a magyar emberek!	Y	ismerik	2326	    1,669	0.0033	652.8889	hun_news_2016_00674929
+15415	Vagyis vagy nem ismerik a szabályokat, vagy nem tartják be azokat - közölte.	Y	ismerik	2326	    1,669	0.0033	675.2	hun_news_2016_00975971
+15416	A fenti képen látható ellenőrzőkód: Judit47, az egész Eu-ban nálunk a legkisebb a gazdasági növekedés, szinte az összes ország szárnyal, csak mi nem.	Y	legkisebb	2327	    1,668	0.0033	679.2381	hun_news_2011_00215631
+15417	Mesterházy: Az MSZP-re nem a legkisebb rossz miatt szavaznak Nem azért, mert az MSZP a legnagyobb rossz!	Y	legkisebb	2327	    1,668	0.0033	758.6923	hun_news_2011_00076857
+15418	Gyurcsány Ferenc szerint első gyermeke, Péter és legkisebb fia, Tamás születése között apaként nem csak azért változott meg, mert kilenc év sok idő.	Y	legkisebb	2327	    1,668	0.0033	768.7391	hun_news_2011_00979322
+15419	Abban a percben érkezett meg a legkisebb fia, a tanár.	Y	legkisebb	2327	    1,668	0.0033	772.75	hun_news_2017_00018197
+15420	És ma sincs egy nyugodt pillanatom sem, mert mindig én vagyok egy szinten a legkisebb.	Y	legkisebb	2327	    1,668	0.0033	787.9286	hun_news_2011_00392417
+15421	Ákos a közel egy éve alatt sok mindent látott, és sok mindent tapasztalt.	Y	ákos	2328	    1,667	0.0033	609	hun_news_2016_00136030
+15422	Többször felmerült, hogy Ákos vallomást akar tenni, de végül ez a mai napig nem történt meg.	Y	ákos	2328	    1,667	0.0033	712.4375	hun_news_2011_00114747
+15423	Nagyjából fél éves kiesést jelent egy ilyen sérülés, ha minden jól megy, Ákos esetében is ennyi lesz.	Y	ákos	2328	    1,667	0.0033	730.8824	hun_news_2017_00803329
+15424	Ákos a matektól nem fél, mert az jól megy neki.	Y	ákos	2328	    1,667	0.0033	743	hun_news_2017_00131803
+15425	Ákos szerint viszont a legfontosabb terület a kultúra ügye, minden csak ezután jön, a gazdaság is.	Y	ákos	2328	    1,667	0.0033	760.7857	hun_news_2011_00606479
+15426	Ha minden jól megy 2020-ra az ország be fog kerülni a világ öt legnagyobb gazdasága közé.	Y	kerülni	2328	    1,667	0.0033	515.3125	hun_news_2017_00607455
+15427	Erre 2014 előtt nem fog sor kerülni, Orbán tehát nem tudja magát elkötelezni, és az orosz fél ezzel pontosan tisztában is van.”	Y	kerülni	2328	    1,667	0.0033	562.85	hun_news_2017_00519483
+15428	Ez után - mint mondta - mindent megtett, de az elsõ húsz közé kerülni már nem maradt esélye.	Y	kerülni	2328	    1,667	0.0033	588.6875	hun_news_2016_00566037
+15429	Romániában egy törvény akkor jó és tökéletes,ha ki lehet játszani,meg lehet kerülni!	Y	kerülni	2328	    1,667	0.0033	600.3846	hun_news_2017_00886794
+15430	Nem attól fog bajba kerülni az ország, ha esetleg ő lesz a miniszterelnök, hiszen ez még nem is biztos, ahhoz kell egy választás, amin győznie kellene.	Y	kerülni	2328	    1,667	0.0033	655.12	hun_news_2011_00557488
+15431	Milyen törvények ezek, és persze ezzel sajnos kis hazánk nincs egyedül..	Y	hazánk	2329	    1,666	0.0033	590.5455	hun_news_2017_00772495
+15432	Január elseje 2011-ben nem csupán egy új év kezdetét jelenti Magyarország számára, hanem azt is, hogy mostantól fél évig hazánk az Európai Unió soros elnöke.	Y	hazánk	2329	    1,666	0.0033	702.08	hun_news_2011_00403650
+15433	Az árszint alapján a 37 európai ország közül a 27-29. helyen áll hazánk.	Y	hazánk	2329	    1,666	0.0033	708.9	hun_news_2016_00323285
+15434	Magyarország számára pedig Törökország rendkívül komoly stratégiai partner keleten, de azért látni kell, hogy hazánk a nyugati szövetségi rendszer, az Európai Unió és a NATO tagja – tette hozzá.	Y	hazánk	2329	    1,666	0.0033	758.037	hun_news_2016_00736238
+15435	Hazánk e tekintetben megint csak az ötödik helyen áll, 14 százalékkal.	Y	hazánk	2329	    1,666	0.0033	761	hun_news_2016_00623494
+15436	Nem ez azonban az egyetlen, ami miatt komoly nyomás van rajta a Barcánál.	Y	nyomás	2329	    1,666	0.0033	606	hun_news_2016_00822730
+15437	Nem szabad elfelejteni, hogy mindössze 22 éves, ráadásul volt csapata ellen játszott, így biztosan nagy volt rajta a nyomás.	Y	nyomás	2329	    1,666	0.0033	615.2941	hun_news_2016_00830074
+15438	Nagyon nagy a nyomás, szerencsére a gyerekek felé ez nem látszik, mert nem is látszódhat.	Y	nyomás	2329	    1,666	0.0033	718.1538	hun_news_2011_00283440
+15439	A most lezárult eljárás végén bocsánatot kért a bíróság elõtt, és azt mondta, hogy nagy volt a nyomás rajta az idõ miatt, ami alatt ki kellett volna hordania a leveleket és ezt nem tudta tartani.	Y	nyomás	2329	    1,666	0.0033	724.8065	hun_news_2017_00190919
+15440	Ugyanakkor remélem, a szurkolók sem helyeznek majd minket túl nagy nyomás alá, azért tisztában kell lenni azzal, hogy hol tartunk mi, és ők.	Y	nyomás	2329	    1,666	0.0033	748.3913	hun_news_2016_00960693
+15441	Ez elég nagy baj, tekintve, hogy megint nem sikerült szólni azoknak, akik ezt megérdemelnék: az ott élők.	Y	élők	2330	    1,665	0.0033	694.8824	hun_news_2016_00549260
+15442	Mint mondta, a felmérés szerint erre az évre is „csökkent a fedél nélkül élők száma”; Budapesten már három éve, vidéken már két éve csökken.	Y	élők	2330	    1,665	0.0033	695.1905	hun_news_2017_00786210
+15443	Ez a 15-74 éves migránsok körében 38, az itthon élők között 45 év.	Y	élők	2330	    1,665	0.0033	701.9	hun_news_2017_00533244
+15444	Ha valaki egy település polgármestere, ez a dolga a településen élők érdekében, vagy nem?	Y	élők	2330	    1,665	0.0033	740.4615	hun_news_2017_00618288
+15445	A Németországban élő magyarok 62 százaléka férfi, míg az Olaszországban élők 72 százaléka nő.	Y	élők	2330	    1,665	0.0033	771.6364	hun_news_2016_00205007
+15446	2002-ben, a kormányzati idő végére a Nemzeti Kutatási és Fejlesztési program 171.2 milliárd forintot biztosított.	Y	biztosított	2331	    1,664	0.0033	732.3077	hun_news_2011_00513222
+15447	A baj az, hogy nemcsak a megelőzés marad el, de sok esetben a kezelés sem biztosított.	Y	biztosított	2331	    1,664	0.0033	748.1429	hun_news_2011_00343915
+15448	A múlt év végi adatok alapján a teljes lakásállomány 72 százaléka, több mint 3 millió lakás volt biztosított.	Y	biztosított	2331	    1,664	0.0033	788.0667	hun_news_2016_00196500
+15449	Kiemelte, hogy a felkészülés biztosított, és az életben sosem volt ilyen jó anyagi helyzetben a magyar úszás, mint most.	Y	biztosított	2331	    1,664	0.0033	811	hun_news_2017_00693788
+15450	A 4 milliós magyar lakásállomány 72 százaléka biztosított, ez az EU-ban ez az arány 85 százalék körüli - mondta Szabó Zoltán.	Y	biztosított	2331	    1,664	0.0033	811.1875	hun_news_2011_00752337
+15451	A nõ szerint az eset éppen István háza elõtt történt, a lányok még meg is mutatták neki, hogy hol.	Y	háza	2331	    1,664	0.0033	551.5556	hun_news_2016_00212469
+15452	Szerinte sok mindent fel lehet róni, de „jól teszi az ember, ha mindig a saját háza táján néz körül”.	Y	háza	2331	    1,664	0.0033	707.3684	hun_news_2016_00923222
+15453	Ugyanakkor el kell mondanom, hogy a településen még nincs tanács- háza.	Y	háza	2331	    1,664	0.0033	761.0909	hun_news_2011_00422427
+15454	A személyes problémák az egyén számára a legfontosabbak, de ez az ország háza, itt nem erről kell beszélni - mondta Orbán Viktor.	Y	háza	2331	    1,664	0.0033	823.7895	hun_news_2011_00557467
+15455	Az utóbbi években egyre kevesebb a jó eredmény a Szatmár megyei csapatok háza táján.	Y	háza	2331	    1,664	0.0033	842.2308	hun_news_2011_00265635
+15456	Nem hiszem, hogy egy felnőtt képes lett volna így kezelni a helyzetet” – tette hozzá.	Y	kezelni	2331	    1,664	0.0033	521.5	hun_news_2017_00822134
+15457	Igen, ez igaz, mivel nem tudták, hogyan kell engem kezelni.	Y	kezelni	2331	    1,664	0.0033	562.1	hun_news_2016_00652044
+15458	Aki nem akart dolgozni, azt pedig kezelni tudta a rendőrség korábban külön képzés nélkül is.	Y	kezelni	2331	    1,664	0.0033	599.3333	hun_news_2011_00894382
+15459	Ekkor Antall József azt mondta – és ezt az egész frakció előtt jelentette ki –, hogy ő megfelelő módon fogja tudni kezelni az Orbán-kérdést.	Y	kezelni	2331	    1,664	0.0033	640.5909	hun_news_2017_00488637
+15460	Azt azonban nem tudom, hogy bárki is képes-e kezelni a hangulatot.	Y	kezelni	2331	    1,664	0.0033	646.9167	hun_news_2017_00391859
+15461	A 2008-as és a 2012-es olimpián is a brazil csapat tagja volt.	Y	olimpián	2331	    1,664	0.0033	494.6	hun_news_2017_00007968
+15462	Meg azt is, hogy az „olimpián nem a győzelem, hanem a részvétel a fontos!”	Y	olimpián	2331	    1,664	0.0033	597.9167	hun_news_2016_00751242
+15463	A női csapat tagjaként két olimpián vett részt, 1988-ban és 1990-ben, amikor mindkét alkalommal a magyar csapat szerezte meg az olimpiai bajnoki címet.	Y	olimpián	2331	    1,664	0.0033	604.5238	hun_news_2016_00211567
+15464	Négy éve, a londoni olimpián 400-on és 200-on is ötödik lett.	Y	olimpián	2331	    1,664	0.0033	636.8	hun_news_2016_00812702
+15465	Ő lett az első amerikai úszó, aki öt olimpián is részt vett, ráadásul 41 évesen három ezüstérmet is szerzett.	Y	olimpián	2331	    1,664	0.0033	700.2941	hun_news_2017_00846152
+15466	De ha így van, talán tényleg nem szerencsés a dolog.	Y	szerencsés	2331	    1,664	0.0033	394	hun_news_2011_00250949
+15467	Szerencsés évben akár több is, de most ebben nem hiszek.	Y	szerencsés	2331	    1,664	0.0033	627.7	hun_news_2017_00918223
+15468	És egy olyan szerencsés helyzetben vagyok, hogy a 30 éves az még nem öreg ebben a szakmában.	Y	szerencsés	2331	    1,664	0.0033	640.2	hun_news_2017_00524379
+15469	Egyébként a mai napig nem szerencsés, ha egy nő egyedül utazik az országban.	Y	szerencsés	2331	    1,664	0.0033	645.7692	hun_news_2017_00470034
+15470	A politikus a Reggeli Gyorsban elmondta, nem szerencsés, hogy a választási kampány idején áll fel a bizottság, de legalább a Fidesz sem tehet úgy, hogy nem történt semmi, neki is lesz feladata az ügyben.	Y	szerencsés	2331	    1,664	0.0033	658.5357	hun_news_2011_00991733
+15471	Télen így hosszú a szünet, nyáron pedig csak pár hét.	Y	télen	2331	    1,664	0.0033	607.6	hun_news_2016_00939061
+15472	Egy egész télen át festett, közben nem mutatta meg, csak a végén – tette hozzá az egykori modell.	Y	télen	2331	    1,664	0.0033	620.2353	hun_news_2016_00475588
+15473	Bár ez az összeg télen meg rossz időben kevesebb, mégis jól jön a nyugdíj mellé.	Y	télen	2331	    1,664	0.0033	656.2	hun_news_2017_00412900
+15474	Ennek tudatában már-már hihetetlen, hogy most télen egyetlen szerb sem jött az NB I-be, ahogy horvát sem.	Y	télen	2331	    1,664	0.0033	685.1176	hun_news_2017_00513171
+15475	Én is most a télen kaptam meg 4 évre - ez a max.	Y	télen	2331	    1,664	0.0033	821.6	hun_news_2011_00949787
+15476	De az a nő aki ilyet tesz AZ NEM NŐ!	Y	ilyet	2332	    1,663	0.0033	445.5	hun_news_2011_00380774
+15477	Nem õ az elsõ, aki ilyet mond, és nem is az utolsó.	Y	ilyet	2332	    1,663	0.0033	500.2	hun_news_2016_00828620
+15478	Ilyet sem tudott még autó Magyarországon - Napi.huEz a program emailben elküldi a cikk címét és bevezetőjét, önnek csak a címzett e-mail címét kell megadnia.	Y	ilyet	2332	    1,663	0.0033	645.7391	hun_news_2017_00656224
+15479	Tíz éve nem lehetett ilyet látni Európában - Napi.huEz a program emailben elküldi a cikk címét és bevezetőjét, önnek csak a címzett e-mail címét kell megadnia.	Y	ilyet	2332	    1,663	0.0033	664.625	hun_news_2017_00945127
+15480	Ilyet most csak mi tudunk a világban - Napi.huEz a program emailben elküldi a cikk címét és bevezetőjét, önnek csak a címzett e-mail címét kell megadnia.	Y	ilyet	2332	    1,663	0.0033	745.7727	hun_news_2017_00656215
+15481	Azt még nem jelentette be a magyar szövetség, hogy a válogatott akkor kivel találkozik.	Y	találkozik	2332	    1,663	0.0033	534.8462	hun_news_2017_00394390
+15482	A két játékos a szerdai (mai) programban, magyar idő szerint várhatóan 22 óra után találkozik.	Y	találkozik	2332	    1,663	0.0033	692.8462	hun_news_2011_00080885
+15483	Az együttes ma a legjobb nyolc között az olasz csapattal találkozik.	Y	találkozik	2332	    1,663	0.0033	713.9	hun_news_2017_00331418
+15484	Most pedig már nemcsak gyerekek, hanem minden korosztály nálunk találkozik.	Y	találkozik	2332	    1,663	0.0033	726.1	hun_news_2017_00798531
+15485	Ha egy külföldi találkozik a magyar kultúra ezen nagyon magas szintjével, és azt mondja, igen, ellátogatok Magyarországra, mert az egy nagyon érdekes ország, az nekünk sok pénzt fog hozni.	Y	találkozik	2332	    1,663	0.0033	746.6923	hun_news_2011_00556309
+15486	Az erre fordított idõ az elmúlt húsz évben mindössze alig két és fél órára csökkent.	Y	fordított	2333	    1,662	0.0033	638.3571	hun_news_2016_00353419
+15487	Egy 1992-es nemzetközi vizsgálat szerint a kelet- és nyugat-németek 90 százaléka gondolta úgy, hogy az emberek életének nem elengedhetetlen része a gyermekvállalás – Magyarországon épp fordított volt ez az arány.	Y	fordított	2333	    1,662	0.0033	788.4444	hun_news_2017_00467643
+15488	A szakemberek szerint viszont az USA vagy más ország leminősítése nem várható még a válság elleni küzdelemre fordított hatalmas költségek ellenére sem.	Y	fordított	2333	    1,662	0.0033	815.5714	hun_news_2011_00050299
+15489	Mint kiderült: az amerikai kormányzat az utóbbi két év alatt 65 millió dollárt fordított ukrajnai politikai szervezetek támogatására.	Y	fordított	2333	    1,662	0.0033	833.1875	hun_news_2011_00085094
+15490	Ez az arány 2007-ben még fordított volt; akkor a férfiak 69, a nőknek pedig 35 százaléka szerint volt fontos a netes közösség.	Y	fordított	2333	    1,662	0.0033	843.8235	hun_news_2011_00924124
+15491	A közvélemény most viszont úgy tartja, Albert herceg jól választott.	Y	albert	2334	    1,658	0.0033	905.5	hun_news_2011_00437685
+15492	Az egyetem első rektora Albert Sándor lett, aki 2009-ig töltötte be ezt a tisztséget.	Y	albert	2334	    1,658	0.0033	945.2857	hun_news_2017_00327533
+15493	A helyzet azért is érdekes, mert Tompa György és Bedő Zoltán megyei önkormányzati képviselő, Váncsa Albert pedig a sepsiszentgyörgyi tanács tagja.	Y	albert	2334	    1,658	0.0033	975.55	hun_news_2017_00085156
+15494	Kónya Albert Attila grafikája Cikk megjelenítése: 1098Olvasóink értékelése: Szavazatok száma: 18 Ha hozzá szeretne szólni, jelentkezzen be A VERS AZ, AMIT..	Y	albert	2334	    1,658	0.0033	985.8	hun_news_2017_00703620
+15495	 Szent-Györgyi Albert Kívánok sok sikert és nagyon jó eredményeket az idei évre is!	Y	albert	2334	    1,658	0.0033	994.3571	hun_news_2011_00772578
+15496	Tehát úgy néz ki,kell a Paks-II,és még az orosz gáz és olaj is.	Y	olaj	2334	    1,658	0.0033	665.7333	hun_news_2016_00938439
+15497	Nem sérült meg senki, és olaj sem került a vízbe.	Y	olaj	2334	    1,658	0.0033	680.1	hun_news_2016_00829509
+15498	Nagyot esett az orosz olaj ára az idén - Napi.huEz a program emailben elküldi a cikk címét és bevezetőjét, önnek csak a címzett e-mail címét kell megadnia.	Y	olaj	2334	    1,658	0.0033	704.5833	hun_news_2017_00806734
+15499	Az olaj viszont jól szerepelt, itt újabb éves csúcs született.	Y	olaj	2334	    1,658	0.0033	707.9	hun_news_2011_00983240
+15500	Nem érdekes, hogy az olaj 20, 40,, 50 vagy 60 dollárba kerül - tette hozzá.	Y	olaj	2334	    1,658	0.0033	724.7	hun_news_2017_00819689
+15501	Az elmúlt idényben az Észak-Nyugati-csoport 12 együttese közül a 6. helyen zárt a dr.	Y	együttese	2335	    1,657	0.0033	755.5833	hun_news_2011_00575328
+15502	Tóth Bálint együttese több mint egy hónap után nyert újra, legutóbb szeptember 20-án a Pécs otthonából hozta el a három pontot.	Y	együttese	2335	    1,657	0.0033	792.85	hun_news_2016_00952501
+15503	A Mezőkövesd Zsóry FC együttese az NB II-es Kérjük jelentkezzen be, hogy a teljes cikket olvashassa Már van előfizetésem vagy korábban regisztráltam!	Y	együttese	2335	    1,657	0.0033	858.2273	hun_news_2017_00178474
+15504	Márpedig Horváth Károly együttese saját közönsége előtt mindössze egy mérkőzést nyert meg a szezonban, azt is szeptember végén, a bajnoki címvédő Debrecen ellen (4–1).	Y	együttese	2335	    1,657	0.0033	884.4545	hun_news_2011_00204765
+15505	Nem dolgozott ki együttese számára jó taktikát, és a mérkőzések alatt sem volt képes változtatni.	Y	együttese	2335	    1,657	0.0033	909.2	hun_news_2011_00257027
+15506	De, sajnos, úgy van, hogy aki több pénzt ad, az hamarabb szabadul.	Y	hamarabb	2335	    1,657	0.0033	639.75	hun_news_2016_00459999
+15507	Ha pedig ez mégis hamarabb megtörténne, kevesebb évet veszítenetek, mint azok a fiatalok, akik előtt még ott áll az egész élet.	Y	hamarabb	2335	    1,657	0.0033	669.2381	hun_news_2017_00610609
+15508	A férfi nem érzi magát biztonságban, szeretne minél hamarabb Magyarországon lenni - tette hozzá az igazgató.	Y	hamarabb	2335	    1,657	0.0033	702.2667	hun_news_2016_00059430
+15509	A játékos azt is elmondta, úgy érzi, a Nyíregyháza nem tett meg mindent, hogy a két együttes minél hamarabb lejátszhassa a mérkőzést.	Y	hamarabb	2335	    1,657	0.0033	723.4211	hun_news_2016_00100493
+15510	Juhász József szerit azonban az ország számára kedvező, ha minél hamarabb új kormány áll fel, a jelenlegi ugyanis már nem partner Európa számára.	Y	hamarabb	2335	    1,657	0.0033	731.5	hun_news_2011_00240114
+15511	Egyébként szerintem is jó ötlet, bár csak több ilyen lenne.”	Y	ötlet	2335	    1,657	0.0033	357.1	hun_news_2017_00470816
+15512	Igaz, nem igaz nem tudom, de az ötlet szerintem jó.	Y	ötlet	2335	    1,657	0.0033	469.625	hun_news_2011_00993288
+15513	A jó ötlet szükséges, attól még nem jön a siker.	Y	ötlet	2335	    1,657	0.0033	588.4444	hun_news_2011_00252772
+15514	Amúgy az ötlet jó, remélem az időjárás is az lesz!	Y	ötlet	2335	    1,657	0.0033	843.5	hun_news_2011_00773688
+15515	A hozzászólás nem küldhető el. Elfogadom a fórumszabályzatot: Moderálási alapelvek – Cikkhozzászólás szabályai Remek ötlet!	Y	ötlet	2335	    1,657	0.0033	1340.6923	hun_news_2017_00094276
+15516	Az meg viszont nagyon érdekes, hogy a románok még mindig nem foglalták el Magyarországot!	Y	románok	2336	    1,656	0.0033	631.6429	hun_news_2016_00374345
+15517	Jó magyarok ezek az emberek, annak ellenére, hogy az őseik között voltak románok.	Y	románok	2336	    1,656	0.0033	631.9167	hun_news_2016_00677863
+15518	Ugyanis ezeket az embereket nem románságuk miatt végezték ki, már csak azért sem, mert nem is voltak mind románok.	Y	románok	2336	    1,656	0.0033	642.2778	hun_news_2011_00048185
+15519	Erdély olyan, amilyen, nem azt kell nézni, hogy a románok vagy a magyarok voltak-e itt elõször, azt kell nézni, hogy most kik vannak itt.	Y	románok	2336	    1,656	0.0033	657.4211	hun_news_2017_00517494
+15520	A baj csak az, hogy ha ezek után a caracali románok azt mondják, nekik egyáltalán nem kell autonómia.	Y	románok	2336	    1,656	0.0033	726.2353	hun_news_2017_00014664
+15521	Egy másik kérdés, milyen kockázati költségek vagy infláció mellett jött ki mindez az MNB-nek?	Y	költségek	2337	    1,655	0.0033	743.6667	hun_news_2016_00484093
+15522	A miniszter az M1 Az este címû mûsorában hétfõn emlékeztetett arra, hogy a felek között a pénzügyi megállapodás még nem született meg, de abban már megállapodtak, hogy a költségek 80 százalékát finanszírozza az orosz fél, és 20 százalékát a magyar.	Y	költségek	2337	    1,655	0.0033	767.8667	hun_news_2016_00188696
+15523	Fontos számla érkezett Csak, mert, meg nőni is fog, meg vannak más költségek, meg az állam jó tulajdonos.	Y	költségek	2337	    1,655	0.0033	770.75	hun_news_2016_00583880
+15524	A cikk a hirdetés után folytatódik A beruházási költségek 1,7 milliárd forintot tettek ki 2010 első negyedévében, ami 38 százalékkal marad el az egy évvel korábbi szinttől.	Y	költségek	2337	    1,655	0.0033	801.2727	hun_news_2011_00738587
+15525	Meg aztán vannak olyan költségek amit akkor is fizetnie kell, ha nem kapcsolja be az órát, vagy egy fillért sem keres.	Y	költségek	2337	    1,655	0.0033	804.1905	hun_news_2017_00748658
+15526	Csak ha több jár vissza, mint a tartozás, akkor kaphatnak vissza pénzt is az ügyfelek.	Y	ügyfelek	2337	    1,655	0.0033	705.9286	hun_news_2017_00438549
+15527	Jönnek még az ügyfelek, de már nem úgy, mint hajdanán.	Y	ügyfelek	2337	    1,655	0.0033	782	hun_news_2011_00812841
+15528	Kovács Levente szerint az ügyfelek eddig átlagosan két alkalommal vettek fel pénzt, ezért a két ingyenes alkalom havonta szerinte elég lenne.	Y	ügyfelek	2337	    1,655	0.0033	789.5	hun_news_2016_00710857
+15529	Az ügyfelek egy része tudja ezt, és nem is húzza tovább a megegyezést.	Y	ügyfelek	2337	    1,655	0.0033	792.7692	hun_news_2017_00397980
+15530	Ebből a szempontból különbség lehet a régi és az újabb ügyfelek között: a régi Ptk.	Y	ügyfelek	2337	    1,655	0.0033	805.4167	hun_news_2017_00464012
+15531	Még két 10 éves büntetés volt, egy nyolc éves, egy hét és egy hat éves.	Y	büntetés	2338	    1,654	0.0033	338.2	hun_news_2017_00754236
+15532	144 milliós büntetés a Való Világ miatt Még nem érkezett hozzászólás.	Y	büntetés	2338	    1,654	0.0033	501.6	hun_news_2011_00896872
+15533	Volt olyan büntetés, ahol meg én nem láttam semmit (mindkét oldalon).	Y	büntetés	2338	    1,654	0.0033	532.2727	hun_news_2011_00959681
+15534	No és mennyi a büntetés,mert ezek után már az is érdekes?	Y	büntetés	2338	    1,654	0.0033	541.4167	hun_news_2011_00501905
+15535	Így jöhet a büntetés - Napi.huEz a program emailben elküldi a cikk címét és bevezetőjét, önnek csak a címzett e-mail címét kell megadnia.	Y	büntetés	2338	    1,654	0.0033	760.25	hun_news_2017_00650606
+15536	És a szakemberek azt is mondják, hogy kérni sem tudunk jól.	Y	kérni	2338	    1,654	0.0033	572.5455	hun_news_2017_00523645
+15537	Ha viszont egyedül vannak, akár meg is lehet kérni õket egy közös fotóra.	Y	kérni	2338	    1,654	0.0033	641.6154	hun_news_2017_00619314
+15538	Aki amúgy felnőtt ember volt, ha akart volna, tudott volna segítséget kérni.	Y	kérni	2338	    1,654	0.0033	705.2727	hun_news_2011_00282836
+15539	Kérdés, hol van az a pont, amikor érdemes szakember segítségét kérni.	Y	kérni	2338	    1,654	0.0033	737.4545	hun_news_2017_00684227
+15540	Ismét én vagyok és ismét azt szeretném kérni hogy írjátok meg nekem hogy a 2011.	Y	kérni	2338	    1,654	0.0033	752.1667	hun_news_2011_00601782
+15541	A két ország között azonban nem volt sem diplomáciai, sem légi kapcsolat.	Y	légi	2338	    1,654	0.0033	645.1818	hun_news_2017_00112556
+15542	Kevesebb légi baleset volt 2016-ban, de ezekben többen haltak meg- A Nemzetközi Légi Szállítási Szövetség adatai szerint bár 2016-ban kevesebb légi baleset volt mint egy évvel korábban, többen haltak..	Y	légi	2338	    1,654	0.0033	725.0476	hun_news_2017_00690647
+15543	Néhány nappal a légi show előtt még csak 100-ról beszélt.	Y	légi	2338	    1,654	0.0033	812.2	hun_news_2011_00336887
+15544	Az alacsony árak és a minőség nem feltétlenül járnak együtt, s úgy tűnik, hogy ez a légi szállítás esetében is igaz.	Y	légi	2338	    1,654	0.0033	855.35	hun_news_2016_00313074
+15545	Mivel az amerikai és japán légi közlekedési hatóságok ezzel kapcsolatos vizsgálata még tart, a gépek továbbra is a földön maradnak.	Y	légi	2338	    1,654	0.0033	856.2632	hun_news_2016_00793259
+15546	Az emberek mégis azt várják tőlük, hogy mondják meg, mi lesz a jövőben.	Y	tőlük	2338	    1,654	0.0033	510.3077	hun_news_2016_00347370
+15547	Most jött haza egy csoport, tőlük tudom, hogy egy hét alatt 8 ezer forintot lehet keresni.	Y	tőlük	2338	    1,654	0.0033	549.7857	hun_news_2011_00448751
+15548	Egész héten csak azt hallottam tőlük, hogy is akarnak nyerni, elég, ha ott vannak.	Y	tőlük	2338	    1,654	0.0033	647.5714	hun_news_2011_00702566
+15549	Ez több mint ezer ember végleges utcára Hogy tőlük hogyan hajtják majd be a pénzt a rendőrök, nem tudni.	Y	tőlük	2338	    1,654	0.0033	706.5	hun_news_2011_00118644
+15550	Így is, úgy is felvásárolja tőlük valaki, csak az a kérdés, hogy milyen célra.	Y	tőlük	2338	    1,654	0.0033	738.6923	hun_news_2011_00222894
+15551	Minden kornak sajátos zenéje van, de a mai talán már nem azt jelenti, mint ötven, száz évvel ezelőtt.	Y	sajátos	2339	    1,653	0.0033	775.2778	hun_news_2011_00627381
+15552	Ön hogyan látja ezt a – Nem hiszem, hogy ami Magyarországon történik, az a keleti modell felé tolódást jelenti, ez sokkal inkább egy sajátos belpolitikai folyamat.	Y	sajátos	2339	    1,653	0.0033	792.5	hun_news_2011_00709549
+15553	Ez már önmagában arra utal, hogy a törvény egy sajátos helyzetet kezel, és ha ezer éven keresztül nem volt szükség ilyen törvényre, akkor ez a különleges helyzet nyilván új helyzet – sőt kétszeresen is új.	Y	sajátos	2339	    1,653	0.0033	803.6	hun_news_2011_00668310
+15554	Akad olyan ország, ahol több ezer ilyen sajátos, nemzeti értéket képviselő termék van.	Y	sajátos	2339	    1,653	0.0033	812.4615	hun_news_2011_00612556
+15555	Persze lehet Európa felé kacsintgatni, de ott is vannak sajátos problémák.	Y	sajátos	2339	    1,653	0.0033	823.4545	hun_news_2016_00870927
+15556	Cikk megjelenítése: 1156Olvasóink értékelése: Ha hozzá szeretne szólni, jelentkezzen be Bence.	Y	bence	2340	    1,652	0.0033	552.2727	hun_news_2017_00432345
+15557	Már most is 200 ezer család igényelhetnéRétvári Bence szerint az új támogatás feltételeinek több mint 200 ezer olyan család felel meg már most, ahol három vagy több gyermek él, de a kabinet abban bízik, hogy a jövõben még több ilyen család lesz.	Y	bence	2340	    1,652	0.0033	722	hun_news_2017_00741423
+15558	Hozzáadom a könyvjelzõhözKüldd ide: Delicious Bence egyetlen hibája az volt, hogy létezett Figyelem!	Y	bence	2340	    1,652	0.0033	840.7692	hun_news_2016_00637696
+15559	Fliegauf Bence arról is beszélt, hogy a film elég hamar, a producerek szerint már márciusban látható lesz Magyarországon.	Y	bence	2340	    1,652	0.0033	904.4118	hun_news_2016_00580784
+15560	Istenes Bence azt mondja, ő nem tud semmiféle megkeresésről, továbbra is az RTL Klub munkatársa, és bár ősztől valóban ígértek neki ismét munkát, hogy pontosan mi lesz a feladata, azt még nem tudja.	Y	bence	2340	    1,652	0.0033	922.129	hun_news_2011_00720155
+15561	Az ezzel kapcsolatos információkat a játékos saját Facebook-oldalán tette közzé.	Y	információkat	2341	    1,651	0.0033	702.7273	hun_news_2016_00361585
+15562	Ha nem kapok ilyen-olyan információkat, nekem sem jön össze.	Y	információkat	2341	    1,651	0.0033	714.6	hun_news_2011_00742616
+15563	Én egyelőre nem szeretnék erről többet mondani addig, amíg nem tudok pontos információkat.	Y	információkat	2341	    1,651	0.0033	773.5833	hun_news_2011_00657459
+15564	Soha nem tudják a cellatársak, hogy ott volt-e, vagy információkat adott át a politikai tisztnek.	Y	információkat	2341	    1,651	0.0033	780.1333	hun_news_2011_00814799
+15565	Közülük 17 ország alig vagy egyáltalán nem tesz közzé költségvetési információkat.	Y	információkat	2341	    1,651	0.0033	831.2	hun_news_2017_00711550
+15566	Először a Földközi-tengeri Unió, most pedig az európai gazdasági kormány esetében.	Y	tengeri	2341	    1,651	0.0033	629.1667	hun_news_2011_00966168
+15567	A két ország közötti, vitatott nyugati tengeri határon hét éve nem történt ilyen komoly összecsapás.	Y	tengeri	2341	    1,651	0.0033	808.9333	hun_news_2011_00598363
+15568	Egyelőre még azt sem tudni biztosan, hogy egy tengeri növény, vagy egy állat lehet-e trutymó.	Y	tengeri	2341	    1,651	0.0033	868.4	hun_news_2016_00476258
+15569	A Nemzetközi Migrációs Szervezet (IOM) adatai szerint az idén eddig 4271 ember halt meg a veszélyes tengeri átkelés közben, míg tavaly összesen 3777.	Y	tengeri	2341	    1,651	0.0033	947.65	hun_news_2016_00206822
+15570	Fontos a szakember szerint felhívni a figyelmet arra is, hogy hiába kóser, vagy tengeri a felhasznált só, attól az még csak só a szervezet számára.	Y	tengeri	2341	    1,651	0.0033	966.619	hun_news_2017_00579801
+15571	De hát az akkor katona volt, és akkor a levente, mikor voltak a leventék.	Y	levente	2342	    1,649	0.0033	762.75	hun_news_2011_00337508
+15572	Kovács Levente szerint az ügyfelek eddig átlagosan két alkalommal vettek fel pénzt, ezért a két ingyenes alkalom havonta szerinte elég lenne.	Y	levente	2342	    1,649	0.0033	789.5	hun_news_2016_00710857
+15573	Szőcs Levente polgármester nekünk is csak ezt mondta: nincs pénz.	Y	levente	2342	    1,649	0.0033	791.3	hun_news_2017_00925837
+15574	Magyar Levente szerint nemcsak Magyarországon, de Szlovákiában és Csehországban is ez történik.	Y	levente	2342	    1,649	0.0033	801.0833	hun_news_2016_00734056
+15575	Pápa Levente, a párt alelnöke pénteken az MTI-nek azt mondta, ha ez nem történik meg, feljelentést tesz az MNKH ellen bennfentes kereskedelem miatt.	Y	levente	2342	    1,649	0.0033	947.2174	hun_news_2016_00862226
+15576	Ha ezt sem teszik meg, akkor hogyan akarják megoldani a helyzetet?	Y	megoldani	2342	    1,649	0.0033	571.6364	hun_news_2011_00256193
+15577	És egy feladat, amit az elmúlt 23 évben senkinek sem sikerült megoldani.	Y	megoldani	2342	    1,649	0.0033	594.1818	hun_news_2017_00524345
+15578	Nagyon úgy tûnik, hogy ez önmagában nem fogja tudni megoldani a 2013 utáni költségvetési helyzetet.	Y	megoldani	2342	    1,649	0.0033	746	hun_news_2016_00808183
+15579	Egy év alatt persze ezeknek csak egy részét tudtuk megoldani.	Y	megoldani	2342	    1,649	0.0033	754.1111	hun_news_2017_00474346
+15580	Fórum moderációs elveinket itt olvashatja: http://www.napi.hu/info/adatvedelem.html Nem tudják megoldani.	Y	megoldani	2342	    1,649	0.0033	1209.4	hun_news_2016_00586820
+15581	Ha nem ez történik, akkor valóban közel vagyunk ahhoz, hogy legközelebb a bankbetéteket vegye el az állam bácsi.	Y	bácsi	2343	    1,648	0.0033	705.2222	hun_news_2011_00729881
+15582	Abban nem vagyok biztos, hogy ez minden esetben igaz, de Szent István biztos, hogy Gõgös bácsi, a volt kocsmáros.”	Y	bácsi	2343	    1,648	0.0033	731.3529	hun_news_2016_00018746
+15583	Az “igazi bácsi”, az mind rendes ember, ha magyar, ha román, ha cigány.	Y	bácsi	2343	    1,648	0.0033	805.5	hun_news_2011_00926368
+15584	Na erre mondta Besenyő Pista bácsi, hogy a semmi az nem van, hanem nincs.	Y	bácsi	2343	    1,648	0.0033	819.7143	hun_news_2011_00671863
+15585	Biztos hogy ez a bácsi sem jár soha a Rózsadombra.	Y	bácsi	2343	    1,648	0.0033	828.6667	hun_news_2016_00427870
+15586	Mi volt az a pont, amikor érezte, sokkal több van benne?	Y	érezte	2344	    1,645	0.0033	325.4545	hun_news_2011_00390887
+15587	Talán ezt ő is érezte, és az utóbbi másfél hónapban be sem járt.	Y	érezte	2344	    1,645	0.0033	447.2308	hun_news_2017_00931214
+15588	Vajon úgy érezte-e, hogy volt élete a halál előtt?	Y	érezte	2344	    1,645	0.0033	633.4	hun_news_2017_00977329
+15589	De hogy az énekes hogy érezte magát, azt sosem tudtuk meg.	Y	érezte	2344	    1,645	0.0033	730.8	hun_news_2011_00731555
+15590	Jól érezte magát - Kelet-MagyarországDigitális és nyomtatott előfizetésekDigitális Kelet olvasásLevél a szerkesztőségnekSpóroljon csoportos beszedéssel!	Y	érezte	2344	    1,645	0.0033	1047.6154	hun_news_2017_00673396
+15591	Lesz három olyan páros, akik az életben is együtt vannak.	Y	páros	2345	    1,644	0.0033	418.5	hun_news_2016_00728119
+15592	A páros közel három éve jár együtt, így ennek el is jöhetett az ideje.	Y	páros	2345	    1,644	0.0033	551.4286	hun_news_2017_00214949
+15593	A „mi és ők” fogalompárján kívül van még egy másik páros is, a „mi és a mások”.	Y	páros	2345	    1,644	0.0033	616.3077	hun_news_2011_00054990
+15594	És azt is ha tudod, mit a gyurcsány, bajnai páros 8 év alatt?	Y	páros	2345	    1,644	0.0033	624.8333	hun_news_2016_00527367
+15595	Bár a páros már el is jegyezte egymást a románc mégis véget ért, de van valami ami nélkül nem nagyon bírják ki, és ez a szex!	Y	páros	2345	    1,644	0.0033	747.4583	hun_news_2017_00411394
+15596	Két jól sikerült kiadás után az idén is tizenegy csapat nevezett be.	Y	tizenegy	2345	    1,644	0.0033	673.6667	hun_news_2011_00151905
+15597	Március 17. és 23. között a sepsiszentgyörgyi megyei kórházban tizenegy lány és tizenegy fiú született.	Y	tizenegy	2345	    1,644	0.0033	699.0909	hun_news_2016_00741290
+15598	Ez azt jelenti, hogy az öt év alatti gyermekek tíz százaléka halt meg az utóbbi tizenegy hétben.	Y	tizenegy	2345	    1,644	0.0033	720.4375	hun_news_2011_00474686
+15599	Már a mostani pénzügyi év első tizenegy hónapjában, vagyis február végéig is 931 724 autót gyártottak, 35 százalékkal többet, mint egy évvel korábban.	Y	tizenegy	2345	    1,644	0.0033	735.05	hun_news_2011_00504952
+15600	Az összecsapásokban az elmúlt tizenegy hónap alatt több száz, egyes források szerint közel másfél ezer ember vesztette életét.	Y	tizenegy	2345	    1,644	0.0033	761.6471	hun_news_2017_00383813
+15601	Úgy tudom, már több olyan alkalom is volt, hogy a lány nem töltötte vele az éjszakát.	Y	töltötte	2345	    1,644	0.0033	615.1875	hun_news_2017_00965709
+15602	Három éven át az év egyik felét Párizsban, a másik felét Magyarországon töltötte.	Y	töltötte	2345	    1,644	0.0033	718.75	hun_news_2011_00336479
+15603	Ha a 8–1-es eredmény nem is töltötte el őket örömmel, az utazás biztosan.	Y	töltötte	2345	    1,644	0.0033	729.1538	hun_news_2016_00598986
+15604	Az utolsó három hónapot teljes harmóniában töltötte, de ő sem tudta előre, hogy így lesz.	Y	töltötte	2345	    1,644	0.0033	747.6	hun_news_2011_00396026
+15605	Nagy-Britanniában több évig dolgozott is, az 1980-as és 90-es évek nagy részét pedig száműzetésben töltötte.	Y	töltötte	2345	    1,644	0.0033	807.3333	hun_news_2017_00802607
+15606	Cikk megjelenítése: 808Olvasóink értékelése: Ha hozzá szeretne szólni, jelentkezzen be Mély fájdalommal tudatjuk, hogy a kézdivásárhelyi 2015. szeptember 11-én elhunyt.	Y	kézdivásárhelyi	2346	    1,643	0.0033	676.2632	hun_news_2017_00435119
+15607	De a kézdivásárhelyi kiállítás volt az egyedüli, amelyen maga is részt vett.	Y	kézdivásárhelyi	2346	    1,643	0.0033	726.8333	hun_news_2011_00996757
+15608	Az EMNP jövő héten jelenti be, hogy ki lesz a kézdivásárhelyi polgármester jelöltje.	Y	kézdivásárhelyi	2346	    1,643	0.0033	796.5385	hun_news_2017_00344947
+15609	A kézdivásárhelyi jégpálya kedden, csütörtökön, pénteken, szombaton és vasárnap 17 és 20, hétfőn és szerdán 20 órától tart nyitva.	Y	kézdivásárhelyi	2346	    1,643	0.0033	858.0714	hun_news_2017_00113796
+15610	Cikk megjelenítése: 2228Olvasóink értékelése: Ha hozzá szeretne szólni, jelentkezzen be Mély fájdalommal tudatjuk, hogy a kézdivásárhelyi özv.	Y	kézdivásárhelyi	2346	    1,643	0.0033	893.5882	hun_news_2016_00438514
+15611	Ez az új háború Franciaországban természetesen nem egy hagyományos háború.	Y	franciaországban	2347	    1,642	0.0033	576.1111	hun_news_2016_00543093
+15612	Meg kell várni azt, hogy Franciaországban az új elnök után milyen irányba mennek a folyamatok.	Y	franciaországban	2347	    1,642	0.0033	770.8	hun_news_2016_00756373
+15613	A 2016-os Európa-bajnokságot Franciaországban rendezik meg június 10. és július 10. között.	Y	franciaországban	2347	    1,642	0.0033	788.3636	hun_news_2016_00009417
+15614	Ezt követõen a kormányfõ többször is megerõsítette, hogy még soha nem volt olyan jelentõs a terrorveszély Franciaországban, mint jelenleg.	Y	franciaországban	2347	    1,642	0.0033	800.1667	hun_news_2017_00560037
+15615	Mintegy 40 személy sérült meg, egy csecsemő életét vesztette a vasárnap reggel Franciaországban történt baleset során.	Y	franciaországban	2347	    1,642	0.0033	805.2	hun_news_2017_00783855
+15616	Én már akkor is tudtam, az erről szóló információ sajnos igaz.	Y	információ	2348	    1,641	0.0033	499.0909	hun_news_2017_00508284
+15617	Úgy vagyunk vele, hogy inkább legyen meg három forrásból is egy adott információ, mint egybõl sem.	Y	információ	2348	    1,641	0.0033	625.8125	hun_news_2017_00966427
+15618	Arról még nincs információ, hogy miért éppen ezt az iskolát érte támadás.	Y	információ	2348	    1,641	0.0033	654.25	hun_news_2016_00243266
+15619	És nem lehet azt mondani azt sem, hogy nincs elég információ és az emberek tudatlanságban élnek.	Y	információ	2348	    1,641	0.0033	654.3571	hun_news_2017_00527850
+15620	Ma már egész más az információ áramlás, mint mondjuk 95-ben, vagy 2002-ben volt.	Y	információ	2348	    1,641	0.0033	668.4167	hun_news_2011_00584485
+15621	Pár nap múlva jelent meg egy közlemény, melyben a kulturális szövetség elnöke elutasította a támogatást.	Y	melyben	2348	    1,641	0.0033	755.2143	hun_news_2011_00031339
+15622	Örülök annak, hogy a pécsi egy az olyan kevés csapatok közül, melyben fiatal magyar játékosok is szerephez jutnak.	Y	melyben	2348	    1,641	0.0033	860.4444	hun_news_2011_00005492
+15623	Ezért akár olyan szám is lehet, melyben még csak döntõbe sem kell kerülni a kvótaszerzéshez.	Y	melyben	2348	    1,641	0.0033	907.3333	hun_news_2017_00548597
+15624	A másik kérdés, hogy Ön szerint, reálisan, hogyan lehetne elérni azt a politikai környezetet, melyben egy ilyen program megvalósítható?	Y	melyben	2348	    1,641	0.0033	939.7222	hun_news_2017_00166714
+15625	Ez az egyetlen magyarországi zsidó közösség, melyben a vallási vezető tisztségét nő tölti be.	Y	melyben	2348	    1,641	0.0033	1023.9286	hun_news_2011_00288742
+15626	Természetesen ott van a másik oldal is amikor az autós tesz rá nagy ívben, hogy az idősek már nem úgy és olyan gyorsan haladnak.	Y	autós	2349	    1,638	0.0032	748.0435	hun_news_2011_00300197
+15627	Nagyon úgy tűnik, hogy aki fizet és ráfizet ebben a játékban, az nem a sokat ígérő cég vagy bank, hanem az autós.	Y	autós	2349	    1,638	0.0032	881.25	hun_news_2011_00321713
+15628	Az igazi meglepetést nem is maga a manõver okozza, amit az ismeretlen autós bemutat, hanem sokkal inkább az, hogy közben senki sem sérült meg.	Y	autós	2349	    1,638	0.0032	909.3636	hun_news_2016_00365286
+15629	Ilyen autós szabály még nem volt a magyar jogban - Napi.	Y	autós	2349	    1,638	0.0032	962.5	hun_news_2016_00658288
+15630	A zebrát minden esetben (itt is) úgy kell megközelíteni, hogy bármilyen körülmények között meg tudjon állni az autós!	Y	autós	2349	    1,638	0.0032	986.1667	hun_news_2011_00353975
+15631	Sajnos az átlag román nagyon nagy százaléka minősít, még akkor is ha ennek nem mindig ad hangot.	Y	hangot	2349	    1,638	0.0032	603.5882	hun_news_2016_00892193
+15632	Ráadásul a sok szinkronváltozat mellett az eredeti hangot is választhatja az ember, és ezt sokan meg is teszik.	Y	hangot	2349	    1,638	0.0032	814.25	hun_news_2016_00877942
+15633	Nincs más lehetőség, ezért nekünk kell megtalálnunk a közös hangot.	Y	hangot	2349	    1,638	0.0032	847.3	hun_news_2016_00837920
+15634	Szinte hallom a sok felháborodott hangot, hogy ez miért nem így van.	Y	hangot	2349	    1,638	0.0032	853.8333	hun_news_2011_00550495
+15635	Miközben õ úgy érzi, hogy sokan támadják - ennek az elmúlt hetekben többször is hangot adott -, Magyarországon egyre több olyan csoport van, akik nem alaptalanul érezhetik úgy, hogy õket pedig Lázár János támadja.	Y	hangot	2349	    1,638	0.0032	867.0667	hun_news_2016_00773123
+15636	Az ehhez szükséges mintegy 4,5 milliárd forintot a kormány biztosítja majd.	Y	biztosítja	2350	    1,637	0.0032	388.6	hun_news_2017_00331696
+15637	A program teljes összege 73,9 millió euró (mintegy 22,2 milliárd forint), a fennmaradó részt a két ország biztosítja.	Y	biztosítja	2350	    1,637	0.0032	721.2857	hun_news_2016_00228557
+15638	A holnap pedig csakis ugyanazt hozhatja neki, amit a ma is megadott, mert egy olyan ember mint aki ma ezt biztosítja neki, holnap is meg fogja adni minden körülmények között.	Y	biztosítja	2350	    1,637	0.0032	784.32	hun_news_2017_00091785
+15639	Meg tudja ezt tenni, az állam számára ugyanis a folyamatosan száguldó gazdaság biztosítja a szükséges bevételeket.	Y	biztosítja	2350	    1,637	0.0032	837.2667	hun_news_2017_00758849
+15640	A százmilliárd forintot az Európai Szociális Alap és az Európai Fejlesztési Alap biztosítja Magyarország számára.	Y	biztosítja	2350	    1,637	0.0032	838.0833	hun_news_2017_00252084
+15641	A botrány megmutatta, hogy mi történt az elmúlt években, és ezt senki sem ismerte el.	Y	ismerte	2350	    1,637	0.0032	575.9333	hun_news_2011_00493464
+15642	A Fidesz azért Van szarban most, mert ezt nem ismerte fel.	Y	ismerte	2350	    1,637	0.0032	618.9091	hun_news_2011_00013452
+15643	Az orosz közönség nagyon jól ismerte, hiszen már az 1940-es évek óta több népszerû filmben is szerepelt.	Y	ismerte	2350	    1,637	0.0032	633.75	hun_news_2016_00385387
+15644	Ezt kedden elsõ ízben ismerte el a bizottság több tagja, köztük elnök.	Y	ismerte	2350	    1,637	0.0032	645.4167	hun_news_2016_00562495
+15645	Van néhány olyan pont, ahol több erőfeszítést lehetett volna tenni - ismerte el.	Y	ismerte	2350	    1,637	0.0032	665.1667	hun_news_2011_00633299
+15646	Most 90-100 éves lehet, és a tudósok szerint még legalább 50 évet él majd.	Y	tudósok	2350	    1,637	0.0032	364.1667	hun_news_2011_00982679
+15647	A tudósok egyelőre csak abban nem biztosak, miért is van ez így.	Y	tudósok	2350	    1,637	0.0032	559.5833	hun_news_2016_00288292
+15648	Az irodalomtörténészek és tudósok szerint ma nem ez a helyzet.	Y	tudósok	2350	    1,637	0.0032	676.5	hun_news_2016_00370603
+15649	Azt, hogy pontosan mi is történik a méhben, egyelőre a tudósok sem tudják.	Y	tudósok	2350	    1,637	0.0032	738.8333	hun_news_2011_00774445
+15650	A tudósok ebben tudnak segíteni, de az a véleményem, hogy a cégek sokkal inkább pénzt akarnak keresni.	Y	tudósok	2350	    1,637	0.0032	807.6667	hun_news_2016_00288285
+15651	Nem inkább arról van szó, hogy ezek az emberek már eleve melegek?	Y	eleve	2351	    1,633	0.0032	568.0833	hun_news_2016_00824311
+15652	Még több adót, pedig Franciaország már eleve az az ország, ahol a legtöbb az adó.	Y	eleve	2351	    1,633	0.0032	631.6923	hun_news_2016_00760992
+15653	De hát eleve nem is az volt a cél, hogy a zembereknek jobb legyen.	Y	eleve	2351	    1,633	0.0032	631.9231	hun_news_2016_00455240
+15654	De sajnos ez nálunk azért nem működik, mert itt eleve rosszindulat van.	Y	eleve	2351	    1,633	0.0032	724.25	hun_news_2017_00455335
+15655	Erre már csak azért is szükség van, mert a Magyar Nemzeti Bank az Európai Unió vonatkozó szabályozása miatt eleve nem vehet részt a termelés finanszírozásában.	Y	eleve	2351	    1,633	0.0032	745.6667	hun_news_2017_00520529
+15656	És már senkinek fogalma sincs arról, mi is állt a levélben.	Y	levélben	2351	    1,633	0.0032	815	hun_news_2016_00529960
+15657	Attila azt is elmondta, hogy nem emlékszik arra, hogy a levélben valami fantasztikus ajánlatot kaptak volna.	Y	levélben	2351	    1,633	0.0032	823.5333	hun_news_2016_00287688
+15658	A fiam és a lányom szép levélben megírta neki, mit is szeretne Kérjük jelentkezzen be, hogy a teljes cikket olvashassa Már van előfizetésem vagy korábban regisztráltam!	Y	levélben	2351	    1,633	0.0032	851.875	hun_news_2017_00057227
+15659	A lap szerint ebben a levélben az áll, hogy a falu szeretné, ha több beruházást is támogatna a minisztérium.	Y	levélben	2351	    1,633	0.0032	852.875	hun_news_2011_00968887
+15660	A lap azt írja ugyanakkor, hogy a levélben az is benne van, hogy más uniós jogszabályokat, a többi között a közbeszerzésre és az állami támogatásra vonatkozó elõírásokat is be kell tartani.	Y	levélben	2351	    1,633	0.0032	860.72	hun_news_2016_00147149
+15661	Tenger talán lesz még egyszer a Balaton, mondják, csak éppen már nem magyar.	Y	tenger	2351	    1,633	0.0032	523.3077	hun_news_2016_00940203
+15662	Abban viszont igazat mondott, hogy a „baj és gond annyi, mint a tenger”.	Y	tenger	2351	    1,633	0.0032	787.25	hun_news_2017_00018607
+15663	A tenger az persze más, ahol semmilyen szárazföld nem látható.	Y	tenger	2351	    1,633	0.0032	788.2	hun_news_2017_00273044
+15664	A Balaton az elmúlt években nem volt olyan jó minőségű, mint most – vélekednek a magyar tenger mellett élők.	Y	tenger	2351	    1,633	0.0032	826.8235	hun_news_2017_00015176
+15665	S nagyon úgy érzem, hogy a tenger egy A válság elkerülhetetlen.	Y	tenger	2351	    1,633	0.0032	831.6	hun_news_2011_00728648
+15666	De ami még ezeken felül nagyon kellett, hogy sok új embert ismertem meg az elmúlt egy évben, és sok olyan szituációba kerültem, amit korábban nem ismertem.	Y	ezeken	2352	    1,632	0.0032	679.1667	hun_news_2016_00451645
+15667	Az esküvõszervezõnek idén három hasonló lagzija is lesz, és úgy látja, ezeken mindig nagyon jó a hangulat, sokat számít, hogy nem kell azért aggódni, ki mivel és mikor megy haza.	Y	ezeken	2352	    1,632	0.0032	708.7931	hun_news_2017_00352536
+15668	Néha elmerengek ezeken, de az idő erre nem sok, mert mindig van mit csinálni.	Y	ezeken	2352	    1,632	0.0032	713.1429	hun_news_2016_00813603
+15669	Ezeken nem látható a labda, de az eredeti képen még volt, csak mi leradíroztuk.	Y	ezeken	2352	    1,632	0.0032	747.5714	hun_news_2016_00546288
+15670	Ezeken a településeken viszont közmunkásból van nagyon sok, akik sok esetben csak néhány hónapig dolgoznak - írja az Észak-Magyarország címû megyei lap.	Y	ezeken	2352	    1,632	0.0032	779.4762	hun_news_2017_00543385
+15671	A klub közlése szerint a 48 éves, világ- és Európa-bajnok szakember június 17-én kezdi meg a munkát az együttessel, amely hosszú évek után az idén jutott fel a bajnokság élvonalába.	Y	kezdi	2353	    1,631	0.0032	700.2308	hun_news_2016_00128058
+15672	Új cég kezdi el működését hazánkban - Napi.huEz a program emailben elküldi a cikk címét és bevezetőjét, önnek csak a címzett e-mail címét kell megadnia.	Y	kezdi	2353	    1,631	0.0032	787.5217	hun_news_2017_00968599
+15673	A magyar csapat itt kezdi meg EB-szereplését /Fotó: AFP A franciaországi Eb-re június 10. és július 10. között kerül sor.	Y	kezdi	2353	    1,631	0.0032	800.9444	hun_news_2017_00159105
+15674	A beteg pedig nem azzal kezdi majd az élménybeszámolót: „Csoda, hogy ilyen körülmények között jobban lettem!”	Y	kezdi	2353	    1,631	0.0032	810.25	hun_news_2017_00022539
+15675	A két nagy szakszervezet magyar idő szerint 12 órakor kezdi meg a tüntetést a parlament előtt.	Y	kezdi	2353	    1,631	0.0032	823.3846	hun_news_2011_00949753
+15676	A kérdés szerinte ez ügyben az, hogy kell valamilyen átmeneti időszak és az milyen lesz.	Y	átmeneti	2354	    1,630	0.0032	515.0714	hun_news_2017_00109363
+15677	Most egy átmeneti lakásban vagyunk, ami még kisebb, mint az eredeti volt.	Y	átmeneti	2354	    1,630	0.0032	585.0833	hun_news_2016_00798057
+15678	Az elején nehéz volt, mert átmeneti időszakban kerültem ide, akkor semmi sem volt itt.	Y	átmeneti	2354	    1,630	0.0032	643.6923	hun_news_2011_00784009
+15679	Ennél azért csak jobb a német megoldás – még ha egyelőre csak átmeneti fegyvernyugvást jelent is.	Y	átmeneti	2354	    1,630	0.0032	674.4286	hun_news_2016_00517133
+15680	Most pár napja pedig újra a kórház lett az átmeneti otthona, és itt érte a halál is.	Y	átmeneti	2354	    1,630	0.0032	704.1875	hun_news_2016_00799955
+15681	Értékelése szerint az eredmények azt mutatják, hogy a magyarok 2012-ben nem dolgoztak hiába.	Y	dolgoztak	2355	    1,626	0.0032	569.5385	hun_news_2017_00521830
+15682	Mi történt a múlt évben és milyen terveket dolgoztak ki az idei évre?	Y	dolgoztak	2355	    1,626	0.0032	577.6923	hun_news_2011_00986612
+15683	A miniszterelnök nem szeretné, ha pártpolitikai ügy lenne a sport, sokat dolgoztak azon, hogy ne így legyen, ez nagy eredmény.	Y	dolgoztak	2355	    1,626	0.0032	577.9474	hun_news_2016_00189198
+15684	Több helyzetet dolgoztak ki a házigazdák, viszont a gól csak a 80. percben született meg, de az három pontot ért.	Y	dolgoztak	2355	    1,626	0.0032	622.0588	hun_news_2017_00947136
+15685	Az ellenzéki politikus úgy fogalmazott, hogy ebből még minden lehet, de szerinte nem világos, hogy min is dolgoztak a kormány szakértői egy teljes hónapon át.	Y	dolgoztak	2355	    1,626	0.0032	688.875	hun_news_2011_00770175
+15686	Engem mindig érdekelt, hogy egy adott helyzetben mi a jó, és mi a rossz döntés.	Y	érdekelt	2355	    1,626	0.0032	484.3846	hun_news_2017_00507667
+15687	Annyira nem érdekelt az iskola, hogy azt neked el nem tudom mondani.	Y	érdekelt	2355	    1,626	0.0032	612.9091	hun_news_2011_00692895
+15688	Persze eddig nem tudta senki, mert nem is érdekelt senkit.	Y	érdekelt	2355	    1,626	0.0032	625.4444	hun_news_2016_00870278
+15689	Én addig azt se tudtam, hol a polgármesteri hivatal, nem érdekelt.	Y	érdekelt	2355	    1,626	0.0032	642.8182	hun_news_2011_00361804
+15690	Na gondolom ez a bejelentés kb annyira érdekelt itt mindenkit,mint maga a cikk!	Y	érdekelt	2355	    1,626	0.0032	816.3077	hun_news_2011_00824070
+15691	Milyen igaza volt, valóban jó, és jó lesz még sokáig a régi.	Y	igaza	2355	    1,626	0.0032	412.0909	hun_news_2017_00772150
+15692	Én abban az esetben is azt mondtam, és mi van ha igaza van?	Y	igaza	2355	    1,626	0.0032	432.8333	hun_news_2011_00157204
+15693	Még akkor is, ha erkölcsi értelemben talán igaza is van.	Y	igaza	2355	    1,626	0.0032	775.2222	hun_news_2016_00750164
+15694	Amiben Önnek igaza van, az az, hogy a Jobbik tényleg ki tudott volna engem hozni áprilisban.	Y	igaza	2355	    1,626	0.0032	838.2667	hun_news_2016_00183488
+15695	A hozzászólás nem küldhető el. Elfogadom a fórumszabályzatot: Moderálási alapelvek – Cikkhozzászólás szabályai Igaza van.	Y	igaza	2355	    1,626	0.0032	1245.7692	hun_news_2017_00093885
+15696	Az idei évre 5100 milliárd forint fizetési kötelezettségünk van, ami szerinte „nem olyan sok”.	Y	fizetési	2356	    1,625	0.0032	627.6923	hun_news_2016_00362998
+15697	Ebben az esetben is a 3000 milliárd Ft után évi 90 milliárd Ft a fizetési kötelezettség.	Y	fizetési	2356	    1,625	0.0032	648.0909	hun_news_2017_00462790
+15698	A legutóbbi március 31-én jött, a fizetési határidő pedig március 27-e volt!	Y	fizetési	2356	    1,625	0.0032	750.7	hun_news_2017_00150151
+15699	Szerinte a magas folyó fizetési mérleg miatt csökkent az ország sérülékenysége, ugyanakkor ez azt is jelenti, hogy kevesebb a beruházás. 2016-ban a CIB szerint 2 százalékos lehet a gazdasági növekedés.	Y	fizetési	2356	    1,625	0.0032	772.5385	hun_news_2017_00919692
+15700	Az előzetes adatok szerint a folyó fizetési mérleg hiánya 387 millió euró volt áprilisban, így az első négy havi deficit 947 millió eurót tett ki - közölte honlapján a Magyar Nemzeti Bank.	Y	fizetési	2356	    1,625	0.0032	821.1538	hun_news_2011_00564004
+15701	Egy szó mint száz H.J. is csak egy a sok politikus között.	Y	j	2356	    1,625	0.0032	405.6667	hun_news_2011_00770010
+15702	De csak egy J.A. fun vagyok, érte meg nem kell.	Y	j	2356	    1,625	0.0032	661.3636	hun_news_2011_00938438
+15703	K. J. családja pedig már soha nem tudhatja meg, történt volna csoda, vagy sem.	Y	j	2356	    1,625	0.0032	762.2857	hun_news_2011_00206540
+15704	Cikk megjelenítése: 1237Olvasóink értékelése: Ha hozzá szeretne szólni, jelentkezzen be - Demeter J. Ildikó:Van közös ismeretlen?	Y	j	2356	    1,625	0.0032	792.75	hun_news_2017_00432483
+15705	Ez azt is j Fucsovics: pénteken már a negyeddöntő jön Kérjük jelentkezzen be, hogy a teljes cikket olvashassa Már van előfizetésem vagy korábban regisztráltam!	Y	j	2356	    1,625	0.0032	800	hun_news_2017_00539713
+15706	Megjegyezte, hogy nem lesz egyszerû ezeket az embereket az országban tartani.	Y	egyszerû	2357	    1,624	0.0032	685.3	hun_news_2016_00755488
+15707	Nem volt egyszerû számomra az elmúlt idény és a vb sem.	Y	egyszerû	2357	    1,624	0.0032	689.7273	hun_news_2016_00833694
+15708	Nem vagyok egyszerû eset, és ezzel nem tudnak mit kezdeni az emberek, se a zenei szakma.	Y	egyszerû	2357	    1,624	0.0032	745.6667	hun_news_2017_00831079
+15709	Azt gondolom, jó úton van és kell egy kis türelem még, mert nem olyan egyszerû Diósgyõrben dolgozni.	Y	egyszerû	2357	    1,624	0.0032	773	hun_news_2016_00397387
+15710	Az utóbbi adatok egy részét egy egyszerû kérdõív segítségével is fel lehetne venni, például ha a résztvevõk igen/nem választ adnak arra a kérdésre, hogy cukorbetegek-e vagy sem.	Y	egyszerû	2357	    1,624	0.0032	789.1481	hun_news_2016_00409903
+15711	Erre én csak azt tudom mondani, hogy akkor ennek a megyének nem kell ilyen szintű csapat, és elég lesz, ha a B-ben játszunk..	Y	szintű	2357	    1,624	0.0032	563.3043	hun_news_2017_00520179
+15712	Volt olyan labdarúgó, nem is egy, nem is kettő, aki szombaton szóhoz jutott (és nem most először kapott bizalmat), de ez alkalommal sem tudta igazolni, hogy NB I-es szintű játékos lenne.	Y	szintű	2357	    1,624	0.0032	647.3103	hun_news_2016_00996347
+15713	A probléma olyan szintű, hogy a kormány is megoldást keres rá.	Y	szintű	2357	    1,624	0.0032	678.6	hun_news_2011_00774306
+15714	Nemcsak a pályán volt európai szintű légkör, hanem azon kívül is.	Y	szintű	2357	    1,624	0.0032	699.6364	hun_news_2011_00211866
+15715	Ez lett volna az egyetlen állam- és kormányfői szintű találkozó Magyarországon.	Y	szintű	2357	    1,624	0.0032	740.9091	hun_news_2011_00197093
+15716	Barack Obama július 8-án azt mondta, reméli, hogy a két fél még szeptember 26-a előtt fel tudja venni a kapcsolatot egymással.	Y	barack	2358	    1,623	0.0032	620	hun_news_2011_00103462
+15717	Ezt mondta a párizsi események után Barack Obama amerikai elnök is.	Y	barack	2358	    1,623	0.0032	698.7273	hun_news_2017_00561214
+15718	Még Barack Obama volt az Egyesült Államok elnöke, amikor legutóbb gólt kapott a BL-ben a Juventus.	Y	barack	2358	    1,623	0.0032	712.75	hun_news_2017_00748732
+15719	Ha hozzá szeretne szólni, jelentkezzen be A nagy hiányzó: Barack Obama (Miért nem vett részt az amerikai elnök a párizsi felvonuláson?	Y	barack	2358	    1,623	0.0032	759.8	hun_news_2017_00601344
+15720	A második helyre Barack Obama amerikai elnök került, de õ is csak a szavazatok 11 százalékát gyûjtötte be.	Y	barack	2358	    1,623	0.0032	776.6875	hun_news_2016_00172552
+15721	16:08 A volt miniszterelnök szerint egyszerre rombolt és épített az elmúlt fél év.	Y	épített	2358	    1,623	0.0032	688.8333	hun_news_2011_00147885
+15722	Politikai brandet épített a Fidesz arra, hogy az emberek oldalán áll.	Y	épített	2358	    1,623	0.0032	725.3636	hun_news_2017_00872339
+15723	A másik, hogy Magyarország és Kelet-Közép-Európa nem épített multikulturalizmust.	Y	épített	2358	    1,623	0.0032	751.0909	hun_news_2016_00171029
+15724	Érdekes, hogy az akkor 3,7 millió dolgozó több lakást épített, nagyobb volt a fogyasztás is, mint most 4,2 millió dolgozónál.	Y	épített	2358	    1,623	0.0032	802.5882	hun_news_2016_00520289
+15725	Este pedig itt ez a jó kis verem, amit még az apja épített valamikor.	Y	épített	2358	    1,623	0.0032	822.3571	hun_news_2016_00532025
+15726	Arról nem is beszélve, hogy a mexikói határon csak az nem megy be, aki nem akar.	Y	beszélve	2359	    1,621	0.0032	513.8571	hun_news_2017_00238999
+15727	Nem beszélve arról, hogy ez legalább 500 millió forintba került volna.	Y	beszélve	2359	    1,621	0.0032	538.7	hun_news_2017_00817344
+15728	Arról nem beszélve, hogy az NB I B-s csapat 14 fős keretében nyolc fiatal található.	Y	beszélve	2359	    1,621	0.0032	569.4	hun_news_2011_00707725
+15729	Nem beszélve arról, hogy a fizetésem is itt volt a legnagyobb.	Y	beszélve	2359	    1,621	0.0032	656.2	hun_news_2011_00926850
+15730	Arról nem is beszélve, hogy egyik undorítóbb mint a másik.	Y	beszélve	2359	    1,621	0.0032	660.1	hun_news_2011_00739170
+15731	Az a gond, hogy ezzel a Fidesz az elmúlt 70 év egy másik jól ismert és rendkívül káros politikai tradíciójához csatlakozik.	Y	káros	2359	    1,621	0.0032	723.5556	hun_news_2011_00152649
+15732	Persze ezzel nem azt mondom,hogy nem káros,de ne mindig ezzel takarózzunk már!	Y	káros	2359	    1,621	0.0032	724.4167	hun_news_2011_00722307
+15733	Persze nem az a kérdés, hogy a technológia hasznos vagy káros.	Y	káros	2359	    1,621	0.0032	770.8	hun_news_2017_00869440
+15734	Több már káros lehet, a kevesebbnek pedig nem lesz hatása.	Y	káros	2359	    1,621	0.0032	796.1	hun_news_2016_00948176
+15735	Minden más döntés káros lett volna az MKP és a demokratikus fejlődés számára is.	Y	káros	2359	    1,621	0.0032	799.4286	hun_news_2011_00660426
+15736	Úgy fogalmazott, hogy nagyon sok minden köszönhető nekik, például az, hogy van Budapest-szerződés.	Y	köszönhető	2359	    1,621	0.0032	441.4615	hun_news_2011_00562941
+15737	A nagy csend azonban ezúttal nem annak köszönhető, hogy a szakmai bizottság körül minden rendben lenne.	Y	köszönhető	2359	    1,621	0.0032	646.8	hun_news_2011_00660703
+15738	Akkor itt még miért nem ütötték ki azt, akiknek ez köszönhető?	Y	köszönhető	2359	    1,621	0.0032	667	hun_news_2016_00126396
+15739	De az is a nyelvnek köszönhető (és ez már valóban köszönhető!	Y	köszönhető	2359	    1,621	0.0032	671.9	hun_news_2011_00954458
+15740	Hozzátette, hogy erre szükség van, az annak köszönhető, hogy az előző kormány a költségvetési hiány 80 százalékát az első fél évben elköltötte.	Y	köszönhető	2359	    1,621	0.0032	674.2222	hun_news_2011_00466964
+15741	Véleménye szerint az elmúlt két évtized fontos volt mindenki számára, egész Közép-Európa számára, mert nagyon sokat lehetett tanulni belőle.	Y	tanulni	2359	    1,621	0.0032	542.4737	hun_news_2017_00988168
+15742	De nem vagyok ilyen, én nagyon szerettem volna ott lenni ebben a rossz helyzetben is a csapattal, mert abból lehet a legjobban tanulni.	Y	tanulni	2359	    1,621	0.0032	623.9524	hun_news_2017_00454647
+15743	Ez sajnálatos, s ebből tanulni kellett volna – de nem ez történt.	Y	tanulni	2359	    1,621	0.0032	666.2	hun_news_2016_00559005
+15744	Aki itt akar tanulni, az nagyon jól teszi, és azt szeretettel látjuk.	Y	tanulni	2359	    1,621	0.0032	701.75	hun_news_2011_00303686
+15745	Nem kérdés, hogy jó, ha a fiatalok nyitottak, s tanulni akarnak.	Y	tanulni	2359	    1,621	0.0032	707.1818	hun_news_2016_00825949
+15746	Most a mai napon ezek a területek ismét víz alá kerültek.	Y	területek	2359	    1,621	0.0032	584	hun_news_2011_00325460
+15747	A meglévő, saját területek után pedig nem jár már annyi támogatás, mint korábban, mert a kormány maximálta azt.	Y	területek	2359	    1,621	0.0032	698.1176	hun_news_2017_00172196
+15748	Vannak már olyan területek, ahol megegyezés született, de döntés még sincs.	Y	területek	2359	    1,621	0.0032	717.3636	hun_news_2016_00982077
+15749	Tudom, hogy Magyarországon vannak még fehér foltok, azaz olyan régiók, területek, ahol nem vagyunk jelen.	Y	területek	2359	    1,621	0.0032	831.6	hun_news_2016_00956726
+15750	Mint fogalmazott, mindezek ellenére vannak olyan pénzügyi területek, ahol további javulás szükséges.	Y	területek	2359	    1,621	0.0032	835.9167	hun_news_2016_00785707
+15751	Természetesen ebben az esetben is az első, hogy tudjuk mit akarunk elérni.	Y	akarunk	2360	    1,620	0.0032	482.1818	hun_news_2011_00706032
+15752	A népszavazás többek között arról is szól, hogy milyen EU-ban akarunk élni öt vagy tíz év múlva.	Y	akarunk	2360	    1,620	0.0032	492.1667	hun_news_2016_00207686
+15753	Már csak azért is, mert nálunk régiók nincsenek, sőt jelenleg még az sem biztos, hogy az uniós beosztás szerint mit is akarunk.	Y	akarunk	2360	    1,620	0.0032	641.25	hun_news_2011_00309660
+15754	Igen, de jövõre már mindenki azt fogja elérni, amit most látott, amivel nyerni lehet, tehát ha mi újra nyerni akarunk, akkor tovább kell javulni.	Y	akarunk	2360	    1,620	0.0032	675.2609	hun_news_2017_00647402
+15755	Magyarország célja, hogy mi mondjuk meg, hogy kivel akarunk együtt élni ebben az országban - jelentette ki.	Y	akarunk	2360	    1,620	0.0032	680.8667	hun_news_2016_00734458
+15756	Mint késõbb kiderült, legalább 50 ember életét mentette meg anélkül, hogy tudta volna.	Y	anélkül	2360	    1,620	0.0032	704.6667	hun_news_2016_00786769
+15757	Tehát csak jogi eljárás után volna érdemes lépni, de még ilyen sincs, hiszen nem tudunk bizonyítékokról, anélkül pedig nincs eljárás.	Y	anélkül	2360	    1,620	0.0032	704.8421	hun_news_2016_00937862
+15758	Hol vannak már azok az idők, amikor egy-egy magyar labdarúgó több mint tíz évet húzott le NB I-es csapatában, anélkül, hogy közben más együttesben is megfordult volna?	Y	anélkül	2360	    1,620	0.0032	781.5	hun_news_2016_00634493
+15759	E kérdést az elmúlt tíz évben sokan és sokszor feltettük, anélkül hogy választ kaptunk volna rá.	Y	anélkül	2360	    1,620	0.0032	802.125	hun_news_2011_00766582
+15760	Sokan anélkül mondták azt, hogy nyerni fog a film, hogy látták volna.	Y	anélkül	2360	    1,620	0.0032	827	hun_news_2011_00318296
+15761	Sokak szerint ez ma már a második legnagyobb kultúra a világon.	Y	sokak	2360	    1,620	0.0032	562.8	hun_news_2011_00897329
+15762	Sokak számára az MSZP az, még többen ma a Fideszt tartják annak.	Y	sokak	2360	    1,620	0.0032	709	hun_news_2011_00621305
+15763	Még csak tíz napja nincs képernyőn, de sokak­nak már most nagyon hiányzik.	Y	sokak	2360	    1,620	0.0032	780.4615	hun_news_2017_00749010
+15764	Debrecen - Sokak számára nehéz lehet a kérdés, olvasóink azért mégis megbirkóztak vele.	Y	sokak	2360	    1,620	0.0032	781.3333	hun_news_2017_00448385
+15765	Sokak szerint nem épp a legjobb éve volt 2016 az emberiségnek, így pedig kevésbé meglepő, hogy igen sok ember szerint rossz irányba haladnak a dolgok.	Y	sokak	2360	    1,620	0.0032	820.6364	hun_news_2017_00899956
+15766	És én nem hiszem, hogy általuk lesz más a politika.	Y	általuk	2361	    1,619	0.0032	499	hun_news_2011_00196004
+15767	Az, hogy a nép hogyan él már megint nem érdekli sem őket, sem a Fideszt, csak egyetlen pártot és még ha az általuk adott válasz nem is tökéletes legalább válasz.	Y	általuk	2361	    1,619	0.0032	742.8	hun_news_2011_00934766
+15768	A Bihar megyei jelöltek csapata erős csapat, általuk lehet érvényesíteni az itt élő emberek és magyar közösség érdekeit – fogalmazott a politikus.	Y	általuk	2361	    1,619	0.0032	895	hun_news_2016_00023713
+15769	A pakisztáni hatóságok még nem tudják pontosan, hogy az általuk elfogott férfi kannibál-e, vagy sem, de nagyon úgy néz ki, hogy nem csirkehúst találtak nála.	Y	általuk	2361	    1,619	0.0032	952.625	hun_news_2017_00212438
+15770	A helyi lakosság mindössze 16 százalékát teszi ki a spanyol lakosságnak, és az általuk termelt GDP a teljes spanyol bruttó hazai termék 20 százaléka.	Y	általuk	2361	    1,619	0.0032	956.2632	hun_news_2017_00084144
+15771	A FIFA ugyanis még nem minden játékos esetében mondta ki a döntõ szót.	Y	fifa	2361	    1,619	0.0032	689.75	hun_news_2017_00058983
+15772	1979 és 1986 között a Magyar Labdarúgó Szövetség elnöke, a Magyar Olimpiai Bizottság, illetve - 1982 és 94 között - a FIFA végrehajtó bizottságának is tagja volt.	Y	fifa	2361	    1,619	0.0032	699.5	hun_news_2016_00001198
+15773	A magyar válogatott továbbra is a rekordot jelentő 19. helyen áll a Nemzetközi Labdarúgó Szövetség (FIFA)..	Y	fifa	2361	    1,619	0.0032	784.6154	hun_news_2016_00167845
+15774	A Nemzetközi Labdarúgó Szövetség (FIFA) hétfõn nyilvánosságra hozta annak a tíz nõi futballistának a nevét, akik közül az kerül ki.	Y	fifa	2361	    1,619	0.0032	800.1667	hun_news_2017_00202733
+15775	A FIFA adatai szerint tavaly csak az országok közötti játékosmozgások során 3,72 milliárd dollár (823 milliárd forint) cserélt gazdát, 41 százalékkal több, mint egy évvel korábban.	Y	fifa	2361	    1,619	0.0032	811.0455	hun_news_2017_00058917
+15776	A nõ szerint az eset éppen István háza elõtt történt, a lányok még meg is mutatták neki, hogy hol.	Y	mutatták	2361	    1,619	0.0032	551.5556	hun_news_2016_00212469
+15777	Hozzátette: nem tudta meg, mi állt azon a papíron, amivel a rendőrök érkeztek, mert azt nem mutatták meg neki.	Y	mutatták	2361	    1,619	0.0032	688.1875	hun_news_2017_00640764
+15778	Alig mutatták be az egyiket, már készült is a következő.	Y	mutatták	2361	    1,619	0.0032	695.1	hun_news_2017_00153625
+15779	Alig négy évvel korábban az ENSZ adatai még azt mutatták, hogy a teljes népességnek a 12 százaléka 60 év feletti.	Y	mutatták	2361	    1,619	0.0032	706	hun_news_2017_00153633
+15780	Mondták, sőt meg is mutatták, hogy melyik az a bizonyos kocsi.	Y	mutatták	2361	    1,619	0.0032	710.3636	hun_news_2011_00622925
+15781	Tagja volt az 1964-ben NB I-be jutott csapatnak is.	Y	csapatnak	2362	    1,618	0.0032	410.8	hun_news_2017_00929905
+15782	Remélem, a csapatnak és nekem is jól sikerül majd az év.	Y	csapatnak	2362	    1,618	0.0032	486.5455	hun_news_2017_00881252
+15783	Most a harmadik helyre van esélye a csapatnak, de arra sem biztosan.	Y	csapatnak	2362	    1,618	0.0032	565	hun_news_2016_00797009
+15784	Amúgy ki tudja, talán jobban fog menni a csapatnak ilyen szép körülmények közt.	Y	csapatnak	2362	    1,618	0.0032	618.6923	hun_news_2016_00195977
+15785	Minden meccsen játszani szeretnék, fontos tagja akarok lenni a csapatnak.	Y	csapatnak	2362	    1,618	0.0032	1025.3	hun_news_2016_00778721
+15786	De van még egy lehetőség is mégpedig az, hogy Magyarországon a multiknak mindent lehet.	Y	mégpedig	2362	    1,618	0.0032	561	hun_news_2011_00615756
+15787	Ezt követõen viszont csak akkor szól (mégpedig öt napon belül), ha nem. Ha nincs jelzés, akkor az üzlet nyitva lehet.	Y	mégpedig	2362	    1,618	0.0032	732.6667	hun_news_2016_00563361
+15788	Ha az mondja, mégpedig ország-világ előtt, akkor annak igaznak kell lennie.	Y	mégpedig	2362	    1,618	0.0032	796.25	hun_news_2011_00907585
+15789	A hírnek van azonban jó oldala is, mégpedig az, hogy nem igaz.	Y	mégpedig	2362	    1,618	0.0032	801.5833	hun_news_2016_00092091
+15790	Három olyan politikai döntés, amit nem lett volna szabad meghozni – mégpedig éppen azok érdekében, akik mégis meghozták ezeket a döntéseket.	Y	mégpedig	2362	    1,618	0.0032	804.4	hun_news_2017_00613009
+15791	Ebben az időszakban volt néhány egészen forró nyár, elsősorban a 2003-as, a 2010-es és a 2015-ös.	Y	forró	2363	    1,617	0.0032	586.4286	hun_news_2016_00467498
+15792	Az ok: ezer éve nem volt olyan forró nyár Közép-Európában, mint akkor.	Y	forró	2363	    1,617	0.0032	596.3846	hun_news_2017_00374294
+15793	Csak egy kis forró víz löttyent oda, ahova nem kellett volna, és ennek kórház lett a vége.	Y	forró	2363	    1,617	0.0032	766.8235	hun_news_2011_00777649
+15794	Ugyan ez két óra volt, de a forró motor miatt nem tudtak azonnal hozzáfogni.	Y	forró	2363	    1,617	0.0032	811.2857	hun_news_2011_00618363
+15795	Nekünk is küldtek két-három számot, és köztük volt a Forró város is.	Y	forró	2363	    1,617	0.0032	818.0833	hun_news_2011_00767955
+15796	Ha egy rendszerben az érintettek 81%-a jól jár, akkor a rendszer alapvetően jó.	Y	alapvetően	2364	    1,616	0.0032	673	hun_news_2011_00888716
+15797	Ezzel persze nem azt akarom mondani, hogy ha már időben ott ül a magyar küldöttség, akkor alapvetően másként alakult volna minden.	Y	alapvetően	2364	    1,616	0.0032	792.6667	hun_news_2017_00567327
+15798	Alapvetően nem, mert ez olyan szakma, amit szeret csinálni, aki benne van.	Y	alapvetően	2364	    1,616	0.0032	804.25	hun_news_2016_00148280
+15799	Harminc év alatt azonban sok minden alapvetően megváltozott, jó és rossz irányban egyaránt.	Y	alapvetően	2364	    1,616	0.0032	827.0769	hun_news_2011_00358130
+15800	Ennek alapvetően az az oka, hogy ezeknek a betegeknek nincs betegségtudatuk, sokszor még akkor sem, amikor már ide kerülnek.	Y	alapvetően	2364	    1,616	0.0032	843.8333	hun_news_2016_00512881
+15801	Az mindig bennem volt, hogy talán valami majd csak másként lesz, de ha nem lenne másként, akkor is itt akarok élni.	Y	másként	2364	    1,616	0.0032	470.2	hun_news_2017_00370551
+15802	Az Európai Parlament kicsit másként működik, mint a magyar Parlament.	Y	másként	2364	    1,616	0.0032	521	hun_news_2011_00034065
+15803	Így van ez Budapesten, és nincs másként Brüsszel­ben sem.	Y	másként	2364	    1,616	0.0032	562.4	hun_news_2011_00304719
+15804	A jelek azt mutatják, hogy ez az idén sem lesz másként.	Y	másként	2364	    1,616	0.0032	593.2727	hun_news_2011_00805505
+15805	Miért lenne ez másként most, amikor ehhez a technológiai is rendelkezésre áll, sokkal inkább, mint eddig bármikor.	Y	másként	2364	    1,616	0.0032	607.6471	hun_news_2017_00767550
+15806	Ilyen, mint most azonban még nem volt… Kép: „Hogy hívhat meg minket C. Ronaldo oda?”	Y	ronaldo	2365	    1,615	0.0032	692.9333	hun_news_2016_00659795
+15807	Azt a párharcot a Real nyerte, Ronaldo a 4-0-s elsõ, valamint az 1-0-s második meccsen is egy gólt szerzett.	Y	ronaldo	2365	    1,615	0.0032	715.375	hun_news_2017_00391588
+15808	És ha nem is mindenki Messi vagy Ronaldo, azért szépen meg lehet élni a labdarúgásból.	Y	ronaldo	2365	    1,615	0.0032	802	hun_news_2017_00525727
+15809	A közös mindegyik esetben, hogy még csak sárga lapot sem kapott Ronaldo..	Y	ronaldo	2365	    1,615	0.0032	848.4167	hun_news_2016_00140142
+15810	Korunk egyik legnagyobb labdarúgójának egyébként elég rosszul sikerült az Eb, pedig õ lehetett volna Cristiano Ronaldo mellett a második játékos, aki négy Eb-n is gólt szerez.	Y	ronaldo	2365	    1,615	0.0032	855.3462	hun_news_2016_00709552
+15811	A cég szerint is fontos a gyors ügyintézés, illetve az olyan szolgáltatások, amelyeket csak egyik vagy másik cég kínál.	Y	kínál	2366	    1,614	0.0032	649.8235	hun_news_2017_00032617
+15812	A ma mindig új lehetőséget kínál, ezért nem kell, hogy bűntudatod legyen.	Y	kínál	2366	    1,614	0.0032	655.8333	hun_news_2011_00584731
+15813	Ideje lenne (szerinte is) újra gólt szerezni, s erre a mostani mérkőzés jó esélyt kínál.	Y	kínál	2366	    1,614	0.0032	754.6667	hun_news_2011_00863024
+15814	Ez a folyamat nemcsak kulturális és társadalmi, de gazdasági téren is komoly fejlődési lehetőséget kínál a magyar közösségek számára.	Y	kínál	2366	    1,614	0.0032	810.4444	hun_news_2016_00537081
+15815	Hozzáadom a könyvjelzõhözKüldd ide: Delicious CAFe Budapest: 40 helyszínen több mint 100 programot kínál a fesztivál Figyelem!	Y	kínál	2366	    1,614	0.0032	846.9286	hun_news_2016_00637884
+15816	Ha az euró bevezetése 2010-ben nem célja Magyarországnak, akkor 2013-ban vagy 2016-ban miért lesz az?	Y	magyarországnak	2366	    1,614	0.0032	513.7692	hun_news_2016_00601152
+15817	Egy hónap telt el, de még mindig nem tudják megmondani, hogy hány minisztérium érintett, és azt sem, hogy miért érte ez meg Magyarországnak?	Y	magyarországnak	2366	    1,614	0.0032	570.3636	hun_news_2017_00476377
+15818	Ugyanakkor azt is kijelentette, hogy az Amerikai Egyesült Államok nem fog katonai segítséget nyújtani Magyarországnak.	Y	magyarországnak	2366	    1,614	0.0032	646.1333	hun_news_2016_00959745
+15819	Tavaly a 2015-ös évhez hasonlóan kiemelt figyelem jutott Magyarországnak, mivel több mint 13 ezer cikk jelent meg.	Y	magyarországnak	2366	    1,614	0.0032	649.375	hun_news_2017_00934278
+15820	Hozzátette: szerinte Magyarországnak nem most kellene döntenie az ügyben, nem két hónappal a választás elõtt és nem is ebben az évben.	Y	magyarországnak	2366	    1,614	0.0032	656.3333	hun_news_2017_00640909
+15821	Magyarországon ez a szakma nem igazán létezik, nincs rá lehetőség.	Y	szakma	2366	    1,614	0.0032	571.3	hun_news_2011_00874506
+15822	Ez egy ilyen szakma, amikor lehetõséget kap az ember, élni kell vele.	Y	szakma	2366	    1,614	0.0032	583.8333	hun_news_2017_00541036
+15823	De tisztában vagyok vele, hogy ez egy ilyen szakma, és tudom kezelni ezt a helyzetet.	Y	szakma	2366	    1,614	0.0032	599.3333	hun_news_2016_00460481
+15824	Nem vagyok egyszerû eset, és ezzel nem tudnak mit kezdeni az emberek, se a zenei szakma.	Y	szakma	2366	    1,614	0.0032	745.6667	hun_news_2017_00831079
+15825	Mint mesélte, a 30-as társaság igen nagy részét ismerte már, kicsi a szakma.	Y	szakma	2366	    1,614	0.0032	841.75	hun_news_2017_00785978
+15826	Persze ilyenkor nem arról van szó, hogy jön a herceg vagy a felesége, és hozza a pénzt.	Y	herceg	2367	    1,612	0.0032	516.0667	hun_news_2011_00487276
+15827	Ekkor már látni lehetett, hogy mi lesz belőle - mondta a herceg, aki többször is találkozott vele.	Y	herceg	2367	    1,612	0.0032	527.125	hun_news_2011_00069987
+15828	Itt jelent meg a Földön, s aztán itt tűnt el róla a kis herceg.	Y	herceg	2367	    1,612	0.0032	608.75	hun_news_2011_00161231
+15829	Így volt ez akkor is, amikor Fülöp edinburgh-i herceg, II.	Y	herceg	2367	    1,612	0.0032	882.4545	hun_news_2016_00657517
+15830	A közvélemény most viszont úgy tartja, Albert herceg jól választott.	Y	herceg	2367	    1,612	0.0032	905.5	hun_news_2011_00437685
+15831	Tarlós István 2006-ban lényegesen több szavazatot kapott, mint most, de akkor az csak a második helyre volt elég.	Y	lényegesen	2368	    1,611	0.0032	556.3333	hun_news_2017_00933396
+15832	A 2012-es, 3,4 százalékos GDP-növekedés után tavaly már csak 1,3 százalékkal nõtt a gazdaság, és a gazdasági minisztérium szerint a következõ években sem várható ennél lényegesen nagyobb fejlõdés.	Y	lényegesen	2368	    1,611	0.0032	628.25	hun_news_2016_00008946
+15833	Ez azt is jelenti, hogy a magyar szolgáltatás nem olyan minőségű, mint a nyugat-európai, de annál lényegesen olcsóbb is.	Y	lényegesen	2368	    1,611	0.0032	653.8333	hun_news_2017_00539690
+15834	A hatóságok szerint azonban a halottak száma ennél lényegesen nagyobb lehet, sok ugyanis az eltűnt.	Y	lényegesen	2368	    1,611	0.0032	696.2143	hun_news_2016_00084604
+15835	Több mint 470,000 ember lett munkanélküli múlt héten, lényegesen magasabb, mint a várt 400,000.	Y	lényegesen	2368	    1,611	0.0032	760.4545	hun_news_2017_00947791
+15836	A tavaly volt neki húszezer liter, tehát már akkor sem érte el az előző év tíz százalékát.	Y	liter	2368	    1,611	0.0032	531.8824	hun_news_2011_00589567
+15837	Ez éves és országos szinten kb. 292 millió liter vizet jelent.	Y	liter	2368	    1,611	0.0032	686.7	hun_news_2017_00551538
+15838	Egyébként ha ebben az országban nem 300, hanem 3000 forint lesz fél liter benzin, akkor sem lesz egyetlen autóval sem kevesebb az utakon.	Y	liter	2368	    1,611	0.0032	691.8333	hun_news_2011_00357077
+15839	Ezzel szemben a múlt évben egy nap alatt 1200 liter tej gyűlt össze.	Y	liter	2368	    1,611	0.0032	833.5833	hun_news_2011_00096208
+15840	Napi egy–másfél liter vizet iszom, s tisztában vagyok vele, hogy ez ilyenkor nem elég.	Y	liter	2368	    1,611	0.0032	843.2	hun_news_2016_00810270
+15841	Nem biztos, hogy az anyja mellett a jobb minden esetben!	Y	anyja	2369	    1,610	0.0032	332.7	hun_news_2016_00819049
+15842	Sõt azt is, hogy ki volt az anyja meg az apja.	Y	anyja	2369	    1,610	0.0032	569.2	hun_news_2016_00906435
+15843	Nem igaz, hogy az anyja nem tud hatással lenni rá.	Y	anyja	2369	    1,610	0.0032	604.7778	hun_news_2011_00503888
+15844	A kislány anyja csak két évvel késõbb tudta meg, hogy mi történt vele, amikor egy orvos felhívta rá a figyelmét.	Y	anyja	2369	    1,610	0.0032	630.5789	hun_news_2017_00120023
+15845	Cikk megjelenítése: 2554Olvasóink értékelése: Egyik nap lánya,másnap az anyja.	Y	anyja	2369	    1,610	0.0032	821.4	hun_news_2016_00438687
+15846	Szerinte a barátok nem tűntek el, azok most is ott vannak, ez a kör csak pár embert jelent.	Y	barátok	2369	    1,610	0.0032	594.6471	hun_news_2017_00919465
+15847	Ehhez azt kell tudni, hogy előtte, s napjainkban is nagyon jó barátok vagyunk.	Y	barátok	2369	    1,610	0.0032	672.5385	hun_news_2011_00569155
+15848	Két olyan ember, akik szakítottak soha nem lehetnek már barátok, ha mégis, akkor még mindig szerelmesek, vagy sosem voltak azok.	Y	barátok	2369	    1,610	0.0032	678.5	hun_news_2016_00692716
+15849	És bár nagy barátok voltunk, ők, ha a magyar válogatott bárki ellen is játszott, mindig a magyarok ellen drukkoltak.	Y	barátok	2369	    1,610	0.0032	680.3529	hun_news_2016_00527495
+15850	Tíz év múlva majd erre nagyon oda kell figyelni, hogy az ember körül ott legyenek a fiatal barátok, kollegák.	Y	barátok	2369	    1,610	0.0032	709.7368	hun_news_2011_00184795
+15851	Tyler egyedülálló, de ha valaki át akarja venni a helyét, és működik a dolog, akkor miért ne?	Y	egyedülálló	2369	    1,610	0.0032	742.875	hun_news_2011_00366967
+15852	A kutatás szerint fél éve még 42 százalék gondolta úgy, hogy rosszabb lesz az ország gazdasági helyzete, addig ez az arány most már csak 32 százalék, ez a pozitív tendencia egyedülálló a vizsgált országok között.	Y	egyedülálló	2369	    1,610	0.0032	769.6429	hun_news_2017_00139733
+15853	Pályafutása során egyedülálló módon négy aranylabdát is nyert, de a spanyol bajnokságban a hónap legjobb játékosa még soha nem tudott lenni.	Y	egyedülálló	2369	    1,610	0.0032	846.15	hun_news_2017_00859913
+15854	Így jött létre Magyarországon az az egyedülálló helyzet, hogy a diplomások között nagyon kevés az értelmiségi.	Y	egyedülálló	2369	    1,610	0.0032	857.2143	hun_news_2016_00654994
+15855	A 140 ezer iPhone alkalmazás közül Magyarországon az első, de a világon is egyedülálló.	Y	egyedülálló	2369	    1,610	0.0032	864.25	hun_news_2011_00438534
+15856	Van-e, s ha van, mi az emberi élet célja, értelme?	Y	értelme	2370	    1,609	0.0032	432.9	hun_news_2016_00981295
+15857	Nagyon sok mindent szerintem nem lehet csinálni, illetve nem biztos, hogy van értelme.	Y	értelme	2370	    1,609	0.0032	463.75	hun_news_2017_00806173
+15858	Cikk megjelenítése: 502Olvasóink értékelése: Ha hozzá szeretne szólni, jelentkezzen be Van-e értelme?	Y	értelme	2370	    1,609	0.0032	475.3077	hun_news_2017_00434578
+15859	Erre azt mondják, hogy gól, bár ennek semmi értelme nincs.	Y	értelme	2370	    1,609	0.0032	609.4	hun_news_2016_00523499
+15860	Mi más a színház valódi értelme, mint ez: életet játszani?	Y	értelme	2370	    1,609	0.0032	800.5	hun_news_2016_00774636
+15861	De még ebben az esetben is lehetne fizetni euróval az országban.	Y	euróval	2370	    1,609	0.0032	510	hun_news_2017_00452661
+15862	Ma reggel olyan erõs volt a forint az euróval szemben, mint utoljára tavaly január elején.	Y	euróval	2370	    1,609	0.0032	533.3333	hun_news_2016_00741999
+15863	A forint e közben 270-270,5 között tartja magát az euróval szemben, azonban az euró 1,1 alatt áll a frank ellenében.	Y	euróval	2370	    1,609	0.0032	556.3125	hun_news_2011_00476592
+15864	A font hét éve nem állt ilyen jól az euróval szemben.	Y	euróval	2370	    1,609	0.0032	597.6364	hun_news_2016_00066663
+15865	A forint jegyzése este hét óra elõtt 289,59 az euróval szemben, ami 2,77 százalékkal marad el a csütörtök esti 281,76 mögött.	Y	euróval	2370	    1,609	0.0032	630.1176	hun_news_2016_00067640
+15866	A vendégek között Angela Merkel mellett ott volt a német politikai és társadalmi élet számos további neves, vezetõ személyisége.	Y	neves	2370	    1,609	0.0032	840.1667	hun_news_2017_00295030
+15867	A neves lap munkatársa azt is közölte, a beszélgetés során azt a szót, hogy „diktatúra, semmilyen formában vagy alakban nem mondta ki.	Y	neves	2370	    1,609	0.0032	976.4211	hun_news_2016_00208151
+15868	Ő nem izraeli, hanem magyar, de mert szeretjük, az sem baj, hogy akár lehetne, hiszen már Dr. J. G., a neves kampánystratéga megmondta: azt, hogy ki micsoda, ő állapítja meg.	Y	neves	2370	    1,609	0.0032	991.0714	hun_news_2017_00848783
+15869	Az április 16-19 között megrendezésre kerülő fesztiválon több mint 40 zenekar lép fel, köztük négy neves külföldi csapat.	Y	neves	2370	    1,609	0.0032	1002.375	hun_news_2011_00406966
+15870	Az idén 95 éves neves közgazdász, Kopátsy Sándor akkor azt írta: Így is működik az ország, és szerencsére nem is rosszul, de miként működhetne, ha mindenki a törvényes utat járná.	Y	neves	2370	    1,609	0.0032	1004.3704	hun_news_2017_00359718
+15871	Ez több mint ezer forintba, sok esetben havi több ezer forintba kerül.	Y	forintba	2371	    1,608	0.0032	442.1111	hun_news_2016_00564233
+15872	Nem beszélve arról, hogy ez legalább 500 millió forintba került volna.	Y	forintba	2371	    1,608	0.0032	538.7	hun_news_2017_00817344
+15873	A döntés már első körben több száz millió forintba került.	Y	forintba	2371	    1,608	0.0032	544	hun_news_2016_00048263
+15874	Kilenc órakor már 280,60 forintba került egy euró, a dollár 230 forintra ment le, a svájci frank pedig 200 forint alá csökkent.	Y	forintba	2371	    1,608	0.0032	608.5556	hun_news_2011_00521047
+15875	Egy euró 278,15 forintba került hétfőn kora reggel, a pénteki 278,25 forint után.	Y	forintba	2371	    1,608	0.0032	635.3636	hun_news_2011_00294793
+15876	Pedig a játékok előtt nem is ők voltak az esélyesek.	Y	játékok	2371	    1,608	0.0032	667.4	hun_news_2011_00012313
+15877	Ebben az évben a sportprogramok és a játékok különösen nagy szerepet kapnak.	Y	játékok	2371	    1,608	0.0032	823.6364	hun_news_2017_00462900
+15878	Bár a férfiak hasonló száma már nem szerepel az ötkarikás játékok mûsorán, itt is sok az induló.	Y	játékok	2371	    1,608	0.0032	862.1875	hun_news_2016_00415877
+15879	Karácsonyi játékok: mást akar a szülő és a gyerek - Napi.huEz a program emailben elküldi a cikk címét és bevezetőjét, önnek csak a címzett e-mail címét kell megadnia.	Y	játékok	2371	    1,608	0.0032	903.6522	hun_news_2017_00679044
+15880	Jelenleg sokkal több olyan elemzés van amelyik azt mutatja, hogy az ötkarikás játékok maga a gazdasági csőd.	Y	játékok	2371	    1,608	0.0032	929.3529	hun_news_2017_00669074
+15881	Amit ezután mondott, az váratlanul ért, és nagyon érdekes volt.	Y	váratlanul	2371	    1,608	0.0032	535	hun_news_2017_00187681
+15882	Annyira váratlanul ért, s olyan gyorsan történt minden, hogy védekezni sem tudtam.	Y	váratlanul	2371	    1,608	0.0032	769.25	hun_news_2017_00206757
+15883	Eszembe sem jutott soha, hogy egyszer én is köztük lehetek, ezért is ért váratlanul a hír.	Y	váratlanul	2371	    1,608	0.0032	801.0667	hun_news_2016_00532779
+15884	Nem ért váratlanul bennünket halála, de lehet-e igazán várt a halál?	Y	váratlanul	2371	    1,608	0.0032	816.9167	hun_news_2011_00254852
+15885	Az F–1-es csapat bejelentése valószínűleg senkit sem ért váratlanul, hisz az már korábban kiderült, hog Kérjük jelentkezzen be, hogy a teljes cikket olvashassa Már van előfizetésem vagy korábban regisztráltam!	Y	váratlanul	2371	    1,608	0.0032	837.4074	hun_news_2017_00357631
+15886	Végül a férfit 10 év börtönbüntetésre ítélte a bíróság, amelyet azóta már le is töltött.	Y	ítélte	2372	    1,607	0.0032	713.8462	hun_news_2011_00213585
+15887	Azt hiszem, már az nagy szó, hogy kívülállóként úgy ítélte meg, érdemes vagyok erre – fogalmazott Ábrahám Gábor.	Y	ítélte	2372	    1,607	0.0032	785.5294	hun_news_2017_00392679
+15888	Kovács Zoltán a döntést Magyarország és a magyar emberek számára kedvezőtlennek ítélte, és kiemelte, hogy egy sikeres, jól működő programról van szó.	Y	ítélte	2372	    1,607	0.0032	819.9	hun_news_2016_00711012
+15889	Bradyt nem sokkal az eset után ítélte el a bíróság, Lord viszont csak most, három évvel késõbb került börtönbe.	Y	ítélte	2372	    1,607	0.0032	842.2632	hun_news_2016_00431740
+15890	Ez a díj ugyanakkor meghatározó volt a számomra, mert egy komoly szakmai zsűri ítélte nekem, és hatalmas megtiszteltetés a mai napig.	Y	ítélte	2372	    1,607	0.0032	879.0526	hun_news_2017_00533628
+15891	Nézze meg ön is, mi történt a szerdai napon Szabolcs megyében!	Y	nézze	2372	    1,607	0.0032	672.0909	hun_news_2011_00638099
+15892	Nézze meg mi minden történt Hajdú-Bihar megyében október 23-án, vasárnap!	Y	nézze	2372	    1,607	0.0032	674.5455	hun_news_2017_00834846
+15893	Ezt nézze meg: Dunahullám - videó Ilyen itt még nem volt!	Y	nézze	2372	    1,607	0.0032	733.8	hun_news_2016_00564160
+15894	Ezt tényleg csak akkor nézze meg, ha erős a gyomra.	Y	nézze	2372	    1,607	0.0032	769.4	hun_news_2016_00564829
+15895	Egyébként túl vagyok már rajta: az ember a szépet nézze..	Y	nézze	2372	    1,607	0.0032	778	hun_news_2016_00475133
+15896	Most egy PR-ügynökség seg Számára még mindig igen fontos az album Kérjük jelentkezzen be, hogy a teljes cikket olvashassa Már van előfizetésem vagy korábban regisztráltam!	Y	ügynökség	2372	    1,607	0.0032	798.9231	hun_news_2017_00796677
+15897	Mert az utolsó hetekben Budapest a lengyel Wroclaw-val volt versenyben az EITI-ért, és arról már korábban megállapodás született, hogy az olyan tagországba kerül, ahol még nincs egyetlen uniós ügynökség sem.	Y	ügynökség	2372	    1,607	0.0032	844.9667	hun_news_2016_00765574
+15898	Papp Zsolt, 2016. augusztus 09. Így szerzett 11 milliárdot az állami ügynökség MTI, Napi.	Y	ügynökség	2372	    1,607	0.0032	905.3636	hun_news_2016_00862460
+15899	Az ezzel kapcsolatos döntés a Nemzeti Fejlesztési Ügynökség (NFÜ) kezdeményezésére, a múlt héten született meg.	Y	ügynökség	2372	    1,607	0.0032	935.7143	hun_news_2016_00361578
+15900	Pécsi Újság - Világ+Bulvár - Már 50 forintért is ad fotót az egyik legnagyobb ügynökség 2016. november 30. Már 50 forintért is ad fotót az egyik legnagyobb ügynökség2014.	Y	ügynökség	2372	    1,607	0.0032	936.0714	hun_news_2016_00865403
+15901	Az voltam, ami akartam, és az, ami akartam, az voltam én.”	Y	akartam	2373	    1,606	0.0032	563.5	hun_news_2017_00407224
+15902	Színész akartam lenni, mert tudtam, hogy még nem vagyok az.	Y	akartam	2373	    1,606	0.0032	584.2	hun_news_2017_00923501
+15903	Mondta nekik, hogy szeretne beszélni velem, mert én nem akartam vele.	Y	akartam	2373	    1,606	0.0032	648.1818	hun_news_2016_00796430
+15904	Sõt, valójában ebben a pár évben nem is akartam dolgozni.	Y	akartam	2373	    1,606	0.0032	657.7	hun_news_2016_00907142
+15905	A Real Madrid az a klub, ahol mindig is játszani akartam.	Y	akartam	2373	    1,606	0.0032	806	hun_news_2011_00235885
+15906	Hogy az angol, a német, a francia miért tud egyre nagyobb teret hódítani?	Y	teret	2373	    1,606	0.0032	679.4167	hun_news_2011_00680869
+15907	Új cég alakítja tovább a budapesti Kossuth teret - Napi.huEz a program emailben elküldi a cikk címét és bevezetőjét, önnek csak a címzett e-mail címét kell megadnia.	Y	teret	2373	    1,606	0.0032	778.3333	hun_news_2017_00968591
+15908	Az a baj, hogy ami jó azt elnyomják és nem engednek teret neki.	Y	teret	2373	    1,606	0.0032	837.6154	hun_news_2011_00043696
+15909	Éppen csak ezt miért nem akkor csinálták meg, amikor 2 éve felújították a Kossuth teret?	Y	teret	2373	    1,606	0.0032	839.9286	hun_news_2016_00519239
+15910	Szeptember 12-én már tulajdonképpen végeztek a Nyugati tér felújításával, de a teret csak október elején adják majd át – tudta meg az Origo.	Y	teret	2373	    1,606	0.0032	859.9048	hun_news_2016_00917989
+15911	A botrány elmúlt heteiben több helyen is azt állították, hogy már meghalt.	Y	állították	2374	    1,605	0.0032	802.0833	hun_news_2017_00027500
+15912	Azonban nem állították le a gyűjtést, pontosan azért, mert még nem tudják, hogyan fog dönteni a közgyűlés.	Y	állították	2374	    1,605	0.0032	838.0667	hun_news_2011_00511104
+15913	Mindannyian azt állították, hogy nehéz volt, és hogy kevés idő maradt a felkészülésre.	Y	állították	2374	    1,605	0.0032	860.4167	hun_news_2017_00773091
+15914	Azt, hogy ez már egy második vizsgálat lenne - ezt bizonyos sajtóértesülések állították - félreértésnek nevezte az államtitkár.	Y	állították	2374	    1,605	0.0032	868.4375	hun_news_2011_00765948
+15915	Mint később kiderült, mégsem pontosan így áll a helyzet, és a típuskérvényt helyben állították össze.	Y	állították	2374	    1,605	0.0032	873.2857	hun_news_2011_00786440
+15916	Az USA-n kívül azonban ez a piac kevésbé fejlett.	Y	fejlett	2374	    1,605	0.0032	643.2	hun_news_2017_00403740
+15917	Ma minden ötödik ember él fejlett országban, 46 év múlva csak minden hetedik fog.	Y	fejlett	2374	    1,605	0.0032	650.3333	hun_news_2011_00504417
+15918	Emlékeztetett arra, hogy ez az arány az összes fejlett országban jóval magasabb, 80-150 százalék.	Y	fejlett	2374	    1,605	0.0032	729.9167	hun_news_2017_00505841
+15919	Kiemelte, hogy tagjai annak a nemzetközi koalíciónak, amely az Iszlám Állam ellen harcol, és amelynek majdnem minden fejlett ország a tagja.	Y	fejlett	2374	    1,605	0.0032	754.25	hun_news_2017_00693874
+15920	A mai fejlett civilizacionkban meg mindig vannak olyan emberek, akik nem ismerik.	Y	fejlett	2374	    1,605	0.0032	791.3333	hun_news_2011_00062376
+15921	Ám itt, ezen a ponton úgy tűnik, véget is ért.	Y	ponton	2374	    1,605	0.0032	468.5	hun_news_2016_00191925
+15922	Nem csak a megszólalók nem tudják,hogy a 29 ponton belül mi mit jelent,az emberek sem.	Y	ponton	2374	    1,605	0.0032	551.2143	hun_news_2011_00679475
+15923	A biztos szerint azt már 2010-ben is lehetett tudni, hogy az utóbbi miatt egy bizonyos ponton komoly fenntartásai lesznek az Európai Bizottságnak, és most érkezett el ez a pillanat.	Y	ponton	2374	    1,605	0.0032	592.4074	hun_news_2016_00025814
+15924	Hiába, sok ponton hasonló utat járt be a két nép.	Y	ponton	2374	    1,605	0.0032	656.1	hun_news_2016_00627319
+15925	Sajnos azonban nem csak az igaz, hogy ezen a ponton reálisan meg lehet állítani a dominósort, hanem az is, hogy ez az utolsó ilyen pont.	Y	ponton	2374	    1,605	0.0032	668.1905	hun_news_2011_00834740
+15926	A szóvivő közölte: egy 19 és egy 26 éves férfit vettek őrizetbe.	Y	szóvivő	2374	    1,605	0.0032	637.8889	hun_news_2011_00109082
+15927	A másik két lakó nem sérült meg - tette hozzá a szóvivő.	Y	szóvivő	2374	    1,605	0.0032	686.1	hun_news_2017_00166748
+15928	Nincs pánikhangulat, és soha nem is volt az MDF-ben - hangsúlyozta a szóvivő.	Y	szóvivő	2374	    1,605	0.0032	710.3077	hun_news_2011_00421912
+15929	A szóvivő szerint egyelőre nem tudni, hogy mi okozta a tüzet.	Y	szóvivő	2374	    1,605	0.0032	714.6	hun_news_2011_00135206
+15930	Amennyiben ilyen döntés születne, azt az ország nemzeti biztonsági tanácsa jelentette volna be - fogalmazott egy szóvivő.	Y	szóvivő	2374	    1,605	0.0032	778.8125	hun_news_2017_00175478
+15931	Tették mindezt remekül, annak ellenére, hogy most először voltak együtt.	Y	remekül	2375	    1,604	0.0032	618	hun_news_2011_00784316
+15932	Nem lesz ebből probléma, biztos vagyok benne, hogy két ilyen klasszis remekül tud majd együtt dolgozni.	Y	remekül	2375	    1,604	0.0032	618.875	hun_news_2017_00825491
+15933	Az első egyeztetés időközben már meg is történt és a szervezet tájékoztatása szerint remekül sikerült.	Y	remekül	2375	    1,604	0.0032	686.3333	hun_news_2011_00570586
+15934	Ma minden remekül ment, jó volt vezetni az autót, a csapat remek munkát végzett.	Y	remekül	2375	    1,604	0.0032	717.0714	hun_news_2016_00739231
+15935	Remekül mûködött a dolog, ha nem is lett ugyanolyan, mint az eredeti.	Y	remekül	2375	    1,604	0.0032	797.4167	hun_news_2017_00881229
+15936	Tényleg csak egy tipp,de ha így van az már tényleg durva lenne.	Y	durva	2376	    1,603	0.0032	572	hun_news_2016_00940603
+15937	De ha azt mondja,meg is ölhetlek,az már durva lenne!	Y	durva	2376	    1,603	0.0032	642.8182	hun_news_2011_00369892
+15938	Durva változás történt, ebből még baj lehet - Napi.huEz a program emailben elküldi a cikk címét és bevezetőjét, önnek csak a címzett e-mail címét kell megadnia.	Y	durva	2376	    1,603	0.0032	681.7083	hun_news_2017_00460994
+15939	Sajnos ma már semmi sem szégyen, de ez már durva!	Y	durva	2376	    1,603	0.0032	727	hun_news_2011_00646820
+15940	Durva meglepetés várható még az év végéig - Napi.huEz a program emailben elküldi a cikk címét és bevezetőjét, önnek csak a címzett e-mail címét kell megadnia.	Y	durva	2376	    1,603	0.0032	728.6667	hun_news_2017_00460899
+15941	Lehet, hogy 49-es még egy ifjú titán, de nagyon jól látja a dolgokat.	Y	ifjú	2376	    1,603	0.0032	712.1538	hun_news_2011_00823527
+15942	Ugyanis az ifjú Watchmannál van, mint ahogy meg is írta.	Y	ifjú	2376	    1,603	0.0032	719.2	hun_news_2016_00962486
+15943	A román tv-ben már azt hangoztatják,hogy ők itt voltak,és vannak több mint 1000 éve Érdekes,az én városomban gyermek,és ifjú koromban szinte nem lehetett román szót hallani.	Y	ifjú	2376	    1,603	0.0032	773.9286	hun_news_2016_00240820
+15944	Ez nem Európa, és nem is Amerika – mondta az egyik ifjú verekedő.	Y	ifjú	2376	    1,603	0.0032	781.7273	hun_news_2011_00738555
+15945	Az Ifjú Gárda, meg később a párt, az már önálló és utólag nem túl elegáns döntés volt, valóban.	Y	ifjú	2376	    1,603	0.0032	787.7059	hun_news_2011_00842236
+15946	No.meg az is hogy 44-ben már nem volt szegedi professzor,hanem pesti.	Y	professzor	2376	    1,603	0.0032	594.6154	hun_news_2017_00837991
+15947	Erre csak a következő években kerülhet majd sor - fogalmazott a professzor.	Y	professzor	2376	    1,603	0.0032	596.2	hun_news_2016_00523567
+15948	Aztán beszélgettem az egyik volt ismerősömmel, aki ráadásul még professzor is, és azt mondta, hogy csak a szép nőt látja benne, azért szavazott rá.	Y	professzor	2376	    1,603	0.0032	719.375	hun_news_2011_00214741
+15949	Ez Nyugaton ma is így működik, de a magyar társadalom arra van szocializálva, hogy az orvos azonnal rendelkezésre áll – mondta a professzor.	Y	professzor	2376	    1,603	0.0032	741.1905	hun_news_2017_00555197
+15950	Ez pedig nem más, mint egy egészséges nemzeti identitástudat kérdése – mondta a professzor.	Y	professzor	2376	    1,603	0.0032	752.0769	hun_news_2011_00164121
+15951	Akkor kevés figyelmet kapott az elképzelés, most viszont már ezt is vizsgálják.	Y	vizsgálják	2376	    1,603	0.0032	586.8333	hun_news_2017_00122799
+15952	A hatóságok még vizsgálják, hogy pontosan mi történt a házban.	Y	vizsgálják	2376	    1,603	0.0032	604	hun_news_2016_00084500
+15953	Az idén már nem lesz további önkormányzati adósságátvállalás, azt pedig hogy jövõre lesz-e, még vizsgálják.	Y	vizsgálják	2376	    1,603	0.0032	639.8667	hun_news_2016_00363792
+15954	A hatóságok azt is vizsgálják, hogy a klub nem volt-e túlzsúfolt.	Y	vizsgálják	2376	    1,603	0.0032	679.3636	hun_news_2011_00990086
+15955	Azt hogy pontosan mi, és hogyan került a szerbe, még vizsgálják.	Y	vizsgálják	2376	    1,603	0.0032	681.2727	hun_news_2016_00398061
+15956	Mert ugyan most jól megy az országnak, de mi lesz később?	Y	országnak	2377	    1,602	0.0032	361.2727	hun_news_2017_00764579
+15957	A polgári Magyarország nem ennek az országnak az egyik kisebb vagy nagyobb része.	Y	országnak	2377	    1,602	0.0032	387.3333	hun_news_2011_00731173
+15958	Nem hiszem,hogy nekünk kellene segíteni egy olyan országnak, ahol a legjobban élnek az emberek.	Y	országnak	2377	    1,602	0.0032	594.6667	hun_news_2011_00297479
+15959	A fenti képen látható ellenõrzõkód: Végre lenne egy normális Köztársasági Elnöke az országnak!	Y	országnak	2377	    1,602	0.0032	773.4615	hun_news_2016_00057725
+15960	A hozzászólás nem küldhető el. Elfogadom a fórumszabályzatot: Moderálási alapelvek – Cikkhozzászólás szabályai Na akkor ennek az országnak (annyi).	Y	országnak	2377	    1,602	0.0032	1048.4706	hun_news_2017_00094140
+15961	A frank 252-ről 246 forintra esett vissza nem sokkal 10 óra előtt, azt követően, hogy a svájci jegybank bejelentette, csökkenti kamatcélját - jelenti több gazdasági portál.	Y	csökkenti	2378	    1,601	0.0032	919.9545	hun_news_2011_00877090
+15962	Ebben az esetben az esetleges karelfagyás nemcsak az idei, hanem a jövő évi termést is csökkenti.	Y	csökkenti	2378	    1,601	0.0032	966	hun_news_2017_00462741
+15963	Szerinte a mostani kormány ugyanis bizonyítani tudta, hogy csökkenti az államadósságot.	Y	csökkenti	2378	    1,601	0.0032	969.9091	hun_news_2016_00921221
+15964	Azt azonban még nem tudták bebizonyítani, hogy ha valaki diéta segítségével fogy le, azzal csökkenti-e a veszélyt.	Y	csökkenti	2378	    1,601	0.0032	1012.5	hun_news_2011_00714380
+15965	Ha a magyar kormány nem ügyel erre, akkor senki sem fog. Az, hogy a bankszektor több mint fele nemzeti tulajdonban legyen, sorsdöntõ Magyarország számára, mert ez a tétel önmagában jelentõsen csökkenti a kiszolgáltatottságunkat.	Y	csökkenti	2378	    1,601	0.0032	1024.1333	hun_news_2016_00599965
+15966	Az ázsiai országban a német vállalat júliusban 36 százalékkal több kocsit adott el, mint tavaly.	Y	júliusban	2379	    1,600	0.0032	699.1429	hun_news_2017_00323326
+15967	2011. augusztus 11. csütörtök Romániában 5 százalék alá csökkent júliusban az infláció Júliusban 5 százalék alá csökkent Romániában az éves infláció - közölte szerdán a román országos statisztikai hivatal.	Y	júliusban	2379	    1,600	0.0032	700.7059	hun_news_2011_00832414
+15968	Tavaly 1,56 százalékot nyert, ezzel 2007 volt a leggyengébb éve 2002 óta, pedig tavaly júliusban hat és fél évi csúcsra ért.	Y	júliusban	2379	    1,600	0.0032	749.2941	hun_news_2017_00934156
+15969	Júliusban az alábbi hat vezető több mint egy milliót hozott össze.	Y	júliusban	2379	    1,600	0.0032	752.6364	hun_news_2011_00361303
+15970	László kilenc év alatt ötször volt munkanélküli Idén május-júliusban 306 ezer volt a száma Magyarországon, 51 ezerrel kevesebb, mint egy évvel korábban.	Y	júliusban	2379	    1,600	0.0032	758.7	hun_news_2016_00720496
+15971	Tavaly augusztusban Magyarországon volt egy hasonló eset, de ott csak egy év telt el a gyilkosság óta.	Y	augusztusban	2380	    1,599	0.0032	532.8125	hun_news_2016_00935581
+15972	Az index augusztusban még 99,8 pont volt, tavaly december óta a legalacsonyabb.	Y	augusztusban	2380	    1,599	0.0032	690	hun_news_2017_00363463
+15973	Augusztusban a régióban 638 428 alkalmazott volt, több, mint egy évvel korábban.	Y	augusztusban	2380	    1,599	0.0032	715.5	hun_news_2017_00286620
+15974	Augusztusban volt a csúcs, akkor egy hónap alatt 452 gyerekkel született több, mint egy évvel korábban.	Y	augusztusban	2380	    1,599	0.0032	734.3571	hun_news_2016_00290540
+15975	Július-augusztusban mindenki szabadságra megy, karácsony előtt pedig két héttel már szintén senki nem dolgozik, így aztán a rendelkezésünkre álló idő igazán nem hosszú.	Y	augusztusban	2380	    1,599	0.0032	798.6087	hun_news_2017_00676757
+15976	Benedek Barna: – Ez egy olyan mérkőzés volt, ahol semmi nem jött össze, nem volt egy húzó ember sem a csapatban.	Y	barna	2381	    1,597	0.0032	784.3529	hun_news_2011_00642033
+15977	Egyik fekete, másik szőke, a harmadik barna, de mind a három AZT akarja: az adatainkat.	Y	barna	2381	    1,597	0.0032	827.7857	hun_news_2011_00033250
+15978	És ki ez a másik úr ezen a barna pénzen?	Y	barna	2381	    1,597	0.0032	834.7778	hun_news_2017_00526391
+15979	Van, akinek a szőke és a barna is jól áll, de van olyan is, aki mellett valószínű elmennénk az utcán, ha ilyen haja lenne.	Y	barna	2381	    1,597	0.0032	844.4762	hun_news_2017_00980762
+15980	Cikk megjelenítése: 2407Olvasóink értékelése: Ha hozzá szeretne szólni, jelentkezzen be ANTAL BARNA, Bécs.	Y	barna	2381	    1,597	0.0032	854.2308	hun_news_2016_00438626
+15981	Ehhez persze azt kell tenni, amit a busz vezetõje is tett.	Y	busz	2381	    1,597	0.0032	482.6364	hun_news_2016_00492232
+15982	És ha már ez megtörtént, mennyi az esély arra, hogy pont akkor jön arra egy busz is?	Y	busz	2381	    1,597	0.0032	577.4375	hun_news_2016_00528941
+15983	Jelenleg sokszor ott áll meg a busz, ahol egyébként semmi nincs, csak lakóházak.	Y	busz	2381	    1,597	0.0032	626.7692	hun_news_2011_00044772
+15984	Az öt halott közül négy férfi - köztük van a busz vezetõje -, egy nõ.	Y	busz	2381	    1,597	0.0032	635.8462	hun_news_2016_00391359
+15985	Az is hozzátartozik, hogy több, mint 30 éve két busz jár.	Y	busz	2381	    1,597	0.0032	661.2	hun_news_2011_00715583
+15986	Az elmúlt két évben, 2014-ben és 2015-ben ugyanakkor meglehetősen stabil volt ez a mutató.	Y	mutató	2381	    1,597	0.0032	562.2308	hun_news_2017_00336648
+15987	Egyébként 2002 január-október folyamán az infláció 2,6 százalékot tett ki, míg 2001-ben 6 százalékos volt ez a mutató.	Y	mutató	2381	    1,597	0.0032	586.6875	hun_news_2011_00357786
+15988	Igaz, hogy a befizetések csak a teljes összeg 76,6 százalékát teszik ki, de ez a mutató is elég volt az első helyre.	Y	mutató	2381	    1,597	0.0032	588.8947	hun_news_2011_00608994
+15989	A 6:3-as mutató még mindig nem rossz, de a következő mérkőzéseken több kell.	Y	mutató	2381	    1,597	0.0032	605	hun_news_2011_00746924
+15990	A GDP sem a legjobb mutató, így nem lehet jó egy olyan gazdaságpolitika sem, amely mindent a GDP-ben fejez ki.	Y	mutató	2381	    1,597	0.0032	683.9412	hun_news_2016_00072502
+15991	A legnagyobb tíz vállalat közé pedig három magyar cég került be, a Mol, a Nokia valamint az Audi.	Y	audi	2382	    1,595	0.0032	586.5625	hun_news_2011_00651521
+15992	Az amerikai lap ezért úgy véli, valószínű, hogy az Audi is egy déli állam mellett dönt majd.	Y	audi	2382	    1,595	0.0032	618.125	hun_news_2011_00067158
+15993	Hozzáadom a könyvjelzõhözKüldd ide: Delicious Régi-új ismerõs: Itt az új Audi A8!	Y	audi	2382	    1,595	0.0032	716.3636	hun_news_2016_00641226
+15994	Még több Audi készül Kínában - Napi.huEz a program emailben elküldi a cikk címét és bevezetőjét, önnek csak a címzett e-mail címét kell megadnia.	Y	audi	2382	    1,595	0.0032	743.6818	hun_news_2017_00758583
+15995	Az Audi az év első kilenc hónapjában 1,58 millió autót adott el, 4 százalékkal többet, mint a múlt és első háromnegyedében.	Y	audi	2382	    1,595	0.0032	752.8824	hun_news_2017_00321395
+15996	Mit gondolsz, a többi párt nem számol el mindent, amit csak lehet?	Y	számol	2382	    1,595	0.0032	622.5	hun_news_2011_00308019
+15997	Az MNB továbbra is azzal számol, hogy 2017-ben a gazdaság 3 százalékkal bővül.	Y	számol	2382	    1,595	0.0032	691.1667	hun_news_2016_00375111
+15998	Az MNB továbbra is azzal számol, hogy 2017-ben a gazdaság 3 százalékkal bõvül.	Y	számol	2382	    1,595	0.0032	712.9167	hun_news_2016_00375112
+15999	Az 1,5 százalékos korábbi kalkuláció helyett 0,5 százalékkal számol a kormány, mondta.	Y	számol	2382	    1,595	0.0032	756.1	hun_news_2017_00303517
+16000	A szervezet azzal számol, hogy több mint 3 millió új autót helyeznek forgalomba az idén az országban.	Y	számol	2382	    1,595	0.0032	760.7333	hun_news_2011_00348167

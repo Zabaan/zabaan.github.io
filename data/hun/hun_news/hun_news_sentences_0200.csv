@@ -1,0 +1,1001 @@
+ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
+1	Az európai csak azt tudja, hogy egyik ember olyan, mint a másik!	Y	a	1	4,845,865	9.5981	56.6667	hun_news_2016_00358674
+2	Ha ez tavaly történt, akkor azért a 11 év az nem néhány év.	Y	a	1	4,845,865	9.5981	62.5455	hun_news_2017_00600366
+3	Nem azt, hogy mi a rossz, hanem, mi a jó.	Y	a	1	4,845,865	9.5981	72.875	hun_news_2017_00817057
+4	Mint ahogy az sem, hogy ez így volt már a '30-as években is.	Y	a	1	4,845,865	9.5981	79.2308	hun_news_2016_00784461
+5	A kérdés csak az, hogy miért van így több mint 50 éve..	Y	a	1	4,845,865	9.5981	79.3636	hun_news_2016_00113016
+6	Az európai csak azt tudja, hogy egyik ember olyan, mint a másik!	Y	az	2	1,704,774	3.3766	56.6667	hun_news_2016_00358674
+7	Ha ez tavaly történt, akkor azért a 11 év az nem néhány év.	Y	az	2	1,704,774	3.3766	62.5455	hun_news_2017_00600366
+8	Nem elég, hogy az ember nagyon jó, más is kell hozzá.	Y	az	2	1,704,774	3.3766	63	hun_news_2016_00820829
+9	Akkor is, ha korábban nem volt (mert nem lehetett) az.	Y	az	2	1,704,774	3.3766	66.8889	hun_news_2016_00126330
+10	Az akkor volt, most meg most van, később meg ki tudja mi lesz..	Y	az	2	1,704,774	3.3766	71.9091	hun_news_2016_00312561
+11	Így volt ez 48-ban, és így van ez ma is.	Y	és	3	  896,997	1.7767	37	hun_news_2017_00653163
+12	És ez így lenne most is, pedig mi van ma?	Y	és	3	  896,997	1.7767	40.9	hun_news_2016_00528407
+13	Ha jó, az jó és ha rossz, az is jó!	Y	és	3	  896,997	1.7767	73.8333	hun_news_2011_00929294
+14	Itt arról van szó, hogy nem csak az kell ami jár és amit kapott, hanem minden.	Y	és	3	  896,997	1.7767	82.9375	hun_news_2011_00696096
+15	És persze az is jó, hogy az egész család itt lehet.	Y	és	3	  896,997	1.7767	103.7	hun_news_2016_00531413
+16	Lehet, hogy eddig így volt, de most már nem így lesz.	Y	hogy	4	  690,422	1.3675	32.4	hun_news_2016_00725511
+17	Most nem úgy vagyok, hogy mint '96-ban, hogy lesz még ilyen, mert lehet, hogy már nem lesz..	Y	hogy	4	  690,422	1.3675	55.3077	hun_news_2016_00799839
+18	Az európai csak azt tudja, hogy egyik ember olyan, mint a másik!	Y	hogy	4	  690,422	1.3675	56.6667	hun_news_2016_00358674
+19	Talán még egy harmadik is, de ki hogy van ezzel.	Y	hogy	4	  690,422	1.3675	62.2	hun_news_2011_00969205
+20	Nem elég, hogy az ember nagyon jó, más is kell hozzá.	Y	hogy	4	  690,422	1.3675	63	hun_news_2016_00820829
+21	Így volt ez 48-ban, és így van ez ma is.	Y	is	5	  651,870	1.2911	37	hun_news_2017_00653163
+22	És ez így lenne most is, pedig mi van ma?	Y	is	5	  651,870	1.2911	40.9	hun_news_2016_00528407
+23	Talán még egy harmadik is, de ki hogy van ezzel.	Y	is	5	  651,870	1.2911	62.2	hun_news_2011_00969205
+24	Nem elég, hogy az ember nagyon jó, más is kell hozzá.	Y	is	5	  651,870	1.2911	63	hun_news_2016_00820829
+25	Akkor is, ha korábban nem volt (mert nem lehetett) az.	Y	is	5	  651,870	1.2911	66.8889	hun_news_2016_00126330
+26	Lehet, hogy eddig így volt, de most már nem így lesz.	Y	nem	6	  577,808	1.1445	32.4	hun_news_2016_00725511
+27	Most nem úgy vagyok, hogy mint '96-ban, hogy lesz még ilyen, mert lehet, hogy már nem lesz..	Y	nem	6	  577,808	1.1445	55.3077	hun_news_2016_00799839
+28	Ha ez tavaly történt, akkor azért a 11 év az nem néhány év.	Y	nem	6	  577,808	1.1445	62.5455	hun_news_2017_00600366
+29	Nem elég, hogy az ember nagyon jó, más is kell hozzá.	Y	nem	6	  577,808	1.1445	63	hun_news_2016_00820829
+30	Akkor is, ha korábban nem volt (mert nem lehetett) az.	Y	nem	6	  577,808	1.1445	66.8889	hun_news_2016_00126330
+31	Talán még egy harmadik is, de ki hogy van ezzel.	Y	egy	7	  419,605	0.8311	62.2	hun_news_2011_00969205
+32	Egy magyar számára ez nem kérdés: ha magyar vagy, akkor európai vagy.	Y	egy	7	  419,605	0.8311	72.1	hun_news_2017_00479574
+33	Ám nem ez a baj, hanem az, hogy ebből az egy is sok.	Y	egy	7	  419,605	0.8311	137.9167	hun_news_2011_00238864
+34	Nálunk ez egy év, két év, öt év is lehet.	Y	egy	7	  419,605	0.8311	143	hun_news_2016_00809649
+35	Egy dollár ma 286 forint, míg két éve még 222 forint volt.	Y	egy	7	  419,605	0.8311	157.2222	hun_news_2016_00474029
+36	Az akkor volt, most meg most van, később meg ki tudja mi lesz..	Y	meg	8	  222,557	0.4408	71.9091	hun_news_2016_00312561
+37	De ez még nem azt jelenti,hogy meg is teszi.	Y	meg	8	  222,557	0.4408	113.5	hun_news_2011_00167647
+38	Az első kérdés persze ezzel kapcsolatban, hogy miért nem tette meg ezt eddig.	Y	meg	8	  222,557	0.4408	131.4615	hun_news_2016_00345136
+39	Ezek közül most egyik sincs meg a Fidesz elnöke szerint.	Y	meg	8	  222,557	0.4408	159.1	hun_news_2011_00384328
+40	Én meg úgy voltam vele, hogy hát ez még csak nem is én vagyok.	Y	meg	8	  222,557	0.4408	163.2308	hun_news_2016_00512348
+41	Lehet, hogy eddig így volt, de most már nem így lesz.	Y	de	9	  205,642	0.4073	32.4	hun_news_2016_00725511
+42	Talán még egy harmadik is, de ki hogy van ezzel.	Y	de	9	  205,642	0.4073	62.2	hun_news_2011_00969205
+43	Nem tudom, ki mondta ezt, de hogy én nem, az biztos!	Y	de	9	  205,642	0.4073	95.4	hun_news_2017_00830334
+44	Hogy mi lesz azt még nem tudjuk. de lehet jó is rossz is.	Y	de	9	  205,642	0.4073	102.4167	hun_news_2011_00947734
+45	De ez még nem azt jelenti,hogy meg is teszi.	Y	de	9	  205,642	0.4073	113.5	hun_news_2011_00167647
+46	Lehet, hogy eddig így volt, de most már nem így lesz.	Y	volt	10	  192,434	0.3812	32.4	hun_news_2016_00725511
+47	Így volt ez 48-ban, és így van ez ma is.	Y	volt	10	  192,434	0.3812	37	hun_news_2017_00653163
+48	Akkor is, ha korábban nem volt (mert nem lehetett) az.	Y	volt	10	  192,434	0.3812	66.8889	hun_news_2016_00126330
+49	Az akkor volt, most meg most van, később meg ki tudja mi lesz..	Y	volt	10	  192,434	0.3812	71.9091	hun_news_2016_00312561
+50	Mint ahogy az sem, hogy ez így volt már a '30-as években is.	Y	volt	10	  192,434	0.3812	79.2308	hun_news_2016_00784461
+51	Lehet, hogy eddig így volt, de most már nem így lesz.	Y	már	11	  181,540	0.3596	32.4	hun_news_2016_00725511
+52	Most nem úgy vagyok, hogy mint '96-ban, hogy lesz még ilyen, mert lehet, hogy már nem lesz..	Y	már	11	  181,540	0.3596	55.3077	hun_news_2016_00799839
+53	Mint ahogy az sem, hogy ez így volt már a '30-as években is.	Y	már	11	  181,540	0.3596	79.2308	hun_news_2016_00784461
+54	Vagy nem is tudom mi lenne már itt a jó.	Y	már	11	  181,540	0.3596	82.7	hun_news_2011_00306665
+55	Most már csak az a kérdés, mire volt jó ez az egész?	Y	már	11	  181,540	0.3596	129.7273	hun_news_2011_00346118
+56	Ezek közül most egyik sincs meg a Fidesz elnöke szerint.	Y	szerint	12	  163,905	0.3246	159.1	hun_news_2011_00384328
+57	Három helyett öt százalék a cél A miniszterelnök szerint jó a 3 százalékos gazdasági növekedés, de ezzel nem lehet..	Y	szerint	12	  163,905	0.3246	250.4375	hun_news_2016_00616395
+58	Ez szükség szerint rosszabb, de még mindig sokkal jobb, mint a nem döntés.	Y	szerint	12	  163,905	0.3246	281.9231	hun_news_2016_00559365
+59	A politikus szerint e téren egyébként nem sok változott az elmúlt 25 évben.	Y	szerint	12	  163,905	0.3246	295.5	hun_news_2016_00225388
+60	Az okozott kár a rendőrség szerint több mint 120 millió forint.	Y	szerint	12	  163,905	0.3246	304.9	hun_news_2011_00984273
+61	Az európai csak azt tudja, hogy egyik ember olyan, mint a másik!	Y	csak	13	  156,881	0.3107	56.6667	hun_news_2016_00358674
+62	A kérdés csak az, hogy miért van így több mint 50 éve..	Y	csak	13	  156,881	0.3107	79.3636	hun_news_2016_00113016
+63	Itt arról van szó, hogy nem csak az kell ami jár és amit kapott, hanem minden.	Y	csak	13	  156,881	0.3107	82.9375	hun_news_2011_00696096
+64	Most már csak az a kérdés, mire volt jó ez az egész?	Y	csak	13	  156,881	0.3107	129.7273	hun_news_2011_00346118
+65	Saját magát nem jelenti fel az ember csak, ha minden kiderült.	Y	csak	13	  156,881	0.3107	131.8182	hun_news_2016_00891458
+66	Ha ez tavaly történt, akkor azért a 11 év az nem néhány év.	Y	ha	14	  152,201	0.3015	62.5455	hun_news_2017_00600366
+67	Akkor is, ha korábban nem volt (mert nem lehetett) az.	Y	ha	14	  152,201	0.3015	66.8889	hun_news_2016_00126330
+68	Egy magyar számára ez nem kérdés: ha magyar vagy, akkor európai vagy.	Y	ha	14	  152,201	0.3015	72.1	hun_news_2017_00479574
+69	Ha jó, az jó és ha rossz, az is jó!	Y	ha	14	  152,201	0.3015	73.8333	hun_news_2011_00929294
+70	Ha nem, az sem baj, úgy jó, ahogy van/lesz!	Y	ha	14	  152,201	0.3015	116.9	hun_news_2017_00608138
+71	Így volt ez 48-ban, és így van ez ma is.	Y	ez	15	  151,988	0.301	37	hun_news_2017_00653163
+72	És ez így lenne most is, pedig mi van ma?	Y	ez	15	  151,988	0.301	40.9	hun_news_2016_00528407
+73	Ha ez tavaly történt, akkor azért a 11 év az nem néhány év.	Y	ez	15	  151,988	0.301	62.5455	hun_news_2017_00600366
+74	Egy magyar számára ez nem kérdés: ha magyar vagy, akkor európai vagy.	Y	ez	15	  151,988	0.301	72.1	hun_news_2017_00479574
+75	Nem arról van szó, hogy ez nem jó, hanem hogy én nem vagyok ilyen.	Y	ez	15	  151,988	0.301	78.9091	hun_news_2011_00984877
+76	Most nem úgy vagyok, hogy mint '96-ban, hogy lesz még ilyen, mert lehet, hogy már nem lesz..	Y	még	16	  151,073	0.2992	55.3077	hun_news_2016_00799839
+77	Talán még egy harmadik is, de ki hogy van ezzel.	Y	még	16	  151,073	0.2992	62.2	hun_news_2011_00969205
+78	Ez még inkább igaz lehet azzal, hogy a Magyar Nemzeti.	Y	még	16	  151,073	0.2992	81.1	hun_news_2016_00556621
+79	Hogy mi lesz azt még nem tudjuk. de lehet jó is rossz is.	Y	még	16	  151,073	0.2992	102.4167	hun_news_2011_00947734
+80	De ez még nem azt jelenti,hogy meg is teszi.	Y	még	16	  151,073	0.2992	113.5	hun_news_2011_00167647
+81	Az európai csak azt tudja, hogy egyik ember olyan, mint a másik!	Y	azt	17	  144,253	0.2857	56.6667	hun_news_2016_00358674
+82	Nem azt, hogy mi a rossz, hanem, mi a jó.	Y	azt	17	  144,253	0.2857	72.875	hun_news_2017_00817057
+83	Hogy mi lesz azt még nem tudjuk. de lehet jó is rossz is.	Y	azt	17	  144,253	0.2857	102.4167	hun_news_2011_00947734
+84	De ez még nem azt jelenti,hogy meg is teszi.	Y	azt	17	  144,253	0.2857	113.5	hun_news_2011_00167647
+85	Ez azt jelenti, hogy sok minden történt az elmúlt négy évben.	Y	azt	17	  144,253	0.2857	122.2727	hun_news_2011_00212591
+86	Mondjuk azt, hogy egyik is 0-át ért el, meg a másik is?	Y	el	18	  139,629	0.2766	183.0909	hun_news_2011_00052060
+87	De ahogy jön ez a pénz, úgy el is megy.	Y	el	18	  139,629	0.2766	206	hun_news_2017_00446287
+88	Ha meghalt volna valaki akkor is ugyan így jár el.	Y	el	18	  139,629	0.2766	217.5	hun_news_2011_00301389
+89	Az épület alig több, mint egy év alatt készült el!	Y	el	18	  139,629	0.2766	220.7	hun_news_2011_00662301
+90	Azt azonban nem lehet mondani, hogy semmit sem ért el.	Y	el	18	  139,629	0.2766	226	hun_news_2011_00013268
+91	Így volt ez 48-ban, és így van ez ma is.	Y	van	19	  134,364	0.2661	37	hun_news_2017_00653163
+92	És ez így lenne most is, pedig mi van ma?	Y	van	19	  134,364	0.2661	40.9	hun_news_2016_00528407
+93	Talán még egy harmadik is, de ki hogy van ezzel.	Y	van	19	  134,364	0.2661	62.2	hun_news_2011_00969205
+94	Az akkor volt, most meg most van, később meg ki tudja mi lesz..	Y	van	19	  134,364	0.2661	71.9091	hun_news_2016_00312561
+95	Nem arról van szó, hogy ez nem jó, hanem hogy én nem vagyok ilyen.	Y	van	19	  134,364	0.2661	78.9091	hun_news_2011_00984877
+96	Egy magyar számára ez nem kérdés: ha magyar vagy, akkor európai vagy.	Y	magyar	20	  128,674	0.2549	72.1	hun_news_2017_00479574
+97	Ez még inkább igaz lehet azzal, hogy a Magyar Nemzeti.	Y	magyar	20	  128,674	0.2549	81.1	hun_news_2016_00556621
+98	Hogy ki a jó magyar, ki a rossz magyar, egyáltalán ki a magyar, és ki nem az.”	Y	magyar	20	  128,674	0.2549	107.1	hun_news_2016_00632041
+99	Hozzátette, a magyar csapat is van olyan jó, mint az osztrák.	Y	magyar	20	  128,674	0.2549	138	hun_news_2017_00639018
+100	S az a magyarországi magyar, akinek fontos mindez, csak jó magyar ember lehet.	Y	magyar	20	  128,674	0.2549	195.3333	hun_news_2017_00892920
+101	Talán még egy harmadik is, de ki hogy van ezzel.	Y	ki	21	  127,017	0.2516	62.2	hun_news_2011_00969205
+102	Az akkor volt, most meg most van, később meg ki tudja mi lesz..	Y	ki	21	  127,017	0.2516	71.9091	hun_news_2016_00312561
+103	Nem tudom, ki mondta ezt, de hogy én nem, az biztos!	Y	ki	21	  127,017	0.2516	95.4	hun_news_2017_00830334
+104	Hogy ki a jó magyar, ki a rossz magyar, egyáltalán ki a magyar, és ki nem az.”	Y	ki	21	  127,017	0.2516	107.1	hun_news_2016_00632041
+105	Nem tudja, ki áll a jó és ki a rossz oldalon.	Y	ki	21	  127,017	0.2516	161	hun_news_2011_00397053
+106	Most nem úgy vagyok, hogy mint '96-ban, hogy lesz még ilyen, mert lehet, hogy már nem lesz..	Y	mint	22	  122,783	0.2432	55.3077	hun_news_2016_00799839
+107	Az európai csak azt tudja, hogy egyik ember olyan, mint a másik!	Y	mint	22	  122,783	0.2432	56.6667	hun_news_2016_00358674
+108	Mint ahogy az sem, hogy ez így volt már a '30-as években is.	Y	mint	22	  122,783	0.2432	79.2308	hun_news_2016_00784461
+109	A kérdés csak az, hogy miért van így több mint 50 éve..	Y	mint	22	  122,783	0.2432	79.3636	hun_news_2016_00113016
+110	Magyarország teljesen más 2016-ban, mint akár 1990-ben, akár 1956-ban volt.	Y	mint	22	  122,783	0.2432	110	hun_news_2016_00736277
+111	Nem elég, hogy az ember nagyon jó, más is kell hozzá.	Y	kell	23	  115,611	0.229	63	hun_news_2016_00820829
+112	Itt arról van szó, hogy nem csak az kell ami jár és amit kapott, hanem minden.	Y	kell	23	  115,611	0.229	82.9375	hun_news_2011_00696096
+113	Nekik persze hogy nem kellett és nem kell, mert van.	Y	kell	23	  115,611	0.229	105.4444	hun_news_2011_00343609
+114	Nem tudni, hogy mi lesz a vége, de talán nem is kell.	Y	kell	23	  115,611	0.229	142	hun_news_2016_00831460
+115	De változás kell, mert ez így nem jó, ahogy most van.	Y	kell	23	  115,611	0.229	160.5455	hun_news_2017_00456290
+116	Mint ahogy az sem, hogy ez így volt már a '30-as években is.	Y	sem	24	  111,525	0.2209	79.2308	hun_news_2016_00784461
+117	Ha nem, az sem baj, úgy jó, ahogy van/lesz!	Y	sem	24	  111,525	0.2209	116.9	hun_news_2017_00608138
+118	Ilyen akkor sem volt, és még sokáig nem is lesz.	Y	sem	24	  111,525	0.2209	126.5	hun_news_2016_00658187
+119	De az hogy mi ez a forrás-senki sem tudja.	Y	sem	24	  111,525	0.2209	133	hun_news_2016_00452339
+120	Sőt az is igaz, hogy lehet, hogy még ez sem lesz elég nekik.	Y	sem	24	  111,525	0.2209	135.8333	hun_news_2016_00906400
+121	És ez így lenne most is, pedig mi van ma?	Y	pedig	25	  102,641	0.2033	40.9	hun_news_2016_00528407
+122	Azaz, Ő már most itt van, Az pedig a jövő héten lesz itt.	Y	pedig	25	  102,641	0.2033	135.1667	hun_news_2011_00049883
+123	De közben nehéz is, mert hiszen én férfi vagyok, ő pedig nő.	Y	pedig	25	  102,641	0.2033	143.1667	hun_news_2017_00451490
+124	Ez pedig most már Magyarország számára is igen jó hír.	Y	pedig	25	  102,641	0.2033	159.6	hun_news_2017_00555705
+125	Ahol pedig víz van, ott élet is lehet vagy volt.	Y	pedig	25	  102,641	0.2033	165.4	hun_news_2016_00095604
+126	Egy magyar számára ez nem kérdés: ha magyar vagy, akkor európai vagy.	Y	vagy	26	  101,414	0.2009	72.1	hun_news_2017_00479574
+127	Vagy nem is tudom mi lenne már itt a jó.	Y	vagy	26	  101,414	0.2009	82.7	hun_news_2011_00306665
+128	Viszont nincs benne semmi más – vagy ami van, bár ne lenne.	Y	vagy	26	  101,414	0.2009	121.6364	hun_news_2016_00994202
+129	Az hogy mi lett volna,vagy mi történt utána az már más kérdés.	Y	vagy	26	  101,414	0.2009	155.0909	hun_news_2016_00362286
+130	Ahol pedig víz van, ott élet is lehet vagy volt.	Y	vagy	26	  101,414	0.2009	165.4	hun_news_2016_00095604
+131	Nálunk ez egy év, két év, öt év is lehet.	Y	két	27	  100,630	0.1993	143	hun_news_2016_00809649
+132	Egy dollár ma 286 forint, míg két éve még 222 forint volt.	Y	két	27	  100,630	0.1993	157.2222	hun_news_2016_00474029
+133	Egy kovács nem kovács, két kovács fél kovács, három kovács egy kovács.	Y	két	27	  100,630	0.1993	184.8333	hun_news_2011_00548336
+134	És ha utána csak két évvel jön vissza ismét, akkor is.	Y	két	27	  100,630	0.1993	195.1818	hun_news_2016_00529101
+135	Nagyon más a két film, de ez valóban közös pont.	Y	két	27	  100,630	0.1993	204.6	hun_news_2017_00805375
+136	A kérdés csak az, hogy miért van így több mint 50 éve..	Y	több	28	   96,968	0.1921	79.3636	hun_news_2016_00113016
+137	Néha fontos lehet, néha azonban nem. Van, amikor a kevesebb több.	Y	több	28	   96,968	0.1921	184.5	hun_news_2017_00811884
+138	Sőt talán több, mint a spanyol és az olasz jelenleg.	Y	több	28	   96,968	0.1921	196.4	hun_news_2011_00963889
+139	Ennyi, mert ennyi kell, és nem több, mert több nem szükséges.	Y	több	28	   96,968	0.1921	216	hun_news_2017_00514137
+140	Az épület alig több, mint egy év alatt készült el!	Y	több	28	   96,968	0.1921	220.7	hun_news_2011_00662301
+141	Ha hozzá szeretne szólni, jelentkezzen be NEM JÓL VAN EZ ÍGY.	Y	be	29	   88,142	0.1746	163.6364	hun_news_2017_00602226
+142	VAN egyáltalán olyan férfi akinek ez a lány nem jön be?	Y	be	29	   88,142	0.1746	234	hun_news_2016_00980970
+143	A baj az volt, hogy nem jöttek be rá az emberek.	Y	be	29	   88,142	0.1746	292.5	hun_news_2016_00014923
+144	Én már gondoltam, hogy csak ő lehetett, és be is ismert a rendőrök előtt mindent.	Y	be	29	   88,142	0.1746	294.6667	hun_news_2011_00296257
+145	De nagy igazság,hogy mindenkinek más jön be,és ez így van jól.	Y	be	29	   88,142	0.1746	307.8462	hun_news_2011_00279460
+146	Lehet, hogy eddig így volt, de most már nem így lesz.	Y	így	30	   87,450	0.1732	32.4	hun_news_2016_00725511
+147	Így volt ez 48-ban, és így van ez ma is.	Y	így	30	   87,450	0.1732	37	hun_news_2017_00653163
+148	És ez így lenne most is, pedig mi van ma?	Y	így	30	   87,450	0.1732	40.9	hun_news_2016_00528407
+149	Mint ahogy az sem, hogy ez így volt már a '30-as években is.	Y	így	30	   87,450	0.1732	79.2308	hun_news_2016_00784461
+150	A kérdés csak az, hogy miért van így több mint 50 éve..	Y	így	30	   87,450	0.1732	79.3636	hun_news_2016_00113016
+151	A baleset viszont este kilenc után történt, és fél 12 elõtt nem sokkal még tartott.	Y	után	31	   87,165	0.1726	240.4286	hun_news_2017_00015945
+152	A második helyen vagyunk 250 méter után A második helyen vagyunk 250 méter után.	Y	után	31	   87,165	0.1726	281.8333	hun_news_2016_00172506
+153	Most ezek után mondja valaki, hogy Miskolc nem szép város.	Y	után	31	   87,165	0.1726	289.6	hun_news_2016_00798353
+154	A katasztrófa után már nem lehet úgy tenni, mintha mi sem történt volna.	Y	után	31	   87,165	0.1726	297.6154	hun_news_2017_00106030
+155	A megyei tanács elnöke elmondta, öt év után végre dolgozni fog az egyesület.	Y	után	31	   87,165	0.1726	308.4615	hun_news_2017_00173580
+156	Lehet, hogy eddig így volt, de most már nem így lesz.	Y	lehet	32	   83,648	0.1657	32.4	hun_news_2016_00725511
+157	Most nem úgy vagyok, hogy mint '96-ban, hogy lesz még ilyen, mert lehet, hogy már nem lesz..	Y	lehet	32	   83,648	0.1657	55.3077	hun_news_2016_00799839
+158	Ez még inkább igaz lehet azzal, hogy a Magyar Nemzeti.	Y	lehet	32	   83,648	0.1657	81.1	hun_news_2016_00556621
+159	Hogy mi lesz azt még nem tudjuk. de lehet jó is rossz is.	Y	lehet	32	   83,648	0.1657	102.4167	hun_news_2011_00947734
+160	És persze az is jó, hogy az egész család itt lehet.	Y	lehet	32	   83,648	0.1657	103.7	hun_news_2016_00531413
+161	Az egyik hét végén – majd ezt követően még hétfőn és kedden is..	Y	majd	33	   82,667	0.1637	160.3333	hun_news_2017_00329077
+162	Mi az, hogy én tudom, ezt nem így kell, majd én mondom meg, hogy kell?	Y	majd	33	   82,667	0.1637	215	hun_news_2017_00766087
+163	Az, hogy jól jött-e, majd néhány év múlva kiderül.	Y	majd	33	   82,667	0.1637	271.3	hun_news_2017_00358294
+164	Második helyen a Jobbik állt 20,5 százalékkal, majd a harmadik helyen az MSZP végzett 15 százalékkal.	Y	majd	33	   82,667	0.1637	274.0909	hun_news_2017_00744697
+165	Az azonban még kérdés, hogy ezt a magyar állam nyitja majd, vagy egy nagy magyar cég.	Y	majd	33	   82,667	0.1637	302.4	hun_news_2017_00323119
+166	Most nem úgy vagyok, hogy mint '96-ban, hogy lesz még ilyen, mert lehet, hogy már nem lesz..	Y	mert	34	   81,767	0.162	55.3077	hun_news_2016_00799839
+167	Akkor is, ha korábban nem volt (mert nem lehetett) az.	Y	mert	34	   81,767	0.162	66.8889	hun_news_2016_00126330
+168	Nekik persze hogy nem kellett és nem kell, mert van.	Y	mert	34	   81,767	0.162	105.4444	hun_news_2011_00343609
+169	De közben nehéz is, mert hiszen én férfi vagyok, ő pedig nő.	Y	mert	34	   81,767	0.162	143.1667	hun_news_2017_00451490
+170	Már csak azért sem, mert lehet, hogy sokan éppen ezt szeretnék.	Y	mert	34	   81,767	0.162	145.0909	hun_news_2011_00744359
+171	Ez azt jelenti, hogy van, aki csak 2,8 millió forintot kapott 6 millió helyett.	Y	aki	35	   76,880	0.1523	145.4545	hun_news_2017_00540112
+172	Az is várja, aki tudja, hogy van, és az is, aki tudja, hogy nincs.	Y	aki	35	   76,880	0.1523	148.1111	hun_news_2017_00368050
+173	Aki még mindig nem látja, hogy mi történt itt az elmúlt 30 évben, az nem is akarja.	Y	aki	35	   76,880	0.1523	190.6429	hun_news_2016_00121328
+174	Mindenki, aki ott volt, tudja, hogy ez a pontos idő.	Y	aki	35	   76,880	0.1523	201.3	hun_news_2011_00613328
+175	Úgy mondják, még most is van Magyarországon olyan ember, aki fél.	Y	aki	35	   76,880	0.1523	209.2727	hun_news_2017_00965060
+176	Azért történt így, mert az emberek nagy része azt se tudta, hogy van ez a film.	Y	nagy	36	   76,869	0.1523	154.125	hun_news_2016_00354815
+177	De olyan nagy a baj, hogy ez még mindig kevés.	Y	nagy	36	   76,869	0.1523	157.1	hun_news_2016_00459573
+178	De nem is itt van a baj, mert ez nem nagy ügy.	Y	nagy	36	   76,869	0.1523	161.2727	hun_news_2011_00238597
+179	Bár már az is nagy szó, hogy a pályán lévő egyetlen (!	Y	nagy	36	   76,869	0.1523	162.0909	hun_news_2011_00598652
+180	Az, hogy mi, magyarok még mindig egy nagy család vagyunk.	Y	nagy	36	   76,869	0.1523	163	hun_news_2011_00421427
+181	Még mondja valaki, hogy van valami új is a Nap alatt.	Y	új	37	   75,943	0.1504	153.0909	hun_news_2011_00749091
+182	Az egész ország most új kormány alatt, a fél ország még hó alatt.	Y	új	37	   75,943	0.1504	247.2727	hun_news_2017_00325460
+183	Illetve minél kevesebb,mert gondolom,nem ez lenne az új út.	Y	új	37	   75,943	0.1504	275.4545	hun_news_2016_00658025
+184	Ez teljesen új terv, eddig még nem is esett szó róla.	Y	új	37	   75,943	0.1504	300.9091	hun_news_2016_00561820
+185	Igaz, azt egy percig sem mondta, hogy ez az új rend jobb lesz, mint a régi volt.	Y	új	37	   75,943	0.1504	312.8824	hun_news_2016_00650553
+186	Most nem úgy vagyok, hogy mint '96-ban, hogy lesz még ilyen, mert lehet, hogy már nem lesz..	Y	úgy	38	   75,744	0.15	55.3077	hun_news_2016_00799839
+187	Most amikor a másik oldalon van ugyan ez, akkor az nem úgy van..	Y	úgy	38	   75,744	0.15	116.5	hun_news_2016_00797138
+188	Ha nem, az sem baj, úgy jó, ahogy van/lesz!	Y	úgy	38	   75,744	0.15	116.9	hun_news_2017_00608138
+189	Én meg úgy voltam vele, hogy hát ez még csak nem is én vagyok.	Y	úgy	38	   75,744	0.15	163.2308	hun_news_2016_00512348
+190	Így pedig minden nap arról kell már olvasni hogy a forint így meg úgy..	Y	úgy	38	   75,744	0.15	167.4615	hun_news_2017_00651975
+191	Ha ez tavaly történt, akkor azért a 11 év az nem néhány év.	Y	akkor	39	   74,424	0.1474	62.5455	hun_news_2017_00600366
+192	Akkor is, ha korábban nem volt (mert nem lehetett) az.	Y	akkor	39	   74,424	0.1474	66.8889	hun_news_2016_00126330
+193	Az akkor volt, most meg most van, később meg ki tudja mi lesz..	Y	akkor	39	   74,424	0.1474	71.9091	hun_news_2016_00312561
+194	Egy magyar számára ez nem kérdés: ha magyar vagy, akkor európai vagy.	Y	akkor	39	   74,424	0.1474	72.1	hun_news_2017_00479574
+195	Most amikor a másik oldalon van ugyan ez, akkor az nem úgy van..	Y	akkor	39	   74,424	0.1474	116.5	hun_news_2016_00797138
+196	Lehet, hogy eddig így volt, de most már nem így lesz.	Y	lesz	40	   73,290	0.1452	32.4	hun_news_2016_00725511
+197	Most nem úgy vagyok, hogy mint '96-ban, hogy lesz még ilyen, mert lehet, hogy már nem lesz..	Y	lesz	40	   73,290	0.1452	55.3077	hun_news_2016_00799839
+198	Az akkor volt, most meg most van, később meg ki tudja mi lesz..	Y	lesz	40	   73,290	0.1452	71.9091	hun_news_2016_00312561
+199	Hogy mi lesz azt még nem tudjuk. de lehet jó is rossz is.	Y	lesz	40	   73,290	0.1452	102.4167	hun_news_2011_00947734
+200	Ha nem, az sem baj, úgy jó, ahogy van/lesz!	Y	lesz	40	   73,290	0.1452	116.9	hun_news_2017_00608138
+201	Nem tudom, ki mondta ezt, de hogy én nem, az biztos!	Y	ezt	41	   69,310	0.1373	95.4	hun_news_2017_00830334
+202	Az első kérdés persze ezzel kapcsolatban, hogy miért nem tette meg ezt eddig.	Y	ezt	41	   69,310	0.1373	131.4615	hun_news_2016_00345136
+203	Már csak azért sem, mert lehet, hogy sokan éppen ezt szeretnék.	Y	ezt	41	   69,310	0.1373	145.0909	hun_news_2011_00744359
+204	Az egyik hét végén – majd ezt követően még hétfőn és kedden is..	Y	ezt	41	   69,310	0.1373	160.3333	hun_news_2017_00329077
+205	Azt es mondta, hogy mit, de ezt én így ki nem mondom.	Y	ezt	41	   69,310	0.1373	191.8333	hun_news_2017_00392160
+206	Itt arról van szó, hogy nem csak az kell ami jár és amit kapott, hanem minden.	Y	minden	42	   68,316	0.1353	82.9375	hun_news_2011_00696096
+207	Ez azt jelenti, hogy sok minden történt az elmúlt négy évben.	Y	minden	42	   68,316	0.1353	122.2727	hun_news_2011_00212591
+208	Saját magát nem jelenti fel az ember csak, ha minden kiderült.	Y	minden	42	   68,316	0.1353	131.8182	hun_news_2016_00891458
+209	Vannak, akik azt szeretnék, hogy minden olyan legyen, mint volt.	Y	minden	42	   68,316	0.1353	139.2	hun_news_2017_00981874
+210	Így pedig minden nap arról kell már olvasni hogy a forint így meg úgy..	Y	minden	42	   68,316	0.1353	167.4615	hun_news_2017_00651975
+211	Az európai csak azt tudja, hogy egyik ember olyan, mint a másik!	Y	olyan	43	   68,211	0.1351	56.6667	hun_news_2016_00358674
+212	Hozzátette, a magyar csapat is van olyan jó, mint az osztrák.	Y	olyan	43	   68,211	0.1351	138	hun_news_2017_00639018
+213	Vannak, akik azt szeretnék, hogy minden olyan legyen, mint volt.	Y	olyan	43	   68,211	0.1351	139.2	hun_news_2017_00981874
+214	De olyan nagy a baj, hogy ez még mindig kevés.	Y	olyan	43	   68,211	0.1351	157.1	hun_news_2016_00459573
+215	Tehát ha Európában még nem is olyan nagy ez a probléma, akkor hamarosan az lesz.	Y	olyan	43	   68,211	0.1351	180.1333	hun_news_2016_00938015
+216	Ez az év, főleg az olimpia miatt, más volt, mint a többi.	Y	miatt	44	   63,658	0.1261	293	hun_news_2016_00541763
+217	Elég szomorú, hogy meghalt, de nem az új család miatt történt.	Y	miatt	44	   63,658	0.1261	320.9091	hun_news_2011_00695024
+218	Az egyik miatt már volt bírósági per, lehet, hogy a másik miatt is lesz.	Y	miatt	44	   63,658	0.1261	342.5385	hun_news_2017_00329744
+219	A régi rendszer szerint erre jött volna a havi 24% miatt kb. havi 75 ezer állami.	Y	miatt	44	   63,658	0.1261	347.9167	hun_news_2011_00926710
+220	És még valami: ez az egész nemzetiségi ügy nem csupán a magyarok miatt érdekes.	Y	miatt	44	   63,658	0.1261	410.7857	hun_news_2011_00117788
+221	Saját magát nem jelenti fel az ember csak, ha minden kiderült.	Y	fel	45	   63,443	0.1257	131.8182	hun_news_2016_00891458
+222	Aki nem ért ezzel egyet, annak fel is út, le is út.	Y	fel	45	   63,443	0.1257	210.9	hun_news_2017_00118427
+223	A 86. percben Nagy Péter tette fel az i-re a pontot.	Y	fel	45	   63,443	0.1257	253.4	hun_news_2011_00023347
+224	Ha ez igaz és tudott erről, akkor miért nem lépett fel velük szemben?	Y	fel	45	   63,443	0.1257	276.5385	hun_news_2017_00600118
+225	A férfit csak azért nem jelentette fel, mert nem sokkal késõbb meghalt.	Y	fel	45	   63,443	0.1257	279.1818	hun_news_2017_00056182
+226	Azt azonban senki nem mondta, hogy miért jó ez nekünk.	Y	azonban	46	   62,076	0.123	143.3	hun_news_2011_00037891
+227	Néha fontos lehet, néha azonban nem. Van, amikor a kevesebb több.	Y	azonban	46	   62,076	0.123	184.5	hun_news_2017_00811884
+228	Van-e azonban annak valami oka, hogy erre végül is miért pont most került sor?	Y	azonban	46	   62,076	0.123	211.8	hun_news_2011_00887344
+229	Erről azonban döntés még nem született, ezért azt sem lehet tudni, hogy 2016.	Y	azonban	46	   62,076	0.123	213.75	hun_news_2017_00521337
+230	Azt azonban nem lehet mondani, hogy semmit sem ért el.	Y	azonban	46	   62,076	0.123	226	hun_news_2011_00013268
+231	Lehet, hogy eddig így volt, de most már nem így lesz.	Y	most	47	   61,633	0.1221	32.4	hun_news_2016_00725511
+232	És ez így lenne most is, pedig mi van ma?	Y	most	47	   61,633	0.1221	40.9	hun_news_2016_00528407
+233	Most nem úgy vagyok, hogy mint '96-ban, hogy lesz még ilyen, mert lehet, hogy már nem lesz..	Y	most	47	   61,633	0.1221	55.3077	hun_news_2016_00799839
+234	Az akkor volt, most meg most van, később meg ki tudja mi lesz..	Y	most	47	   61,633	0.1221	71.9091	hun_news_2016_00312561
+235	Most amikor a másik oldalon van ugyan ez, akkor az nem úgy van..	Y	most	47	   61,633	0.1221	116.5	hun_news_2016_00797138
+236	Én, mikor én s amikor nem, akkor a másik, a többi!	Y	s	48	   61,545	0.1219	128.7778	hun_news_2011_00928985
+237	Amúgy nem is nagyon van szükség sem az rmdsz sem más s..	Y	s	48	   61,545	0.1219	176.4545	hun_news_2017_00191959
+238	Ez a mostani egy teljesen más helyzet, s most már nem lesz ilyen probléma.	Y	s	48	   61,545	0.1219	185.2143	hun_news_2017_00536048
+239	S ha jól tudom Románia is az EU-ban van..	Y	s	48	   61,545	0.1219	191.5	hun_news_2017_00896511
+240	S az a magyarországi magyar, akinek fontos mindez, csak jó magyar ember lehet.	Y	s	48	   61,545	0.1219	195.3333	hun_news_2017_00892920
+241	Nem lehet tudni, hogy ezek között milyen további különbség van még.	Y	között	49	   57,962	0.1148	225.6364	hun_news_2017_00825347
+242	Többek között ezért is tart ott az angol válogatott ahol.	Y	között	49	   57,962	0.1148	231.3	hun_news_2011_00112707
+243	Hogy hol és milyen körülmények között, azt egyelőre nem tudjuk.	Y	között	49	   57,962	0.1148	267.2	hun_news_2016_00631845
+244	A két csapat között így továbbra is 20 pont a különbség.	Y	között	49	   57,962	0.1148	270.6667	hun_news_2016_00114941
+245	Idén január és október között 76 531 gyermek született, ami fél százalékkal több, mint tavaly.	Y	között	49	   57,962	0.1148	270.6923	hun_news_2016_00648516
+246	Nem elég, hogy az ember nagyon jó, más is kell hozzá.	Y	nagyon	50	   55,622	0.1102	63	hun_news_2016_00820829
+247	Nem biztos, hogy ez az út, de van valami, ami nagyon fontos.	Y	nagyon	50	   55,622	0.1102	131.5833	hun_news_2017_00817488
+248	Nagyon jó lett volna ha a nyáron is lett volna!	Y	nagyon	50	   55,622	0.1102	155.625	hun_news_2011_00772426
+249	Mert most már tudom, hogy nem az, sőt, nagyon is lehetséges.	Y	nagyon	50	   55,622	0.1102	176.0909	hun_news_2011_00705102
+250	Amúgy nem is nagyon van szükség sem az rmdsz sem más s..	Y	nagyon	50	   55,622	0.1102	176.4545	hun_news_2017_00191959
+251	Az európai csak azt tudja, hogy egyik ember olyan, mint a másik!	Y	egyik	51	   55,445	0.1098	56.6667	hun_news_2016_00358674
+252	Ezek közül most egyik sincs meg a Fidesz elnöke szerint.	Y	egyik	51	   55,445	0.1098	159.1	hun_news_2011_00384328
+253	Az egyik hét végén – majd ezt követően még hétfőn és kedden is..	Y	egyik	51	   55,445	0.1098	160.3333	hun_news_2017_00329077
+254	Az amerikai elnök arról beszélt, hogy egyik ország sem lehet sikeres a másik nélkül.	Y	egyik	51	   55,445	0.1098	161.7143	hun_news_2011_00294785
+255	Mondjuk azt, hogy egyik is 0-át ért el, meg a másik is?	Y	egyik	51	   55,445	0.1098	183.0909	hun_news_2011_00052060
+256	Nem elég, hogy az ember nagyon jó, más is kell hozzá.	Y	jó	52	   54,133	0.1072	63	hun_news_2016_00820829
+257	Nem azt, hogy mi a rossz, hanem, mi a jó.	Y	jó	52	   54,133	0.1072	72.875	hun_news_2017_00817057
+258	Ha jó, az jó és ha rossz, az is jó!	Y	jó	52	   54,133	0.1072	73.8333	hun_news_2011_00929294
+259	Nem arról van szó, hogy ez nem jó, hanem hogy én nem vagyok ilyen.	Y	jó	52	   54,133	0.1072	78.9091	hun_news_2011_00984877
+260	Vagy nem is tudom mi lenne már itt a jó.	Y	jó	52	   54,133	0.1072	82.7	hun_news_2011_00306665
+261	Nem arról van szó, hogy ez nem jó, hanem hogy én nem vagyok ilyen.	Y	én	53	   52,813	0.1046	78.9091	hun_news_2011_00984877
+262	Nem tudom, ki mondta ezt, de hogy én nem, az biztos!	Y	én	53	   52,813	0.1046	95.4	hun_news_2017_00830334
+263	Én, mikor én s amikor nem, akkor a másik, a többi!	Y	én	53	   52,813	0.1046	128.7778	hun_news_2011_00928985
+264	De közben nehéz is, mert hiszen én férfi vagyok, ő pedig nő.	Y	én	53	   52,813	0.1046	143.1667	hun_news_2017_00451490
+265	Én meg úgy voltam vele, hogy hát ez még csak nem is én vagyok.	Y	én	53	   52,813	0.1046	163.2308	hun_news_2016_00512348
+266	De arra nem lehet számítani, hogy tovább is így lesz.	Y	arra	54	   52,612	0.1042	203	hun_news_2011_00479796
+267	Akkor és ott voltak igazi férfiak, amikor és ahol arra szükség volt.	Y	arra	54	   52,612	0.1042	215.0909	hun_news_2011_00039327
+268	Nem elég azt mondani, hogy ez így nem jó, meg kell mondani azt is, merre van az arra.	Y	arra	54	   52,612	0.1042	302.1333	hun_news_2011_00956944
+269	Hangsúlyozta: nyolc éve nem volt példa arra, hogy 3 százalék alatt lett volna a hiány Magyarországon.	Y	arra	54	   52,612	0.1042	333.1333	hun_news_2017_00609661
+270	Hogy ez mégis mikor lesz, arra nem utalt a politikus.	Y	arra	54	   52,612	0.1042	345.9	hun_news_2017_00628262
+271	Nem tudom, most mi van vele, azt sem tudom, él-e még.	Y	e	55	   52,480	0.1039	146.5455	hun_news_2016_00831927
+272	Hogy korábban is képes lett volna-e rá, azt nem tudom, mert akkor nem voltam a csapat mellett.	Y	e	55	   52,480	0.1039	158.1176	hun_news_2016_00632139
+273	Hogy ez jelent-e valamit, és ha igen, akkor mit, ma még nem tudjuk.	Y	e	55	   52,480	0.1039	172.0714	hun_news_2011_00957555
+274	Van-e azonban annak valami oka, hogy erre végül is miért pont most került sor?	Y	e	55	   52,480	0.1039	211.8	hun_news_2011_00887344
+275	Ő az, aki más, mint a többi, nem is fontos, jobb-e vagy rosszabb.	Y	e	55	   52,480	0.1039	223.0714	hun_news_2016_00844231
+276	Az első kérdés persze ezzel kapcsolatban, hogy miért nem tette meg ezt eddig.	Y	első	56	   52,399	0.1038	131.4615	hun_news_2016_00345136
+277	A baj csak az, hogy ez nem az első és nem a második, hanem a harmadik 10-es csoport.	Y	első	56	   52,399	0.1038	138.4286	hun_news_2011_00522039
+278	Amit az első és a második MSZP-kormány is folytatott.	Y	első	56	   52,399	0.1038	216.4	hun_news_2011_00771054
+279	Az első, harmadik és ötödik lett az első, második és harmadik.	Y	első	56	   52,399	0.1038	219.1429	hun_news_2016_00344666
+280	Az első díj 500.000, a második 400.000, a harmadik 300.000 a 4-10. pedig 50.000 forint.	Y	első	56	   52,399	0.1038	254.375	hun_news_2011_00223062
+281	Itt arról van szó, hogy nem csak az kell ami jár és amit kapott, hanem minden.	Y	ami	57	   51,819	0.1026	82.9375	hun_news_2011_00696096
+282	Viszont nincs benne semmi más – vagy ami van, bár ne lenne.	Y	ami	57	   51,819	0.1026	121.6364	hun_news_2016_00994202
+283	Nem biztos, hogy ez az út, de van valami, ami nagyon fontos.	Y	ami	57	   51,819	0.1026	131.5833	hun_news_2017_00817488
+284	Ami jár az jár, ami nem jár, az nem jár..	Y	ami	57	   51,819	0.1026	133.5	hun_news_2017_00180755
+285	Valami, ami jó, és nem csak Magyarországon de európai szinten is.	Y	ami	57	   51,819	0.1026	141.8182	hun_news_2011_00655214
+286	Most amikor a másik oldalon van ugyan ez, akkor az nem úgy van..	Y	amikor	58	   50,937	0.1009	116.5	hun_news_2016_00797138
+287	Én, mikor én s amikor nem, akkor a másik, a többi!	Y	amikor	58	   50,937	0.1009	128.7778	hun_news_2011_00928985
+288	Még akkor is, amikor már a tv-ben sem szerepel.	Y	amikor	58	   50,937	0.1009	162.7	hun_news_2016_00750123
+289	Ez az a pont, amikor azt kell mondani: nem lehet tovább!	Y	amikor	58	   50,937	0.1009	169.5455	hun_news_2017_00537947
+290	Néha fontos lehet, néha azonban nem. Van, amikor a kevesebb több.	Y	amikor	58	   50,937	0.1009	184.5	hun_news_2017_00811884
+291	Nem tudom, ki mondta ezt, de hogy én nem, az biztos!	Y	mondta	59	   48,500	0.0961	95.4	hun_news_2017_00830334
+292	Azt azonban senki nem mondta, hogy miért jó ez nekünk.	Y	mondta	59	   48,500	0.0961	143.3	hun_news_2011_00037891
+293	Hanem most már azt mondta a falu, hogy csak sok, ami sok!	Y	mondta	59	   48,500	0.0961	161.8182	hun_news_2017_00608659
+294	Ön most azt mondta, hogy tavaly tíz százalék sem volt.	Y	mondta	59	   48,500	0.0961	168.7	hun_news_2016_00851175
+295	Mint mondta, minden úgy történt, ahogy azt a lap írta.	Y	mondta	59	   48,500	0.0961	174.8	hun_news_2011_00644889
+296	Magyarország teljesen más 2016-ban, mint akár 1990-ben, akár 1956-ban volt.	Y	ben	60	   48,210	0.0955	110	hun_news_2016_00736277
+297	Még akkor is, amikor már a tv-ben sem szerepel.	Y	ben	60	   48,210	0.0955	162.7	hun_news_2016_00750123
+298	Amíg itt vagy, a család tagja vagy, mondta… Ez 2000-ben volt.	Y	ben	60	   48,210	0.0955	181.8	hun_news_2017_00180308
+299	1996-ban még az összes eset 81,9 százaléka volt ilyen, 2010-ben már csak 48,7 százaléka.	Y	ben	60	   48,210	0.0955	183.7273	hun_news_2011_00833029
+300	Pedig még így is sokkal jobban járnak, mint 2007-ben vagy akár 2000-ben.	Y	ben	60	   48,210	0.0955	225.1818	hun_news_2016_00866606
+301	Lehet, hogy ő lett volna a legjobb polgármester, lehet, hogy nem.	Y	volna	61	   47,832	0.0947	123.3333	hun_news_2011_00364196
+302	Az hogy mi lett volna,vagy mi történt utána az már más kérdés.	Y	volna	61	   47,832	0.0947	155.0909	hun_news_2016_00362286
+303	Nagyon jó lett volna ha a nyáron is lett volna!	Y	volna	61	   47,832	0.0947	155.625	hun_news_2011_00772426
+304	Hogy korábban is képes lett volna-e rá, azt nem tudom, mert akkor nem voltam a csapat mellett.	Y	volna	61	   47,832	0.0947	158.1176	hun_news_2016_00632139
+305	Nem tudom, mi lett volna akkor, így azt sem tudom, hogy mi lett volna, ha nem vagyok folyamatosan sérült.	Y	volna	61	   47,832	0.0947	194.2857	hun_news_2016_00831887
+306	Ki hogyan él, ez a fontos, nem az, hány éves.	Y	éves	62	   47,445	0.094	257	hun_news_2016_00698358
+307	Nálunk ez tavaly év végén 1,2 milliárd dollár volt, az éves GDP 6,6 százaléka.	Y	éves	62	   47,445	0.094	306	hun_news_2011_00245279
+308	És persze, hogy a végén másfél éves munka után nem is tetszik igazán.	Y	éves	62	   47,445	0.094	310.6154	hun_news_2011_00414275
+309	Csak az állami támogatás éves szinten ebben az esetben 12 000 forint.	Y	éves	62	   47,445	0.094	324.5556	hun_news_2016_00442352
+310	Még két 10 éves büntetés volt, egy nyolc éves, egy hét és egy hat éves.	Y	éves	62	   47,445	0.094	338.2	hun_news_2017_00754236
+311	Azt is hangsúlyozta, hogy az a cég, amely jelen van Magyarországon, jelen van az 500 milliós EU-s piacon is.	Y	amely	63	   45,661	0.0904	306.4667	hun_news_2016_00398501
+312	1–0 1996 óta nem volt olyan csapat a spanyol bajnokságban, amely egy meccsen nyolc gólt kapott volna.	Y	amely	63	   45,661	0.0904	379.9333	hun_news_2011_00488362
+313	Ez volt az egyik akció, amely nagyon nagy figyelmet kapott az Egyesült Államokban és világszerte is.	Y	amely	63	   45,661	0.0904	417.2	hun_news_2016_00567681
+314	682 millió forintot tettek ki, amely 17,1%–kal magasabb, mint egy évvel korábban.	Y	amely	63	   45,661	0.0904	422.0909	hun_news_2011_00049067
+315	A nagy meglepetés, hogy nem volt egyetlen másik 30 éves periódus sem, amely olyan meleg lett volna, mint az elmúlt három évtized.	Y	amely	63	   45,661	0.0904	438.4286	hun_news_2016_00200209
+316	A baj csak az, hogy ez nem az első és nem a második, hanem a harmadik 10-es csoport.	Y	es	64	   44,221	0.0876	138.4286	hun_news_2011_00522039
+317	A Fidesz-kormány nem attól lesz jó, hogy az MSZP rossz volt A 2007-es(?	Y	es	64	   44,221	0.0876	142.5385	hun_news_2011_00369470
+318	Azt es mondta, hogy mit, de ezt én így ki nem mondom.	Y	es	64	   44,221	0.0876	191.8333	hun_news_2017_00392160
+319	Ezzel 2,6 százalékos, illetve 2,7 százalékos lehet a 2011-es, illetve 2012-es növekedés.	Y	es	64	   44,221	0.0876	237.5714	hun_news_2011_00443786
+320	Azt viszont ki kell mondani, hogy nem kapott a 90-es évek olyan nagy hangsúlyt, mint a többi.	Y	es	64	   44,221	0.0876	306.4375	hun_news_2017_00396425
+321	És ez így lenne most is, pedig mi van ma?	Y	mi	65	   44,135	0.0874	40.9	hun_news_2016_00528407
+322	Az akkor volt, most meg most van, később meg ki tudja mi lesz..	Y	mi	65	   44,135	0.0874	71.9091	hun_news_2016_00312561
+323	Nem azt, hogy mi a rossz, hanem, mi a jó.	Y	mi	65	   44,135	0.0874	72.875	hun_news_2017_00817057
+324	Vagy nem is tudom mi lenne már itt a jó.	Y	mi	65	   44,135	0.0874	82.7	hun_news_2011_00306665
+325	Hogy mi lesz azt még nem tudjuk. de lehet jó is rossz is.	Y	mi	65	   44,135	0.0874	102.4167	hun_news_2011_00947734
+326	Egy kovács nem kovács, két kovács fél kovács, három kovács egy kovács.	Y	három	66	   44,109	0.0874	184.8333	hun_news_2011_00548336
+327	Két-három hónap alatt kiderül, hogy ki az, aki mindig ott van reggel hat órakor.	Y	három	66	   44,109	0.0874	248.2667	hun_news_2017_00688300
+328	Három helyett öt százalék a cél A miniszterelnök szerint jó a 3 százalékos gazdasági növekedés, de ezzel nem lehet..	Y	három	66	   44,109	0.0874	250.4375	hun_news_2016_00616395
+329	Lehet, hogy három év múlva nagyon erős verseny lesz, de egyelőre még nincs - fogalmazott.	Y	három	66	   44,109	0.0874	264.5	hun_news_2016_00725617
+330	Olyan volt, mintha nem telt volna el két-három év.	Y	három	66	   44,109	0.0874	272.2	hun_news_2016_00850045
+331	Ha ez tavaly történt, akkor azért a 11 év az nem néhány év.	Y	év	67	   42,802	0.0848	62.5455	hun_news_2017_00600366
+332	Nálunk ez egy év, két év, öt év is lehet.	Y	év	67	   42,802	0.0848	143	hun_news_2016_00809649
+333	Vagy: ha ez így folytatódik, mi lesz öt év múlva?	Y	év	67	   42,802	0.0848	188.9	hun_news_2011_00968013
+334	Szerintem is, sok év óta ez volt a legjobb döntés.	Y	év	67	   42,802	0.0848	189.9	hun_news_2011_00323874
+335	Ha ez tíz év alatt sikerül, az sem olyan nagy idő.	Y	év	67	   42,802	0.0848	190.7273	hun_news_2017_00600415
+336	Vannak, akik azt szeretnék, hogy minden olyan legyen, mint volt.	Y	akik	68	   41,468	0.0821	139.2	hun_news_2017_00981874
+337	Még azok is, akik azt mondják, hogy nem így van, még azok is ezt teszik.	Y	akik	68	   41,468	0.0821	247.25	hun_news_2017_00748573
+338	Amíg élnek azok, akik részt vettek benne, addig ezt meg kell tenni.	Y	akik	68	   41,468	0.0821	365.5833	hun_news_2011_00256442
+339	És már az is jó, hogy azok veszik át, akik valóban kapták.	Y	akik	68	   41,468	0.0821	402.8333	hun_news_2017_00526658
+340	Lesz három olyan páros, akik az életben is együtt vannak.	Y	akik	68	   41,468	0.0821	418.5	hun_news_2016_00728119
+341	Viszont nincs benne semmi más – vagy ami van, bár ne lenne.	Y	nincs	69	   40,806	0.0808	121.6364	hun_news_2016_00994202
+342	Ha van az is baj, ha nincs az is baj.	Y	nincs	69	   40,806	0.0808	145.8333	hun_news_2017_00618841
+343	Az is várja, aki tudja, hogy van, és az is, aki tudja, hogy nincs.	Y	nincs	69	   40,806	0.0808	148.1111	hun_news_2017_00368050
+344	A többi országban is azért van így, ahol nincs olyan sok fővárosi csapat.	Y	nincs	69	   40,806	0.0808	208.6154	hun_news_2011_00100591
+345	Utóbbi sajnos a legtöbb európai országban nincs meg - tette hozzá.	Y	nincs	69	   40,806	0.0808	225.6	hun_news_2011_00737568
+346	Aki nem ért ezzel egyet, annak fel is út, le is út.	Y	le	70	   40,760	0.0807	210.9	hun_news_2017_00118427
+347	Vagy lehet nem is megy le, mert nem ő találta ki.	Y	le	70	   40,760	0.0807	248.7	hun_news_2017_00976151
+348	Lehet,hogy az aki írt nem rég,ő is hasonló helyzetben van mint én csak ő nem írta ezt le.	Y	le	70	   40,760	0.0807	289.2778	hun_news_2017_00722255
+349	Nem áll le a magyar U17-es labdarúgó-válogatott - szombat..	Y	le	70	   40,760	0.0807	306.7	hun_news_2017_00816214
+350	Mondom, nekem úgy megy le egy hét, hogy minden este van sport.	Y	le	70	   40,760	0.0807	336.4167	hun_news_2017_00794701
+351	Nem azt, hogy mi a rossz, hanem, mi a jó.	Y	hanem	71	   40,553	0.0803	72.875	hun_news_2017_00817057
+352	Nem arról van szó, hogy ez nem jó, hanem hogy én nem vagyok ilyen.	Y	hanem	71	   40,553	0.0803	78.9091	hun_news_2011_00984877
+353	Itt arról van szó, hogy nem csak az kell ami jár és amit kapott, hanem minden.	Y	hanem	71	   40,553	0.0803	82.9375	hun_news_2011_00696096
+354	De nem itt, hanem néhány évvel korábban indult az egész.	Y	hanem	71	   40,553	0.0803	127.7	hun_news_2011_00308137
+355	Ám nem ez a baj, hanem az, hogy ebből az egy is sok.	Y	hanem	71	   40,553	0.0803	137.9167	hun_news_2011_00238864
+356	Vagy nem is tudom mi lenne már itt a jó.	Y	itt	72	   40,466	0.0802	82.7	hun_news_2011_00306665
+357	Itt arról van szó, hogy nem csak az kell ami jár és amit kapott, hanem minden.	Y	itt	72	   40,466	0.0802	82.9375	hun_news_2011_00696096
+358	És persze az is jó, hogy az egész család itt lehet.	Y	itt	72	   40,466	0.0802	103.7	hun_news_2016_00531413
+359	De itt az a helyzet,hogy mind mindig a törvény nem teljes!	Y	itt	72	   40,466	0.0802	124.2727	hun_news_2017_00451134
+360	De nem itt, hanem néhány évvel korábban indult az egész.	Y	itt	72	   40,466	0.0802	127.7	hun_news_2011_00308137
+361	Hogy korábban is képes lett volna-e rá, azt nem tudom, mert akkor nem voltam a csapat mellett.	Y	mellett	73	   40,371	0.08	158.1176	hun_news_2016_00632139
+362	Nem biztos, hogy az anyja mellett a jobb minden esetben!	Y	mellett	73	   40,371	0.08	332.7	hun_news_2016_00819049
+363	Ebből pedig Orbán Viktor szerint sok egyéb mellett két fontos dolog következik.	Y	mellett	73	   40,371	0.08	377.6667	hun_news_2011_00421887
+364	A lap beszámolója szerint az eb már hat éve van az Orbán család mellett.	Y	mellett	73	   40,371	0.08	397.3846	hun_news_2016_00147185
+365	Ez lenne egyébként - március 15-e, augusztus 20-a és október 23-a mellett - a negyedik nemzeti ünnep.	Y	mellett	73	   40,371	0.08	400.8462	hun_news_2016_00556003
+366	Még mondja valaki, hogy van valami új is a Nap alatt.	Y	alatt	74	   40,179	0.0796	153.0909	hun_news_2011_00749091
+367	Ha ez tíz év alatt sikerül, az sem olyan nagy idő.	Y	alatt	74	   40,179	0.0796	190.7273	hun_news_2017_00600415
+368	Az épület alig több, mint egy év alatt készült el!	Y	alatt	74	   40,179	0.0796	220.7	hun_news_2011_00662301
+369	Az egész ország most új kormány alatt, a fél ország még hó alatt.	Y	alatt	74	   40,179	0.0796	247.2727	hun_news_2017_00325460
+370	Két-három hónap alatt kiderül, hogy ki az, aki mindig ott van reggel hat órakor.	Y	alatt	74	   40,179	0.0796	248.2667	hun_news_2017_00688300
+371	Most nem úgy vagyok, hogy mint '96-ban, hogy lesz még ilyen, mert lehet, hogy már nem lesz..	Y	ilyen	75	   40,129	0.0795	55.3077	hun_news_2016_00799839
+372	Nem arról van szó, hogy ez nem jó, hanem hogy én nem vagyok ilyen.	Y	ilyen	75	   40,129	0.0795	78.9091	hun_news_2011_00984877
+373	Ilyen akkor sem volt, és még sokáig nem is lesz.	Y	ilyen	75	   40,129	0.0795	126.5	hun_news_2016_00658187
+374	Persze hozzátette, ő biztos benne, hogy még nem történt ilyen.	Y	ilyen	75	   40,129	0.0795	160.2	hun_news_2016_00870775
+375	A 2008-as válság óta nem volt ilyen jó a helyzet.	Y	ilyen	75	   40,129	0.0795	180	hun_news_2016_00008497
+376	Ez azt jelenti, hogy sok minden történt az elmúlt négy évben.	Y	sok	76	   39,974	0.0792	122.2727	hun_news_2011_00212591
+377	Ám nem ez a baj, hanem az, hogy ebből az egy is sok.	Y	sok	76	   39,974	0.0792	137.9167	hun_news_2011_00238864
+378	Sok oka van annak, hogy így történt az, ami történt.	Y	sok	76	   39,974	0.0792	142.6667	hun_news_2016_00904321
+379	Hanem most már azt mondta a falu, hogy csak sok, ami sok!	Y	sok	76	   39,974	0.0792	161.8182	hun_news_2017_00608659
+380	Szerintem is, sok év óta ez volt a legjobb döntés.	Y	sok	76	   39,974	0.0792	189.9	hun_news_2011_00323874
+381	Az európai csak azt tudja, hogy egyik ember olyan, mint a másik!	Y	európai	77	   39,598	0.0784	56.6667	hun_news_2016_00358674
+382	Egy magyar számára ez nem kérdés: ha magyar vagy, akkor európai vagy.	Y	európai	77	   39,598	0.0784	72.1	hun_news_2017_00479574
+383	Valami, ami jó, és nem csak Magyarországon de európai szinten is.	Y	európai	77	   39,598	0.0784	141.8182	hun_news_2011_00655214
+384	Vagy szerinte csak az a nem európai, ami itthon történt?	Y	európai	77	   39,598	0.0784	187.1	hun_news_2016_00976448
+385	Utóbbi sajnos a legtöbb európai országban nincs meg - tette hozzá.	Y	európai	77	   39,598	0.0784	225.6	hun_news_2011_00737568
+386	Erről azonban döntés még nem született, ezért azt sem lehet tudni, hogy 2016.	Y	ezért	78	   39,035	0.0773	213.75	hun_news_2017_00521337
+387	Többek között ezért is tart ott az angol válogatott ahol.	Y	ezért	78	   39,035	0.0773	231.3	hun_news_2011_00112707
+388	Nem hiszem el, hogy 2016-ban még mindig ezért kell szólni.	Y	ezért	78	   39,035	0.0773	234.5	hun_news_2017_00822071
+389	Ezért nagy gond az, hogy idén nem indult a Debrecen.	Y	ezért	78	   39,035	0.0773	293.9	hun_news_2011_00882887
+390	Ezért járnak ide vissza az emberek, többek között mi is.	Y	ezért	78	   39,035	0.0773	295.6	hun_news_2011_00898192
+391	Lehet, hogy ő lett volna a legjobb polgármester, lehet, hogy nem.	Y	lett	79	   38,709	0.0767	123.3333	hun_news_2011_00364196
+392	Az hogy mi lett volna,vagy mi történt utána az már más kérdés.	Y	lett	79	   38,709	0.0767	155.0909	hun_news_2016_00362286
+393	Nagyon jó lett volna ha a nyáron is lett volna!	Y	lett	79	   38,709	0.0767	155.625	hun_news_2011_00772426
+394	Hogy korábban is képes lett volna-e rá, azt nem tudom, mert akkor nem voltam a csapat mellett.	Y	lett	79	   38,709	0.0767	158.1176	hun_news_2016_00632139
+395	Nem tudom, mi lett volna akkor, így azt sem tudom, hogy mi lett volna, ha nem vagyok folyamatosan sérült.	Y	lett	79	   38,709	0.0767	194.2857	hun_news_2016_00831887
+396	Ahol pedig víz van, ott élet is lehet vagy volt.	Y	ahol	80	   37,065	0.0734	165.4	hun_news_2016_00095604
+397	Lett és van nekünk egy másik város, ahol jó lenni.	Y	ahol	80	   37,065	0.0734	200.8	hun_news_2011_00522930
+398	A többi országban is azért van így, ahol nincs olyan sok fővárosi csapat.	Y	ahol	80	   37,065	0.0734	208.6154	hun_news_2011_00100591
+399	Akkor és ott voltak igazi férfiak, amikor és ahol arra szükség volt.	Y	ahol	80	   37,065	0.0734	215.0909	hun_news_2011_00039327
+400	Többek között ezért is tart ott az angol válogatott ahol.	Y	ahol	80	   37,065	0.0734	231.3	hun_news_2011_00112707
+401	Szerintem azért 280 ezer forint nagy pénz Magyarországon még ha sokat is kell dolgozni.	Y	ezer	81	   36,898	0.0731	249	hun_news_2017_00920809
+402	Legalább 140 ezer forintra lenne szükség.150 ezer forint vagy több kellene.	Y	ezer	81	   36,898	0.0731	266.1111	hun_news_2016_00722616
+403	A képviselő hangsúlyozta: nem 500 ezer forinttal, hanem még 1,7 millió forinttal tartozik az elnök.	Y	ezer	81	   36,898	0.0731	292.75	hun_news_2011_00958702
+404	Idén az első négy hónapban 29,2 ezer gyermek született, 0,5 százalékkal kevesebb, mint egy éve.	Y	ezer	81	   36,898	0.0731	294.6923	hun_news_2016_00648136
+405	Ebbõl több mint 269 ezer volt országos és csaknem 767 ezer megyei.	Y	ezer	81	   36,898	0.0731	323.6667	hun_news_2017_00464661
+406	Ha ez tavaly történt, akkor azért a 11 év az nem néhány év.	Y	azért	82	   36,781	0.0729	62.5455	hun_news_2017_00600366
+407	Most se lenne rossz, de azért ez már nem helyi, és nem Pécsi.	Y	azért	82	   36,781	0.0729	131.3333	hun_news_2011_00082713
+408	Igaz, nem sokat tett azért, hogy ez ne így legyen.	Y	azért	82	   36,781	0.0729	135.9	hun_news_2011_00896847
+409	Már csak azért sem, mert lehet, hogy sokan éppen ezt szeretnék.	Y	azért	82	   36,781	0.0729	145.0909	hun_news_2011_00744359
+410	Azért történt így, mert az emberek nagy része azt se tudta, hogy van ez a film.	Y	azért	82	   36,781	0.0729	154.125	hun_news_2016_00354815
+411	Ez azt jelenti, hogy van, aki csak 2,8 millió forintot kapott 6 millió helyett.	Y	millió	83	   36,098	0.0715	145.4545	hun_news_2017_00540112
+412	Ez nem kis dolog, ha az a bizonyos másik fél 60 millió Ft-t tesz ki.	Y	millió	83	   36,098	0.0715	212.2667	hun_news_2011_00891106
+413	Míg 2014 végén még 4,7 milliárd forint volt a hiány, egy évvel később 840 millió.	Y	millió	83	   36,098	0.0715	265.4167	hun_news_2016_00770465
+414	A képviselő hangsúlyozta: nem 500 ezer forinttal, hanem még 1,7 millió forinttal tartozik az elnök.	Y	millió	83	   36,098	0.0715	292.75	hun_news_2011_00958702
+415	Az okozott kár a rendőrség szerint több mint 120 millió forint.	Y	millió	83	   36,098	0.0715	304.9	hun_news_2011_00984273
+416	Nem elég, hogy az ember nagyon jó, más is kell hozzá.	Y	más	84	   36,093	0.0715	63	hun_news_2016_00820829
+417	Magyarország teljesen más 2016-ban, mint akár 1990-ben, akár 1956-ban volt.	Y	más	84	   36,093	0.0715	110	hun_news_2016_00736277
+418	Viszont nincs benne semmi más – vagy ami van, bár ne lenne.	Y	más	84	   36,093	0.0715	121.6364	hun_news_2016_00994202
+419	Az hogy mi lett volna,vagy mi történt utána az már más kérdés.	Y	más	84	   36,093	0.0715	155.0909	hun_news_2016_00362286
+420	Hiszen ha neki sikerült, akkor más előtt is ott a lehetőség.	Y	más	84	   36,093	0.0715	159.7273	hun_news_2016_00629056
+421	Viszont nincs benne semmi más – vagy ami van, bár ne lenne.	Y	viszont	85	   34,542	0.0684	121.6364	hun_news_2016_00994202
+422	A baleset viszont este kilenc után történt, és fél 12 elõtt nem sokkal még tartott.	Y	viszont	85	   34,542	0.0684	240.4286	hun_news_2017_00015945
+423	De a Real viszont mit ért el az utóbbi években?	Y	viszont	85	   34,542	0.0684	262.9	hun_news_2011_00409776
+424	Az viszont szomorú, hogy még csak most kerül erre sor.	Y	viszont	85	   34,542	0.0684	276.7	hun_news_2011_00905094
+425	Utána viszont már meg kell mondani, hogy nincs tovább, de a hogyan nem mindegy.	Y	viszont	85	   34,542	0.0684	298.7857	hun_news_2011_00020119
+426	A férfi ellen már korábban is indult eljárás hasonló esetben.	Y	ellen	86	   34,457	0.0682	217.2	hun_news_2016_00058935
+427	Az biztos, hogy mindig jó a régi csapat ellen játszani.	Y	ellen	86	   34,457	0.0682	300.9	hun_news_2017_00323549
+428	A párt szóvivője ugyanakkor nem tud arról, hogy indult volna eljárás a politikus ellen.	Y	ellen	86	   34,457	0.0682	336	hun_news_2016_00219723
+429	Sem a magyarok ellen, de még a németek ellen sem!	Y	ellen	86	   34,457	0.0682	347.5714	hun_news_2017_00894426
+430	Tehát mit is jelent, hogy valaki ellen vagyunk, ha nem vagyunk képesek tenni is ellene?	Y	ellen	86	   34,457	0.0682	365.9231	hun_news_2016_00938216
+431	Itt arról van szó, hogy nem csak az kell ami jár és amit kapott, hanem minden.	Y	amit	87	   34,063	0.0675	82.9375	hun_news_2011_00696096
+432	Amit az első és a második MSZP-kormány is folytatott.	Y	amit	87	   34,063	0.0675	216.4	hun_news_2011_00771054
+433	Ami egyébként meg is történt, és amit el is ismert az érintett személy.	Y	amit	87	   34,063	0.0675	235.5	hun_news_2017_00179704
+434	Nem csak az volt a gáz amit mondott,hanem az is ahogy mondta.	Y	amit	87	   34,063	0.0675	292.6667	hun_news_2011_00349761
+435	Amit a magyar párt soha sem tett és nem is tehet meg.	Y	amit	87	   34,063	0.0675	304.6667	hun_news_2016_00191458
+436	A Fidesz-kormány nem attól lesz jó, hogy az MSZP rossz volt A 2007-es(?	Y	kormány	88	   33,999	0.0673	142.5385	hun_news_2011_00369470
+437	Amit az első és a második MSZP-kormány is folytatott.	Y	kormány	88	   33,999	0.0673	216.4	hun_news_2011_00771054
+438	Azért mert az előző kormány hozta a törvény az még lehet jó!	Y	kormány	88	   33,999	0.0673	217.9091	hun_news_2011_00651715
+439	Mint mondta: a jelenlegi kormány az elmúlt fél évben mindent elkövetett, hogy Magyarország Európa része legyen.	Y	kormány	88	   33,999	0.0673	241	hun_news_2011_00299302
+440	Az egész ország most új kormány alatt, a fél ország még hó alatt.	Y	kormány	88	   33,999	0.0673	247.2727	hun_news_2017_00325460
+441	Ennek ellenére a cég ma is igen fontos az orosz állam számára.	Y	ennek	89	   33,746	0.0668	140.4167	hun_news_2017_00509913
+442	Ennek nagy része európai uniós forrás, közel 2 milliárd állami pénz.	Y	ennek	89	   33,746	0.0668	266.3	hun_news_2011_00897289
+443	Ennek pedig egy oka lehet, egyszerűen jól vagyok így, ahogy vagyok.	Y	ennek	89	   33,746	0.0668	270.9	hun_news_2016_00516629
+444	Azt, hogy Kossuth ennek során hangsúlyozta: Mindent a nép számára és minden a nép által.	Y	ennek	89	   33,746	0.0668	291.6923	hun_news_2011_00228672
+445	Ennek már hét éve, és a hölgy azóta is él és jól van.	Y	ennek	89	   33,746	0.0668	300.5833	hun_news_2017_00512126
+446	Sok oka van annak, hogy így történt az, ami történt.	Y	annak	90	   33,126	0.0656	142.6667	hun_news_2016_00904321
+447	Aki nem ért ezzel egyet, annak fel is út, le is út.	Y	annak	90	   33,126	0.0656	210.9	hun_news_2017_00118427
+448	Van-e azonban annak valami oka, hogy erre végül is miért pont most került sor?	Y	annak	90	   33,126	0.0656	211.8	hun_news_2011_00887344
+449	Annak pedig, hogy miért marad még fél évig, két oka lehet.	Y	annak	90	   33,126	0.0656	241.5455	hun_news_2016_00210260
+450	Annak persze, hogy minden zöld legyen az ember körül, némi ára is van.	Y	annak	90	   33,126	0.0656	336.3846	hun_news_2011_00764200
+451	Így volt ez 48-ban, és így van ez ma is.	Y	ma	91	   33,044	0.0654	37	hun_news_2017_00653163
+452	És ez így lenne most is, pedig mi van ma?	Y	ma	91	   33,044	0.0654	40.9	hun_news_2016_00528407
+453	Ennek ellenére a cég ma is igen fontos az orosz állam számára.	Y	ma	91	   33,044	0.0654	140.4167	hun_news_2017_00509913
+454	Egy dollár ma 286 forint, míg két éve még 222 forint volt.	Y	ma	91	   33,044	0.0654	157.2222	hun_news_2016_00474029
+455	Hogy ez jelent-e valamit, és ha igen, akkor mit, ma még nem tudjuk.	Y	ma	91	   33,044	0.0654	172.0714	hun_news_2011_00957555
+456	Jól van ez így… Illetve nem mindig, de nem tudunk mit tenni.	Y	illetve	92	   32,952	0.0653	219.3636	hun_news_2016_00677789
+457	Azt hiszem napi 2500-2800 ft körül volt, illetve most már talán több is.	Y	illetve	92	   32,952	0.0653	230.6667	hun_news_2011_00604392
+458	Ezzel 2,6 százalékos, illetve 2,7 százalékos lehet a 2011-es, illetve 2012-es növekedés.	Y	illetve	92	   32,952	0.0653	237.5714	hun_news_2011_00443786
+459	Illetve minél kevesebb,mert gondolom,nem ez lenne az új út.	Y	illetve	92	   32,952	0.0653	275.4545	hun_news_2016_00658025
+460	De hogy a következõ kormány ez lesz-e, illetve mi történik utána, az megint kérdés.	Y	illetve	92	   32,952	0.0653	279.9333	hun_news_2017_00450754
+461	Az amerikai elnök arról beszélt, hogy egyik ország sem lehet sikeres a másik nélkül.	Y	amerikai	93	   32,513	0.0644	161.7143	hun_news_2011_00294785
+462	Most ezt is kell tenni, és ezt teszik az amerikai hatóságok.	Y	amerikai	93	   32,513	0.0644	246.2	hun_news_2011_00102417
+463	Mi a különbség a magyar és az amerikai körülmények között?	Y	amerikai	93	   32,513	0.0644	273.4444	hun_news_2016_00767970
+464	Azért, mert egy volt amerikai nagykövet mondta, amit mondott, még nem biztos, hogy az igaz is.	Y	amerikai	93	   32,513	0.0644	305.125	hun_news_2016_00354513
+465	A mostani 44 külföldi katona között 29 az amerikai, míg tavaly csupán 15 volt.	Y	amerikai	93	   32,513	0.0644	327.4545	hun_news_2011_00691541
+466	Hiszen ha neki sikerült, akkor más előtt is ott a lehetőség.	Y	ott	94	   32,457	0.0643	159.7273	hun_news_2016_00629056
+467	Ahol pedig víz van, ott élet is lehet vagy volt.	Y	ott	94	   32,457	0.0643	165.4	hun_news_2016_00095604
+468	Mert ami ott működik az itt nem biztos,hogy fog.	Y	ott	94	   32,457	0.0643	178.4	hun_news_2011_00400373
+469	Mindenki, aki ott volt, tudja, hogy ez a pontos idő.	Y	ott	94	   32,457	0.0643	201.3	hun_news_2011_00613328
+470	Akkor és ott voltak igazi férfiak, amikor és ahol arra szükség volt.	Y	ott	94	   32,457	0.0643	215.0909	hun_news_2011_00039327
+471	De közben nehéz is, mert hiszen én férfi vagyok, ő pedig nő.	Y	hiszen	95	   32,186	0.0638	143.1667	hun_news_2017_00451490
+472	Hiszen ha neki sikerült, akkor más előtt is ott a lehetőség.	Y	hiszen	95	   32,186	0.0638	159.7273	hun_news_2016_00629056
+473	És, ha ezt jelenti, akkor vagyok is, hiszen most is nagyon szeretem őket.	Y	hiszen	95	   32,186	0.0638	294.75	hun_news_2017_00525598
+474	Hiszen az már meg van, az már mindenki számára egyértelmű.	Y	hiszen	95	   32,186	0.0638	310.625	hun_news_2011_00671220
+475	Ez jó dolog, hiszen nekem az egész nap úgy kiesett, ahogy volt.	Y	hiszen	95	   32,186	0.0638	373.6667	hun_news_2016_00555370
+476	Mondjuk azt, hogy egyik is 0-át ért el, meg a másik is?	Y	át	96	   31,923	0.0632	183.0909	hun_news_2011_00052060
+477	Ami nem az, azt vissza kell venni, vagy át kell gondolni, hogy szükség van-e rá - tette hozzá.	Y	át	96	   31,923	0.0632	281.4118	hun_news_2011_00056584
+478	Mint mondta, a gazdaság valóban lehetne jobb állapotban is, ha az MSZP-s kormány nem rossz állapotban adták volna át 2010-ben.	Y	át	96	   31,923	0.0632	305.1	hun_news_2016_00787605
+479	Ezt követően 1957-ig a Nemzeti Színház, majd négy éven át a József Attila Színház tagja volt.	Y	át	96	   31,923	0.0632	322.0714	hun_news_2011_00909833
+480	Aki nem katolikus, az nem érzi át pontosan, hogy mit jelent ez.	Y	át	96	   31,923	0.0632	326	hun_news_2017_00118484
+481	Azt, hogy Kossuth ennek során hangsúlyozta: Mindent a nép számára és minden a nép által.	Y	által	97	   30,898	0.0612	291.6923	hun_news_2011_00228672
+482	Hozzászólás elrejtve a felhasználó által Igen, a sok ember, aki tudja, hogy mi van és jól meg is mondja.	Y	által	97	   30,898	0.0612	400.7222	hun_news_2011_00897937
+483	A cég által vizsgált 14 gazdaság közül 11 az Európai Unió tagja.	Y	által	97	   30,898	0.0612	512.3	hun_news_2017_00031708
+484	Egy olyan ember által, aki nem dolgozott az oktatásban mondjuk az elmúlt 15 évben..	Y	által	97	   30,898	0.0612	535.1667	hun_news_2017_00481411
+485	Az Európai Bizottság szerint, a képviselő által feltett kérdés a helyi hatóságok..	Y	által	97	   30,898	0.0612	546.5455	hun_news_2016_00358631
+486	Óriási baj nem történt, ugyanis nem arról van szó, hogy.	Y	ugyanis	97	   30,898	0.0612	223.3333	hun_news_2017_00851803
+487	Vagy már azt sem: a probléma ugyanis nem ma keletkezett.	Y	ugyanis	97	   30,898	0.0612	333.7	hun_news_2011_00847195
+488	Ettől kezdve ugyanis már semmi nem lesz úgy, mint korábban.	Y	ugyanis	97	   30,898	0.0612	341.9	hun_news_2017_00530896
+489	A kérdés ugyanis az, s ezt maga tette fel: mi az erősebb?	Y	ugyanis	97	   30,898	0.0612	350.6364	hun_news_2016_00113325
+490	A horvát bank egyébként akár érdekes is lehet az OTP-nek, ugyanis.	Y	ugyanis	97	   30,898	0.0612	378.5	hun_news_2016_00096478
+491	Viszont nincs benne semmi más – vagy ami van, bár ne lenne.	Y	ne	98	   30,614	0.0606	121.6364	hun_news_2016_00994202
+492	Igaz, nem sokat tett azért, hogy ez ne így legyen.	Y	ne	98	   30,614	0.0606	135.9	hun_news_2011_00896847
+493	Nem arról, hogy legyen, vagy ne legyen demokrácia, hanem arról, milyen legyen a demokrácia.	Y	ne	98	   30,614	0.0606	236.6	hun_news_2011_00131078
+494	Akkor az volt,hogy bárki lehet csak Török ne legyen.	Y	ne	98	   30,614	0.0606	251.4	hun_news_2016_00125770
+495	Pedig az lenne a cél, hogy ne a rossz, hanem a jó példa legyen a példa - fogalmazott.	Y	ne	98	   30,614	0.0606	278.8462	hun_news_2011_00962392
+496	Nem arról van szó, hogy ez nem jó, hanem hogy én nem vagyok ilyen.	Y	arról	99	   30,546	0.0605	78.9091	hun_news_2011_00984877
+497	Itt arról van szó, hogy nem csak az kell ami jár és amit kapott, hanem minden.	Y	arról	99	   30,546	0.0605	82.9375	hun_news_2011_00696096
+498	Az amerikai elnök arról beszélt, hogy egyik ország sem lehet sikeres a másik nélkül.	Y	arról	99	   30,546	0.0605	161.7143	hun_news_2011_00294785
+499	Így pedig minden nap arról kell már olvasni hogy a forint így meg úgy..	Y	arról	99	   30,546	0.0605	167.4615	hun_news_2017_00651975
+500	Itt egyáltalán nem arról van szó, hogy ki liberális és ki nem az.	Y	arról	99	   30,546	0.0605	215	hun_news_2011_00373048
+501	Ha hozzá szeretne szólni, jelentkezzen be NEM JÓL VAN EZ ÍGY.	Y	jól	100	   30,405	0.0602	163.6364	hun_news_2017_00602226
+502	S ha jól tudom Románia is az EU-ban van..	Y	jól	100	   30,405	0.0602	191.5	hun_news_2017_00896511
+503	Jól van ez így… Illetve nem mindig, de nem tudunk mit tenni.	Y	jól	100	   30,405	0.0602	219.3636	hun_news_2016_00677789
+504	Nem, mert amikor szükség volt rá, ez a magyarság ismét jól döntött.	Y	jól	100	   30,405	0.0602	229.75	hun_news_2011_00299323
+505	Az énekesnő ma már jól van, ám ez nem volt mindig így.	Y	jól	100	   30,405	0.0602	233	hun_news_2011_00409450
+506	Egy magyar számára ez nem kérdés: ha magyar vagy, akkor európai vagy.	Y	számára	101	   30,373	0.0602	72.1	hun_news_2017_00479574
+507	Ennek ellenére a cég ma is igen fontos az orosz állam számára.	Y	számára	101	   30,373	0.0602	140.4167	hun_news_2017_00509913
+508	Ez pedig most már Magyarország számára is igen jó hír.	Y	számára	101	   30,373	0.0602	159.6	hun_news_2017_00555705
+509	A törvény mindenki számára törvény, legalábbis az kellene, hogy legyen.	Y	számára	101	   30,373	0.0602	270.2222	hun_news_2011_00138470
+510	Azt, hogy Kossuth ennek során hangsúlyozta: Mindent a nép számára és minden a nép által.	Y	számára	101	   30,373	0.0602	291.6923	hun_news_2011_00228672
+511	Talán még egy harmadik is, de ki hogy van ezzel.	Y	ezzel	102	   30,228	0.0599	62.2	hun_news_2011_00969205
+512	Az első kérdés persze ezzel kapcsolatban, hogy miért nem tette meg ezt eddig.	Y	ezzel	102	   30,228	0.0599	131.4615	hun_news_2016_00345136
+513	Aki nem ért ezzel egyet, annak fel is út, le is út.	Y	ezzel	102	   30,228	0.0599	210.9	hun_news_2017_00118427
+514	Ezzel csak az a baj hogy vagy ilyen vagy olyan DE kinek ez kinek az?	Y	ezzel	102	   30,228	0.0599	232.25	hun_news_2011_00450375
+515	Ezzel 2,6 százalékos, illetve 2,7 százalékos lehet a 2011-es, illetve 2012-es növekedés.	Y	ezzel	102	   30,228	0.0599	237.5714	hun_news_2011_00443786
+516	A baj csak az, hogy ez nem az első és nem a második, hanem a harmadik 10-es csoport.	Y	második	103	   30,145	0.0597	138.4286	hun_news_2011_00522039
+517	Amit az első és a második MSZP-kormány is folytatott.	Y	második	103	   30,145	0.0597	216.4	hun_news_2011_00771054
+518	Az első, harmadik és ötödik lett az első, második és harmadik.	Y	második	103	   30,145	0.0597	219.1429	hun_news_2016_00344666
+519	Az első díj 500.000, a második 400.000, a harmadik 300.000 a 4-10. pedig 50.000 forint.	Y	második	103	   30,145	0.0597	254.375	hun_news_2011_00223062
+520	Ez azt jelenti, hogy a második, harmadik gyermek már nem születik meg, és sok esetben az első sem.	Y	második	103	   30,145	0.0597	260.7222	hun_news_2016_00542720
+521	Saját magát nem jelenti fel az ember csak, ha minden kiderült.	Y	saját	104	   30,127	0.0597	131.8182	hun_news_2016_00891458
+522	Nem is lenne baj, amennyiben ez csak a saját véleménye volna.	Y	saját	104	   30,127	0.0597	282.2727	hun_news_2011_00096292
+523	Én azonban a saját példámból tudom, hogy ez nem mindig van így.	Y	saját	104	   30,127	0.0597	400.1667	hun_news_2017_00506738
+524	Talán pont egy fontos döntés előtt áll a saját életét illetően?	Y	saját	104	   30,127	0.0597	417.2727	hun_news_2016_00932941
+525	Ha nem ilyen lett volna ő maga is, megvetette volna saját magát.	Y	saját	104	   30,127	0.0597	435.7273	hun_news_2016_00612304
+526	Hiszen ha neki sikerült, akkor más előtt is ott a lehetőség.	Y	előtt	105	   29,088	0.0576	159.7273	hun_news_2016_00629056
+527	A világ, és ezen belül Európa is, valóban „történelmi helyzet előtt áll”.	Y	előtt	105	   29,088	0.0576	221.8333	hun_news_2017_00298353
+528	Én már gondoltam, hogy csak ő lehetett, és be is ismert a rendőrök előtt mindent.	Y	előtt	105	   29,088	0.0576	294.6667	hun_news_2011_00296257
+529	Így lesz ez március 15-én, 10:30-kor is a Nemzeti Múzeum előtt.	Y	előtt	105	   29,088	0.0576	316.8182	hun_news_2017_00651145
+530	Az már a meccs előtt biztos volt, hogy mindkét gárda ott lesz a sorozat legjobb 16 között.	Y	előtt	105	   29,088	0.0576	348	hun_news_2017_00370025
+531	Hét évvel ezelőtt még csak 79, öt évvel ezelőtt már 112 milliárd volt.	Y	milliárd	106	   29,083	0.0576	160.8889	hun_news_2011_00785326
+532	Ha ez a mostani csak 4 milliárd volt,akkor mi jön még ezután?	Y	milliárd	106	   29,083	0.0576	189.3333	hun_news_2011_00535888
+533	Ez az összeg 2013-ban 1700, míg 2014-ben 1850 milliárd forintot tett ki.	Y	milliárd	106	   29,083	0.0576	237	hun_news_2017_00539524
+534	Míg 2014 végén még 4,7 milliárd forint volt a hiány, egy évvel később 840 millió.	Y	milliárd	106	   29,083	0.0576	265.4167	hun_news_2016_00770465
+535	Ennek nagy része európai uniós forrás, közel 2 milliárd állami pénz.	Y	milliárd	106	   29,083	0.0576	266.3	hun_news_2011_00897289
+536	Az európai csak azt tudja, hogy egyik ember olyan, mint a másik!	Y	ember	107	   28,618	0.0567	56.6667	hun_news_2016_00358674
+537	Nem elég, hogy az ember nagyon jó, más is kell hozzá.	Y	ember	107	   28,618	0.0567	63	hun_news_2016_00820829
+538	Saját magát nem jelenti fel az ember csak, ha minden kiderült.	Y	ember	107	   28,618	0.0567	131.8182	hun_news_2016_00891458
+539	Ha az ember boldog, akkor mindig jó is, de ha jó, nem mindig boldog.	Y	ember	107	   28,618	0.0567	182.9	hun_news_2011_00533542
+540	Nem az a fontos, hol él az ember, hanem az, hogyan él.	Y	ember	107	   28,618	0.0567	189.7778	hun_news_2011_00507794
+541	Vannak, akik azt szeretnék, hogy minden olyan legyen, mint volt.	Y	vannak	108	   28,284	0.056	139.2	hun_news_2017_00981874
+542	Az a helyzet, hogy dolgozni kell, s akkor eredmények is vannak.	Y	vannak	108	   28,284	0.056	291.4545	hun_news_2011_00903227
+543	Ők sokan vannak, ez egy nagyon nagy tömeg, lehet akár 15-20 százalék is.	Y	vannak	108	   28,284	0.056	293.5	hun_news_2016_00846892
+544	Na és hogy mi a lényeg: jó, hogy vannak olyan emberek, mint Te.	Y	vannak	108	   28,284	0.056	312.25	hun_news_2016_00803893
+545	Lesz három olyan páros, akik az életben is együtt vannak.	Y	vannak	108	   28,284	0.056	418.5	hun_news_2016_00728119
+546	És ez így lenne most is, pedig mi van ma?	Y	lenne	109	   28,274	0.056	40.9	hun_news_2016_00528407
+547	Vagy nem is tudom mi lenne már itt a jó.	Y	lenne	109	   28,274	0.056	82.7	hun_news_2011_00306665
+548	Viszont nincs benne semmi más – vagy ami van, bár ne lenne.	Y	lenne	109	   28,274	0.056	121.6364	hun_news_2016_00994202
+549	Most se lenne rossz, de azért ez már nem helyi, és nem Pécsi.	Y	lenne	109	   28,274	0.056	131.3333	hun_news_2011_00082713
+550	De úgy tûnik, hogy most már a 3%-is jó lenne.	Y	lenne	109	   28,274	0.056	192.5	hun_news_2016_00460670
+551	De itt az a helyzet,hogy mind mindig a törvény nem teljes!	Y	mindig	110	   28,044	0.0555	124.2727	hun_news_2017_00451134
+552	De olyan nagy a baj, hogy ez még mindig kevés.	Y	mindig	110	   28,044	0.0555	157.1	hun_news_2016_00459573
+553	Az, hogy mi, magyarok még mindig egy nagy család vagyunk.	Y	mindig	110	   28,044	0.0555	163	hun_news_2011_00421427
+554	Ha az ember boldog, akkor mindig jó is, de ha jó, nem mindig boldog.	Y	mindig	110	   28,044	0.0555	182.9	hun_news_2011_00533542
+555	Aki még mindig nem látja, hogy mi történt itt az elmúlt 30 évben, az nem is akarja.	Y	mindig	110	   28,044	0.0555	190.6429	hun_news_2016_00121328
+556	Nem elég, hogy az ember nagyon jó, más is kell hozzá.	Y	hozzá	111	   28,037	0.0555	63	hun_news_2016_00820829
+557	Ha hozzá szeretne szólni, jelentkezzen be NEM JÓL VAN EZ ÍGY.	Y	hozzá	111	   28,037	0.0555	163.6364	hun_news_2017_00602226
+558	Ha nem így tettek volna, akkor az lett volna a baj - tette hozzá.	Y	hozzá	111	   28,037	0.0555	212.5833	hun_news_2017_00608348
+559	Utóbbi sajnos a legtöbb európai országban nincs meg - tette hozzá.	Y	hozzá	111	   28,037	0.0555	225.6	hun_news_2011_00737568
+560	Ez egyáltalán nem baj, csak az, hogy aki mondja, gyakran nem ért hozzá.	Y	hozzá	111	   28,037	0.0555	258.5833	hun_news_2017_00540699
+561	A 2008-as válság óta nem volt ilyen jó a helyzet.	Y	óta	112	   27,992	0.0554	180	hun_news_2016_00008497
+562	Szerintem is, sok év óta ez volt a legjobb döntés.	Y	óta	112	   27,992	0.0554	189.9	hun_news_2011_00323874
+563	Vagy nem tudják mi történt Magyarországon 1945 óta, vagy nem tudják mit jelent a demokratikus szó.	Y	óta	112	   27,992	0.0554	261.5833	hun_news_2011_00809617
+564	Ha nem ezt tette volna nem lenne ott olyan rég óta.	Y	óta	112	   27,992	0.0554	282.1	hun_news_2011_00645315
+565	Németországban 1991 óta nem volt olyan hideg a május, mint az idén.	Y	óta	112	   27,992	0.0554	356	hun_news_2016_00822258
+566	De közben nehéz is, mert hiszen én férfi vagyok, ő pedig nő.	Y	férfi	113	   27,945	0.0554	143.1667	hun_news_2017_00451490
+567	A férfi ellen már korábban is indult eljárás hasonló esetben.	Y	férfi	113	   27,945	0.0554	217.2	hun_news_2016_00058935
+568	VAN egyáltalán olyan férfi akinek ez a lány nem jön be?	Y	férfi	113	   27,945	0.0554	234	hun_news_2016_00980970
+569	A női NB I-ben továbbra is 12, a férfi NB I-ben 14 csapat indul.	Y	férfi	113	   27,945	0.0554	268.7	hun_news_2017_00207450
+570	Lehet nem a legszebb férfi, de nagyon sok évig jó volt neki.	Y	férfi	113	   27,945	0.0554	272	hun_news_2011_00267391
+571	Így persze azt sem tudtuk meg, hogy ez az összeg idén több vagy kevesebb volt-e, mint például tavaly.	Y	például	114	   27,919	0.0553	226.3684	hun_news_2016_00656490
+572	Nem lenne ez hasonló ahhoz, hogy ha például a németek az 1945.	Y	például	114	   27,919	0.0553	246.0909	hun_news_2017_00825400
+573	Én például gyakran mondom, hogy nem vagyok az, pedig igen.	Y	például	114	   27,919	0.0553	317.6	hun_news_2011_00162881
+574	Az például érdekes helyzet volt, hogy nem december végén kaptunk meg 130 milliárd forintot, hanem január 5-én.	Y	például	114	   27,919	0.0553	333.5625	hun_news_2017_00387664
+575	Bár az elmúlt években csökkent, még mindig magasabb, mint például Németországban.	Y	például	114	   27,919	0.0553	349.3636	hun_news_2017_00412071
+576	Ez még inkább igaz lehet azzal, hogy a Magyar Nemzeti.	Y	nemzeti	115	   27,840	0.0551	81.1	hun_news_2016_00556621
+577	Hozzáadom a könyvjelzõhözKüldd ide: Delicious Elhunyt a Magyar Nemzeti Bank korábbi elnöke Figyelem!	Y	nemzeti	115	   27,840	0.0551	298.25	hun_news_2017_00634633
+578	Így lesz ez március 15-én, 10:30-kor is a Nemzeti Múzeum előtt.	Y	nemzeti	115	   27,840	0.0551	316.8182	hun_news_2017_00651145
+579	Ezt követően 1957-ig a Nemzeti Színház, majd négy éven át a József Attila Színház tagja volt.	Y	nemzeti	115	   27,840	0.0551	322.0714	hun_news_2011_00909833
+580	Ezt követően 1990 és 1991, majd 1994 és 1995 között is vezette a nemzeti csapatot.	Y	nemzeti	115	   27,840	0.0551	332.9	hun_news_2016_00562680
+581	Akkor is, ha korábban nem volt (mert nem lehetett) az.	Y	korábban	116	   27,505	0.0545	66.8889	hun_news_2016_00126330
+582	De nem itt, hanem néhány évvel korábban indult az egész.	Y	korábban	116	   27,505	0.0545	127.7	hun_news_2011_00308137
+583	Hogy korábban is képes lett volna-e rá, azt nem tudom, mert akkor nem voltam a csapat mellett.	Y	korábban	116	   27,505	0.0545	158.1176	hun_news_2016_00632139
+584	A férfi ellen már korábban is indult eljárás hasonló esetben.	Y	korábban	116	   27,505	0.0545	217.2	hun_news_2016_00058935
+585	Ez az érték 23,3 százalékkal nagyobb volt, mint egy évvel korábban.	Y	korábban	116	   27,505	0.0545	229.9	hun_news_2011_00500352
+586	Azt mondják, Európa és mi, valamint, hogy Nyugat és Magyarország.	Y	valamint	117	   27,181	0.0538	331	hun_news_2011_00152777
+587	Rajta kívül életét vesztette egy 28 éves férfi, valamint egy 25 éves nõ.	Y	valamint	117	   27,181	0.0538	506.5556	hun_news_2016_00880081
+588	Észak-Magyarországon, valamint Közép- és Dél-Dunántúlon pedig még csökkent is az új vállalkozások száma.	Y	valamint	117	   27,181	0.0538	524.8667	hun_news_2011_00802900
+589	A meg nem nevezett osztályon három ember halt meg: egy 44 éves nő, valamint egy 71 éves és egy 84 éves férfi.	Y	valamint	117	   27,181	0.0538	528.6429	hun_news_2011_00404134
+590	Egy biztos: az Európai Bizottság hatáskörébe és Fejlesztési Bank, valamint az Európai Befektetési Bank nem fog pénzt adni - fogalmazott.	Y	valamint	117	   27,181	0.0538	566.3125	hun_news_2011_00020029
+591	Ezek közül most egyik sincs meg a Fidesz elnöke szerint.	Y	ezek	118	   26,100	0.0517	159.1	hun_news_2011_00384328
+592	Nem lehet tudni, hogy ezek között milyen további különbség van még.	Y	ezek	118	   26,100	0.0517	225.6364	hun_news_2017_00825347
+593	Akkor már csak egy kérdés maradt: mikor lesznek ezek a választások?	Y	ezek	118	   26,100	0.0517	272.9091	hun_news_2016_00126660
+594	Ezek azt sem tudják,hogy 1 óra múlva milyen idõ lesz!”	Y	ezek	118	   26,100	0.0517	283.9	hun_news_2016_00545661
+595	Most ezek után mondja valaki, hogy Miskolc nem szép város.	Y	ezek	118	   26,100	0.0517	289.6	hun_news_2016_00798353
+596	Nekik persze hogy nem kellett és nem kell, mert van.	Y	kellett	119	   26,032	0.0516	105.4444	hun_news_2011_00343609
+597	Van még valami, amit nem foglalt vissza a város, és nem derült róla ki, hogy nem is kellett volna?	Y	kellett	119	   26,032	0.0516	304.7647	hun_news_2011_00483472
+598	Az összes hozzászólás egy lapon » Ezt mindig így kellett volna!	Y	kellett	119	   26,032	0.0516	339.1	hun_news_2016_00389013
+599	És õk itt voltak, csak meg kellett volna õket tartani.	Y	kellett	119	   26,032	0.0516	341	hun_news_2017_00528010
+600	A városban megint új társaság kellett volna, s nem voltak még meg a kapcsolatok.	Y	kellett	119	   26,032	0.0516	374.1538	hun_news_2017_00291735
+601	Az egyik csapat 25-öt, a másik pedig 17-et kapott a megyei II.	Y	megyei	120	   25,711	0.0509	245.8182	hun_news_2016_00332667
+602	A megyei tanács elnöke elmondta, öt év után végre dolgozni fog az egyesület.	Y	megyei	120	   25,711	0.0509	308.4615	hun_news_2017_00173580
+603	Ebbõl több mint 269 ezer volt országos és csaknem 767 ezer megyei.	Y	megyei	120	   25,711	0.0509	323.6667	hun_news_2017_00464661
+604	A tervek szerint hamarosan már a megyei kórházban is lehetőség lesz erre.	Y	megyei	120	   25,711	0.0509	391.7273	hun_news_2011_00324665
+605	Ha a magyarországi magyarok egy bizonyos része ellene is fordult,itt vagyunk mi Kovászna megyei,akár erdélyi magyarok,neki.	Y	megyei	120	   25,711	0.0509	447.5	hun_news_2016_00599979
+606	Lehet, hogy ő lett volna a legjobb polgármester, lehet, hogy nem.	Y	ő	121	   25,566	0.0506	123.3333	hun_news_2011_00364196
+607	Azaz, Ő már most itt van, Az pedig a jövő héten lesz itt.	Y	ő	121	   25,566	0.0506	135.1667	hun_news_2011_00049883
+608	De közben nehéz is, mert hiszen én férfi vagyok, ő pedig nő.	Y	ő	121	   25,566	0.0506	143.1667	hun_news_2017_00451490
+609	Ő tudja, hogy mi tudjuk, de mi is tudjuk, hogy ő tudja, hogy, mi is tudjuk.	Y	ő	121	   25,566	0.0506	147	hun_news_2016_00860373
+610	Persze hozzátette, ő biztos benne, hogy még nem történt ilyen.	Y	ő	121	   25,566	0.0506	160.2	hun_news_2016_00870775
+611	Mivel azonban jól tudjuk, hogy ez még messze sincs így.	Y	mivel	122	   25,364	0.0502	298.4	hun_news_2011_00553861
+612	Mivel nem vagyok tökéletes, ezért nem is vagyok én a TV-ben.	Y	mivel	122	   25,364	0.0502	306.7	hun_news_2011_00645505
+613	De mivel én csak egy meleg férfi vagyok, úgy tûnik, ez rendben van.	Y	mivel	122	   25,364	0.0502	404	hun_news_2016_00458231
+614	A férfi azt mondta: mivel egy évben csak egyszer tudja ezt csinálni, nem gondolta volna, hogy ebbõl baj lehet.	Y	mivel	122	   25,364	0.0502	404.2632	hun_news_2017_00055096
+615	Nem ritkán egy-egy család két-három autót is tart, mivel a 2008.	Y	mivel	122	   25,364	0.0502	414.0909	hun_news_2016_00829390
+616	Így volt ez 48-ban, és így van ez ma is.	Y	ban	123	   25,293	0.0501	37	hun_news_2017_00653163
+617	Most nem úgy vagyok, hogy mint '96-ban, hogy lesz még ilyen, mert lehet, hogy már nem lesz..	Y	ban	123	   25,293	0.0501	55.3077	hun_news_2016_00799839
+618	Magyarország teljesen más 2016-ban, mint akár 1990-ben, akár 1956-ban volt.	Y	ban	123	   25,293	0.0501	110	hun_news_2016_00736277
+619	1996-ban még az összes eset 81,9 százaléka volt ilyen, 2010-ben már csak 48,7 százaléka.	Y	ban	123	   25,293	0.0501	183.7273	hun_news_2011_00833029
+620	S ha jól tudom Románia is az EU-ban van..	Y	ban	123	   25,293	0.0501	191.5	hun_news_2017_00896511
+621	Egy dollár ma 286 forint, míg két éve még 222 forint volt.	Y	forint	124	   25,189	0.0499	157.2222	hun_news_2016_00474029
+622	Így pedig minden nap arról kell már olvasni hogy a forint így meg úgy..	Y	forint	124	   25,189	0.0499	167.4615	hun_news_2017_00651975
+623	Szerintem azért 280 ezer forint nagy pénz Magyarországon még ha sokat is kell dolgozni.	Y	forint	124	   25,189	0.0499	249	hun_news_2017_00920809
+624	Az első díj 500.000, a második 400.000, a harmadik 300.000 a 4-10. pedig 50.000 forint.	Y	forint	124	   25,189	0.0499	254.375	hun_news_2011_00223062
+625	Míg 2014 végén még 4,7 milliárd forint volt a hiány, egy évvel később 840 millió.	Y	forint	124	   25,189	0.0499	265.4167	hun_news_2016_00770465
+626	Sajnos, nem ez volt az elsõ eset, idén már két másik alkalommal is történt hasonló baleset.	Y	idén	125	   25,064	0.0496	216.5	hun_news_2017_00891242
+627	Így persze azt sem tudtuk meg, hogy ez az összeg idén több vagy kevesebb volt-e, mint például tavaly.	Y	idén	125	   25,064	0.0496	226.3684	hun_news_2016_00656490
+628	Idén január és október között 76 531 gyermek született, ami fél százalékkal több, mint tavaly.	Y	idén	125	   25,064	0.0496	270.6923	hun_news_2016_00648516
+629	Ahogy az asszony mondta: az idén már csak ebben a hónapban.	Y	idén	125	   25,064	0.0496	286.7	hun_news_2011_00855122
+630	Ezért nagy gond az, hogy idén nem indult a Debrecen.	Y	idén	125	   25,064	0.0496	293.9	hun_news_2011_00882887
+631	Ez azt jelenti, hogy sok minden történt az elmúlt négy évben.	Y	négy	126	   25,031	0.0496	122.2727	hun_news_2011_00212591
+632	Én azt remélem, hogy négy év múlva még lesz egy magyar párt.	Y	négy	126	   25,031	0.0496	212	hun_news_2016_00510874
+633	Négy éve nem volt olyan alacsony a növekedés Magyarországon, mint tavaly.	Y	négy	126	   25,031	0.0496	248.2727	hun_news_2017_00810929
+634	Pedig történt vele egy s más az elõzõ négy évben.	Y	négy	126	   25,031	0.0496	254	hun_news_2016_00866971
+635	Jól ment négy évig, s most pont ez nem jött össze, sajnos.	Y	négy	126	   25,031	0.0496	273.5	hun_news_2017_00673915
+636	Az amerikai elnök arról beszélt, hogy egyik ország sem lehet sikeres a másik nélkül.	Y	nélkül	127	   24,994	0.0495	161.7143	hun_news_2011_00294785
+637	Ilyen fontos hírek nélkül már nem is élet az élet!	Y	nélkül	127	   24,994	0.0495	213.3333	hun_news_2011_00427621
+638	Nem a tegnap volt az és nem is ok nélkül!	Y	nélkül	127	   24,994	0.0495	230.4444	hun_news_2016_00818293
+639	Pont ez az érdekes, hogy e nélkül is működik a dolog.	Y	nélkül	127	   24,994	0.0495	279.9091	hun_news_2017_00872830
+640	Vagy aki munka nélkül marad, már nem is számít embernek?	Y	nélkül	127	   24,994	0.0495	316.1	hun_news_2011_00447642
+641	Ám nem ez a baj, hanem az, hogy ebből az egy is sok.	Y	ám	128	   24,517	0.0486	137.9167	hun_news_2011_00238864
+642	” Ám nemcsak az orosz nép nem tette ezt, a német sem.	Y	ám	128	   24,517	0.0486	214.2727	hun_news_2011_00710589
+643	Az énekesnő ma már jól van, ám ez nem volt mindig így.	Y	ám	128	   24,517	0.0486	233	hun_news_2011_00409450
+644	Ám az évek során nem csak az ember változik, hanem a világ is.	Y	ám	128	   24,517	0.0486	237.5833	hun_news_2011_00102302
+645	Ám a nő már nem adott neki egy forintot sem, inkább feljelentést tett.	Y	ám	128	   24,517	0.0486	307.6154	hun_news_2016_00169563
+646	Ha ez tavaly történt, akkor azért a 11 év az nem néhány év.	Y	néhány	129	   24,501	0.0485	62.5455	hun_news_2017_00600366
+647	De nem itt, hanem néhány évvel korábban indult az egész.	Y	néhány	129	   24,501	0.0485	127.7	hun_news_2011_00308137
+648	És mi lesz, ha véget ér ez a néhány nap?	Y	néhány	129	   24,501	0.0485	234.2	hun_news_2011_00830891
+649	Az, hogy jól jött-e, majd néhány év múlva kiderül.	Y	néhány	129	   24,501	0.0485	271.3	hun_news_2017_00358294
+650	Ez alatt a néhány nap alatt ez úgy érzem, sikerült.	Y	néhány	129	   24,501	0.0485	282.875	hun_news_2011_00339676
+651	Van-e azonban annak valami oka, hogy erre végül is miért pont most került sor?	Y	került	130	   24,110	0.0478	211.8	hun_news_2011_00887344
+652	Erre végül nem került sor, de ki tudja, mit hoz még a jövõ.	Y	került	130	   24,110	0.0478	289.6923	hun_news_2017_00521133
+653	Emiatt került az euró 272 forint alá - tette hozzá a szakember.	Y	került	130	   24,110	0.0478	333.4	hun_news_2016_00509150
+654	Szerinte erre azért nem került sor, mert a volt miniszterelnök ehhez nem járult hozzá.	Y	került	130	   24,110	0.0478	421.8462	hun_news_2016_00921834
+655	A szlovák kormányfő után a parlament elnöke is kórházba került 2016.	Y	került	130	   24,110	0.0478	435.1111	hun_news_2016_00263456
+656	De itt az a helyzet,hogy mind mindig a törvény nem teljes!	Y	teljes	131	   24,042	0.0476	124.2727	hun_news_2017_00451134
+657	Tavaly egyszer már voltunk itt az 1,3-al, ugyan így a kis pályán két éve pedig a teljes pályán.	Y	teljes	131	   24,042	0.0476	272.8125	hun_news_2017_00934733
+658	Ez egy nagyon, nagyon büszke nap a teljes csapat számára.	Y	teljes	131	   24,042	0.0476	299.5556	hun_news_2011_00149459
+659	Ez az összeg a teljes EU-költségvetés kevesebb mint 0,2%-a.	Y	teljes	131	   24,042	0.0476	398.8889	hun_news_2011_00748957
+660	Például azt, hogy ha elég Kérjük jelentkezzen be, hogy a teljes cikket olvashassa Már van előfizetésem vagy korábban regisztráltam!	Y	teljes	131	   24,042	0.0476	400	hun_news_2017_00866212
+661	Az amerikai elnök arról beszélt, hogy egyik ország sem lehet sikeres a másik nélkül.	Y	ország	132	   23,785	0.0471	161.7143	hun_news_2011_00294785
+662	Az összes többi ország is kap pénzt, csak éppen az összes többi ország a 2007(!	Y	ország	132	   23,785	0.0471	232.5	hun_news_2016_00389553
+663	Az egész ország most új kormány alatt, a fél ország még hó alatt.	Y	ország	132	   23,785	0.0471	247.2727	hun_news_2017_00325460
+664	Azért tart itt ez az ország, mert egy kis apró..	Y	ország	132	   23,785	0.0471	255.9	hun_news_2017_00350974
+665	Az ország több szempontból is az utolsó helyen áll Európában.	Y	ország	132	   23,785	0.0471	286.8889	hun_news_2016_00387405
+666	Ami az Eb-n sikerült, az az NB I-ben miért nem?	Y	i	133	   23,569	0.0467	253.1	hun_news_2017_00179230
+667	A 86. percben Nagy Péter tette fel az i-re a pontot.	Y	i	133	   23,569	0.0467	253.4	hun_news_2011_00023347
+668	A női NB I-ben továbbra is 12, a férfi NB I-ben 14 csapat indul.	Y	i	133	   23,569	0.0467	268.7	hun_news_2017_00207450
+669	K. I.: Van-e több is, vagy már ennyi sincs?	Y	i	133	   23,569	0.0467	298	hun_news_2016_00703732
+670	Pedig 2013-ban maga Orbán mondta, hogy „a mi célunk nem az NB I, a mi célunk nem is az NB II.	Y	i	133	   23,569	0.0467	344.1333	hun_news_2017_00863914
+671	Az európai csak azt tudja, hogy egyik ember olyan, mint a másik!	Y	másik	134	   23,335	0.0462	56.6667	hun_news_2016_00358674
+672	Most amikor a másik oldalon van ugyan ez, akkor az nem úgy van..	Y	másik	134	   23,335	0.0462	116.5	hun_news_2016_00797138
+673	Én, mikor én s amikor nem, akkor a másik, a többi!	Y	másik	134	   23,335	0.0462	128.7778	hun_news_2011_00928985
+674	Az amerikai elnök arról beszélt, hogy egyik ország sem lehet sikeres a másik nélkül.	Y	másik	134	   23,335	0.0462	161.7143	hun_news_2011_00294785
+675	Mondjuk azt, hogy egyik is 0-át ért el, meg a másik is?	Y	másik	134	   23,335	0.0462	183.0909	hun_news_2011_00052060
+676	Lehet, hogy eddig így volt, de most már nem így lesz.	Y	eddig	135	   23,316	0.0462	32.4	hun_news_2016_00725511
+677	Az első kérdés persze ezzel kapcsolatban, hogy miért nem tette meg ezt eddig.	Y	eddig	135	   23,316	0.0462	131.4615	hun_news_2016_00345136
+678	Eddig nem történt, lehet, hogy legközelebb fog, lehet, hogy nem.	Y	eddig	135	   23,316	0.0462	171.2857	hun_news_2011_00640453
+679	Pl. az elsõ az, hogy lesz ilyen, eddig nem volt.	Y	eddig	135	   23,316	0.0462	185.7778	hun_news_2017_00871758
+680	Egyszer csak azt mondta az SZDSZ, eddig és nem tovább.	Y	eddig	135	   23,316	0.0462	222.2	hun_news_2017_00484145
+681	A harmadik szinten pedig nekem nagyon jó egyedül, de sokkal jobb lehet együtt.	Y	együtt	136	   23,264	0.0461	228.3077	hun_news_2017_00078076
+682	Amikor együtt játszik több ember, legyen az 2, 4 vagy egy egész zenekar, mindig az a nehéz, hogy mindenki együtt legyen.	Y	együtt	136	   23,264	0.0461	274.375	hun_news_2016_00186072
+683	De még egyáltalán nem biztos, hogy együtt lesz a két szavazás.	Y	együtt	136	   23,264	0.0461	320.1818	hun_news_2017_00452662
+684	Azt mondja az elnök, hogy együtt a csapat, az igazi munka most következik.	Y	együtt	136	   23,264	0.0461	321.75	hun_news_2011_00284878
+685	Miért nem úgy hogy olyan ember kellene, aki velünk akar, együtt dolgozni.	Y	együtt	136	   23,264	0.0461	328	hun_news_2011_00302170
+686	Ez azt jelenti, hogy sok minden történt az elmúlt négy évben.	Y	elmúlt	137	   23,228	0.046	122.2727	hun_news_2011_00212591
+687	Aki még mindig nem látja, hogy mi történt itt az elmúlt 30 évben, az nem is akarja.	Y	elmúlt	137	   23,228	0.046	190.6429	hun_news_2016_00121328
+688	Hogyan lenne ez lehetséges most, ha az elmúlt húsz évben nem sikerült?	Y	elmúlt	137	   23,228	0.046	220.1667	hun_news_2016_00630785
+689	Mint mondta: a jelenlegi kormány az elmúlt fél évben mindent elkövetett, hogy Magyarország Európa része legyen.	Y	elmúlt	137	   23,228	0.046	241	hun_news_2011_00299302
+690	A politikus szerint e téren egyébként nem sok változott az elmúlt 25 évben.	Y	elmúlt	137	   23,228	0.046	295.5	hun_news_2016_00225388
+691	Egy fotó alapján meg tudja mondani, hogy ki van a képen?	Y	alapján	138	   23,038	0.0456	217.2727	hun_news_2016_00479523
+692	Hogy a gyanú mi alapján született meg, még nem közölte a rendõrség.	Y	alapján	138	   23,038	0.0456	397.0909	hun_news_2017_00626733
+693	Azt viszont azért még ne írjuk alá, hogy ezek alapján mind ki is esik.	Y	alapján	138	   23,038	0.0456	452.3571	hun_news_2011_00524336
+694	A ma látottak alapján, viszont úgy tűnik, hogy mégis ez a helyzet.	Y	alapján	138	   23,038	0.0456	504.2727	hun_news_2017_00164580
+695	Nálunk hét ilyen csapat látja el éves terv alapján ezt a feladatot.	Y	alapján	138	   23,038	0.0456	512.4167	hun_news_2017_00808177
+696	Még ez is alacsony, de a növekedés Európában a 3. legnagyobb.	Y	legnagyobb	139	   22,984	0.0455	324.6667	hun_news_2016_00752849
+697	Az alap nem csak ebben lett az elsõ, hanem a legnagyobb induló.	Y	legnagyobb	139	   22,984	0.0455	327.1818	hun_news_2017_00309768
+698	Szerinte az egyik legnagyobb probléma ma Magyarországon az, hogy „nincs vita”.	Y	legnagyobb	139	   22,984	0.0455	329.6	hun_news_2017_00919987
+699	És ez a legnagyobb mértékben érinti az EU-t is.	Y	legnagyobb	139	   22,984	0.0455	342.8	hun_news_2011_00337952
+700	Talán ez volt a legnagyobb baja is egyben: olyan nagyon nem is akart.	Y	legnagyobb	139	   22,984	0.0455	410.1667	hun_news_2017_00931221
+701	Pedig szerinte 2008-ig semmilyen nemzetközi gazdasági oka nem volt ennek.	Y	nemzetközi	140	   22,836	0.0452	325.4	hun_news_2011_00760484
+702	Ez magyar rekord, sőt az is lehet, hogy még nemzetközi szinten sem volt rá példa.	Y	nemzetközi	140	   22,836	0.0452	375.2	hun_news_2016_00556221
+703	Az elmúlt napokban Magyarország olyan figyelmet kapott a nemzetközi sajtóban, mint 2006 óta egyszer sem.	Y	nemzetközi	140	   22,836	0.0452	381.5714	hun_news_2016_00340765
+704	A miniszterelnök szerint ugyanis a magyar gazdaságpolitika számára fontos az, hogy legyen nagy, nemzetközi magyar vállalat.	Y	nemzetközi	140	   22,836	0.0452	393.7857	hun_news_2016_00189423
+705	Ez itt a második nemzetközi vakfocitorna, az elsõ két éve volt.	Y	nemzetközi	140	   22,836	0.0452	421.4545	hun_news_2016_00555254
+706	Adott tehát az újabb lehetőség a sport számára, csak élni kell vele.	Y	újabb	141	   22,827	0.0452	297.25	hun_news_2016_00048820
+707	És az is biztos, hogy két-három éven belül újabb Alkotmányra lesz szükség, hisz ez még nem európai.	Y	újabb	141	   22,827	0.0452	390.4444	hun_news_2011_00971774
+708	Egy esetleges újabb IMF-megállapodásról azt mondta: Nem kell, de ha van az jó.	Y	újabb	141	   22,827	0.0452	471.2143	hun_news_2011_00916830
+709	Újabb vita alakult ki a horvát kormány és a Mol között.	Y	újabb	141	   22,827	0.0452	472.5	hun_news_2017_00968407
+710	Ehhez képest most újabb 120 millió forintos pályázatot nyert a Gyurcsány-cég.	Y	újabb	141	   22,827	0.0452	473.9091	hun_news_2016_00491943
+711	Nem tudja, ki áll a jó és ki a rossz oldalon.	Y	áll	142	   22,762	0.0451	161	hun_news_2011_00397053
+712	A világ, és ezen belül Európa is, valóban „történelmi helyzet előtt áll”.	Y	áll	142	   22,762	0.0451	221.8333	hun_news_2017_00298353
+713	De a legszebb, hogy neki még ez is jól áll.	Y	áll	142	   22,762	0.0451	241.7	hun_news_2016_00451460
+714	Az ország több szempontból is az utolsó helyen áll Európában.	Y	áll	142	   22,762	0.0451	286.8889	hun_news_2016_00387405
+715	Van rajta egy kis plusz, és jól is áll neki!	Y	áll	142	   22,762	0.0451	300.7	hun_news_2016_00982618
+716	Viszont nincs benne semmi más – vagy ami van, bár ne lenne.	Y	bár	143	   22,572	0.0447	121.6364	hun_news_2016_00994202
+717	Bár már az is nagy szó, hogy a pályán lévő egyetlen (!	Y	bár	143	   22,572	0.0447	162.0909	hun_news_2011_00598652
+718	Bár minden gyilkos olyan gyilkos lenne mint ő. Akkor lenne itt jó világ.	Y	bár	143	   22,572	0.0447	285.8182	hun_news_2011_00467513
+719	Bár lehet, hogy mások számára ezzel szemben minden perc drága.	Y	bár	143	   22,572	0.0447	303.4	hun_news_2011_00568577
+720	Bár én nő vagyok, de még szerintem is gyönyörű ez a nő!	Y	bár	143	   22,572	0.0447	318.1818	hun_news_2011_00053934
+721	Az igaz, hogy egy évre való történt a hat év alatt, de a másik elcseszett öt évvel mi lesz?	Y	való	144	   22,550	0.0447	349	hun_news_2017_00361253
+722	1989. december 22-én, pénteken délelőtt tudni való volt már, hogy Romániában „helyzet” van.	Y	való	144	   22,550	0.0447	363.4167	hun_news_2011_00182561
+723	Ezzel együtt egy kicsit már sok nekem ez az Andráskával való együtt vagyunk, nem vagyunk is.	Y	való	144	   22,550	0.0447	418.6429	hun_news_2011_00551468
+724	Nem volt, de én nem is érzem, hogy nekem való lenne ez a szerep.	Y	való	144	   22,550	0.0447	430.0769	hun_news_2011_00444141
+725	De az biztos, hogy nem a jelenlegi politikusaink közül való lesz.	Y	való	144	   22,550	0.0447	432.8182	hun_news_2011_00990309
+726	Egy dollár ma 286 forint, míg két éve még 222 forint volt.	Y	míg	145	   22,545	0.0447	157.2222	hun_news_2016_00474029
+727	Ez az összeg 2013-ban 1700, míg 2014-ben 1850 milliárd forintot tett ki.	Y	míg	145	   22,545	0.0447	237	hun_news_2017_00539524
+728	Míg 2014 végén még 4,7 milliárd forint volt a hiány, egy évvel később 840 millió.	Y	míg	145	   22,545	0.0447	265.4167	hun_news_2016_00770465
+729	A mostani 44 külföldi katona között 29 az amerikai, míg tavaly csupán 15 volt.	Y	míg	145	   22,545	0.0447	327.4545	hun_news_2011_00691541
+730	Míg 1933-ban 4,3 millió rádió volt Németországban, 1939-ben már 10,8 millió, 1943-ban pedig 16,2 millió.	Y	míg	145	   22,545	0.0447	386	hun_news_2017_00768334
+731	Magyarország teljesen más 2016-ban, mint akár 1990-ben, akár 1956-ban volt.	Y	akár	146	   22,384	0.0443	110	hun_news_2016_00736277
+732	De már ő is csak úgy látta őket, akár én!	Y	akár	146	   22,384	0.0443	185.7	hun_news_2017_00452528
+733	Pedig még így is sokkal jobban járnak, mint 2007-ben vagy akár 2000-ben.	Y	akár	146	   22,384	0.0443	225.1818	hun_news_2016_00866606
+734	Ez lehet 300-400 milliárd forint, vagy akár több is - jegyezte meg.	Y	akár	146	   22,384	0.0443	268.4	hun_news_2017_00552979
+735	Persze most egész más a helyzet, mint két évvel korábban, vagy akár az azt megelőző években.	Y	akár	146	   22,384	0.0443	280.25	hun_news_2011_00357058
+736	Nem tudjuk, hol lesz, és azt sem, hogy milyen lesz.	Y	milyen	147	   22,379	0.0443	152.2222	hun_news_2017_00829903
+737	Nem lehet tudni, hogy ezek között milyen további különbség van még.	Y	milyen	147	   22,379	0.0443	225.6364	hun_news_2017_00825347
+738	Milyen lesz ez, még nem tudni, de az bizonyos, hogy minden más, mint előtte volt.	Y	milyen	147	   22,379	0.0443	232.1333	hun_news_2011_00264334
+739	Nem arról, hogy legyen, vagy ne legyen demokrácia, hanem arról, milyen legyen a demokrácia.	Y	milyen	147	   22,379	0.0443	236.6	hun_news_2011_00131078
+740	Hogy hol és milyen körülmények között, azt egyelőre nem tudjuk.	Y	milyen	147	   22,379	0.0443	267.2	hun_news_2016_00631845
+741	Ám az évek során nem csak az ember változik, hanem a világ is.	Y	során	148	   22,349	0.0443	237.5833	hun_news_2011_00102302
+742	Azt, hogy Kossuth ennek során hangsúlyozta: Mindent a nép számára és minden a nép által.	Y	során	148	   22,349	0.0443	291.6923	hun_news_2011_00228672
+743	Az MTI szerint az eset során senki sem sérült meg.	Y	során	148	   22,349	0.0443	324.1111	hun_news_2017_00372112
+744	Az elmúlt 15 év során soha nem volt olyan rossz a helyzet Szomáliában, mint most.	Y	során	148	   22,349	0.0443	391.7857	hun_news_2011_00480185
+745	A kérdés az, hogy az elmúlt 20 év során miért nem történt folyamatos ellenőrzés?	Y	során	148	   22,349	0.0443	434	hun_news_2011_00062315
+746	Van-e azonban annak valami oka, hogy erre végül is miért pont most került sor?	Y	erre	149	   22,338	0.0442	211.8	hun_news_2011_00887344
+747	Talán tíz éve még lett volna erre esély, nem tudom, de biztos vagyok benne, hogy most már nincs.	Y	erre	149	   22,338	0.0442	238.0556	hun_news_2017_00931848
+748	Csak nagy kérdés, hogy képesek lesznek-e erre, és hogy hogyan.	Y	erre	149	   22,338	0.0442	268.4	hun_news_2016_00444358
+749	Az viszont szomorú, hogy még csak most kerül erre sor.	Y	erre	149	   22,338	0.0442	276.7	hun_news_2011_00905094
+750	Erre végül nem került sor, de ki tudja, mit hoz még a jövõ.	Y	erre	149	   22,338	0.0442	289.6923	hun_news_2017_00521133
+751	Minden évben egyre több a munka és egyre kevesebb a pénz.	Y	egyre	150	   22,323	0.0442	235.5556	hun_news_2011_00455323
+752	Így azonban nem, hogy csökkent volna hiány, egyre csak nagyobb lett.	Y	egyre	150	   22,323	0.0442	271.8182	hun_news_2017_00649104
+753	Néha ez túl sok figyelem, de ahogy múlik az idõ, majd ez is egyre kevésbé lesz fontos.	Y	egyre	150	   22,323	0.0442	388.4375	hun_news_2016_00813619
+754	Sőt néha most is érzem, hogy az vagyok, de egyre kevésbé.	Y	egyre	150	   22,323	0.0442	402.2727	hun_news_2016_00906958
+755	Az elmúlt nyolc évben Magyarország fokozatosan és egyre nagyobb mértékben maradt el attól az (.	Y	egyre	150	   22,323	0.0442	406.1538	hun_news_2011_00381738
+756	Ez nem kis dolog, ha az a bizonyos másik fél 60 millió Ft-t tesz ki.	Y	kis	151	   22,289	0.0441	212.2667	hun_news_2011_00891106
+757	Azért tart itt ez az ország, mert egy kis apró..	Y	kis	151	   22,289	0.0441	255.9	hun_news_2017_00350974
+758	Tavaly egyszer már voltunk itt az 1,3-al, ugyan így a kis pályán két éve pedig a teljes pályán.	Y	kis	151	   22,289	0.0441	272.8125	hun_news_2017_00934733
+759	Van rajta egy kis plusz, és jól is áll neki!	Y	kis	151	   22,289	0.0441	300.7	hun_news_2016_00982618
+760	Bár valami olyan is ez, mint egy nagy család, egy kis faluban.	Y	kis	151	   22,289	0.0441	327.5455	hun_news_2017_00414937
+761	Azt már persze nem tudta, minél legyen nagyobb és minél legyen jobb!	Y	nagyobb	152	   22,286	0.0441	200	hun_news_2011_00325956
+762	Ebben az esetben sokkal nagyobb volt a baj, mint először.	Y	nagyobb	152	   22,286	0.0441	202.2	hun_news_2017_00462836
+763	Ez az érték 23,3 százalékkal nagyobb volt, mint egy évvel korábban.	Y	nagyobb	152	   22,286	0.0441	229.9	hun_news_2011_00500352
+764	Így azonban nem, hogy csökkent volna hiány, egyre csak nagyobb lett.	Y	nagyobb	152	   22,286	0.0441	271.8182	hun_news_2017_00649104
+765	Ami probléma, hogy itt nem arról van szó, hogy ki Egyház, ki nem. Ki kisebb, ki nagyobb.	Y	nagyobb	152	   22,286	0.0441	280.6667	hun_news_2017_00187050
+766	És persze az is jó, hogy az egész család itt lehet.	Y	egész	153	   22,062	0.0437	103.7	hun_news_2016_00531413
+767	De nem itt, hanem néhány évvel korábban indult az egész.	Y	egész	153	   22,062	0.0437	127.7	hun_news_2011_00308137
+768	Most már csak az a kérdés, mire volt jó ez az egész?	Y	egész	153	   22,062	0.0437	129.7273	hun_news_2011_00346118
+769	A kérdés már csak az, hogy mire jó ez az egész?	Y	egész	153	   22,062	0.0437	137.4	hun_news_2016_00113159
+770	De közben már azt is érzem, hogy ez az egész nem fontos.	Y	egész	153	   22,062	0.0437	192.5833	hun_news_2016_00456131
+771	A megyei tanács elnöke elmondta, öt év után végre dolgozni fog az egyesület.	Y	elmondta	154	   21,983	0.0435	308.4615	hun_news_2017_00173580
+772	Az intézmény igazgatója korábban elmondta, hogy ez április körül lehet majd.	Y	elmondta	154	   21,983	0.0435	316.1818	hun_news_2017_00365648
+773	Azt viszont elmondta, mi nem tetszik neki a mostani F1-ben.	Y	elmondta	154	   21,983	0.0435	378.3636	hun_news_2016_00401369
+774	Elmondta azt is, „most már lehetőség is van arra, hogy a jó munkaerőt meg tudjuk tartani.	Y	elmondta	154	   21,983	0.0435	433.8667	hun_news_2017_00496698
+775	A Táblabíróság elnöke azt is elmondta, hogy közülük az egyik ő lesz.	Y	elmondta	154	   21,983	0.0435	457.1667	hun_news_2011_00480164
+776	Persze akkor még más világ is volt, mások voltak a gyerekek is.	Y	voltak	155	   21,979	0.0435	189.8182	hun_news_2017_00868063
+777	Akkor és ott voltak igazi férfiak, amikor és ahol arra szükség volt.	Y	voltak	155	   21,979	0.0435	215.0909	hun_news_2011_00039327
+778	Még csak este 8 óra volt és voltak emberek az utcán.	Y	voltak	155	   21,979	0.0435	254.7	hun_news_2017_00748976
+779	Már harminc éve itt voltak, és még harminc év múlva is itt lesznek.	Y	voltak	155	   21,979	0.0435	289.8182	hun_news_2011_00621165
+780	És õk itt voltak, csak meg kellett volna õket tartani.	Y	voltak	155	   21,979	0.0435	341	hun_news_2017_00528010
+781	Ez még inkább igaz lehet azzal, hogy a Magyar Nemzeti.	Y	inkább	156	   21,628	0.0428	81.1	hun_news_2016_00556621
+782	Mostani áron legalább 500E,de inkább 700E forint az egész.	Y	inkább	156	   21,628	0.0428	272.6667	hun_news_2017_00795780
+783	Ám a nő már nem adott neki egy forintot sem, inkább feljelentést tett.	Y	inkább	156	   21,628	0.0428	307.6154	hun_news_2016_00169563
+784	A város vezetői azonban azt szeretnék, ha a jövőben ez még inkább így lenne.	Y	inkább	156	   21,628	0.0428	313.0769	hun_news_2011_00188081
+785	Van, amikor így jön ki, van, amikor úgy, mindenki jobban szereti, ha inkább így.	Y	inkább	156	   21,628	0.0428	316.4545	hun_news_2016_00980712
+786	Itt arról van szó, hogy nem csak az kell ami jár és amit kapott, hanem minden.	Y	kapott	157	   21,531	0.0426	82.9375	hun_news_2011_00696096
+787	Ez azt jelenti, hogy van, aki csak 2,8 millió forintot kapott 6 millió helyett.	Y	kapott	157	   21,531	0.0426	145.4545	hun_news_2017_00540112
+788	Az egyik csapat 25-öt, a másik pedig 17-et kapott a megyei II.	Y	kapott	157	   21,531	0.0426	245.8182	hun_news_2016_00332667
+789	A gond az, hogy kiderült, állami pénzt is kapott hozzá.	Y	kapott	157	   21,531	0.0426	274.1	hun_news_2017_00070281
+790	Biztos vagyok abban,hogy egyik szereplő sem kapott, a TV.	Y	kapott	157	   21,531	0.0426	293.9	hun_news_2011_00583056
+791	Ha ez tavaly történt, akkor azért a 11 év az nem néhány év.	Y	tavaly	158	   21,321	0.0422	62.5455	hun_news_2017_00600366
+792	Ön most azt mondta, hogy tavaly tíz százalék sem volt.	Y	tavaly	158	   21,321	0.0422	168.7	hun_news_2016_00851175
+793	Így persze azt sem tudtuk meg, hogy ez az összeg idén több vagy kevesebb volt-e, mint például tavaly.	Y	tavaly	158	   21,321	0.0422	226.3684	hun_news_2016_00656490
+794	Négy éve nem volt olyan alacsony a növekedés Magyarországon, mint tavaly.	Y	tavaly	158	   21,321	0.0422	248.2727	hun_news_2017_00810929
+795	Idén január és október között 76 531 gyermek született, ami fél százalékkal több, mint tavaly.	Y	tavaly	158	   21,321	0.0422	270.6923	hun_news_2016_00648516
+796	Ráadásul azok külföldiek, talán tovább tartanak, mint a hazai, még akkor is, ha ez utóbbi új.	Y	hazai	159	   21,195	0.042	327.875	hun_news_2011_00486148
+797	Hazai pályán is győzött a csapat Még nem érkezett hozzászólás.	Y	hazai	159	   21,195	0.042	373.8	hun_news_2011_00510610
+798	Természetesen a kiállítás és az első hazai gól után más lett a mérkőzés.	Y	hazai	159	   21,195	0.042	392.0833	hun_news_2017_00940476
+799	A miniszterelnök szerint a hazai gazdasági növekedés míg 2012-ben negatív volt, addig idén két százalék fölött lesz, miközben az államadósság is csökkent.	Y	hazai	159	   21,195	0.042	425.5714	hun_news_2016_00189364
+800	Erre most valóban sor került, az első körben azonban a cég számára hazai piacon jelent meg a készülék.	Y	hazai	159	   21,195	0.042	455.5294	hun_news_2016_00524096
+801	Pl. az elsõ az, hogy lesz ilyen, eddig nem volt.	Y	elsõ	160	   21,193	0.042	185.7778	hun_news_2017_00871758
+802	Sajnos, nem ez volt az elsõ eset, idén már két másik alkalommal is történt hasonló baleset.	Y	elsõ	160	   21,193	0.042	216.5	hun_news_2017_00891242
+803	Az alap nem csak ebben lett az elsõ, hanem a legnagyobb induló.	Y	elsõ	160	   21,193	0.042	327.1818	hun_news_2017_00309768
+804	Azért ilyen keveset, mert volt hat év, amikor a válogatott el sem indult (2006-ban és 2008–2012 között), azaz a mostani az elsõ olyan sorozat, ahol részt vett, de nem állt dobogóra a válogatott.	Y	elsõ	160	   21,193	0.042	383.6897	hun_news_2016_00354218
+805	A média ebbõl csak az elsõ és az utolsó pár napon volt jelen.	Y	elsõ	160	   21,193	0.042	405.9167	hun_news_2016_00174794
+806	Legalább is ebben az évben nem. Ez a legjobb német sorozat.	Y	ebben	161	   21,102	0.0418	202.1818	hun_news_2016_00722857
+807	Ebben az esetben sokkal nagyobb volt a baj, mint először.	Y	ebben	161	   21,102	0.0418	202.2	hun_news_2017_00462836
+808	De nem így történt, és ebben mi is benne voltunk - mondja Nagy.	Y	ebben	161	   21,102	0.0418	248.4167	hun_news_2016_00459110
+809	Magyarul,ami van ebben az évben,három év múlva már nem biztos.	Y	ebben	161	   21,102	0.0418	280.75	hun_news_2017_00733847
+810	Ahogy az asszony mondta: az idén már csak ebben a hónapban.	Y	ebben	161	   21,102	0.0418	286.7	hun_news_2011_00855122
+811	Ezek közül most egyik sincs meg a Fidesz elnöke szerint.	Y	közül	162	   21,080	0.0418	159.1	hun_news_2011_00384328
+812	Jézus tudta, hogy Ő is csak egy ember a sok közül.	Y	közül	162	   21,080	0.0418	301.6364	hun_news_2011_00954698
+813	Jézus tudta, hogy Õ is csak egy ember a sok közül.	Y	közül	162	   21,080	0.0418	337.4545	hun_news_2016_00674597
+814	Erre pedig a női csapatok közül csak nagyon kevés képes.	Y	közül	162	   21,080	0.0418	349.3	hun_news_2011_00786133
+815	Ám ez is csak egy meccs volt a sok közül, rengeteg munka vár még ránk.	Y	közül	162	   21,080	0.0418	365.2667	hun_news_2011_00291781
+816	Az állam ez, ki tudja, hol van és mit akar?	Y	mit	163	   21,026	0.0416	170.7	hun_news_2011_00182237
+817	Hogy ez jelent-e valamit, és ha igen, akkor mit, ma még nem tudjuk.	Y	mit	163	   21,026	0.0416	172.0714	hun_news_2011_00957555
+818	Azt es mondta, hogy mit, de ezt én így ki nem mondom.	Y	mit	163	   21,026	0.0416	191.8333	hun_news_2017_00392160
+819	Ez lett volna az igazi ki mit tud és mennyire!	Y	mit	163	   21,026	0.0416	197.4	hun_news_2011_00691296
+820	Egy dolog az, hogy valaki mit és más dolog hogy hogyan mondja.	Y	mit	163	   21,026	0.0416	208.2	hun_news_2011_00049365
+821	Nem biztos, hogy ez az út, de van valami, ami nagyon fontos.	Y	fontos	164	   20,864	0.0413	131.5833	hun_news_2017_00817488
+822	Ennek ellenére a cég ma is igen fontos az orosz állam számára.	Y	fontos	164	   20,864	0.0413	140.4167	hun_news_2017_00509913
+823	Néha fontos lehet, néha azonban nem. Van, amikor a kevesebb több.	Y	fontos	164	   20,864	0.0413	184.5	hun_news_2017_00811884
+824	Nem az a fontos, hol él az ember, hanem az, hogyan él.	Y	fontos	164	   20,864	0.0413	189.7778	hun_news_2011_00507794
+825	Nem az a fontos, hogy ki játszik, hanem az, hogyan.	Y	fontos	164	   20,864	0.0413	190.4444	hun_news_2016_00818377
+826	Ez még inkább igaz lehet azzal, hogy a Magyar Nemzeti.	Y	azzal	165	   20,815	0.0412	81.1	hun_news_2016_00556621
+827	Akkor most mi is a helyzet azzal az uniós joggal?..	Y	azzal	165	   20,815	0.0412	353.2	hun_news_2017_00123322
+828	Ha valaki szép, az nem azzal egyenlő hogy neki minden jár.	Y	azzal	165	   20,815	0.0412	409	hun_news_2011_00540755
+829	Soha nem azzal indulunk, hogy ő is, hanem csak én.	Y	azzal	165	   20,815	0.0412	445	hun_news_2011_00860581
+830	Volt, aki azt mondta, miért nem azzal foglakoztok, hogy milyen rossz az ide vezetõ út.	Y	azzal	165	   20,815	0.0412	450.9333	hun_news_2016_00995483
+831	Saját magát nem jelenti fel az ember csak, ha minden kiderült.	Y	magát	166	   20,784	0.0412	131.8182	hun_news_2016_00891458
+832	Amikor már ott van a közönség, akkor jól érzi magát.	Y	magát	166	   20,784	0.0412	276.9	hun_news_2017_00182921
+833	Még akkor is egyedül érzi magát, ha éppen kapcsolatban van.	Y	magát	166	   20,784	0.0412	287.5	hun_news_2016_00750125
+834	De éppen ezért nehéz is, mert adja magát a kérdés, hogy akkor mit lehet még fejleszteni.	Y	magát	166	   20,784	0.0412	375.1875	hun_news_2017_00449432
+835	Ha pedig ez idõ alatt be tudja dolgozni magát az ember, akkor nyert ügye van.	Y	magát	166	   20,784	0.0412	377.2	hun_news_2017_00610607
+836	Hogy korábban is képes lett volna-e rá, azt nem tudom, mert akkor nem voltam a csapat mellett.	Y	rá	167	   20,684	0.041	158.1176	hun_news_2016_00632139
+837	Nem, mert amikor szükség volt rá, ez a magyarság ismét jól döntött.	Y	rá	167	   20,684	0.041	229.75	hun_news_2011_00299323
+838	Ha pedig van rá idő, akkor ennél jóval többet is.	Y	rá	167	   20,684	0.041	259	hun_news_2011_00576593
+839	Ami nem az, azt vissza kell venni, vagy át kell gondolni, hogy szükség van-e rá - tette hozzá.	Y	rá	167	   20,684	0.041	281.4118	hun_news_2011_00056584
+840	Mert az már rég nem kérdés, hogy szükség van-e rá..	Y	rá	167	   20,684	0.041	284	hun_news_2016_00765504
+841	A kérdés csak az, hogy miért van így több mint 50 éve..	Y	éve	168	   20,610	0.0408	79.3636	hun_news_2016_00113016
+842	Egy dollár ma 286 forint, míg két éve még 222 forint volt.	Y	éve	168	   20,610	0.0408	157.2222	hun_news_2016_00474029
+843	Talán tíz éve még lett volna erre esély, nem tudom, de biztos vagyok benne, hogy most már nincs.	Y	éve	168	   20,610	0.0408	238.0556	hun_news_2017_00931848
+844	Négy éve nem volt olyan alacsony a növekedés Magyarországon, mint tavaly.	Y	éve	168	   20,610	0.0408	248.2727	hun_news_2017_00810929
+845	Tavaly egyszer már voltunk itt az 1,3-al, ugyan így a kis pályán két éve pedig a teljes pályán.	Y	éve	168	   20,610	0.0408	272.8125	hun_news_2017_00934733
+846	Orbán arról is beszélt: Magyarországon elsősorban politikai, és nem gazdasági válság van.	Y	politikai	169	   20,323	0.0403	228.25	hun_news_2011_00225651
+847	Budapesten, de általában az egész országban ez nem rendőr-szakmai, hanem politikai kérdés.	Y	politikai	169	   20,323	0.0403	322.6923	hun_news_2017_00428327
+848	Azonban sem az elnök, sem a két nagy politikai párt nem jött ki jól ebből a szituációból.	Y	politikai	169	   20,323	0.0403	392.8	hun_news_2017_00378113
+849	A nagy kérdés csak az, vajon politikai vagy családi gyilkosság történt?	Y	politikai	169	   20,323	0.0403	420	hun_news_2011_00029472
+850	Én magam egyet nem értek: Miért olyan ez, mint a politikai viták: vagy az egyik vagy a másik?	Y	politikai	169	   20,323	0.0403	463.8125	hun_news_2011_00656655
+851	A kérdés csak az, hogy miért van így több mint 50 éve..	Y	miért	170	   20,221	0.0401	79.3636	hun_news_2016_00113016
+852	Az első kérdés persze ezzel kapcsolatban, hogy miért nem tette meg ezt eddig.	Y	miért	170	   20,221	0.0401	131.4615	hun_news_2016_00345136
+853	Azt azonban senki nem mondta, hogy miért jó ez nekünk.	Y	miért	170	   20,221	0.0401	143.3	hun_news_2011_00037891
+854	Van-e azonban annak valami oka, hogy erre végül is miért pont most került sor?	Y	miért	170	   20,221	0.0401	211.8	hun_news_2011_00887344
+855	Azt meg nem is értem, hogy ez semmi cikk most hogy jön ide és miért?	Y	miért	170	   20,221	0.0401	232.4286	hun_news_2017_00394389
+856	Hogy a gyanú mi alapján született meg, még nem közölte a rendõrség.	Y	közölte	171	   20,046	0.0397	397.0909	hun_news_2017_00626733
+857	Varga Mihály közölte, hogy várhatóan idén is 7 milliárd euró körül lesz..	Y	közölte	171	   20,046	0.0397	413.1818	hun_news_2016_00983311
+858	A cikk a hirdetés után folytatódik Varga közölte, hogy a 2013.	Y	közölte	171	   20,046	0.0397	427.25	hun_news_2016_00036202
+859	Hogy hol és mikor készült a fotó, ezúttal sem közölte az észak-koreai állami hírügynökség.	Y	közölte	171	   20,046	0.0397	458.2	hun_news_2016_00631844
+860	Mint közölte, 2007 rendkívül súlyos esztendő lesz a lakosság számára, és 2008 is.	Y	közölte	171	   20,046	0.0397	476.6364	hun_news_2011_00348360
+861	Orbán arról is beszélt: Magyarországon elsősorban politikai, és nem gazdasági válság van.	Y	gazdasági	172	   19,765	0.0391	228.25	hun_news_2011_00225651
+862	Három helyett öt százalék a cél A miniszterelnök szerint jó a 3 százalékos gazdasági növekedés, de ezzel nem lehet..	Y	gazdasági	172	   19,765	0.0391	250.4375	hun_news_2016_00616395
+863	Pedig szerinte 2008-ig semmilyen nemzetközi gazdasági oka nem volt ennek.	Y	gazdasági	172	   19,765	0.0391	325.4	hun_news_2011_00760484
+864	Az Európai Bizottság szerint itthon idén 5,2 százalékos gazdasági növekedés várható.	Y	gazdasági	172	   19,765	0.0391	369.9	hun_news_2016_00358637
+865	Utóbbi már volt gazdasági miniszter a 90-es évek végén és négy éve is indult a jelöltségért.	Y	gazdasági	172	   19,765	0.0391	416.3333	hun_news_2017_00973210
+866	Hiszen ha neki sikerült, akkor más előtt is ott a lehetőség.	Y	sikerült	173	   19,694	0.039	159.7273	hun_news_2016_00629056
+867	Hogyan lenne ez lehetséges most, ha az elmúlt húsz évben nem sikerült?	Y	sikerült	173	   19,694	0.039	220.1667	hun_news_2016_00630785
+868	Ami az Eb-n sikerült, az az NB I-ben miért nem?	Y	sikerült	173	   19,694	0.039	253.1	hun_news_2017_00179230
+869	Ez alatt a néhány nap alatt ez úgy érzem, sikerült.	Y	sikerült	173	   19,694	0.039	282.875	hun_news_2011_00339676
+870	Mégis sikerült, most már viszont ebben a helyzetben, állapotban nincs tovább.	Y	sikerült	173	   19,694	0.039	304.2727	hun_news_2017_00752646
+871	Nálunk ez egy év, két év, öt év is lehet.	Y	öt	174	   19,645	0.0389	143	hun_news_2016_00809649
+872	Hét évvel ezelőtt még csak 79, öt évvel ezelőtt már 112 milliárd volt.	Y	öt	174	   19,645	0.0389	160.8889	hun_news_2011_00785326
+873	Vagy: ha ez így folytatódik, mi lesz öt év múlva?	Y	öt	174	   19,645	0.0389	188.9	hun_news_2011_00968013
+874	Az egyik csapat 25-öt, a másik pedig 17-et kapott a megyei II.	Y	öt	174	   19,645	0.0389	245.8182	hun_news_2016_00332667
+875	Három helyett öt százalék a cél A miniszterelnök szerint jó a 3 százalékos gazdasági növekedés, de ezzel nem lehet..	Y	öt	174	   19,645	0.0389	250.4375	hun_news_2016_00616395
+876	Ha ez tavaly történt, akkor azért a 11 év az nem néhány év.	Y	történt	175	   19,624	0.0389	62.5455	hun_news_2017_00600366
+877	Ez azt jelenti, hogy sok minden történt az elmúlt négy évben.	Y	történt	175	   19,624	0.0389	122.2727	hun_news_2011_00212591
+878	Sok oka van annak, hogy így történt az, ami történt.	Y	történt	175	   19,624	0.0389	142.6667	hun_news_2016_00904321
+879	Azért történt így, mert az emberek nagy része azt se tudta, hogy van ez a film.	Y	történt	175	   19,624	0.0389	154.125	hun_news_2016_00354815
+880	De azt, hogy mi történt pontosan, még senki sem tudja.	Y	történt	175	   19,624	0.0389	154.2	hun_news_2011_00828701
+881	Adott tehát az újabb lehetőség a sport számára, csak élni kell vele.	Y	adott	176	   19,621	0.0389	297.25	hun_news_2016_00048820
+882	Ám a nő már nem adott neki egy forintot sem, inkább feljelentést tett.	Y	adott	176	   19,621	0.0389	307.6154	hun_news_2016_00169563
+883	Ebben az esetben adott egy nagyobb és egy kisebb kör.	Y	adott	176	   19,621	0.0389	356.7778	hun_news_2017_00462676
+884	A férfi két alkalommal több mint százezer forintot adott át nekik.	Y	adott	176	   19,621	0.0389	367.9091	hun_news_2016_00059191
+885	A lehetõség most is adott lenne erre -írja a lap.	Y	adott	176	   19,621	0.0389	436	hun_news_2016_00154951
+886	Az egyik hét végén – majd ezt követően még hétfőn és kedden is..	Y	hét	177	   19,610	0.0388	160.3333	hun_news_2017_00329077
+887	Hét évvel ezelőtt még csak 79, öt évvel ezelőtt már 112 milliárd volt.	Y	hét	177	   19,610	0.0388	160.8889	hun_news_2011_00785326
+888	Ennek már hét éve, és a hölgy azóta is él és jól van.	Y	hét	177	   19,610	0.0388	300.5833	hun_news_2017_00512126
+889	Mondom, nekem úgy megy le egy hét, hogy minden este van sport.	Y	hét	177	   19,610	0.0388	336.4167	hun_news_2017_00794701
+890	Még két 10 éves büntetés volt, egy nyolc éves, egy hét és egy hat éves.	Y	hét	177	   19,610	0.0388	338.2	hun_news_2017_00754236
+891	És ha utána csak két évvel jön vissza ismét, akkor is.	Y	vissza	178	   19,601	0.0388	195.1818	hun_news_2016_00529101
+892	Ami nem az, azt vissza kell venni, vagy át kell gondolni, hogy szükség van-e rá - tette hozzá.	Y	vissza	178	   19,601	0.0388	281.4118	hun_news_2011_00056584
+893	Az más kérdés,hogy rendben volt-e a pályázat,mert ha nem akkor vissza az egész.	Y	vissza	178	   19,601	0.0388	284.6667	hun_news_2011_00184693
+894	Ezért járnak ide vissza az emberek, többek között mi is.	Y	vissza	178	   19,601	0.0388	295.6	hun_news_2011_00898192
+895	El is állt az eső, de még senki sem ment vissza a pályára.	Y	vissza	178	   19,601	0.0388	301	hun_news_2016_00497804
+896	Magyarország teljesen más 2016-ban, mint akár 1990-ben, akár 1956-ban volt.	Y	magyarország	179	   19,577	0.0388	110	hun_news_2016_00736277
+897	Ez pedig most már Magyarország számára is igen jó hír.	Y	magyarország	179	   19,577	0.0388	159.6	hun_news_2017_00555705
+898	Magyarország és a magyar emberek, az országos és a helyi hírek.	Y	magyarország	179	   19,577	0.0388	198.8889	hun_news_2016_00734592
+899	Mint mondta: a jelenlegi kormány az elmúlt fél évben mindent elkövetett, hogy Magyarország Európa része legyen.	Y	magyarország	179	   19,577	0.0388	241	hun_news_2011_00299302
+900	A 2009-es év Szlovákia és Magyarország számára is nehéz lesz.	Y	magyarország	179	   19,577	0.0388	323.1	hun_news_2016_00008583
+901	Még azok is, akik azt mondják, hogy nem így van, még azok is ezt teszik.	Y	azok	180	   19,416	0.0385	247.25	hun_news_2017_00748573
+902	Ráadásul azok külföldiek, talán tovább tartanak, mint a hazai, még akkor is, ha ez utóbbi új.	Y	azok	180	   19,416	0.0385	327.875	hun_news_2011_00486148
+903	Hogy azok után pedig mi lesz, azt még egyelőre nem tudni, most csak erre koncentrálunk.	Y	azok	180	   19,416	0.0385	359.7333	hun_news_2011_00058598
+904	Amíg élnek azok, akik részt vettek benne, addig ezt meg kell tenni.	Y	azok	180	   19,416	0.0385	365.5833	hun_news_2011_00256442
+905	És már az is jó, hogy azok veszik át, akik valóban kapták.	Y	azok	180	   19,416	0.0385	402.8333	hun_news_2017_00526658
+906	Persze akkor még más világ is volt, mások voltak a gyerekek is.	Y	világ	181	   19,301	0.0382	189.8182	hun_news_2017_00868063
+907	A világ, és ezen belül Európa is, valóban „történelmi helyzet előtt áll”.	Y	világ	181	   19,301	0.0382	221.8333	hun_news_2017_00298353
+908	Ám az évek során nem csak az ember változik, hanem a világ is.	Y	világ	181	   19,301	0.0382	237.5833	hun_news_2011_00102302
+909	Te, én és a világ: ez csak kettő, mert te és én egy vagyunk, ha szabad..	Y	világ	181	   19,301	0.0382	271.9231	hun_news_2016_00937045
+910	A másik oldal mintha egy másik világ lenne – és az is.	Y	világ	181	   19,301	0.0382	276.2	hun_news_2016_00171394
+911	Amíg élnek azok, akik részt vettek benne, addig ezt meg kell tenni.	Y	részt	182	   19,215	0.0381	365.5833	hun_news_2011_00256442
+912	Átlagosan 6000 ember vesz részt benne, de minden évben legalább 3000 tagja volt.	Y	részt	182	   19,215	0.0381	368.1818	hun_news_2011_00841284
+913	Az Eb-n a négy évvel korábbi 16 csapat helyett már 24 vehet részt, de mi volt a helyzet 1972-ben?	Y	részt	182	   19,215	0.0381	371	hun_news_2017_00323904
+914	Azért ilyen keveset, mert volt hat év, amikor a válogatott el sem indult (2006-ban és 2008–2012 között), azaz a mostani az elsõ olyan sorozat, ahol részt vett, de nem állt dobogóra a válogatott.	Y	részt	182	   19,215	0.0381	383.6897	hun_news_2016_00354218
+915	Cikk megjelenítése: 1224Olvasóink értékelése: De jó lenne részt venni rajta..	Y	részt	182	   19,215	0.0381	401.1	hun_news_2016_00437423
+916	A román és a magyar válogatott is pályára lépett tegnap este.	Y	román	183	   19,196	0.038	281.3	hun_news_2011_00811172
+917	Ez több, mint a szlovák 0,4 százalék, vagy a lengyel 0,5 százalék, de kevesebb, mint a cseh 1,6 százalék vagy a román 1,7 százalék.	Y	román	183	   19,196	0.038	318.75	hun_news_2016_00564228
+918	Ezek szerint az a 3,5 millió erdélyi román valamikor magyar volt..	Y	román	183	   19,196	0.038	372.3	hun_news_2016_00548594
+919	Így írja elő a törvény – jelentette ki a Román Kulturális Intézet elnöke.	Y	román	183	   19,196	0.038	372.4545	hun_news_2016_00654778
+920	Akkor most mégis jobb lenne, ha a román kormány vezetné az országot vagy hogy?	Y	román	183	   19,196	0.038	432.2857	hun_news_2016_00127045
+921	Most se lenne rossz, de azért ez már nem helyi, és nem Pécsi.	Y	helyi	184	   19,177	0.038	131.3333	hun_news_2011_00082713
+922	Magyarország és a magyar emberek, az országos és a helyi hírek.	Y	helyi	184	   19,177	0.038	198.8889	hun_news_2016_00734592
+923	De más szempontból is fontos, hogy a Helyi Tanács támogatja őket.	Y	helyi	184	   19,177	0.038	321.9091	hun_news_2011_00844950
+924	1990-től a helyi tanács tagja, 1994-től pedig az RMDSZ elnöke.	Y	helyi	184	   19,177	0.038	327.5556	hun_news_2011_00160375
+925	Most éppen ezek szerint jár el a helyi választási iroda és a polgármester.	Y	helyi	184	   19,177	0.038	333.1667	hun_news_2011_00821885
+926	Már csak azért sem, mert lehet, hogy sokan éppen ezt szeretnék.	Y	éppen	185	   18,987	0.0376	145.0909	hun_news_2011_00744359
+927	Az összes többi ország is kap pénzt, csak éppen az összes többi ország a 2007(!	Y	éppen	185	   18,987	0.0376	232.5	hun_news_2016_00389553
+928	És szerintem olyan sincs, ahol annyi változás történt volna egy év alatt, mint éppen itt.	Y	éppen	185	   18,987	0.0376	272.3333	hun_news_2011_00236646
+929	Még akkor is egyedül érzi magát, ha éppen kapcsolatban van.	Y	éppen	185	   18,987	0.0376	287.5	hun_news_2016_00750125
+930	És persze a megfelelő időben éppen a megfelelő helyen kell lenni.	Y	éppen	185	   18,987	0.0376	290.2222	hun_news_2017_00528194
+931	Még mondja valaki, hogy van valami új is a Nap alatt.	Y	nap	186	   18,971	0.0376	153.0909	hun_news_2011_00749091
+932	Így pedig minden nap arról kell már olvasni hogy a forint így meg úgy..	Y	nap	186	   18,971	0.0376	167.4615	hun_news_2017_00651975
+933	És mi lesz, ha véget ér ez a néhány nap?	Y	nap	186	   18,971	0.0376	234.2	hun_news_2011_00830891
+934	A nap nem lehet sem túl kicsi, sem túl nagy.	Y	nap	186	   18,971	0.0376	254.375	hun_news_2017_00197557
+935	Ez alatt a néhány nap alatt ez úgy érzem, sikerült.	Y	nap	186	   18,971	0.0376	282.875	hun_news_2011_00339676
+936	Legalább is ebben az évben nem. Ez a legjobb német sorozat.	Y	német	187	   18,945	0.0375	202.1818	hun_news_2016_00722857
+937	” Ám nemcsak az orosz nép nem tette ezt, a német sem.	Y	német	187	   18,945	0.0375	214.2727	hun_news_2011_00710589
+938	Ha valaki német svájci, az legyen német svájci, ha francia, francia, ha olasz, olasz.	Y	német	187	   18,945	0.0375	314.75	hun_news_2011_00896532
+939	Pedig a német sajtó szerint a német kormány - 4,6-5 millió eurót (1,1 milliárd forint) fizetett.	Y	német	187	   18,945	0.0375	427.6364	hun_news_2011_00238447
+940	A normális pedig az lenne, hogy mindenki ott éljen, ahol otthon van, akár magyar vagy német, akár osztrák vagy izraeli legyen is.	Y	német	187	   18,945	0.0375	448.25	hun_news_2017_00208066
+941	Ez az a pont, amikor azt kell mondani: nem lehet tovább!	Y	tovább	188	   18,654	0.0369	169.5455	hun_news_2017_00537947
+942	De arra nem lehet számítani, hogy tovább is így lesz.	Y	tovább	188	   18,654	0.0369	203	hun_news_2011_00479796
+943	Egyszer csak azt mondta az SZDSZ, eddig és nem tovább.	Y	tovább	188	   18,654	0.0369	222.2	hun_news_2017_00484145
+944	Utána viszont már meg kell mondani, hogy nincs tovább, de a hogyan nem mindegy.	Y	tovább	188	   18,654	0.0369	298.7857	hun_news_2011_00020119
+945	Mégis sikerült, most már viszont ebben a helyzetben, állapotban nincs tovább.	Y	tovább	188	   18,654	0.0369	304.2727	hun_news_2017_00752646
+946	A hír pedig azért hamis, mert nem ez volt az utolsó.	Y	utolsó	189	   18,630	0.0369	275.1818	hun_news_2016_00092113
+947	Az ország több szempontból is az utolsó helyen áll Európában.	Y	utolsó	189	   18,630	0.0369	286.8889	hun_news_2016_00387405
+948	Ez azért is szomorú, mert Európában ő volt az utolsó.	Y	utolsó	189	   18,630	0.0369	292.6	hun_news_2016_00541574
+949	Úgy tűnik, hogy a kormány az utolsó ülésén ez ügyben nem döntött.	Y	utolsó	189	   18,630	0.0369	341.75	hun_news_2011_00062972
+950	Másrészt az sem utolsó dolog, ha azt érzi, hogy szükség van rá.	Y	utolsó	189	   18,630	0.0369	349.4167	hun_news_2011_00496676
+951	Hozzátette, a magyar csapat is van olyan jó, mint az osztrák.	Y	csapat	190	   18,442	0.0365	138	hun_news_2017_00639018
+952	Hogy korábban is képes lett volna-e rá, azt nem tudom, mert akkor nem voltam a csapat mellett.	Y	csapat	190	   18,442	0.0365	158.1176	hun_news_2016_00632139
+953	A többi országban is azért van így, ahol nincs olyan sok fővárosi csapat.	Y	csapat	190	   18,442	0.0365	208.6154	hun_news_2011_00100591
+954	Az egyik csapat 25-öt, a másik pedig 17-et kapott a megyei II.	Y	csapat	190	   18,442	0.0365	245.8182	hun_news_2016_00332667
+955	Én is teljesen más vagyok, a csapat is teljesen más, nagyon boldog vagyok.	Y	csapat	190	   18,442	0.0365	266.1111	hun_news_2016_00511993
+956	Ez egy svájci, aztán kiderült, hogy magyar ember volt, de hivatalosan svájci ember volt.	Y	aztán	191	   18,389	0.0364	275.6364	hun_news_2011_00665949
+957	Első 6 hónap 45e Ft, aztán 54e Ft, most 74e Ft, 25 évre 21M Ft.	Y	aztán	191	   18,389	0.0364	311.125	hun_news_2011_00037066
+958	Nem gondoltam volna, hogy aztán a film ilyen jó lesz.	Y	aztán	191	   18,389	0.0364	322	hun_news_2016_00823330
+959	Meg aztán - szerinte - nem is biztos, hogy a jó Rákóczi volt.	Y	aztán	191	   18,389	0.0364	333.1818	hun_news_2011_00795622
+960	Hamarosan jön a Viktor TV, aztán meg majd jön a I. Viktor (király) TV.	Y	aztán	191	   18,389	0.0364	360.7	hun_news_2011_00804334
+961	Az egyik mintegy 1 milliárd éve, a másik pedig nagyjából 100 millió évvel ezelõtt.	Y	mintegy	192	   18,222	0.0361	323.4167	hun_news_2016_00333679
+962	Az ehhez szükséges mintegy 4,5 milliárd forintot a kormány biztosítja majd.	Y	mintegy	192	   18,222	0.0361	388.6	hun_news_2017_00331696
+963	Ez mintegy húsz százalékkal több, mint egy átlagos hétvégén - hangsúlyozta.	Y	mintegy	192	   18,222	0.0361	392.2	hun_news_2011_00503072
+964	Ez az összeg mintegy 28 százalékkal, 130 milliárd forinttal lesz magasabb, mint az előző évi.	Y	mintegy	192	   18,222	0.0361	416.6667	hun_news_2011_00806073
+965	Ez azt is jelenti, hogy 2015-ig mintegy 400 ezer új munkahely jön létre az országban.	Y	mintegy	192	   18,222	0.0361	422.3571	hun_news_2011_00835837
+966	Sőt talán több, mint a spanyol és az olasz jelenleg.	Y	jelenleg	193	   18,206	0.0361	196.4	hun_news_2011_00963889
+967	Egy jobb csapat van Európában( a világon) jelenleg,ezt be kell látni.	Y	jelenleg	193	   18,206	0.0361	316.1667	hun_news_2011_00774257
+968	Jelenleg nem az a fontos, hogy ki milyen futballista, hanem hogy ki milyen ember.	Y	jelenleg	193	   18,206	0.0361	328.1818	hun_news_2016_00672882
+969	A jelenleg rendelkezésre álló adatok szerint egy férfi és egy nő 2017.	Y	jelenleg	193	   18,206	0.0361	341.5	hun_news_2017_00098873
+970	Jelenleg ez 0 és 1 százalék közötti, ami 2000-ben még valamivel 4 százalék felett volt.	Y	jelenleg	193	   18,206	0.0361	375.4545	hun_news_2017_00668604
+971	Azért történt így, mert az emberek nagy része azt se tudta, hogy van ez a film.	Y	emberek	194	   18,160	0.036	154.125	hun_news_2016_00354815
+972	Magyarország és a magyar emberek, az országos és a helyi hírek.	Y	emberek	194	   18,160	0.036	198.8889	hun_news_2016_00734592
+973	Nem szükséges, de ha az emberek úgy akarják, akkor lesz.	Y	emberek	194	   18,160	0.036	204.6	hun_news_2017_00829094
+974	Az emberek egy része ezen már régen túl van, - én is.	Y	emberek	194	   18,160	0.036	238.8182	hun_news_2011_00971258
+975	Még csak este 8 óra volt és voltak emberek az utcán.	Y	emberek	194	   18,160	0.036	254.7	hun_news_2017_00748976
+976	A párt szóvivője ugyanakkor nem tud arról, hogy indult volna eljárás a politikus ellen.	Y	ugyanakkor	195	   18,097	0.0358	336	hun_news_2016_00219723
+977	Ez valóban siker, ugyanakkor problémát jelent az, hogy a gazdaság továbbra is rossz állapotban van.	Y	ugyanakkor	195	   18,097	0.0358	431	hun_news_2016_00567221
+978	Úgy véli ugyanakkor, hogy Románia és az Egyesült Államok kapcsolata továbbra is nagyon jó lesz.	Y	ugyanakkor	195	   18,097	0.0358	432.4	hun_news_2016_00966742
+979	Ugyanakkor, amennyiben az MSZP és az SZDSZ úgy akarja, még most sem lehet teljesen kizárni, hogy 2010-ig ő marad a miniszterelnök.	Y	ugyanakkor	195	   18,097	0.0358	455.2	hun_news_2011_00791937
+980	Ugyanakkor több uniós példa is van arra, hogy rendezni lehet ezt a helyzetet.	Y	ugyanakkor	195	   18,097	0.0358	466.8462	hun_news_2011_00068008
+981	Azt meg nem is értem, hogy ez semmi cikk most hogy jön ide és miért?	Y	ide	196	   18,086	0.0358	232.4286	hun_news_2017_00394389
+982	Hozzáadom a könyvjelzõhözKüldd ide: Delicious Csak még egy e-mail..	Y	ide	196	   18,086	0.0358	234.7	hun_news_2016_00637927
+983	De ilyen az élet… Hozzáadom a könyvjelzõhözKüldd ide: Delicious Figyelem!	Y	ide	196	   18,086	0.0358	240.3	hun_news_2016_00455734
+984	Ezért járnak ide vissza az emberek, többek között mi is.	Y	ide	196	   18,086	0.0358	295.6	hun_news_2011_00898192
+985	Hozzáadom a könyvjelzõhözKüldd ide: Delicious Elhunyt a Magyar Nemzeti Bank korábbi elnöke Figyelem!	Y	ide	196	   18,086	0.0358	298.25	hun_news_2017_00634633
+986	Hiszen ha neki sikerült, akkor más előtt is ott a lehetőség.	Y	neki	197	   18,066	0.0358	159.7273	hun_news_2016_00629056
+987	De egyelőre az elég is volt: nekünk is, neki is.	Y	neki	197	   18,066	0.0358	209.25	hun_news_2011_00690656
+988	De a legszebb, hogy neki még ez is jól áll.	Y	neki	197	   18,066	0.0358	241.7	hun_news_2016_00451460
+989	Nem látott más lehetőséget, s 95%, hogy nem is volt neki.	Y	neki	197	   18,066	0.0358	270.3333	hun_news_2011_00231325
+990	Lehet nem a legszebb férfi, de nagyon sok évig jó volt neki.	Y	neki	197	   18,066	0.0358	272	hun_news_2011_00267391
+991	László, ezt követően Kérjük jelentkezzen be, hogy a teljes cikket olvashassa Már van előfizetésem vagy korábban regisztráltam!	Y	lászló	198	   18,036	0.0357	436.4706	hun_news_2017_00717205
+992	Akkor nem az volt a kérdés, hogy elég jó-e az oktatás, hanem az, hogy egyáltalán lesz-e még oktatás - írta Pósán László.	Y	lászló	198	   18,036	0.0357	445.3333	hun_news_2016_00127093
+993	Kovács László azonban az MTI-nek elmondta, hogy erre mégsem kerül sor az olasz fővárosban.	Y	lászló	198	   18,036	0.0357	463.7143	hun_news_2011_00756964
+994	Ön, meg ön, meg ön, meg Tőkés László, és még nagyon nagyon sokan.	Y	lászló	198	   18,036	0.0357	471.375	hun_news_2017_00849265
+995	Csaba László: a kormányzat érzi, nem lesz hosszú az élete Ha már október, legyen 23-a!	Y	lászló	198	   18,036	0.0357	474.5	hun_news_2011_00748597
+996	Ha ez igaz és tudott erről, akkor miért nem lépett fel velük szemben?	Y	szemben	199	   17,919	0.0355	276.5385	hun_news_2017_00600118
+997	Ezzel szemben a tény az, hogy ez bizony nincs így.	Y	szemben	199	   17,919	0.0355	303	hun_news_2011_00630306
+998	Bár lehet, hogy mások számára ezzel szemben minden perc drága.	Y	szemben	199	   17,919	0.0355	303.4	hun_news_2011_00568577
+999	Az euró több, mint egy éve nem volt ilyen gyenge a dollárral szemben.	Y	szemben	199	   17,919	0.0355	405.7692	hun_news_2016_00359788
+1000	Ezzel szemben az idei esztendő úgy kezdődik: ha lesz, akkor nem lesz, és ha nem lesz, akkor lesz.	Y	szemben	199	   17,919	0.0355	415.5	hun_news_2016_00570416
