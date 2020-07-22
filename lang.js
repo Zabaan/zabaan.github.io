@@ -48,8 +48,13 @@ function load_corpus(lang) {
       if(tt.length <= 3) return;
       a = tt[1];
       b = tt[3];
-      if(a.includes(b)) a = a.replace(b, "<b id='select'>" + b + "</b>");
-      else {b = b.substr(0,1).toUpperCase() + b.substr(1);a = a.replace(b, "<b id='select'>" + b + "</b>");}
+      d = b.substr(0,1).toUpperCase() + b.substr(1);
+      re1 = new RegExp('(?<!\\w+)' + b + '(?!\\w+)','g');
+      re2 = new RegExp('(?<!\\w+)' + d + '(?!\\w+)','g');
+      a = a.replace(re1, "<b id='select'>" + b + "</b>");
+      a = a.replace(re2, "<b id='select'>" + d + "</b>");
+      // else
+      // {a = a.replace(re, "<b id='select'>" + b + "</b>");}
       this.mydata.push(a);
     });
     $('#sentence').html(mydata[cnt]);
