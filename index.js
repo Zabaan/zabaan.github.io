@@ -1,5 +1,6 @@
 $.get('scripts/languages.csv', function(data) {
   data.split("\n").forEach(function(l){
+    if(l == "") return;
     $('#main_div')
     .append('<li class="list-group-item" onclick="langclicked(\''+l.trim()+'\')"><h3>'
               + l.split('\t')[2].trim() + '</h3></li>')
