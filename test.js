@@ -57,11 +57,11 @@ function load_corpus(lang) {
       for(var i=0;i<b.length;i++) c += "-";
       c +="' autofocus id='editor' style='width:" + b.length +"ch' ";
       c += "myval=\"" + b + "\" ";
-      c += "onkeyup='oneditorchange(\"" + b+ "\")'></input>";
+      c += "onkeyup='oneditorchange(\"" + b+ "\")' hint='1'></input>";
 
       d +="' autofocus id='editor' style='width:" + e.length +"ch' ";
       d += "myval=\"" + e + "\" ";
-      d += "onkeyup='oneditorchange(\"" + e + "\")'></input>";
+      d += "onkeyup='oneditorchange(\"" + e + "\")' hint='1'></input>";
 
       re1 = new RegExp('(?<=[.,\/#!$%\^&\*;:\{\}=-_`~() ]|^]|^)' + b + '(?=[.,\/#!$%\^&\*;:\{\}=-_`~() ]|^]|$)','g');
       re2 = new RegExp('(?<=[.,\/#!$%\^&\*;:\{\}=-_`~() ]|^]|^)' + e + '(?=[.,\/#!$%\^&\*;:\{\}=-_`~() ]|^]|$)','g');
@@ -95,7 +95,9 @@ function previousSentence() {
 function hint() {
   t = $('#editor').val();
   val = $('#editor').attr('myval');
-  $('#editor').val(val);
+  hintval = parseInt($('#editor').attr('hint'));
+  if(hintval <= val.length) $('#editor').val(val.substr(0,hintval));
+  $('#editor').attr('hint', (hintval+1)+"");
  //  if(t == m)  {
  //  $('#editor').css('color','green');
  //  $("#editor").attr('disabled','disabled');
@@ -126,9 +128,10 @@ load_corpus();
 document.addEventListener('keydown', function(event) {
     if (event.keyCode == 37) {
         previousSentence();
-    }
-    else if (event.keyCode == 39) {
+    } else if (event.keyCode == 39) {
         nextSentence();
+    } else if(event.keyCode == 38) {
+      hint();
     }
 }, true);
 
@@ -189,4 +192,9 @@ function oneditorchange(m) {
 }
   // if(t.length > 3 && t.includes('-')) t.replace('-',' ');
   // if(t.length < 3 )
+}
+
+function info() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
 }
