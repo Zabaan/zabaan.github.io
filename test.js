@@ -48,16 +48,27 @@ function load_corpus(lang) {
       if(tt.length <= 3) return;
       a = tt[1];
       b = tt[3];
-
+      e = b.substr(0,1).toUpperCase() + b.substr(1);
       if(!a.includes(b)) b = b.substr(0,1).toUpperCase() + b.substr(1);
       // c = "<span id='editor' contenteditable='true' style='text-decoration: underline;' myval='" + b
       // + "'>---</span>";
       c = "<input placeholder='";
+      d = "<input placeholder='";
       for(var i=0;i<b.length;i++) c += "-";
       c +="' autofocus id='editor' style='width:" + b.length +"ch' ";
       c += "myval=\"" + b + "\" ";
       c += "onkeyup='oneditorchange(\"" + b+ "\")'></input>";
-      a = a.replace(b, c);
+
+      d +="' autofocus id='editor' style='width:" + e.length +"ch' ";
+      d += "myval=\"" + e + "\" ";
+      d += "onkeyup='oneditorchange(\"" + e + "\")'></input>";
+
+      re1 = new RegExp('(?<=[.,\/#!$%\^&\*;:\{\}=-_`~() ]|^]|^)' + b + '(?=[.,\/#!$%\^&\*;:\{\}=-_`~() ]|^]|$)','g');
+      re2 = new RegExp('(?<=[.,\/#!$%\^&\*;:\{\}=-_`~() ]|^]|^)' + e + '(?=[.,\/#!$%\^&\*;:\{\}=-_`~() ]|^]|$)','g');
+      a = a.replace(re1, c);
+      a = a.replace(re2, d);
+
+
       this.mydata.push(a);
     });
     $('#sentence').html(mydata[cnt]);
