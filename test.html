@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src='https://kit.fontawesome.com/a076d05399.js'></script>
 </head>
 <body>
 
@@ -24,6 +25,8 @@
           <select onchange="SelectLevel()" id="SelectLevel" style="margin: 1%;"></select>
           <label for='SelectSentence'>Sentence:</label>
           <select onchange="SelectSentence()" id="SelectSentence" style="margin: 1%;"></select>
+
+          <!-- <i class='fas fa-info-circle popuptext' style='font-size:24px' id="mypopup" onclick="info()"></i> -->
         </div>
       </div>
   </div>
@@ -40,7 +43,21 @@
     <div class="col-sm-12">
       <p align="center" id="sentence">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
     </div>
-    <div align="center">@ zabaan.github.io</div>
+    <div align="center">@ zabaan.github.io
+    <div class="popup" onclick="info()">
+      <i class='fas fa-info-circle' style='font-size:24px'></i>
+        <span class="popuptext" id="myPopup">
+          Keyboard shortcuts:
+          <ol>
+            <li>Right arrow: next sentence</li>
+            <li>Left arrow: previous sentence</li>
+            <li>Up arrow: next hint</li>
+            <!-- <li>Right arrow: next sentence</li> -->
+          </ol>
+        </span>
+      </div>
+
+    </div>
   </div>
 </div>
 <script src="test.js"></script>

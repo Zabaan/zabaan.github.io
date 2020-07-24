@@ -49,8 +49,8 @@ function load_corpus(lang) {
       a = tt[1];
       b = tt[3];
       d = b.substr(0,1).toUpperCase() + b.substr(1);
-      re1 = new RegExp('(?<!\\w+)' + b + '(?!\\w+)','g');
-      re2 = new RegExp('(?<!\\w+)' + d + '(?!\\w+)','g');
+      re1 = new RegExp('(?<=[.,\/#!$%\^&\*;:\{\}=-_`~() ]|^]|^)' + b + '(?=[.,\/#!$%\^&\*;:\{\}=-_`~() ]|^]|$)','g');
+      re2 = new RegExp('(?<=[.,\/#!$%\^&\*;:\{\}=-_`~() ]|^]|^)' + d + '(?=[.,\/#!$%\^&\*;:\{\}=-_`~() ]|^]|$)','g');
       a = a.replace(re1, "<b id='select'>" + b + "</b>");
       a = a.replace(re2, "<b id='select'>" + d + "</b>");
       // else

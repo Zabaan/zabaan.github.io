@@ -48,16 +48,27 @@ function load_corpus(lang) {
       if(tt.length <= 3) return;
       a = tt[1];
       b = tt[3];
-
+      e = b.substr(0,1).toUpperCase() + b.substr(1);
       if(!a.includes(b)) b = b.substr(0,1).toUpperCase() + b.substr(1);
       // c = "<span id='editor' contenteditable='true' style='text-decoration: underline;' myval='" + b
       // + "'>---</span>";
       c = "<input placeholder='";
+      d = "<input placeholder='";
       for(var i=0;i<b.length;i++) c += "-";
       c +="' autofocus id='editor' style='width:" + b.length +"ch' ";
       c += "myval=\"" + b + "\" ";
-      c += "onkeyup='oneditorchange(\"" + b+ "\")'></input>";
-      a = a.replace(b, c);
+      c += "onkeyup='oneditorchange(\"" + b+ "\")' hint='1'></input>";
+
+      d +="' autofocus id='editor' style='width:" + e.length +"ch' ";
+      d += "myval=\"" + e + "\" ";
+      d += "onkeyup='oneditorchange(\"" + e + "\")' hint='1'></input>";
+
+      re1 = new RegExp('(?<=[.,\/#!$%\^&\*;:\{\}=-_`~() ]|^]|^)' + b + '(?=[.,\/#!$%\^&\*;:\{\}=-_`~() ]|^]|$)','g');
+      re2 = new RegExp('(?<=[.,\/#!$%\^&\*;:\{\}=-_`~() ]|^]|^)' + e + '(?=[.,\/#!$%\^&\*;:\{\}=-_`~() ]|^]|$)','g');
+      a = a.replace(re1, c);
+      a = a.replace(re2, d);
+
+
       this.mydata.push(a);
     });
     $('#sentence').html(mydata[cnt]);
@@ -84,7 +95,9 @@ function previousSentence() {
 function hint() {
   t = $('#editor').val();
   val = $('#editor').attr('myval');
-  $('#editor').val(val);
+  hintval = parseInt($('#editor').attr('hint'));
+  if(hintval <= val.length) $('#editor').val(val.substr(0,hintval));
+  $('#editor').attr('hint', (hintval+1)+"");
  //  if(t == m)  {
  //  $('#editor').css('color','green');
  //  $("#editor").attr('disabled','disabled');
@@ -115,9 +128,10 @@ load_corpus();
 document.addEventListener('keydown', function(event) {
     if (event.keyCode == 37) {
         previousSentence();
-    }
-    else if (event.keyCode == 39) {
+    } else if (event.keyCode == 39) {
         nextSentence();
+    } else if(event.keyCode == 38) {
+      hint();
     }
 }, true);
 
@@ -178,4 +192,9 @@ function oneditorchange(m) {
 }
   // if(t.length > 3 && t.includes('-')) t.replace('-',' ');
   // if(t.length < 3 )
+}
+
+function info() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
 }
