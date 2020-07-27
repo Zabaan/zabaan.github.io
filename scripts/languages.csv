@@ -1,12 +1,7 @@
-arabic	news	Arabic (MSA)
-arm	news	Armenian
-geo	news	Georgian
-german_at	news	German (Österreich)
-german_de	news	German (Deutschland)
-hun	news	Hungarian
-ind	news	Indonesian
-ita	news	Italian
-nld	news	Dutch
-persian	news	Persian
-rus	news	Russian
-urd	news	Urdu
+arabic	news,Store	Arabic (MSA)
+arm	news,Store	Armenian
+geo	news,Store	Georgian
+german_at	news,Store	German (Österreich)
+hun	news,Store	Hungarian
+tur	news,Store	Turkish
+urd	news,Store	Urdu
