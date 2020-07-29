@@ -26,7 +26,10 @@ with open('languages.csv', 'w') as f:
             subfiles = [d for d in listdir(mypath + file)]
             for sf in sorted(subfiles):
                 print(sf)
-                topics.add(sf[sf.rfind('_') + 1:])
+                if ".DS_Store" in sf:
+                    pass
+                else:
+                    topics.add(sf[sf.rfind('_') + 1:])
             csvwriter.writerow([file, ','.join(list(topics)), langcode_to_langname[file]])
             # lang = file[0:file.rfind('_')]
             # print(lang)

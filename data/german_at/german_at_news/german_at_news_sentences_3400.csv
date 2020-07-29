@@ -9,10 +9,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 16008	Jede Maßnahme muss aber auf dem Boden des EU-Rechts stehen.	Y	maßnahme	1720	    483	0.003	458	german_at_news_2012_00619372
 16009	Kosten würde diese Maßnahme lediglich zehn Millionen Euro jährlich.	Y	maßnahme	1720	    483	0.003	511.1111	german_at_news_2012_00643043
 16010	Unklar ist noch die Finanzierung einer solchen Maßnahme.	Y	maßnahme	1720	    483	0.003	703.5	german_at_news_2012_00887131
-16011	Das ist für mich etwas ganz Wichtiges.	Y	wichtiges	1720	    483	0.003	309.4286	german_at_news_2012_00178668
-16012	“Es ist ein wichtiges Rennen, aber es ist nur der Anfang.	Y	wichtiges	1720	    483	0.003	362.3333	german_at_news_2012_00461832
-16013	Der 18. April ist ein wichtiges Signal der Politik gegenüber den Menschen.	Y	wichtiges	1720	    483	0.003	454.8	german_at_news_2012_00226398
-16014	Mode war für die 21-Jährige schon früh ein wichtiges Thema.	Y	wichtiges	1720	    483	0.003	504	german_at_news_2012_00698162
+16011	Und damit ist das für die Gemeinde ein sehr wichtiges Projekt“, so der Bürgermeister.	Y	wichtiges	1720	    483	0.003	256.8571	german_at_news_2012_00869201
+16012	Auch in der Liebe ist Sicherheit heute ein wichtiges Thema.	Y	wichtiges	1720	    483	0.003	316.4	german_at_news_2012_00068643
+16013	Wenn Sie darüber hinaus ein weiteres Ihnen wichtiges Thema nennen wollen, haben Sie auch dazu die Möglichkeit.	Y	wichtiges	1720	    483	0.003	424.75	german_at_news_2012_00943679
+16014	Sie setzt damit auch ein wichtiges Signal für ihre Mitglieder“, so der SPÖ-Vorsitzende.	Y	wichtiges	1720	    483	0.003	494.2143	german_at_news_2012_00812758
 16015	Ein wichtiges Anliegen ist deshalb die Integration.	Y	wichtiges	1720	    483	0.003	669.2857	german_at_news_2012_00427278
 16016	Ich weiß aber, dass ich auch das Böse in mir habe.	Y	böse	1721	    482	0.003	237.1	german_at_news_2012_00560742
 16017	Dies sei ein Angebot an jene, die ihm vielleicht jetzt böse seien.	Y	böse	1721	    482	0.003	334.5833	german_at_news_2012_00362028
@@ -50,13 +50,13 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 16049	Wieder einmal betont die schöne Schauspielerin, dass ihre Kinder gerne reisen: „Momentan lieben sie es.	Y	momentan	1722	    481	0.003	611.0667	german_at_news_2012_00952967
 16050	Momentan stehe Grasser jedenfalls mit seiner ganzen Darstellung in einem „schweren Licht“.	Y	momentan	1722	    481	0.003	734.75	german_at_news_2012_00699006
 16051	In einer weiteren Nachricht stellt der Star klar: „Er hat mich nie verletzt und wird es auch nie tun.	Y	nachricht	1722	    481	0.003	290.7778	german_at_news_2012_00598922
-16052	Und das ist durchaus eine gute Nachricht.	Y	nachricht	1722	    481	0.003	399.4286	german_at_news_2012_00870530
+16052	Am 4. November war die neue Nachricht aus Japan trotzdem schon wieder eine Nachricht von gestern.	Y	nachricht	1722	    481	0.003	391.4286	german_at_news_2012_00039006
 16053	Die gute Nachricht: Es ist nie zu spät, etwas dagegen zu tun.	Y	nachricht	1722	    481	0.003	449.7273	german_at_news_2012_00310609
 16054	Die Nachricht war zu schön, um wahr zu sein.	Y	nachricht	1722	    481	0.003	541.625	german_at_news_2012_00328719
 16055	Er bekommt mehrmals täglich eine Nachricht per SMS.	Y	nachricht	1722	    481	0.003	903.875	german_at_news_2012_00432697
 16056	In fast allen Ländern der Welt kann man Österreicherinnen und Österreicher treffen, die dort leben und arbeiten.	Y	österreicherinnen	1722	    481	0.003	291.75	german_at_news_2012_00599521
 16057	Die Österreicherinnen und Österreicher fragen sich lieber: „Was mache ich nach der Arbeit?“ als „Was mache ich in der Arbeit?“	Y	österreicherinnen	1722	    481	0.003	344.6667	german_at_news_2012_00333093
-16058	Das Leben wird für die Österreicherinnen und Österreicher teurer.	Y	österreicherinnen	1722	    481	0.003	436.7778	german_at_news_2012_00184146
+16058	Mit ihrer Stimme können die Österreicherinnen und Österreicher dieses Programm unterstützen, damit der erfolgreiche Weg für Österreich fortgesetzt werden kann.	Y	österreicherinnen	1722	    481	0.003	424.05	german_at_news_2012_00692556
 16059	Und tatsächlich mehr Gutes für mehr ÖsterreicherInnen zu tun.	Y	österreicherinnen	1722	    481	0.003	450.625	german_at_news_2012_00882318
 16060	Ernst Strasser gehe es mit seinen Entscheidungen einzig und allein um die beste Sicherheit für die Österreicherinnen und Österreicher.	Y	österreicherinnen	1722	    481	0.003	582.3529	german_at_news_2012_00442278
 16061	Keine Stellungnahme der Grünen zu diesem Thema Browser zeigt »Iframes« nicht an.	Y	stellungnahme	1722	    481	0.003	328.5833	german_at_news_2012_00634202
@@ -129,11 +129,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 16128	Und mittlerweile treten Organisationen in Kontakt mit uns, weil sie durch unseren Erfolg aufmerksam geworden sind.	Y	organisationen	1725	    478	0.003	519.6875	german_at_news_2012_00879338
 16129	Über die Organisationen dahinter bekommen wir nichts heraus.	Y	organisationen	1725	    478	0.003	632.625	german_at_news_2012_00860008
 16130	Weitere finanzielle Unterstützung der Umsetzung erfolgt durch die drei beteiligten Organisationen selber.	Y	organisationen	1725	    478	0.003	755.9167	german_at_news_2012_00932483
-16131	Er habe nur gemeint, wenn jemand in den Fußball investiere, dann könne er „das ja auch bei uns (bei der Partei, Anm.) machen“, so der Politiker.	Y	anm	1726	    477	0.003	404.6957	german_at_news_2012_00436444
-16132	Es ist eine Statistik…” APA: Mit denen Sie sich vor einem Jahr (als Co-Kommentator für den ORF-Anm.) beschäftigt haben.	Y	anm	1726	    477	0.003	430.2381	german_at_news_2012_00461389
-16133	Anm.) Das kann ich nicht beurteilen, ich war erst ab Oktober 1997 für den Fall zuständig.	Y	anm	1726	    477	0.003	442.6429	german_at_news_2012_00052783
-16134	Es kann sein, dass das zusammengeschnitten war (in dem ORF-Bericht, Anm.) Ich habe nicht immer geklatscht, das werde ich auch sicherlich nicht machen“.	Y	anm	1726	    477	0.003	461.0476	german_at_news_2012_00464421
-16135	Sollten allerdings die Umfragen in der Größenordnung von rund sieben Prozent für eine Hans-Peter Martin-Partei bleiben, „dann kann ich mir das (Antreten, Anm.) gut vorstellen.	Y	anm	1726	    477	0.003	464.0741	german_at_news_2012_00827489
+16131	Da haben wir drei oder vier Gemeinden (von 119 - Anm.), die das bis jetzt gemacht haben.“	Y	anm	1726	    477	0.003	245.1429	german_at_news_2012_00140167
+16132	Er habe nur gemeint, wenn jemand in den Fußball investiere, dann könne er „das ja auch bei uns (bei der Partei, Anm.) machen“, so der Politiker.	Y	anm	1726	    477	0.003	404.6957	german_at_news_2012_00436444
+16133	Es ist eine Statistik…” APA: Mit denen Sie sich vor einem Jahr (als Co-Kommentator für den ORF-Anm.) beschäftigt haben.	Y	anm	1726	    477	0.003	430.2381	german_at_news_2012_00461389
+16134	Anm.) Das kann ich nicht beurteilen, ich war erst ab Oktober 1997 für den Fall zuständig.	Y	anm	1726	    477	0.003	442.6429	german_at_news_2012_00052783
+16135	Es kann sein, dass das zusammengeschnitten war (in dem ORF-Bericht, Anm.) Ich habe nicht immer geklatscht, das werde ich auch sicherlich nicht machen“.	Y	anm	1726	    477	0.003	461.0476	german_at_news_2012_00464421
 16136	Ziel dieser Gala-Nacht ist es, möglichst viel Geld für „.	Y	gala	1726	    477	0.003	408.4	german_at_news_2012_00980881
 16137	Würden Sie für die Telekom eine Gala spielen?	Y	gala	1726	    477	0.003	410.5	german_at_news_2012_00977784
 16138	Spenden-Gala: Top-Promis im Einsatz Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	gala	1726	    477	0.003	433.5385	german_at_news_2012_00836552
@@ -145,7 +145,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 16144	Wer „gut gearbeitet hat“, der habe vielleicht ein paar Stimmen verloren, sei aber im Gemeinderat geblieben, betont Scheuch.	Y	gemeinderat	1726	    477	0.003	512.1667	german_at_news_2012_00947018
 16145	Der Antrag zum Beschluss durch den Gemeinderat ist vorbereitet“.	Y	gemeinderat	1726	    477	0.003	690.3333	german_at_news_2012_00229837
 16146	Oder sagen, um die und die Zeit klären wir, was zu klären ist.	Y	klären	1726	    477	0.003	219	german_at_news_2012_00741850
-16147	Hier sind noch die letzten Details zu klären.	Y	klären	1726	    477	0.003	401.375	german_at_news_2012_00540365
+16147	Diese Fragen wird die Justiz zu klären haben.	Y	klären	1726	    477	0.003	399.25	german_at_news_2012_00346436
 16148	Ob er beim BAWAG-Prozess dabei sein kann, soll ein Gutachten klären.	Y	klären	1726	    477	0.003	460.0833	german_at_news_2012_00738096
 16149	Diese konnte die Identität der Frau sehr rasch klären.	Y	klären	1726	    477	0.003	542.2222	german_at_news_2012_00347830
 16150	Klären Sie die Lage, ziehen Sie Konsequenzen.	Y	klären	1726	    477	0.003	813.6667	german_at_news_2012_00637445
@@ -190,15 +190,15 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 16189	Sie glauben, man kann in der Schule Geschmack lernen?	Y	geschmack	1727	    476	0.003	484.6667	german_at_news_2012_00806402
 16190	Kroatien hat für jeden Geschmack etwas zu bieten.	Y	geschmack	1727	    476	0.003	596.625	german_at_news_2012_00644916
 16191	Meiner Erfahrung nach ist es am besten, wenn die Eltern da offen sind“, erklärt Mayer.	Y	mayer	1727	    476	0.003	387.5333	german_at_news_2012_00676754
-16192	Mayer: „Es geht ihnen, wie man hört, allen recht gut bisher.“	Y	mayer	1727	    476	0.003	429.4545	german_at_news_2012_00672723
-16193	Mayer erklärte, sie habe damals nicht die Wahrheit gesagt.	Y	mayer	1727	    476	0.003	491.2222	german_at_news_2012_00672722
-16194	Bild: Bernhard Mayer Sie dürfen noch Zeichen als Text schreiben Bitte beachten Sie die Forumsregeln Für nicht registrierte Nutzer Bitte melden Sie sich an, um einen Kommentar abzuschicken.	Y	mayer	1727	    476	0.003	616.92	german_at_news_2012_00114867
+16192	Ist ja nicht so einfach bei Alexander Mayer.	Y	mayer	1727	    476	0.003	409.25	german_at_news_2012_00616529
+16193	Mayer ist mit seiner Angst nicht allein.	Y	mayer	1727	    476	0.003	445.4286	german_at_news_2012_00672734
+16194	Mayer wusste, es würden nicht nur Studenten kommen.	Y	mayer	1727	    476	0.003	613.125	german_at_news_2012_00672763
 16195	Walter Mayer sei „sicher“ der Anlass der Aktion gewesen.	Y	mayer	1727	    476	0.003	717.625	german_at_news_2012_00919686
-16196	Was ganz im Sinn des Verstorbenen sein mag.	Y	verstorbenen	1727	    476	0.003	455.25	german_at_news_2012_00925141
-16197	Warum ich dann nicht endlich über Kärnten rede, sondern ständig nur über meinen verstorbenen Vater?	Y	verstorbenen	1727	    476	0.003	465.4286	german_at_news_2012_00922092
-16198	Unser ganz besonderes Mitgefühl gilt nun den beiden Kindern der Verstorbenen und ihrer Familie“, so Gusenbauer am Freitag.	Y	verstorbenen	1727	    476	0.003	480.7222	german_at_news_2012_00888292
-16199	Wie man von einem verstorbenen Politiker weiß, ist es ja ein Privileg von Politikern, sich nicht an die StVO.	Y	verstorbenen	1727	    476	0.003	493.2222	german_at_news_2012_00956723
-16200	Für den Sohn des Verstorbenen steht fest: „Die Suche nach meinem Vater wurde nicht gründlich genug gemacht.“	Y	verstorbenen	1727	    476	0.003	506.4118	german_at_news_2012_00493237
+16196	Warum soll es ihnen besser gehen als dem bereits verstorbenen Bürgermeister von Wien Helmut Zilk?	Y	verstorbenen	1727	    476	0.003	439.9333	german_at_news_2012_00922636
+16197	Was ganz im Sinn des Verstorbenen sein mag.	Y	verstorbenen	1727	    476	0.003	455.25	german_at_news_2012_00925141
+16198	Warum ich dann nicht endlich über Kärnten rede, sondern ständig nur über meinen verstorbenen Vater?	Y	verstorbenen	1727	    476	0.003	465.4286	german_at_news_2012_00922092
+16199	Unser ganz besonderes Mitgefühl gilt nun den beiden Kindern der Verstorbenen und ihrer Familie“, so Gusenbauer am Freitag.	Y	verstorbenen	1727	    476	0.003	480.7222	german_at_news_2012_00888292
+16200	Wie man von einem verstorbenen Politiker weiß, ist es ja ein Privileg von Politikern, sich nicht an die StVO.	Y	verstorbenen	1727	    476	0.003	493.2222	german_at_news_2012_00956723
 16201	Man wird somit in Zukunft ähnliche Probleme haben wie wir.	Y	ähnliche	1728	    475	0.003	346.7	german_at_news_2012_00669878
 16202	Die Stadt Wien hat ähnliche Erfahrungen wie wir.	Y	ähnliche	1728	    475	0.003	425.875	german_at_news_2012_00363216
 16203	Ähnliche Maßnahmen sind auch in der Schweiz erlaubt.	Y	ähnliche	1728	    475	0.003	574.75	german_at_news_2012_00018667
@@ -309,10 +309,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 16308	Obwohl der Bub sofort ins Krankenhaus gebracht wurde, konnten die Ärzte ihm nicht mehr helfen.	Y	bub	1733	    470	0.0029	482.4667	german_at_news_2012_00739907
 16309	Schon als kleiner Bub bekam er mit, wie der Vater die Mutter schlug.	Y	bub	1733	    470	0.0029	552.5385	german_at_news_2012_00784247
 16310	Der Bub verlor den Halt und stürzte in die Tiefe.	Y	bub	1733	    470	0.0029	757.5	german_at_news_2012_00233686
-16311	Über das Gerät selbst gibt es auch keine konkreten Informationen.	Y	konkreten	1733	    470	0.0029	357.5	german_at_news_2012_00859291
-16312	Und hier könne die EU dem Bürger konkreten Nutzen bringen.	Y	konkreten	1733	    470	0.0029	432.1	german_at_news_2012_00876848
-16313	Im konkreten Fall kann ich Dir auch nicht helfen.	Y	konkreten	1733	    470	0.0029	450.5556	german_at_news_2012_00574658
-16314	Aus der ÖVP sind noch keine konkreten Vorschläge zu hören.	Y	konkreten	1733	    470	0.0029	461	german_at_news_2012_00082097
+16311	Wenn es, wie im konkreten Fall, gleich deren zwei sind, noch weniger.	Y	konkreten	1733	    470	0.0029	267.5	german_at_news_2012_00940453
+16312	Zwar gibt es noch immer keine konkreten Angaben, wie das neue Modell aussehen soll, doch nun ist so gut wie fix, dass es im September startet.	Y	konkreten	1733	    470	0.0029	372.5417	german_at_news_2012_00996355
+16313	Für welche konkreten Institutionen diese Mittel zum Einsatz kommen, sei noch zu diskutieren, „wichtig ist jedenfalls der Einsatz für den Film“, hieß es.	Y	konkreten	1733	    470	0.0029	447	german_at_news_2012_00501307
+16314	Nur dieser zeichnet einen konkreten Weg aus der Krise vor.	Y	konkreten	1733	    470	0.0029	459	german_at_news_2012_00733877
 16315	Die Raiffeisen-Gruppe nennt keine konkreten Zahlen.	Y	konkreten	1733	    470	0.0029	841.5714	german_at_news_2012_00338554
 16316	Und ich habe immer dazu gesagt: bis auf Not und Tod.	Y	not	1733	    470	0.0029	349.7	german_at_news_2012_00877105
 16317	Man müsse dort helfen, wo die Not am größten sei.	Y	not	1733	    470	0.0029	413.1	german_at_news_2012_00667493
@@ -354,11 +354,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 16353	Der Verdacht, dass gar nicht untersucht wurde, ist nicht von der Hand zu weisen.	Y	weisen	1734	    469	0.0029	463.25	german_at_news_2012_00264705
 16354	Die Industrie verkauft das als den Stein der Weisen.	Y	weisen	1734	    469	0.0029	596.5556	german_at_news_2012_00314354
 16355	Niederösterreich und Oberösterreich weisen die meisten Schäden auf.	Y	weisen	1734	    469	0.0029	628.5	german_at_news_2012_00726468
-16356	Diese Aussage muss ergänzt werden: Es wurden weit mehr als 400 Fragen gestellt, die natürlich in einer Stunde nicht alle beantwortet werden konnten.	Y	ergänzt	1735	    468	0.0029	411.8571	german_at_news_2012_00344777
-16357	Die ÖVP glaubt an etwas andere Projekte“, ist er sich sicher, ergänzt aber: „Das ist nicht tragisch.	Y	ergänzt	1735	    468	0.0029	417.5	german_at_news_2012_00333903
-16358	Und die ist hier mit Sami in Madrid,“ und sie ergänzt: „Ich bin seit Jahren von meiner Familie weg, immer allein unterwegs.	Y	ergänzt	1735	    468	0.0029	425.1905	german_at_news_2012_00873075
-16359	“ Viele kümmern sich dann um ein Training, wenn sie Probleme haben, ergänzt Fischbacher: „Wo die Stimme plötzlich nicht mehr da ist oder wo ich merke, dass die anderen immer wieder zu mir sagen ‚Jetzt sprich doch mal lauter‘.	Y	ergänzt	1735	    468	0.0029	489.5	german_at_news_2012_00899622
-16360	Aber ich habe leider mit eigenen Augen auch noch drei Tote gesehen“, ergänzt Schaden.	Y	ergänzt	1735	    468	0.0029	508.9286	german_at_news_2012_00007273
+16356	Und ergänzt, „dass diese Woche in Tirol für unsere Burschen nicht nur am Platz ein Erlebnis war.	Y	ergänzt	1735	    468	0.0029	406.9412	german_at_news_2012_00874929
+16357	Diese Aussage muss ergänzt werden: Es wurden weit mehr als 400 Fragen gestellt, die natürlich in einer Stunde nicht alle beantwortet werden konnten.	Y	ergänzt	1735	    468	0.0029	411.8571	german_at_news_2012_00344777
+16358	Die ÖVP glaubt an etwas andere Projekte“, ist er sich sicher, ergänzt aber: „Das ist nicht tragisch.	Y	ergänzt	1735	    468	0.0029	417.5	german_at_news_2012_00333903
+16359	Und die ist hier mit Sami in Madrid,“ und sie ergänzt: „Ich bin seit Jahren von meiner Familie weg, immer allein unterwegs.	Y	ergänzt	1735	    468	0.0029	425.1905	german_at_news_2012_00873075
+16360	“ Viele kümmern sich dann um ein Training, wenn sie Probleme haben, ergänzt Fischbacher: „Wo die Stimme plötzlich nicht mehr da ist oder wo ich merke, dass die anderen immer wieder zu mir sagen ‚Jetzt sprich doch mal lauter‘.	Y	ergänzt	1735	    468	0.0029	489.5	german_at_news_2012_00899622
 16361	Mit großem Interesse verfolgt er die Entwicklung des Landes.	Y	großem	1735	    468	0.0029	547	german_at_news_2012_00691755
 16362	Das Gleiche ist später in großem Stil auf der ganzen Welt passiert“.	Y	großem	1735	    468	0.0029	574.75	german_at_news_2012_00171895
 16363	Er sei mit großem Respekt in den Prozess gegangen.	Y	großem	1735	    468	0.0029	586.2222	german_at_news_2012_00443776
@@ -399,9 +399,9 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 16398	Doch Interesse und Berufung alleine sind oft zu wenig.	Y	berufung	1737	    466	0.0029	463	german_at_news_2012_00386283
 16399	Es ist mein Beruf, nicht meine Berufung.	Y	berufung	1737	    466	0.0029	555	german_at_news_2012_00462645
 16400	Politische Konsequenzen gibt es nicht, Scheuch legt Berufung ein.	Y	berufung	1737	    466	0.0029	718.7778	german_at_news_2012_00759768
-16401	Von all dem ist heute nichts mehr zu spüren.	Y	spüren	1737	    466	0.0029	304.6667	german_at_news_2012_00906229
-16402	Die österreichische Telekom wird das wohl noch zu spüren bekommen.	Y	spüren	1737	    466	0.0029	361	german_at_news_2012_00333620
-16403	Es sei ein Modell, das die Menschen massiv spüren würden, so der Finanzminister.	Y	spüren	1737	    466	0.0029	425.4615	german_at_news_2012_00466868
+16401	Diese Menschen müssten spüren, dass die SPÖ für sie da sei.	Y	spüren	1737	    466	0.0029	294.3636	german_at_news_2012_00348537
+16402	Am Dienstag bzw. am Wochenende war davon aber noch nichts zu spüren.	Y	spüren	1737	    466	0.0029	356.4545	german_at_news_2012_00040339
+16403	Die Maßnahmen, die wir setzen, müssen die Menschen nicht nur verstehen, sondern auch positiv spüren.	Y	spüren	1737	    466	0.0029	418.3846	german_at_news_2012_00325031
 16404	Das bekommen in diesen Tagen die Bewohner von Berlin zu spüren.	Y	spüren	1737	    466	0.0029	489.1818	german_at_news_2012_00161591
 16405	Leider ist davon momentan nichts zu spüren.	Y	spüren	1737	    466	0.0029	640.2857	german_at_news_2012_00655513
 16406	Das Steirische ist das, was uns mit dem Alltag verbindet, in einem Land, in dem man sich sicher fühlt.	Y	steirische	1737	    466	0.0029	455.75	german_at_news_2012_00198575
@@ -409,8 +409,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 16408	Nach sieben Jahren in Wien und Innsbruck kehrte er 2008 nach Graz zurück und hat nun erneut die Möglichkeit, steirische Fußballgeschichte zu schreiben.	Y	steirische	1737	    466	0.0029	500.9	german_at_news_2012_00710804
 16409	Für diese Punkte wird es die größtmögliche Akzeptanz innerhalb der Bevölkerung auch geben“, zeigt sich der steirische BZÖ-Chef sicher.	Y	steirische	1737	    466	0.0029	506.3158	german_at_news_2012_00495828
 16410	Steirische Camper von Fluten eingeschlossen Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	steirische	1737	    466	0.0029	523.52	german_at_news_2012_00842224
-16411	Es ist nicht das Internet, das die Welt verändern wird, es sind die Menschen.	Y	verändern	1737	    466	0.0029	228.7273	german_at_news_2012_00462840
-16412	Am Ende waren sich alle einig: Nächstes Mal sind wir wieder mit dabei – denn die Jugend kann etwas verändern!	Y	verändern	1737	    466	0.0029	384.6316	german_at_news_2012_00041305
+16411	Aber es ist nur eine Frage der Zeit, bis sich auch die anderen Länder verändern müssen.	Y	verändern	1737	    466	0.0029	198.5625	german_at_news_2012_00006173
+16412	Glauben Sie noch daran, mit Theater die Welt verändern zu können?	Y	verändern	1737	    466	0.0029	383.0909	german_at_news_2012_00516325
 16413	Es schaut so aus, als gäbe es keine Mehrheit in Österreich, hier etwas zu verändern.	Y	verändern	1737	    466	0.0029	452.6429	german_at_news_2012_00466228
 16414	Ich habe kein Auto“ Verändern Sie dürfen noch Zeichen als Text schreiben Bitte beachten Sie die Forumsregeln Für nicht registrierte Nutzer Bitte melden Sie sich an, um einen Kommentar abzuschicken.	Y	verändern	1737	    466	0.0029	531.8148	german_at_news_2012_00553648
 16415	Aber der Tod Haiders wird Dinge verändern.	Y	verändern	1737	    466	0.0029	717	german_at_news_2012_00004387
@@ -446,9 +446,9 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 16445	Und nun bin ich hier und suche jenes Geheimnis aus meiner Jugend.	Y	jenes	1739	    464	0.0029	580.6364	german_at_news_2012_00880043
 16446	Er gibt aber zu, dass es nicht immer leicht war, von Tür zu Tür zu laufen und die Menschen von seiner Lehre zu überzeugen.	Y	lehre	1739	    464	0.0029	353.1053	german_at_news_2012_00435680
 16447	Und für mich ist es ein Problem, wenn in der katholischen Lehre der Mensch schon mit einer Erbsünde auf die Welt kommt.	Y	lehre	1739	    464	0.0029	369.381	german_at_news_2012_00876225
-16448	Sie hätte die Lehre auch in einer normalen Apotheke machen können, lieber aber wollte sie zur Stadt Wien, das wusste sie eigentlich schon vor dem Schnuppertag: „Die Stadt Wien ist wie ein großes Unternehmen.	Y	lehre	1739	    464	0.0029	445.5517	german_at_news_2012_00807994
-16449	Man werbe auch in der Öffentlichkeit für dieses Projekt und für die Lehre am Bau.	Y	lehre	1739	    464	0.0029	455.7143	german_at_news_2012_00669604
-16450	Unter dem Motto „Machen wir uns stark“ soll erreicht werden, dass Asylwerber arbeiten und jugendliche Asylwerber eine Lehre machen dürfen.	Y	lehre	1739	    464	0.0029	458.1111	german_at_news_2012_00889500
+16448	Er hat beschlossen, beim Wolf in die Lehre zu gehen, um selbst Wolf zu werden.	Y	lehre	1739	    464	0.0029	380.8462	german_at_news_2012_00436915
+16449	Sie hätte die Lehre auch in einer normalen Apotheke machen können, lieber aber wollte sie zur Stadt Wien, das wusste sie eigentlich schon vor dem Schnuppertag: „Die Stadt Wien ist wie ein großes Unternehmen.	Y	lehre	1739	    464	0.0029	445.5517	german_at_news_2012_00807994
+16450	Man werbe auch in der Öffentlichkeit für dieses Projekt und für die Lehre am Bau.	Y	lehre	1739	    464	0.0029	455.7143	german_at_news_2012_00669604
 16451	Das Amt gegen Jugend und Familie (MA11) mal nicht.	Y	ma	1739	    464	0.0029	502.6667	german_at_news_2012_00159684
 16452	·Frauen: Zu wenig Zeit„Frauen haben zu wenig Zeit für sich selbst“ ·Kavaliersdelikt PfuschenUnrechtsbewusstsein gibt es kaum in Österreich ·MA48 will faire Arbeit!	Y	ma	1739	    464	0.0029	519.6316	german_at_news_2012_00487522
 16453	Für die „Ma hilft“-Familie ist der Abend eine hervorragende Möglichkeit, sich zu präsentieren.	Y	ma	1739	    464	0.0029	537.9286	german_at_news_2012_00494991
@@ -576,7 +576,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 16575	Und auch der Wald verursacht jede Menge Arbeit.	Y	verursacht	1742	    461	0.0029	660.875	german_at_news_2012_00867623
 16576	Jeder entscheidet – früher oder später – für sich selbst, was er ist.	Y	entscheidet	1743	    460	0.0029	298.0909	german_at_news_2012_00620244
 16577	Mehr ist immer möglich, das entscheidet dann das Verfahren.	Y	entscheidet	1743	    460	0.0029	386	german_at_news_2012_00675049
-16578	Es ist auch eine hohe Verantwortung, wie man einen solchen Antrag entscheidet.	Y	entscheidet	1743	    460	0.0029	470.5	german_at_news_2012_00460236
+16578	Und wer entscheidet, wie lange ein Mensch so lebt?	Y	entscheidet	1743	    460	0.0029	454	german_at_news_2012_00884774
 16579	Das Schicksal der EU entscheidet sich in Frankreich.	Y	entscheidet	1743	    460	0.0029	561.625	german_at_news_2012_00191952
 16580	Dennoch entscheidet sich Häupl vorerst gegen den Beruf Politik.	Y	entscheidet	1743	    460	0.0029	693.5556	german_at_news_2012_00222435
 16581	Genau die könnte heute aber auch der Liebe neue Impulse bringen.	Y	impulse	1743	    460	0.0029	298.2727	german_at_news_2012_00509374
@@ -594,7 +594,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 16593	Es weiß doch inzwischen ohnehin jeder, um wen es sich handelt!	Y	wen	1743	    460	0.0029	490.3	german_at_news_2012_00471039
 16594	Wen er mit „wir“ meinte, ist unklar.	Y	wen	1743	    460	0.0029	565.5714	german_at_news_2012_00936311
 16595	• Wen fragen Sie außerhalb Ihres Unternehmens um Rat?	Y	wen	1743	    460	0.0029	896.5	german_at_news_2012_00936320
-16596	Das war nicht meine Entscheidung, sondern die der Eigentümer.	Y	eigentümer	1744	    459	0.0029	310	german_at_news_2012_00204250
+16596	Dies gilt vor allem dann, wenn es sich um einen großen Hund handelt und einige der Eigentümer kleine Kinder haben.	Y	eigentümer	1744	    459	0.0029	299.2	german_at_news_2012_00357727
 16597	Man wird dann Eigentümer, ohne dass es einen Vertrag dazu braucht.“	Y	eigentümer	1744	    459	0.0029	333.5455	german_at_news_2012_00669810
 16598	Denn: Grasser ist nicht Eigentümer der Wohnung.	Y	eigentümer	1744	    459	0.0029	471.5714	german_at_news_2012_00220934
 16599	Die Kosten teilen sich die Stadt Linz und die ÖBB als Eigentümer.	Y	eigentümer	1744	    459	0.0029	490.8	german_at_news_2012_00320290
@@ -664,11 +664,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 16663	Und sie bleibt auch die wichtigste, meistens ein Leben lang.	Y	meistens	1745	    458	0.0028	411.3	german_at_news_2012_00881179
 16664	Wenn ich helfen wollte, wurde mir meistens gesagt, das geht nicht, du hast deine Aufgabe schon erfüllt.	Y	meistens	1745	    458	0.0028	527.7647	german_at_news_2012_00941001
 16665	Gott sei Dank ist meistens ohnehin niemand zu retten.	Y	meistens	1745	    458	0.0028	760.2222	german_at_news_2012_00519832
-16666	Damals war die Technik eine andere und es gibt auch nur eine Möglichkeit, es zu lernen: Man muss sich am menschlichen Körper erproben.	Y	menschlichen	1745	    458	0.0028	402.0476	german_at_news_2012_00144081
-16667	Das ist das Credo einer guten, weitsichtigen, menschlichen Politik, die nicht immer alles sofort und für jeden will, sondern alles zu seiner Zeit“, so Pröll.	Y	menschlichen	1745	    458	0.0028	405.3913	german_at_news_2012_00176815
-16668	Dennoch glaube ich, dass es immer eine neue Art gibt, den menschlichen Körper zu betrachten, etwas Einzigartiges, dass Du für dich selbst finden kannst., sagt der 39-jährige Österreicher.	Y	menschlichen	1745	    458	0.0028	471.3333	german_at_news_2012_00222578
-16669	Er betonte, dass junge Menschen aus der Geschichte lernen sollten und es nicht mehr zu einer derartigen menschlichen Katastrophe kommen dürfe.	Y	menschlichen	1745	    458	0.0028	480.0476	german_at_news_2012_00433014
-16670	Obama hat hier eine menschlichen Schritt gemacht,es ist ein gutes Gesetz.	Y	menschlichen	1745	    458	0.0028	488.0833	german_at_news_2012_00736907
+16666	Weniger kann im menschlichen Leben oft viel mehr sein“, so der Landeshauptmann abschließend.	Y	menschlichen	1745	    458	0.0028	332.9231	german_at_news_2012_00936596
+16667	Damals war die Technik eine andere und es gibt auch nur eine Möglichkeit, es zu lernen: Man muss sich am menschlichen Körper erproben.	Y	menschlichen	1745	    458	0.0028	402.0476	german_at_news_2012_00144081
+16668	Das ist das Credo einer guten, weitsichtigen, menschlichen Politik, die nicht immer alles sofort und für jeden will, sondern alles zu seiner Zeit“, so Pröll.	Y	menschlichen	1745	    458	0.0028	405.3913	german_at_news_2012_00176815
+16669	Dennoch glaube ich, dass es immer eine neue Art gibt, den menschlichen Körper zu betrachten, etwas Einzigartiges, dass Du für dich selbst finden kannst., sagt der 39-jährige Österreicher.	Y	menschlichen	1745	    458	0.0028	471.3333	german_at_news_2012_00222578
+16670	Er betonte, dass junge Menschen aus der Geschichte lernen sollten und es nicht mehr zu einer derartigen menschlichen Katastrophe kommen dürfe.	Y	menschlichen	1745	    458	0.0028	480.0476	german_at_news_2012_00433014
 16671	Auf der Rückseite gibt es eine 5 MP-Kamera, die besonders schnell bereit sein soll.	Y	mp	1745	    458	0.0028	473	german_at_news_2012_00076087
 16672	Mp3-Player müssen mittlerweile etwas Besonderes sein, um sich auf dem Markt behaupten zu können.	Y	mp	1745	    458	0.0028	550.4667	german_at_news_2012_00700221
 16673	Darüber hinaus soll auch eine 8 MP-Kamera mit an Bord sein, mit der HD-Videos aufgenommen werden können.	Y	mp	1745	    458	0.0028	588.1765	german_at_news_2012_00157452
@@ -864,10 +864,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 16863	Ja, ich bin ehrlich stolz auf uns, auf dieses Land, das dieses Wunder, das wir jetzt erleben, ermöglicht hat.	Y	ehrlich	1751	    452	0.0028	473.75	german_at_news_2012_00618084
 16864	Unser Fehler war es zu spät zu reagieren, aber ehrlich gesagt haben wir gar nicht mehr damit gerechnet.	Y	ehrlich	1751	    452	0.0028	560	german_at_news_2012_00888274
 16865	Elsner: Ich war ehrlich gestanden überrascht, wie viel Kraft ich habe.	Y	ehrlich	1751	    452	0.0028	779.1	german_at_news_2012_00429136
-16866	Heute gibt es in Wien knapp 9000 Lokale.	Y	lokale	1751	    452	0.0028	353.2857	german_at_news_2012_00535503
-16867	Es gibt Lokale, da kommt man nicht mehr raus.	Y	lokale	1751	    452	0.0028	424.1111	german_at_news_2012_00457664
-16868	Derzeit sind keine Lokale dieser Gemeinde bekannt.	Y	lokale	1751	    452	0.0028	455.8571	german_at_news_2012_00269664
-16869	Und so hab ich die Lokale verkauft.“	Y	lokale	1751	    452	0.0028	540.4286	german_at_news_2012_00881705
+16866	Noch nie gab es so viele neue Top-Lokale wie jetzt.	Y	lokale	1751	    452	0.0028	302.8182	german_at_news_2012_00728983
+16867	Die Lokale der Stadt sind zwar voll, nicht nur am Wochenende.	Y	lokale	1751	    452	0.0028	353.6364	german_at_news_2012_00323875
+16868	Vor allem für die lokale Wirtschaft wird das Marathon-Wochenende wieder ein Gewinn werden.	Y	lokale	1751	    452	0.0028	451.9286	german_at_news_2012_00911438
+16869	Es sollte doch in deren Interesse sein, dass lokale Betriebe gefördert und nicht welche von außerhalb engagiert werden.“	Y	lokale	1751	    452	0.0028	528.4444	german_at_news_2012_00468566
 16870	Österreichs Botschaft weiter geöffnet In Österreichs Botschaft in Syrien sind derzeit nur lokale Mitarbeiter tätig.	Y	lokale	1751	    452	0.0028	719.5833	german_at_news_2012_00750264
 16871	Sie wissen: Auf die Mischung kommt’s an.	Y	mischung	1751	    452	0.0028	311.875	german_at_news_2012_00817046
 16872	Die neue Mischung machte ihre Sache aber sehr gut.	Y	mischung	1751	    452	0.0028	404.3333	german_at_news_2012_00329733
@@ -904,8 +904,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 16903	Dann können Sie hier einen Kurs belegen.	Y	belegen	1752	    451	0.0028	474.1429	german_at_news_2012_00153196
 16904	Und in etwa einem Jahr wird man dann nachweislich belegen können, was es gebracht hat - und wo die Rechnung letztlich nicht aufging.	Y	belegen	1752	    451	0.0028	474.9048	german_at_news_2012_00877857
 16905	Was es nicht gibt, sind Fakten, die das in all seiner Pauschalität belegen würden.	Y	belegen	1752	    451	0.0028	489.4286	german_at_news_2012_00924862
-16906	Auch dort soll er als Berater tätig gewesen sein.	Y	berater	1752	    451	0.0028	377.6667	german_at_news_2012_00065483
-16907	Ich bin auf alle Fälle gerne mal Berater der FPÖ.	Y	berater	1752	    451	0.0028	443.1	german_at_news_2012_00547520
+16906	Vor allem muss man die Führung selbst in die Hand nehmen und nicht auf zu viele Berater hören.	Y	berater	1752	    451	0.0028	309.4706	german_at_news_2012_00911877
+16907	Auch dort soll er als Berater tätig gewesen sein.	Y	berater	1752	    451	0.0028	377.6667	german_at_news_2012_00065483
 16908	Die in diesem Schreiben genannten „Berater“ wurden vom Falter mit dem Brief konfrontiert.	Y	berater	1752	    451	0.0028	691.3077	german_at_news_2012_00314245
 16909	Nun fordert die Branche Regeln für Berater im politischen Umfeld.	Y	berater	1752	    451	0.0028	758.7	german_at_news_2012_00730971
 16910	Mensdorff war einst für Siemens in Ungarn als Berater tätig.	Y	berater	1752	    451	0.0028	841.4	german_at_news_2012_00678784
@@ -975,9 +975,9 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 16974	Wir haben den Film den MI6-Leuten gezeigt.	Y	mi	1753	    450	0.0028	666.1429	german_at_news_2012_00965080
 16975	Erst im vergangenen Jahr gab der MI6 entsprechende Telefonabhörprotokolle frei.	Y	mi	1753	    450	0.0028	668.9	german_at_news_2012_00447046
 16976	Das bin ich mir schuldig und vor allem aber all denen, die an mich glauben.	Y	schuldig	1753	    450	0.0028	286.2	german_at_news_2012_00162694
-16977	Nicht schuldig“ erklärte er sich gestern auch vor Gericht.	Y	schuldig	1753	    450	0.0028	462	german_at_news_2012_00725142
-16978	Und wer schuldig ist, bekommt einen Richter.	Y	schuldig	1753	    450	0.0028	556.5714	german_at_news_2012_00884885
-16979	Doch die US-Medien haben ihr Urteil längst gefällt: schuldig.	Y	schuldig	1753	    450	0.0028	638.6	german_at_news_2012_00385045
+16977	Jackson-Arzt schuldig gesprochen Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	schuldig	1753	    450	0.0028	425.25	german_at_news_2012_00617199
+16978	Der Mann bekannte sich vor Gericht zunächst trotzdem nicht schuldig.	Y	schuldig	1753	    450	0.0028	549.7	german_at_news_2012_00249906
+16979	Man musste einander also nichts schuldig bleiben.	Y	schuldig	1753	    450	0.0028	632.2857	german_at_news_2012_00667918
 16980	Darauf bleibe die BAWAG Antworten schuldig, so Lukas.	Y	schuldig	1753	    450	0.0028	976.25	german_at_news_2012_00155373
 16981	Zum anderen bei den Banken die ihm auf der einen Seiten für sein Geld weniger Zinsen zahlen werden.	Y	zinsen	1753	    450	0.0028	269.4444	german_at_news_2012_00988166
 16982	Das würde bedeuten, dass die Zinsen noch für eine wirklich lange Zeit nahe Null bleiben werden.	Y	zinsen	1753	    450	0.0028	469.375	german_at_news_2012_00206282

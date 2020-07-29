@@ -4,7 +4,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23003	Hinter mir liegt eine schöne, aber auch höchst intensive Zeit.	Y	intensive	1885	    318	0.002	565.4	german_at_news_2012_00542470
 23004	Erst dann kann eine neue intensive Belastung folgen.	Y	intensive	1885	    318	0.002	593.875	german_at_news_2012_00445562
 23005	Intensive Suche nach einem Monat vorerst eingestellt.	Y	intensive	1885	    318	0.002	911.8571	german_at_news_2012_00610640
-23006	Nach dem Studium sind sie mit mir dann zurück nach Norwegen, wo ich in den Kindergarten gegangen bin.“	Y	norwegen	1885	    318	0.002	426.4118	german_at_news_2012_00705186
+23006	Für das Spiel gegen Norwegen im November geht es sich nicht mehr aus.	Y	norwegen	1885	    318	0.002	241.4615	german_at_news_2012_00492244
 23007	Es ist der erste Anschlag dieser Art in Norwegen.	Y	norwegen	1885	    318	0.002	498.3333	german_at_news_2012_00460717
 23008	Damit liegt Österreich mit Finnland und Norwegen an der europäischen Spitze.	Y	norwegen	1885	    318	0.002	499.3636	german_at_news_2012_00146747
 23009	Norwegen, Israel und Dänemark haben ebenfalls ein Kommen angekündigt, sind aber noch nicht fix mit dabei.	Y	norwegen	1885	    318	0.002	552.5	german_at_news_2012_00730114
@@ -49,11 +49,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23048	Kleine.tv fragte sie, was ihnen an dem Rennen besonders gut gefällt.	Y	fragte	1886	    317	0.002	510.8333	german_at_news_2012_00638244
 23049	Warum er das nun erstmals sage, fragte der Richter.	Y	fragte	1886	    317	0.002	624	german_at_news_2012_00921801
 23050	Was tut die Bundesregierung in einer wirtschaftlich schwierigen Situation?, fragte Alfred Gusenbauer weiter.	Y	fragte	1886	    317	0.002	730.3846	german_at_news_2012_00928364
-23051	Lady Gaga zeigt ihr Veilchen auf Twitter Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	gaga	1886	    317	0.002	449.1111	german_at_news_2012_00648421
-23052	Lady Gaga zeigt ihr wahres Gesicht Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	gaga	1886	    317	0.002	450.3462	german_at_news_2012_00648422
-23053	Daneben: Gaga kaum bekleidet am Flughafen Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	gaga	1886	    317	0.002	468.3846	german_at_news_2012_00150515
-23054	Auch bei uns: Am 18. August ist Lady Gaga in der Wiener Stadthalle zu Gast.	Y	gaga	1886	    317	0.002	484.2857	german_at_news_2012_00060455
-23055	Was aber fast niemand weiß: Lady Gaga war auch privat in Wien unterwegs … Und wo setzt eine Lady Gaga ihr Pokerface auf?	Y	gaga	1886	    317	0.002	495.5	german_at_news_2012_00923076
+23051	Twitter: Lady Gaga hat über 27 Millionen Fans Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	gaga	1886	    317	0.002	387.8519	german_at_news_2012_00858404
+23052	Lady Gaga zeigt ihr Veilchen auf Twitter Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	gaga	1886	    317	0.002	449.1111	german_at_news_2012_00648421
+23053	Lady Gaga zeigt ihr wahres Gesicht Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	gaga	1886	    317	0.002	450.3462	german_at_news_2012_00648422
+23054	Daneben: Gaga kaum bekleidet am Flughafen Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	gaga	1886	    317	0.002	468.3846	german_at_news_2012_00150515
+23055	Auch bei uns: Am 18. August ist Lady Gaga in der Wiener Stadthalle zu Gast.	Y	gaga	1886	    317	0.002	484.2857	german_at_news_2012_00060455
 23056	Nicole Scherzinger: „Ich will heiraten“ Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	nicole	1886	    317	0.002	436.08	german_at_news_2012_00726239
 23057	Nicole hat eine Stelle bei der Erste Bank gefunden.	Y	nicole	1886	    317	0.002	440.6667	german_at_news_2012_00726217
 23058	Tänzerin Nicole muss Sendung verlassen Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	nicole	1886	    317	0.002	451	german_at_news_2012_00848028
@@ -139,11 +139,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23138	Dort wurde man bereits lautstark von den Demonstranten erwartet.	Y	demonstranten	1888	    315	0.002	550.2222	german_at_news_2012_00391786
 23139	Schon in der Nacht auf Samstag war die Polizei den Angaben zufolge mit Tränengas gegen Demonstranten vorgegangen.	Y	demonstranten	1888	    315	0.002	555.8235	german_at_news_2012_00785473
 23140	Die Opposition erwartet bis zu 20 Millionen Demonstranten in ganz Ägypten.	Y	demonstranten	1888	    315	0.002	566.7	german_at_news_2012_00332584
-23141	Aber es ist wie in einer langjährigen Ehe: Dass der Nachbar auf die Gattin steht, tut einfach nichts zur Sache.	Y	gattin	1888	    315	0.002	460.5	german_at_news_2012_00006214
-23142	Der Grund: Für den 60-jährigen Austropopper fordert seine Noch-Gattin zu viel Geld.	Y	gattin	1888	    315	0.002	483.6154	german_at_news_2012_00242915
-23143	Jetzt ist nur mehr die Frage, wie lange die Gattin noch gute Miene zum bösen Spiel macht.	Y	gattin	1888	    315	0.002	486.25	german_at_news_2012_00624565
-23144	Sollte er einmal nicht mehr Minister sein, kann er dann herrlich mit seiner Pension und der Gage seiner Gattin leben.	Y	gattin	1888	    315	0.002	518.4444	german_at_news_2012_00827252
-23145	Nach der Tat am 26. Oktober sagte die Gattin noch anders aus, deshalb wurde zuerst auch wegen Mordversuchs ermittelt.	Y	gattin	1888	    315	0.002	529.6111	german_at_news_2012_00706955
+23141	Nur wer von so vielen Millionen blind wird, der glaubt nicht mehr, dass man ihn noch erwischt - insbesondere dann, wenn eine Frau EX-Ministerin die Gattin ist.	Y	gattin	1888	    315	0.002	401.1852	german_at_news_2012_00736278
+23142	Aber es ist wie in einer langjährigen Ehe: Dass der Nachbar auf die Gattin steht, tut einfach nichts zur Sache.	Y	gattin	1888	    315	0.002	460.5	german_at_news_2012_00006214
+23143	Der Grund: Für den 60-jährigen Austropopper fordert seine Noch-Gattin zu viel Geld.	Y	gattin	1888	    315	0.002	483.6154	german_at_news_2012_00242915
+23144	Jetzt ist nur mehr die Frage, wie lange die Gattin noch gute Miene zum bösen Spiel macht.	Y	gattin	1888	    315	0.002	486.25	german_at_news_2012_00624565
+23145	Sollte er einmal nicht mehr Minister sein, kann er dann herrlich mit seiner Pension und der Gage seiner Gattin leben.	Y	gattin	1888	    315	0.002	518.4444	german_at_news_2012_00827252
 23146	Wien bringt damit auch klar zum Ausdruck: Wir sagen ‘JA’ zur Zuwanderung, erwarten im Gegenzug aber auch ein ‘JA’ zu Wien.	Y	gegenzug	1888	    315	0.002	444.2778	german_at_news_2012_00956981
 23147	Im Gegenzug gebe die Stadt Wien für „Eigenwerbung“ fast gleich viel aus wie im Vorjahr.	Y	gegenzug	1888	    315	0.002	446.5	german_at_news_2012_00571562
 23148	Wir haben die Schmerzgrenze in Europa im Gegenzug dazu offenbar noch nicht erreicht.	Y	gegenzug	1888	    315	0.002	451.1538	german_at_news_2012_00965261
@@ -164,13 +164,13 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23163	Kein Instrument darf lauter als das andere sein.	Y	lauter	1888	    315	0.002	559.125	german_at_news_2012_00634439
 23164	Aber jetzt komme ich mit einem großen Orchester, das aus lauter Freunden besteht.	Y	lauter	1888	    315	0.002	589.3846	german_at_news_2012_00008225
 23165	Steirische Unis wollen Studiengebühren An den steirischen Universitäten wird der Ruf nach Studiengebühren immer lauter.	Y	lauter	1888	    315	0.002	855.9286	german_at_news_2012_00842255
-23166	Das wird in der EU auch registriert“.	Y	registriert	1888	    315	0.002	294.7143	german_at_news_2012_00205613
-23167	Seit Freitag, 16. Dezember, ist das anders und es wird trotzdem nicht registriert!	Y	registriert	1888	    315	0.002	334.8333	german_at_news_2012_00797908
-23168	Auch aus diesem Grund, weil ich auf einmal bei Singlebörse angemeldet war, (wo ich mich aber nie Registriert habe) mit meinen ganzen Fotos.	Y	registriert	1888	    315	0.002	447.4091	german_at_news_2012_00059788
-23169	Die Tiere haben den Mann registriert und sind dann schon ein bisserl von mir gewichen.	Y	registriert	1888	    315	0.002	513.7333	german_at_news_2012_00367578
-23170	“Frau Jens registriert es wohl gar nicht, aber sie hat in dieser Stadt große Macht erworben und sie geht damit ausgesprochen sorgsam um.”	Y	registriert	1888	    315	0.002	523.2727	german_at_news_2012_00487591
+23166	Wie Sie wissen, ist in einer Bank alles registriert, und da gibt es nichts, was nicht registriert ist.	Y	registriert	1888	    315	0.002	209.75	german_at_news_2012_00959315
+23167	Einer meinte ich könnte auch auf news.at über sie schreiben wenn ich da schon registriert bin.	Y	registriert	1888	    315	0.002	285.125	german_at_news_2012_00412654
+23168	Das wird in der EU auch registriert“.	Y	registriert	1888	    315	0.002	294.7143	german_at_news_2012_00205613
+23169	Seit Freitag, 16. Dezember, ist das anders und es wird trotzdem nicht registriert!	Y	registriert	1888	    315	0.002	334.8333	german_at_news_2012_00797908
+23170	In 90 Sekunden war ich registriert“, schrieb er.	Y	registriert	1888	    315	0.002	696.2857	german_at_news_2012_00584614
 23171	Gleichzeitig betonte er aber, dass er auf das Gespräch setze.	Y	setze	1888	    315	0.002	411.5556	german_at_news_2012_00517067
-23172	Dazu muss man auch ein Gefühl entwickeln, und dafür setze ich mich total ein.“	Y	setze	1888	    315	0.002	507.3846	german_at_news_2012_00211216
+23172	Nein, mein Herz gehört Niederösterreich, ich setze mich mit allem, was ich verfügbar habe, dafür ein.	Y	setze	1888	    315	0.002	501.6667	german_at_news_2012_00718082
 23173	Gerade im Bereich Wachstum und Beschäftigung setze die Bundesregierung eine Reihe von Maßnahmen.	Y	setze	1888	    315	0.002	555	german_at_news_2012_00511802
 23174	Die Erholung auf dem Arbeitsmarkt setze sich auch in diesem Monat fort.	Y	setze	1888	    315	0.002	644.8333	german_at_news_2012_00297032
 23175	Man setze nun auf den gesellschaftlichen Konsens statt auf den Konflikt.	Y	setze	1888	    315	0.002	861.3333	german_at_news_2012_00668668
@@ -215,10 +215,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23214	In den verschiedenen Klassen wurden 14 verschiedene Stationen, alle zum Thema Lesen, angeboten.	Y	klassen	1889	    314	0.002	647	german_at_news_2012_00589213
 23215	Frau Ministerin, wir Insider glauben die Klassen mit 25 Schülern nicht.	Y	klassen	1889	    314	0.002	809.1	german_at_news_2012_00487657
 23216	Einen Hinweis will Le dann aber doch geben.	Y	le	1889	    314	0.002	491.375	german_at_news_2012_00410532
-23217	Mit Hilfe des Le Meridien Wien und von Wiener Börse.at ist es nun soweit.	Y	le	1889	    314	0.002	585.7333	german_at_news_2012_00691997
-23218	Also nutze ich die Zeit vor den nächsten hundert La Le Lus lieber so, wie das junge Eltern immer tun sollten.	Y	le	1889	    314	0.002	591.9524	german_at_news_2012_00034205
-23219	Queen of Pop Madonna verärgert Le Pen Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	le	1889	    314	0.002	594.1481	german_at_news_2012_00765943
-23220	Le Pen: Ganz einfach, weil wir über das Europa von morgen nachdenken müssen.	Y	le	1889	    314	0.002	604.3077	german_at_news_2012_00656542
+23217	Salzburg: „Panne“ bei Le nozze di Figaro Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	le	1889	    314	0.002	551.1111	german_at_news_2012_00777381
+23218	Mit Hilfe des Le Meridien Wien und von Wiener Börse.at ist es nun soweit.	Y	le	1889	    314	0.002	585.7333	german_at_news_2012_00691997
+23219	Also nutze ich die Zeit vor den nächsten hundert La Le Lus lieber so, wie das junge Eltern immer tun sollten.	Y	le	1889	    314	0.002	591.9524	german_at_news_2012_00034205
+23220	Queen of Pop Madonna verärgert Le Pen Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	le	1889	    314	0.002	594.1481	german_at_news_2012_00765943
 23221	Vielleicht ist man darauf gekommen, weil wir ja bei der PISA so schlecht waren.	Y	pisa	1889	    314	0.002	326.6429	german_at_news_2012_00901464
 23222	Das Ergebnis der PISA-Studie zeigt, dass sie dabei erfolgreich sind“, so Gehrer abschließend.	Y	pisa	1889	    314	0.002	501.5	german_at_news_2012_00166440
 23223	Die internationale PISA-Studie hat gezeigt, dass der Großteil der österreichischen Schülerinnen und Schüler gut lesen kann.	Y	pisa	1889	    314	0.002	570.5	german_at_news_2012_00315264
@@ -231,9 +231,9 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23230	Günther Platter habe seine Entscheidung auf eine klare rechtliche Basis gestellt.	Y	rechtliche	1889	    314	0.002	775.8182	german_at_news_2012_00524177
 23231	Oder ist es vielleicht so, dass ein Redakteur die gute Idee hatte, einmal nicht nur über ein wichtiges Thema (in dem Fall Klimaschutz) zu schreiben, sondern auch wirklich selbst etwas zu tun.	Y	redakteur	1889	    314	0.002	325.9333	german_at_news_2012_00741616
 23232	Der Redakteur bekommt nicht mehr mit, was in seiner Zeitung passiert.	Y	redakteur	1889	    314	0.002	403.8182	german_at_news_2012_00256799
-23233	Und wenn es einem Redakteur nicht passt, dann soll er kündigen!	Y	redakteur	1889	    314	0.002	517	german_at_news_2012_00884275
-23234	Nach seinem Abschluss 1984 begann er im ORF zu arbeiten: Vier Jahre war er als Redakteur beim Teletext tätig, ein Jahr in der Bundesländer-Redaktion.	Y	redakteur	1889	    314	0.002	522.0435	german_at_news_2012_00710575
-23235	Als Redakteur und Reporter bei Live-Einsätzen ist er seitdem auch vor der Kamera zu sehen, seit 2011 war er auch als Chef vom Dienst im Einsatz.	Y	redakteur	1889	    314	0.002	524.6957	german_at_news_2012_00035016
+23233	Im Gespräch mit ORF-Redakteur Jürgen Peschina führt er aus, dass die Entwicklung in Vorarlberg aber eine andere als die bundesweite sei.	Y	redakteur	1889	    314	0.002	511.5714	german_at_news_2012_00571878
+23234	Und wenn es einem Redakteur nicht passt, dann soll er kündigen!	Y	redakteur	1889	    314	0.002	517	german_at_news_2012_00884275
+23235	Nach seinem Abschluss 1984 begann er im ORF zu arbeiten: Vier Jahre war er als Redakteur beim Teletext tätig, ein Jahr in der Bundesländer-Redaktion.	Y	redakteur	1889	    314	0.002	522.0435	german_at_news_2012_00710575
 23236	Und es macht überhaupt keinen Sinn für mich“, so Riess.	Y	riess	1889	    314	0.002	414.5	german_at_news_2012_00875672
 23237	Und er sagte dann noch, Riess-Passer werde einen anderen Stil als er Die Österreicher sind zwar mit großer Mehrheit für die EU und den Verbleib Österreichs in der Europäischen Gemeinschaft.	Y	riess	1889	    314	0.002	458.9643	german_at_news_2012_00875134
 23238	Dass dies nicht gerade schwer fiel, hat auch damit zu tun, dass Riess-Passer in der FPÖ ohnehin nie so recht beliebt war.	Y	riess	1889	    314	0.002	465.3182	german_at_news_2012_00193507
@@ -394,8 +394,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23393	Ich will eine Erklärung von ihm“, bekräftigte Kopf.	Y	bekräftigte	1893	    310	0.0019	550.375	german_at_news_2012_00561684
 23394	Niemand stellt diese Ziele in Frage“, bekräftigte der Bundeskanzler.	Y	bekräftigte	1893	    310	0.0019	590.8889	german_at_news_2012_00726869
 23395	Bures bekräftigte die Forderung der SPÖ nach Neuwahlen.	Y	bekräftigte	1893	    310	0.0019	862.625	german_at_news_2012_00125845
-23396	Auch heute wird er in den Bergen leiden.	Y	bergen	1893	    310	0.0019	443.375	german_at_news_2012_00067354
-23397	Das muss ja gemacht werden, sonst liegt sie irgendwann in Bergen vor einem herum.	Y	bergen	1893	    310	0.0019	463	german_at_news_2012_00186473
+23396	Wenn es in der Stadt weit über 30 Grad hat, dann ist es in den Bergen erst so richtig schön.	Y	bergen	1893	    310	0.0019	300.8824	german_at_news_2012_00940143
+23397	Drama in Tiroler Bergen: 2 Tote Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	bergen	1893	    310	0.0019	443.4	german_at_news_2012_00392021
 23398	Bei uns ist es sehr üblich, in den Bergen politische Entscheidungen zu treffen.	Y	bergen	1893	    310	0.0019	510	german_at_news_2012_00106092
 23399	Jetzt geht es darum, die Toten zu bergen.	Y	bergen	1893	    310	0.0019	560.875	german_at_news_2012_00623714
 23400	Es fehlen Kraft und Ressourcen, um auch die Toten zu bergen.	Y	bergen	1893	    310	0.0019	692.4545	german_at_news_2012_00453725
@@ -434,11 +434,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23433	Aber im Grunde sei von Faymann, Spindelegger und Co. auch nichts anderes zu erwarten gewesen, so Strache abschließend.	Y	grunde	1893	    310	0.0019	482.6667	german_at_news_2012_00007734
 23434	Aus diesem Grunde ist die neue OÖNachrichten-Serie auch und vor allem für die Jüngeren geschrieben.	Y	grunde	1893	    310	0.0019	551.9333	german_at_news_2012_00082307
 23435	Sie im Grunde „nur“ für Interviews/PR verpflichtet wurden.	Y	grunde	1893	    310	0.0019	796.3333	german_at_news_2012_00808630
-23436	Mir hat jemand schon 6000 Euro geboten, ich denke, das ist etwas wenig“, soll Horst erklärt haben.	Y	horst	1893	    310	0.0019	441.5	german_at_news_2012_00681812
-23437	Wie der Attentäter, der nur eine Möglichkeit zum Schuss hat, gibt es auch bei Horst Stein keine zweite Chance mehr.	Y	horst	1893	    310	0.0019	510.5263	german_at_news_2012_00952868
-23438	In Wien hab ich dann eine SMS von dem Arzt bekommen, in der er geschrieben hat, dass Horst verstorben ist.	Y	horst	1893	    310	0.0019	522.5789	german_at_news_2012_00613044
-23439	“Wir haben das ganze Jahr auf diese Spiele hintrainiert”, betonte Horst.	Y	horst	1893	    310	0.0019	555	german_at_news_2012_00965006
-23440	Das österreichische Team von Horst Seidler hatte in seiner ersten Grabungssaison im Jahr 2000 diesen Fehler gemacht.	Y	horst	1893	    310	0.0019	565.8125	german_at_news_2012_00188283
+23436	Weil der Horst so tief ist, sieht man sie erst jetzt.“	Y	horst	1893	    310	0.0019	362.8182	german_at_news_2012_00930630
+23437	Mir hat jemand schon 6000 Euro geboten, ich denke, das ist etwas wenig“, soll Horst erklärt haben.	Y	horst	1893	    310	0.0019	441.5	german_at_news_2012_00681812
+23438	Wie der Attentäter, der nur eine Möglichkeit zum Schuss hat, gibt es auch bei Horst Stein keine zweite Chance mehr.	Y	horst	1893	    310	0.0019	510.5263	german_at_news_2012_00952868
+23439	In Wien hab ich dann eine SMS von dem Arzt bekommen, in der er geschrieben hat, dass Horst verstorben ist.	Y	horst	1893	    310	0.0019	522.5789	german_at_news_2012_00613044
+23440	“Wir haben das ganze Jahr auf diese Spiele hintrainiert”, betonte Horst.	Y	horst	1893	    310	0.0019	555	german_at_news_2012_00965006
 23441	Jeder, der ein Los um 99 Euro kauft, ist dabei.	Y	kauft	1893	    310	0.0019	357.1111	german_at_news_2012_00620094
 23442	Wer das Haus kauft, hat nichts davon.	Y	kauft	1893	    310	0.0019	410.8571	german_at_news_2012_00945583
 23443	Im ersten Jahr kauft man die Möbel.	Y	kauft	1893	    310	0.0019	577.7143	german_at_news_2012_00569708
@@ -499,9 +499,9 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23498	Damals gab es Standing Ovations für den legendären Apple-Gründer – die sind auch heute wieder zu erwarten.	Y	legendären	1894	    309	0.0019	588.2353	german_at_news_2012_00143652
 23499	Nach vier Jahren gibt es ein Revival der legendären Band aus dem Zillertal, nun mit der nächsten Generation an Musikern.	Y	legendären	1894	    309	0.0019	591.7895	german_at_news_2012_00711495
 23500	Für Wills Frau war es bereits das zweite Mal beim legendären Sport-Event.	Y	legendären	1894	    309	0.0019	592.7692	german_at_news_2012_00501398
-23501	Mehr als 20 Produzenten gibt es in der Region.	Y	produzenten	1894	    309	0.0019	337.5	german_at_news_2012_00673544
-23502	Einige der Produzenten arbeiten lieber gegen- statt miteinander und haben offenbar kein Interesse mehr daran, Lust auf den österreichischen Film zu machen.	Y	produzenten	1894	    309	0.0019	423.2727	german_at_news_2012_00418952
-23503	Am besten finde ich, dass ich mit den Produzenten persönlich sprechen und erfahren kann, wie und wo die Produkte entstehen.	Y	produzenten	1894	    309	0.0019	507.9444	german_at_news_2012_00039918
+23501	Im vergangenen Jahr hatte sich die 38-Jährige von dem Produzenten getrennt, mit dem sie fast zehn Jahre zusammen war.	Y	produzenten	1894	    309	0.0019	234.4444	german_at_news_2012_00581964
+23502	Mehr als 20 Produzenten gibt es in der Region.	Y	produzenten	1894	    309	0.0019	337.5	german_at_news_2012_00673544
+23503	Sollte doch jemand auf diese Idee kommen, müssten die Produzenten schon ins Extrem gehen.	Y	produzenten	1894	    309	0.0019	481.5714	german_at_news_2012_00827210
 23504	Das neue Gesetz gebe sowohl den Produzenten als auch den Konsumenten ein „gutes Gefühl“, sagte Schüssel.	Y	produzenten	1894	    309	0.0019	562.1333	german_at_news_2012_00187175
 23505	Hier sind die Produzenten am Zug, den Wünschen und Vorstellungen der Konsumenten gerecht zu werden.	Y	produzenten	1894	    309	0.0019	648.2	german_at_news_2012_00540332
 23506	Ich weiß bis heute nicht, was die Leute in mir sahen.	Y	sahen	1894	    309	0.0019	278.5455	german_at_news_2012_00560790
@@ -529,11 +529,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23528	Aber auch bei ihren Angestellten hat die Post mit Schwierigkeiten zu kämpfen.	Y	angestellten	1895	    308	0.0019	537.0833	german_at_news_2012_00001855
 23529	Nicht jede Firma bietet ihren Angestellten eine solche Möglichkeit.	Y	angestellten	1895	    308	0.0019	552.2222	german_at_news_2012_00724030
 23530	Die Bank nannte keine Namen der betroffenen Angestellten.	Y	angestellten	1895	    308	0.0019	683.75	german_at_news_2012_00283486
-23531	Jetzt darf er genießen, dass sie alle vor ihm auf dem Bauch liegen, die ihn vor vielen Jahrzehnten gar nicht wahrgenommen haben.	Y	bauch	1895	    308	0.0019	413.9048	german_at_news_2012_00623396
-23532	Doch wenn ich Entscheidungen fälle, müssen Kopf und Bauch übereinstimmen, und mir war bald klar, dass das nicht der Fall ist.	Y	bauch	1895	    308	0.0019	461.15	german_at_news_2012_00388551
-23533	Auf die Frage, ob sie für FPÖ-Chef H.C. Strache ein Catering machen würde, antwortet die 48jährige klar: „Das ist eine Frage von Haltung, also sage ich aus dem Bauch heraus: Nein, das würde ich nicht machen.	Y	bauch	1895	    308	0.0019	492.5938	german_at_news_2012_00076689
-23534	Für eine Nachspeise war kein Platz mehr im Bauch.	Y	bauch	1895	    308	0.0019	512.7778	german_at_news_2012_00496771
-23535	Wie auch folgender Witz bestätigt: Was sagt ein Mann, der in einem Swimmingpool bis zum Bauch im Wasser steht?	Y	bauch	1895	    308	0.0019	552.7895	german_at_news_2012_00951816
+23531	Es kann sich ja kein Manager vor den Vorstand stellen und sagen, dass er die Entscheidung allein aus dem Bauch heraus getroffen hat.	Y	bauch	1895	    308	0.0019	363.6522	german_at_news_2012_00464433
+23532	Jetzt darf er genießen, dass sie alle vor ihm auf dem Bauch liegen, die ihn vor vielen Jahrzehnten gar nicht wahrgenommen haben.	Y	bauch	1895	    308	0.0019	413.9048	german_at_news_2012_00623396
+23533	Doch wenn ich Entscheidungen fälle, müssen Kopf und Bauch übereinstimmen, und mir war bald klar, dass das nicht der Fall ist.	Y	bauch	1895	    308	0.0019	461.15	german_at_news_2012_00388551
+23534	Auf die Frage, ob sie für FPÖ-Chef H.C. Strache ein Catering machen würde, antwortet die 48jährige klar: „Das ist eine Frage von Haltung, also sage ich aus dem Bauch heraus: Nein, das würde ich nicht machen.	Y	bauch	1895	    308	0.0019	492.5938	german_at_news_2012_00076689
+23535	Für eine Nachspeise war kein Platz mehr im Bauch.	Y	bauch	1895	    308	0.0019	512.7778	german_at_news_2012_00496771
 23536	Aber bei allen Belastungen muss man bedenken: Die Menschen da draußen müssen leben und für ihre Arbeit Geld bekommen.	Y	belastungen	1895	    308	0.0019	380.1053	german_at_news_2012_00002839
 23537	Da weiß man doch, wofür man all' die Belastungen auf sich genommen hat!	Y	belastungen	1895	    308	0.0019	474.9167	german_at_news_2012_00208889
 23538	Es wird in diesem Haus keinerlei Mehrheit für weitere Belastungen geben.	Y	belastungen	1895	    308	0.0019	485.3636	german_at_news_2012_00471821
@@ -579,7 +579,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23578	Mit dieser Aktion möchte ich einen Schritt weitergehen - direkt auf die Menschen unserer Stadt zu“, sagt Sabine Haag.	Y	sabine	1895	    308	0.0019	546.6667	german_at_news_2012_00689165
 23579	Adresse, Postleitzahl, Ort oder Bezirk Sabine Klein hat noch keine Favoriten.	Y	sabine	1895	    308	0.0019	561.0909	german_at_news_2012_00017698
 23580	Die Zielgruppe der Plattform, auf die bereits mehr als 2000 Tipps online gestellt wurden, sind vor allem Familien, wie Sabine Gebetsroither vom OÖ. Tourismus erklärt.	Y	sabine	1895	    308	0.0019	599.5217	german_at_news_2012_00380024
-23581	Jetzt sinken sie schon auf das Niveau der FPÖ.	Y	sinken	1895	    308	0.0019	382.4444	german_at_news_2012_00625528
+23581	Und der Tourismus wird natürlich auch sehr stark sinken wenn es dieses treffen nicht mehr gibt!	Y	sinken	1895	    308	0.0019	288.4375	german_at_news_2012_00872423
 23582	Die Inflation, die über dem Sommer auf fast 4 Prozent gestiegen ist, wird in den nächsten Monaten stärker als bisher erwartet sinken.	Y	sinken	1895	    308	0.0019	420.75	german_at_news_2012_00314393
 23583	Die Bank Austria erwartet, dass die Zinsen „generell weiter sinken werden“.	Y	sinken	1895	    308	0.0019	665.5	german_at_news_2012_00283339
 23584	Denn dann würden die Werte automatisch danach sinken.	Y	sinken	1895	    308	0.0019	715	german_at_news_2012_00218626
@@ -599,11 +599,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23598	Kritik an der Verordnung kam von der Opposition.	Y	verordnung	1895	    308	0.0019	555.8571	german_at_news_2012_00644495
 23599	Außerhalb der Europäischen Union bringt diese Verordnung jedoch keine Vorteile.	Y	verordnung	1895	    308	0.0019	685.5	german_at_news_2012_00088090
 23600	Neue Rad-Verordnung: Jetzt wird streng kontrolliert!	Y	verordnung	1895	    308	0.0019	1069.8571	german_at_news_2012_00719526
-23601	Weil sich die Politiker aber nicht einigen können, bleibt alles, wie es ist - wider besseres Wissen.	Y	wider	1895	    308	0.0019	382.75	german_at_news_2012_00931518
-23602	Für mich ist das wider der Natur.	Y	wider	1895	    308	0.0019	434.2857	german_at_news_2012_00499067
-23603	Namensgebungen spiegelten immer auch die Geschichte einer Stadt wider - und „man soll nicht so tun, als ob es keine dunklen Seiten gegeben hätte“.	Y	wider	1895	    308	0.0019	482.7826	german_at_news_2012_00712914
-23604	Derzeit geben wir keine Empfehlung für oder wider ab.	Y	wider	1895	    308	0.0019	487	german_at_news_2012_00268864
-23605	Vielleicht würde dann die SPÖ wider das werden, was sie eimal war: Nämlich eine Sozialdemokratische Partei.	Y	wider	1895	    308	0.0019	503.25	german_at_news_2012_00902099
+23601	In der politischen Debatte gibt es nun kein Für und Wider mehr, sondern nur noch: Für oder Wider.	Y	wider	1895	    308	0.0019	277.75	german_at_news_2012_00592783
+23602	Weil sich die Politiker aber nicht einigen können, bleibt alles, wie es ist - wider besseres Wissen.	Y	wider	1895	    308	0.0019	382.75	german_at_news_2012_00931518
+23603	Für mich ist das wider der Natur.	Y	wider	1895	    308	0.0019	434.2857	german_at_news_2012_00499067
+23604	Namensgebungen spiegelten immer auch die Geschichte einer Stadt wider - und „man soll nicht so tun, als ob es keine dunklen Seiten gegeben hätte“.	Y	wider	1895	    308	0.0019	482.7826	german_at_news_2012_00712914
+23605	Derzeit geben wir keine Empfehlung für oder wider ab.	Y	wider	1895	    308	0.0019	487	german_at_news_2012_00268864
 23606	Er hat der Region den Wohlstand gebracht, ohne ihn wären wir nicht da, wo wir sind.“	Y	wohlstand	1895	    308	0.0019	303.7333	german_at_news_2012_00437026
 23607	Damit kann das Internet in Österreich auch in Zukunft einen wesentlichen Beitrag zu Wachstum und Wohlstand leisten.	Y	wohlstand	1895	    308	0.0019	433.4375	german_at_news_2012_00146201
 23608	Dabei ist nicht zu vergessen, dass es die Älteren waren, die die Basis für den Wohlstand der Jüngeren erarbeitet haben.	Y	wohlstand	1895	    308	0.0019	532.9444	german_at_news_2012_00132966
@@ -734,11 +734,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23733	Aber Graf ist doch kein Nazi. Gibt es für Sie heute überhaupt noch Nazis?	Y	nazis	1897	    306	0.0019	441.5714	german_at_news_2012_00006783
 23734	!, denn erklären Sie mir mal was Nazis gemacht haben?	Y	nazis	1897	    306	0.0019	447.3333	german_at_news_2012_00220417
 23735	Nicht, weil da die Nazis hinter dem Mond verschwunden sind.	Y	nazis	1897	    306	0.0019	632.7	german_at_news_2012_00725719
-23736	Google Play ab sofort in der Navi-Leiste Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	play	1897	    306	0.0019	427.8929	german_at_news_2012_00519211
-23737	Playstation-Handy Xperia Play vor dem Start Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	play	1897	    306	0.0019	463.4074	german_at_news_2012_00758573
-23738	Auch nach der 14. Runde am Samstag ist der Kampf um den Einzug ins Meister-Play-Off recht offen, nach wie vor haben vier Spieltage vor Ende des Grunddurchgangs sechs Teams die Chance auf einen Platz unter den ersten Vier.	Y	play	1897	    306	0.0019	517.1471	german_at_news_2012_00070386
-23739	Bilder vom Sony Ericsson Xperia Play-Test Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	play	1897	    306	0.0019	522.8519	german_at_news_2012_00115125
-23740	Eines ist für Burger aber klar: „Obwohl die Wiener keine Chance mehr auf das Erreichen des Play-off haben, werden sie uns die Punkte sicher nicht kampflos überlassen.	Y	play	1897	    306	0.0019	523.8148	german_at_news_2012_00413824
+23736	Kindern könne auch ohne Play-Station groß werden „Täglich drei bis vier Stunden mit der Play-Station zu spielen, das ist zu viel.	Y	play	1897	    306	0.0019	377.95	german_at_news_2012_00636626
+23737	Google Play ab sofort in der Navi-Leiste Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	play	1897	    306	0.0019	427.8929	german_at_news_2012_00519211
+23738	Playstation-Handy Xperia Play vor dem Start Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	play	1897	    306	0.0019	463.4074	german_at_news_2012_00758573
+23739	Wir können es besser, und ich bin überzeugt, dass im Play-off eine ganz andere Bregenzer Mannschaft zu sehen sein wird als in diesem Herbst“, erklärte Rauch kämpferisch.	Y	play	1897	    306	0.0019	486.8929	german_at_news_2012_00967534
+23740	Auch nach der 14. Runde am Samstag ist der Kampf um den Einzug ins Meister-Play-Off recht offen, nach wie vor haben vier Spieltage vor Ende des Grunddurchgangs sechs Teams die Chance auf einen Platz unter den ersten Vier.	Y	play	1897	    306	0.0019	517.1471	german_at_news_2012_00070386
 23741	Und es gibt auch kein Rezept dafür, es gibt nur Fehler, die man vermeiden kann.“	Y	rezept	1897	    306	0.0019	405.6923	german_at_news_2012_00875418
 23742	Auf dem Bild zu dem Artikel sind die Seiten eines Heftes zu sehen und genau auf diesen soll das Rezept stehen.	Y	rezept	1897	    306	0.0019	407.8889	german_at_news_2012_00074301
 23743	Lust auf Rezept: Das Geschäft mit den Potenzpillen nimmt auch in Österreich zu Das Geschäft mit den Potenzpillen: Was sie kosten und wer sie wirklich nimmt.	Y	rezept	1897	    306	0.0019	437.8421	german_at_news_2012_00661204
@@ -780,10 +780,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23779	Die Euro-Einführung wird nach wie vor, neben anderen Faktoren, für steigende Preise verantwortlich gemacht.	Y	faktoren	1898	    305	0.0019	514.7333	german_at_news_2012_00299029
 23780	Als Ursachen für die Entwicklungen in China machten Experten mehrere Faktoren verantwortlich.	Y	faktoren	1898	    305	0.0019	813	german_at_news_2012_00036169
 23781	Zum anderen laden wir im Haydn-Jahr die Welt ein, zu uns ins Burgenland zu kommen, denn nirgendwo sonst kann man Haydn so spüren, wie hier im Burgenland.	Y	haydn	1898	    305	0.0019	407.7083	german_at_news_2012_00988228
-23782	Zum anderen wollen wir im HAYDN-JAHR 2009 die Welt einladen, zu uns ins Burgenland zu kommen, wo Haydn mehr als drei Jahrzehnte seines Lebens verbracht hat.	Y	haydn	1898	    305	0.0019	480.625	german_at_news_2012_00988289
-23783	Doch die Art, wie Haydn das komponierte, war ganz anders.	Y	haydn	1898	    305	0.0019	527.6	german_at_news_2012_00384314
-23784	Wir freuen uns sehr, Haydn und seiner Botschaft das Jahr 2009 zu widmen!	Y	haydn	1898	    305	0.0019	565.5833	german_at_news_2012_00964339
-23785	In Goyang gibt es all das, was man sich nur wünschen kann, um gemeinsam ein großes Haydn-Festival auszurichten.	Y	haydn	1898	    305	0.0019	583.1579	german_at_news_2012_00600534
+23782	Viele weitere Impulse wurden gesetzt, um im Burgenland und in Eisenstadt jedes Jahr ein wenig zum Haydn-Jahr zu machen.	Y	haydn	1898	    305	0.0019	450.1053	german_at_news_2012_00900696
+23783	Zum anderen wollen wir im HAYDN-JAHR 2009 die Welt einladen, zu uns ins Burgenland zu kommen, wo Haydn mehr als drei Jahrzehnte seines Lebens verbracht hat.	Y	haydn	1898	    305	0.0019	480.625	german_at_news_2012_00988289
+23784	Doch die Art, wie Haydn das komponierte, war ganz anders.	Y	haydn	1898	    305	0.0019	527.6	german_at_news_2012_00384314
+23785	Wir freuen uns sehr, Haydn und seiner Botschaft das Jahr 2009 zu widmen!	Y	haydn	1898	    305	0.0019	565.5833	german_at_news_2012_00964339
 23786	Denn auch wenn der 16-Jährige mit der Party längst nichts mehr zu tun haben wollte und nach Wien floh, kamen seine Gäste nach Klosterneuburg.	Y	klosterneuburg	1898	    305	0.0019	406	german_at_news_2012_00218226
 23787	Wir planten einen Besuch des Künstlers in Klosterneuburg im nächsten Jahr, zu dem es leider nicht mehr kam.	Y	klosterneuburg	1898	    305	0.0019	471.6667	german_at_news_2012_00968976
 23788	Vor 64 Jahren waren auch zwei Sportlerinnen dabei, die heute in Klosterneuburg wohnen.	Y	klosterneuburg	1898	    305	0.0019	511.9167	german_at_news_2012_00910520
@@ -829,10 +829,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23828	Die Reihe „musik & museum“ soll deshalb in jedem Konzert möglichst ein Werk eines lebenden Salzburger Komponisten, aber auch ein Werk eines Komponisten der überaus reichen musikalischen Vergangenheit dieser Stadt präsentieren.	Y	lebenden	1899	    304	0.0019	690.8846	german_at_news_2012_00340113
 23829	Diese Menschen stehen natürlich in Konkurrenz zu den in Wels lebenden Arbeitslosen oder Beschäftigten.“	Y	lebenden	1899	    304	0.0019	699.0769	german_at_news_2012_00348545
 23830	Das Phänomen der immer länger lebenden Menschen ist global.	Y	lebenden	1899	    304	0.0019	739.2222	german_at_news_2012_00188920
-23831	Vielleicht weil es gerade „modern“ geworden ist und weil Sie jetzt gute Chancen haben ins Fernsehen oder in die Zeitungen zu kommen?	Y	modern	1899	    304	0.0019	376.4762	german_at_news_2012_00902007
-23832	Seine Art zu kochen ist sehr leicht und modern.	Y	modern	1899	    304	0.0019	526	german_at_news_2012_00791244
-23833	Zumindest in Kärnten wirkt das orange Haus alles andere als modern.	Y	modern	1899	    304	0.0019	578.0909	german_at_news_2012_00989878
-23834	Der Lugner tut doch immer so modern?	Y	modern	1899	    304	0.0019	621.8571	german_at_news_2012_00249709
+23831	Gut einen Monat zu früh, um bei der Eröffnung von Wien Modern 2008 noch dabei sein zu können.	Y	modern	1899	    304	0.0019	343.875	german_at_news_2012_00525071
+23832	Die neuen Folgen sind wirklich spannend, sehr schnell und auch sehr modern.	Y	modern	1899	    304	0.0019	487	german_at_news_2012_00329831
+23833	Wien Modern wird von der Stadt Wien gefördert.	Y	modern	1899	    304	0.0019	538.4286	german_at_news_2012_00957782
+23834	Stehen dir einige Komponisten aus der großen Wien-Modern-Familie besonders nahe?	Y	modern	1899	    304	0.0019	601.9167	german_at_news_2012_00841798
 23835	Wien Modern trägt wesentlich zum kulturellen Profil unserer Stadt bei.	Y	modern	1899	    304	0.0019	715.4	german_at_news_2012_00957775
 23836	Dies ist natürlich auch eine Frage an die Reporter.	Y	reporter	1899	    304	0.0019	297.4444	german_at_news_2012_00358717
 23837	Schon jetzt treffen die ersten Reporter ein.	Y	reporter	1899	    304	0.0019	399.1429	german_at_news_2012_00785677
@@ -894,11 +894,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 23893	Das sei einfacher für die Betroffenen und günstiger für die Steuerzahler.	Y	günstiger	1900	    303	0.0019	710.3333	german_at_news_2012_00193929
 23894	Er meint jedoch, private Betreiber würden die Pflege eher günstiger machen.	Y	günstiger	1900	    303	0.0019	750.0909	german_at_news_2012_00441466
 23895	Wohnen im Herzen Wiens ist teuer - außerhalb zum Teil günstiger.	Y	günstiger	1900	    303	0.0019	931.9	german_at_news_2012_00975312
-23896	Diese Tugend dürfen wir nicht mehr aus den Augen lassen und müssen sie schon morgen in Hartberg wieder abrufen.	Y	hartberg	1900	    303	0.0019	483.4211	german_at_news_2012_00355994
-23897	In einer Woche startet Blau-Weiß Linz mit dem Heimspiel gegen Hartberg in die zweite Saison in der Ersten Liga.	Y	hartberg	1900	    303	0.0019	529.2778	german_at_news_2012_00598948
-23898	Wollen Sie die Highlights im Bezirk Hartberg einmal aus einer ganz anderen Perspektive erleben?	Y	hartberg	1900	    303	0.0019	552.6429	german_at_news_2012_00976070
-23899	Hartberg ist damit im Frühjahr auch nach sechs Spielen noch sieglos.	Y	hartberg	1900	    303	0.0019	575.3636	german_at_news_2012_00529115
-23900	Und jetzt, nach der Heimniederlage gegen Hartberg hat sich der Verein halt entschieden dafür.	Y	hartberg	1900	    303	0.0019	576.0769	german_at_news_2012_00878376
+23896	Doch der Trainer warnt: „Hartberg ist vielleicht angeschlagen, das heißt aber noch lange nicht, dass es für uns ein Spaziergang wird.“	Y	hartberg	1900	    303	0.0019	477.5238	german_at_news_2012_00384191
+23897	Diese Tugend dürfen wir nicht mehr aus den Augen lassen und müssen sie schon morgen in Hartberg wieder abrufen.	Y	hartberg	1900	    303	0.0019	483.4211	german_at_news_2012_00355994
+23898	In einer Woche startet Blau-Weiß Linz mit dem Heimspiel gegen Hartberg in die zweite Saison in der Ersten Liga.	Y	hartberg	1900	    303	0.0019	529.2778	german_at_news_2012_00598948
+23899	Wollen Sie die Highlights im Bezirk Hartberg einmal aus einer ganz anderen Perspektive erleben?	Y	hartberg	1900	    303	0.0019	552.6429	german_at_news_2012_00976070
+23900	Hartberg ist damit im Frühjahr auch nach sechs Spielen noch sieglos.	Y	hartberg	1900	    303	0.0019	575.3636	german_at_news_2012_00529115
 23901	Es geht nicht nur darum, eine Politik für Frauen, sondern auch eine Politik von Frauen zu machen“, so Rauch-Kallat abschließend.	Y	kallat	1900	    303	0.0019	348.7222	german_at_news_2012_00455707
 23902	Und zwar, so Rauch-Kallat, egal ob in der Regierung oder in der Opposition.	Y	kallat	1900	    303	0.0019	512.25	german_at_news_2012_00886278
 23903	Rauch-Kallat will nicht, sie kann nicht.	Y	kallat	1900	    303	0.0019	593.5	german_at_news_2012_00767631

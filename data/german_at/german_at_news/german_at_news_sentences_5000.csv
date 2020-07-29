@@ -241,14 +241,14 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 24240	Für meinen mittleren Sohn startete vor zwei Monaten die Volksschule.	Y	mittleren	1905	    298	0.0019	755.6	german_at_news_2012_00498907
 24241	So schlimm ist es dann auch wieder nicht.	Y	schlimm	1905	    298	0.0019	267	german_at_news_2012_00830440
 24242	Wie schlimm wird die neue Krise für Österreich?	Y	schlimm	1905	    298	0.0019	358.125	german_at_news_2012_00958698
-24243	Eins ist so schlimm wie das andere.	Y	schlimm	1905	    298	0.0019	453.8571	german_at_news_2012_00424194
-24244	Nicht weiter schlimm- kostet ja„nur„unser Geld.	Y	schlimm	1905	    298	0.0019	517.875	german_at_news_2012_00725762
+24243	Aber in unserem Land ist es besonders schlimm.	Y	schlimm	1905	    298	0.0019	432.375	german_at_news_2012_00008012
+24244	Urlaub: Nein, so schlimm ist es nicht.	Y	schlimm	1905	    298	0.0019	515	german_at_news_2012_00892521
 24245	In welcher Höhe wäre eine Niederlage schlimm?	Y	schlimm	1905	    298	0.0019	761.1429	german_at_news_2012_00612798
 24246	Die Angst vor dem Tod ist ihrer Meinung nach eine Angst vor dem Unbekannten.	Y	unbekannten	1905	    298	0.0019	390.2727	german_at_news_2012_00278521
 24247	Die großen Unbekannten des Ö3 Starterfelds, denn noch weiß keiner wer diese Band sein wird und was sie kann!	Y	unbekannten	1905	    298	0.0019	451.8947	german_at_news_2012_00309309
 24248	Mann droht Haftstrafe von mehreren Jahren Er gab an, am 28. November in Wien Besuch von einem Unbekannten bekommen zu haben.	Y	unbekannten	1905	    298	0.0019	463.0526	german_at_news_2012_00668031
 24249	Vor einer Bank kam es Samstag früh zu einem Streit zwischen einem 17-Jährigen und zwei unbekannten jungen Männern.	Y	unbekannten	1905	    298	0.0019	464.4118	german_at_news_2012_00913694
-24250	Zum Beispiel dieser: Sie wachen eines Morgens auf einer Reise an einem Ihnen völlig unbekannten Ort auf und können sich an rein gar nichts erinnern.	Y	unbekannten	1905	    298	0.0019	541.1739	german_at_news_2012_00988574
+24250	Teils ist es die Angst vor dem Unbekannten und teils, wie ich schon sagte, der Wunsch zu fühlen, dass man eine Art großen Bruder hat, der einem in allen Schwierigkeiten und Kämpfen beisteht.	Y	unbekannten	1905	    298	0.0019	490.2	german_at_news_2012_00850167
 24251	Ich kann auch nicht werten, was Kunst ist.	Y	werten	1905	    298	0.0019	328.5	german_at_news_2012_00556098
 24252	Hält sich die Aktie nun über mehrere Wochen bei Werten um die 70 Euro, kann die Sache nur teurer werden.	Y	werten	1905	    298	0.0019	444.4706	german_at_news_2012_00527724
 24253	Was allerdings als Erfolg zu werten sei, wurde nicht definiert.	Y	werten	1905	    298	0.0019	463.9	german_at_news_2012_00923181
@@ -327,8 +327,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 24326	Besucher der Stadt Salzburg kommen vor allem wegen der Altstadt und dort verdient die Stadt auch gutes Geld mit ihnen.	Y	altstadt	1907	    296	0.0018	363.6111	german_at_news_2012_00112765
 24327	Salzburg: Fahrverbot in Altstadt Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	altstadt	1907	    296	0.0018	382.75	german_at_news_2012_00777258
 24328	In der Salzburger Altstadt war deutlich weniger los als im Vorjahr.	Y	altstadt	1907	    296	0.0018	422.9091	german_at_news_2012_00593195
-24329	Der Ausblick auf die Donau – wenn man noch nicht genug davon hat – und die Altstadt ist wunderbar.	Y	altstadt	1907	    296	0.0018	504.875	german_at_news_2012_00230759
-24330	Das Ziel sollte eine kleine Ferienwohnung in der Altstadt sein.	Y	altstadt	1907	    296	0.0018	507.9	german_at_news_2012_00207203
+24329	Das „Altstadt Vienna“ hatte in den letzten Jahren eine Auslastung von 88 Prozent.	Y	altstadt	1907	    296	0.0018	450.25	german_at_news_2012_00159576
+24330	Der Ausblick auf die Donau – wenn man noch nicht genug davon hat – und die Altstadt ist wunderbar.	Y	altstadt	1907	    296	0.0018	504.875	german_at_news_2012_00230759
 24331	Und auch wir können heute sagen: Vielen Dank für die Blumen.	Y	blumen	1907	    296	0.0018	317.3636	german_at_news_2012_00868158
 24332	An sich nichts Neues, denn es gibt zahlreiche Blumen, die man dafür verwenden kann.	Y	blumen	1907	    296	0.0018	365.9286	german_at_news_2012_00054034
 24333	Blumen im öffentlichen Raum regen an und auf.	Y	blumen	1907	    296	0.0018	606.25	german_at_news_2012_00121685
@@ -384,10 +384,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 24383	Prammer dazu: „Die Antwort darauf muss in mehr Demokratie und Kontrolle bestehen.	Y	prammer	1907	    296	0.0018	599.4167	german_at_news_2012_00761172
 24384	Prammer findet es enorm, was hier an Qualität und Innovation geboten wird.	Y	prammer	1907	    296	0.0018	686.3333	german_at_news_2012_00761179
 24385	Das ist kein gutes Signal“, so Prammer.	Y	prammer	1907	    296	0.0018	688.1429	german_at_news_2012_00179216
-24386	Und dann musste ich nicht einmal mit ihm schlafen.	Y	schlafen	1907	    296	0.0018	303.2222	german_at_news_2012_00869656
+24386	Eine Wohnung ist aber mehr als der Ort, an dem wir schlafen oder essen.	Y	schlafen	1907	    296	0.0018	301.7143	german_at_news_2012_00416176
 24387	Anfangs gab der Mann noch an, nur einen Platz zum Schlafen gesucht zu haben.	Y	schlafen	1907	    296	0.0018	438.7143	german_at_news_2012_00050218
-24388	So wurde ich ruhig und konnte schlafen.	Y	schlafen	1907	    296	0.0018	553.1429	german_at_news_2012_00834576
-24389	Genauso wie wenig schlafen, wenig essen, dafür viel erleben.	Y	schlafen	1907	    296	0.0018	696.375	german_at_news_2012_00509842
+24388	So ich hoffe du kannst jetzt doch noch gut schlafen.	Y	schlafen	1907	    296	0.0018	543.5	german_at_news_2012_00824209
+24389	Eigentlich müsste in Wien niemand auf der Straße schlafen, es seien ausreichend Plätze vorhanden.	Y	schlafen	1907	    296	0.0018	663.2143	german_at_news_2012_00401165
 24390	All diese Entwicklungen ließen HC keine Nacht mehr ruhig schlafen.	Y	schlafen	1907	    296	0.0018	976.8	german_at_news_2012_00020985
 24391	Pools sorgten für Wasserknappheit Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	sorgten	1907	    296	0.0018	465.125	german_at_news_2012_00760348
 24392	Und nun sorgten zwei RIM-Mitarbeiter dafür, dass das Unternehmen auch weiterhin in keinem guten Licht steht.	Y	sorgten	1907	    296	0.0018	520.8235	german_at_news_2012_00880137
@@ -590,9 +590,9 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 24589	Ob die Einnahmen direkt ins EU-Budget fließen oder dadurch die nationalen Beiträge an den EU-Haushalt gesenkt würden, sei eine zweite Frage.	Y	gesenkt	1910	    293	0.0018	651.2381	german_at_news_2012_00737641
 24590	Würden die Steuern gesenkt, gäbe es mehr Arbeitsplätze.	Y	gesenkt	1910	    293	0.0018	764.75	german_at_news_2012_00977714
 24591	Und für fast alle wird es auch iOS 6 geben.	Y	ios	1910	    293	0.0018	272.6667	german_at_news_2012_00876201
-24592	Apple schafft es mit seinem iOS für das iPhone auf den dritten Rang.	Y	ios	1910	    293	0.0018	528.1538	german_at_news_2012_00055997
-24593	Eine App für Apples iOS-Geräte wie iPhone oder iPad gibt es bisher nicht.	Y	ios	1910	    293	0.0018	617.9286	german_at_news_2012_00404844
-24594	Und mit großer Wahrscheinlichkeit wird Apple auch iOS6, die nächste Version des iPhone- und iPad-Systems vorstellen.	Y	ios	1910	    293	0.0018	713.0625	german_at_news_2012_00879269
+24592	Sie können die Geräte, die bereits mit iOS 5 laufen, also schon voll nutzen.	Y	ios	1910	    293	0.0018	495.1667	german_at_news_2012_00809928
+24593	Diese kann es mit der aktuellen iOS-Version nicht aufnehmen.	Y	ios	1910	    293	0.0018	545.5	german_at_news_2012_00347590
+24594	Für iOS kostet die Version nach wie vor 79 Cent.	Y	ios	1910	    293	0.0018	643.4444	german_at_news_2012_00498171
 24595	Darüber hinaus wurde Facebook tiefer in iOS integriert.	Y	ios	1910	    293	0.0018	880	german_at_news_2012_00157819
 24596	Ich habe ein klares Bild davon, wie unser Land sein soll.	Y	klares	1910	    293	0.0018	320.2727	german_at_news_2012_00553082
 24597	Es gehe in jedem Fall darum, ein klares Signal zu setzen, dass Kärnten auch für die vielen kleinen Unternehmen da sei.	Y	klares	1910	    293	0.0018	390.9524	german_at_news_2012_00455079
@@ -640,9 +640,9 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 24639	Ich sehe darin aber keinen absoluten Wert.	Y	absoluten	1911	    292	0.0018	676.4286	german_at_news_2012_00558989
 24640	Bruno Kreisky war in der Wahl 1971 zur absoluten Mehrheit gekommen.	Y	absoluten	1911	    292	0.0018	755.1	german_at_news_2012_00124405
 24641	Das Problem bestehe später einfach darin, dass die Kinder „online“ sind.	Y	bestehe	1911	    292	0.0018	408	german_at_news_2012_00189392
-24642	Es bestehe aber die Gefahr, dass der Konsum zu einer Art Religion wird.	Y	bestehe	1911	    292	0.0018	541.4615	german_at_news_2012_00452599
-24643	Dieses Problem bestehe vor allem an kleinen Schulen im ländlichen Raum.	Y	bestehe	1911	    292	0.0018	604.2727	german_at_news_2012_00354805
-24644	Die bestehe im Moment zu 50 Prozent aus Österreichern.	Y	bestehe	1911	    292	0.0018	650.875	german_at_news_2012_00286674
+24642	Die FPÖ bestehe nicht nur aus Jörg Haider, von dem auch viele freiheitliche Wähler jetzt schwer enttäuscht seien.	Y	bestehe	1911	    292	0.0018	521.4444	german_at_news_2012_00302938
+24643	Mensdorff: Ja, aber ich bestehe nicht darauf.	Y	bestehe	1911	    292	0.0018	583.1429	german_at_news_2012_00678716
+24644	Es bestehe auch die Gefahr, dass er davor einem Anschlag zum Opfer falle.	Y	bestehe	1911	    292	0.0018	645.5385	german_at_news_2012_00452600
 24645	Der Botschafter strich die gute Freundschaft und Kooperation hervor, welche zwischen Kärnten und Slowenien bestehe.	Y	bestehe	1911	    292	0.0018	879.2857	german_at_news_2012_00233320
 24646	Nur keiner von denen hat die Eier selbst in die Politik zu gehen und zu versuchen es wirklich besser zu machen.	Y	eier	1911	    292	0.0018	310.3333	german_at_news_2012_00734966
 24647	Dann muss ich aber auch verlangen können, dass sie die Eier in die Hand nehmen und ums Leben laufen.“	Y	eier	1911	    292	0.0018	404.3333	german_at_news_2012_00153467
@@ -864,11 +864,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 24863	Jüngere Kinder haben oft Angst, dass auch ihnen das Gleiche passieren könnte.	Y	jüngere	1914	    289	0.0018	549.4167	german_at_news_2012_00628354
 24864	Die Vienna Capitals gehen als Team, bei dem die Serie begann und endete, in die jüngere Geschichte der heimischen Liga ein.	Y	jüngere	1914	    289	0.0018	614.3684	german_at_news_2012_00373307
 24865	Dadurch sollen auch jüngere Menschen angesprochen werden.	Y	jüngere	1914	    289	0.0018	641	german_at_news_2012_00137085
-24866	So wird der Jungwinnzerinnen-Kalender 2009 Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	kalender	1914	    289	0.0018	362.76	german_at_news_2012_00833668
-24867	Die ersten Bilder aus dem Jungwinzerinnen-Kalender Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	kalender	1914	    289	0.0018	371.7308	german_at_news_2012_00297946
-24868	Auch wenn es den Kalender nicht zu kaufen geben wird, dürfen sich die krone.	Y	kalender	1914	    289	0.0018	378	german_at_news_2012_00072797
-24869	Sexy Jungwinzerinnen im Kalender 2009 Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	kalender	1914	    289	0.0018	428.6667	german_at_news_2012_00802075
-24870	Kalender ab: Klar am Dienstag den 4. Oktober.	Y	kalender	1914	    289	0.0018	454.8571	german_at_news_2012_00629374
+24866	Die schönsten Kalender für 2009 Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	kalender	1914	    289	0.0018	341.6087	german_at_news_2012_00343401
+24867	Auch wenn es den Kalender nicht zu kaufen geben wird, dürfen sich die krone.	Y	kalender	1914	    289	0.0018	378	german_at_news_2012_00072797
+24868	Kalender ab: Klar am Dienstag den 4. Oktober.	Y	kalender	1914	    289	0.0018	454.8571	german_at_news_2012_00629374
+24869	Diesmal will der Kalender sogar etwas für die Umwelt tun.	Y	kalender	1914	    289	0.0018	505.9	german_at_news_2012_00359529
+24870	Tragen Sie sich Ihre Favoriten gleich im Kalender ein und bestellen Sie hier auch gleich die Tickets!	Y	kalender	1914	    289	0.0018	562	german_at_news_2012_00854484
 24871	Und was war mit den Kontrollen des Landes?	Y	kontrollen	1914	    289	0.0018	315.5	german_at_news_2012_00883577
 24872	In Österreich werden solche Kontrollen bereits seit sechs Jahren durchgeführt.	Y	kontrollen	1914	    289	0.0018	416.7	german_at_news_2012_00605389
 24873	Die Polizei führte wieder verstärkt Kontrollen durch.	Y	kontrollen	1914	    289	0.0018	626.5714	german_at_news_2012_00336310
@@ -934,11 +934,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 24933	Bis auf ein Loch ist das Dach dicht geblieben.	Y	dicht	1915	    288	0.0018	763.2222	german_at_news_2012_00116961
 24934	Es müssen nur Fenster und Türen letztlich dicht halten.	Y	dicht	1915	    288	0.0018	798.3333	german_at_news_2012_00465703
 24935	Jetzt machten die Behörden den Tunnel dicht.	Y	dicht	1915	    288	0.0018	933.4286	german_at_news_2012_00624946
-24936	Nehmen Sie sich Zeit für einen Spaziergang an der frischen Luft.	Y	frischen	1915	    288	0.0018	509.1818	german_at_news_2012_00717627
-24937	Sie müssen nicht in einem Krankenzimmer bleiben, sondern können das Treffen an der frischen Luft verbringen.	Y	frischen	1915	    288	0.0018	513.8125	german_at_news_2012_00811291
-24938	Ein bisschen Sport an der frischen Luft tut Ihnen gut, um wieder auf Touren zu kommen.	Y	frischen	1915	    288	0.0018	526.6875	german_at_news_2012_00403354
-24939	Machen Sie doch am besten täglich bis zum 6. Jänner einen Abendspaziergang, in der frischen Luft, ganz im Zeichen der Erneuerung.	Y	frischen	1915	    288	0.0018	531.2632	german_at_news_2012_00661478
-24940	Oder ist es so schön, dass man eher auf die frischen Wände denn auf die Straße blickt?	Y	frischen	1915	    288	0.0018	535.8	german_at_news_2012_00741611
+24936	Das ist völlig in Ordnung – nur leider macht sie nur frischen Wind für sich selbst und setzt keinen Kurs für andere Frauen.“	Y	frischen	1915	    288	0.0018	456.8	german_at_news_2012_00180332
+24937	Nehmen Sie sich Zeit für einen Spaziergang an der frischen Luft.	Y	frischen	1915	    288	0.0018	509.1818	german_at_news_2012_00717627
+24938	Sie müssen nicht in einem Krankenzimmer bleiben, sondern können das Treffen an der frischen Luft verbringen.	Y	frischen	1915	    288	0.0018	513.8125	german_at_news_2012_00811291
+24939	Ein bisschen Sport an der frischen Luft tut Ihnen gut, um wieder auf Touren zu kommen.	Y	frischen	1915	    288	0.0018	526.6875	german_at_news_2012_00403354
+24940	Machen Sie doch am besten täglich bis zum 6. Jänner einen Abendspaziergang, in der frischen Luft, ganz im Zeichen der Erneuerung.	Y	frischen	1915	    288	0.0018	531.2632	german_at_news_2012_00661478
 24941	Sollte dies aber nicht der Fall sein, so gibt es aber immer noch eine individuelle Prüfung.	Y	individuelle	1915	    288	0.0018	305.3333	german_at_news_2012_00827135
 24942	Das sind aber ganz individuelle Entscheidungen, die Sie gemeinsam mit Ihrem Arzt treffen.	Y	individuelle	1915	    288	0.0018	456.9231	german_at_news_2012_00195676
 24943	Derzeit aber steht noch die individuelle Behandlung im Vordergrund.	Y	individuelle	1915	    288	0.0018	603.7778	german_at_news_2012_00268584

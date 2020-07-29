@@ -4,7 +4,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13003	Die Lage sei derart ernst wie vermutlich seit 25 Jahren nicht mehr.	Y	derart	1602	    601	0.0037	419	german_at_news_2012_00321561
 13004	Menschen, die derart bombardiert werden mit „Nachrichten“ können gar nicht anders, als zu glauben, was sie hören und sehen.	Y	derart	1602	    601	0.0037	419.2632	german_at_news_2012_00678454
 13005	Derart heftige Proteste gab es in dem EU-Land seit mehr als zehn Jahren nicht mehr.	Y	derart	1602	    601	0.0037	425.8667	german_at_news_2012_00230100
-13006	Die anderen Dienste sind in diesem Land jedoch nicht betroffen.	Y	dienste	1602	    601	0.0037	324.8	german_at_news_2012_00277970
+13006	Aus für zehn weitere Google-Dienste Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	dienste	1602	    601	0.0037	285.5769	german_at_news_2012_00083005
 13007	Und gratis werden seine Dienste ja wohl auch nicht gewesen sein.	Y	dienste	1602	    601	0.0037	347.6364	german_at_news_2012_00876643
 13008	Wir möchten, dass Sie als Nutzer unserer Dienste verstehen, wie wir Informationen nutzen und welche Möglichkeiten Sie haben, um Ihre Daten zu schützen.	Y	dienste	1602	    601	0.0037	506	german_at_news_2012_00968215
 13009	Ihre Dienste nimmt beispielsweise auch die Wirtschaftskammer Österreich in Anspruch.	Y	dienste	1602	    601	0.0037	591.7	german_at_news_2012_00564165
@@ -14,8 +14,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13013	Damit sollte der Gipfel zu einem „guten Abschluss“ gebracht werden.	Y	gipfel	1602	    601	0.0037	419.3	german_at_news_2012_00147615
 13014	Unser Ziel ist daher der Gipfel, die Spitze.	Y	gipfel	1602	    601	0.0037	460.625	german_at_news_2012_00888617
 13015	Darüber hinaus habe der Gipfel jedoch keine Erfolge erzielt.	Y	gipfel	1602	    601	0.0037	639.8889	german_at_news_2012_00157062
-13016	Das wirft die Frage auf: Wie viel Energie ist nötig?	Y	wirft	1602	    601	0.0037	421	german_at_news_2012_00205810
-13017	John: Es war ein Gefühl wie noch nie in meinem Leben: Es wirft dich fast um!	Y	wirft	1602	    601	0.0037	467.2667	german_at_news_2012_00626971
+13016	Doch auch das wirft eine Frage auf: Was hat sie so lange beim BZÖ gemacht?	Y	wirft	1602	    601	0.0037	226.9333	german_at_news_2012_00382662
+13017	Das wirft die Frage auf: Wie viel Energie ist nötig?	Y	wirft	1602	    601	0.0037	421	german_at_news_2012_00205810
 13018	Vor allem das Engagement von Walter Meischberger wirft immer mehr Fragen auf.	Y	wirft	1602	    601	0.0037	507	german_at_news_2012_00910898
 13019	Mittlerweile wirft auch dieses Geschäft Fragen auf.	Y	wirft	1602	    601	0.0037	513.4286	german_at_news_2012_00696477
 13020	OÖN: Wirft man einer Schwester schneller etwas an den Kopf als jemand anderem?	Y	wirft	1602	    601	0.0037	604.6154	german_at_news_2012_00746769
@@ -180,8 +180,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13179	Will heißen: Strom wird in fünf Jahren teurer sein als heute.	Y	teurer	1610	    593	0.0037	448.3636	german_at_news_2012_00961408
 13180	Größer bedeutet in jedem Fall auch teurer.	Y	teurer	1610	    593	0.0037	679.8571	german_at_news_2012_00522003
 13181	Es ist noch immer nicht ganz ausgeschlossen, dass er kommt.	Y	ausgeschlossen	1611	    592	0.0037	211.8	german_at_news_2012_00463039
-13182	Völlig ausgeschlossen sei eine Zusammenarbeit mit der ÖVP aber nicht, betonte Häupl.	Y	ausgeschlossen	1611	    592	0.0037	384	german_at_news_2012_00904396
-13183	Eine Koalition mit der FPÖ wird von Bundeskanzler Klima aber ausgeschlossen.	Y	ausgeschlossen	1611	    592	0.0037	463.0909	german_at_news_2012_00408822
+13182	Aber eine Zusammenarbeit mit der ÖVP war auch schon vorher ausgeschlossen.	Y	ausgeschlossen	1611	    592	0.0037	349.8182	german_at_news_2012_00005445
+13183	Inzwischen scheint es aber nicht mehr völlig ausgeschlossen.	Y	ausgeschlossen	1611	    592	0.0037	458.5	german_at_news_2012_00614331
 13184	Dieser hatte am Samstag einen Rücktritt ausgeschlossen.	Y	ausgeschlossen	1611	    592	0.0037	527.4286	german_at_news_2012_00351065
 13185	Gorbach aus BZÖ ausgeschlossen Ex-Vizekanzler aus BZÖ ausgeschlossen.	Y	ausgeschlossen	1611	    592	0.0037	919.8333	german_at_news_2012_00519452
 13186	Die Menschen sind nicht dazu geboren, dem Markt zu dienen.	Y	dienen	1611	    592	0.0037	339.2	german_at_news_2012_00326484
@@ -239,11 +239,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13238	Was sie zu hören bekommt, gefällt ihr gar nicht.	Y	gefällt	1612	    591	0.0037	420.4444	german_at_news_2012_00927921
 13239	Besonders gefällt mir, dass ich im Tor stehen darf.	Y	gefällt	1612	    591	0.0037	448.4444	german_at_news_2012_00111000
 13240	Auch das neue Meinl-Design gefällt den Leuten gut.	Y	gefällt	1612	    591	0.0037	678.5556	german_at_news_2012_00061253
-13241	Selbst wenn es die beiden Scheuchs nicht mehr gäbe, dann gibt es in der FPK noch viele „Scheuchs“ so, dass für Nachwuchs gut gesorgt ist!	Y	gesorgt	1612	    591	0.0037	409	german_at_news_2012_00800989
-13242	Er habe es immer so gehalten: „Wollte ein Gast Ruhe, haben wir dafür gesorgt, dass er sie bekam.	Y	gesorgt	1612	    591	0.0037	421.6471	german_at_news_2012_00436266
-13243	Und bei den Fotoaufnahmen in einem Wiener Hotel haben sie dafür gesorgt, dass ich mich wirklich wohlgefühlt habe.	Y	gesorgt	1612	    591	0.0037	435.0556	german_at_news_2012_00868439
-13244	Die Großeltern haben ihre eigenen Kinder großgezogen und für sie gesorgt, bis diese selbst in der Lage waren, ihr Leben zu meistern.	Y	gesorgt	1612	    591	0.0037	453.4545	german_at_news_2012_00309208
-13245	Mit über einer Million Vorbestellungen an nur einem Tag, hat das Apple-Handy gleich einmal für einen neuen Rekord gesorgt.	Y	gesorgt	1612	    591	0.0037	460.25	german_at_news_2012_00696719
+13241	Zwei Spieler, die für solche Erfolge in den letzten Jahren gesorgt haben, fanden sich am Sonntag unter den letzten drei.	Y	gesorgt	1612	    591	0.0037	379.5556	german_at_news_2012_00998344
+13242	Selbst wenn es die beiden Scheuchs nicht mehr gäbe, dann gibt es in der FPK noch viele „Scheuchs“ so, dass für Nachwuchs gut gesorgt ist!	Y	gesorgt	1612	    591	0.0037	409	german_at_news_2012_00800989
+13243	Er habe es immer so gehalten: „Wollte ein Gast Ruhe, haben wir dafür gesorgt, dass er sie bekam.	Y	gesorgt	1612	    591	0.0037	421.6471	german_at_news_2012_00436266
+13244	Und bei den Fotoaufnahmen in einem Wiener Hotel haben sie dafür gesorgt, dass ich mich wirklich wohlgefühlt habe.	Y	gesorgt	1612	    591	0.0037	435.0556	german_at_news_2012_00868439
+13245	Die Großeltern haben ihre eigenen Kinder großgezogen und für sie gesorgt, bis diese selbst in der Lage waren, ihr Leben zu meistern.	Y	gesorgt	1612	    591	0.0037	453.4545	german_at_news_2012_00309208
 13246	In der Champions League 2012 kann es nur einen geben.	Y	league	1612	    591	0.0037	410.7778	german_at_news_2012_00590149
 13247	Die Tür zur Champions League ist für die Wiener Austria so gut wie zu.	Y	league	1612	    591	0.0037	434.9231	german_at_news_2012_00368911
 13248	In erster Linie ist jetzt meine Herausforderung, mit Rapid in der Champions League Erfolg zu haben und dann früher oder später auch ins Ausland zu kommen.	Y	league	1612	    591	0.0037	446.8333	german_at_news_2012_00599280
@@ -254,8 +254,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13253	Die Vorstellung, nicht alleine im All zu sein.	Y	vorstellung	1612	    591	0.0037	420.5	german_at_news_2012_00375000
 13254	Er wollte mit seiner Frau unbedingt eine Vorstellung in der Wiener Oper besuchen.	Y	vorstellung	1612	    591	0.0037	497.4615	german_at_news_2012_00451571
 13255	Freilich wäre diese Vorstellung für zahlreiche Männer ein großer Traum.	Y	vorstellung	1612	    591	0.0037	611.3	german_at_news_2012_00488149
-13256	Jetzt darf er nur nicht zu schnell wachsen.“	Y	wachsen	1612	    591	0.0037	329	german_at_news_2012_00623397
-13257	Hier wachsen die Kinder und Jugendlichen auf, hier lernen, arbeiten und leben die Menschen zusammen.	Y	wachsen	1612	    591	0.0037	414.25	german_at_news_2012_00540707
+13256	Sie sollen bis Ende des Jahres um zwei Prozent auf 212 Millionen Euro wachsen.	Y	wachsen	1612	    591	0.0037	220.3846	german_at_news_2012_00813810
+13257	Wie wollen Sie da überhaupt noch wachsen?	Y	wachsen	1612	    591	0.0037	350.5714	german_at_news_2012_00960984
 13258	Schlägt man ihr einen Kopf ab, wachsen sofort andere nach.	Y	wachsen	1612	    591	0.0037	453.9	german_at_news_2012_00781285
 13259	Gleichzeitig kündigte der Vorstand an, dass der Flughafen auch in diesem Jahr wachsen werde.	Y	wachsen	1612	    591	0.0037	482.3077	german_at_news_2012_00517425
 13260	Unternehmen, Institutionen und Regionen wachsen zusammen, gestalten gemeinsam ihre Zukunft.	Y	wachsen	1612	    591	0.0037	705.1	german_at_news_2012_00891059
@@ -269,15 +269,15 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13268	So ist das in Bregenz: Kunst finanziert Kunst.	Y	finanziert	1613	    590	0.0037	450.2857	german_at_news_2012_00824290
 13269	Das A9 wird zur Hälfte von den Bundesländern finanziert.	Y	finanziert	1613	    590	0.0037	472.1111	german_at_news_2012_00158865
 13270	Die Videos hat mein Vater finanziert, die Show war auch teuer.	Y	finanziert	1613	    590	0.0037	645.6	german_at_news_2012_00373164
-13271	Warum nicht auch bei Grund und Immobilien?	Y	immobilien	1613	    590	0.0037	345.1429	german_at_news_2012_00922372
-13272	Sie können Immobilien kaufen, wo sie wollen.	Y	immobilien	1613	    590	0.0037	546.5	german_at_news_2012_00810000
-13273	Die Reichen konnten sich retten und verloren ein paar Bilder und Immobilien.	Y	immobilien	1613	    590	0.0037	586.2727	german_at_news_2012_00340063
+13271	Das Angebot an Immobilien war in Österreich wohl noch nie so groß wie jetzt.	Y	immobilien	1613	    590	0.0037	268.5	german_at_news_2012_00159802
+13272	Wir haben zu dieser Zeit im Konzern drei Milliarden Euro in Immobilien investiert.	Y	immobilien	1613	    590	0.0037	377.6154	german_at_news_2012_00966713
+13273	Die Flucht in Immobilien hält weiter an.	Y	immobilien	1613	    590	0.0037	553.8571	german_at_news_2012_00301983
 13274	Die Arbeiten wurden von der Innsbrucker Immobilien-Gesellschaft vergeben.	Y	immobilien	1613	    590	0.0037	622.2222	german_at_news_2012_00279746
 13275	Gegen den damaligen Immobilien-Chef Erich Z. laufen bereits Ermittlungen.	Y	immobilien	1613	    590	0.0037	727.5	german_at_news_2012_00505502
 13276	Welche Lebensmittel müssen bei Ihnen immer im Haus sein?	Y	lebensmittel	1613	    590	0.0037	325.2222	german_at_news_2012_00935122
-13277	Unter der neuen Salzburg-Marke solle vom Tourismus über Lebensmittel bis hin zur Kultur vieles Platz haben.	Y	lebensmittel	1613	    590	0.0037	482.4118	german_at_news_2012_00890358
-13278	Österreich hat in der Vergangenheit viel in die Sicherheit, Qualität und Gesundheit der Lebensmittel investiert.	Y	lebensmittel	1613	    590	0.0037	504.8462	german_at_news_2012_00749141
-13279	Lebensmittel sind so teuer wie noch nie.	Y	lebensmittel	1613	    590	0.0037	512.1429	german_at_news_2012_00654429
+13277	Dann musste er bei Bauern arbeiten, für Lebensmittel oder ganz wenig Geld.	Y	lebensmittel	1613	    590	0.0037	371.5	german_at_news_2012_00153509
+13278	Unter der neuen Salzburg-Marke solle vom Tourismus über Lebensmittel bis hin zur Kultur vieles Platz haben.	Y	lebensmittel	1613	    590	0.0037	482.4118	german_at_news_2012_00890358
+13279	Österreich hat in der Vergangenheit viel in die Sicherheit, Qualität und Gesundheit der Lebensmittel investiert.	Y	lebensmittel	1613	    590	0.0037	504.8462	german_at_news_2012_00749141
 13280	Man muß ja nicht alle Lebensmittel bei den Bauern kaufen.	Y	lebensmittel	1613	    590	0.0037	604	german_at_news_2012_00667676
 13281	Der Schmied (Wien-Präsident) hat offenbar immer mehr Macht.	Y	schmied	1613	    590	0.0037	335.4444	german_at_news_2012_00258455
 13282	Schmied: „Natürlich habe ich für die FPÖ gearbeitet.	Y	schmied	1613	    590	0.0037	439.5	german_at_news_2012_00783493
@@ -314,11 +314,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13313	Und diese Vorbereitung muss auch im Laufe des kommenden Jahres erfüllt werden.“	Y	vorbereitung	1614	    589	0.0037	478.5833	german_at_news_2012_00873799
 13314	Denn noch vor vier Wochen habe Schmied betont, wie gut die Vorbereitung laufe.	Y	vorbereitung	1614	    589	0.0037	506.3077	german_at_news_2012_00222140
 13315	Schmied: Ich bin mitten in der Vorbereitung, deshalb keine Details dazu.	Y	vorbereitung	1614	    589	0.0037	597.3636	german_at_news_2012_00783464
-13316	Mehr als 17 Millionen Euro wurden insgesamt in den Wald investiert.	Y	wald	1614	    589	0.0037	348	german_at_news_2012_00673498
-13317	Wenn Sie dagegen etwa einen Fuchs im Wald sehen, werden Sie bemerken, dass der alles tun würde, um von Ihnen nicht gesehen zu werden.	Y	wald	1614	    589	0.0037	385.1364	german_at_news_2012_00943670
-13318	Aber wer führt einen dann aus dem Wald, wenn man einmal drinnen ist und sich nicht mehr auskennt?	Y	wald	1614	    589	0.0037	385.5	german_at_news_2012_00011572
-13319	Brandverletzter im Wald gefunden Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	wald	1614	    589	0.0037	389.375	german_at_news_2012_00122981
-13320	Der Wald-Erfahrungsweg ist nicht nur ein Weg durch den Wald, sondern auch ein ganz neuer Zugang zum Wald.	Y	wald	1614	    589	0.0037	396.8125	german_at_news_2012_00266856
+13316	Wer’s nicht so mit dem Wasser hat, geht am besten in den Wald.	Y	wald	1614	    589	0.0037	214.2143	german_at_news_2012_00949196
+13317	Mehr als 17 Millionen Euro wurden insgesamt in den Wald investiert.	Y	wald	1614	    589	0.0037	348	german_at_news_2012_00673498
+13318	Wenn Sie dagegen etwa einen Fuchs im Wald sehen, werden Sie bemerken, dass der alles tun würde, um von Ihnen nicht gesehen zu werden.	Y	wald	1614	    589	0.0037	385.1364	german_at_news_2012_00943670
+13319	Aber wer führt einen dann aus dem Wald, wenn man einmal drinnen ist und sich nicht mehr auskennt?	Y	wald	1614	    589	0.0037	385.5	german_at_news_2012_00011572
+13320	Brandverletzter im Wald gefunden Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	wald	1614	    589	0.0037	389.375	german_at_news_2012_00122981
 13321	Auch in Österreich wurde man auf ihn aufmerksam.	Y	aufmerksam	1615	    588	0.0037	248.75	german_at_news_2012_00069211
 13322	Aber dafür muss man aufmerksam sein, im Hier und Jetzt leben, alles verwenden, was wir in der Vergangenheit gelernt haben, alles, von dem wir glauben, dass es in der Zukunft passieren wird.	Y	aufmerksam	1615	    588	0.0037	328.0714	german_at_news_2012_00003085
 13323	Jetzt hätte er die Gelegenheit, auf sich aufmerksam zu machen und ihren größten Wunsch zu erfüllen.	Y	aufmerksam	1615	    588	0.0037	466.0667	german_at_news_2012_00624133
@@ -336,7 +336,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13335	Welchen Anteil haben die Produkte am Top-image Ihres Unternehmens?	Y	image	1615	    588	0.0037	779.2	german_at_news_2012_00935184
 13336	Schließlich war er ja auch einmal jung gewesen und nicht als Bundeskanzler auf die Welt gekommen.	Y	jung	1615	    588	0.0037	257	german_at_news_2012_00782652
 13337	Damals war ich noch sehr jung, sechs oder sieben Jahre alt.	Y	jung	1615	    588	0.0037	357.3636	german_at_news_2012_00144143
-13338	Er sei zu jung, zu schön und zu erfolgreich.	Y	jung	1615	    588	0.0037	453.4286	german_at_news_2012_00443918
+13338	Ist Frau K. jung und sieht gut aus?	Y	jung	1615	    588	0.0037	440.875	german_at_news_2012_00616426
 13339	Aber nicht nur Lebensmittel helfen uns jung und gesund zu bleiben.	Y	jung	1615	    588	0.0037	567.5455	german_at_news_2012_00009321
 13340	Wir übernehmen Verantwortung für Jung und Alt“, so Molterer abschließend.	Y	jung	1615	    588	0.0037	692	german_at_news_2012_00971294
 13341	Wir werden uns nicht von diesen Technologien kontrollieren lassen – das ist ja immer so ein Problem, das man dabei hat – wir sollten das eher als Hilfe sehen, denn Alltag zu bewältigen.	Y	technologien	1615	    588	0.0037	361.5714	german_at_news_2012_00972400
@@ -354,11 +354,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13353	Er wollte sich, wie er vergangene Woche sagte, über das Eurofighter-Programm informieren.	Y	informieren	1616	    587	0.0036	486.25	german_at_news_2012_00451597
 13354	Pilz:„Was war so dringend, dass Sie den Minister an diesem Abend unbedingt informieren mussten?	Y	informieren	1616	    587	0.0036	559.4667	german_at_news_2012_00757513
 13355	Sie sollten sich künftig zuerst besser informieren, bevor sie über die Fans berichten.“	Y	informieren	1616	    587	0.0036	565.6667	german_at_news_2012_00814116
-13356	Kutcher-Geliebte: „Bin nicht schuld“ Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	kutcher	1616	    587	0.0036	400.44	german_at_news_2012_00647795
-13357	Ashton Kutcher gibt Beziehungstipps Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	kutcher	1616	    587	0.0036	443.1667	german_at_news_2012_00057780
-13358	Ashton Kutcher: Party ohne Demi, mit Ehering Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	kutcher	1616	    587	0.0036	491.1111	german_at_news_2012_00057785
-13359	Demi & Töchter: Verstritten wegen Kutcher Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	kutcher	1616	    587	0.0036	491.24	german_at_news_2012_00213752
-13360	Kutcher liebt Kunis: Demi bekommt Anfall Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	kutcher	1616	    587	0.0036	534.6154	german_at_news_2012_00647835
+13356	Kutcher wird zwar immer ein Teil von Demi und ihrer Familie sein, vor allem weil er ihren Töchtern besonders nahe steht“, heißt es weiter.	Y	kutcher	1616	    587	0.0036	364.25	german_at_news_2012_00648096
+13357	Kutcher-Geliebte: „Bin nicht schuld“ Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	kutcher	1616	    587	0.0036	400.44	german_at_news_2012_00647795
+13358	Ashton Kutcher gibt Beziehungstipps Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	kutcher	1616	    587	0.0036	443.1667	german_at_news_2012_00057780
+13359	Ashton Kutcher: Party ohne Demi, mit Ehering Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	kutcher	1616	    587	0.0036	491.1111	german_at_news_2012_00057785
+13360	Demi & Töchter: Verstritten wegen Kutcher Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	kutcher	1616	    587	0.0036	491.24	german_at_news_2012_00213752
 13361	Die Chance einer Teilnahme bietet sich nur alle vier Jahre.	Y	teilnahme	1616	    587	0.0036	318.1	german_at_news_2012_00290463
 13362	Schließlich hat sie alleine mit der Teilnahme schon viel erreicht.	Y	teilnahme	1616	    587	0.0036	389.8	german_at_news_2012_00781982
 13363	Die Teilnahme war eine klare österreichische Entscheidung.	Y	teilnahme	1616	    587	0.0036	525.2857	german_at_news_2012_00366853
@@ -409,8 +409,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13408	Mit seiner Meinung blieb er zwar allein, doch die Atmosphäre, so ein Teilnehmer der geheimen Runde, „war besser als zuletzt“.	Y	atmosphäre	1619	    584	0.0036	442.1	german_at_news_2012_00694748
 13409	Das vergangene Mal, als profil bei ihm war, es ist keine drei Wochen her, war die Atmosphäre recht frostig gewesen.	Y	atmosphäre	1619	    584	0.0036	444.3684	german_at_news_2012_00201880
 13410	Es gibt dieses Geschäft mit seiner ganz speziellen Atmosphäre schon seit 1809.	Y	atmosphäre	1619	    584	0.0036	445	german_at_news_2012_00456718
-13411	Ob ein Mädchen oder einen Buben, weiß sie noch nicht.	Y	buben	1619	    584	0.0036	300.1	german_at_news_2012_00737973
-13412	Nicht zuletzt hat dieses Idee auch die Buben im Auge, damit sie lernen, mehr von sich zu reden.	Y	buben	1619	    584	0.0036	365.2222	german_at_news_2012_00725999
+13411	Die Frau hatte in der Nacht auf den 11. Jänner einen Buben zur Welt gebracht.	Y	buben	1619	    584	0.0036	275.9286	german_at_news_2012_00304080
+13412	Die fünf Buben und zwei Mädchen hätten immer wieder auf sie verzichten müssen.	Y	buben	1619	    584	0.0036	361	german_at_news_2012_00304916
 13413	Die Buben und Mädchen sind zwischen drei Monaten und 14 Jahre alt.	Y	buben	1619	    584	0.0036	401.5	german_at_news_2012_00289466
 13414	Die Mutter brachte den Buben zwei Tage vor seinem Tod ins Krankenhaus.	Y	buben	1619	    584	0.0036	477.8333	german_at_news_2012_00328353
 13415	NEWS: Erzählen Sie bitte über Ihren Buben.	Y	buben	1619	    584	0.0036	583.8571	german_at_news_2012_00721504
@@ -418,7 +418,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13417	Offen ist nach wie vor, wo die Erlaubniszonen eingerichtet werden sollen.	Y	eingerichtet	1619	    584	0.0036	454.7273	german_at_news_2012_00742910
 13418	Diese sind derzeit noch extrem selten und Damit man sich ein Bild von der Qualität der Videos machen kann, hat YouTube eine eigene Seite mit fünf 4K-Vdieos eingerichtet.	Y	eingerichtet	1619	    584	0.0036	475.6071	german_at_news_2012_00353835
 13419	Das heißt: In der WGW-Sache könnte damit bis Herbst nächsten Jahres gar kein U-Ausschuss eingerichtet werden.	Y	eingerichtet	1619	    584	0.0036	476.5556	german_at_news_2012_00174439
-13420	Er gehe davon aus, dass eine solche Teststrecke nicht gegen den Willen des Landes eingerichtet werde.	Y	eingerichtet	1619	    584	0.0036	489.375	german_at_news_2012_00435508
+13420	Die hat er mittlerweile jedoch gelöscht - stattdessen scheint er sich in Wien eingerichtet zu haben.	Y	eingerichtet	1619	    584	0.0036	481.3571	german_at_news_2012_00311374
 13421	Sie versuche immer, dort zu sein, wo die Menschen arbeiten.	Y	versuche	1619	    584	0.0036	260.3	german_at_news_2012_00815508
 13422	Das sei nicht möglich, so lange Schüssel versuche, die Haider-Linie Browser zeigt »Iframes« nicht an.	Y	versuche	1619	    584	0.0036	354.3333	german_at_news_2012_00194164
 13423	Ich versuche die Welt von heute zu verstehen und zu lernen.	Y	versuche	1619	    584	0.0036	405.3	german_at_news_2012_00559979
@@ -440,8 +440,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13439	Das Video wird jetzt zum YouTube-Hit.	Y	hit	1620	    583	0.0036	588	german_at_news_2012_00202327
 13440	Das Video (siehe unten) wurde zum Hit im Internet.	Y	hit	1620	    583	0.0036	596.5556	german_at_news_2012_00202315
 13441	Wenn es mir einmal nicht gut geht, dann sage ich es auch.	Y	sage	1620	    583	0.0036	215.0909	german_at_news_2012_00940200
-13442	Ich sage „vermutlich“, weil ich ja nicht wissen kann, wie es ohne den Preis geworden wäre.	Y	sage	1620	    583	0.0036	328.0667	german_at_news_2012_00558713
-13443	Das sage ich auch all jenen in unserer Partei, die das vielleicht nicht wollen.	Y	sage	1620	    583	0.0036	392.5385	german_at_news_2012_00191307
+13442	Ich sage nicht, der Staat soll gar nichts mehr machen.	Y	sage	1620	    583	0.0036	318.7	german_at_news_2012_00558690
+13443	Warum ich Ihnen das an dieser Stelle sage?	Y	sage	1620	    583	0.0036	382.5	german_at_news_2012_00922100
 13444	Da sage ich: Wien muss unsere Heimat bleiben.	Y	sage	1620	    583	0.0036	455.25	german_at_news_2012_00159055
 13445	Ich sage: Ich halte den Kurs des Präsidenten für falsch.	Y	sage	1620	    583	0.0036	744.2222	german_at_news_2012_00558648
 13446	Und die schlechte ist: Ich will den Film nicht mehr machen.	Y	schlechte	1620	    583	0.0036	225.9091	german_at_news_2012_00873457
@@ -504,8 +504,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13503	Er hielt seinen Wagen sofort an, dabei fiel der Arbeiter noch vom Auto auf die Straße.	Y	arbeiter	1622	    581	0.0036	467.9375	german_at_news_2012_00438334
 13504	Inzwischen war mein Vater auch bei der Arbeiter-Zeitung.	Y	arbeiter	1622	    581	0.0036	472.3333	german_at_news_2012_00614405
 13505	Arbeitsplätze zu schaffen, sondern darum Arbeitsplätze zu schaffen von welchen die Arbeiter auch leben können.	Y	arbeiter	1622	    581	0.0036	498.5	german_at_news_2012_00056769
-13506	Dancing Stars - Alle Bilder vom 13. April Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	dancing	1622	    581	0.0036	315.5769	german_at_news_2012_00150364
-13507	ÖSTERREICH: Was nehmen Sie von Dancing Stars mit?	Y	dancing	1622	    581	0.0036	348.5	german_at_news_2012_00751328
+13506	Dancing Stars: Alle Bilder von der 6. Show Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	dancing	1622	    581	0.0036	314.4815	german_at_news_2012_00150369
+13507	Derzeit sei auch noch nicht klar, ob er bei Dancing Stars 6 überhaupt fix dabei sein wird.	Y	dancing	1622	    581	0.0036	336.3125	german_at_news_2012_00269527
 13508	Noch ist das Rennen offen im Kampf um den Dancing Stars-Sieg.	Y	dancing	1622	    581	0.0036	449.6667	german_at_news_2012_00728648
 13509	Dancing Stars 2012 könnte anders beginnen als die Jahre zuvor.	Y	dancing	1622	    581	0.0036	534.7778	german_at_news_2012_00150354
 13510	Dancing Stars: Bilder der vierten Show Dancing Stars: Bilder der vierten Show.	Y	dancing	1622	    581	0.0036	817.8333	german_at_news_2012_00150381
@@ -707,7 +707,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13706	Wenn schon nicht für das, was man tat, so doch wenigstens für das, was man war.	Y	wenigstens	1632	    571	0.0035	273.1667	german_at_news_2012_00943289
 13707	Ich weiß, man kann die Welt nicht verbessern, aber man muss es wenigstens versuchen.	Y	wenigstens	1632	    571	0.0035	375.6923	german_at_news_2012_00560952
 13708	Aber wenigstens haben wir nur einen gehabt.	Y	wenigstens	1632	    571	0.0035	408	german_at_news_2012_00011241
-13709	Immerhin sind diese jungen Menschen wenigstens 18 Jahre alt!	Y	wenigstens	1632	    571	0.0035	514.25	german_at_news_2012_00576324
+13709	Wenigstens das werde ich doch fordern können!	Y	wenigstens	1632	    571	0.0035	486.5714	german_at_news_2012_00936998
 13710	Oder wenigstens das Radio, oder das Internet nützen?	Y	wenigstens	1632	    571	0.0035	754.8333	german_at_news_2012_00742201
 13711	Hier gab es zuletzt Widerstand von ÖVP und SPÖ.	Y	widerstand	1632	    571	0.0035	298.1111	german_at_news_2012_00538105
 13712	Erst 1952 wurde es, gegen den Widerstand der Kirche, auf die Bühne gebracht.	Y	widerstand	1632	    571	0.0035	327.8333	german_at_news_2012_00444926
@@ -749,20 +749,20 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13748	Dann findet sie das Zimmer zum Namen doch.	Y	zimmer	1634	    569	0.0035	356.25	german_at_news_2012_00152182
 13749	I kann net den ganzen Tag in dem Zimmer bleiben.	Y	zimmer	1634	    569	0.0035	549.4	german_at_news_2012_00566775
 13750	Jedes Zimmer hat einen eigenen Zugang ins Freie.	Y	zimmer	1634	    569	0.0035	688.25	german_at_news_2012_00621548
-13751	Diese Summe würde sich Österreich jedes Jahr sparen, wenn seine Bewohner nur um ein Jahr später in Pension gingen, als sie das derzeit tun.	Y	bewohner	1635	    568	0.0035	398.4783	german_at_news_2012_00355434
-13752	Wir als ÖVP zeigen in dieser Stadt, was konstruktive Oppositionspolitik ist und was es heißt, das Beste für die Bewohner zu erreichen.	Y	bewohner	1635	    568	0.0035	417.2857	german_at_news_2012_00962270
-13753	Die Bewohner der Region sind wie Protagonisten, sie haben das Wissen, sie können uns erzählen wie die Region ist und das spiegelt sich auch in den Projekten wieder.“	Y	bewohner	1635	    568	0.0035	454.1304	german_at_news_2012_00287753
-13754	So sieht es er selbst, so sehen es die meisten Bewohner von Gurk.	Y	bewohner	1635	    568	0.0035	456	german_at_news_2012_00830935
-13755	Einige Bewohner schlafen noch, andere sind schon längst in der Arbeit oder auf der Uni.	Y	bewohner	1635	    568	0.0035	456.5	german_at_news_2012_00418851
+13751	Die Bewohner mussten sich einen neuen Platz und damit ein neues Leben suchen.	Y	bewohner	1635	    568	0.0035	345.5385	german_at_news_2012_00287774
+13752	Diese Summe würde sich Österreich jedes Jahr sparen, wenn seine Bewohner nur um ein Jahr später in Pension gingen, als sie das derzeit tun.	Y	bewohner	1635	    568	0.0035	398.4783	german_at_news_2012_00355434
+13753	Wir als ÖVP zeigen in dieser Stadt, was konstruktive Oppositionspolitik ist und was es heißt, das Beste für die Bewohner zu erreichen.	Y	bewohner	1635	    568	0.0035	417.2857	german_at_news_2012_00962270
+13754	Die Bewohner der Region sind wie Protagonisten, sie haben das Wissen, sie können uns erzählen wie die Region ist und das spiegelt sich auch in den Projekten wieder.“	Y	bewohner	1635	    568	0.0035	454.1304	german_at_news_2012_00287753
+13755	So sieht es er selbst, so sehen es die meisten Bewohner von Gurk.	Y	bewohner	1635	    568	0.0035	456	german_at_news_2012_00830935
 13756	Die besten Ärzte sind der Prinzessin jedenfalls schon einmal sicher.	Y	prinzessin	1635	    568	0.0035	401.6	german_at_news_2012_00286772
 13757	Selbst auf Reisen kommt die kleine Prinzessin immer mit.	Y	prinzessin	1635	    568	0.0035	423.5556	german_at_news_2012_00799904
 13758	Wie glücklich die Prinzessin und ihr Mann sind, zeigen die Bilder.	Y	prinzessin	1635	    568	0.0035	435.5	german_at_news_2012_00955025
 13759	Das wird ihr neues Leben als Prinzessin Nach der Hochzeit mit Prinz William wird nichts mehr sein wie vorher.	Y	prinzessin	1635	    568	0.0035	438.8333	german_at_news_2012_00205601
 13760	Kate ist auch nach der Hochzeit keine echte Prinzessin Plötzlich Prinzessin!	Y	prinzessin	1635	    568	0.0035	641.5	german_at_news_2012_00631961
 13761	Lassen Sie es ruhig bleiben, wenn Sie nicht wollen, das ist besser so.	Y	ruhig	1635	    568	0.0035	232.5833	german_at_news_2012_00650618
-13762	Auch in der Liebe dürfen Sie ruhig etwas mehr Vertrauen haben.	Y	ruhig	1635	    568	0.0035	360.0909	german_at_news_2012_00068567
-13763	Und deshalb kann Graf ruhig bleiben, ist ja nicht mein Problem.	Y	ruhig	1635	    568	0.0035	442.3636	german_at_news_2012_00872532
-13764	Manche sagen, man soll ruhig liegen bleiben.	Y	ruhig	1635	    568	0.0035	531.4286	german_at_news_2012_00663741
+13762	Wenn man in den letzten Monaten in Kärnten war, hat man schon ständig gehört: Wann ist der endlich ruhig?	Y	ruhig	1635	    568	0.0035	352.3529	german_at_news_2012_00942360
+13763	Heute darf es ruhig ein bisschen rund gehen.	Y	ruhig	1635	    568	0.0035	430.625	german_at_news_2012_00535215
+13764	In der Nacht zum Mittwoch blieb London zwar ruhig.	Y	ruhig	1635	    568	0.0035	515	german_at_news_2012_00592354
 13765	Strasser bleibt ganz ruhig bei seiner Antwort.	Y	ruhig	1635	    568	0.0035	659.1429	german_at_news_2012_00844403
 13766	Viel bessere Voraussetzungen wird es in den nächsten Jahren wohl nicht mehr geben.	Y	voraussetzungen	1635	    568	0.0035	296.9231	german_at_news_2012_00898658
 13767	Mit einem völlig neuen iPhone 5, wären die Voraussetzungen dafür jedoch besser gewesen.	Y	voraussetzungen	1635	    568	0.0035	397.9167	german_at_news_2012_00690397
@@ -805,13 +805,13 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13804	Sonst wird der Abstand zur Spitze schon groß.	Y	abstand	1637	    566	0.0035	489.125	german_at_news_2012_00829684
 13805	Dann will ich wirklich RUHE und versuche weit weg vom GESCHEHEN zu VERGESSEN und ABSTAND zu gewinnen.	Y	abstand	1637	    566	0.0035	602.1333	german_at_news_2012_00154447
 13806	ÖSTERREICH: Was erwarten Sie sich von Ihrer neuen Agentur?	Y	agentur	1637	    566	0.0035	328.4444	german_at_news_2012_00751296
-13807	Im letzten Jahr sei es zwischen seiner Agentur und der FPÖ zu „Spannungen“ gekommen.	Y	agentur	1637	    566	0.0035	365.5714	german_at_news_2012_00575182
-13808	Daneben“ gab es dann die Valora-Gruppe, mit der „wir in der Agentur im Großen und Ganzen nichts zu tun hatten.	Y	agentur	1637	    566	0.0035	399.25	german_at_news_2012_00150509
-13809	Ich bin jetzt bei einer deutschen Agentur, wo viele oft erstaunt sind, was bei uns im öffentlich-rechtlichen Fernsehen möglich ist.	Y	agentur	1637	    566	0.0035	495.65	german_at_news_2012_00548436
-13810	Aber die Agentur hat von der nie eine Unterschrift gehabt.	Y	agentur	1637	    566	0.0035	503.8	german_at_news_2012_00004456
-13811	Es ist kein Spiel am Berg, von dem wir hier reden.	Y	berg	1637	    566	0.0035	305.3636	german_at_news_2012_00462538
-13812	Aber mir ging es nie darum, so schnell wie möglich auf einen Berg zu rennen.	Y	berg	1637	    566	0.0035	336.8667	german_at_news_2012_00008847
-13813	Dazu ist sie noch für die Reihe „Ziele am Berg“ verantwortlich.	Y	berg	1637	    566	0.0035	454	german_at_news_2012_00210402
+13807	Es könnten mehr als 10 Jahre sein”, sagte er am Freitag der Deutschen Presse-Agentur.	Y	agentur	1637	    566	0.0035	350.0714	german_at_news_2012_00464943
+13808	Im letzten Jahr sei es zwischen seiner Agentur und der FPÖ zu „Spannungen“ gekommen.	Y	agentur	1637	    566	0.0035	365.5714	german_at_news_2012_00575182
+13809	Daneben“ gab es dann die Valora-Gruppe, mit der „wir in der Agentur im Großen und Ganzen nichts zu tun hatten.	Y	agentur	1637	    566	0.0035	399.25	german_at_news_2012_00150509
+13810	Ich bin jetzt bei einer deutschen Agentur, wo viele oft erstaunt sind, was bei uns im öffentlich-rechtlichen Fernsehen möglich ist.	Y	agentur	1637	    566	0.0035	495.65	german_at_news_2012_00548436
+13811	Es hat immer wieder ein Auf und Ab gegeben, aber sie ist heute oben auf dem Berg.	Y	berg	1637	    566	0.0035	215.9375	german_at_news_2012_00459426
+13812	Das ist mir am Berg auch wichtig.	Y	berg	1637	    566	0.0035	317	german_at_news_2012_00179413
+13813	Sie kämpfen nicht nur mit dem Berg.	Y	berg	1637	    566	0.0035	431.5714	german_at_news_2012_00809536
 13814	Vielleicht verdient er den Titel „Berg“ nicht ganz.	Y	berg	1637	    566	0.0035	506.375	german_at_news_2012_00901889
 13815	Wie heißt der höchste Berg der Steiermark?	Y	berg	1637	    566	0.0035	682.5	german_at_news_2012_00955333
 13816	Mindestens fünf Mal, auch als die Frau bereits auf dem Boden lag“, so ein Ermittler: „Sie war auf der Stelle tot!	Y	ermittler	1637	    566	0.0035	364.35	german_at_news_2012_00681252
@@ -819,8 +819,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13818	Trifft das auch auf den Moment zu, in dem Sie erfahren haben, dass die Ermittler möglicherweise einen Fehler gemacht haben könnten und Sie schneller gefunden worden wären?	Y	ermittler	1637	    566	0.0035	466.48	german_at_news_2012_00855461
 13819	Er war deswegen in Behandlung“, sagt ein Ermittler.	Y	ermittler	1637	    566	0.0035	570.75	german_at_news_2012_00449710
 13820	Die Ermittler haben das Fahrzeug genau untersucht.	Y	ermittler	1637	    566	0.0035	726	german_at_news_2012_00297226
-13821	Ob er einmal oder öfter oben war, weiß ich nicht.	Y	öfter	1637	    566	0.0035	329.5	german_at_news_2012_00738140
-13822	Das hat den Vorteil, dass man sich öfter mal was Neues leisten kann.	Y	öfter	1637	    566	0.0035	367.1538	german_at_news_2012_00173151
+13821	Immer öfter kommt es vor, dass es sich dabei um einen Einsatz am Wasser handelt.	Y	öfter	1637	    566	0.0035	282.2857	german_at_news_2012_00576845
+13822	Nur der kleine Schritt um ganz oben zu stehen, ist uns heuer öfter nicht gelungen.”	Y	öfter	1637	    566	0.0035	366.3333	german_at_news_2012_00733644
 13823	Das kommt öfter vor, als man denkt.	Y	öfter	1637	    566	0.0035	482.4286	german_at_news_2012_00182202
 13824	Öfter das kleine Glück genießen, statt auf das große zu warten.	Y	öfter	1637	    566	0.0035	578.2	german_at_news_2012_00743500
 13825	Je öfter man die Songs hört, desto mehr wirken sie.	Y	öfter	1637	    566	0.0035	812.4	german_at_news_2012_00622924
@@ -850,8 +850,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13849	Direkt nach seiner Rede geht es für Schwarzenegger weiter zu Bundespräsident Heinz Fischer.	Y	schwarzenegger	1638	    565	0.0035	484.2308	german_at_news_2012_00381584
 13850	Zudem traf Schwarzenegger im Vorjahr mit Bundespräsident Heinz Fischer zusammen.	Y	schwarzenegger	1638	    565	0.0035	733.9	german_at_news_2012_00983852
 13851	Facebook-Abstimmung: So nehmen Sie teil Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	abstimmung	1639	    564	0.0035	308.6	german_at_news_2012_00476211
-13852	Eine Abstimmung wird allerdings nicht vor Donnerstag erwartet.	Y	abstimmung	1639	    564	0.0035	368.875	german_at_news_2012_00404424
-13853	Wir sind sehr zufrieden“, sagte er nach der Abstimmung vor Journalisten.	Y	abstimmung	1639	    564	0.0035	392.6364	german_at_news_2012_00970249
+13852	Es war erst die dritte Abstimmung dieser Art in der US-Geschichte.	Y	abstimmung	1639	    564	0.0035	333.5	german_at_news_2012_00470375
+13853	Die Abstimmung über seine Person würde dann wohl zur Abstimmung über die große Koalition werden.	Y	abstimmung	1639	    564	0.0035	379.3333	german_at_news_2012_00276226
 13854	Wir wollen keine einzige Abstimmung mit den Stimmen dieser beiden gewinnen.	Y	abstimmung	1639	    564	0.0035	409.4545	german_at_news_2012_00973005
 13855	Auch die Abstimmung über das Handy des Jahres 2009 brachte einen klaren Sieger hervor.	Y	abstimmung	1639	    564	0.0035	610.9231	german_at_news_2012_00062777
 13856	Er will derzeit aber nicht zu der Causa Stellung nehmen: „Ich kann zur Zeit nichts dazu sagen.	Y	stellung	1639	    564	0.0035	272.9412	german_at_news_2012_00450748
@@ -975,15 +975,15 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 13974	Wie seine Figur heißen wird, ist noch offen.	Y	figur	1645	    558	0.0035	481.625	german_at_news_2012_00958971
 13975	Schlechte Figur hat Bush da nicht gemacht.	Y	figur	1645	    558	0.0035	738.1429	german_at_news_2012_00781365
 13976	Jetzt geht es um alles: Häuser, Millionen – und die vier gemeinsamen Kinder.	Y	häuser	1645	    558	0.0035	283.8333	german_at_news_2012_00623734
-13977	Der eine hat Firmen, der andere Häuser - viele In der Politik scheint es ja viel Geld zu geben.	Y	häuser	1645	    558	0.0035	300.0625	german_at_news_2012_00236619
+13977	Es kam heraus, dass 80 Prozent der Bürger noch nie in einem dieser Häuser waren.	Y	häuser	1645	    558	0.0035	314.1429	german_at_news_2012_00464108
 13978	Dass die Häuser noch an Ort und Stelle standen.	Y	häuser	1645	    558	0.0035	446.4444	german_at_news_2012_00193137
 13979	Lesen Sie hier, was die Häuser im einzelnen bieten.	Y	häuser	1645	    558	0.0035	459.4444	german_at_news_2012_00656802
 13980	Mehr als 360 Menschen kamen ums Leben, neun Millionen Menschen verloren ihre Häuser.	Y	häuser	1645	    558	0.0035	534	german_at_news_2012_00673642
-13981	Es läuft seit zwei Wochen“, weiß ein Insider über das Techtelmechtel, „Er schreibt ihr SMS, wenn er sie sehen will und sie treffen sich ein paar Mal pro Woche.	Y	sms	1645	    558	0.0035	410.3077	german_at_news_2012_00465097
-13982	Wenn jemand in eine SMS schreibt, dass er der Strache ist, dann heisst das noch lange nicht, dass auch wirklich der Strache dahinter steht.	Y	sms	1645	    558	0.0035	439.9048	german_at_news_2012_00941565
-13983	Schreibt bei jeder SMS, jedem Mail dazu, wo er gerade ist.	Y	sms	1645	    558	0.0035	441.4545	german_at_news_2012_00786631
-13984	In Österreich werden im Jahr sechs Milliarden SMS verschickt, 100 Millionen davon werden über die Internet-Plattform sms.at verschickt.	Y	sms	1645	    558	0.0035	444	german_at_news_2012_00605382
-13985	Überraschend ist die oft lange Lebensdauer von SMS von bis zu einem Jahr und darüber.	Y	sms	1645	    558	0.0035	452.4286	german_at_news_2012_00861348
+13981	Nur 8 Prozent der Eltern waren der Meinung, dass das Lesen von SMS-Nachrichten als Lesen bezeichnet werden kann.	Y	sms	1645	    558	0.0035	387.3125	german_at_news_2012_00733143
+13982	Es läuft seit zwei Wochen“, weiß ein Insider über das Techtelmechtel, „Er schreibt ihr SMS, wenn er sie sehen will und sie treffen sich ein paar Mal pro Woche.	Y	sms	1645	    558	0.0035	410.3077	german_at_news_2012_00465097
+13983	Wenn jemand in eine SMS schreibt, dass er der Strache ist, dann heisst das noch lange nicht, dass auch wirklich der Strache dahinter steht.	Y	sms	1645	    558	0.0035	439.9048	german_at_news_2012_00941565
+13984	Kommt ein Kind nicht in die Schule, werden die Eltern via SMS oder E-Mail darüber informiert.	Y	sms	1645	    558	0.0035	441.375	german_at_news_2012_00640682
+13985	Schreibt bei jeder SMS, jedem Mail dazu, wo er gerade ist.	Y	sms	1645	    558	0.0035	441.4545	german_at_news_2012_00786631
 13986	In Österreich ist das bereits seit einiger Zeit der Fall.	Y	einiger	1646	    557	0.0035	231.2	german_at_news_2012_00604991
 13987	Am anfang sind sie auch gekommen doch nach einiger zeit kam niemand mehr.	Y	einiger	1646	    557	0.0035	311.6154	german_at_news_2012_00039579
 13988	Wir haben uns vor einiger Zeit getroffen.	Y	einiger	1646	    557	0.0035	460	german_at_news_2012_00966600

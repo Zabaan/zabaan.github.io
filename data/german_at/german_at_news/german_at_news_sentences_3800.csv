@@ -1,7 +1,7 @@
 ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
-18001	Vereinbart und beschlossen hat man das aber bereits im Vorjahr.	Y	vereinbart	1782	    421	0.0026	358.6	german_at_news_2012_00894940
-18002	Auch nach den Wahlen im April werde das Programm wie vereinbart umgesetzt.	Y	vereinbart	1782	    421	0.0026	452.3333	german_at_news_2012_00070384
-18003	Nur so könne Beruf und Kind wirklich vereinbart werden.	Y	vereinbart	1782	    421	0.0026	487.1111	german_at_news_2012_00735593
+18001	Es war auch bereits im Sommer ein Treffen für den Herbst in Wien vereinbart.	Y	vereinbart	1782	    421	0.0026	268.6429	german_at_news_2012_00469333
+18002	Vereinbart und beschlossen hat man das aber bereits im Vorjahr.	Y	vereinbart	1782	    421	0.0026	358.6	german_at_news_2012_00894940
+18003	Ich bin nicht bereit, mehr zu zahlen als ursprünglich vereinbart.	Y	vereinbart	1782	    421	0.0026	481.8	german_at_news_2012_00548677
 18004	Sie soll – wie auf EU-Ebene vereinbart – ab 2017 greifen.	Y	vereinbart	1782	    421	0.0026	542.3333	german_at_news_2012_00814148
 18005	Nachdem ein Plan vereinbart wurde, sollten ihm anschließend mindestens drei Wochen zur Erholung frei bleiben.	Y	vereinbart	1782	    421	0.0026	651.6667	german_at_news_2012_00703937
 18006	Zum ersten Mal seit zwölf Jahren konnte der ÖGB Vorarlberg aber im letzten Jahr einen Mitgliederzuwachs verzeichnen.	Y	verzeichnen	1782	    421	0.0026	453	german_at_news_2012_00989295
@@ -30,10 +30,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 18029	Man sieht genügend Piloten, die einen Job suchen.	Y	piloten	1783	    420	0.0026	710.625	german_at_news_2012_00668726
 18030	Ein „Standard“-Bericht, wonach 45 Piloten die AUA verlassen wollen, wurde bestätigt.	Y	piloten	1783	    420	0.0026	823.0909	german_at_news_2012_00424645
 18031	Art+Tech  bedeutet zudem, dass hier auch Kunst eine Rolle spielt.	Y	tech	1783	    420	0.0026	469.9091	german_at_news_2012_00057581
-18032	Da werden viele Personen im Management der VA Tech umdenken müssen oder nicht mehr dabei sein.	Y	tech	1783	    420	0.0026	520.125	german_at_news_2012_00208973
-18033	Die Reaktionen aus der Tech-Welt ließen nicht lange auf sich warten.	Y	tech	1783	    420	0.0026	540.3333	german_at_news_2012_00338841
-18034	Dazu müssen wir den Jugendlichen aber zeigen, was alles die Region an High-Tech hervorbringt.“	Y	tech	1783	    420	0.0026	560.3333	german_at_news_2012_00211198
-18035	Das einzige worüber zu reden sein wird, ist die Holding der VA Tech, die wir so nicht mehr brauchen.	Y	tech	1783	    420	0.0026	568.6111	german_at_news_2012_00165640
+18032	Die deutsche High Tech Firma ist eines von 18 Unternehmen, die die Standortagentur Tirol im letzten Jahr ins Land gebracht hat.	Y	tech	1783	    420	0.0026	511	german_at_news_2012_00291993
+18033	Da werden viele Personen im Management der VA Tech umdenken müssen oder nicht mehr dabei sein.	Y	tech	1783	    420	0.0026	520.125	german_at_news_2012_00208973
+18034	Die Reaktionen aus der Tech-Welt ließen nicht lange auf sich warten.	Y	tech	1783	    420	0.0026	540.3333	german_at_news_2012_00338841
+18035	Dazu müssen wir den Jugendlichen aber zeigen, was alles die Region an High-Tech hervorbringt.“	Y	tech	1783	    420	0.0026	560.3333	german_at_news_2012_00211198
 18036	Die 53-Jährige wurde sofort versorgt und in ein Krankenhaus gebracht.	Y	versorgt	1783	    420	0.0026	427.3	german_at_news_2012_00275602
 18037	In den Erste-Hilfe-Stationen wurden bis Sonntag 300 Menschen versorgt.	Y	versorgt	1783	    420	0.0026	502.1	german_at_news_2012_00586881
 18038	Der Mann wurde von der Rettung versorgt.	Y	versorgt	1783	    420	0.0026	607.6667	german_at_news_2012_00250531
@@ -64,11 +64,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 18063	ÖSTERREICH: Herr Petzner, am Dienstag ist wieder Karl-Heinz Grasser geladen.	Y	geladen	1784	    419	0.0026	592.2727	german_at_news_2012_00749257
 18064	Neben Grasser ist auch Peter Hochegger geladen.	Y	geladen	1784	    419	0.0026	620	german_at_news_2012_00716658
 18065	Neun österreichische Architekten wurden zum Wettbewerb geladen.	Y	geladen	1784	    419	0.0026	858.8571	german_at_news_2012_00720684
-18066	In Österreich hat ja schon fast zehn Jahre lang niemand mehr gemessen.	Y	gemessen	1784	    419	0.0026	319.9167	german_at_news_2012_00604948
-18067	Heute will er nicht allein daran gemessen werden.	Y	gemessen	1784	    419	0.0026	374.375	german_at_news_2012_00536898
-18068	Vielleicht – jedenfalls gemessen an dem, was uns in den kommenden Jahren noch bevorsteht.	Y	gemessen	1784	    419	0.0026	444.3846	german_at_news_2012_00901476
-18069	In dieser Frage gehe es um die „Qualität der Demokratie in Österreich, die auch an ihrem Umgang mit der Volksgruppe gemessen wird“.	Y	gemessen	1784	    419	0.0026	449.3684	german_at_news_2012_00596462
-18070	Gemessen am gesamten Kreditvolumen der EU ist es das aber nicht.	Y	gemessen	1784	    419	0.0026	463	german_at_news_2012_00508997
+18066	Gemessen an dem jedoch, was wir nicht wissen, haben wir noch sehr, sehr viel vor uns.	Y	gemessen	1784	    419	0.0026	212.8571	german_at_news_2012_00509007
+18067	In Österreich hat ja schon fast zehn Jahre lang niemand mehr gemessen.	Y	gemessen	1784	    419	0.0026	319.9167	german_at_news_2012_00604948
+18068	Heute will er nicht allein daran gemessen werden.	Y	gemessen	1784	    419	0.0026	374.375	german_at_news_2012_00536898
+18069	Vielleicht – jedenfalls gemessen an dem, was uns in den kommenden Jahren noch bevorsteht.	Y	gemessen	1784	    419	0.0026	444.3846	german_at_news_2012_00901476
+18070	In dieser Frage gehe es um die „Qualität der Demokratie in Österreich, die auch an ihrem Umgang mit der Volksgruppe gemessen wird“.	Y	gemessen	1784	    419	0.0026	449.3684	german_at_news_2012_00596462
 18071	In drei Jahren von null auf etwa zwanzig Hektar, so etwas gab’s in Österreich jedenfalls noch nicht so wahnsinnig oft.	Y	hektar	1784	    419	0.0026	483.2105	german_at_news_2012_00597055
 18072	Die Landwirtschaft ist insgesamt 90 Hektar groß, mehr als die Hälfte davon praktisch gleich hinter dem Haus.	Y	hektar	1784	    419	0.0026	519.9333	german_at_news_2012_00321922
 18073	Die Anbaufläche hat sich in den vergangenen drei Jahren auf mittlerweile 50 Hektar verdoppelt.	Y	hektar	1784	    419	0.0026	530.9231	german_at_news_2012_00277877
@@ -85,10 +85,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 18084	Mich hat immer die Frage interessiert: Was müsste ein Mensch essen, um optimal gesund zu sein?	Y	optimal	1784	    419	0.0026	499.4375	german_at_news_2012_00680180
 18085	Ein  Nexus Two  soll es nicht geben, da das Ziel laut Schmidt bereits mit dem ersten Handy optimal erreicht wurde.	Y	optimal	1784	    419	0.0026	500.4	german_at_news_2012_00422303
 18086	Schon in den Jahren vor der Gründung von kino.to war ihm laut seinem Geständnis aufgegangen, dass man im Internet sehr viel Geld verdienen könne.	Y	to	1784	    419	0.0026	497.72	german_at_news_2012_00785425
-18087	Man malt sich aus, er hätte eine Plattform gegründet hat, um sich mit all seinen Freunden vernetzen zu können und ständig up to date zu sein, was in ihrem Leben so vor sich geht.	Y	to	1784	    419	0.0026	551.4839	german_at_news_2012_00667148
-18088	Auch im Urlaub immer Abo-to-Date Schon auf dem Weg in den Urlaub und die Kleine Zeitung nicht abbestellt?	Y	to	1784	    419	0.0026	558.9474	german_at_news_2012_00068223
-18089	Um sicher zu gehen dass der Dienst nicht in Kürze wieder online ist, haben die Behörden die Domain kino.to zudem beschlagnahmt.	Y	to	1784	    419	0.0026	618.3333	german_at_news_2012_00865699
-18090	Gründer und Chef von kino.to kommt vor Gericht kino.	Y	to	1784	    419	0.0026	659.3333	german_at_news_2012_00522834
+18087	Wobei, so ganz up to date bin ich da ja auch nicht mehr.	Y	to	1784	    419	0.0026	546.0769	german_at_news_2012_00974408
+18088	Man malt sich aus, er hätte eine Plattform gegründet hat, um sich mit all seinen Freunden vernetzen zu können und ständig up to date zu sein, was in ihrem Leben so vor sich geht.	Y	to	1784	    419	0.0026	551.4839	german_at_news_2012_00667148
+18089	Auch im Urlaub immer Abo-to-Date Schon auf dem Weg in den Urlaub und die Kleine Zeitung nicht abbestellt?	Y	to	1784	    419	0.0026	558.9474	german_at_news_2012_00068223
+18090	Um sicher zu gehen dass der Dienst nicht in Kürze wieder online ist, haben die Behörden die Domain kino.to zudem beschlagnahmt.	Y	to	1784	    419	0.0026	618.3333	german_at_news_2012_00865699
 18091	Denn um überleben zu können, müssen viele Kinder schwer arbeiten statt in die Schule zu gehen.	Y	überleben	1784	    419	0.0026	302.4667	german_at_news_2012_00224128
 18092	Die Besten überleben und setzen sich durch!	Y	überleben	1784	    419	0.0026	385.5714	german_at_news_2012_00286978
 18093	Es war meine einzige Möglichkeit zu überleben.	Y	überleben	1784	    419	0.0026	492.7143	german_at_news_2012_00470685
@@ -134,10 +134,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 18133	Genauer gesagt, sind die beiden bereits seit einem halben Jahr „mehr oder weniger auseinander“.	Y	genauer	1786	    417	0.0026	483.8571	german_at_news_2012_00509533
 18134	Alles wie gehabt also, genauer: fast alles.	Y	genauer	1786	    417	0.0026	563.6667	german_at_news_2012_00026771
 18135	Bitte erklären Sie mir genauer was Sie meinen.	Y	genauer	1786	    417	0.0026	634.1429	german_at_news_2012_00120437
-18136	Die Männer dürfte das freuen … Bitte geben Sie eine gültige Email-Adresse ein Kommentar wurde erfolgreich abgegeben.	Y	gültige	1786	    417	0.0026	547.2941	german_at_news_2012_00324490
-18137	Am 23. Bitte geben Sie eine gültige Email-Adresse ein Kommentar wurde erfolgreich abgegeben.	Y	gültige	1786	    417	0.0026	561.9231	german_at_news_2012_00038415
-18138	Bilden Sie sich Ihre eigene Meinung: Bitte geben Sie eine gültige Email-Adresse ein Kommentar wurde erfolgreich abgegeben.	Y	gültige	1786	    417	0.0026	586.1765	german_at_news_2012_00114986
-18139	Bitte geben Sie eine gültige Email-Adresse ein Kommentar wurde erfolgreich abgegeben.	Y	gültige	1786	    417	0.0026	606.3333	german_at_news_2012_00120451
+18136	Am Samstag, den 21. Bitte geben Sie eine gültige Email-Adresse ein Kommentar wurde erfolgreich abgegeben.	Y	gültige	1786	    417	0.0026	515.0667	german_at_news_2012_00043958
+18137	Im 18. Bitte geben Sie eine gültige Email-Adresse ein Kommentar wurde erfolgreich abgegeben.	Y	gültige	1786	    417	0.0026	560.5385	german_at_news_2012_00566927
+18138	Juli 2012 Bitte geben Sie eine gültige Email-Adresse ein Kommentar wurde erfolgreich abgegeben.	Y	gültige	1786	    417	0.0026	583.9231	german_at_news_2012_00628066
+18139	Die Aktion ist kostenlos und bietet maximal für 20 Bitte geben Sie eine gültige Email-Adresse ein Kommentar wurde erfolgreich abgegeben.	Y	gültige	1786	    417	0.0026	598.05	german_at_news_2012_00276778
 18140	Die einzig gültige Antwort: Microsoft verdient daran - und ich auch!	Y	gültige	1786	    417	0.0026	732.8	german_at_news_2012_00295101
 18141	Seine Julia hingegen sagt zum ersten Mal „Ja“.	Y	julia	1786	    417	0.0026	399.625	german_at_news_2012_00792177
 18142	Julia kam und hat von Termin zu Termin immer weniger gemacht.	Y	julia	1786	    417	0.0026	421.9	german_at_news_2012_00628084
@@ -394,11 +394,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 18393	Wichtig sind vor allem Maßnahmen, die die Forschung und Innovation stärken.	Y	innovation	1793	    410	0.0025	529	german_at_news_2012_00951326
 18394	Das zeigt, wie eng Design und Innovation verbunden sind.	Y	innovation	1793	    410	0.0025	678.8889	german_at_news_2012_00206882
 18395	Was bedeutet echte Innovation im Tourismus überhaupt?	Y	innovation	1793	    410	0.0025	775.8571	german_at_news_2012_00923444
-18396	Dann kaufen Sie heute noch viel Obst und Fruchtgemüse ein, es hält sich jetzt länger.	Y	obst	1793	    410	0.0025	471.4667	german_at_news_2012_00153080
-18397	Wenn man weiß, wo, dann sind Obst und Co billiger und besser als im Supermarkt.	Y	obst	1793	    410	0.0025	515	german_at_news_2012_00942802
-18398	Obst einkochen ist heute - wenn es nach dem Mond geht - keine gute Idee.	Y	obst	1793	    410	0.0025	568.1538	german_at_news_2012_00739595
-18399	Viel besser wäre es, das Obst vorzeitig zu einem guten Preis zu verkaufen.	Y	obst	1793	    410	0.0025	579.5833	german_at_news_2012_00898668
-18400	Außerdem können wir nun auch wieder Obst und Fruchtgemüse in größeren Mengen nehmen, es hält sich länger.	Y	obst	1793	    410	0.0025	582.0588	german_at_news_2012_00086201
+18396	Aber auch die Frage, ob Obst und Gemüse gerade Saison haben, ist wichtig.	Y	obst	1793	    410	0.0025	391.3077	german_at_news_2012_00002066
+18397	Dann kaufen Sie heute noch viel Obst und Fruchtgemüse ein, es hält sich jetzt länger.	Y	obst	1793	    410	0.0025	471.4667	german_at_news_2012_00153080
+18398	Wenn man weiß, wo, dann sind Obst und Co billiger und besser als im Supermarkt.	Y	obst	1793	    410	0.0025	515	german_at_news_2012_00942802
+18399	Obst einkochen ist heute - wenn es nach dem Mond geht - keine gute Idee.	Y	obst	1793	    410	0.0025	568.1538	german_at_news_2012_00739595
+18400	Viel besser wäre es, das Obst vorzeitig zu einem guten Preis zu verkaufen.	Y	obst	1793	    410	0.0025	579.5833	german_at_news_2012_00898668
 18401	Und er habe ihm geraten, zurück zu den Wurzeln zu gehen.	Y	wurzeln	1793	    410	0.0025	395.6	german_at_news_2012_00874950
 18402	Und noch dazu haben die Grünen unter Glawischnig ihre Wurzeln verloren.	Y	wurzeln	1793	    410	0.0025	443.8182	german_at_news_2012_00879903
 18403	Im Garten können wir Pflanzen setzen, sie wurzeln gut an.	Y	wurzeln	1793	    410	0.0025	552.5	german_at_news_2012_00570838
@@ -436,15 +436,15 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 18435	Der ORF geriet immer mehr unter die Knute der Politik.	Y	geriet	1795	    408	0.0025	530.4444	german_at_news_2012_00253991
 18436	Mit einem Gewicht von rund 600 Gramm hat es auch etwas abgespeckt, für eine längere Verwendung mit nur einer Hand, ist es aber noch immer etwas zu schwer.	Y	gramm	1795	    408	0.0025	453.0417	german_at_news_2012_00689921
 18437	Nur rund 70 Gramm schwer und schon ist er der Liebling der Besucher.	Y	gramm	1795	    408	0.0025	483.7273	german_at_news_2012_00735409
-18438	Die Post begründet dies u.a. damit, dass das Porto für den Standardbrief bis 20 Gramm seit sechs Jahren nicht mehr erhöht worden sei.	Y	gramm	1795	    408	0.0025	530.8696	german_at_news_2012_00336935
-18439	Wenn ich für jedes Gramm Schokolade, das ich als Geschenk bekommen habe, einen Kilometer laufen würde, käme ich von Linz nach London und wieder zurück.	Y	gramm	1795	    408	0.0025	531.6957	german_at_news_2012_00940985
-18440	Aber vielleicht hat man da auch nur ein paar Gramm Gewicht gespart.	Y	gramm	1795	    408	0.0025	542.5	german_at_news_2012_00010729
+18438	Statt fünf bis sechs Gramm Salz pro Tag (ein Teelöffel) nehmen die Menschen derzeit schon neun bis zwölf Gramm zu sich.	Y	gramm	1795	    408	0.0025	498.5263	german_at_news_2012_00841245
+18439	Die Post begründet dies u.a. damit, dass das Porto für den Standardbrief bis 20 Gramm seit sechs Jahren nicht mehr erhöht worden sei.	Y	gramm	1795	    408	0.0025	530.8696	german_at_news_2012_00336935
+18440	Wenn ich für jedes Gramm Schokolade, das ich als Geschenk bekommen habe, einen Kilometer laufen würde, käme ich von Linz nach London und wieder zurück.	Y	gramm	1795	    408	0.0025	531.6957	german_at_news_2012_00940985
 18441	Karriere ist harte Arbeit und bedeutet besser zu sein als andere.	Y	harte	1795	    408	0.0025	392.7273	german_at_news_2012_00631536
 18442	Es wird also eine harte Aufgabe”, sagte Karl.	Y	harte	1795	    408	0.0025	445.75	german_at_news_2012_00471451
 18443	Sicher, Heidi macht derzeit eine harte Zeit durch.	Y	harte	1795	    408	0.0025	548.875	german_at_news_2012_00802566
 18444	Der Text ist eine gute Grundlage für eine offene und in manchen Bereichen sicher harte Diskussion, die nun folgen wird.	Y	harte	1795	    408	0.0025	575.1053	german_at_news_2012_00262462
 18445	Die Wahrheit lautet: Dahinter steckt harte Arbeit.	Y	harte	1795	    408	0.0025	1127.7143	german_at_news_2012_00375569
-18446	Apple und Samsung hängen HTC ab Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	htc	1795	    408	0.0025	393.9231	german_at_news_2012_00056109
+18446	Bisher war nur bekannt, dass es sich dabei um ein Modell von HTC handelt, das noch nicht vorgestellt wurde.	Y	htc	1795	    408	0.0025	308.8421	german_at_news_2012_00118481
 18447	Microsoft schließt HTC von Windows 8 aus Geben Sie hier die E-Mail-Adresse des Empfängers ein (z.B. xy@z.com). Mehrere Empfänger werden durch Kommata getrennt.	Y	htc	1795	    408	0.0025	401.0385	german_at_news_2012_00680449
 18448	Das neue Google-Handy im OÖN-Test Hält das neue HTC G1, was es verspricht?	Y	htc	1795	    408	0.0025	676.5385	german_at_news_2012_00187189
 18449	Ähnlich ging bereits der Smartphone-Hersteller HTC vor.	Y	htc	1795	    408	0.0025	723.125	german_at_news_2012_00018814
@@ -557,7 +557,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 18556	Für 2011 stehen die Berichte allerdings noch aus, sie kommen erst im Herbst.	Y	berichte	1798	    405	0.0025	270.8333	german_at_news_2012_00490865
 18557	Allerdings gab es auch am Donnerstag wieder Berichte über zahlreiche Tote.	Y	berichte	1798	    405	0.0025	456	german_at_news_2012_00024118
 18558	Auch die Zeitungen kennen vor allem eines: Berichte über Gewalt.	Y	berichte	1798	    405	0.0025	598.3	german_at_news_2012_00065373
-18559	Derzeit sind Rechnungshof-Berichte erst öffentlich, wenn sie vom Landtag behandelt werden.	Y	berichte	1798	    405	0.0025	679.8333	german_at_news_2012_00269672
+18559	ÖVP: U-Ausschuss für Landtag „eine Nummer zu groß“ Die jeweiligen Berichte von Grün und Blau sind im Internet zugänglich.	Y	berichte	1798	    405	0.0025	639.3	german_at_news_2012_00752455
 18560	Berichte über Verletzte oder Schäden lagen zunächst nicht vor.	Y	berichte	1798	    405	0.0025	837.6667	german_at_news_2012_00109321
 18561	Wir müssen immer den direkten Kontakt mit all den Menschen suchen, für die und mit denen wir Politik machen wollen“, sagte Gusenbauer.	Y	direkten	1798	    405	0.0025	341.1053	german_at_news_2012_00968555
 18562	Die Positionen von ÖVP und SPÖ im direkten Vergleich!	Y	direkten	1798	    405	0.0025	490.2222	german_at_news_2012_00336867
@@ -675,10 +675,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 18674	Ich habe mich für den Spiegel entschieden.	Y	spiegel	1800	    403	0.0025	448.1429	german_at_news_2012_00553885
 18675	Entspricht das Ihrer persönlichen Sicht – das Kino als Spiegel der Welt?	Y	spiegel	1800	    403	0.0025	674.8	german_at_news_2012_00431777
 18676	Zu den beiden sagen wir gar nichts“, sagte eine Sprecherin.	Y	sprecherin	1800	    403	0.0025	299	german_at_news_2012_00984420
-18677	Er sei, so eine Sprecherin der Rettung, ein Sanitäter wie alle anderen auch.	Y	sprecherin	1800	    403	0.0025	458.6154	german_at_news_2012_00443843
-18678	Die Wiener Linien haben nichts dagegen, da „mit Humor die Leute besser erreicht werden können“, sagte eine Sprecherin.	Y	sprecherin	1800	    403	0.0025	480.2353	german_at_news_2012_00377525
-18679	Insgesamt gebe es aber weniger Probleme mit Produktpiraten als in früheren Jahren, sagte eine Sprecherin.	Y	sprecherin	1800	    403	0.0025	491	german_at_news_2012_00607857
-18680	Wir werden eine Interpretation in die eine oder andere Richtung nicht bestätigen“, so die Sprecherin.	Y	sprecherin	1800	    403	0.0025	495.9231	german_at_news_2012_00972098
+18677	Ab wann es das Gerät auch bei uns geben wird, ist nach Angaben einer Sprecherin bisher nicht bekannt.	Y	sprecherin	1800	    403	0.0025	312.6667	german_at_news_2012_00014714
+18678	Er sei, so eine Sprecherin der Rettung, ein Sanitäter wie alle anderen auch.	Y	sprecherin	1800	    403	0.0025	458.6154	german_at_news_2012_00443843
+18679	Die Wiener Linien haben nichts dagegen, da „mit Humor die Leute besser erreicht werden können“, sagte eine Sprecherin.	Y	sprecherin	1800	    403	0.0025	480.2353	german_at_news_2012_00377525
+18680	Insgesamt gebe es aber weniger Probleme mit Produktpiraten als in früheren Jahren, sagte eine Sprecherin.	Y	sprecherin	1800	    403	0.0025	491	german_at_news_2012_00607857
 18681	Am Montag waren noch wenig Sterne auf dem Bus zu sehen, aber das soll sich ändern.	Y	sterne	1800	    403	0.0025	366.25	german_at_news_2012_00043195
 18682	Warum ein Drittel der Österreicher an die Kraft der Sterne glauben – und wie sie danach leben.	Y	sterne	1800	    403	0.0025	383.6	german_at_news_2012_00921778
 18683	Neben der Technologie sei ein Schwerpunkt mehr Qualität im Tourismus, vor allem in Zwei- und Drei-Sterne-Betrieben.	Y	sterne	1800	    403	0.0025	450	german_at_news_2012_00716255
@@ -739,11 +739,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 18738	Künftig müssen die Unternehmen exakt erklären, wenn sie es nicht tun.	Y	exakt	1802	    401	0.0025	410.7273	german_at_news_2012_00645965
 18739	Beide hatten die exakt gleiche Ausbildung und den gleichen Willen, Karriere zu machen.	Y	exakt	1802	    401	0.0025	685	german_at_news_2012_00094516
 18740	Exakt jene Summe stellte Elsner für den Gefallen in Aussicht.	Y	exakt	1802	    401	0.0025	891.5	german_at_news_2012_00475094
-18741	Sie werde sich selbst um das Baby kümmern, versicherte die First Lady, die bereits einen neun Jahre alten Sohn aus einer anderen Beziehung hat.	Y	first	1802	    401	0.0025	530.6957	german_at_news_2012_00816598
-18742	So hatte sich die Italienerin ihr Leben als First Lady sicher nicht vorgestellt.	Y	first	1802	    401	0.0025	573.7692	german_at_news_2012_00824054
-18743	Die Kroatin ist die neue First Lady von Linz – übrigens: nur drei Männer erreichten vor ihr das Ziel.	Y	first	1802	    401	0.0025	573.8824	german_at_news_2012_00320816
-18744	Deshalb werde ich jetzt mit den Wählern sprechen“, sagte die First Lady der USA nach ihrer Ankunft in Kopenhagen.	Y	first	1802	    401	0.0025	598.4211	german_at_news_2012_00272193
-18745	Die schönsten Bilder von Michelle Obama Michelle Obama: Ihre schönsten Bilder Das ist die First Lady der USA.	Y	first	1802	    401	0.0025	628.2308	german_at_news_2012_00343373
+18741	Einer für die First Lady, der andere für uns.	Y	first	1802	    401	0.0025	445.25	german_at_news_2012_00412502
+18742	Sie werde sich selbst um das Baby kümmern, versicherte die First Lady, die bereits einen neun Jahre alten Sohn aus einer anderen Beziehung hat.	Y	first	1802	    401	0.0025	530.6957	german_at_news_2012_00816598
+18743	So hatte sich die Italienerin ihr Leben als First Lady sicher nicht vorgestellt.	Y	first	1802	    401	0.0025	573.7692	german_at_news_2012_00824054
+18744	Die Kroatin ist die neue First Lady von Linz – übrigens: nur drei Männer erreichten vor ihr das Ziel.	Y	first	1802	    401	0.0025	573.8824	german_at_news_2012_00320816
+18745	Deshalb werde ich jetzt mit den Wählern sprechen“, sagte die First Lady der USA nach ihrer Ankunft in Kopenhagen.	Y	first	1802	    401	0.0025	598.4211	german_at_news_2012_00272193
 18746	Das heißt hoffentlich auch, dafür etwas Geld zur Verfügung zu haben.“	Y	hoffentlich	1802	    401	0.0025	302.6364	german_at_news_2012_00174422
 18747	Hoffentlich funktioniert das in Österreich auch so gut.	Y	hoffentlich	1802	    401	0.0025	376.75	german_at_news_2012_00544053
 18748	Ein paar Monate später wird man das hoffentlich lösen können.	Y	hoffentlich	1802	    401	0.0025	474.6	german_at_news_2012_00422670
@@ -889,9 +889,9 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 18888	Klum: Kommt jetzt der Streit ums Geld?	Y	klum	1805	    398	0.0025	669.8571	german_at_news_2012_00639036
 18889	Ins Detail gehen bezüglich der Trennung wollte Klum aber dennoch nicht.	Y	klum	1805	    398	0.0025	711.8182	german_at_news_2012_00606585
 18890	Oma Jackson verliert das Sorgerecht Klum: Kommt jetzt der Streit ums Geld?	Y	klum	1805	    398	0.0025	762.9167	german_at_news_2012_00745713
-18891	Denn nicht nur der künstlerische Erfolg ist wichtig, sondern eben auch der wirtschaftliche.	Y	künstlerische	1805	    398	0.0025	412.8333	german_at_news_2012_00222080
-18892	Haben Sie zur der je eine künstlerische Nähe gesehen?	Y	künstlerische	1805	    398	0.0025	459	german_at_news_2012_00526266
-18893	Im Mittelpunkt steht dabei immer die künstlerische Auseinandersetzung mit der Region.	Y	künstlerische	1805	    398	0.0025	511	german_at_news_2012_00577588
+18891	In einer Ausstellung, in der es um künstlerische Qualität geht, hat das aber nichts verloren.	Y	künstlerische	1805	    398	0.0025	301.2857	german_at_news_2012_00598275
+18892	Denn nicht nur der künstlerische Erfolg ist wichtig, sondern eben auch der wirtschaftliche.	Y	künstlerische	1805	    398	0.0025	412.8333	german_at_news_2012_00222080
+18893	Mit seiner Arbeit will er Kindern und Jugendlichen eine künstlerische Heimat bieten.	Y	künstlerische	1805	    398	0.0025	488.3333	german_at_news_2012_00694657
 18894	Das künstlerische Programm nimmt vielleicht fünf Prozent meiner Zeit in Anspruch.	Y	künstlerische	1805	    398	0.0025	512.8182	german_at_news_2012_00183220
 18895	Was ist die zentrale künstlerische Liebe Ihres Lebens?	Y	künstlerische	1805	    398	0.0025	671.875	german_at_news_2012_00926269
 18896	Ich bin froh, dass die Oberösterreicher mit ihrem Land und der Politik des Landes in einem hohen Ausmaß zufrieden sind.	Y	oberösterreicher	1805	    398	0.0025	410.45	german_at_news_2012_00548068
