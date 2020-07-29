@@ -78,7 +78,7 @@ function load_corpus(lang) {
 }
 
 function nextSentence() {
-  cnt++;
+  cnt = Math.floor(Math.random() * 1000);
   $("#SelectSentence").val(""+cnt);
   $('#sentence').html(this.mydata[cnt]);
   localStorage.setItem(this.lang+zabancntstr, cnt);
