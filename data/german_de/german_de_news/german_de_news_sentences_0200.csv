@@ -1,8 +1,8 @@
 ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 1	Das ist aber auch nicht die Welt.	Y	die	1	1,607,139	3.4298	37.8571	german_de_news_2013_00184219
 2	Dann werden die aber nicht mehr wollen..	Y	die	1	1,607,139	3.4298	52.4286	german_de_news_2014_00160533
-3	2. Ist das die Welt, in der Sie leben wollen?	Y	die	1	1,607,139	3.4298	64.7778	german_de_news_2015_00004594
-4	Die Welt ist gut, die Menschen,die in ihr leben nicht so sehr.	Y	die	1	1,607,139	3.4298	78.8182	german_de_news_2015_00379864
+3	Ist das die Welt, in der Sie leben wollen?	Y	die	1	1,607,139	3.4298	64.7778	german_de_news_2015_00004594
+4	Die Welt ist gut, die Menschen, die in ihr leben nicht so sehr.	Y	die	1	1,607,139	3.4298	78.8182	german_de_news_2015_00379864
 5	Die USA wollen sich jedoch Zeit lassen.	Y	die	1	1,607,139	3.4298	123.8571	german_de_news_2014_00377896
 6	Und wie wurde er zu dem, der er heute ist?	Y	der	2	1,497,314	3.1954	31.5556	german_de_news_2014_00853870
 7	Aber die Welt ist nicht in uns, wir sind in der Welt.	Y	der	2	1,497,314	3.1954	45.7	german_de_news_2015_00012319
@@ -21,14 +21,14 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 20	Wir leben ja nicht in einer anderen Welt!	Y	in	4	  843,995	1.8012	96.25	german_de_news_2015_00927508
 21	Und das war es dann auch schon.	Y	das	5	  590,960	1.2612	31.7143	german_de_news_2014_00841929
 22	Das ist heute so und das war vor 25 Jahren so!	Y	das	5	  590,960	1.2612	45.25	german_de_news_2015_00183769
-23	Auf das eine Jahr auf oder ab kommt es nicht an“, sagt er.	Y	das	5	  590,960	1.2612	53.5	german_de_news_2015_00080988
-24	Und wenn nicht mehr, dann war's das für mich.»	Y	das	5	  590,960	1.2612	63.2	german_de_news_2013_00881649
+23	«Auf das eine Jahr auf oder ab kommt es nicht an», sagt er.	Y	das	5	  590,960	1.2612	53.5	german_de_news_2015_00080988
+24	Und wenn nicht mehr, dann war's das für mich.	Y	das	5	  590,960	1.2612	63.2	german_de_news_2013_00881649
 25	Das wäre doch eine ganz andere Welt.	Y	das	5	  590,960	1.2612	109.2857	german_de_news_2014_00209565
 26	Und den Euro, den haben wir auch.	Y	den	6	  538,042	1.1482	30.5	german_de_news_2013_00869167
 27	So war es auch schon in den vergangenen Jahren.	Y	den	6	  538,042	1.1482	54.1111	german_de_news_2013_00832754
 28	Den habe ich ja auch immer dabei.	Y	den	6	  538,042	1.1482	65.8571	german_de_news_2014_00223190
 29	Aber in den USA kann man so was ja machen.	Y	den	6	  538,042	1.1482	73.1	german_de_news_2015_00014774
-30	2. Wer schon einmal in den USA war..	Y	den	6	  538,042	1.1482	91.4286	german_de_news_2014_00004627
+30	2. Wer schon einmal in den USA war..	N	den	6	  538,042	1.1482	91.4286	german_de_news_2014_00004627
 31	Was es mit dem auf sich hat?	Y	mit	7	  453,641	0.9681	22.8571	german_de_news_2014_00893713
 32	Er hat es mit sich machen lassen.	Y	mit	7	  453,641	0.9681	59.4286	german_de_news_2013_00466389
 33	Und wie geht es mit ihm weiter?	Y	mit	7	  453,641	0.9681	69.5714	german_de_news_2015_00844251
@@ -37,7 +37,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 36	Von der drei in die vier oder wie?	Y	von	8	  450,338	0.9611	47.75	german_de_news_2013_00903664
 37	Sie gibt es seit Millionen von Jahren.	Y	von	8	  450,338	0.9611	59.1429	german_de_news_2013_00806797
 38	Die Welt von 1992 ist also noch hier.	Y	von	8	  450,338	0.9611	72.4286	german_de_news_2015_00380091
-39	Sie sagt: „Ich habe von allem etwas.	Y	von	8	  450,338	0.9611	80	german_de_news_2015_00774207
+39	Sie sagt: “Ich habe von allem etwas.”	Y	von	8	  450,338	0.9611	80	german_de_news_2015_00774207
 40	Ich muss ja auch von etwas leben.	Y	von	8	  450,338	0.9611	91.2857	german_de_news_2013_00579729
 41	Ab und zu geht sich das auch aus.	Y	zu	9	  421,604	0.8997	35.875	german_de_news_2014_00019627
 42	Aber es ist gut, wieder hier zu sein.	Y	zu	9	  421,604	0.8997	50.625	german_de_news_2013_00014089
@@ -50,7 +50,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 49	Und ein Ja ist bei mir ein Ja.	Y	ist	10	  407,568	0.8698	62.6667	german_de_news_2013_00871993
 50	Ja dann ist alles wieder gut, oder?	Y	ist	10	  407,568	0.8698	86.4286	german_de_news_2013_00639367
 51	Doch was hat es damit auf sich?	Y	auf	11	  404,692	0.8636	42.2857	german_de_news_2015_00393563
-52	Man kann auch heute noch auf einen..	Y	auf	11	  404,692	0.8636	48.7143	german_de_news_2015_00645667
+52	Man kann auch heute noch auf einen..	N	auf	11	  404,692	0.8636	48.7143	german_de_news_2015_00645667
 53	Was könnte es damit auf sich haben?	Y	auf	11	  404,692	0.8636	57.7143	german_de_news_2015_00887216
 54	Es gibt viel zu viele Menschen auf der Welt.	Y	auf	11	  404,692	0.8636	70.6667	german_de_news_2015_00459010
 55	Auf so was muss man erst mal kommen!	Y	auf	11	  404,692	0.8636	87.25	german_de_news_2013_00086437
@@ -59,7 +59,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 58	Im vergangenen Jahr waren es noch 15 Prozent.	Y	im	12	  397,997	0.8494	74.7143	german_de_news_2013_00602943
 59	Im vergangenen Jahr waren es „nur“ 53 Mal so viel.	Y	im	12	  397,997	0.8494	81.7778	german_de_news_2015_00570904
 60	Im Jahr 2014 sei die Welt jedoch eine andere.	Y	im	12	  397,997	0.8494	90.625	german_de_news_2014_00568799
-61	Und für den geht es ja noch um was“.	Y	für	13	  383,206	0.8178	46.5556	german_de_news_2013_00873324
+61	Und für den geht es ja noch um was.	Y	für	13	  383,206	0.8178	46.5556	german_de_news_2013_00873324
 62	Und das auch schon für unter 14 jährige.	Y	für	13	  383,206	0.8178	50.5714	german_de_news_2014_00840684
 63	Wie geht es jetzt für Sie weiter?	Y	für	13	  383,206	0.8178	58.5714	german_de_news_2013_00952051
 64	Und wie geht es jetzt für ihn weiter?	Y	für	13	  383,206	0.8178	72	german_de_news_2014_00853650
@@ -81,7 +81,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 80	Dazu wird es nun zwar nicht kommen.	Y	nicht	16	  343,930	0.734	99.5714	german_de_news_2014_00218043
 81	Es gibt sie, es gibt sie nicht, es gibt sie.	Y	es	17	  342,979	0.7319	33	german_de_news_2013_00486999
 82	So soll es ja auch nicht sein.	Y	es	17	  342,979	0.7319	51.5714	german_de_news_2013_00831620
-83	Alles ist hier, wie es immer war.»	Y	es	17	  342,979	0.7319	62.8571	german_de_news_2013_00031354
+83	Alles ist hier, wie es immer war.	Y	es	17	  342,979	0.7319	62.8571	german_de_news_2013_00031354
 84	Aber so muss es ja nicht kommen.	Y	es	17	  342,979	0.7319	76	german_de_news_2015_00017128
 85	Alles andere kommt, wenn es kommen soll.	Y	es	17	  342,979	0.7319	116.5714	german_de_news_2013_00030903
 86	Und ich will das auch nicht mehr.	Y	auch	18	  291,574	0.6222	32.8571	german_de_news_2013_00874556
@@ -99,7 +99,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 98	Und dass das eine ohne das andere nicht geht.	Y	eine	20	  288,665	0.616	59.5	german_de_news_2015_00832077
 99	Viele wollen auch nicht das eine oder das andere sein.	Y	eine	20	  288,665	0.616	67.2222	german_de_news_2014_00870338
 100	Das eine geht ohne das andere nicht.	Y	eine	20	  288,665	0.616	74	german_de_news_2014_00171463
-101	«Das sind Menschen wie Sie und ich.	Y	sie	21	  263,195	0.5617	35.7143	german_de_news_2013_00204769
+101	Das sind Menschen wie Sie und ich.	Y	sie	21	  263,195	0.5617	35.7143	german_de_news_2013_00204769
 102	Aber wenn Sie wollen, können Sie das auch.	Y	sie	21	  263,195	0.5617	53	german_de_news_2015_00018251
 103	Also was Sie können, können wir auch.	Y	sie	21	  263,195	0.5617	65.8333	german_de_news_2013_00039073
 104	Aber die Menschen dort wollen sie nicht.	Y	sie	21	  263,195	0.5617	71.1429	german_de_news_2014_00011459
@@ -107,25 +107,25 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 106	Bis zum Ende des Jahres werden es 29 sein.	Y	des	22	  255,027	0.5443	98.75	german_de_news_2015_00125622
 107	Bis zum Ende des Jahres sollen es über 270 hier sein.	Y	des	22	  255,027	0.5443	105.5	german_de_news_2013_00127027
 108	Und noch vor dem Ende des Jahres werden wir wissen, was.	Y	des	22	  255,027	0.5443	107.1818	german_de_news_2013_00877186
-109	Und dann sagt er so zu mir: „Was is des?	Y	des	22	  255,027	0.5443	109.6	german_de_news_2015_00830884
+109	Und dann sagt er so zu mir: “Was is des?”	Y	des	22	  255,027	0.5443	109.6	german_de_news_2015_00830884
 110	Das ist aber zu viel des Guten.	Y	des	22	  255,027	0.5443	110.7143	german_de_news_2015_00181346
 111	Das sind 25 Prozent mehr als vor einem Jahr.	Y	als	23	  227,828	0.4862	43.375	german_de_news_2013_00204302
 112	Das waren 16 mehr als vor einem Jahr.	Y	als	23	  227,828	0.4862	50.4286	german_de_news_2014_00209944
 113	Das waren 400 Millionen mehr als vor einem Jahr.	Y	als	23	  227,828	0.4862	58.75	german_de_news_2014_00209958
 114	Zum ersten Mal seit mehr als einem Jahr.	Y	als	23	  227,828	0.4862	68.75	german_de_news_2013_00988338
 115	Ich will es mehr als alles andere.	Y	als	23	  227,828	0.4862	78	german_de_news_2015_00552596
-116	Und bei Menschen ist es doch auch so..	Y	bei	24	  208,933	0.4459	37	german_de_news_2014_00839256
+116	Und bei Menschen ist es doch auch so..	N	bei	24	  208,933	0.4459	37	german_de_news_2014_00839256
 117	Bei uns gibt es das noch nicht.	Y	bei	24	  208,933	0.4459	42.8571	german_de_news_2015_00111524
 118	Aber es muss ja nicht schon wieder bei uns in Deutschland sein.	Y	bei	24	  208,933	0.4459	62.9167	german_de_news_2013_00014256
 119	Sollte er bei uns auch so sein.	Y	bei	24	  208,933	0.4459	65.2857	german_de_news_2015_00788964
-120	Aber so etwas gibt es ja bei uns nicht..	Y	bei	24	  208,933	0.4459	68.2222	german_de_news_2015_00017035
+120	Aber so etwas gibt es ja bei uns nicht..	N	bei	24	  208,933	0.4459	68.2222	german_de_news_2015_00017035
 121	Nur sind diese noch an der Macht.	Y	an	25	  208,773	0.4455	58	german_de_news_2014_00716872
 122	Geht uns in Deutschland das was an?	Y	an	25	  208,773	0.4455	62.5714	german_de_news_2015_00508507
 123	Es war an der Zeit zu gehen.	Y	an	25	  208,773	0.4455	66.7143	german_de_news_2015_00469577
 124	Von nun an kann es nur besser werden.	Y	an	25	  208,773	0.4455	69	german_de_news_2015_00870268
 125	Doch der ist an diesem Tag nicht da.	Y	an	25	  208,773	0.4455	73.625	german_de_news_2014_00390760
 126	Und der werden, der er sein soll.	Y	er	26	  206,059	0.4397	32.1667	german_de_news_2015_00833216
-127	So, wie seit den 1960er Jahren nicht mehr.“	Y	er	26	  206,059	0.4397	43.25	german_de_news_2013_00833536
+127	So, wie seit den 1960er Jahren nicht mehr.	Y	er	26	  206,059	0.4397	43.25	german_de_news_2013_00833536
 128	Muss er aber nicht: Denn sie ist weiter.	Y	er	26	  206,059	0.4397	56.125	german_de_news_2015_00676571
 129	Wenn's geht, dann ist er dabei.	Y	er	26	  206,059	0.4397	80.5714	german_de_news_2014_00911434
 130	Er wäre heute 83, er könnte hier sein!	Y	er	26	  206,059	0.4397	107.5	german_de_news_2015_00450988
@@ -136,12 +136,12 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 135	Am Ende hat er mich doch leben lassen	Y	am	27	  203,596	0.4345	104.375	german_de_news_2013_00045297
 136	Was hat der, das ich nicht habe?	Y	hat	28	  196,835	0.4201	33	german_de_news_2015_00885988
 137	Was er hat, das will er nicht, und was er will, das hat er nicht.	Y	hat	28	  196,835	0.4201	33.5714	german_de_news_2013_00920354
-138	Sie hat das so weil das war so vor zwei Jahren in und so..	Y	hat	28	  196,835	0.4201	43.9091	german_de_news_2013_00808116
+138	Sie hat das so weil das war so vor zwei Jahren in und so..	N	hat	28	  196,835	0.4201	43.9091	german_de_news_2013_00808116
 139	Wer will noch mal, wer hat noch nicht?	Y	hat	28	  196,835	0.4201	73.1667	german_de_news_2015_00910047
 140	Doch dieses Mal hat es nicht sollen sein.	Y	hat	28	  196,835	0.4201	78.75	german_de_news_2013_00412794
 141	Es ist nicht so, dass man muss, sondern so dass man will.	Y	dass	29	  195,561	0.4173	58.1111	german_de_news_2013_00492309
 142	Und ich will, dass wir noch mehr unternehmen, auch in Europa.	Y	dass	29	  195,561	0.4173	66.3636	german_de_news_2013_00874558
-143	Und ich war erst 34, so dass die „will ich noch Kinder?	Y	dass	29	  195,561	0.4173	69.7	german_de_news_2013_00874517
+143	Und ich war erst 34, so dass die “will ich noch Kinder?”	Y	dass	29	  195,561	0.4173	69.7	german_de_news_2013_00874517
 144	Dass es mehr werden können, ist keine Frage.	Y	dass	29	  195,561	0.4173	71	german_de_news_2015_00199561
 145	Und es ist ja nun nicht so, dass es diese nicht geben würde.	Y	dass	29	  195,561	0.4173	74.3636	german_de_news_2013_00872799
 146	Alles ist nach wie vor so, wie es war.	Y	nach	30	  195,025	0.4162	46.75	german_de_news_2015_00032250
@@ -170,7 +170,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 169	Und wenn es nur um Geld geht.	Y	um	34	  165,591	0.3534	68.4286	german_de_news_2015_00843565
 170	Aber, wie geht man mit ihnen um?	Y	um	34	  165,591	0.3534	70.8571	german_de_news_2014_00017659
 171	Aber ist das nicht auch gut so?	Y	aber	35	  157,865	0.3369	33.7143	german_de_news_2014_00014376
-172	Aber wenn sie nicht will, dann will sie nicht.“	Y	aber	35	  157,865	0.3369	48	german_de_news_2013_00019387
+172	Aber wenn sie nicht will, dann will sie nicht.	Y	aber	35	  157,865	0.3369	48	german_de_news_2013_00019387
 173	Aber das kann nicht alles sein, da gibt es noch viele mehr.	Y	aber	35	  157,865	0.3369	58.5	german_de_news_2014_00010407
 174	Aber es sollte in diesem Jahr nicht sein.	Y	aber	35	  157,865	0.3369	63.75	german_de_news_2013_00014312
 175	Damit kann ich aber noch ganz gut leben.	Y	aber	35	  157,865	0.3369	89.125	german_de_news_2014_00152768
@@ -179,7 +179,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 178	Und sie wird auch nicht mehr kommen.	Y	wird	36	  155,466	0.3318	47.5714	german_de_news_2013_00878576
 179	Das wird auch dieses Mal so sein.	Y	wird	36	  155,466	0.3318	63.2857	german_de_news_2013_00215975
 180	Das wird so oder so mal kommen.	Y	wird	36	  155,466	0.3318	71.8333	german_de_news_2013_00216331
-181	Wenn wir gut sind, ist das noch nicht zu Ende.“	Y	sind	37	  154,947	0.3307	46.6	german_de_news_2015_00904560
+181	Wenn wir gut sind, ist das noch nicht zu Ende.	Y	sind	37	  154,947	0.3307	46.6	german_de_news_2015_00904560
 182	Und: «Das sind Menschen wie andere auch.	Y	sind	37	  154,947	0.3307	52.4286	german_de_news_2013_00868606
 183	Wie soll ich leben, wenn sie nicht mehr da sind?	Y	sind	37	  154,947	0.3307	61	german_de_news_2013_00955809
 184	2. Wer sind wir und wenn ja, wie viele?	Y	sind	37	  154,947	0.3307	73	german_de_news_2013_00005349
@@ -209,7 +209,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 208	Nun gut, er will es so haben.	Y	so	42	  140,407	0.2996	60.2857	german_de_news_2015_00704290
 209	Wenn dann in etwa so: Seien sie.	Y	so	42	  140,407	0.2996	72.2857	german_de_news_2013_00933839
 210	Dieses kann man so oder so machen.	Y	so	42	  140,407	0.2996	88.8333	german_de_news_2014_00361173
-211	Aber ich kann das nicht machen, ich kann es nicht.“	Y	ich	43	  139,068	0.2968	45.8571	german_de_news_2013_00015366
+211	Aber ich kann das nicht machen, ich kann es nicht.	Y	ich	43	  139,068	0.2968	45.8571	german_de_news_2013_00015366
 212	Soll ich oder soll ich doch nicht?	Y	ich	43	  139,068	0.2968	52	german_de_news_2014_00797540
 213	Ich war wie in einer anderen Welt.	Y	ich	43	  139,068	0.2968	70.5714	german_de_news_2013_00582198
 214	Heute würde ich es aber nicht mehr so machen.	Y	ich	43	  139,068	0.2968	73.5556	german_de_news_2014_00536954
@@ -244,7 +244,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 243	Ja, und das war auch gut so!	Y	war	49	  120,438	0.257	52.2857	german_de_news_2013_00641063
 244	Das war alles; das war es schon.	Y	war	49	  120,438	0.257	58	german_de_news_2013_00213282
 245	Nichts ist mehr, wie es einmal war.	Y	war	49	  120,438	0.257	74	german_de_news_2015_00698399
-246	Das ist die Welt, in der wir leben.»	Y	wir	50	  115,900	0.2473	55.875	german_de_news_2013_00185420
+246	Das ist die Welt, in der wir leben.	Y	wir	50	  115,900	0.2473	55.875	german_de_news_2013_00185420
 247	Es ist, wie es ist - und wir müssen damit leben.	Y	wir	50	  115,900	0.2473	65.75	german_de_news_2015_00464695
 248	Wir waren nicht so gut wie andere.	Y	wir	50	  115,900	0.2473	74.4286	german_de_news_2014_00939256
 249	Doch lassen wir es hier gut sein damit.	Y	wir	50	  115,900	0.2473	83.375	german_de_news_2015_00391328
@@ -356,7 +356,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 355	Aber es geht nicht nur um Geld, sondern auch um Können.	Y	können	71	   64,091	0.1368	72.8	german_de_news_2014_00012466
 356	Ganz so ist es auch wieder nicht.	Y	wieder	72	   63,965	0.1365	45.7143	german_de_news_2013_00531094
 357	Und das sagt sie auch immer mal wieder.	Y	wieder	72	   63,965	0.1365	53.25	german_de_news_2015_00832037
-358	Was ist denn das nun schon wieder?»	Y	wieder	72	   63,965	0.1365	60	german_de_news_2015_00886722
+358	Was ist denn das nun schon wieder?	Y	wieder	72	   63,965	0.1365	60	german_de_news_2015_00886722
 359	Aber nun ist es ja wieder da.	Y	wieder	72	   63,965	0.1365	63.5714	german_de_news_2015_00016210
 360	Kommt man ja jetzt auch wieder, nur.	Y	wieder	72	   63,965	0.1365	83.4286	german_de_news_2015_00624054
 361	Und jetzt, wollen die es doch nicht.	Y	doch	73	   62,288	0.1329	52.5714	german_de_news_2013_00875599
@@ -365,7 +365,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 364	Aber… Doch, doch ein Aber muss kommen.	Y	doch	73	   62,288	0.1329	81	german_de_news_2013_00013124
 365	Doch dafür können die Menschen ja nichts.	Y	doch	73	   62,288	0.1329	104.7143	german_de_news_2015_00386589
 366	Das habe wir in den USA schon lange.	Y	habe	74	   60,753	0.1297	79	german_de_news_2014_00178790
-367	Ich habe noch viel zu geben“, sagt er.	Y	habe	74	   60,753	0.1297	81.25	german_de_news_2013_00575997
+367	“Ich habe noch viel zu geben”, sagt er.	Y	habe	74	   60,753	0.1297	81.25	german_de_news_2013_00575997
 368	Ich habe das auch zum ersten Mal gemacht.	Y	habe	74	   60,753	0.1297	86.25	german_de_news_2015_00545332
 369	Doch das habe noch ein wenig Zeit.	Y	habe	74	   60,753	0.1297	86.2857	german_de_news_2013_00410799
 370	Aber ich habe hier 2009 verloren und es war nicht das Ende und ich habe heute verloren und es ist auch nicht das Ende.	Y	habe	74	   60,753	0.1297	90.5	german_de_news_2015_00014313
@@ -379,11 +379,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 378	Die haben ihre Welt und wir unsere.	Y	ihre	76	   57,906	0.1236	92.5714	german_de_news_2013_00337013
 379	Wer macht Ihre Arbeit, wenn Sie es nicht sind?	Y	ihre	76	   57,906	0.1236	103.5556	german_de_news_2014_00916107
 380	Ich will, dass sie ihre Arbeit gut macht.	Y	ihre	76	   57,906	0.1236	115.75	german_de_news_2015_00552531
-381	Wenn wir von den zwei Milliarden Menschen..	Y	zwei	77	   56,880	0.1214	76.7143	german_de_news_2014_00912849
+381	Wenn wir von den zwei Milliarden Menschen..	N	zwei	77	   56,880	0.1214	76.7143	german_de_news_2014_00912849
 382	Und auch: Wo will er in zwei Jahren stehen.	Y	zwei	77	   56,880	0.1214	81.4444	german_de_news_2014_00838950
 383	Vor zwei Jahren waren es noch 3 Prozent mehr gewesen.	Y	zwei	77	   56,880	0.1214	83.3333	german_de_news_2015_00877165
 384	Alle zwei Jahre mal waren wir mit dabei.	Y	zwei	77	   56,880	0.1214	83.875	german_de_news_2015_00033240
-385	Aber es sieht besser aus, zwei zu haben“, sagte sie.	Y	zwei	77	   56,880	0.1214	84.3	german_de_news_2014_00012919
+385	“Aber es sieht besser aus, zwei zu haben”, sagte sie.	Y	zwei	77	   56,880	0.1214	84.3	german_de_news_2014_00012919
 386	Etwas, was es so noch nicht gibt.	Y	gibt	78	   56,839	0.1213	56.4286	german_de_news_2014_00478355
 387	Die gibt es in Europa nicht mehr!	Y	gibt	78	   56,839	0.1213	60.1429	german_de_news_2015_00317630
 388	In Deutschland gibt so etwas noch nicht.	Y	gibt	78	   56,839	0.1213	61.7143	german_de_news_2013_00617597
@@ -403,7 +403,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 402	Es ist seine Welt und nicht meine Welt.	Y	seine	81	   54,965	0.1173	103.4286	german_de_news_2014_00468636
 403	Aber auch seine Partei würde nur auf zwei Prozent kommen.	Y	seine	81	   54,965	0.1173	121.3	german_de_news_2013_00010339
 404	Rund um die Uhr sind seine Eltern bei ihm.	Y	seine	81	   54,965	0.1173	131	german_de_news_2013_00779847
-405	Er wollte nicht mehr ohne seine Frau leben.“	Y	seine	81	   54,965	0.1173	135.625	german_de_news_2015_00452639
+405	Er wollte nicht mehr ohne seine Frau leben.	Y	seine	81	   54,965	0.1173	135.625	german_de_news_2015_00452639
 406	Er ist aber nicht mehr beim Team.	Y	beim	82	   54,348	0.116	67.8571	german_de_news_2013_00468022
 407	So was gibt es ja nicht nur beim Fußball.	Y	beim	82	   54,348	0.116	97.4444	german_de_news_2015_00794033
 408	Ist es beim zweiten Mal einfach als beim ersten?	Y	beim	82	   54,348	0.116	103.75	german_de_news_2015_00602772
@@ -429,12 +429,12 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 428	Das muss ich in diesem Jahr machen.	Y	jahr	86	   53,122	0.1134	72.4286	german_de_news_2014_00192333
 429	Das hatten wir doch schon im vergangenen Jahr.	Y	jahr	86	   53,122	0.1134	83	german_de_news_2013_00181715
 430	Das wäre also in rund einem Jahr.	Y	jahr	86	   53,122	0.1134	86.1429	german_de_news_2015_00208741
-431	Und das ist gut so“, sagte er.	Y	sagte	87	   53,019	0.1131	40.4286	german_de_news_2013_00867928
-432	Aber hier dabei zu sein, ist für mich immer wieder ein Ziel“, sagte sie.	Y	sagte	87	   53,019	0.1131	80.2857	german_de_news_2013_00014971
-433	Jetzt will ich bei der nächsten dabei sein“, sagte er.	Y	sagte	87	   53,019	0.1131	87.9	german_de_news_2013_00647314
+431	“Und das ist gut so”, sagte er.	Y	sagte	87	   53,019	0.1131	40.4286	german_de_news_2013_00867928
+432	“Aber hier dabei zu sein, ist für mich immer wieder ein Ziel”, sagte sie.	Y	sagte	87	   53,019	0.1131	80.2857	german_de_news_2013_00014971
+433	“Jetzt will ich bei der nächsten dabei sein”, sagte er.	Y	sagte	87	   53,019	0.1131	87.9	german_de_news_2013_00647314
 434	Aber wie ich schon sagte, er ist sehr stark.	Y	sagte	87	   53,019	0.1131	88.1111	german_de_news_2013_00019604
-435	Wir leben von Tag zu Tag“, sagte er.	Y	sagte	87	   53,019	0.1131	89.5714	german_de_news_2015_00927529
-436	Aber er ist nun mal so, wie er ist.“	Y	nun	88	   52,916	0.1129	48.5714	german_de_news_2013_00013618
+435	“Wir leben von Tag zu Tag”, sagte er.	Y	sagte	87	   53,019	0.1131	89.5714	german_de_news_2015_00927529
+436	Aber er ist nun mal so, wie er ist.	Y	nun	88	   52,916	0.1129	48.5714	german_de_news_2013_00013618
 437	Aber die gab es nun nicht mehr.	Y	nun	88	   52,916	0.1129	58.8571	german_de_news_2013_00012495
 438	Wie ist das denn jetzt: Wird es das nun auch in Deutschland geben?	Y	nun	88	   52,916	0.1129	62.8333	german_de_news_2013_00952966
 439	Nun ist sie auch bei uns zu sehen.	Y	nun	88	   52,916	0.1129	64.625	german_de_news_2013_00744913
@@ -452,7 +452,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 451	Wir, das sind alle, die hier leben.	Y	alle	91	   48,032	0.1025	68.1429	german_de_news_2014_00929386
 452	Auch, wenn nicht immer alle kommen (können).	Y	alle	91	   48,032	0.1025	74.1429	german_de_news_2015_00079997
 453	Das will ich - das wollen wir alle.	Y	alle	91	   48,032	0.1025	74.6667	german_de_news_2014_00211578
-454	Wo sind sie denn alle, die immer schon..	Y	alle	91	   48,032	0.1025	76.375	german_de_news_2015_00936653
+454	Wo sind sie denn alle, die immer schon..	N	alle	91	   48,032	0.1025	76.375	german_de_news_2015_00936653
 455	Wir wollen aber eine Stadt für alle.	Y	alle	91	   48,032	0.1025	83	german_de_news_2014_00940149
 456	Wie bereits in den letzten beiden Jahren war auch.	Y	bereits	92	   46,961	0.1002	78.2222	german_de_news_2013_00948746
 457	“In der Schweiz gibt es sie bereits”, sagt sie.	Y	bereits	92	   46,961	0.1002	86.5	german_de_news_2015_00582028
@@ -461,13 +461,13 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 460	Dem Land geht bereits das Geld aus.	Y	bereits	92	   46,961	0.1002	98	german_de_news_2015_00219466
 461	Ja, und was ist das jetzt wieder?	Y	jetzt	93	   46,432	0.0991	55	german_de_news_2014_00611291
 462	Das geht jetzt nicht mehr und es ist auch besser so.	Y	jetzt	93	   46,432	0.0991	57.8182	german_de_news_2013_00177589
-463	Jetzt noch die WM – und das ist es dann.“	Y	jetzt	93	   46,432	0.0991	60.2222	german_de_news_2013_00646571
+463	Jetzt noch die WM – und das ist es dann.	N	jetzt	93	   46,432	0.0991	60.2222	german_de_news_2013_00646571
 464	Das ist jetzt nicht mehr der Fall.	Y	jetzt	93	   46,432	0.0991	60.5714	german_de_news_2015_00184091
 465	Und jetzt ist es auch wieder nicht recht.	Y	jetzt	93	   46,432	0.0991	73.375	german_de_news_2015_00838248
 466	Ich will das alles so nicht mehr.	Y	will	94	   46,225	0.0986	58	german_de_news_2013_00583086
 467	Das will ich, nicht mehr und nicht weniger.	Y	will	94	   46,225	0.0986	63.8571	german_de_news_2014_00211583
 468	Er will es auch gar nicht sein.	Y	will	94	   46,225	0.0986	69.7143	german_de_news_2013_00479683
-469	Und ich will es auch nicht wissen.»	Y	will	94	   46,225	0.0986	77.2857	german_de_news_2015_00837412
+469	Und ich will es auch nicht wissen.	Y	will	94	   46,225	0.0986	77.2857	german_de_news_2015_00837412
 470	Ich will zu 100 Prozent, dass er bleibt.	Y	will	94	   46,225	0.0986	77.4286	german_de_news_2015_00552771
 471	Das muss noch nicht zu Ende sein.	Y	muss	95	   45,586	0.0973	50.2857	german_de_news_2013_00194962
 472	Das kann man so sehen, muss man aber nicht.	Y	muss	95	   45,586	0.0973	66	german_de_news_2015_00186388
@@ -479,7 +479,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 478	Das gab es in dieser Saison noch nicht.	Y	dieser	96	   45,479	0.0971	86.75	german_de_news_2014_00175115
 479	Aus dieser einen Woche werden nun zwei.	Y	dieser	96	   45,479	0.0971	88	german_de_news_2014_00088971
 480	Und dieser kann nur der Anfang sein.	Y	dieser	96	   45,479	0.0971	91	german_de_news_2014_00843769
-481	Das noch sehr neue „neue Jahr“ wird nicht einfach.	Y	neue	97	   43,481	0.0928	72.75	german_de_news_2015_00192640
+481	Das noch sehr neue «neue Jahr» wird nicht einfach.	Y	neue	97	   43,481	0.0928	72.75	german_de_news_2015_00192640
 482	Da kann der neue Chef machen was er will!	Y	neue	97	   43,481	0.0928	96.2222	german_de_news_2013_00150070
 483	Das sagt jeder, der in eine neue Stadt kommt.	Y	neue	97	   43,481	0.0928	99.8889	german_de_news_2015_00196340
 484	Eine Seite macht zu und 20 neue machen auf.	Y	neue	97	   43,481	0.0928	102.75	german_de_news_2013_00443384
@@ -523,7 +523,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 522	Ein Jahr später will er nun nur noch eines: Zurück nach Deutschland, und zwar so schnell wie möglich.	Y	eines	105	   39,702	0.0847	113.1111	german_de_news_2013_00449901
 523	Es hätte auch nie eines werden können.	Y	eines	105	   39,702	0.0847	114.5714	german_de_news_2014_00464979
 524	Eines mit Russland, eines mit der EU?	Y	eines	105	   39,702	0.0847	121.6	german_de_news_2015_00417438
-525	Eines sei aber sicher: „Wir bringen das Thema hier zu Ende.	Y	eines	105	   39,702	0.0847	141.2727	german_de_news_2013_00443966
+525	Eines sei aber sicher: „Wir bringen das Thema hier zu Ende.”	Y	eines	105	   39,702	0.0847	141.2727	german_de_news_2013_00443966
 526	Den Menschen in Deutschland geht es gut	Y	geht	106	   39,399	0.0841	66.4286	german_de_news_2013_00228855
 527	Es geht noch mehr, es geht noch weiter.	Y	geht	106	   39,399	0.0841	68	german_de_news_2014_00461355
 528	Und wie geht es mit ihm selbst weiter?	Y	geht	106	   39,399	0.0841	77.25	german_de_news_2013_00882270
@@ -547,8 +547,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 546	Das KANN nicht gut gehen und wird es auch nicht.	Y	gut	110	   38,061	0.0812	55.1111	german_de_news_2013_00189612
 547	Und das ist ja auch gut für mich.	Y	gut	110	   38,061	0.0812	59.125	german_de_news_2014_00841131
 548	Und gerade das, ist mehr als gut.	Y	gut	110	   38,061	0.0812	62.2857	german_de_news_2013_00873740
-549	Aber gut ist es noch lange nicht.“	Y	gut	110	   38,061	0.0812	67.1429	german_de_news_2015_00013949
-550	Aber gut, so ist es am Freitag..	Y	gut	110	   38,061	0.0812	71.4286	german_de_news_2015_00013953
+549	Aber gut ist es noch lange nicht.	Y	gut	110	   38,061	0.0812	67.1429	german_de_news_2015_00013949
+550	Aber gut, so ist es am Freitag..	N	gut	110	   38,061	0.0812	71.4286	german_de_news_2015_00013953
 551	Sie sind viele, und sie sind laut.	Y	viele	111	   37,976	0.081	67.6	german_de_news_2015_00775671
 552	Wohl auch, weil es noch nicht so viele sind.	Y	viele	111	   37,976	0.081	69.2222	german_de_news_2015_00935175
 553	Nicht, wenn es um so viele Milliarden geht.	Y	viele	111	   37,976	0.081	76.625	german_de_news_2014_00706981
@@ -587,7 +587,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 586	Ist das denn heute nicht der Fall?	Y	denn	118	   35,553	0.0759	74.5714	german_de_news_2014_00607906
 587	Ja was ist das denn für eine Regierung.	Y	denn	118	   35,553	0.0759	75.625	german_de_news_2013_00641158
 588	Was hat denn das eine mit dem anderen zu tun?	Y	denn	118	   35,553	0.0759	76	german_de_news_2014_00894359
-589	Oder: „Wie lange sind Sie denn schon im Unternehmen?	Y	denn	118	   35,553	0.0759	80.7778	german_de_news_2014_00723396
+589	Oder: «Wie lange sind Sie denn schon im Unternehmen?»	Y	denn	118	   35,553	0.0759	80.7778	german_de_news_2014_00723396
 590	Wie muss es denn bei Ihnen sein?	Y	denn	118	   35,553	0.0759	81.4286	german_de_news_2015_00916962
 591	Das ist viel Geld - aber nicht zu viel.	Y	viel	119	   35,394	0.0755	58.4286	german_de_news_2013_00188527
 592	Das ist aber noch viel zu wenig.	Y	viel	119	   35,394	0.0755	69.1429	german_de_news_2013_00184299
@@ -599,12 +599,12 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 598	Einen neuen Stand dazu gab es aber noch nicht.	Y	neuen	120	   35,348	0.0754	110.7778	german_de_news_2013_00440203
 599	Man muss ja auch wissen, was es mal für einen neuen Stand gibt.	Y	neuen	120	   35,348	0.0754	112.7692	german_de_news_2013_00682977
 600	Im neuen Jahr wird alles besser Das sollten Sie 2015 besser machen.	Y	neuen	120	   35,348	0.0754	117.3	german_de_news_2015_00567412
-601	Und das ist gar nicht so einfach“, sagt er.	Y	sagt	121	   35,316	0.0754	76.7778	german_de_news_2014_00841108
+601	«Und das ist gar nicht so einfach», sagt er.	Y	sagt	121	   35,316	0.0754	76.7778	german_de_news_2014_00841108
 602	Er ist immer klar, in dem, was er sagt.	Y	sagt	121	   35,316	0.0754	78.75	german_de_news_2015_00441545
 603	Er sagt: „Man muss es schon selbst machen.“	Y	sagt	121	   35,316	0.0754	81.625	german_de_news_2015_00444866
-604	Er sagt weiter: „Aber das ist nur der Anfang.	Y	sagt	121	   35,316	0.0754	83.4444	german_de_news_2013_00472184
+604	Er sagt weiter: «Aber das ist nur der Anfang.»	Y	sagt	121	   35,316	0.0754	83.4444	german_de_news_2013_00472184
 605	Hier sagt er, wie es ihm geht.	Y	sagt	121	   35,316	0.0754	84.8571	german_de_news_2015_00534076
-606	Wenn für uns was möglich sein wird, werden wir da sein.“	Y	uns	122	   35,148	0.075	80.2	german_de_news_2014_00909257
+606	Wenn für uns was möglich sein wird, werden wir da sein.	Y	uns	122	   35,148	0.075	80.2	german_de_news_2014_00909257
 607	Was hat das mit uns zu tun?	Y	uns	122	   35,148	0.075	83.2857	german_de_news_2014_00894352
 608	Es steht für uns viel auf dem Spiel.	Y	uns	122	   35,148	0.075	83.625	german_de_news_2015_00469069
 609	Jeder von uns ist hier für den anderen da.	Y	uns	122	   35,148	0.075	84.8889	german_de_news_2014_00612919
@@ -612,7 +612,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 611	Aber das müssen die wegen der US Regierung machen.	Y	us	123	   34,826	0.0743	93.2222	german_de_news_2013_00011494
 612	Der US-Regierung geht das Geld aus.	Y	us	123	   34,826	0.0743	102.7143	german_de_news_2013_00285443
 613	Das Unternehmen geht von bis zu 39 Mio. US-Dollar aus.	Y	us	123	   34,826	0.0743	124.8	german_de_news_2013_00210812
-614	Sowohl in den US als bei uns..	Y	us	123	   34,826	0.0743	143	german_de_news_2014_00804595
+614	Sowohl in den US als bei uns..	N	us	123	   34,826	0.0743	143	german_de_news_2014_00804595
 615	In nur einem Tag kamen bereits mehr als drei Millionen US-Dollar zusammen.	Y	us	123	   34,826	0.0743	163	german_de_news_2013_00627371
 616	Nicht heute und auch nicht in einer Woche.	Y	heute	124	   34,466	0.0736	65.7143	german_de_news_2015_00697200
 617	Und einige sind es auch heute noch.	Y	heute	124	   34,466	0.0736	68.1429	german_de_news_2013_00871983
@@ -635,18 +635,18 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 634	Das wird in diesem Jahr nicht anders sein.	Y	diesem	127	   33,663	0.0718	90.875	german_de_news_2014_00211809
 635	Aus diesem Grund werden wir in der.	Y	diesem	127	   33,663	0.0718	93.5714	german_de_news_2013_00088430
 636	Die Welt: Und wie geht es weiter?	Y	weiter	128	   33,248	0.071	66.7143	german_de_news_2013_00403549
-637	Und weiter: „Aber was kann man machen?	Y	weiter	128	   33,248	0.071	69.4286	german_de_news_2013_00880971
+637	Und weiter: «Aber was kann man machen?»	Y	weiter	128	   33,248	0.071	69.4286	german_de_news_2013_00880971
 638	Die Welt: Wie geht es nun weiter?	Y	weiter	128	   33,248	0.071	78.8571	german_de_news_2013_00403671
 639	Das kann doch nicht so weiter gehen.	Y	weiter	128	   33,248	0.071	79.2857	german_de_news_2013_00189388
 640	Nach einem Jahr oder so sieht man dann weiter.	Y	weiter	128	   33,248	0.071	82.6667	german_de_news_2013_00722996
 641	Wir haben aber nur Geld, das alle fünf Jahre machen zu lassen.	Y	jahre	129	   33,173	0.0708	96.75	german_de_news_2015_00923753
 642	So gibt es viele U 12er, die schon mehr als fünf Jahre dabei sind.	Y	jahre	129	   33,173	0.0708	103.7143	german_de_news_2013_00823401
 643	Die Zeit ist 1971, drei Jahre nach dem Mai.	Y	jahre	129	   33,173	0.0708	109.125	german_de_news_2013_00406446
-644	Ich bin erst drei Jahre dabei“, sagte er.	Y	jahre	129	   33,173	0.0708	110.5	german_de_news_2013_00569467
+644	«Ich bin erst drei Jahre dabei», sagte er.	Y	jahre	129	   33,173	0.0708	110.5	german_de_news_2013_00569467
 645	Von mir aus kann das noch ein paar Jahre so bleiben.	Y	jahre	129	   33,173	0.0708	115.4545	german_de_news_2015_00870075
 646	Das ist alles was wir tun können aber auch müssen.	Y	müssen	130	   33,070	0.0706	88.6	german_de_news_2013_00184390
 647	Die sagen dann: Das sind doch alles Menschen, da müssen wir was machen.	Y	müssen	130	   33,070	0.0706	99.3077	german_de_news_2015_00347755
-648	Wir müssen also gar nicht da sein“, sagt er.	Y	müssen	130	   33,070	0.0706	101.7778	german_de_news_2014_00934932
+648	«Wir müssen also gar nicht da sein», sagt er.	Y	müssen	130	   33,070	0.0706	101.7778	german_de_news_2014_00934932
 649	Da müssen die selbst mal was tun wie wir hier.	Y	müssen	130	   33,070	0.0706	104.5	german_de_news_2014_00155327
 650	Hier hätte man sich mehr Zeit lassen müssen.	Y	müssen	130	   33,070	0.0706	114.25	german_de_news_2014_00538444
 651	Er sei nicht mehr er selbst gewesen.	Y	selbst	131	   32,670	0.0697	93.1667	german_de_news_2015_00445609
@@ -657,7 +657,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 656	Es ist aber nur ein Spiel mit der Zeit.	Y	zeit	132	   32,495	0.0693	52.7778	german_de_news_2014_00465350
 657	Aber es ist nur eine Frage der Zeit.	Y	zeit	132	   32,495	0.0693	67	german_de_news_2015_00013316
 658	Das aber kann nur eine Frage der Zeit sein.	Y	zeit	132	   32,495	0.0693	69.5556	german_de_news_2015_00164272
-659	Das ist nur eine Frage der Zeit.“	Y	zeit	132	   32,495	0.0693	69.8571	german_de_news_2014_00185705
+659	Das ist nur eine Frage der Zeit.	Y	zeit	132	   32,495	0.0693	69.8571	german_de_news_2014_00185705
 660	Es ist nur eine Frage der Zeit.	Y	zeit	132	   32,495	0.0693	71.5714	german_de_news_2014_00468291
 661	Diese kosten zwischen einem und drei Euro.	Y	zwischen	133	   32,179	0.0687	112.4286	german_de_news_2014_00355940
 662	Das ist nur ein Thema zwischen den Rennen.	Y	zwischen	133	   32,179	0.0687	118	german_de_news_2015_00184806
@@ -675,7 +675,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 674	So ist das kurz vor dem Ende.	Y	ende	135	   31,146	0.0665	81.1429	german_de_news_2015_00785733
 675	Am Ende so wie in Europa oder den USA.	Y	ende	135	   31,146	0.0665	82	german_de_news_2015_00044617
 676	Nach Deutschland soll er allerdings nicht kommen.	Y	allerdings	136	   30,881	0.0659	83.4286	german_de_news_2013_00722313
-677	Allerdings würde er es „heute so nicht mehr geben.	Y	allerdings	136	   30,881	0.0659	91	german_de_news_2013_00030654
+677	Allerdings würde er es heute so nicht mehr geben.	Y	allerdings	136	   30,881	0.0659	91	german_de_news_2013_00030654
 678	Einmal wird der 38-Jährige allerdings noch auf dem Platz stehen.	Y	allerdings	136	   30,881	0.0659	104.8	german_de_news_2013_00451357
 679	An diese Daten zu kommen, ist allerdings nicht so einfach.	Y	allerdings	136	   30,881	0.0659	107.5	german_de_news_2014_00052083
 680	In der Schweiz ist es allerdings noch kein Thema.	Y	allerdings	136	   30,881	0.0659	110.5556	german_de_news_2015_00582056
@@ -695,15 +695,15 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 694	Ja aber das kann doch gar nicht sein.	Y	ja	139	   30,312	0.0647	80.375	german_de_news_2013_00639165
 695	So war es bei mir ja dann fast auch.	Y	ja	139	   30,312	0.0647	83.7778	german_de_news_2013_00832756
 696	Das werden wir aber erst noch sehen.	Y	erst	140	   30,226	0.0645	75.1429	german_de_news_2015_00210474
-697	'Wir sind erst bei einem Prozent davon, was möglich ist.'	Y	erst	140	   30,226	0.0645	93.5	german_de_news_2013_00966859
+697	Wir sind erst bei einem Prozent davon, was möglich ist.	Y	erst	140	   30,226	0.0645	93.5	german_de_news_2013_00966859
 698	Und das soll erst der Anfang sein.	Y	erst	140	   30,226	0.0645	93.5714	german_de_news_2015_00832259
 699	Vor fünf Jahren waren es erst 55 Prozent.	Y	erst	140	   30,226	0.0645	95.7143	german_de_news_2014_00884252
-700	Ist die Mannschaft dann erst bei 70%, ist man auch nicht da, wo man sein will :).	Y	erst	140	   30,226	0.0645	97	german_de_news_2015_00602490
+700	Ist die Mannschaft dann erst bei 70%, ist man auch nicht da, wo man sein will :)	Y	erst	140	   30,226	0.0645	97	german_de_news_2015_00602490
 701	Wäre das nicht auch etwas für Sie?	Y	etwas	141	   30,178	0.0644	56.1429	german_de_news_2015_00881469
 702	Denn wenn sie etwas machen, machen die Kinder das auch.	Y	etwas	141	   30,178	0.0644	85	german_de_news_2015_00229337
 703	Für diesen Fall haben wir auch noch etwas für Sie.	Y	etwas	141	   30,178	0.0644	86.2222	german_de_news_2014_00503225
 704	Und so wird es noch etwas bleiben.	Y	etwas	141	   30,178	0.0644	88	german_de_news_2015_00841541
-705	So etwas gibt es schon - besser und..	Y	etwas	141	   30,178	0.0644	88.5714	german_de_news_2014_00792680
+705	So etwas gibt es schon - besser und..	N	etwas	141	   30,178	0.0644	88.5714	german_de_news_2014_00792680
 706	Was hat das eine mit dem anderen zu tun?	Y	anderen	142	   29,919	0.0638	71.3333	german_de_news_2014_00894342
 707	Für die anderen ist sie der Anfang.	Y	anderen	142	   29,919	0.0638	80.7143	german_de_news_2014_00501409
 708	Das eine hat doch mit dem anderen nichts zu tun!	Y	anderen	142	   29,919	0.0638	83.5	german_de_news_2015_00170617
@@ -711,11 +711,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 710	Und natürlich auch die Frage: Wie geht es den anderen?	Y	anderen	142	   29,919	0.0638	86.8	german_de_news_2013_00876664
 711	Ist doch in Deutschland genau so, oder etwa nicht?	Y	etwa	143	   29,839	0.0637	84.5556	german_de_news_2013_00637977
 712	Dies sind in etwa zehn Prozent mehr.	Y	etwa	143	   29,839	0.0637	105.7143	german_de_news_2013_00387325
-713	Etwa diese: „Die Frauen sind keine Menschen.	Y	etwa	143	   29,839	0.0637	108.4286	german_de_news_2013_00503052
+713	Etwa diese: «Die Frauen sind keine Menschen.»	Y	etwa	143	   29,839	0.0637	108.4286	german_de_news_2013_00503052
 714	Wir wissen in etwa, wer sie sind.	Y	etwa	143	   29,839	0.0637	108.7143	german_de_news_2014_00940069
 715	Das wird in etwa zum 3. Oktober der Fall sein.	Y	etwa	143	   29,839	0.0637	109.3333	german_de_news_2014_00211812
 716	«Gut ist, dass wir immer wieder gut ins Spiel gefunden haben.»	Y	ins	144	   29,344	0.0626	142.2	german_de_news_2013_00549967
-717	Aber immer wieder schön zu sehen das sie sich selbst ins..	Y	ins	144	   29,344	0.0626	148.2727	german_de_news_2014_00014122
+717	Aber immer wieder schön zu sehen das sie sich selbst ins..	N	ins	144	   29,344	0.0626	148.2727	german_de_news_2014_00014122
 718	Genau hier kommen die USA ins Spiel.	Y	ins	144	   29,344	0.0626	161.8571	german_de_news_2015_00510554
 719	Und jetzt kommen die Eltern doch ins Spiel.	Y	ins	144	   29,344	0.0626	162.625	german_de_news_2013_00875511
 720	Ich kann dazu nichts sagen wie es zu ihm ins Auto gekommen ist, weiß ich nicht.	Y	ins	144	   29,344	0.0626	169.8	german_de_news_2015_00548164
@@ -732,13 +732,13 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 731	So einfach kann es sich die Regierung aber nicht machen.	Y	machen	147	   28,435	0.0607	77.3	german_de_news_2015_00783142
 732	Machen Sie das auch in der Schweiz?	Y	machen	147	   28,435	0.0607	79.1429	german_de_news_2014_00648264
 733	In vier Wochen ist das nicht mehr zu machen.	Y	machen	147	   28,435	0.0607	79.3333	german_de_news_2015_00599258
-734	Das werden wir wohl auch jetzt machen.»	Y	machen	147	   28,435	0.0607	80.7143	german_de_news_2014_00211186
+734	Das werden wir wohl auch jetzt machen.	Y	machen	147	   28,435	0.0607	80.7143	german_de_news_2014_00211186
 735	«Wir können es nicht wie die Bayern machen»	Y	machen	147	   28,435	0.0607	83.375	german_de_news_2013_00964444
 736	Und wenn man es kann, ist es auch kein Problem.	Y	kein	148	   27,877	0.0595	85	german_de_news_2015_00843704
 737	Schon jetzt gibt es kein Geld mehr.	Y	kein	148	   27,877	0.0595	95.1429	german_de_news_2014_00759623
-738	So, so, dieses Jahr und dann nicht mehr - wohl weil kein Geld mehr da ist?	Y	kein	148	   27,877	0.0595	95.8462	german_de_news_2015_00792548
+738	So, dieses Jahr und dann nicht mehr - wohl weil kein Geld mehr da ist?	Y	kein	148	   27,877	0.0595	95.8462	german_de_news_2015_00792548
 739	Aber es ist für mich kein Problem, hier zu sein.	Y	kein	148	   27,877	0.0595	96.2	german_de_news_2014_00012709
-740	Ich habe kein Bild von mir“, sagt er.	Y	kein	148	   27,877	0.0595	104.75	german_de_news_2014_00551295
+740	«Ich habe kein Bild von mir», sagt er.	Y	kein	148	   27,877	0.0595	104.75	german_de_news_2014_00551295
 741	Jetzt wissen sie mal wie es ihren „Kunden“ so geht.	Y	ihren	149	   27,814	0.0594	123.8	german_de_news_2013_00647450
 742	Ein Leben für und mit der Familie habe es für ihren Mann nicht gegeben.	Y	ihren	149	   27,814	0.0594	125.3077	german_de_news_2014_00427460
 743	Wie viele von ihnen werden ihren Weg auf den Markt finden?	Y	ihren	149	   27,814	0.0594	133.5455	german_de_news_2013_00956784
@@ -762,13 +762,13 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 761	Und dass sie dazu stehen, wer sie sind.	Y	dazu	153	   27,555	0.0588	88.5714	german_de_news_2015_00832299
 762	Und der hat dazu was zu sagen.	Y	dazu	153	   27,555	0.0588	89.8571	german_de_news_2014_00842490
 763	Doch dazu kam es jetzt nicht mehr.	Y	dazu	153	   27,555	0.0588	91.5714	german_de_news_2015_00387468
-764	Aber mehr habe ich dazu nicht zu sagen.»	Y	dazu	153	   27,555	0.0588	94	german_de_news_2014_00014965
+764	Aber mehr habe ich dazu nicht zu sagen.	Y	dazu	153	   27,555	0.0588	94	german_de_news_2014_00014965
 765	Mehr gibt es dazu nicht zu sagen.	Y	dazu	153	   27,555	0.0588	99.2857	german_de_news_2015_00653429
 766	Wenn sie das nicht wollen sollen sie.	Y	sollen	154	   27,451	0.0586	69.5	german_de_news_2013_00940010
-767	"""""""Das geht eigentlich nicht, aber was sollen wir machen?"""""""", sagt er."""""""	Y	sollen	154	   27,451	0.0586	93.1818	german_de_news_2014_00176004
+767	«Das geht eigentlich nicht, aber was sollen wir machen?», sagt er.	Y	sollen	154	   27,451	0.0586	93.1818	german_de_news_2014_00176004
 768	Sie wissen jedoch nicht, was und wie sie das machen sollen.	Y	sollen	154	   27,451	0.0586	98.4	german_de_news_2013_00817434
 769	Die Frage ist, wie viel davon wir zu uns lassen sollen.	Y	sollen	154	   27,451	0.0586	105.3636	german_de_news_2013_00329441
-770	Man hätte es lassen sollen, wie es war..	Y	sollen	154	   27,451	0.0586	105.7143	german_de_news_2014_00651607
+770	Man hätte es lassen sollen, wie es war..	N	sollen	154	   27,451	0.0586	105.7143	german_de_news_2014_00651607
 771	Aber auch das ist noch nicht alles.	Y	alles	155	   27,419	0.0585	39.5714	german_de_news_2013_00009758
 772	Für die ist das alles nur ein Spiel.	Y	alles	155	   27,419	0.0585	57	german_de_news_2013_00522767
 773	Aber das konnte ich mit 20 auch noch nicht alles.	Y	alles	155	   27,419	0.0585	58.4444	german_de_news_2014_00010436
@@ -789,11 +789,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 788	Das steht ja auch nicht im Artikel.	Y	steht	158	   26,577	0.0567	90	german_de_news_2013_00207448
 789	Und wie steht es um die Mitarbeiter?	Y	steht	158	   26,577	0.0567	93.4286	german_de_news_2013_00882478
 790	Steht da doch auch so, im Artikel.	Y	steht	158	   26,577	0.0567	95.5714	german_de_news_2014_00811792
-791	NicHT nur wegen der Situation um uns..	Y	wegen	159	   26,572	0.0567	142.7143	german_de_news_2014_00706189
+791	NicHT nur wegen der Situation um uns..	N	wegen	159	   26,572	0.0567	142.7143	german_de_news_2014_00706189
 792	Er kommt nicht wegen seiner großen Geschichte zurück, sondern weil er noch mehr Geschichte schreiben will.	Y	wegen	159	   26,572	0.0567	164.5	german_de_news_2014_00447056
-793	Frankreich war wegen mir bei der WM.	Y	wegen	159	   26,572	0.0567	192.5714	german_de_news_2015_00490207
+793	Frankreich war wegen mir bei der WM.	N	wegen	159	   26,572	0.0567	192.5714	german_de_news_2015_00490207
 794	Sondern wegen der Welt, über die man erzählt.	Y	wegen	159	   26,572	0.0567	198.75	german_de_news_2014_00799618
-795	Oder wegen dem Fall?) Auf dem Boden (Auf den Boden?	Y	wegen	159	   26,572	0.0567	202.2857	german_de_news_2014_00723278
+795	Oder wegen dem Fall? Auf dem Boden (Auf den Boden?	N	wegen	159	   26,572	0.0567	202.2857	german_de_news_2014_00723278
 796	Weitere Angaben dazu will das Unternehmen nicht machen.	Y	weitere	160	   26,419	0.0564	127.5	german_de_news_2013_00929131
 797	Erst eine, dann eine weitere und schließlich noch eine.	Y	weitere	160	   26,419	0.0564	132.7143	german_de_news_2015_00447738
 798	Das soll weitere etwa 177 Millionen Euro kosten.	Y	weitere	160	   26,419	0.0564	134.1429	german_de_news_2014_00202344
@@ -809,7 +809,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 808	Wie kommt der Mann an das Geld?	Y	kommt	162	   26,396	0.0563	93.8571	german_de_news_2014_00924187
 809	Aber so was kommt nicht in die Zeitung.	Y	kommt	162	   26,396	0.0563	94.5	german_de_news_2013_00018247
 810	Aber dass es dann wirklich so kommt.	Y	kommt	162	   26,396	0.0563	96.1429	german_de_news_2014_00010574
-811	Es ist wie das andere mit „A.	Y	andere	163	   26,393	0.0563	77	german_de_news_2015_00464670
+811	Es ist wie das andere mit „A.	N	andere	163	   26,393	0.0563	77	german_de_news_2015_00464670
 812	Das andere ist, wie sie wirklich sind.	Y	andere	163	   26,393	0.0563	84.2857	german_de_news_2013_00166918
 813	Da ist das ein oder andere möglich.	Y	andere	163	   26,393	0.0563	88.5714	german_de_news_2014_00149308
 814	Doch dann gibt es auch noch eine andere Seite.	Y	andere	163	   26,393	0.0563	91	german_de_news_2013_00410497
@@ -833,8 +833,8 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 832	Am Ende steht nichts mehr an seinem Platz.	Y	seinem	167	   26,257	0.056	121.625	german_de_news_2014_00043606
 833	An seinem letzten Tag waren alle bei ihm.	Y	seinem	167	   26,257	0.056	134.75	german_de_news_2013_00060422
 834	Doch was ist, wenn der Chef trotzdem nicht von seinem Mitarbeiter lassen will?	Y	seinem	167	   26,257	0.056	146.1538	german_de_news_2015_00393596
-835	Jetzt muss ich wieder warten“, sagte der in seinem 98.	Y	seinem	167	   26,257	0.056	156.7778	german_de_news_2013_00646492
-836	“Aber nicht nur uns, sondern eigentlich alle.	Y	sondern	168	   25,974	0.0554	111.7143	german_de_news_2013_00017213
+835	«Jetzt muss ich wieder warten», sagte der in seinem 98.	Y	seinem	167	   26,257	0.056	156.7778	german_de_news_2013_00646492
+836	Aber nicht nur uns, sondern eigentlich alle.	Y	sondern	168	   25,974	0.0554	111.7143	german_de_news_2013_00017213
 837	Das wird nicht nur viel Geld, sondern auch viel Zeit kosten.	Y	sondern	168	   25,974	0.0554	113.5	german_de_news_2013_00216231
 838	Doch nicht etwa von einem Mann, sondern von zwei anderen Frauen!	Y	sondern	168	   25,974	0.0554	120.1	german_de_news_2015_00391886
 839	Das ist ja kein Spiel, sondern das Leben.	Y	sondern	168	   25,974	0.0554	125	german_de_news_2014_00184931
@@ -855,10 +855,10 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 854	Und dann war das Ergebnis doch wieder nicht so, wie es eigentlich sein sollte.	Y	sollte	171	   24,769	0.0529	103.2857	german_de_news_2013_00867200
 855	Doch zu sicher sollte sich die SPD nicht sein.	Y	sollte	171	   24,769	0.0529	108.4444	german_de_news_2015_00394392
 856	Ist also nicht so, dass es das erste wäre.	Y	also	172	   24,647	0.0526	75.1111	german_de_news_2015_00601979
-857	Also bei mir ist es nur noch die Frau.»	Y	also	172	   24,647	0.0526	81.8889	german_de_news_2014_00036839
+857	«Also bei mir ist es nur noch die Frau.»	Y	also	172	   24,647	0.0526	81.8889	german_de_news_2014_00036839
 858	Also ist es wohl doch immer an..	Y	also	172	   24,647	0.0526	85	german_de_news_2014_00037423
 859	Und jetzt sind wir also wieder zurück.	Y	also	172	   24,647	0.0526	92.8571	german_de_news_2015_00838309
-860	Von der Seite ist es also gut.»	Y	also	172	   24,647	0.0526	95	german_de_news_2015_00867562
+860	«Von der Seite ist es also gut.»	Y	also	172	   24,647	0.0526	95	german_de_news_2015_00867562
 861	Dies muss er aber auch gar nicht.	Y	dies	173	   24,550	0.0524	89.4286	german_de_news_2014_00366202
 862	Wie sich nun zeigt, ist dies aber nicht der Fall.	Y	dies	173	   24,550	0.0524	89.5	german_de_news_2015_00918020
 863	Bisher ist dies aber noch nicht der Fall.	Y	dies	173	   24,550	0.0524	95.5	german_de_news_2015_00123495
@@ -879,7 +879,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 878	Für gerade einmal 699 Euro sind auch Sie dabei.	Y	einmal	176	   24,078	0.0514	82.75	german_de_news_2013_00525607
 879	Es ist nun einmal so das nicht alle Menschen gleich sind.	Y	einmal	176	   24,078	0.0514	87.1818	german_de_news_2013_00492450
 880	Auch in Deutschland könnte das einmal so kommen.	Y	einmal	176	   24,078	0.0514	88.75	german_de_news_2015_00075991
-881	Das kann man so nicht stehen lassen.“	Y	lassen	176	   24,078	0.0514	81.4286	german_de_news_2013_00189583
+881	Das kann man so nicht stehen lassen.	Y	lassen	176	   24,078	0.0514	81.4286	german_de_news_2013_00189583
 882	Aber auch die anderen lassen sich sehen.	Y	lassen	176	   24,078	0.0514	87.4286	german_de_news_2015_00009435
 883	Das hätte er auch mal sein lassen können.	Y	lassen	176	   24,078	0.0514	89.625	german_de_news_2013_00181608
 884	Das kann sich auch dieses Jahr wieder sehen lassen.	Y	lassen	176	   24,078	0.0514	92.8889	german_de_news_2013_00189662
@@ -889,12 +889,12 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 888	Den hatten wir auch schon im September.	Y	hatten	177	   24,030	0.0513	103.2857	german_de_news_2013_00228080
 889	Nicht auf alles hatten sie eine Antwort.	Y	hatten	177	   24,030	0.0513	118.7143	german_de_news_2015_00696624
 890	Mit 2 Dollar am Tag konnten, können nur die Menschen leben, die sie hatten, haben!	Y	hatten	177	   24,030	0.0513	125.9231	german_de_news_2015_00661040
-891	Mir sind in den letzten 2 Jahren vier (!	Y	vier	178	   23,895	0.051	102.5714	german_de_news_2013_00695830
+891	Mir sind in den letzten 2 Jahren vier (!	N	vier	178	   23,895	0.051	102.5714	german_de_news_2013_00695830
 892	Das waren vier Prozent weniger als im letzten Jahr.	Y	vier	178	   23,895	0.051	103.2222	german_de_news_2014_00210109
 893	In zwei, drei, vier Jahren sollte es möglich sein.	Y	vier	178	   23,895	0.051	109.5556	german_de_news_2015_00600139
 894	Vor vier Jahren war es nicht anders.	Y	vier	178	   23,895	0.051	112.5714	german_de_news_2014_00885750
 895	Alle vier sind auch diese Saison dabei.	Y	vier	178	   23,895	0.051	115.2857	german_de_news_2015_00033043
-896	In einer Stadt wäre das so nicht möglich.“	Y	wäre	179	   23,833	0.0509	98.5	german_de_news_2015_00587828
+896	In einer Stadt wäre das so nicht möglich.	Y	wäre	179	   23,833	0.0509	98.5	german_de_news_2015_00587828
 897	Jetzt wäre es an der Zeit, sich Zeit zu nehmen.	Y	wäre	179	   23,833	0.0509	100.6667	german_de_news_2014_00617026
 898	Es wäre das erste Mal seit mehr als zehn Jahren.	Y	wäre	179	   23,833	0.0509	102.8	german_de_news_2015_00470027
 899	Der Titel wäre für Sie zu haben.	Y	wäre	179	   23,833	0.0509	103	german_de_news_2013_00282945
@@ -913,7 +913,7 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 912	Die 53-Jährige ist seit fünf Jahren in der Regierung.	Y	jährige	182	   23,213	0.0495	91.1111	german_de_news_2013_00297975
 913	Und ich weiß nun auch, was er von mir will“, sagt die 23-Jährige.	Y	jährige	182	   23,213	0.0495	94.9231	german_de_news_2013_00874538
 914	«Wir sind noch nicht so weit», sagte der 72-Jährige.	Y	jährige	182	   23,213	0.0495	95.1111	german_de_news_2013_00967301
-915	"""""""Sie wird das nicht tun,"""""""" ist sich der 76-Jährige sicher."""""""	Y	jährige	182	   23,213	0.0495	96.2	german_de_news_2013_00817219
+915	«Sie wird das nicht tun,» ist sich der 76-Jährige sicher.	Y	jährige	182	   23,213	0.0495	96.2	german_de_news_2013_00817219
 916	Es gibt aber immer noch viel zu viele Menschen, die von dieser Entwicklung nichts haben.	Y	nichts	183	   23,181	0.0495	91.9333	german_de_news_2013_00485317
 917	Da macht es auch nichts, das es immer weniger werden.	Y	nichts	183	   23,181	0.0495	93.6667	german_de_news_2015_00149473
 918	«Es kann nicht sein, dass man nichts tun kann.»	Y	nichts	183	   23,181	0.0495	94.75	german_de_news_2014_00469555
@@ -949,19 +949,19 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 948	Was macht Sie denn so sicher, dass dem dann nicht so ist?	Y	macht	189	   22,705	0.0485	81.7273	german_de_news_2013_00923025
 949	Da geht es nur um Macht und Geld.	Y	macht	189	   22,705	0.0485	87	german_de_news_2013_00147434
 950	Aber natürlich macht er das. Wie immer.	Y	macht	189	   22,705	0.0485	91	german_de_news_2015_00015894
-951	Was es war, wissen wir noch nicht“, so der Deutsche.	Y	deutsche	190	   22,333	0.0477	81.7	german_de_news_2013_00920471
+951	Was es war, wissen wir noch nicht, so der Deutsche.	Y	deutsche	190	   22,333	0.0477	81.7	german_de_news_2013_00920471
 952	Das sind deutlich mehr Deutsche als noch vor zehn Jahren.	Y	deutsche	190	   22,333	0.0477	97.9	german_de_news_2014_00200957
 953	Auch für die deutsche Wirtschaft sieht es jetzt wieder gut aus.	Y	deutsche	190	   22,333	0.0477	116.5455	german_de_news_2013_00071934
 954	Wenn sie sehen, dass Millionen Deutsche nicht arbeiten?	Y	deutsche	190	   22,333	0.0477	133.25	german_de_news_2015_00903992
 955	Die ist zwar auch Deutsche, steht aber gar nicht zur Wahl.	Y	deutsche	190	   22,333	0.0477	139.6364	german_de_news_2014_00325897
 956	Es werde nie mehr so sein wie es war.	Y	werde	191	   22,295	0.0476	91.75	german_de_news_2014_00475923
-957	So wird es immer bleiben, und ich werde …	Y	werde	191	   22,295	0.0476	93.75	german_de_news_2013_00833776
-958	Wenn ich spielen kann, dann werde ich auch da sein.»	Y	werde	191	   22,295	0.0476	99.2222	german_de_news_2015_00901610
+957	So wird es immer bleiben, und ich werde …	N	werde	191	   22,295	0.0476	93.75	german_de_news_2013_00833776
+958	«Wenn ich spielen kann, dann werde ich auch da sein.»	Y	werde	191	   22,295	0.0476	99.2222	german_de_news_2015_00901610
 959	Wenn ich die habe, werde ich auch spielen.	Y	werde	191	   22,295	0.0476	100.8571	german_de_news_2014_00909493
 960	Aber ich weiß noch nicht, ob ich es sein werde.	Y	werde	191	   22,295	0.0476	103.6667	german_de_news_2014_00013931
 961	Wie lange sind sie schon bei der Polizei?	Y	polizei	192	   22,244	0.0475	77	german_de_news_2015_00916641
 962	Aber genau das will die Polizei ja auch.	Y	polizei	192	   22,244	0.0475	98.875	german_de_news_2013_00014698
-963	Und auch mit der Polizei möchte ich nichts zu tun haben.“	Y	polizei	192	   22,244	0.0475	120.4545	german_de_news_2013_00865365
+963	Und auch mit der Polizei möchte ich nichts zu tun haben.	Y	polizei	192	   22,244	0.0475	120.4545	german_de_news_2013_00865365
 964	Es wird schon einen Grund haben, das die Polizei vor Ort war.	Y	polizei	192	   22,244	0.0475	120.5	german_de_news_2013_00501708
 965	Sie sind auch nach wie vor ein Thema, das die Polizei fordert.	Y	polizei	192	   22,244	0.0475	125.0833	german_de_news_2013_00813488
 966	So weit ist es jedoch noch nicht.	Y	jedoch	193	   22,199	0.0474	102.5714	german_de_news_2013_00833025
@@ -972,11 +972,11 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 971	Das Bild von ihm geht um die Welt.	Y	ihm	194	   22,136	0.0472	95	german_de_news_2014_00168787
 972	Mit ihm als Präsident wird das nichts mehr.	Y	ihm	194	   22,136	0.0472	98.5	german_de_news_2014_00675774
 973	Was hätte nur aus ihm werden können!	Y	ihm	194	   22,136	0.0472	100	german_de_news_2014_00894467
-974	Man wird ja mehr von ihm sehen..	Y	ihm	194	   22,136	0.0472	100.7143	german_de_news_2013_00684877
+974	Man wird ja mehr von ihm sehen..	N	ihm	194	   22,136	0.0472	100.7143	german_de_news_2013_00684877
 975	Klar ist aber: es sind ihm noch zu wenig.	Y	ihm	194	   22,136	0.0472	101.7778	german_de_news_2015_00620170
 976	Auch wenn sie nicht mehr lange zu leben hat.	Y	leben	195	   22,099	0.0472	70.8889	german_de_news_2013_00078250
 977	Sie leben hier am Land und doch in der Stadt.	Y	leben	195	   22,099	0.0472	84.8	german_de_news_2013_00811007
-978	Wie einfach man sich das Leben doch machen kann..	Y	leben	195	   22,099	0.0472	86.8889	german_de_news_2014_00922235
+978	Wie einfach man sich das Leben doch machen kann..	N	leben	195	   22,099	0.0472	86.8889	german_de_news_2014_00922235
 979	Wir leben hier, wie alle anderen auch.	Y	leben	195	   22,099	0.0472	89.4286	german_de_news_2015_00927474
 980	Da geht es aber nur um Leben von Frauen.	Y	leben	195	   22,099	0.0472	93.7778	german_de_news_2014_00147295
 981	Es soll den Beiden gut gehen, wo immer sie auch jetzt sind.	Y	beiden	196	   22,046	0.047	90.4167	german_de_news_2014_00473049
@@ -997,5 +997,5 @@ ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
 996	Das ist zwar etwas mehr als am Freitag.	Y	zwar	199	   21,658	0.0462	89.375	german_de_news_2014_00186562
 997	Das ist zwar heute auch schon möglich.	Y	zwar	199	   21,658	0.0462	101.5714	german_de_news_2013_00188846
 998	Zwar war sie nicht die erste Frau.	Y	zwar	199	   21,658	0.0462	104.7143	german_de_news_2015_00959595
-999	«Wir arbeiten zwar besser als vor einem Jahr und noch besser als vor zwei Jahren.	Y	zwar	199	   21,658	0.0462	111.0833	german_de_news_2015_00921229
+999	«Wir arbeiten zwar besser als vor einem Jahr und noch besser als vor zwei Jahren.»	Y	zwar	199	   21,658	0.0462	111.0833	german_de_news_2015_00921229
 1000	Nicht immer zwar, aber schon sehr, sehr oft.	Y	zwar	199	   21,658	0.0462	119.2857	german_de_news_2014_00705395
