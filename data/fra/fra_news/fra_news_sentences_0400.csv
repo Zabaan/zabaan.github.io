@@ -1,0 +1,1001 @@
+ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
+1001	"""""""""""""""Pas pour le moment, a-t-il déclaré."""""""	Y	déclaré	200	   25,463	0.0414	72.875	fra_news_2009_00679921
+1002	"""""""Depuis on n'a plus de nouvelles d'elle"""""""", a-t-il déclaré."""""""	Y	déclaré	200	   25,463	0.0414	73.5	fra_news_2009_00223931
+1003	Mais il ne peut rien faire», a-t-il déclaré.	Y	déclaré	200	   25,463	0.0414	77.8889	fra_news_2008_00321542
+1004	Un mal qui s'est déclaré en 2003.	Y	déclaré	200	   25,463	0.0414	87	fra_news_2008_00456813
+1005	"""""""""""""""Nous n'en sommes qu'au début », a-t-il déclaré."""""""	Y	déclaré	200	   25,463	0.0414	90	fra_news_2010_00158153
+1006	Il ne l'est pas, en effet, mais pourquoi?	Y	effet	201	   25,453	0.0414	96.2222	fra_news_2008_00107868
+1007	Il s'agit en effet d'une première en France.	Y	effet	201	   25,453	0.0414	96.4444	fra_news_2008_00067374
+1008	Il aura, en effet, 34 ans au mois de juin.	Y	effet	201	   25,453	0.0414	105.4444	fra_news_2008_00544236
+1009	Le chiffre de 30 % nest pas quun effet dannonce.	Y	effet	201	   25,453	0.0414	106.9091	fra_news_2010_00141026
+1010	Il ne me fait aucun effet, mais alors aucun.	Y	effet	201	   25,453	0.0414	112.375	fra_news_2009_00079865
+1011	Après c'est le Tour de France.	Y	tour	202	   25,293	0.0411	56.4286	fra_news_2008_00792666
+1012	Mais ce qui compte, c'est le Tour de France.	Y	tour	202	   25,293	0.0411	62.9	fra_news_2010_00927737
+1013	Pas de victoire pour lui sur ce Tour.	Y	tour	202	   25,293	0.0411	77.875	fra_news_2008_00584991
+1014	Après la France, au tour de l'Europe.	Y	tour	202	   25,293	0.0411	78.75	fra_news_2008_00266990
+1015	On n'avait pas fait un très bon début de Tour.	Y	tour	202	   25,293	0.0411	81.7273	fra_news_2010_00585929
+1016	Histoire d'être encore plus près l'un de l'autre.	Y	près	203	   25,217	0.041	81.8	fra_news_2008_00139261
+1017	C'est près de 3 millions de plus qu'aujourd'hui.	Y	près	203	   25,217	0.041	82.1111	fra_news_2009_00741995
+1018	Elle n'a jamais été aussi près.	Y	près	203	   25,217	0.041	85.1429	fra_news_2010_00405533
+1019	On était près, tout près, de la victoire.	Y	près	203	   25,217	0.041	89.8571	fra_news_2008_00076460
+1020	Il n'a peut-être jamais été aussi près d'avoir raison.	Y	près	203	   25,217	0.041	90.1667	fra_news_2010_00594311
+1021	Ce n'est pas de nos affaires?	Y	nos	204	   25,132	0.0409	78.5714	fra_news_2008_00832844
+1022	Mais ce qui compte, c'est la santé de nos enfants.	Y	nos	204	   25,132	0.0409	107.7273	fra_news_2009_00503935
+1023	"""""""C'est la première fois que cela arrive avec un de nos A380"""""""", a-t-elle dit."""""""	Y	nos	204	   25,132	0.0409	112.3125	fra_news_2010_00351317
+1024	Nos corps ne sont pas dans le même état quils étaient quand on avait 18 ans!	Y	nos	204	   25,132	0.0409	120.625	fra_news_2010_00005341
+1025	Ont a déjà nos hommes politique pour ça.	Y	nos	204	   25,132	0.0409	123.875	fra_news_2008_00425175
+1026	C'est ce que l'on a eu.	Y	eu	205	   25,129	0.0409	44.5	fra_news_2008_00208437
+1027	On n'a pas eu à le faire.	Y	eu	205	   25,129	0.0409	47.375	fra_news_2010_00731455
+1028	Ils n´en ont pas eu le temps.	Y	eu	205	   25,129	0.0409	57.75	fra_news_2010_00616692
+1029	Il y en a déjà eu une dit-elle.	Y	eu	205	   25,129	0.0409	66.5556	fra_news_2009_00194376
+1030	Déjà j'ai pas eu le temps avant.	Y	eu	205	   25,129	0.0409	91.375	fra_news_2008_00469371
+1031	En 2000, ils nétaient plus quun sur deux.	Y	étaient	206	   25,128	0.0409	49	fra_news_2009_00909494
+1032	"""""""Mais ce n'étaient que des """"""""on dit""""""""."""""""	Y	étaient	206	   25,128	0.0409	58.625	fra_news_2008_00173508
+1033	Mais au moins, ils étaient sur place.	Y	étaient	206	   25,128	0.0409	79.1429	fra_news_2009_00196036
+1034	Cette année, ils en étaient à 388 sur la même période.	Y	étaient	206	   25,128	0.0409	88	fra_news_2009_00815359
+1035	Ils étaient même deux l'an dernier.	Y	étaient	206	   25,128	0.0409	93.1429	fra_news_2010_00798875
+1036	Ce qu'il n'a jamais fait.	Y	jamais	207	   25,127	0.0409	53.7143	fra_news_2010_00827115
+1037	Ce qui n'a jamais été le cas.	Y	jamais	207	   25,127	0.0409	59.375	fra_news_2008_00215635
+1038	"""""""""""""""Jamais je n'ai fait cela"""""""", a-t-il dit."""""""	Y	jamais	207	   25,127	0.0409	78	fra_news_2009_00392130
+1039	C'était bien, mais jamais comme ça.	Y	jamais	207	   25,127	0.0409	85.8571	fra_news_2008_00352057
+1040	Je n'ai jamais rien fait, rien, jamais.	Y	jamais	207	   25,127	0.0409	106	fra_news_2009_00769187
+1041	Mais, le compte n'y est pas.	Y	compte	208	   24,953	0.0406	56.2857	fra_news_2010_00381744
+1042	Mais elle compte, aussi, pour le reste du monde.	Y	compte	208	   24,953	0.0406	69.8889	fra_news_2009_00885288
+1043	Et c'est bien ça qui compte.	Y	compte	208	   24,953	0.0406	70.4286	fra_news_2008_00089323
+1044	Ce qui compte, c'est qui est là.	Y	compte	208	   24,953	0.0406	75.3333	fra_news_2009_00066429
+1045	Si je compte bien ça fait donc trois jours.	Y	compte	208	   24,953	0.0406	101.8889	fra_news_2009_00710198
+1046	Ce sera à lui de le dire, mais ce nest pas ça quil a dit.	Y	dire	209	   24,838	0.0404	50.5	fra_news_2010_00218482
+1047	Dire qu'il n'avait que 24 ans.	Y	dire	209	   24,838	0.0404	60.8571	fra_news_2008_00354651
+1048	"""""""""""""""Il n'y a plus rien à dire."""""""	Y	dire	209	   24,838	0.0404	70.625	fra_news_2009_00085113
+1049	Là, il n'y a rien à dire.	Y	dire	209	   24,838	0.0404	85.375	fra_news_2008_00345973
+1050	Et tout cela sans rien dire, sans rien faire!	Y	dire	209	   24,838	0.0404	101.4286	fra_news_2008_00042490
+1051	C'est nous qui l'avons fait.	Y	avons	210	   24,830	0.0404	54.4286	fra_news_2010_00386074
+1052	C'est ce que nous avons fait.	Y	avons	210	   24,830	0.0404	56.8571	fra_news_2010_00876779
+1053	« Nous avons tout ce qu´il nous faut.	Y	avons	210	   24,830	0.0404	73.7143	fra_news_2009_00562003
+1054	Et bien, nous avons eu les deux.	Y	avons	210	   24,830	0.0404	82.7143	fra_news_2008_00353356
+1055	«Nous avons très bien fait notre travail.	Y	avons	210	   24,830	0.0404	108.1429	fra_news_2008_00534158
+1056	Le Club est l'équipe de la ville.	Y	ville	211	   24,627	0.04	80.875	fra_news_2009_00248159
+1057	Pourquoi est-ce que la Ville ne le fait pas?	Y	ville	211	   24,627	0.04	90.4	fra_news_2009_00351950
+1058	Je pense que la Ville n'a pas à faire ça non plus.	Y	ville	211	   24,627	0.04	92.0769	fra_news_2008_00857710
+1059	"""""""""""""""Mais après tout, c'est le choix que fait la ville de Paris"""""""", a-t-il ajouté."""""""	Y	ville	211	   24,627	0.04	96.5882	fra_news_2010_00592583
+1060	Tout ce que la Ville dit qu'elle peut faire pour le moment, c'est d'attendre.	Y	ville	211	   24,627	0.04	106	fra_news_2009_00205946
+1061	Une affaire d'Etat qui n'en est pas une.	Y	etat	212	   24,621	0.04	80.7778	fra_news_2008_00344251
+1062	On est dans un Etat de droit.	Y	etat	212	   24,621	0.04	82	fra_news_2009_00819635
+1063	Elle est le dernier des 47 Etat membres à le faire.	Y	etat	212	   24,621	0.04	88.3333	fra_news_2010_00752380
+1064	C'est coup d'Etat pour coup d'Etat.	Y	etat	212	   24,621	0.04	90.5	fra_news_2010_00808723
+1065	Il n'y a jamais eu de coup d'Etat dans notre pays.	Y	etat	212	   24,621	0.04	96.2308	fra_news_2010_00286483
+1066	Mais la n'est pas le point.	Y	point	213	   24,540	0.0399	46	fra_news_2010_00736181
+1067	On peut le faire un peu, mais pas à ce point.	Y	point	213	   24,540	0.0399	54.5455	fra_news_2010_00741791
+1068	Plus d´un point sur une année.	Y	point	213	   24,540	0.0399	58.5714	fra_news_2010_00874169
+1069	Il est donc temps de faire le point.	Y	point	213	   24,540	0.0399	65.625	fra_news_2010_00371436
+1070	Beaucoup reste donc à faire sur ce point.	Y	point	213	   24,540	0.0399	93.125	fra_news_2008_00352439
+1071	Aux Etats-Unis, ils ont fait cela d'une année sur l'autre sans problème.	Y	etats	214	   24,450	0.0398	97.2667	fra_news_2008_00604541
+1072	C'est le Sud des Etats-Unis.	Y	etats	214	   24,450	0.0398	99.7143	fra_news_2010_00272335
+1073	C´est ce que font tous les Etats.	Y	etats	214	   24,450	0.0398	100.875	fra_news_2010_00063090
+1074	Une direction tout à fait nouvelle pour les Etats-Unis.	Y	etats	214	   24,450	0.0398	107.1	fra_news_2009_00376824
+1075	"""""""""""""""Ce n'est pas le Canada ou les Etats-Unis, ici."""""""	Y	etats	214	   24,450	0.0398	109.1818	fra_news_2008_00171155
+1076	En 2006, ce n´était plus qu´un sur cinq.	Y	cinq	215	   24,444	0.0397	48.7778	fra_news_2010_00157417
+1077	Et cinq millions, cest bien peu.	Y	cinq	215	   24,444	0.0397	76.7143	fra_news_2010_00869379
+1078	Elle me l'a dit cinq fois.	Y	cinq	215	   24,444	0.0397	87.8571	fra_news_2009_00340706
+1079	Comme tous les jours, cinq fois par semaine.	Y	cinq	215	   24,444	0.0397	103	fra_news_2009_00421493
+1080	Elle part quatre ou cinq fois par année.	Y	cinq	215	   24,444	0.0397	107.25	fra_news_2009_00861614
+1081	Est-ce que j'en suis un?	Y	suis	216	   24,364	0.0396	54.2857	fra_news_2008_00223485
+1082	Là, j'en suis à plus de 340!	Y	suis	216	   24,364	0.0396	69.5714	fra_news_2009_00296566
+1083	Suis-je encore français pour les Français?	Y	suis	216	   24,364	0.0396	82.3333	fra_news_2008_00013259
+1084	De cela, je ne suis pour rien.	Y	suis	216	   24,364	0.0396	87.5714	fra_news_2009_00868983
+1085	J'en suis toujours au même point.	Y	suis	216	   24,364	0.0396	102.5714	fra_news_2009_00043779
+1086	Et d'autres le seront cette année.	Y	seront	217	   24,297	0.0395	67.8571	fra_news_2010_00113900
+1087	Ils ne seront pas toujours tous contre moi.	Y	seront	217	   24,297	0.0395	119.5	fra_news_2009_00373177
+1088	Lui n'a jamais été très connu, peut-être eux le seront-ils.	Y	seront	217	   24,297	0.0395	126.6154	fra_news_2008_00672904
+1089	Pour nous, les points seront l'objectif.	Y	seront	217	   24,297	0.0395	128	fra_news_2008_00527820
+1090	Jusqu'à la 23e, ils seront dix.	Y	seront	217	   24,297	0.0395	130.4286	fra_news_2008_00731757
+1091	Un jour de plus et il aurait eu 85 ans.	Y	aurait	218	   24,278	0.0395	77	fra_news_2008_00131987
+1092	Si elle ne l'aurait pas fait, ça aurait été un autre histoire.	Y	aurait	218	   24,278	0.0395	87.0833	fra_news_2010_00096887
+1093	Il n'y aurait été question que d'affaires, pas de politique.	Y	aurait	218	   24,278	0.0395	91.5	fra_news_2008_00156906
+1094	C'est ce qu'un joueur sur deux aurait fait.	Y	aurait	218	   24,278	0.0395	92.7	fra_news_2010_00714809
+1095	C'aurait été bien pour le club.	Y	aurait	218	   24,278	0.0395	93	fra_news_2010_00354183
+1096	Deux d'entre elles sont en français.	Y	elles	219	   24,196	0.0393	73.7143	fra_news_2009_00808428
+1097	Tout ce qu'elles n'ont pas vraiment été.	Y	elles	219	   24,196	0.0393	95	fra_news_2008_00071340
+1098	Elles n'ont rien à en dire.	Y	elles	219	   24,196	0.0393	98.2857	fra_news_2010_00257938
+1099	Mais elles en ont vu d'autres.	Y	elles	219	   24,196	0.0393	101	fra_news_2009_00955980
+1100	Elles doivent être plus de 500 d'ici à la fin de l'année.	Y	elles	219	   24,196	0.0393	103.8333	fra_news_2008_00628419
+1101	Rien n'est encore fait pour le titre.	Y	titre	220	   24,165	0.0393	75	fra_news_2008_00721171
+1102	L'an dernier, on a eu un titre.	Y	titre	220	   24,165	0.0393	97	fra_news_2010_00363897
+1103	Il s'agit de son tout premier titre.	Y	titre	220	   24,165	0.0393	103.125	fra_news_2009_00817271
+1104	Nous navons pas encore de titre pour cette série.	Y	titre	220	   24,165	0.0393	108.6	fra_news_2009_00392841
+1105	Et reste plus que jamais dans la course au titre.	Y	titre	220	   24,165	0.0393	112	fra_news_2009_00794577
+1106	Ce qu&rsquo;elle a fait en avril 2007, a déclaré son conseil.	Y	conseil	221	   24,136	0.0392	101.3636	fra_news_2009_00086267
+1107	Mais si j´ai un conseil à lui donner, et ce sera le seul: c´est de se faire confiance.	Y	conseil	221	   24,136	0.0392	113.7	fra_news_2010_00156129
+1108	"""""""""""""""C'est un conseil national d'après-victoire."""""""	Y	conseil	221	   24,136	0.0392	130.125	fra_news_2008_00727662
+1109	«Il n'y a pas eu de conseil d'administration depuis le 16juin.	Y	conseil	221	   24,136	0.0392	130.3846	fra_news_2010_00976141
+1110	C´est le conseil que je lui donne.	Y	conseil	221	   24,136	0.0392	131.5	fra_news_2009_00263423
+1111	Si c'est le chef qui le dit!	Y	chef	222	   24,107	0.0392	66.8571	fra_news_2009_00608073
+1112	A-t-il déjà été leur chef?	Y	chef	222	   24,107	0.0392	74	fra_news_2009_00672252
+1113	Chef de l'année à Québec en 2007.	Y	chef	222	   24,107	0.0392	85.4286	fra_news_2008_00115136
+1114	Une, encore, est chef d'un parti politique.	Y	chef	222	   24,107	0.0392	94.375	fra_news_2008_00250708
+1115	Rien ne va plus dans le parti du chef de l'État.	Y	chef	222	   24,107	0.0392	96.75	fra_news_2008_00082307
+1116	Si on ne l'avait pas fait, on n'en serait pas là.	Y	serait	223	   24,065	0.0391	60.7273	fra_news_2008_00839716
+1117	Ce ne serait pas la première fois d'ailleurs.	Y	serait	223	   24,065	0.0391	75.4444	fra_news_2008_00051688
+1118	«Ce serait une vie pour une vie.	Y	serait	223	   24,065	0.0391	91.8	fra_news_2010_00148592
+1119	Aujourd'hui, on n'en serait pas là.	Y	serait	223	   24,065	0.0391	98.875	fra_news_2009_00275179
+1120	Ce dernier serait aujourd´hui aux Etats-Unis.	Y	serait	223	   24,065	0.0391	137.875	fra_news_2010_00056396
+1121	Ce n'est pas le cas pour toutes les femmes.	Y	toutes	224	   23,998	0.039	91.2	fra_news_2008_00802743
+1122	Ce n'est pas le cas de toutes les victimes.	Y	toutes	224	   23,998	0.039	111.4	fra_news_2009_00220636
+1123	De toutes les semaines et de tous les mois.	Y	toutes	224	   23,998	0.039	122.4286	fra_news_2010_00596125
+1124	Ce ne sont pas toutes les équipes qui peuvent le faire.	Y	toutes	224	   23,998	0.039	130.4545	fra_news_2008_00936692
+1125	C'est le cas de toutes les équipes.	Y	toutes	224	   23,998	0.039	131.125	fra_news_2008_00164772
+1126	C'est un homme de son temps.	Y	homme	225	   23,775	0.0387	60.4286	fra_news_2010_00808810
+1127	C'est un homme comme tous les autres.	Y	homme	225	   23,775	0.0387	66.25	fra_news_2008_00282274
+1128	Jamais plus d'un homme à la fois.	Y	homme	225	   23,775	0.0387	73.25	fra_news_2008_00697755
+1129	Pas celle dun homme, celle de lHomme.	Y	homme	225	   23,775	0.0387	77.4286	fra_news_2010_00459706
+1130	Pour beaucoup, il est l'homme de la situation.	Y	homme	225	   23,775	0.0387	78.4444	fra_news_2008_00784865
+1131	En tout cas, c'est comme ça qu'on peut la voir.	Y	voir	226	   23,659	0.0385	69.1667	fra_news_2010_00009071
+1132	On n'a pas eu le temps de tout voir.	Y	voir	226	   23,659	0.0385	69.4	fra_news_2008_00040840
+1133	Il n'y a rien à voir.	Y	voir	226	   23,659	0.0385	79.4286	fra_news_2008_00784880
+1134	Et bien ça n'a rien à voir.	Y	voir	226	   23,659	0.0385	83.5	fra_news_2008_00512665
+1135	Alors que va-t-on voir aujourd'hui?	Y	voir	226	   23,659	0.0385	110.875	fra_news_2010_00450609
+1136	Ce n'est que le dÃ©but.	Y	dã	227	   23,371	0.038	86.5714	fra_news_2009_00001622
+1137	"""""""""""""""Et ce n'est que le dÃ©but"""""""", ajoute-t-elle."""""""	Y	dã	227	   23,371	0.038	128.6364	fra_news_2010_00801544
+1138	En fait, ce nest que le dÃ©but.	Y	dã	227	   23,371	0.038	184	fra_news_2009_00740258
+1139	Ce que DÃ©dÃ© fait, moi je ne suis pas capable de le faire.	Y	dã	227	   23,371	0.038	192.3846	fra_news_2009_00677475
+1140	DÃ¨s que les nouveaux auront pris le pas, cela risque de faire mal.	Y	dã	227	   23,371	0.038	205.0714	fra_news_2010_00498026
+1141	Ce qui n'a pas été le cas hier.	Y	hier	228	   23,241	0.0378	57.6667	fra_news_2008_00428297
+1142	""""""""""""""" Cest comme si cétait hier."""""""	Y	hier	228	   23,241	0.0378	76.5	fra_news_2009_00419666
+1143	De cela, il n'a pas été question hier.	Y	hier	228	   23,241	0.0378	80.4444	fra_news_2009_00622874
+1144	Il en a d'ailleurs été à nouveau question hier.	Y	hier	228	   23,241	0.0378	85.4	fra_news_2009_00108248
+1145	Mais je vous l'ai  déjà dit hier.	Y	hier	228	   23,241	0.0378	89.5	fra_news_2010_00079660
+1146	Tout a bien été pendant l'année 2005.	Y	pendant	229	   23,210	0.0377	72.7143	fra_news_2008_00825144
+1147	Qu’ai-je fait pendant ce temps ?	Y	pendant	229	   23,210	0.0377	86.1429	fra_news_2008_00202236
+1148	C'était le dernier jour pendant le 200 m.	Y	pendant	229	   23,210	0.0377	92.4286	fra_news_2008_00567552
+1149	Alors pendant ce temps, que reste-t'il pour le grand public ?	Y	pendant	229	   23,210	0.0377	93.5	fra_news_2008_00775174
+1150	Mais ce n'était pas le meilleur, pendant la Coupe du monde, il y en a eu aussi.	Y	pendant	229	   23,210	0.0377	93.5556	fra_news_2008_00425784
+1151	Du Sud au Nord, il n´y a qu´un pas.	Y	sud	230	   23,127	0.0376	69.8182	fra_news_2009_00172236
+1152	Nous sommes dans le sud de la France, en 2008.	Y	sud	230	   23,127	0.0376	83.8889	fra_news_2008_00232952
+1153	C&rsquo;est surtout le cas dans le sud de la France.	Y	sud	230	   23,127	0.0376	85.2727	fra_news_2009_00567567
+1154	Et cette année 2010 sera celle du Sud ou ne sera pas.	Y	sud	230	   23,127	0.0376	85.7	fra_news_2010_00507475
+1155	Elle vient de l'est, du sud.	Y	sud	230	   23,127	0.0376	95.4286	fra_news_2008_00887051
+1156	C'est encore ce qu'ils ont annoncé.	Y	annoncé	231	   23,092	0.0375	64.375	fra_news_2008_00808994
+1157	"""""""""""""""C'est ce qu'on nous dit en ce moment, on ne nous l'avait jamais dit"""""""", a-t-elle annoncé."""""""	Y	annoncé	231	   23,092	0.0375	71.0588	fra_news_2010_00136920
+1158	Pourtant, il a été annoncé depuis plus de deux ans.	Y	annoncé	231	   23,092	0.0375	83.3	fra_news_2010_00463556
+1159	Mais encore une fois, il me l'a annoncé tout à l'heure.	Y	annoncé	231	   23,092	0.0375	90.8333	fra_news_2008_00524662
+1160	Un troisième tour est annoncé avant la fin du mois.	Y	annoncé	231	   23,092	0.0375	108.1	fra_news_2009_00096205
+1161	Il faut le faire d'ici la fin de l'année.	Y	ici	232	   23,036	0.0375	62.8182	fra_news_2008_00679302
+1162	Ici ce n'est plus le cas.	Y	ici	232	   23,036	0.0375	67.5714	fra_news_2008_00458315
+1163	"""""""Ici ça n'a pas été le cas""""""""."""""""	Y	ici	232	   23,036	0.0375	77.125	fra_news_2010_00025835
+1164	Mais ici, j'ai tout ce qu'il me faut.	Y	ici	232	   23,036	0.0375	86.6	fra_news_2010_00421768
+1165	Jusquici, on na rien annoncé.	Y	ici	232	   23,036	0.0375	125.1429	fra_news_2009_00398351
+1166	Alors qu'il n'en avait pas pris avant.	Y	pris	233	   23,035	0.0375	64.2222	fra_news_2008_00294814
+1167	Mais ils ne l´ont pas pris en compte.	Y	pris	233	   23,035	0.0375	70	fra_news_2009_00590416
+1168	La première fois, il avait pris le temps.	Y	pris	233	   23,035	0.0375	78.25	fra_news_2008_00232754
+1169	Ça a marché, mais cela a pris un peu de temps.	Y	pris	233	   23,035	0.0375	93.6	fra_news_2009_00056958
+1170	En France, cela n'a jamais pris.	Y	pris	233	   23,035	0.0375	98.5714	fra_news_2008_00201395
+1171	«C'est dans la tête», dit-il.	Y	tête	234	   22,991	0.0374	62.1429	fra_news_2008_00550558
+1172	Et que non, il n'a pas la tête ailleurs.	Y	tête	234	   22,991	0.0374	62.7	fra_news_2010_00271531
+1173	Pour ne pas dire à sa tête.	Y	tête	234	   22,991	0.0374	79.7143	fra_news_2009_00317659
+1174	On est très bien dans notre tête.	Y	tête	234	   22,991	0.0374	81.1429	fra_news_2008_00793232
+1175	Je ne me suis pas pris la tête.	Y	tête	234	   22,991	0.0374	114.25	fra_news_2009_00659465
+1176	Qu'est-ce qu'il faut faire à ce niveau ?	Y	niveau	235	   22,889	0.0372	65.875	fra_news_2008_00443627
+1177	C'est un peu du même niveau.	Y	niveau	235	   22,889	0.0372	67	fra_news_2008_00483370
+1178	Nous n'avons pas le même niveau de vie.	Y	niveau	235	   22,889	0.0372	86.8889	fra_news_2010_00871344
+1179	Rien ne se fait à ce niveau là.	Y	niveau	235	   22,889	0.0372	87.5	fra_news_2008_00590061
+1180	Rien à voir au niveau du son.	Y	niveau	235	   22,889	0.0372	101.5714	fra_news_2008_00059133
+1181	"""""""""""""""On va le voir au centre de plus en plus."""""""	Y	centre	236	   22,842	0.0371	75.4444	fra_news_2010_00690039
+1182	Une autre ville, loin du centre, de plus en plus loin du centre.	Y	centre	236	   22,842	0.0371	112.6667	fra_news_2009_00464968
+1183	La question est au centre du film.	Y	centre	236	   22,842	0.0371	122.2857	fra_news_2010_00885662
+1184	Au centre de ce projet : la France et un autre pays européen.	Y	centre	236	   22,842	0.0371	124.4167	fra_news_2008_00654914
+1185	Pour lui, plus de centre, plus de problème.	Y	centre	236	   22,842	0.0371	125.5	fra_news_2008_00794540
+1186	En plus, ce n'est pas le bon!	Y	bon	237	   22,817	0.0371	46	fra_news_2009_00914553
+1187	Elle n'était pas dans un bon jour ».	Y	bon	237	   22,817	0.0371	72.5	fra_news_2010_00045982
+1188	Mais ça y est, il est là pour de bon.	Y	bon	237	   22,817	0.0371	76	fra_news_2010_00925955
+1189	C'est un bon début de saison.	Y	bon	237	   22,817	0.0371	89.8571	fra_news_2009_00009584
+1190	Aujourd'hui, j'ai un bon niveau.	Y	bon	237	   22,817	0.0371	144.7143	fra_news_2008_00885502
+1191	Ce qu'il n'a pas pour le moment.	Y	moment	238	   22,720	0.0369	44.5556	fra_news_2009_00722799
+1192	Pour le moment, ce n'est pas le cas.	Y	moment	238	   22,720	0.0369	61.5	fra_news_2008_00768004
+1193	A un moment ou à un autre.	Y	moment	238	   22,720	0.0369	72	fra_news_2008_00638974
+1194	Cela fait un moment qu'on ne les compte plus.	Y	moment	238	   22,720	0.0369	75.9	fra_news_2008_00949116
+1195	On ne peut rien dire pour le moment.	Y	moment	238	   22,720	0.0369	100.5	fra_news_2008_00388816
+1196	Un peu mais pas trop tout de même.	Y	trop	239	   22,493	0.0366	64.5	fra_news_2008_00993206
+1197	Une fois encore, une fois de plus, une fois de trop.	Y	trop	239	   22,493	0.0366	77.1667	fra_news_2010_00150871
+1198	La semaine, pas trop le temps de se voir.	Y	trop	239	   22,493	0.0366	89.1111	fra_news_2010_00338434
+1199	Et ce tout sera toujours trop peu.	Y	trop	239	   22,493	0.0366	89.2857	fra_news_2009_00544348
+1200	Cela aurait été un peu trop français.	Y	trop	239	   22,493	0.0366	121.5714	fra_news_2008_00025427
+1201	Et non sur ceux qui ne l'ont pas été.	Y	ceux	240	   22,429	0.0365	54	fra_news_2008_00167661
+1202	Du moins pour ceux qui ne sont pas du même club.	Y	ceux	240	   22,429	0.0365	80.5	fra_news_2008_00116070
+1203	Ceux-là, au moins, n'ont pas de doute.	Y	ceux	240	   22,429	0.0365	120.5556	fra_news_2008_00612704
+1204	Nos gens ne sont pas plus à risque que ceux d'une autre région du Québec.	Y	ceux	240	   22,429	0.0365	129.9375	fra_news_2009_00938093
+1205	C'était un match plus important pour l'avenir du pays que ceux de la Coupe du monde.	Y	ceux	240	   22,429	0.0365	131.4118	fra_news_2008_00325332
+1206	Il y en aura aussi à la porte.	Y	porte	241	   22,409	0.0364	85	fra_news_2009_00542940
+1207	Je ne suis pas mis à la porte.	Y	porte	241	   22,409	0.0364	100.5	fra_news_2008_00834559
+1208	"""""""""""""""C'est une entreprise qui se porte bien."""""""	Y	porte	241	   22,409	0.0364	101	fra_news_2009_00314136
+1209	« Elle se porte de mieux en mieux.	Y	porte	241	   22,409	0.0364	101.3333	fra_news_2009_00666364
+1210	Il se porte très bien, il est en bonne santé.	Y	porte	241	   22,409	0.0364	119.4444	fra_news_2009_00159799
+1211	Et bien ils en ont mis du temps.	Y	mis	242	   22,341	0.0363	65.625	fra_news_2009_00275598
+1212	C'est pas pour ça qu'elle a était mis là?	Y	mis	242	   22,341	0.0363	70.5455	fra_news_2008_00927714
+1213	Ce dernier est mis à jour tous les mois.	Y	mis	242	   22,341	0.0363	80.4444	fra_news_2009_00511530
+1214	Après, cela s'est mis en place.	Y	mis	242	   22,341	0.0363	82.8571	fra_news_2010_00946691
+1215	Nous avons mis en place un groupe de travail.	Y	mis	242	   22,341	0.0363	103.2222	fra_news_2010_00048548
+1216	On est au moins parti pour deux ans comme cela.	Y	parti	243	   22,195	0.0361	70.2	fra_news_2010_00481361
+1217	Et une fois que c'est parti, ça va.	Y	parti	243	   22,195	0.0361	77.3333	fra_news_2010_00946491
+1218	Le parti est là pour tout le monde.	Y	parti	243	   22,195	0.0361	80.5714	fra_news_2009_00837977
+1219	Pour le moment, il est bien parti.	Y	parti	243	   22,195	0.0361	85.2857	fra_news_2008_00026374
+1220	C'est parti pour un nouveau tour.	Y	parti	243	   22,195	0.0361	93.5714	fra_news_2008_00786820
+1221	En finale, ce n'est pas du tout le cas.	Y	finale	244	   22,139	0.036	55.5	fra_news_2010_00576727
+1222	"""""""""""""""Ils ne sont plus toujours en finale."""""""	Y	finale	244	   22,139	0.036	74.1429	fra_news_2010_00460916
+1223	En finale de la coupe du monde!	Y	finale	244	   22,139	0.036	96.1429	fra_news_2008_00776211
+1224	Il a pris la 6e place finale.	Y	finale	244	   22,139	0.036	100	fra_news_2009_00251908
+1225	Ce n'est pas pour rien si elle est en demi-finale.	Y	finale	244	   22,139	0.036	101.5455	fra_news_2008_00450124
+1226	De temps en temps, il est mal par rapport à ça.	Y	rapport	245	   22,096	0.0359	88.4	fra_news_2010_00441867
+1227	C'est une hausse de près de 5 % par rapport à l'an dernier.	Y	rapport	245	   22,096	0.0359	94.4167	fra_news_2008_00000627
+1228	33% de plus par rapport à sa première offre.	Y	rapport	245	   22,096	0.0359	110.125	fra_news_2009_00983457
+1229	Soit une hausse de 70% par rapport à la même période l'année dernière.	Y	rapport	245	   22,096	0.0359	111.0769	fra_news_2010_00281697
+1230	Elle doit rendre son rapport dici à la fin de lannée.	Y	rapport	245	   22,096	0.0359	117.0769	fra_news_2010_00592907
+1231	Ce qui n'est pas le cas pour Québec», a-t-elle expliqué.	Y	québec	246	   22,088	0.0359	94.8462	fra_news_2009_00851486
+1232	Il en sera sans doute de même dans trois mois à Québec.	Y	québec	246	   22,088	0.0359	99.3333	fra_news_2008_00941276
+1233	Selon lui, il ne fait pas de doute qu'il y aura des cas au Québec.	Y	québec	246	   22,088	0.0359	103.1333	fra_news_2009_00866122
+1234	Est-ce que c'était si mal vu que ça dans le Québec des années 60?	Y	québec	246	   22,088	0.0359	103.9286	fra_news_2008_00353042
+1235	On ne l'avait pas vu au Québec depuis juin 2005.	Y	québec	246	   22,088	0.0359	107	fra_news_2008_00813674
+1236	Mais ce n'est pas pour eux.	Y	eux	247	   21,917	0.0356	56	fra_news_2010_00046546
+1237	Mais il n'y a pas qu'eux.	Y	eux	247	   21,917	0.0356	60	fra_news_2008_00191352
+1238	C'est quand même bien eux qui les ont mis là, non?	Y	eux	247	   21,917	0.0356	94.9167	fra_news_2010_00345264
+1239	Rien ne peut se faire sans eux.	Y	eux	247	   21,917	0.0356	102	fra_news_2010_00045911
+1240	Je n'ai rien à voir avec eux.	Y	eux	247	   21,917	0.0356	111.375	fra_news_2008_00038697
+1241	Il n'y avait pas lieu de l'être.	Y	lieu	248	   21,911	0.0356	57.3333	fra_news_2009_00263555
+1242	Mais ça ne dit pas ce qu'il faut faire en lieu et place!	Y	lieu	248	   21,911	0.0356	70.4286	fra_news_2010_00800829
+1243	Mais cela n'a pas eu lieu.	Y	lieu	248	   21,911	0.0356	96.1429	fra_news_2010_00952983
+1244	Le premier avait d'ailleurs lieu hier.	Y	lieu	248	   21,911	0.0356	111.7143	fra_news_2008_00283550
+1245	La deuxième a eu lieu avant-hier.	Y	lieu	248	   21,911	0.0356	138	fra_news_2009_00017884
+1246	Le fait d'être Suisse est-il un plus?	Y	suisse	249	   21,852	0.0355	48.2222	fra_news_2010_00813944
+1247	Et la Suisse n'y est pas encore.	Y	suisse	249	   21,852	0.0355	61	fra_news_2010_00470211
+1248	La Suisse fait-elle tout ce quelle peut?	Y	suisse	249	   21,852	0.0355	67.75	fra_news_2009_00613033
+1249	Y en a-t-il beaucoup en Suisse?	Y	suisse	249	   21,852	0.0355	84.7143	fra_news_2008_00797645
+1250	Que ce soit en Suisse ou ailleurs.	Y	suisse	249	   21,852	0.0355	90	fra_news_2009_00137347
+1251	On na pas été dans le coup du tout!	Y	coup	250	   21,683	0.0353	47.6	fra_news_2010_00909458
+1252	Ce n&rsquo;est pas un coup de tête.	Y	coup	250	   21,683	0.0353	80.3333	fra_news_2009_00426381
+1253	Sur le coup, cela ne m'a rien dit.	Y	coup	250	   21,683	0.0353	88.7778	fra_news_2009_00452771
+1254	Tout le monde reste dans le coup.	Y	coup	250	   21,683	0.0353	95	fra_news_2009_00975618
+1255	"""""""""""""""A un moment, j'ai eu un coup de moins bien."""""""	Y	coup	250	   21,683	0.0353	108.5	fra_news_2009_00005487
+1256	Cela fait partie du monde des affaires.	Y	affaires	251	   21,609	0.0351	99.1429	fra_news_2010_00013883
+1257	"""""""Je ne suis qu'un homme d'affaires""""""""."""""""	Y	affaires	251	   21,609	0.0351	103	fra_news_2010_00160280
+1258	"""""""Mais les affaires comme celle-là, encore plus."""""""""""""""	Y	affaires	251	   21,609	0.0351	107.5	fra_news_2008_00925343
+1259	Il m'a dit qu'il l'avait vu partir avec des affaires.	Y	affaires	251	   21,609	0.0351	109.4167	fra_news_2008_00044586
+1260	"""""""C'est-à-dire 5% de notre chiffre d'affaires"""""""", dit-il."""""""	Y	affaires	251	   21,609	0.0351	113.6364	fra_news_2009_00856490
+1261	Il a un pouvoir que les autres nont pas.	Y	pouvoir	252	   21,511	0.035	49	fra_news_2009_00874680
+1262	Pas tout le pouvoir, mais plus de pouvoir.	Y	pouvoir	252	   21,511	0.035	56	fra_news_2008_00954319
+1263	C'est lui qui a le pouvoir de faire ça ».	Y	pouvoir	252	   21,511	0.035	61	fra_news_2009_00744765
+1264	Pour le reste, à vous le pouvoir.	Y	pouvoir	252	   21,511	0.035	83.1667	fra_news_2008_00741470
+1265	Le pouvoir n'est pas là, pas ailleurs non plus.	Y	pouvoir	252	   21,511	0.035	86.2222	fra_news_2008_00618288
+1266	Cest à eux quil faut sen prendre.	Y	prendre	253	   21,424	0.0348	78.1	fra_news_2010_00271426
+1267	Il ne faut pas prendre pour prendre.	Y	prendre	253	   21,424	0.0348	79	fra_news_2009_00603766
+1268	Et pour cela, tout est bon à prendre.	Y	prendre	253	   21,424	0.0348	87.75	fra_news_2009_00237128
+1269	On va prendre le temps que ça va prendre.	Y	prendre	253	   21,424	0.0348	96.1429	fra_news_2008_00329059
+1270	Donc là aussi, cela va prendre du temps.	Y	prendre	253	   21,424	0.0348	115.125	fra_news_2010_00950003
+1271	Ce nombre est passé à plus de 7000 l'année dernière.	Y	nombre	254	   21,274	0.0346	95.6	fra_news_2008_00813768
+1272	Ils étaient au nombre de 21 cette saison.	Y	nombre	254	   21,274	0.0346	103.2857	fra_news_2009_00900203
+1273	Nombre d'entre elles ne se le font pas dire deux fois.	Y	nombre	254	   21,274	0.0346	115.5	fra_news_2008_00245770
+1274	La force du nombre, ce nest pas rien.	Y	nombre	254	   21,274	0.0346	123	fra_news_2010_00556396
+1275	C'est l'équipe européenne qui a gagné le plus grand nombre de fois la Coupe du monde.	Y	nombre	254	   21,274	0.0346	136.1667	fra_news_2010_00254739
+1276	Pour lui, ce n'est qu'une question de temps.	Y	question	255	   21,261	0.0346	56.1	fra_news_2010_00515208
+1277	Pour le moment, il n'en est pas question.	Y	question	255	   21,261	0.0346	67.5556	fra_news_2010_00968399
+1278	Mais là n'était pas la question.	Y	question	255	   21,261	0.0346	79.4286	fra_news_2008_00698867
+1279	Pas question de lui faire le coup deux fois.	Y	question	255	   21,261	0.0346	89.4444	fra_news_2010_00438866
+1280	Car cest une question de pouvoir.	Y	question	255	   21,261	0.0346	106.2857	fra_news_2010_00524978
+1281	C'est toujours comme ça chaque année.	Y	chaque	256	   21,249	0.0345	104.1429	fra_news_2010_00540103
+1282	On a vu qu'on a toujours été dans le coup, à chaque match de Coupe d'Europe.	Y	chaque	256	   21,249	0.0345	113.0625	fra_news_2008_00601069
+1283	Chaque année, c'est la même chose.	Y	chaque	256	   21,249	0.0345	123.2857	fra_news_2008_00175309
+1284	C'est parce que l'Europe sera plus forte que chaque pays d'Europe le sera.	Y	chaque	256	   21,249	0.0345	129.1538	fra_news_2009_00451470
+1285	Je pense beaucoup à elle au début de chaque nouvelle année.	Y	chaque	256	   21,249	0.0345	132	fra_news_2008_00483673
+1286	C'est en général ce que l'on dit après.	Y	général	257	   21,148	0.0344	56.6	fra_news_2008_00176630
+1287	Et en général, on se dit même qu'il faut avoir la tête de l'emploi.	Y	général	257	   21,148	0.0344	99.8125	fra_news_2010_00316962
+1288	Pour le général, il ne s'agit que d'un procès de plus à la fin de sa vie.	Y	général	257	   21,148	0.0344	110.2778	fra_news_2008_00499459
+1289	Mais le nouveau secrétaire général sera-t-il plus secrétaire ou plus général ?	Y	général	257	   21,148	0.0344	125.1	fra_news_2008_00352805
+1290	Et, en général, ils ne sont plus là pour parler.	Y	général	257	   21,148	0.0344	125.3	fra_news_2008_00593654
+1291	Et en fait si mais sur un autre site.	Y	site	258	   21,121	0.0343	63	fra_news_2008_00449945
+1292	Ou alors c'était sur un autre site.	Y	site	258	   21,121	0.0343	81.875	fra_news_2009_00466903
+1293	Ce sera le cas sur le nouveau site.	Y	site	258	   21,121	0.0343	94.5714	fra_news_2009_00313407
+1294	Et le site est ainsi mis à jour.	Y	site	258	   21,121	0.0343	97.375	fra_news_2008_00605203
+1295	Tous les jours, je suis sur ce site.	Y	site	258	   21,121	0.0343	103.25	fra_news_2010_00065175
+1296	Mais il n�y a pas que la crise.	Y	crise	259	   21,116	0.0343	53	fra_news_2009_00698347
+1297	La crise c'est pas pour tout le monde.	Y	crise	259	   21,116	0.0343	55.7778	fra_news_2010_00851155
+1298	La crise, c'est pour tout le monde!	Y	crise	259	   21,116	0.0343	59.875	fra_news_2009_00096848
+1299	Depuis, le pays va de crise en crise.	Y	crise	259	   21,116	0.0343	75.8571	fra_news_2008_00059796
+1300	Nous n'avons jamais été si près de la crise.	Y	crise	259	   21,116	0.0343	105.4	fra_news_2008_00066066
+1301	C'est peut-être la société qui le veut.	Y	société	260	   20,901	0.034	86.4444	fra_news_2010_00533792
+1302	"""""""""""""""Les femmes ne sont pas à leur place dans la société."""""""	Y	société	260	   20,901	0.034	88.3636	fra_news_2008_00980720
+1303	Mais ce n’est pas de cela dont notre société à besoin.	Y	société	260	   20,901	0.034	102.3333	fra_news_2009_00110367
+1304	C'est un 2e contrat en deux jours pour la société.	Y	société	260	   20,901	0.034	104.4545	fra_news_2009_00669177
+1305	C'est d'un choix de société qu'il s'agit!».	Y	société	260	   20,901	0.034	117.9091	fra_news_2009_00761403
+1306	Non, mais on le sera par le public.	Y	public	261	   20,874	0.0339	81.8571	fra_news_2008_00013706
+1307	Depuis, il n'a pas été vu en public.	Y	public	261	   20,874	0.0339	85.4444	fra_news_2010_00950782
+1308	Pour le grand public en tous cas.	Y	public	261	   20,874	0.0339	93.5714	fra_news_2010_00046723
+1309	Il n'avait plus été vu en public depuis le mois de janvier.	Y	public	261	   20,874	0.0339	95.4615	fra_news_2010_00868190
+1310	Le public ne devrait pas être là.	Y	public	261	   20,874	0.0339	98	fra_news_2009_00849624
+1311	Ce qui est le cas dès le mois de janvier.	Y	dès	262	   20,861	0.0339	98.4444	fra_news_2009_00418241
+1312	Je l'ai dit dès le début.	Y	dès	262	   20,861	0.0339	102.8571	fra_news_2009_00757007
+1313	On vous en dit plus dès que cela nous sera possible.	Y	dès	262	   20,861	0.0339	108.2727	fra_news_2010_00408848
+1314	Dès lors, que va-t-il se passer ?	Y	dès	262	   20,861	0.0339	128.625	fra_news_2008_00390010
+1315	Dès lors, que peut-il se passer ?	Y	dès	262	   20,861	0.0339	131.5714	fra_news_2008_00991923
+1316	Ce n'est plus qu'une question d'heures.	Y	heures	263	   20,778	0.0338	74.8889	fra_news_2009_00897011
+1317	Mais c´est une affaire d´heures.	Y	heures	263	   20,778	0.0338	110.1429	fra_news_2010_00671775
+1318	Il pourrait être annoncé ce jeudi à 17 heures.	Y	heures	263	   20,778	0.0338	117.5	fra_news_2009_00763999
+1319	Il est trois heures de l'après-midi.	Y	heures	263	   20,778	0.0338	117.875	fra_news_2008_00481871
+1320	Mais, deux heures plus tard, il n´a toujours pas de nouvelles.	Y	heures	263	   20,778	0.0338	118.3333	fra_news_2010_00948958
+1321	Même si les joueurs ont la leur.	Y	joueurs	264	   20,523	0.0334	66.8571	fra_news_2008_00736099
+1322	Non pas dans le jeu mais dans les joueurs.	Y	joueurs	264	   20,523	0.0334	79.25	fra_news_2010_00926361
+1323	"""""""""""""""Il faut du temps à ces joueurs-là."""""""	Y	joueurs	264	   20,523	0.0334	92.25	fra_news_2010_00994647
+1324	J'ai tous les joueurs en place.	Y	joueurs	264	   20,523	0.0334	99.1429	fra_news_2009_00378835
+1325	Je me suis toujours mis avec les joueurs.	Y	joueurs	264	   20,523	0.0334	131.75	fra_news_2010_00260294
+1326	L'Europe, ce n'est pas que la France, c'est aussi 26 autres pays.	Y	europe	265	   20,419	0.0332	56.0769	fra_news_2009_00013877
+1327	Ce qui n´est pas le cas en Europe.	Y	europe	265	   20,419	0.0332	59	fra_news_2010_00602433
+1328	L'Europe ne sera pas en reste.	Y	europe	265	   20,419	0.0332	81.7143	fra_news_2009_00246610
+1329	Ailleurs en Europe, tout va bien également.	Y	europe	265	   20,419	0.0332	111.1429	fra_news_2008_00874886
+1330	EUROPE - Deux ans déjà EUROPE - Deux ans déjà !	Y	europe	265	   20,419	0.0332	119	fra_news_2008_00429742
+1331	Mais pas pour celle-là», a-t-il dit.	Y	celle	266	   20,336	0.0331	77.1111	fra_news_2009_00455391
+1332	Est-ce que celle-ci le sera ?	Y	celle	266	   20,336	0.0331	101.4286	fra_news_2008_00504092
+1333	Ma vie est comme celle de tout le monde.	Y	celle	266	   20,336	0.0331	115	fra_news_2010_00494557
+1334	Ni à la direction de l´Etat, ni à celle du gouvernement.	Y	celle	266	   20,336	0.0331	135.8	fra_news_2010_00074425
+1335	Celle qu'on n'a pas encore vraiment vue cet été.	Y	celle	266	   20,336	0.0331	136.5455	fra_news_2008_00089079
+1336	Il n'y en aura plus qu'une.	Y	aura	267	   20,317	0.033	60	fra_news_2008_00710772
+1337	"""""""Il n'y en aura plus des comme ça""""""""."""""""	Y	aura	267	   20,317	0.033	69.8889	fra_news_2008_00922901
+1338	Et il y aura encore beaucoup à faire.	Y	aura	267	   20,317	0.033	84.375	fra_news_2008_00832080
+1339	Il y en a eu avant, il y en aura après.	Y	aura	267	   20,317	0.033	90.75	fra_news_2009_00494072
+1340	Le premier cours aura lieu ce mercredi.	Y	aura	267	   20,317	0.033	136.8571	fra_news_2008_00648640
+1341	C'est une victoire qui fait du bien.	Y	victoire	268	   20,265	0.0329	60.375	fra_news_2008_00841143
+1342	"""""""C'est bien la victoire de tout un groupe""""""""."""""""	Y	victoire	268	   20,265	0.0329	62.2222	fra_news_2008_00642648
+1343	C'est la victoire d'une équipe.	Y	victoire	268	   20,265	0.0329	69.7143	fra_news_2010_00041352
+1344	Cette victoire reste la victoire des joueurs avant tout.	Y	victoire	268	   20,265	0.0329	109	fra_news_2010_00166816
+1345	"""""""Pour nous, elles sont déjà une grande victoire!"""""""""""""""	Y	victoire	268	   20,265	0.0329	112.125	fra_news_2008_00452614
+1346	Ce qui n'est pas mon cas.	Y	mon	269	   20,166	0.0328	74.8571	fra_news_2010_00048693
+1347	Cela na pas été mon cas.	Y	mon	269	   20,166	0.0328	90.1429	fra_news_2010_00227773
+1348	"""""""J'ai fait tout ce qui était en mon pouvoir."""""""""""""""	Y	mon	269	   20,166	0.0328	94.5	fra_news_2008_00581994
+1349	Ce ne sera pas mon cas cette saison.	Y	mon	269	   20,166	0.0328	94.75	fra_news_2008_00096808
+1350	Je ne suis pas Ã  mon niveau.	Y	mon	269	   20,166	0.0328	127.5714	fra_news_2010_00101703
+1351	"""""""""""""""La situation avec lui est la même que pour les autres."""""""	Y	situation	270	   20,150	0.0328	56.6	fra_news_2010_00876747
+1352	On était un peu dans la même situation.	Y	situation	270	   20,150	0.0328	69.875	fra_news_2009_00778163
+1353	Alors, il va faire avec la situation.	Y	situation	270	   20,150	0.0328	85.2857	fra_news_2009_00171280
+1354	Cette situation n´est pas bonne non plus pour le gouvernement.	Y	situation	270	   20,150	0.0328	86.3636	fra_news_2010_00263181
+1355	C´est la situation dans le pays qui veut ça.	Y	situation	270	   20,150	0.0328	88.5	fra_news_2009_00224368
+1356	Il n'a jamais été le même par la suite.	Y	suite	271	   20,149	0.0328	66	fra_news_2008_00588138
+1357	Je vous le dit tout de suite.	Y	suite	271	   20,149	0.0328	78.4286	fra_news_2010_00326611
+1358	Il n'y a pas eu trois temps de jeu de suite.	Y	suite	271	   20,149	0.0328	89.7273	fra_news_2009_00872409
+1359	Deux points de suite pour le Suisse.	Y	suite	271	   20,149	0.0328	103.7143	fra_news_2009_00736452
+1360	Suite et fin aujourd'hui, à 14 heures.	Y	suite	271	   20,149	0.0328	139.8571	fra_news_2009_00393257
+1361	Que s'est-il passé en juin dernier ?	Y	juin	272	   20,118	0.0327	97.25	fra_news_2008_00367588
+1362	Je ne l'ai jamais vu au mois de juin.	Y	juin	272	   20,118	0.0327	111.8	fra_news_2009_00975533
+1363	C'est son plus haut niveau depuis juin 1996.	Y	juin	272	   20,118	0.0327	137	fra_news_2008_00193866
+1364	Ce qui veut dire jusqu'au 23 juin.	Y	juin	272	   20,118	0.0327	142	fra_news_2008_00442262
+1365	Il aura lieu en deux temps, une partie en juin, l'autre en octobre.	Y	juin	272	   20,118	0.0327	143	fra_news_2010_00906573
+1366	Pour une équipe et pour un club.	Y	club	273	   20,059	0.0326	76.8333	fra_news_2008_00966865
+1367	Le plus grand club du monde ne fait rien comme les autres.	Y	club	273	   20,059	0.0326	78.6667	fra_news_2009_00846159
+1368	Ce qui est bon pour le club est bon pour tout le monde.	Y	club	273	   20,059	0.0326	81.3333	fra_news_2008_00814816
+1369	Ça fait partie de la vie d'un club».	Y	club	273	   20,059	0.0326	91.8889	fra_news_2008_00374496
+1370	C'était mon deuxième match à la tête du club.	Y	club	273	   20,059	0.0326	122.6	fra_news_2008_00750526
+1371	"""""""""""""""Le gouvernement n'est pas en guerre contre la presse"""""""", a-t-elle déclaré."""""""	Y	presse	274	   19,973	0.0325	96.4286	fra_news_2008_00830006
+1372	La presse ne sait que ce qu'on leur dit, mais PAS TOUT.	Y	presse	274	   19,973	0.0325	96.6154	fra_news_2010_00927341
+1373	Le temps presse pour ce joueur de 32 ans.	Y	presse	274	   19,973	0.0325	118.75	fra_news_2010_00163926
+1374	500 millions pour l'aide à la presse.	Y	presse	274	   19,973	0.0325	119.8571	fra_news_2009_00912516
+1375	Jeudi, il a indiqué lors d'une conférence de presse que c'était «la fin en équipe nationale».	Y	presse	274	   19,973	0.0325	121.9444	fra_news_2010_00449374
+1376	Le Vendredi Saint, c'était mieux avant.	Y	saint	275	   19,790	0.0322	132	fra_news_2008_00078063
+1377	Saint Nicolas est en plein travail, mais il n'est pas le seul.	Y	saint	275	   19,790	0.0322	164.9167	fra_news_2009_00711174
+1378	Trois Français dans le Prix Saint-Michel - Yahoo!	Y	saint	275	   19,790	0.0322	179.25	fra_news_2009_00498438
+1379	«Dans cette région tout comme dans le bas Saint-Laurent, c'est très bon.	Y	saint	275	   19,790	0.0322	203.4615	fra_news_2009_00416017
+1380	Ce n'est pas le cas de Saint-André.	Y	saint	275	   19,790	0.0322	217.2222	fra_news_2008_00551902
+1381	Surtout à l'est de la Suisse.	Y	surtout	276	   19,736	0.0321	78.7143	fra_news_2008_00775422
+1382	Surtout la première fois, a-t-il dit.	Y	surtout	276	   19,736	0.0321	87.25	fra_news_2008_00091344
+1383	Mais surtout, est-ce que ça fait beaucoup?	Y	surtout	276	   19,736	0.0321	88.5	fra_news_2009_00513235
+1384	Au public français, mais surtout à lui-même.	Y	surtout	276	   19,736	0.0321	105.75	fra_news_2008_00139881
+1385	Surtout face à une équipe comme Paris.	Y	surtout	276	   19,736	0.0321	110.2857	fra_news_2008_00244000
+1386	Il est temps de s'y mettre.	Y	mettre	277	   19,695	0.032	74.4286	fra_news_2008_00065516
+1387	Cest mettre lhomme quil faut à la place quil faut.	Y	mettre	277	   19,695	0.032	79	fra_news_2010_00666636
+1388	Mais bon, il n'a pas encore eu le temps de tout mettre en place.	Y	mettre	277	   19,695	0.032	80.2	fra_news_2008_00069336
+1389	"""""""Il faut """"""""un petit peu de temps pour mettre tout ça en place"""""""", a-t-il dit."""""""	Y	mettre	277	   19,695	0.032	93.8125	fra_news_2008_00727932
+1390	C´est donc à cette situation qu´il faut mettre fin.	Y	mettre	277	   19,695	0.032	95.5455	fra_news_2010_00231547
+1391	Mais il n'y en a pas que pour les jeunes.	Y	jeunes	278	   19,606	0.0319	47.6364	fra_news_2010_00367536
+1392	Mais il n'y a pas que les jeunes.	Y	jeunes	278	   19,606	0.0319	55.5556	fra_news_2008_00590619
+1393	Parmi le groupe, il est l'un des plus jeunes.	Y	jeunes	278	   19,606	0.0319	88.4	fra_news_2008_00517052
+1394	Au Point E, ce sont des jeunes.	Y	jeunes	278	   19,606	0.0319	94.1429	fra_news_2009_00567441
+1395	L'homme a été alors pris à partie par plusieurs jeunes.	Y	jeunes	278	   19,606	0.0319	108.2727	fra_news_2009_00213628
+1396	Et, cela, ils n'ont pas le droit de le faire.	Y	droit	279	   19,337	0.0314	61.5	fra_news_2008_00673685
+1397	On est pas dans un pays de non-droit.	Y	droit	279	   19,337	0.0314	65.4444	fra_news_2008_00175382
+1398	Mais nous, nous n'avons pas le droit de le faire.	Y	droit	279	   19,337	0.0314	76.5556	fra_news_2009_00498651
+1399	Nous n'avons pas le droit de faire ça.	Y	droit	279	   19,337	0.0314	88.1111	fra_news_2010_00168035
+1400	Mais on surtout droit de le dire!	Y	droit	279	   19,337	0.0314	120.1429	fra_news_2010_00623364
+1401	Est-ce que l'année 08 sera la bonne?	Y	bonne	280	   19,330	0.0314	67.625	fra_news_2008_00221972
+1402	Ce qui compte, c'est que l'équipe est bonne.	Y	bonne	280	   19,330	0.0314	83.1111	fra_news_2010_00165371
+1403	Il faut dire que l'année 2006 a été bonne.	Y	bonne	280	   19,330	0.0314	91.3333	fra_news_2008_00406868
+1404	"""""""""""""""Alors, a c'est une bonne question !"""""""	Y	bonne	280	   19,330	0.0314	100.8571	fra_news_2009_00143852
+1405	La politique du club est la bonne.	Y	bonne	280	   19,330	0.0314	123.1667	fra_news_2009_00802209
+1406	Comme ça tout le monde est en sécurité.	Y	sécurité	281	   19,269	0.0313	79.875	fra_news_2009_00453387
+1407	Il en va de notre sécurité à tous.	Y	sécurité	281	   19,269	0.0313	82.125	fra_news_2008_00415338
+1408	Y a-t-il aujourd'hui plus de sécurité ?	Y	sécurité	281	   19,269	0.0313	90.3333	fra_news_2008_00156617
+1409	Cette fois la mise à jour de sécurité a été mise à jour.	Y	sécurité	281	   19,269	0.0313	91.7	fra_news_2010_00260165
+1410	Pour ce dernier, la sécurité n'est pas son problème.	Y	sécurité	281	   19,269	0.0313	91.9	fra_news_2008_00558911
+1411	Mais, la France n'a pas fait mieux.	Y	mieux	282	   19,131	0.0311	64.125	fra_news_2008_00607559
+1412	"""""""""""""""L'équipe est mieux dans le jeu."""""""	Y	mieux	282	   19,131	0.0311	88.4286	fra_news_2009_00710306
+1413	Trois ans après, cela ne va pas mieux.	Y	mieux	282	   19,131	0.0311	96.375	fra_news_2009_00892586
+1414	Il faut faire mieux que l'an dernier.	Y	mieux	282	   19,131	0.0311	100.5	fra_news_2009_00146992
+1415	"""""""Mieux que rien"""""""", """"""""toujours bon à prendre""""""""."""""""	Y	mieux	282	   19,131	0.0311	156.4286	fra_news_2008_00777802
+1416	Et il n'est pas le seul.	Y	seul	283	   19,098	0.0311	54.4286	fra_news_2009_00427103
+1417	Il n´est pas le seul dans son cas.	Y	seul	283	   19,098	0.0311	62.2222	fra_news_2010_00047019
+1418	Et je suis pas le seul dans ce cas.	Y	seul	283	   19,098	0.0311	84.6667	fra_news_2008_00869675
+1419	C'est beaucoup pour un seul match.	Y	seul	283	   19,098	0.0311	93.7143	fra_news_2010_00633229
+1420	«Le Grand Paris n'aura pas un seul centre.	Y	seul	283	   19,098	0.0311	128.2222	fra_news_2008_00235070
+1421	Mais la police ne peut rien faire.	Y	police	284	   19,062	0.031	97.7143	fra_news_2008_00952261
+1422	Il se porte bien selon la police.	Y	police	284	   19,062	0.031	101	fra_news_2009_00067656
+1423	Rien non plus du côté de la police.	Y	police	284	   19,062	0.031	103.375	fra_news_2008_00421995
+1424	Pas en famille, mais avec la police.	Y	police	284	   19,062	0.031	107.1429	fra_news_2010_00611567
+1425	Pendant ce temps, la police fait son travail.	Y	police	284	   19,062	0.031	113.75	fra_news_2008_00070591
+1426	Ce n'est pas son moment, elle est jeune, elle a le temps.	Y	jeune	285	   19,051	0.031	73.4545	fra_news_2010_00090885
+1427	La saison se fait de moins en moins jeune.	Y	jeune	285	   19,051	0.031	77	fra_news_2008_00835570
+1428	Cest sa deuxième saison mais il est toujours très jeune.	Y	jeune	285	   19,051	0.031	95.8	fra_news_2009_00650506
+1429	La plus jeune était plus près du 9 $.	Y	jeune	285	   19,051	0.031	99	fra_news_2008_00294841
+1430	Je suis jeune, j'ai le temps.	Y	jeune	285	   19,051	0.031	122.7143	fra_news_2009_00025119
+1431	Et les enfants plus que d´autres.	Y	enfants	286	   19,029	0.0309	62.7143	fra_news_2009_00670154
+1432	Même si elle n'a pas d'enfants.	Y	enfants	286	   19,029	0.0309	65.625	fra_news_2008_00738278
+1433	Il a aujourd'hui 38 ans, et deux enfants.	Y	enfants	286	   19,029	0.0309	93.625	fra_news_2009_00696274
+1434	Ces enfants avaient moins de trois ans.	Y	enfants	286	   19,029	0.0309	111.7143	fra_news_2010_00200236
+1435	Les enfants, c'est un peu mon public.	Y	enfants	286	   19,029	0.0309	123.5	fra_news_2008_00133100
+1436	Cest en France, et en France on est très bien.	Y	cest	287	   18,974	0.0309	71.125	fra_news_2009_00099699
+1437	Et cest ainsi depuis au moins trois années.	Y	cest	287	   18,974	0.0309	104.625	fra_news_2009_00865053
+1438	En même temps, cest pas mieux par chez nous.	Y	cest	287	   18,974	0.0309	111.4444	fra_news_2009_00699055
+1439	Cest comme ça un point cest tout.	Y	cest	287	   18,974	0.0309	125.5	fra_news_2009_00558454
+1440	Pour lui, cest surtout la victoire des joueurs.	Y	cest	287	   18,974	0.0309	148.5	fra_news_2009_00737062
+1441	Le but n'est pas pour lui.	Y	but	288	   18,943	0.0308	63.1429	fra_news_2008_00590744
+1442	Et c'était d'ailleurs bien le but.	Y	but	288	   18,943	0.0308	79.25	fra_news_2009_00818155
+1443	Ça va d'un but à l'autre.	Y	but	288	   18,943	0.0308	86.75	fra_news_2009_00264305
+1444	C'est mon premier but en L1.	Y	but	288	   18,943	0.0308	100.8571	fra_news_2009_00512650
+1445	On n'a pas le droit de prendre un but comme on a pris.	Y	but	288	   18,943	0.0308	101.9167	fra_news_2009_00241700
+1446	Et elle s'est fait une raison.	Y	raison	289	   18,890	0.0307	64	fra_news_2010_00180829
+1447	Il n'y a pas de raison, non, il n'y a pas de raison.	Y	raison	289	   18,890	0.0307	72.5	fra_news_2010_00112616
+1448	Il faut bien se faire une raison.	Y	raison	289	   18,890	0.0307	87.4286	fra_news_2010_00180712
+1449	Il a eu raison sur ce point également.	Y	raison	289	   18,890	0.0307	112.125	fra_news_2010_00851824
+1450	Raison de plus, donc, de s'y mettre.	Y	raison	289	   18,890	0.0307	115.5714	fra_news_2010_00097063
+1451	C'est la même loi pour tout le monde.	Y	loi	290	   18,833	0.0306	62.7778	fra_news_2010_00654134
+1452	Mais la loi n'est pas tout.	Y	loi	290	   18,833	0.0306	64	fra_news_2008_00076879
+1453	C'est que la loi du pays, c'est la loi.	Y	loi	290	   18,833	0.0306	65	fra_news_2010_00611279
+1454	Ce que dit la loi n´est pas bon.	Y	loi	290	   18,833	0.0306	83	fra_news_2009_00331281
+1455	Travail du dimanche : une loi pour rien?	Y	loi	290	   18,833	0.0306	129.7143	fra_news_2010_00458236
+1456	Il sera de retour au jeu dans une semaine.	Y	retour	290	   18,833	0.0306	87.2222	fra_news_2009_00021728
+1457	Un an après, ils sont de retour.	Y	retour	290	   18,833	0.0306	92.1429	fra_news_2010_00859587
+1458	Il est aujourd'hui bien de retour.	Y	retour	290	   18,833	0.0306	101.5714	fra_news_2008_00732437
+1459	Mais tout de suite, je suis de retour.	Y	retour	290	   18,833	0.0306	130.1429	fra_news_2009_00311621
+1460	Le match retour a lieu mercredi soir.	Y	retour	290	   18,833	0.0306	149.4286	fra_news_2009_00911580
+1461	C'est très très bien comme journée.	Y	journée	291	   18,785	0.0305	88.5	fra_news_2008_00148091
+1462	C'est une bonne journée pour nous.	Y	journée	291	   18,785	0.0305	100	fra_news_2010_00410384
+1463	Le reste de la journée a lieu dimanche.	Y	journée	291	   18,785	0.0305	113.5	fra_news_2010_00294473
+1464	Ce doit être la bonne nouvelle de la journée.	Y	journée	291	   18,785	0.0305	116.25	fra_news_2010_00614537
+1465	Bonne journée à toutes et à tous.	Y	journée	291	   18,785	0.0305	150.1667	fra_news_2009_00809483
+1466	C´est sans doute ce petit côté américain qu´il a dans la tête.	Y	américain	292	   18,716	0.0304	127.5714	fra_news_2010_00126785
+1467	C'est ce qu'a indiqué un responsable américain.	Y	américain	292	   18,716	0.0304	140	fra_news_2009_00290745
+1468	Le président américain a même annoncé mercredi un objectif.	Y	américain	292	   18,716	0.0304	147.7778	fra_news_2008_00020269
+1469	L'un de mes enfants est américain.	Y	américain	292	   18,716	0.0304	166	fra_news_2010_00663518
+1470	Il est à la fois anglais et américain.	Y	américain	292	   18,716	0.0304	174.5	fra_news_2008_00845160
+1471	Là, il n'en reste plus que six.	Y	six	293	   18,708	0.0304	86.75	fra_news_2010_00979598
+1472	Il a déjà fait six fois le tour du monde.	Y	six	293	   18,708	0.0304	88.9	fra_news_2010_00526053
+1473	Ils sont six à y avoir pris part.	Y	six	293	   18,708	0.0304	117.625	fra_news_2010_00460207
+1474	De notre côté six personnes, du leur quatre.	Y	six	293	   18,708	0.0304	119.625	fra_news_2010_00823954
+1475	Cela pourrait prendre quatre à six mois.	Y	six	293	   18,708	0.0304	156	fra_news_2009_00890601
+1476	Tous les pays du Nord cette EUROPE l'ont fait.	Y	nord	294	   18,616	0.0303	87.4	fra_news_2010_00789953
+1477	Un peu plus dans le sud, un peu moins dans le nord.	Y	nord	294	   18,616	0.0303	97.5	fra_news_2009_00160481
+1478	Nord et Sud ou Sud pour le Nord ?	Y	nord	294	   18,616	0.0303	100.1667	fra_news_2008_00724408
+1479	Qui a dit qu'il ne fait pas beau dans le Nord?	Y	nord	294	   18,616	0.0303	130.0833	fra_news_2009_00686226
+1480	Il est plus haut au Nord quau Sud.	Y	nord	294	   18,616	0.0303	132.125	fra_news_2009_00515954
+1481	Est-ce à l'État de dire ce qui est bien ou pas bien?	Y	état	295	   18,484	0.0301	64.6364	fra_news_2008_00477381
+1482	Il est toujours dans le même état.	Y	état	295	   18,484	0.0301	74.4286	fra_news_2009_00812997
+1483	Il a été le premier à faire état de cette histoire.	Y	état	295	   18,484	0.0301	78.3636	fra_news_2010_00619130
+1484	Il reste un État dans l'État.	Y	état	295	   18,484	0.0301	84	fra_news_2008_00450156
+1485	"""""""En tout état de cause, on n'est pas dans le cadre d'un festival qui a """"""""son"""""""" public bien à lui."""""""	Y	état	295	   18,484	0.0301	118.1818	fra_news_2009_00314332
+1486	En un an, la hausse est de près de 50%.	Y	hausse	296	   18,478	0.03	91.25	fra_news_2008_00859632
+1487	Soit une hausse de 40 % en quatre ans.	Y	hausse	296	   18,478	0.03	93	fra_news_2010_00325735
+1488	Peut-être jusqu'à 140 millions de hausse.	Y	hausse	296	   18,478	0.03	97.5714	fra_news_2008_00966651
+1489	Soit, tout de même, une hausse de 46% en six ans !	Y	hausse	296	   18,478	0.03	100.3333	fra_news_2008_00630200
+1490	Qu'est-ce qui explique cette hausse ?	Y	hausse	296	   18,478	0.03	106.8571	fra_news_2008_00141788
+1491	Et une mise à jour de plus !	Y	mise	297	   18,473	0.03	70.8571	fra_news_2008_00957761
+1492	Cette équipe s'est mise au travail dans la semaine.	Y	mise	297	   18,473	0.03	92.5	fra_news_2010_00129944
+1493	C'est un des jeux a avoir eu le plus de mise-à-jour.	Y	mise	297	   18,473	0.03	95.6429	fra_news_2009_00433528
+1494	"""""""""""""""S'il faut pour cela que la direction soit mise en cause, alors qu'elle le soit."""""""	Y	mise	297	   18,473	0.03	106.9375	fra_news_2008_00843008
+1495	"""""""Ils sont à la fois le joueur et la mise""""""""."""""""	Y	mise	297	   18,473	0.03	108.4444	fra_news_2008_00206944
+1496	Sur ce plan, ce n'est même pas un match.	Y	plan	298	   18,426	0.03	68.5556	fra_news_2009_00157184
+1497	Pour le gouvernement, ce plan serait un premier pas.	Y	plan	298	   18,426	0.03	89.1111	fra_news_2008_00965476
+1498	D'ailleurs ce plan était fait pour ça.	Y	plan	298	   18,426	0.03	94.625	fra_news_2010_00469428
+1499	Il a un bon plan de match.	Y	plan	298	   18,426	0.03	102	fra_news_2008_00011670
+1500	Ce plan pourrait être annoncé lundi ou mardi.	Y	plan	298	   18,426	0.03	147.25	fra_news_2008_00515129
+1501	Mais ce ne sera pas pour cette fois-ci.	Y	ci	299	   18,410	0.0299	72.5556	fra_news_2008_00285702
+1502	À ce moment-ci, on nest pas là on nest pas là.	Y	ci	299	   18,410	0.0299	90.7778	fra_news_2009_00175587
+1503	Il est quand même beaucoup question d'elle ces jours-ci.	Y	ci	299	   18,410	0.0299	110.7273	fra_news_2008_00899277
+1504	Cette fois-ci pourrait être la bonne.	Y	ci	299	   18,410	0.0299	135.2857	fra_news_2009_00907778
+1505	Celle-ci n'aurait jamais eu lieu.	Y	ci	299	   18,410	0.0299	210.7143	fra_news_2008_00322796
+1506	On ne fait pas toujours ce que l'on veut.	Y	veut	300	   18,333	0.0298	67	fra_news_2009_00019116
+1507	Ce qui ne veut pas dire qu'il peut faire ce qu'il veut.	Y	veut	300	   18,333	0.0298	80.8	fra_news_2008_00203100
+1508	Mais le politique ne le veut pas.	Y	veut	300	   18,333	0.0298	91.3333	fra_news_2008_00784718
+1509	C'est le marché qui veut ça!	Y	veut	300	   18,333	0.0298	100.1429	fra_news_2009_00262278
+1510	Cette année, le club veut un titre.	Y	veut	300	   18,333	0.0298	137	fra_news_2008_00270326
+1511	"""""""Mais à ce stade, il n'y a pas de projet"""""""", a ajouté le directeur général."""""""	Y	directeur	301	   18,311	0.0298	127.4	fra_news_2010_00592753
+1512	"""""""""""""""Au début, c'était difficile d'être la femme du directeur."""""""	Y	directeur	301	   18,311	0.0298	140.7273	fra_news_2008_00509853
+1513	Il a en effet été directeur général de France 3 pendant sept ans.	Y	directeur	301	   18,311	0.0298	141.5	fra_news_2010_00679038
+1514	Mais dans l'ensemble, c'était une bonne décision», a indiqué le directeur général.	Y	directeur	301	   18,311	0.0298	145.5714	fra_news_2010_00881350
+1515	Le directeur général de la Ville n&rsquo;y a pas vu tant de mal.	Y	directeur	301	   18,311	0.0298	147.4286	fra_news_2010_00095905
+1516	En équipe nationale aussi, tout va bien.	Y	nationale	302	   18,271	0.0297	106.2857	fra_news_2009_00770718
+1517	Leur objectif est davoir au moins un joueur au sein de léquipe nationale dans deux ans.	Y	nationale	302	   18,271	0.0297	134.7059	fra_news_2010_00554191
+1518	Dans trois, quatre, cinq ou dix ans peut-être, on aura une très bonne équipe nationale .	Y	nationale	302	   18,271	0.0297	139.625	fra_news_2008_00795225
+1519	J'ai toujours beaucoup donné, que ce soit par rapport à mon club ou à l'équipe nationale.	Y	nationale	302	   18,271	0.0297	143.4706	fra_news_2008_00664819
+1520	Même les anglais, ils en ont qu'une d'équipe nationale, non?	Y	nationale	302	   18,271	0.0297	145	fra_news_2010_00162048
+1521	Et puis il y en a d'autres.	Y	puis	303	   18,260	0.0297	65.5	fra_news_2010_00033375
+1522	Un puis un, au lieu de deux en même temps.	Y	puis	303	   18,260	0.0297	88.3333	fra_news_2008_00012086
+1523	Un dernier Tour et puis s'en va.	Y	puis	303	   18,260	0.0297	96.375	fra_news_2010_00409648
+1524	Un jour pour, un jour contre, puis à nouveau pour.	Y	puis	303	   18,260	0.0297	96.4286	fra_news_2008_00988305
+1525	Et puis il n´y aura rien.	Y	puis	303	   18,260	0.0297	127.4286	fra_news_2009_00335343
+1526	Mais l'ancien n'est pas parti.	Y	ancien	304	   18,173	0.0295	93.7143	fra_news_2008_00657959
+1527	En fait, il est un petit peu plus ancien.	Y	ancien	304	   18,173	0.0295	96.2222	fra_news_2008_00596727
+1528	Mais les affaires de l'ancien ministre ne vont pas très fort, ces dernières années.	Y	ancien	304	   18,173	0.0295	162.2	fra_news_2010_00018316
+1529	"""""""C'est un pas dans la bonne voie"""""""", a estimé l'ancien premier ministre."""""""	Y	ancien	304	   18,173	0.0295	180.2143	fra_news_2008_00642705
+1530	L'ancien ministre de la Défense a été arrêté par le nouveau pouvoir en place.	Y	ancien	304	   18,173	0.0295	181.0667	fra_news_2010_00936800
+1531	Qu'est-ce que j'ai dit en mars?	Y	mars	305	   18,025	0.0293	79.5556	fra_news_2009_00898301
+1532	En tout cas d'ici fin mars 2007.	Y	mars	305	   18,025	0.0293	122.7143	fra_news_2008_00636035
+1533	Mars ou Avril, la n'est pas le problème!	Y	mars	305	   18,025	0.0293	133.3333	fra_news_2008_00529864
+1534	Il est au plus bas depuis mars 2006.	Y	mars	305	   18,025	0.0293	133.7143	fra_news_2010_00672206
+1535	Cela aurait pu être le cas dès la fin de mars.	Y	mars	305	   18,025	0.0293	138.5455	fra_news_2009_00991786
+1536	Chez nous, il faudra attendre encore un peu afin de savoir ce qu'il en est.	Y	afin	306	   17,795	0.0289	194.8667	fra_news_2010_00634635
+1537	Je suis là aussi pour discuter avec lui, afin qu'il soit bien dans sa tête.	Y	afin	306	   17,795	0.0289	225.8125	fra_news_2008_00582711
+1538	Une rencontre est prévue aujourd'hui avec la direction et les employés afin de faire le point.	Y	afin	306	   17,795	0.0289	230.4118	fra_news_2009_00507294
+1539	Afin de donner l'exemple, cette nouvelle taxe sera mise en place dès 2006 en France, a-t-il annoncé.	Y	afin	306	   17,795	0.0289	236.9444	fra_news_2008_00710691
+1540	J'ai dû lui dire d'aller au fond des choses afin de donner le meilleur de lui-même.	Y	afin	306	   17,795	0.0289	240.3529	fra_news_2009_00883390
+1541	Je lai vu ce matin (hier) et il va bien.	Y	matin	307	   17,729	0.0288	114.1818	fra_news_2010_00119397
+1542	Et, ce matin, je le suis tout autant.	Y	matin	307	   17,729	0.0288	120.5	fra_news_2008_00017944
+1543	Hier matin, il était déjà de retour chez lui.	Y	matin	307	   17,729	0.0288	140.2222	fra_news_2009_00081176
+1544	"""""""C'est du moins ce qu'avance """"""""Le Matin Dimanche""""""""."""""""	Y	matin	307	   17,729	0.0288	140.3	fra_news_2009_00328523
+1545	Ce matin, nous avons encore fait une heure.	Y	matin	307	   17,729	0.0288	142	fra_news_2009_00167935
+1546	D'autant qu'elle n'est pas la première.	Y	autant	308	   17,667	0.0287	64.4444	fra_news_2008_00575890
+1547	Autant dire que ce n'est pas pour tout de suite.	Y	autant	308	   17,667	0.0287	88	fra_news_2010_00248963
+1548	Elle n'en veut pas pour autant.	Y	autant	308	   17,667	0.0287	104.8571	fra_news_2009_00445890
+1549	Autant dire que rien n'est fait.	Y	autant	308	   17,667	0.0287	116.1429	fra_news_2008_00367758
+1550	Autant, dès lors, s'y prendre à temps !	Y	autant	308	   17,667	0.0287	142.375	fra_news_2008_00419680
+1551	On a fait tout ce quon a pu.	Y	pu	309	   17,608	0.0286	73.8571	fra_news_2010_00030556
+1552	Non, ils ont fait ce qu'ils ont pu.	Y	pu	309	   17,608	0.0286	90	fra_news_2009_00813394
+1553	On aurait pu faire Un et Trois.	Y	pu	309	   17,608	0.0286	104.4286	fra_news_2008_00426389
+1554	La crise a pu avoir un effet.	Y	pu	309	   17,608	0.0286	124.4286	fra_news_2010_00737192
+1555	Il aurait pu le faire tout seul.	Y	pu	309	   17,608	0.0286	135.2857	fra_news_2010_00130305
+1556	Cest lhistoire dune équipe pas comme les autres.	Y	histoire	310	   17,518	0.0285	63.5455	fra_news_2009_00869918
+1557	Tout ça, c'est de l'histoire.	Y	histoire	310	   17,518	0.0285	80.2857	fra_news_2008_00324773
+1558	Mais ça, c'est une autre histoire.	Y	histoire	310	   17,518	0.0285	95.7143	fra_news_2009_00022547
+1559	Car son histoire fait le tour du monde.	Y	histoire	310	   17,518	0.0285	107.625	fra_news_2009_00778824
+1560	Mais là encore, cest une autre histoire.	Y	histoire	310	   17,518	0.0285	141.2857	fra_news_2008_00043363
+1561	Et il l'a dit en français seulement.	Y	seulement	311	   17,496	0.0284	74.5	fra_news_2008_00862021
+1562	Et c'est seulement ce qu'on veut bien nous dire!	Y	seulement	311	   17,496	0.0284	98.7273	fra_news_2008_00104084
+1563	"""""""""""""""Du coup, elle en a seulement quatre."""""""	Y	seulement	311	   17,496	0.0284	112.5714	fra_news_2010_00502960
+1564	Il faut des jeunes mais pas seulement.	Y	seulement	311	   17,496	0.0284	115.4286	fra_news_2008_00699945
+1565	Pas seulement de deux ou quatre joueurs.	Y	seulement	311	   17,496	0.0284	120.2857	fra_news_2010_00113757
+1566	Encore une fois c'est pour la troisième place que tout reste à faire.	Y	troisième	312	   17,487	0.0284	70.5714	fra_news_2010_00996107
+1567	Sur ce qu'il a fait de mieux, il peut prendre la troisième place.	Y	troisième	312	   17,487	0.0284	93	fra_news_2010_00586038
+1568	J'ai pris une troisième place dans le premier.	Y	troisième	312	   17,487	0.0284	109.2222	fra_news_2008_00649294
+1569	Pour la troisième fois en quatre ans seulement.	Y	troisième	312	   17,487	0.0284	119.5	fra_news_2009_00036338
+1570	Puis, c'était le tour du troisième.	Y	troisième	312	   17,487	0.0284	134.1429	fra_news_2010_00286848
+1571	Pour la Coupe du monde, l'équipe de France ne fait pas comme tout le monde.	Y	coupe	313	   17,412	0.0283	57.7333	fra_news_2010_00786902
+1572	C'est aussi la Coupe de France.	Y	coupe	313	   17,412	0.0283	73	fra_news_2008_00276109
+1573	Et c'est la coupe qui compte.	Y	coupe	313	   17,412	0.0283	86.4286	fra_news_2009_00669419
+1574	Mais la Coupe du monde est une autre histoire.	Y	coupe	313	   17,412	0.0283	101.1111	fra_news_2010_00983530
+1575	Première finale et première victoire en Coupe du monde.	Y	coupe	313	   17,412	0.0283	131.875	fra_news_2010_00520694
+1576	"""""""Toutefois à la fin, elle a dit: c'est bien""""""""."""""""	Y	toutefois	314	   17,406	0.0283	71.5	fra_news_2008_00447075
+1577	Toutefois, ce n'est pas le cas.	Y	toutefois	314	   17,406	0.0283	78.8571	fra_news_2009_00821223
+1578	Ce n'est toutefois qu'un début.	Y	toutefois	314	   17,406	0.0283	87.1429	fra_news_2009_00064753
+1579	Le projet de loi na toutefois toujours pas été annoncé.	Y	toutefois	314	   17,406	0.0283	112.6364	fra_news_2010_00255978
+1580	Il aurait pris toutefois quatre jours de plus.	Y	toutefois	314	   17,406	0.0283	139.625	fra_news_2009_00363248
+1581	«Ce n'est pas comme un film.	Y	film	315	   17,366	0.0282	67.2857	fra_news_2008_00783425
+1582	Mais ce film est en même temps beaucoup plus que cela.	Y	film	315	   17,366	0.0282	79.1818	fra_news_2008_00962649
+1583	Ce film n'a donc rien à voir avec le premier.	Y	film	315	   17,366	0.0282	93.0909	fra_news_2008_00185035
+1584	C'est mon film de l'année!	Y	film	315	   17,366	0.0282	108.1429	fra_news_2008_00273405
+1585	J'ai été voir le film hier soir.	Y	film	315	   17,366	0.0282	150.25	fra_news_2008_00092475
+1586	Et qu'en est-il de votre offre de services ?	Y	services	316	   17,323	0.0282	132.4444	fra_news_2008_00016264
+1587	C'est ce qu'a indiqué mardi un responsable des services de sécurité.	Y	services	316	   17,323	0.0282	134.1538	fra_news_2010_00322071
+1588	A partir de-là, cest à ces services de faire ce travail-là.	Y	services	316	   17,323	0.0282	136.3636	fra_news_2010_00958990
+1589	Tous ces services ont toutefois un prix.	Y	services	316	   17,323	0.0282	138	fra_news_2008_00750453
+1590	Comme cela était au temps où la petite ville était un lieu tous services.	Y	services	316	   17,323	0.0282	143.7692	fra_news_2008_00742363
+1591	Y'en a qui en on vu plus que d'autre.	Y	vu	317	   17,322	0.0282	64.2	fra_news_2008_00694645
+1592	A la Coupe du monde, je n'en ai pas vu.	Y	vu	317	   17,322	0.0282	88.6364	fra_news_2010_00477900
+1593	Mais bon, on en a vu d'autre !	Y	vu	317	   17,322	0.0282	96.5	fra_news_2008_00223474
+1594	Cette dernière n'a jamais vu le jour.	Y	vu	317	   17,322	0.0282	117.625	fra_news_2008_00694896
+1595	Jamais ils n'avaient vu autant de monde.	Y	vu	317	   17,322	0.0282	151.25	fra_news_2009_00680909
+1596	Après tout, cest tout ce quon lui demande.	Y	demande	318	   17,223	0.028	71.3333	fra_news_2009_00816453
+1597	"""""""Ce n'est pas ce qu'on me demande !"""""""""""""""	Y	demande	318	   17,223	0.028	76.75	fra_news_2008_00106845
+1598	Elle nous demande ce qu´elle peut faire.	Y	demande	318	   17,223	0.028	87.8571	fra_news_2009_00394084
+1599	"""""""""""""""Nous n'avons pas fait la demande."""""""	Y	demande	318	   17,223	0.028	96.5714	fra_news_2008_00086935
+1600	"""""""""""""""Je l'ai vu à sa demande."""""""	Y	demande	318	   17,223	0.028	121.4286	fra_news_2008_00654571
+1601	Ils ont tout le mois de janvier».	Y	janvier	319	   17,200	0.028	80.5714	fra_news_2009_00383689
+1602	Il avait pris la tête du groupe en janvier 2005.	Y	janvier	319	   17,200	0.028	110	fra_news_2008_00847433
+1603	Selon lui, elle devrait en faire autant en janvier.	Y	janvier	319	   17,200	0.028	131.375	fra_news_2009_00207098
+1604	Elle a lieu chaque année le troisième lundi du mois de janvier.	Y	janvier	319	   17,200	0.028	133.3333	fra_news_2010_00125562
+1605	Fin janvier journée nationale, 19 Mars journée nationale.	Y	janvier	319	   17,200	0.028	265.6	fra_news_2009_00008443
+1606	Mais qu'est-ce qui l'explique?	Y	explique	320	   17,149	0.0279	64.7143	fra_news_2008_00914126
+1607	Ce n'est pas le cas explique-t-il.	Y	explique	320	   17,149	0.0279	72.2222	fra_news_2010_00771014
+1608	Mais le prix n'explique pas tout.	Y	explique	320	   17,149	0.0279	86.4286	fra_news_2008_00682627
+1609	Il explique ce qu'il faut faire.	Y	explique	320	   17,149	0.0279	99	fra_news_2008_00573670
+1610	La police est au travail explique son chef.	Y	explique	320	   17,149	0.0279	135.25	fra_news_2010_00745138
+1611	Qu'a fait la Région, et que peut-elle faire de plus et de mieux?	Y	région	321	   17,121	0.0278	72.6154	fra_news_2010_00999546
+1612	Notre région est comme cela et c´est très bien.	Y	région	321	   17,121	0.0278	90.6667	fra_news_2009_00566542
+1613	En région, on le fait plus qu'à Montréal.	Y	région	321	   17,121	0.0278	106.4444	fra_news_2008_00867835
+1614	Les deux hommes ont fait le point sur la situation dans la région.	Y	région	321	   17,121	0.0278	108.5833	fra_news_2008_00156566
+1615	Mais notre Région est déjà la première Région d'Europe !	Y	région	321	   17,121	0.0278	110.4444	fra_news_2010_00430027
+1616	Il n'en a toujours pas, a-t-il indiqué.	Y	indiqué	322	   17,064	0.0277	75.625	fra_news_2008_00088857
+1617	"""""""Je n'ai aucun problème dans la vie de tous les jours"""""""", a-t-il indiqué."""""""	Y	indiqué	322	   17,064	0.0277	114.6875	fra_news_2008_00070144
+1618	"""""""On ne fait pas ça au nom d'une seule personne"""""""", a indiqué le chef de l'Etat à la presse."""""""	Y	indiqué	322	   17,064	0.0277	124.7143	fra_news_2008_00852061
+1619	"""""""Il s'agit d'un choix politique pour le gouvernement"""""""", a indiqué le ministre."""""""	Y	indiqué	322	   17,064	0.0277	130.0769	fra_news_2010_00817375
+1620	Ils ont indiqué qu'elle était en bonne santé.	Y	indiqué	322	   17,064	0.0277	132.5556	fra_news_2009_00784447
+1621	Il y en a déjà plus de 150 en service en France.	Y	service	323	   16,987	0.0276	72.7778	fra_news_2009_00316388
+1622	Il aura en tout cas toute une équipe à son service.	Y	service	323	   16,987	0.0276	106.9091	fra_news_2008_00912189
+1623	Y'a pas à dire c'était mieux au temps du service public.	Y	service	323	   16,987	0.0276	110.3846	fra_news_2009_00888540
+1624	Cest une question de service», explique-t-elle.	Y	service	323	   16,987	0.0276	121	fra_news_2010_00516399
+1625	"""""""""""""""En 30 ans de service, je n'ai jamais vu autant de cas."""""""	Y	service	323	   16,987	0.0276	141.8182	fra_news_2009_00898689
+1626	Parce qu'il n'a pas le temps.	Y	parce	324	   16,957	0.0276	68.625	fra_news_2008_00679294
+1627	Parce qu'il faut l'être et que je le suis.	Y	parce	324	   16,957	0.0276	77.9091	fra_news_2009_00297548
+1628	Parce que là, le compte n'y est pas.	Y	parce	324	   16,957	0.0276	93.7778	fra_news_2008_00448408
+1629	Est-ce parce que c'est le deuxième soir?	Y	parce	324	   16,957	0.0276	100.125	fra_news_2008_00497393
+1630	Parce que ça ne veut rien dire.	Y	parce	324	   16,957	0.0276	172	fra_news_2008_00192044
+1631	Il n'y avait plus que des hommes».	Y	hommes	325	   16,929	0.0275	70.375	fra_news_2008_00277604
+1632	En 1989, rien ne va plus entre les deux hommes.	Y	hommes	325	   16,929	0.0275	90.4444	fra_news_2008_00918651
+1633	Mais les hommes de tête l'ont pris.	Y	hommes	325	   16,929	0.0275	108.75	fra_news_2008_00228689
+1634	Au moins trois hommes y ont pris part.	Y	hommes	325	   16,929	0.0275	129	fra_news_2010_00003433
+1635	Puis les hommes en général, dès 40 ans.	Y	hommes	325	   16,929	0.0275	174.2857	fra_news_2008_00522538
+1636	Le prochain match, ce sera peut être deux autres.	Y	prochain	326	   16,762	0.0273	93.8889	fra_news_2008_00895185
+1637	"""""""On se demande qui sera le prochain""""""""."""""""	Y	prochain	326	   16,762	0.0273	117.1429	fra_news_2009_00330851
+1638	Y en aura-t-il 900 l'an prochain?	Y	prochain	326	   16,762	0.0273	121.375	fra_news_2008_00688759
+1639	Celui-ci aura lieu soit à la fin de lannée, soit lan prochain.	Y	prochain	326	   16,762	0.0273	145.5385	fra_news_2010_00166731
+1640	Le président devrait nous le dire le 8 juin prochain.	Y	prochain	326	   16,762	0.0273	159.1429	fra_news_2009_00542523
+1641	N'est-ce pas un mal pour un bien.	Y	mal	327	   16,684	0.0271	64.125	fra_news_2009_00189046
+1642	« Cest un mal pour un bien.	Y	mal	327	   16,684	0.0271	79	fra_news_2009_00455328
+1643	Un point, ce n'est déjà pas si mal.	Y	mal	327	   16,684	0.0271	90.5556	fra_news_2008_00652136
+1644	Mais Paris a eu encore une fois du mal.	Y	mal	327	   16,684	0.0271	106.1111	fra_news_2009_00273856
+1645	Après cinq ans, ça fait trop mal».	Y	mal	327	   16,684	0.0271	154.4286	fra_news_2008_00179836
+1646	Dans cinq jours, c'est le 21 juillet.	Y	juillet	328	   16,540	0.0269	111	fra_news_2008_00395907
+1647	Le dernier a eu lieu en juillet 2007.	Y	juillet	328	   16,540	0.0269	127.7143	fra_news_2008_00624740
+1648	Celui-ci a depuis été mis en place le 20 juillet.	Y	juillet	328	   16,540	0.0269	130.3	fra_news_2008_00400520
+1649	Elle sera mise en place en juillet.	Y	juillet	328	   16,540	0.0269	146.8333	fra_news_2009_00499741
+1650	Ça peut être en juin, ça peut être en juillet».	Y	juillet	328	   16,540	0.0269	147.5	fra_news_2009_00436232
+1651	Peut-être ce qu'il s'est passé à la CE ?	Y	passé	329	   16,534	0.0269	59.3	fra_news_2008_00326377
+1652	Alors qu'est-ce qui s'est passé ?	Y	passé	329	   16,534	0.0269	77.1429	fra_news_2008_00264944
+1653	Après tout, lui aussi est déjà passé par là.	Y	passé	329	   16,534	0.0269	94.5556	fra_news_2010_00656462
+1654	Depuis le début tout c'est passé pour le mieux.	Y	passé	329	   16,534	0.0269	108.6667	fra_news_2009_00848763
+1655	J'ai passé un bon moment, point.	Y	passé	329	   16,534	0.0269	176.4286	fra_news_2008_00819903
+1656	C'est-à-dire, au mois de septembre 2004!	Y	septembre	330	   16,517	0.0269	90.125	fra_news_2008_00029496
+1657	"""""""Ils ont pas eu tout le monde le 11 septembre""""""""."""""""	Y	septembre	330	   16,517	0.0269	99.125	fra_news_2008_00681711
+1658	Elle devrait être pour septembre 2010 si tout va bien.	Y	septembre	330	   16,517	0.0269	101.6667	fra_news_2010_00398711
+1659	Pas encore un autre film sur le 11 septembre!	Y	septembre	330	   16,517	0.0269	112.875	fra_news_2008_00602192
+1660	Ça s'est passé le 17 septembre dernier.	Y	septembre	330	   16,517	0.0269	133.4286	fra_news_2009_00564563
+1661	à la fin du mois de mai.	Y	mai	331	   16,475	0.0268	80.4286	fra_news_2009_00817051
+1662	Il y en aura ensuite d´autres au mois de mai.	Y	mai	331	   16,475	0.0268	118.7273	fra_news_2010_00360989
+1663	Il a enfin vu le jour en mai dernier.	Y	mai	331	   16,475	0.0268	142.1111	fra_news_2010_00440411
+1664	"""""""Ce ne sera """""""" sans doute pas avant mai """"""""."""""""	Y	mai	331	   16,475	0.0268	143.5	fra_news_2010_00308504
+1665	"""""""J'espère qu'il sera là au mois de mai"""""""", a-t-il dit."""""""	Y	mai	331	   16,475	0.0268	144	fra_news_2009_00125956
+1666	Il n'y a pas d'accord à 100 %.	Y	accord	332	   16,281	0.0265	63.75	fra_news_2008_00568142
+1667	Mais tous ne sont pas d'accord sur ce dernier point.	Y	accord	332	   16,281	0.0265	83	fra_news_2008_00027225
+1668	Tout le monde doit être d´accord.	Y	accord	332	   16,281	0.0265	97.8571	fra_news_2010_00873771
+1669	A point pour mettre tout le monde d'accord?	Y	accord	332	   16,281	0.0265	111.7778	fra_news_2008_00336772
+1670	Un accord pourrait être annoncé le mois prochain.	Y	accord	332	   16,281	0.0265	154	fra_news_2010_00558956
+1671	Mais ça m'a fait quelque chose tout de même.	Y	quelque	333	   16,248	0.0264	112.9	fra_news_2010_00447571
+1672	C'est à lui de faire quelque chose.	Y	quelque	333	   16,248	0.0264	113.125	fra_news_2008_00197891
+1673	Et là, je me suis dit qu'il y avait quelque chose à faire.	Y	quelque	333	   16,248	0.0264	115.7857	fra_news_2009_00164047
+1674	"""""""""""""""A ce point-là, qui en a encore quelque chose à faire?"""""""""""""""	Y	quelque	333	   16,248	0.0264	116.9091	fra_news_2008_00516197
+1675	La France a-t-elle déjà fait quelque chose?	Y	quelque	333	   16,248	0.0264	120.5556	fra_news_2008_00515368
+1676	Mais le gouvernement ne semble pas être sur la même ligne.	Y	ligne	334	   16,212	0.0264	95.4545	fra_news_2008_00719162
+1677	"""""""""""""""On ne peut pas être au gouvernement et en opposition avec la ligne du  gouvernement"""""""", dit-il."""""""	Y	ligne	334	   16,212	0.0264	97.875	fra_news_2009_00512483
+1678	"""""""Nous sommes en première ligne pour la première fois de la saison""""""""."""""""	Y	ligne	334	   16,212	0.0264	112.9	fra_news_2010_00457352
+1679	Le projet a été un succès sur toute la ligne.	Y	ligne	334	   16,212	0.0264	117	fra_news_2009_00633877
+1680	«C´est un succès sur toute la ligne.	Y	ligne	334	   16,212	0.0264	124.25	fra_news_2010_00044582
+1681	On n'avait pas le bon système de son.	Y	système	335	   16,203	0.0263	83.5556	fra_news_2009_00377780
+1682	C'est pour eux que le système est ainsi fait.	Y	système	335	   16,203	0.0263	91.7778	fra_news_2008_00729003
+1683	"""""""Alors, pour elles, je reste dans le système""""""""."""""""	Y	système	335	   16,203	0.0263	110.25	fra_news_2010_00281510
+1684	Ils ont mis en place leur système au début 2010.	Y	système	335	   16,203	0.0263	115.2222	fra_news_2010_00725328
+1685	"""""""Selon lui, """"""""le système est mis à mal""""""""."""""""	Y	système	335	   16,203	0.0263	132.375	fra_news_2010_00981740
+1686	Il n'y en a pas de petit.	Y	petit	336	   16,194	0.0263	63.625	fra_news_2008_00200368
+1687	C'est 'un petit pas pour UN homme'.	Y	petit	336	   16,194	0.0263	95.2857	fra_news_2009_00548835
+1688	Depuis que je suis petit, c'est comme ça».	Y	petit	336	   16,194	0.0263	102.3333	fra_news_2009_00855041
+1689	Je suis un petit nouveau en Coupe du monde.	Y	petit	336	   16,194	0.0263	129.2222	fra_news_2008_00829107
+1690	Au petit matin, le mal est fait.	Y	petit	336	   16,194	0.0263	150.8571	fra_news_2009_00510377
+1691	Peut-être, mais de plus en plus malgré elle, semble-t-il.	Y	malgré	337	   16,192	0.0263	96	fra_news_2010_00528065
+1692	Que peuvent faire, malgré tout, le président et le gouvernement ?	Y	malgré	337	   16,192	0.0263	119.3333	fra_news_2008_00413456
+1693	Malgré tout à Paris, le secteur se porte très bien.	Y	malgré	337	   16,192	0.0263	130.9	fra_news_2008_00519982
+1694	Ce sera donc sans eux ou malgré eux.	Y	malgré	337	   16,192	0.0263	132.8571	fra_news_2009_00499275
+1695	Malgré tout, le film n'était pas si mal.	Y	malgré	337	   16,192	0.0263	135	fra_news_2008_00673408
+1696	C'est le président qui a pris sa décision.	Y	décision	338	   16,057	0.0261	87.8889	fra_news_2010_00772946
+1697	Ce n'est pas une décision que j'ai eu à prendre.	Y	décision	338	   16,057	0.0261	94.3333	fra_news_2008_00823934
+1698	On a le temps pour prendre cette décision.	Y	décision	338	   16,057	0.0261	100.125	fra_news_2008_00189808
+1699	Est-ce, selon vous, la bonne décision ?	Y	décision	338	   16,057	0.0261	113.7143	fra_news_2008_00929892
+1700	Tous les jeunes ont à prendre cette décision.	Y	décision	338	   16,057	0.0261	130.5	fra_news_2010_00673757
+1701	"""""""Elle en avait fait l'annonce sur le site Internet du """"""""Monde""""""""."""""""	Y	internet	339	   16,053	0.0261	106	fra_news_2010_00340704
+1702	Une scène qui a fait le tour du monde sur internet.	Y	internet	339	   16,053	0.0261	121.8182	fra_news_2010_00567651
+1703	Internet n'est qu'une partie du problème.	Y	internet	339	   16,053	0.0261	127.125	fra_news_2008_00152040
+1704	Un nouveau site internet devrait être mis en ligne dans deux mois.	Y	internet	339	   16,053	0.0261	142.3333	fra_news_2010_00947915
+1705	Internet est donc bien passé par là.	Y	internet	339	   16,053	0.0261	146.1429	fra_news_2010_00375178
+1706	En fait, il n'est ni l'un ni l'autre.	Y	ni	340	   16,036	0.0261	66	fra_news_2008_00184363
+1707	Il n'a fait ni l'un ni l'autre.	Y	ni	340	   16,036	0.0261	72.875	fra_news_2008_00265814
+1708	Je n'ai vu ni le un, ni le deux.	Y	ni	340	   16,036	0.0261	114	fra_news_2010_00992637
+1709	Ce n'est ni le but, ni le cas.	Y	ni	340	   16,036	0.0261	120.4286	fra_news_2010_00560493
+1710	Un bon film, ni plus ni moins.	Y	ni	340	   16,036	0.0261	171.3333	fra_news_2008_00479222
+1711	Du nouveau pour le secteur de la santé.	Y	secteur	341	   16,014	0.026	106.5	fra_news_2010_00822612
+1712	"""""""""""""""Nous ne sommes pas dans le même secteur."""""""	Y	secteur	341	   16,014	0.026	110.375	fra_news_2008_00879023
+1713	C'est une équipe qui a des moyens dans ce secteur.	Y	secteur	341	   16,014	0.026	116.3636	fra_news_2008_00760607
+1714	Le groupe fait mieux que le secteur.	Y	secteur	341	   16,014	0.026	132.8333	fra_news_2009_00355044
+1715	Aujourd'hui, le secteur est en crise.	Y	secteur	341	   16,014	0.026	135.4286	fra_news_2008_00855991
+1716	"""""""Ce sont les gens qui le sont pour nous""""""""."""""""	Y	gens	342	   15,982	0.026	61.5	fra_news_2010_00899229
+1717	Mais les gens le sont encore plus !	Y	gens	342	   15,982	0.026	75.8571	fra_news_2008_00069544
+1718	«La première fois, c'était tout nouveau pour les gens.	Y	gens	342	   15,982	0.026	86.1	fra_news_2010_00255568
+1719	C'est le cas de beaucoup de gens.	Y	gens	342	   15,982	0.026	99.4286	fra_news_2010_00215178
+1720	Les gens de Québec n'ont encore rien vu.	Y	gens	342	   15,982	0.026	138	fra_news_2009_00683141
+1721	Et puis une baisse de 20%, c'est pas si mal.	Y	baisse	343	   15,906	0.0259	113.5	fra_news_2009_00113581
+1722	Enfin, si du coup il avait pour lui le prix en baisse, mais bon.	Y	baisse	343	   15,906	0.0259	114.2857	fra_news_2009_00529574
+1723	A la hausse comme à la baisse.	Y	baisse	343	   15,906	0.0259	117.6667	fra_news_2010_00066955
+1724	C'est un moment difficile, mais on ne baisse pas la tête.	Y	baisse	343	   15,906	0.0259	120.0833	fra_news_2009_00886235
+1725	La deuxième saison, son temps de jeu baisse.	Y	baisse	343	   15,906	0.0259	121.125	fra_news_2008_00085471
+1726	C'est pourtant ce qu'il a fait.	Y	pourtant	344	   15,901	0.0259	67	fra_news_2008_00560715
+1727	Tout avait pourtant été fait dans les temps.	Y	pourtant	344	   15,901	0.0259	82.875	fra_news_2009_00437067
+1728	Il n'y a pourtant rien à dire.	Y	pourtant	344	   15,901	0.0259	110.375	fra_news_2008_00930196
+1729	C´est pourtant bien ce qui s´est passé hier.	Y	pourtant	344	   15,901	0.0259	121.4444	fra_news_2009_00609021
+1730	Pourtant, l'histoire aurait pu être bonne.	Y	pourtant	344	   15,901	0.0259	217	fra_news_2008_00869861
+1731	J'ai fait le film avec elle et grâce à elle.	Y	grâce	345	   15,899	0.0259	100.8	fra_news_2008_00532428
+1732	Grâce à l'un des enfants de la femme.	Y	grâce	345	   15,899	0.0259	121.7778	fra_news_2010_00850464
+1733	Cest beaucoup grâce à elle que je suis encore là.	Y	grâce	345	   15,899	0.0259	134.2	fra_news_2010_00162709
+1734	Tous les dix ans, grâce à elle, on peut donc aller un peu plus loin dans sa tête.	Y	grâce	345	   15,899	0.0259	134.2778	fra_news_2008_00308656
+1735	C'est en grande partie grâce à ça que ça marche bien pour nous aujourd'hui et qu'on en est là.	Y	grâce	345	   15,899	0.0259	145.0526	fra_news_2009_00875984
+1736	Mais de pouvoir, je n'en ai aucun !	Y	aucun	346	   15,877	0.0258	104.75	fra_news_2008_00130712
+1737	Même si aucun d'eux ne l'a vu.	Y	aucun	346	   15,877	0.0258	120.2222	fra_news_2008_00391610
+1738	Cette politique n´a aucun rapport avec la crise.	Y	aucun	346	   15,877	0.0258	124.8889	fra_news_2009_00367568
+1739	Aucun club français ne l'a jamais fait.	Y	aucun	346	   15,877	0.0258	131	fra_news_2008_00763842
+1740	Il n'y a eu aucun but en troisième.	Y	aucun	346	   15,877	0.0258	144.4444	fra_news_2009_00922709
+1741	C'est le travail de l'ensemble du groupe.	Y	ensemble	347	   15,724	0.0256	80.2222	fra_news_2009_00821306
+1742	"""""""""""""""Dans l'ensemble, on a fait un bon match."""""""	Y	ensemble	347	   15,724	0.0256	94.6667	fra_news_2009_00648013
+1743	Là on l'a moins fait, mal fait ou pas ensemble.	Y	ensemble	347	   15,724	0.0256	109.2	fra_news_2009_00137276
+1744	Mais dans l'ensemble l'année 2009 est bonne.	Y	ensemble	347	   15,724	0.0256	115.8571	fra_news_2009_00962695
+1745	Nous avons passé beaucoup de temps ensemble.	Y	ensemble	347	   15,724	0.0256	169.5714	fra_news_2009_00800953
+1746	Il est temps d'en savoir un peu plus.	Y	savoir	348	   15,705	0.0255	71	fra_news_2010_00618499
+1747	A J-6, tout ce qu'il faut savoir.	Y	savoir	348	   15,705	0.0255	88.75	fra_news_2009_00158059
+1748	Dans la vie, il faut savoir ce quon veut.	Y	savoir	348	   15,705	0.0255	109.7	fra_news_2010_00839251
+1749	Reste Ã  savoir qui sera face Ã  lui vendredi.	Y	savoir	348	   15,705	0.0255	130.75	fra_news_2010_00545026
+1750	Les jeunes, il faut savoir les prendre, dit-il.	Y	savoir	348	   15,705	0.0255	163.4286	fra_news_2009_00110400
+1751	La santé n´a pas de prix, dit-on.	Y	santé	349	   15,608	0.0254	78.1111	fra_news_2010_00008246
+1752	"""""""La santé ne sera jamais un service tout à fait comme les autres""""""""."""""""	Y	santé	349	   15,608	0.0254	96.6154	fra_news_2009_00495472
+1753	Surtout que c´est bon pour la santé.	Y	santé	349	   15,608	0.0254	119	fra_news_2010_00859415
+1754	L'Etat est-il en bonne santé ?	Y	santé	349	   15,608	0.0254	126.7143	fra_news_2008_00018031
+1755	Elle veut un autre système de santé.	Y	santé	349	   15,608	0.0254	165.7143	fra_news_2009_00177773
+1756	Et en même temps, ce n'est pas à moi de le dire.	Y	moi	350	   15,597	0.0254	64.1538	fra_news_2008_00625262
+1757	Il n'est pas comme ça seulement avec moi, mais avec les autres aussi.	Y	moi	350	   15,597	0.0254	89.1538	fra_news_2008_00468054
+1758	"""""""""""""""C'est entre le club et moi."""""""	Y	moi	350	   15,597	0.0254	108.2857	fra_news_2008_00421244
+1759	Mais j´ai pris sur moi, je n´ai rien dit.	Y	moi	350	   15,597	0.0254	121.6	fra_news_2010_00783115
+1760	Pas moi ce jour là, ni aujourd'hui.	Y	moi	350	   15,597	0.0254	168.875	fra_news_2010_00903092
+1761	Et on peut faire la même chose dans les entreprises.	Y	entreprises	351	   15,588	0.0253	100.8	fra_news_2010_00451126
+1762	Selon eux, ce qui est vrai pour ces entreprises ne l'est pas pour toutes.	Y	entreprises	351	   15,588	0.0253	131.3077	fra_news_2008_00200502
+1763	Ce serait pas plutôt aux entreprises de faire cela ?	Y	entreprises	351	   15,588	0.0253	137.2222	fra_news_2008_00180819
+1764	C'est notamment vrai sur le marché des entreprises.	Y	entreprises	351	   15,588	0.0253	155.7778	fra_news_2009_00005549
+1765	"""""""C´est peut-être le moment pour les entreprises de faire de """""""" bonnes """""""" affaires."""""""	Y	entreprises	351	   15,588	0.0253	177.5385	fra_news_2009_00431996
+1766	Parce qu'il a trois membres de plus que ce qu'il devrait?	Y	membres	352	   15,558	0.0253	96.8182	fra_news_2008_00983621
+1767	Tout se passe encore pour le mieux pour l'un des membres du groupe.	Y	membres	352	   15,558	0.0253	108.9231	fra_news_2009_00998849
+1768	"""""""""""""""Les autres membres de l'équipe n'ont rien à voir avec cette affaire""""""""."""""""	Y	membres	352	   15,558	0.0253	109.4286	fra_news_2008_00855594
+1769	Ce site a plus de 3 millions de membres.	Y	membres	352	   15,558	0.0253	110	fra_news_2008_00559382
+1770	Pour les jeunes membres du groupe comme nous, la base est aussi 2004.	Y	membres	352	   15,558	0.0253	121.4167	fra_news_2008_00404652
+1771	Enfin, bon c'est pas la fin du monde non plus.	Y	enfin	353	   15,429	0.0251	94.3636	fra_news_2009_00592727
+1772	Enfin, non, je ne me le suis pas dit.	Y	enfin	353	   15,429	0.0251	114.8889	fra_news_2008_00747271
+1773	Enfin, un film à voir, mais pas deux fois!	Y	enfin	353	   15,429	0.0251	123.5556	fra_news_2008_00127545
+1774	Il est enfin le seul ministre d'Etat.	Y	enfin	353	   15,429	0.0251	126	fra_news_2008_00033226
+1775	Enfin pour moi un bon film c'est ça !	Y	enfin	353	   15,429	0.0251	164.1111	fra_news_2008_00661141
+1776	"""""""""""""""Sarkozy est le président de tous les Français."""""""	Y	sarkozy	354	   15,427	0.0251	86.25	fra_news_2009_00908770
+1777	Ce n'est en tout cas pas Nicolas Sarkozy qui le dit.	Y	sarkozy	354	   15,427	0.0251	95.4167	fra_news_2010_00959134
+1778	Non, ce n'est pas Nicolas Sarkozy qui l'a dit.	Y	sarkozy	354	   15,427	0.0251	98.4545	fra_news_2010_00050176
+1779	Sarkozy, ce n'est rien selon vous.	Y	sarkozy	354	   15,427	0.0251	106.7143	fra_news_2010_00260266
+1780	Nicolas Sarkozy n'est pas un homme d'Etat comme les autres.	Y	sarkozy	354	   15,427	0.0251	115.9167	fra_news_2009_00766247
+1781	Mais y a-t-il eu des résultats ?	Y	résultats	355	   15,381	0.025	98.25	fra_news_2008_00744757
+1782	C'est ici qu'il faut des résultats.	Y	résultats	355	   15,381	0.025	104.625	fra_news_2008_00755395
+1783	C'est pour ça que je n'ai pas fait de gros résultats cette année.	Y	résultats	355	   15,381	0.025	105.6667	fra_news_2008_00553772
+1784	Mais dans les résultats (lui qui ne parle que de ça) il n'y a rien (ou si peu).	Y	résultats	355	   15,381	0.025	108.2105	fra_news_2008_00348991
+1785	"""""""Le """""""" temps de l'action"""""""" est le temps des résultats."""""""	Y	résultats	355	   15,381	0.025	109.5	fra_news_2008_00887412
+1786	Ce n'est plus le cas désormais.	Y	désormais	356	   15,359	0.025	85.2857	fra_news_2008_00596577
+1787	Désormais, il n'y en a plus un seul.	Y	désormais	356	   15,359	0.025	91.7778	fra_news_2008_00125800
+1788	Désormais, c'est au cas par cas.	Y	désormais	356	   15,359	0.025	99.5	fra_news_2010_00103604
+1789	Il va prendre un peu son temps, désormais.	Y	désormais	356	   15,359	0.025	123.625	fra_news_2010_00432506
+1790	Désormais c´est une question d´hommes.	Y	désormais	356	   15,359	0.025	145.1429	fra_news_2010_00109951
+1791	Ce sera d'ailleurs une première pour un pays en développement.	Y	développement	357	   15,351	0.025	79.3636	fra_news_2008_00099125
+1792	On ne peut pas avoir la sécurité sans le développement ; on ne peut avoir le développement sans la sécurité.	Y	développement	357	   15,351	0.025	97.1	fra_news_2008_00530118
+1793	Le développement, c'est l'affaire de tous».	Y	développement	357	   15,351	0.025	113.625	fra_news_2008_00752132
+1794	"""""""""""""""Je passe beaucoup de temps dans les pays en développement."""""""	Y	développement	357	   15,351	0.025	122.6	fra_news_2008_00316803
+1795	Et encore, il s&rsquo;agit d&rsquo;une version de développement qui n&rsquo;est plus toute jeune.	Y	développement	357	   15,351	0.025	128.5882	fra_news_2010_00423397
+1796	Est-ce qu'elle vient de ce qu'on était ?	Y	vient	358	   15,255	0.0248	72.75	fra_news_2008_00059603
+1797	«On ne vient pas du même monde», dit-il.	Y	vient	358	   15,255	0.0248	81.6667	fra_news_2009_00247223
+1798	Quand on vient ici, on n'est plus le même après.	Y	vient	358	   15,255	0.0248	96.1	fra_news_2008_00454954
+1799	Mais ça vient surtout de la France.	Y	vient	358	   15,255	0.0248	127.2857	fra_news_2010_00917133
+1800	Nous, on vient ici chaque fin de semaine.	Y	vient	358	   15,255	0.0248	151.875	fra_news_2009_00617763
+1801	Tout du moins le temps de la rencontre.	Y	rencontre	359	   15,238	0.0248	78.875	fra_news_2008_00236896
+1802	Du moins, pour le début de la rencontre.	Y	rencontre	359	   15,238	0.0248	83.875	fra_news_2008_00386915
+1803	Rencontre avec l'un d'entre eux.	Y	rencontre	359	   15,238	0.0248	105.1429	fra_news_2010_00756821
+1804	Il se rencontre dailleurs aujourdhui.	Y	rencontre	359	   15,238	0.0248	128	fra_news_2010_00125992
+1805	La dernière rencontre a eu lieu la semaine dernière en Suisse.	Y	rencontre	359	   15,238	0.0248	160.4444	fra_news_2008_00268323
+1806	Cest toujours le Président de tous et de personne.	Y	personne	360	   15,220	0.0247	80.7778	fra_news_2009_00907800
+1807	Donc un peu moins d'une personne sur cinq.	Y	personne	360	   15,220	0.0247	104.4444	fra_news_2010_00994940
+1808	Personne ne peut être contre ce projet.	Y	personne	360	   15,220	0.0247	114.4286	fra_news_2009_00690358
+1809	Mais cela, personne ne l'a vu.	Y	personne	360	   15,220	0.0247	125.2857	fra_news_2008_00533192
+1810	Personne ne m'a vu dire du mal des gens.	Y	personne	360	   15,220	0.0247	169	fra_news_2010_00281518
+1811	"""""""En France, ce n'est pas souvent qu'on a tout en même temps""""""""."""""""	Y	souvent	361	   15,107	0.0246	64.3077	fra_news_2009_00500751
+1812	Mais je n´ai pas souvent le temps!	Y	souvent	361	   15,107	0.0246	90.125	fra_news_2009_00570244
+1813	C´est là que je l´ai vu le plus souvent.	Y	souvent	361	   15,107	0.0246	99.2727	fra_news_2009_00393278
+1814	Certains ont souvent bien marché, d'autres non.	Y	souvent	361	   15,107	0.0246	132.625	fra_news_2008_00667836
+1815	Moi je nai pas vu cela souvent.	Y	souvent	361	   15,107	0.0246	170.75	fra_news_2010_00194114
+1816	C'est ce qui a été affirmé par le président de la République à la fin du mois d'avril.	Y	avril	362	   15,096	0.0245	107.4211	fra_news_2008_00051666
+1817	Parce que le Jour de la Terre, c'est le 22 avril et tous les jours!	Y	avril	362	   15,096	0.0245	127.0714	fra_news_2010_00630078
+1818	Il y aura une nouvelle mise à jour le 23 avril.	Y	avril	362	   15,096	0.0245	132.7	fra_news_2009_00651677
+1819	Depuis le 6 avril, chaque après-midi, c'est la même histoire.	Y	avril	362	   15,096	0.0245	151.0909	fra_news_2010_00198160
+1820	Lui aussi sera de retour en cour le 12 avril.	Y	avril	362	   15,096	0.0245	156	fra_news_2010_00274677
+1821	D'ailleurs, il est sans nouvelles d'elle.	Y	nouvelles	363	   15,065	0.0245	97.7143	fra_news_2009_00238368
+1822	On n'avait toujours pas de nouvelles de lui depuis ce temps, toutefois.	Y	nouvelles	363	   15,065	0.0245	100	fra_news_2009_00645849
+1823	Je n'ai pas eu de nouvelles pendant des mois.	Y	nouvelles	363	   15,065	0.0245	112.7	fra_news_2010_00716264
+1824	La journée a passé et nous n'avons pas eu de nouvelles.	Y	nouvelles	363	   15,065	0.0245	126.4167	fra_news_2009_00783079
+1825	Jai pris beaucoup de ses nouvelles.	Y	nouvelles	363	   15,065	0.0245	143.1429	fra_news_2010_00527937
+1826	Pour ce qui est de votre premier point.	Y	votre	364	   15,058	0.0245	91.75	fra_news_2008_00217816
+1827	Qu'est-ce qui fait la force de votre groupe ?	Y	votre	364	   15,058	0.0245	117.3	fra_news_2008_00510858
+1828	En France, où en est votre projet de série avec France 4 ?	Y	votre	364	   15,058	0.0245	132.6667	fra_news_2008_00462653
+1829	Cela pourrait être votre dernier match à Paris ?	Y	votre	364	   15,058	0.0245	138.5	fra_news_2008_00385460
+1830	C'était un choix de votre part ?	Y	votre	364	   15,058	0.0245	160.7143	fra_news_2008_00184836
+1831	Il avait de la famille sur place.	Y	famille	365	   14,994	0.0244	82.8571	fra_news_2009_00076475
+1832	Ils ont droit aussi à une vie de famille.	Y	famille	365	   14,994	0.0244	110.2222	fra_news_2009_00520462
+1833	Ça va avec notre politique de la famille.»	Y	famille	365	   14,994	0.0244	118.25	fra_news_2008_00233485
+1834	J'ai une famille, avec deux enfants.	Y	famille	365	   14,994	0.0244	135.5714	fra_news_2010_00492338
+1835	On est souvent parti sans la famille.	Y	famille	365	   14,994	0.0244	156.8571	fra_news_2008_00399317
+1836	"""""""Rien ne sera plus comme avant"""""""" a dit Nicolas Sarkozy."""""""	Y	nicolas	366	   14,955	0.0243	129.8	fra_news_2009_00820833
+1837	"""""""Selon Nicolas Sarkozy, l'accord est une """"""""très bonne nouvelle pour l'Europe et très bonne nouvelle pour la France."""""""	Y	nicolas	366	   14,955	0.0243	134	fra_news_2008_00291245
+1838	Nicolas Sarkozy n'a pas dit non.	Y	nicolas	366	   14,955	0.0243	145.5714	fra_news_2008_00831929
+1839	Et le troisième c'est Nicolas Sarkozy.	Y	nicolas	366	   14,955	0.0243	156.7143	fra_news_2010_00923263
+1840	Le président Nicolas Sarkozy, ici en mai 2010.	Y	nicolas	366	   14,955	0.0243	197.5714	fra_news_2010_00710147
+1841	Mais maintenant, c´est elle qui le fait.	Y	maintenant	367	   14,931	0.0243	71.875	fra_news_2010_00622658
+1842	C´est maintenant que cela doit être fait.	Y	maintenant	367	   14,931	0.0243	100.25	fra_news_2009_00433365
+1843	Maintenant, je ne suis sur de rien.	Y	maintenant	367	   14,931	0.0243	123.8571	fra_news_2010_00464250
+1844	Maintenant, on ne va plus dire ça.	Y	maintenant	367	   14,931	0.0243	132.7143	fra_news_2008_00491353
+1845	Mais maintenant, cela fait partie du passé.	Y	maintenant	367	   14,931	0.0243	153.2857	fra_news_2008_00587481
+1846	N'est-ce pas une crise de plus, comme il y en a eu tant d'autres ?	Y	tant	368	   14,924	0.0243	72.4706	fra_news_2008_00228197
+1847	Mais peut-être plus tant que cela.	Y	tant	368	   14,924	0.0243	100.4286	fra_news_2009_00819948
+1848	Si elle se fait cette année, tant mieux.	Y	tant	368	   14,924	0.0243	123.25	fra_news_2010_00496761
+1849	Si c'est le cas, tant mieux.	Y	tant	368	   14,924	0.0243	130	fra_news_2009_00481163
+1850	Mais, si cela a lieu, tant mieux ».	Y	tant	368	   14,924	0.0243	160.5714	fra_news_2010_00648804
+1851	Tout du moins, les derniers avant quelques jours.	Y	derniers	369	   14,895	0.0242	114.5	fra_news_2009_00757626
+1852	Ces derniers sont à ce niveau depuis le mois de décembre.	Y	derniers	369	   14,895	0.0242	119.3636	fra_news_2009_00883152
+1853	Ces derniers temps, j'en ai moins.	Y	derniers	369	   14,895	0.0242	120.2857	fra_news_2008_00647064
+1854	Ces derniers sont de plus en plus nombreux.	Y	derniers	369	   14,895	0.0242	133.8571	fra_news_2010_00388264
+1855	Je ne l'ai pas vu jouer ces derniers mois non plus.	Y	derniers	369	   14,895	0.0242	137.4167	fra_news_2010_00794549
+1856	Nous sommes dans un pays de Droit n'est ce pas?	Y	sommes	370	   14,893	0.0242	81.3636	fra_news_2008_00209204
+1857	Très bien, nous sommes dans les temps.	Y	sommes	370	   14,893	0.0242	96.4286	fra_news_2009_00499519
+1858	Mais nous sommes ici pour dire qu´elle a sa place.	Y	sommes	370	   14,893	0.0242	104.9091	fra_news_2010_00956463
+1859	Nous sommes ici dans le temps du marché.	Y	sommes	370	   14,893	0.0242	120.75	fra_news_2008_00567238
+1860	"""""""Et nous sommes en vie et en bonne santé""""""""."""""""	Y	sommes	370	   14,893	0.0242	176.7143	fra_news_2009_00929080
+1861	On est toujours en bon terme avec lui.	Y	terme	370	   14,893	0.0242	110.375	fra_news_2008_00504984
+1862	D'ailleurs, il n'y a plus de long terme dans le football.	Y	terme	370	   14,893	0.0242	140.3846	fra_news_2010_00467542
+1863	"""""""Rien n'est fait sur le long terme."""""""""""""""	Y	terme	370	   14,893	0.0242	144.25	fra_news_2008_00364361
+1864	""""""""""""""" Il faut mettre un terme à cette histoire."""""""	Y	terme	370	   14,893	0.0242	145.5	fra_news_2009_00792955
+1865	"""""""À terme, l'objectif est de ne plus avoir à faire appel à elles""""""""."""""""	Y	terme	370	   14,893	0.0242	145.6667	fra_news_2010_00411573
+1866	Il l'est d'autant plus cette année avec la crise économique.	Y	économique	371	   14,891	0.0242	99.8333	fra_news_2009_00984220
+1867	économique sur l'ensemble des pays dans le monde.	Y	économique	371	   14,891	0.0242	105	fra_news_2009_00071353
+1868	D´autant que c´est un système qui est très économique.	Y	économique	371	   14,891	0.0242	119.9	fra_news_2009_00429075
+1869	C'est donc une bonne nouvelle économique.	Y	économique	371	   14,891	0.0242	137.8571	fra_news_2010_00105752
+1870	Cela s'explique notamment sur le plan économique.	Y	économique	371	   14,891	0.0242	164.125	fra_news_2008_00806760
+1871	Mais il semble que ce n'est plus le cas pour le moment.	Y	semble	372	   14,876	0.0242	78.1667	fra_news_2010_00687934
+1872	Cette fois, l'homme de la situation ne semble pas être lui.	Y	semble	372	   14,876	0.0242	98.8333	fra_news_2008_00756103
+1873	Rien de tout cela il me semble.	Y	semble	372	   14,876	0.0242	125.4286	fra_news_2010_00448075
+1874	Cest ainsi, semble-t-il, depuis que les hommes sont ensemble.	Y	semble	372	   14,876	0.0242	150	fra_news_2010_00767698
+1875	Un film qui me semble très bon !	Y	semble	372	   14,876	0.0242	165.2857	fra_news_2008_00823458
+1876	"""""""""""""""La Commission a dit ce qu'elle avait à dire."""""""	Y	commission	373	   14,861	0.0242	86.8	fra_news_2009_00840754
+1877	Si la Commission a pris cette décision, c'est qu'elle n'avait pas d'autre choix.	Y	commission	373	   14,861	0.0242	112.4118	fra_news_2009_00604771
+1878	La Commission ne peut pas grand-chose pour les Etats.	Y	commission	373	   14,861	0.0242	126.3	fra_news_2009_00416148
+1879	Pour la commission, ils en ont eu environ 4000.	Y	commission	373	   14,861	0.0242	133.25	fra_news_2010_00297710
+1880	"""""""La Commission est tout à fait sur cette ligne"""""""", a-t-il assuré."""""""	Y	commission	373	   14,861	0.0242	146.4615	fra_news_2008_00078700
+1881	Donc pour les enfants de deux à 16 ans, environ.	Y	environ	374	   14,700	0.0239	99.8889	fra_news_2009_00688481
+1882	Il pourrait être d'environ un an.	Y	environ	374	   14,700	0.0239	119.4286	fra_news_2008_00364605
+1883	C'est à aujourd'hui environ 900 heures de développement.	Y	environ	374	   14,700	0.0239	153	fra_news_2008_00702472
+1884	Il était environ deux heures du matin.	Y	environ	374	   14,700	0.0239	155	fra_news_2008_00909367
+1885	Il a passé environ cinq mois ici.	Y	environ	374	   14,700	0.0239	183	fra_news_2010_00576661
+1886	C'est 10% de plus que l'an passé sur la même période.	Y	période	375	   14,696	0.0239	90.0833	fra_news_2008_00781725
+1887	"""""""""""""""C'est la fin d'une situation, d'une période."""""""	Y	période	375	   14,696	0.0239	104.75	fra_news_2010_00614044
+1888	Je ne suis donc jamais seul dans cette période de lannée.	Y	période	375	   14,696	0.0239	120.0833	fra_news_2009_00741357
+1889	L'accord porte sur une période de quatre ans.	Y	période	375	   14,696	0.0239	133.1111	fra_news_2010_00649691
+1890	Cette période fait désormais partie de l'histoire.	Y	période	375	   14,696	0.0239	162	fra_news_2008_00465064
+1891	Quant au Premier ministre, il fait toujours la course en tête.	Y	quant	376	   14,669	0.0239	133.3636	fra_news_2010_00551090
+1892	Quant au cours de Bourse, il n'est pas bon, c'est un fait.	Y	quant	376	   14,669	0.0239	137.3077	fra_news_2008_00310431
+1893	Quant à la suite de l'histoire?	Y	quant	376	   14,669	0.0239	138.4286	fra_news_2008_00006091
+1894	Quant à la mise au point du spectacle, il n'a pris qu'à peine plus d'un mois.	Y	quant	376	   14,669	0.0239	163.7222	fra_news_2008_00694639
+1895	Le mode en ligne, quant à lui, est très bien fait.	Y	quant	376	   14,669	0.0239	168.6364	fra_news_2009_00517757
+1896	Ma vie na pas plus de prix quune autre.	Y	ma	377	   14,665	0.0238	86.8182	fra_news_2010_00796015
+1897	Voir l'homme de ma vie et ne pas savoir qui il est.	Y	ma	377	   14,665	0.0238	113.4615	fra_news_2008_00217312
+1898	Je ne l´ai vu que cinq fois dans ma vie.	Y	ma	377	   14,665	0.0238	129.3636	fra_news_2009_00965951
+1899	C'est ma deuxième victoire de suite.	Y	ma	377	   14,665	0.0238	165.8571	fra_news_2008_00274678
+1900	Ma famille ne vient jamais me voir.	Y	ma	377	   14,665	0.0238	241.8571	fra_news_2008_00254618
+1901	Une hausse de plus de 9% par rapport au taux de l'année dernière.	Y	taux	378	   14,619	0.0238	119	fra_news_2008_00860747
+1902	Il s'agit là des taux les plus bas depuis au moins une année.	Y	taux	378	   14,619	0.0238	128.8571	fra_news_2008_00266461
+1903	Le taux de croissance est le même qu'en juillet.	Y	taux	378	   14,619	0.0238	138.4444	fra_news_2010_00944471
+1904	On n'avait pas vu un taux aussi bas depuis 1974.	Y	taux	378	   14,619	0.0238	146.7	fra_news_2008_00675269
+1905	Une partie de ce résultat s'explique par la baisse des taux.	Y	taux	378	   14,619	0.0238	151.25	fra_news_2010_00026536
+1906	Pour lui, seul le président et lui ont le droit à la parole.	Y	parole	379	   14,593	0.0237	105.3636	fra_news_2009_00749550
+1907	Mais on ne se coupe pas la parole.	Y	parole	379	   14,593	0.0237	106.125	fra_news_2009_00213494
+1908	Tout le monde a pris la parole.	Y	parole	379	   14,593	0.0237	110.2857	fra_news_2008_00210776
+1909	Tout le monde a eu droit à la parole.	Y	parole	379	   14,593	0.0237	114.1111	fra_news_2010_00595972
+1910	Moi, je n'ai que ma parole.	Y	parole	379	   14,593	0.0237	188.4286	fra_news_2009_00771035
+1911	Tout ça, c'est un peu à cause de lui.	Y	cause	380	   14,585	0.0237	80.8	fra_news_2008_00757178
+1912	Et en plus, c'est pour la bonne cause.	Y	cause	380	   14,585	0.0237	86	fra_news_2009_00242099
+1913	Le Président a pris fait et cause pour lui.	Y	cause	380	   14,585	0.0237	94.7778	fra_news_2009_00056592
+1914	Il n'y a aucun rapport de cause à effet.	Y	cause	380	   14,585	0.0237	131.8	fra_news_2008_00785367
+1915	Toujours en cause : la baisse des cours.	Y	cause	380	   14,585	0.0237	146.1429	fra_news_2009_00994051
+1916	Ce dernier na pas pu en faire lannonce sur sa une.	Y	annonce	381	   14,562	0.0237	79	fra_news_2009_00710965
+1917	Que sera alors l´été qui s´annonce ?	Y	annonce	381	   14,562	0.0237	82.875	fra_news_2010_00851506
+1918	C'est le site du Soir qui l'annonce.	Y	annonce	381	   14,562	0.0237	102.5556	fra_news_2009_00078457
+1919	Encore une annonce pour ne rien dire.	Y	annonce	381	   14,562	0.0237	131.1429	fra_news_2009_00694211
+1920	""""""""""""""" Quatre, annonce-t-il, rien que ce matin."""""""	Y	annonce	381	   14,562	0.0237	144.375	fra_news_2010_00141451
+1921	Que reste-t-il à faire ensuite?	Y	ensuite	382	   14,481	0.0235	101.8571	fra_news_2009_00694370
+1922	Ensuite, à nous, le groupe, de faire notre travail de notre côté.	Y	ensuite	382	   14,481	0.0235	111.3	fra_news_2008_00347755
+1923	Ce dernier aura ensuite six mois pour dire s'il est d'accord ou non.	Y	ensuite	382	   14,481	0.0235	130.9333	fra_news_2008_00615003
+1924	Ce sera ensuite au tour des Etats-Unis.	Y	ensuite	382	   14,481	0.0235	140.75	fra_news_2009_00237314
+1925	Le gouvernement aura ensuite trois mois pour prendre sa décision.	Y	ensuite	382	   14,481	0.0235	160.7	fra_news_2008_00692283
+1926	Et cela n'est pas du tout la même chose !	Y	chose	383	   14,425	0.0235	70	fra_news_2009_00933931
+1927	"""""""""""""""Sur place, il n'y avait pas grand-chose."""""""	Y	chose	383	   14,425	0.0235	95.5556	fra_news_2008_00609070
+1928	Enfin bon, on se dit que toute bonne chose a une fin, n'est-ce pas ?	Y	chose	383	   14,425	0.0235	116.0625	fra_news_2008_00250814
+1929	« C'est le début de quelque chose.	Y	chose	383	   14,425	0.0235	136.2857	fra_news_2009_00135994
+1930	Sous-titre : Histoire des Jean Quelque Chose.	Y	chose	383	   14,425	0.0235	219.5714	fra_news_2009_00676246
+1931	Et pour l'entreprise qu'en est-il ?	Y	entreprise	384	   14,329	0.0233	60.875	fra_news_2008_00849012
+1932	L'Etat, une entreprise comme les autres?	Y	entreprise	384	   14,329	0.0233	108.4286	fra_news_2010_00585775
+1933	Lentreprise a été première ou deuxième.	Y	entreprise	384	   14,329	0.0233	112.2857	fra_news_2010_00133319
+1934	Une première dans l'histoire de l'entreprise.	Y	entreprise	384	   14,329	0.0233	120.4286	fra_news_2008_00483466
+1935	L'entreprise a pris cette décision jeudi.	Y	entreprise	384	   14,329	0.0233	168.7143	fra_news_2010_00767537
+1936	D'autres ne peuvent pas le faire.	Y	peuvent	385	   14,317	0.0233	85.8571	fra_news_2010_00824533
+1937	Et ça, ils ne peuvent  pas le faire.	Y	peuvent	385	   14,317	0.0233	88.375	fra_news_2009_00363258
+1938	Ils peuvent prendre la deuxième place du groupe.	Y	peuvent	385	   14,317	0.0233	140	fra_news_2009_00238616
+1939	Elles peuvent avoir encore de nos jours toute leur place.	Y	peuvent	385	   14,317	0.0233	147.2	fra_news_2010_00313437
+1940	«Elles ne peuvent pas faire grand-chose.	Y	peuvent	385	   14,317	0.0233	176.2857	fra_news_2010_00197057
+1941	Le temps n'est pas encore l'action.	Y	action	386	   14,280	0.0232	81	fra_news_2009_00013823
+1942	L'action n'est pas en reste.	Y	action	386	   14,280	0.0232	89	fra_news_2009_00618456
+1943	De l'action et encore de l'action.	Y	action	386	   14,280	0.0232	96.2	fra_news_2008_00135428
+1944	Mais il y aura plus d'action.	Y	action	386	   14,280	0.0232	117.4286	fra_news_2010_00882330
+1945	Un plan d'action va être bon.	Y	action	386	   14,280	0.0232	159.4286	fra_news_2008_00653815
+1946	Qu'est-ce qui fait son succès?	Y	succès	387	   14,250	0.0232	79.2857	fra_news_2008_00194174
+1947	Tout est là pour que ce soit un succès.	Y	succès	387	   14,250	0.0232	87.8889	fra_news_2009_00641866
+1948	Ce sera un succès encore cette année.	Y	succès	387	   14,250	0.0232	106.1429	fra_news_2009_00459515
+1949	C'est la raison de nos succès à chaque match.	Y	succès	387	   14,250	0.0232	133.4	fra_news_2008_00630739
+1950	Avec beaucoup de succès, semble-t-il.	Y	succès	387	   14,250	0.0232	148.4286	fra_news_2008_00536466
+1951	C'est un peu plus qu'en 2007. Mais, c'est loin de faire le compte.	Y	loin	388	   14,239	0.0232	71.6923	fra_news_2009_00037653
+1952	On est en tout cas loin des 89 euros.	Y	loin	388	   14,239	0.0232	94.25	fra_news_2010_00326455
+1953	Mais il ne faut pas voir trop loin en avant.	Y	loin	388	   14,239	0.0232	118.4	fra_news_2010_00661215
+1954	Ils sont encore plus loin eux autres.	Y	loin	388	   14,239	0.0232	132	fra_news_2009_00456152
+1955	Aujourd'hui, la crise semble bien loin.	Y	loin	388	   14,239	0.0232	201.1429	fra_news_2009_00687534
+1956	Il n'y en a eu aucune !	Y	aucune	389	   14,145	0.023	106.1429	fra_news_2008_00022098
+1957	Il n´y avait aucune raison à cela.	Y	aucune	389	   14,145	0.023	123.375	fra_news_2009_00068561
+1958	Mais il n'y a aucune raison que le niveau baisse.	Y	aucune	389	   14,145	0.023	132	fra_news_2008_00067478
+1959	Aucune équipe n'a fait mieux jusqu'ici.	Y	aucune	389	   14,145	0.023	159.875	fra_news_2008_00878405
+1960	Aujourd'hui, je n'ai aucune rencontre avec personne.	Y	aucune	389	   14,145	0.023	184.4444	fra_news_2008_00266128
+1961	"""""""Ou plutôt, qu'est-ce qu'on ne fait pas ?"""""""""""""""	Y	plutôt	390	   14,131	0.023	72.5556	fra_news_2008_00985223
+1962	Et plutôt deux fois qu'une même !	Y	plutôt	390	   14,131	0.023	92.1429	fra_news_2008_00453899
+1963	Pas plus que les autres, mais plutôt parce qu'il est jeune.	Y	plutôt	390	   14,131	0.023	105	fra_news_2008_00416003
+1964	Que le groupe se porte plutôt bien, malgré la crise.	Y	plutôt	390	   14,131	0.023	144.8	fra_news_2009_00879981
+1965	Rien à dire, ou plutôt trop à dire!	Y	plutôt	390	   14,131	0.023	179.6667	fra_news_2010_00793842
+1966	Tous le monde dit que c'est le groupe de la mort.	Y	mort	391	   14,126	0.023	79	fra_news_2008_00510202
+1967	Et deux jours après, il est mort.	Y	mort	391	   14,126	0.023	98.1429	fra_news_2010_00809205
+1968	Ce ne sera peut-être pas à cause de la mort de ces deux jeunes gens.	Y	mort	391	   14,126	0.023	120.1333	fra_news_2008_00517027
+1969	Il avait le droit de vie et de mort sur moi.	Y	mort	391	   14,126	0.023	130.8	fra_news_2008_00956361
+1970	Ce jeune homme est mort pour rien.	Y	mort	391	   14,126	0.023	163	fra_news_2009_00545691
+1971	Il en est de même pour le programme.	Y	programme	392	   14,077	0.0229	63.5	fra_news_2008_00755286
+1972	Il n´y a pas de programme.	Y	programme	392	   14,077	0.0229	79.5714	fra_news_2009_00643816
+1973	Pour le programme, c’est par ici.	Y	programme	392	   14,077	0.0229	103.1429	fra_news_2008_00810576
+1974	Nous sommes dans les temps avec le programme.	Y	programme	392	   14,077	0.0229	121	fra_news_2008_00291091
+1975	La suite du programme jusqu'au 29 juin : ici.	Y	programme	392	   14,077	0.0229	168.75	fra_news_2008_00921640
+1976	Bien plus, elle est l'affaire de tous.	Y	affaire	393	   14,059	0.0229	80.625	fra_news_2008_00583268
+1977	"""""""""""""""Dans l'affaire on était que quatre""""""""."""""""	Y	affaire	393	   14,059	0.0229	97.7143	fra_news_2008_00826727
+1978	Une affaire d'une journée et d'au plus 200 $.	Y	affaire	393	   14,059	0.0229	109	fra_news_2010_00405323
+1979	Moins on a affaire à lui, mieux on se porte.	Y	affaire	393	   14,059	0.0229	129.1111	fra_news_2008_00879847
+1980	Une bonne affaire souvent, mais pas toujours.	Y	affaire	393	   14,059	0.0229	174.8571	fra_news_2010_00928957
+1981	En France, on n'est pas parti dans cette direction.	Y	direction	394	   14,050	0.0228	88.9	fra_news_2010_00192059
+1982	On a fait un pas dans la bonne direction.	Y	direction	394	   14,050	0.0228	91.7778	fra_news_2009_00488778
+1983	« Mais ce n'est que le premier petit pas dans la bonne direction.	Y	direction	394	   14,050	0.0228	96.9231	fra_news_2009_00614618
+1984	Ce serait un pas de plus dans la bonne direction.	Y	direction	394	   14,050	0.0228	100.4	fra_news_2008_00106201
+1985	Un tout petit pas vers la bonne direction.	Y	direction	394	   14,050	0.0228	158	fra_news_2008_00289695
+1986	Les deux ne font plus qu'un.	Y	font	395	   14,038	0.0228	78.1429	fra_news_2009_00507000
+1987	Et que font-ils une fois au pouvoir?	Y	font	395	   14,038	0.0228	108	fra_news_2009_00280013
+1988	Ils sont quelque part à notre niveau, ils font aussi de la politique.	Y	font	395	   14,038	0.0228	130.9167	fra_news_2008_00895124
+1989	Que font les joueurs pendant ce temps?	Y	font	395	   14,038	0.0228	148.4286	fra_news_2009_00483173
+1990	Les gens font ce qu'ils peuvent.	Y	font	395	   14,038	0.0228	177.7143	fra_news_2008_00199741
+1991	C'est le match dans le match à gauche.	Y	gauche	396	   13,997	0.0228	87.4286	fra_news_2010_00931664
+1992	C'est donc vous la nouvelle gauche!	Y	gauche	396	   13,997	0.0228	109.4286	fra_news_2009_00534248
+1993	On ne part jamais de rien: la gauche, c'est une histoire.	Y	gauche	396	   13,997	0.0228	116.6667	fra_news_2008_00305636
+1994	La gauche ne va pas mieux : elle va bien.	Y	gauche	396	   13,997	0.0228	120.5	fra_news_2010_00854019
+1995	Suis-je toujours un homme de gauche.	Y	gauche	396	   13,997	0.0228	144.7143	fra_news_2010_00350211
+1996	C'est bien de cela qu'il s'agit!	Y	agit	397	   13,938	0.0227	79.6667	fra_news_2009_00177967
+1997	Il s'agit d'un homme de 26 ans.	Y	agit	397	   13,938	0.0227	93.875	fra_news_2009_00729277
+1998	Il s'agit de sa première victoire de la saison.	Y	agit	397	   13,938	0.0227	112.4444	fra_news_2010_00953897
+1999	Il s'agit de sa première victoire depuis le 7 juillet dernier.	Y	agit	397	   13,938	0.0227	122.6364	fra_news_2008_00981692
+2000	Non, il s'agit de bien autre chose.	Y	agit	397	   13,938	0.0227	141.75	fra_news_2008_00068186

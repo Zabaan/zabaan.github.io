@@ -1,0 +1,1001 @@
+ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
+1001	Po prostu - to nie było dla niej.	Y	niej	201	   17,218	0.0388	112.1429	pol_news_2016_00579518
+1002	Co zrobić by do niej nie doszło?	Y	niej	201	   17,218	0.0388	166.8571	pol_news_2016_00109542
+1003	Mówi³o siê, ¿e to ju¿ dla niej koniec sezonu.	Y	niej	201	   17,218	0.0388	169.1	pol_news_2018_00379862
+1004	To jeszcze nie oznacza, że w niej zagra.	Y	niej	201	   17,218	0.0388	178.5	pol_news_2016_00753196
+1005	I w tej chwili o niej nie można mówić.	Y	niej	201	   17,218	0.0388	183.2222	pol_news_2016_00237338
+1006	Informacje - Puls Biznesu - pb.pl - strona 2 Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	informacje	202	   17,192	0.0387	189.2	pol_news_2017_00211599
+1007	Czyli są to w sumie bardzo dobre informacje.	Y	informacje	202	   17,192	0.0387	275.625	pol_news_2016_00119034
+1008	Informacje z innowacji - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	informacje	202	   17,192	0.0387	324.6	pol_news_2017_00211660
+1009	Dziennik.pl - wiadomości, informacje z kraju i ze świata, wydarzenia, program tv dziennik.	Y	informacje	202	   17,192	0.0387	335.4167	pol_news_2016_00173468
+1010	Nadal jednak pojawiają się na ich temat informacje z powodu.	Y	informacje	202	   17,192	0.0387	346.6	pol_news_2016_00398082
+1011	A takich jak ja jest w Polsce większość.	Y	ja	203	   17,051	0.0384	126.875	pol_news_2017_00033824
+1012	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać To ja, to ja, to ja..	Y	ja	203	   17,051	0.0384	145.9091	pol_news_2016_00786057
+1013	Tyle osób ocenia komentarz pozytywnieZaloguj się, aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się, aby oceniać Ja też, ja też.	Y	ja	203	   17,051	0.0384	148.6364	pol_news_2018_00785870
+1014	A ja nadal nie wiem, o co chodzi.	Y	ja	203	   17,051	0.0384	178.625	pol_news_2016_00021531
+1015	Ja już nie wiem o co tutaj chodzi.	Y	ja	203	   17,051	0.0384	192.75	pol_news_2017_00224540
+1016	I o to w tym wszystkim chodzi.	Y	wszystkim	204	   16,977	0.0382	71.1429	pol_news_2017_00216482
+1017	W tym wszystkim jest tylko jedno „ale”.	Y	wszystkim	204	   16,977	0.0382	140.4286	pol_news_2016_00912371
+1018	"""""""I nie o pieniądze tu przede wszystkim chodzi."""""""""""""""	Y	wszystkim	204	   16,977	0.0382	159.625	pol_news_2018_00218220
+1019	I nie wiem, co z tym wszystkim zrobić.	Y	wszystkim	204	   16,977	0.0382	168.75	pol_news_2018_00218421
+1020	O tym wszystkim polska policja nie wie.	Y	wszystkim	204	   16,977	0.0382	191.1429	pol_news_2017_00510054
+1021	Nie mo¿na, to nie mo¿na.	Y	mo	205	   16,918	0.0381	55.25	pol_news_2018_00449003
+1022	Mo¿e bêdzie, a mo¿e nie bêdzie.	Y	mo	205	   16,918	0.0381	124.8	pol_news_2017_00364415
+1023	To mo¿e byæ jednak za ma³o.	Y	mo	205	   16,918	0.0381	132.125	pol_news_2017_00750044
+1024	Mo¿e byæ, ale na razie nie jest.	Y	mo	205	   16,918	0.0381	165.625	pol_news_2016_00380035
+1025	Mo¿e za pó³ roku, mo¿e nie.	Y	mo	205	   16,918	0.0381	166	pol_news_2018_00375878
+1026	A w latach 90. nie było jej szczególnie widać.	Y	latach	206	   16,825	0.0379	174.5	pol_news_2017_00039154
+1027	A ten jest jednym z najlepszych w ostatnich latach w Polsce.	Y	latach	206	   16,825	0.0379	198.2	pol_news_2017_00034567
+1028	Tym razem spotkanie odbędzie się po latach.	Y	latach	206	   16,825	0.0379	202.5714	pol_news_2017_00788371
+1029	Jak będzie w całym roku i kolejnych latach?	Y	latach	206	   16,825	0.0379	214.375	pol_news_2016_00240468
+1030	Jak w latach 70 na Centrum Zdrowia Dziecka.	Y	latach	206	   16,825	0.0379	220.1429	pol_news_2017_00239627
+1031	Nie dla miejsca dla Polski poza UE.	Y	ue	207	   16,519	0.0372	153.8333	pol_news_2018_00440206
+1032	Z kolei Polska twierdzi, że UE nie..	Y	ue	207	   16,519	0.0372	201.1429	pol_news_2016_00975271
+1033	I z UE są na jego budowę pieniądze.	Y	ue	207	   16,519	0.0372	222.375	pol_news_2018_00229793
+1034	Podobnie jak my jesteśmy teraz w UE.	Y	ue	207	   16,519	0.0372	224.5714	pol_news_2017_00545352
+1035	A co to ma wspólnego z UE?	Y	ue	207	   16,519	0.0372	227.1429	pol_news_2017_00002575
+1036	"""""""Nie ma ani stanowiska rządu, ani klubu - mówił w """"""""Jeden na jeden"""""""" w TVN24."""""""	Y	tvn	208	   16,500	0.0372	272.4545	pol_news_2016_00446561
+1037	To i jeszcze więcej w sobotę o godz. 20 na antenie TVN.	Y	tvn	208	   16,500	0.0372	276.7273	pol_news_2016_00750616
+1038	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Od chwili wprowadzenia nowego tvn24.pl nie działa wideo, dlaczego?	Y	tvn	208	   16,500	0.0372	318.4211	pol_news_2017_00781285
+1039	Odbędzie się ona w czwartek, 21 maja, w telewizji TVN.	Y	tvn	208	   16,500	0.0372	331.75	pol_news_2018_00487211
+1040	Nie wiem skąd tvn24 ma te wiadomości.	Y	tvn	208	   16,500	0.0372	362.2857	pol_news_2016_00462577
+1041	Nas po prostu w Polsce jest coraz mniej!	Y	coraz	209	   16,483	0.0371	150.25	pol_news_2018_00418795
+1042	Może tylko z czasem było ich coraz mniej.	Y	coraz	209	   16,483	0.0371	171	pol_news_2017_00372530
+1043	Jest tego naprawdę dużo i coraz więcej.	Y	coraz	209	   16,483	0.0371	172.7143	pol_news_2018_00277910
+1044	Tych zaś na rynku jest coraz mniej.	Y	coraz	209	   16,483	0.0371	199.4286	pol_news_2018_00784306
+1045	Pó¼niej by³o jednak coraz lepiej.	Y	coraz	209	   16,483	0.0371	224.8571	pol_news_2016_00543320
+1046	No chyba, że mówi Pani do swoich.	Y	swoich	210	   16,455	0.0371	178.2857	pol_news_2018_00468777
+1047	A czego chcemy my dla swoich dzieci?	Y	swoich	210	   16,455	0.0371	244.5714	pol_news_2018_00002779
+1048	Które z gwiazd mają ją na swoich..	Y	swoich	210	   16,455	0.0371	274.8571	pol_news_2016_00331390
+1049	Firmy nie znają swoich praw - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	swoich	210	   16,455	0.0371	295.3043	pol_news_2018_00179124
+1050	Ludzie chcą jak najlepiej dla siebie i swoich najbliższych.	Y	swoich	210	   16,455	0.0371	339.2222	pol_news_2018_00341323
+1051	Ten kraj też nie ma na to czasu.	Y	czasu	211	   16,447	0.037	144.375	pol_news_2016_00737066
+1052	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Do czasu.	Y	czasu	211	   16,447	0.037	146.5455	pol_news_2017_00780622
+1053	Na razie nie ma to czasu i możliwości.	Y	czasu	211	   16,447	0.037	150.875	pol_news_2018_00416315
+1054	Dzieje się tak jednak tylko do czasu.	Y	czasu	211	   16,447	0.037	155.2857	pol_news_2016_00169974
+1055	Co od tego czasu udało się zrobić?	Y	czasu	211	   16,447	0.037	175.2857	pol_news_2018_00093924
+1056	Tak jest obecnie, ale wcale tak być nie musi.	Y	obecnie	212	   16,400	0.0369	180.25	pol_news_2017_00720374
+1057	To też niewiele, ale więcej niż obecnie.	Y	obecnie	212	   16,400	0.0369	230.2857	pol_news_2018_00767278
+1058	Obecnie ma być tych pieniędzy trochę więcej, ale to tylko plan.	Y	obecnie	212	   16,400	0.0369	233.7273	pol_news_2018_00477144
+1059	Obecnie chyba nikt już jednak nie ma takich wątpliwości.	Y	obecnie	212	   16,400	0.0369	251.2222	pol_news_2016_00477876
+1060	Nie wiadomo obecnie, w jakim jest stanie.	Y	obecnie	212	   16,400	0.0369	258.5714	pol_news_2018_00460322
+1061	Długi Polaków wobec sądów to ponad 309 mln zł - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	wobec	213	   16,387	0.0369	311.5769	pol_news_2018_00130084
+1062	Sankcje wobec Polski to odległy temat - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	wobec	213	   16,387	0.0369	389.8333	pol_news_2018_00672941
+1063	A jak wobec tego mają się nagrody w gminie za „blisko 70 tysięcy złotych na nagrody dla urzędników”?	Y	wobec	213	   16,387	0.0369	411.25	pol_news_2018_00007218
+1064	Państwa UE przedłużyły sankcje wobec Rosji - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	wobec	213	   16,387	0.0369	411.75	pol_news_2017_00516728
+1065	Jest decyzja o przedłużeniu sankcji wobec Rosji - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	wobec	213	   16,387	0.0369	413.2	pol_news_2017_00266242
+1066	Jak najbardziej tak, tyle im się na pewno uda.	Y	najbardziej	214	   16,317	0.0368	189.5556	pol_news_2016_00246510
+1067	Ale to nie pieniędzy najbardziej jej brakuje.	Y	najbardziej	214	   16,317	0.0368	251	pol_news_2016_00032820
+1068	Za to na przykład w Niemczech jak najbardziej.	Y	najbardziej	214	   16,317	0.0368	264.625	pol_news_2016_00954677
+1069	Znów był jednak pierwszy, a to jest to, co lubi najbardziej.	Y	najbardziej	214	   16,317	0.0368	276.2	pol_news_2018_00980321
+1070	Najbardziej ryzykowne miejsca do życia - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	najbardziej	214	   16,317	0.0368	318.2609	pol_news_2017_00386461
+1071	Tak było wcześniej i tak jest dzisiaj.	Y	wcześniej	215	   16,269	0.0366	110.3333	pol_news_2018_00721865
+1072	To o 13 godzin wcześniej niż u nas.	Y	wcześniej	215	   16,269	0.0366	189.8571	pol_news_2017_00752717
+1073	Tak, ale powiedział też to samo znacznie wcześniej.	Y	wcześniej	215	   16,269	0.0366	197.125	pol_news_2016_00721744
+1074	Tu się nic nie zmienia – tak było wcześniej i tak jest dzisiaj.	Y	wcześniej	215	   16,269	0.0366	208.0909	pol_news_2016_00777612
+1075	Wiem tylko jedno, nie wcześniej niż po roku 1930.	Y	wcześniej	215	   16,269	0.0366	208.75	pol_news_2017_00846176
+1076	Nowe firmy w sieci - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	puls	216	   16,188	0.0365	179.8182	pol_news_2017_00461010
+1077	Liczba - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	puls	216	   16,188	0.0365	180.3684	pol_news_2017_00325932
+1078	Ogłoszenie - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	puls	216	   16,188	0.0365	182.1579	pol_news_2017_00486843
+1079	Liczba: 4 mld zł - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	puls	216	   16,188	0.0365	182.2381	pol_news_2017_00325753
+1080	Niemcy chcą tak jak Polacy - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	puls	216	   16,188	0.0365	182.5217	pol_news_2018_00446957
+1081	Czy to możliwe, aby została nią właśnie Polska?	Y	została	217	   16,186	0.0365	268.375	pol_news_2017_00111576
+1082	Ostatecznie policja została w domu kultury do końca spotkania.	Y	została	217	   16,186	0.0365	322.3333	pol_news_2016_00512659
+1083	Miała zostać na jakiś czas, została na zawsze.	Y	została	217	   16,186	0.0365	345.5714	pol_news_2017_00350414
+1084	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać No to będzie czy została tym rzecznikiem?	Y	została	217	   16,186	0.0365	354.875	pol_news_2016_00784532
+1085	Na tą chwilę nie możemy jednak powiedzieć, że sprawa na 2011 rok została..	Y	została	217	   16,186	0.0365	408	pol_news_2016_00426394
+1086	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Ludzie..	Y	ludzie	218	   16,134	0.0363	161.2	pol_news_2016_00783736
+1087	Nie, to nie są ludzie z ulicy.	Y	ludzie	218	   16,134	0.0363	167.3333	pol_news_2018_00457984
+1088	W mieście też ludzie pracy nie maja.	Y	ludzie	218	   16,134	0.0363	200.5714	pol_news_2016_00865588
+1089	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Ludzie mają głos..	Y	ludzie	218	   16,134	0.0363	237.25	pol_news_2016_00783739
+1090	A to po prostu ludzie mieli dość.	Y	ludzie	218	   16,134	0.0363	252	pol_news_2017_00035410
+1091	Gazeta - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	pakiet	219	   16,055	0.0362	182.5263	pol_news_2017_00182741
+1092	Rosja - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	pakiet	219	   16,055	0.0362	182.9474	pol_news_2017_00651404
+1093	Niemcy - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	pakiet	219	   16,055	0.0362	183.1579	pol_news_2017_00436606
+1094	Forum - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	pakiet	219	   16,055	0.0362	183.3158	pol_news_2017_00178433
+1095	Mężczyzna - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	pakiet	219	   16,055	0.0362	183.6316	pol_news_2017_00349182
+1096	Ale czy to wciąż ten sam film?	Y	sam	220	   16,014	0.0361	173.4286	pol_news_2016_00026463
+1097	Gdyby sam był w stanie powiedzieć, jak było naprawdę, a może nie.	Y	sam	220	   16,014	0.0361	191.0833	pol_news_2016_00199987
+1098	Ale sam przyznaje, że tak już nie będzie.	Y	sam	220	   16,014	0.0361	194.375	pol_news_2018_00018131
+1099	I ju¿ sam nie wiem, kto jest ofiar± w tym wszystkim.	Y	sam	220	   16,014	0.0361	204.3636	pol_news_2017_00207573
+1100	Dlatego jestem tutaj sam, a oni tam.	Y	sam	220	   16,014	0.0361	232.8571	pol_news_2017_00124544
+1101	Myślę, że można, ale co to za życie.	Y	życie	221	   15,950	0.0359	179.5	pol_news_2016_00395103
+1102	Bo dziś życie z nią nie jest już takie, jak kiedyś.	Y	życie	221	   15,950	0.0359	191	pol_news_2017_00054612
+1103	Takie jest życie i taka jest polityka.	Y	życie	221	   15,950	0.0359	217	pol_news_2016_00723739
+1104	Jej były też ma nowe życie i oczywiście potrzeby.	Y	życie	221	   15,950	0.0359	261.8889	pol_news_2018_00265240
+1105	Kim jest i jak wygląda jej życie?	Y	życie	221	   15,950	0.0359	288.7143	pol_news_2018_00303444
+1106	Nikt nie mówi tego wprost, ale między..	Y	między	222	   15,925	0.0359	257.8571	pol_news_2016_00468143
+1107	Tak było między innymi w kwietniu tego roku.	Y	między	222	   15,925	0.0359	347.25	pol_news_2016_00722451
+1108	Czy będzie wojna między prezydentem i PiS?	Y	między	222	   15,925	0.0359	371.7143	pol_news_2017_00104016
+1109	Sprawa katastrofy smoleńskiej, to nie jest sprawa między PiS a PO.	Y	między	222	   15,925	0.0359	385.1	pol_news_2017_00688247
+1110	Wiadomości z kraju i ze świata Polska zwornikiem między UE a USA?	Y	między	222	   15,925	0.0359	432.5833	pol_news_2018_00838178
+1111	K.Z.: W tej chwili chyba są dwie osoby.	Y	osoby	223	   15,920	0.0359	188.3333	pol_news_2018_00329847
+1112	Czy kolejne osoby takie będą, mam nadzieję, że tak.	Y	osoby	223	   15,920	0.0359	204.4444	pol_news_2018_00108370
+1113	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Zależy od osoby.	Y	osoby	223	   15,920	0.0359	228.25	pol_news_2017_00782038
+1114	I płacić za to nawet po 50 euro od osoby.	Y	osoby	223	   15,920	0.0359	274.6667	pol_news_2016_00232181
+1115	Ale to była jeszcze tylko próba… z tego zostały trzy-cztery osoby.	Y	osoby	223	   15,920	0.0359	292.1667	pol_news_2016_00032498
+1116	I to nie tylko na polskim rynku.	Y	rynku	224	   15,855	0.0357	96.7143	pol_news_2016_00235664
+1117	A na rynku jest dopiero od kilku miesięcy.	Y	rynku	224	   15,855	0.0357	168.75	pol_news_2017_00024978
+1118	Z Rynku - Puls Biznesu - pb.pl - strona 2 Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	rynku	224	   15,855	0.0357	190.3	pol_news_2017_00992163
+1119	Co tak naprawdę dzieje się na tym rynku?	Y	rynku	224	   15,855	0.0357	193.625	pol_news_2018_00096468
+1120	To coś, czego to tej pory nie było na rynku.	Y	rynku	224	   15,855	0.0357	197.5556	pol_news_2018_00751211
+1121	To miasto od prawie 30 lat jest centrum..	Y	centrum	225	   15,852	0.0357	155	pol_news_2016_00755351
+1122	To on jest tu w centrum uwagi.	Y	centrum	225	   15,852	0.0357	205	pol_news_2017_00753397
+1123	Tu ma się wrażenie, że jest się naprawdę w centrum świata.	Y	centrum	225	   15,852	0.0357	252.5	pol_news_2018_00780613
+1124	Problem Grecji w centrum uwagi - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	centrum	225	   15,852	0.0357	266.6957	pol_news_2018_00611569
+1125	Do wypadku doszło w sobotę w centrum miasta.	Y	centrum	225	   15,852	0.0357	269.8571	pol_news_2017_00147761
+1126	Choć z drugiej strony, to już nie będzie to samo.	Y	strony	226	   15,835	0.0357	160.2222	pol_news_2018_00083769
+1127	Tak z jednej, jak z drugiej strony.	Y	strony	226	   15,835	0.0357	178.5	pol_news_2016_00729978
+1128	A z drugiej strony, od czego mamy rząd?	Y	strony	226	   15,835	0.0357	186.625	pol_news_2016_00053812
+1129	Na początku tych z drugiej strony prawie nie było widać.	Y	strony	226	   15,835	0.0357	190.9	pol_news_2018_00413326
+1130	Ale z drugiej strony „będziemy mieć” nie oznacza, że każdy będzie miał.	Y	strony	226	   15,835	0.0357	200.3333	pol_news_2018_00021320
+1131	Nie tego, którego tak wiele osób ma dość.	Y	którego	227	   15,687	0.0353	147.75	pol_news_2018_00457898
+1132	Problem dla rządu, którego jeszcze nie ma.	Y	którego	227	   15,687	0.0353	153.5714	pol_news_2017_00604147
+1133	Ale dużo więcej mówi się o spotkaniu, którego nie było.	Y	którego	227	   15,687	0.0353	166.8	pol_news_2017_00012907
+1134	To jego stanowisko, do którego ma prawo.	Y	którego	227	   15,687	0.0353	205	pol_news_2016_00751548
+1135	Do którego kościoła w Warszawie pan chodzi?	Y	którego	227	   15,687	0.0353	264.2857	pol_news_2018_00138374
+1136	System - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	bieżąco	228	   15,680	0.0353	183.7895	pol_news_2017_00705144
+1137	Badania - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	bieżąco	228	   15,680	0.0353	184.1579	pol_news_2017_00041824
+1138	Dom - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	bieżąco	228	   15,680	0.0353	184.4211	pol_news_2017_00138018
+1139	Sport - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	bieżąco	228	   15,680	0.0353	184.8947	pol_news_2017_00686191
+1140	Projekt „Pulsu” już w Sejmie - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	bieżąco	228	   15,680	0.0353	185.7727	pol_news_2018_00615412
+1141	Nie mieli prawa być tam gdzie byli.	Y	prawa	229	   15,652	0.0353	161.2857	pol_news_2016_00450117
+1142	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać A kobieta nie ma prawa do życia?	Y	prawa	229	   15,652	0.0353	162.625	pol_news_2016_00781806
+1143	Ale to wynika z naszego prawa i historii.	Y	prawa	229	   15,652	0.0353	171.5	pol_news_2017_00019630
+1144	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Państwo prawa, co?	Y	prawa	229	   15,652	0.0353	173.3333	pol_news_2016_00784892
+1145	Okazało się, że nie mieli do tego prawa.	Y	prawa	229	   15,652	0.0353	177.375	pol_news_2018_00500684
+1146	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać U nas musi być tak samo.	Y	musi	230	   15,593	0.0351	158.8	pol_news_2017_00781883
+1147	Polska teraz nie musi być tylko nasza.	Y	musi	230	   15,593	0.0351	200.4286	pol_news_2016_00569070
+1148	Nie musi być do tego żadnego powodu więcej niż to, że po prostu są.	Y	musi	230	   15,593	0.0351	202.6429	pol_news_2018_00449894
+1149	"""""""Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać """"""""Wiele musi się zmienić by wszystko zostało tak jak było"""""""".."""""""	Y	musi	230	   15,593	0.0351	205.3333	pol_news_2016_00786510
+1150	Ale w życiu musi być coś więcej.	Y	musi	230	   15,593	0.0351	205.5714	pol_news_2017_00020888
+1151	A to już nie nie jest dla niego dobre.	Y	niego	231	   15,582	0.0351	106.75	pol_news_2018_00036069
+1152	Na razie nie wiadomo, jak do niego doszło.	Y	niego	231	   15,582	0.0351	167.5	pol_news_2018_00416413
+1153	Nie, ale tylko do niego należy ogłoszenie decyzji w tej sprawie.	Y	niego	231	   15,582	0.0351	176.1818	pol_news_2016_00437858
+1154	Ale na razie nic się u niego nie dzieje.	Y	niego	231	   15,582	0.0351	177.5556	pol_news_2016_00029380
+1155	Każdy robi to, co do niego należy.	Y	niego	231	   15,582	0.0351	204.5714	pol_news_2018_00296049
+1156	Jest jak jest i na razie niech tak zostanie.	Y	zostanie	232	   15,557	0.035	149.25	pol_news_2018_00275375
+1157	Co po nich zostanie i na jak długo?	Y	zostanie	232	   15,557	0.035	154.125	pol_news_2017_00091948
+1158	Wie, że zostanie w Polsce, ale co dalej?	Y	zostanie	232	   15,557	0.035	169.25	pol_news_2017_00847649
+1159	Na koniec sezonu nie zostanie ich wielu.	Y	zostanie	232	   15,557	0.035	208.8571	pol_news_2018_00406433
+1160	Zostanie w niej na d³u¿ej?	Y	zostanie	232	   15,557	0.035	258.2857	pol_news_2018_00988193
+1161	Nowe rozwiązania dla Europy - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	nowe	233	   15,540	0.035	219	pol_news_2018_00472648
+1162	Nowe zasady bezpieczeństwa - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	nowe	233	   15,540	0.035	223.8571	pol_news_2018_00472871
+1163	W drodze nowe inwestycje - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	nowe	233	   15,540	0.035	226	pol_news_2018_00826360
+1164	Nowe - Dziennik WschodniPrzeglądarka, z której korzystasz jest przestarzała.	Y	nowe	233	   15,540	0.035	273.875	pol_news_2017_00460972
+1165	To trudne pytanie, bo tam wszystko było dla mnie nowe.	Y	nowe	233	   15,540	0.035	279	pol_news_2018_00767451
+1166	Można powiedzieć, że ten film to dwa w jednym.	Y	jednym	234	   15,508	0.0349	203.3333	pol_news_2018_00385247
+1167	Ani jednym, ani drugim to się nie udało.	Y	jednym	234	   15,508	0.0349	239.5714	pol_news_2018_00027170
+1168	Wydaje się, że jednym z powodów może być to, że Polska wciąż nie ma Euro.	Y	jednym	234	   15,508	0.0349	242.9286	pol_news_2016_00918192
+1169	W swoim czasie był jednym z największych w Warszawie.	Y	jednym	234	   15,508	0.0349	278.875	pol_news_2016_00899076
+1170	Z drugiej strony będziemy w końcu blisko siebie, w jednym kraju.	Y	jednym	234	   15,508	0.0349	282.5	pol_news_2017_00966762
+1171	Brak jest natomiast jeszcze pewno¶ci, z kim.	Y	natomiast	235	   15,505	0.0349	276.125	pol_news_2018_00060980
+1172	Natomiast w tej chwili na miejscu są policjanci i prokurator.	Y	natomiast	235	   15,505	0.0349	298.1	pol_news_2018_00426174
+1173	Natomiast czy to jest dobry ruch w ogóle?	Y	natomiast	235	   15,505	0.0349	331.5	pol_news_2016_00427606
+1174	PiS mówi natomiast, że wszystko było w porządku.	Y	natomiast	235	   15,505	0.0349	344.625	pol_news_2016_00539837
+1175	"""""""""""""""Natomiast w przypadku PKB, to jeśli w Polsce nie zmieni się.."""""""	Y	natomiast	235	   15,505	0.0349	369.9	pol_news_2016_00429028
+1176	Do mieszkania i dla biznesu - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	pb	236	   15,473	0.0349	187.6667	pol_news_2018_00139379
+1177	Pl - Puls Biznesu - pb.pl - strona 2 Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	pb	236	   15,473	0.0349	188.5263	pol_news_2017_00534619
+1178	Premier - Puls Biznesu - pb.pl - strona 2 Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	pb	236	   15,473	0.0349	191.1	pol_news_2017_00599906
+1179	Prezes - Puls Biznesu - pb.pl - strona 3 Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	pb	236	   15,473	0.0349	191.9	pol_news_2017_00601353
+1180	Dobra - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	pb	236	   15,473	0.0349	192.3684	pol_news_2017_00129180
+1181	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Może mają już dość życia w Polsce?	Y	życia	237	   15,395	0.0347	158.5	pol_news_2016_00783930
+1182	Dla wielu jest to sprawa życia i śmierci.	Y	życia	237	   15,395	0.0347	175.875	pol_news_2016_00138297
+1183	Zaczęło się to jeszcze za jego życia.	Y	życia	237	   15,395	0.0347	181.4286	pol_news_2016_00934779
+1184	Ile w niej śmierci, a ile życia?	Y	życia	237	   15,395	0.0347	209	pol_news_2017_00208419
+1185	I tak już pewnie do końca życia..	Y	życia	237	   15,395	0.0347	211.4286	pol_news_2016_00234393
+1186	Albo się ma to coś, albo nie.	Y	albo	238	   15,359	0.0346	98.5	pol_news_2018_00011241
+1187	A jak wszystko – to również niewiele, albo jeszcze mniej.	Y	albo	238	   15,359	0.0346	219.3333	pol_news_2016_00021440
+1188	Albo, jeśli nawet, to nie chce mieć z nim nic wspólnego.	Y	albo	238	   15,359	0.0346	232.3636	pol_news_2017_00011135
+1189	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Nie zawsze łatwo jest powiedzieć tylko tak albo nie.	Y	albo	238	   15,359	0.0346	246.2941	pol_news_2016_00784410
+1190	Ma być tak jak oni chcą, albo wcale.	Y	albo	238	   15,359	0.0346	248.25	pol_news_2016_00348589
+1191	Ma się to stać o godz. 18 w poniedziałek.	Y	godz	239	   15,349	0.0346	218.625	pol_news_2018_00354414
+1192	W poniedziałek o godz. 12 odbędzie się kolejne spotkanie w tej sprawie.	Y	godz	239	   15,349	0.0346	220.4	pol_news_2016_00881246
+1193	Kilka dni później – w środę 6 października (godz.	Y	godz	239	   15,349	0.0346	246.4286	pol_news_2017_00295357
+1194	Pierwszy mecz odbędzie się w środę (godz.	Y	godz	239	   15,349	0.0346	260	pol_news_2018_00537008
+1195	Start w sobotę o godz. 15. Co Gdzie Kiedy.	Y	godz	239	   15,349	0.0346	296.625	pol_news_2018_00701259
+1196	Bo ani dla niego to nie jest dobre, ani dla finansów państwa.	Y	państwa	239	   15,349	0.0346	215.9	pol_news_2018_00056092
+1197	"""""""""""""""Bez tych wartości nie będzie naszego państwa."""""""	Y	państwa	239	   15,349	0.0346	228	pol_news_2017_00050305
+1198	Zawsze można liczyć na pomoc, a to z gminy, a to od państwa.	Y	państwa	239	   15,349	0.0346	242.2727	pol_news_2016_00957286
+1199	Nie każdy ma 500 plus czy inne pieniądze od państwa.	Y	państwa	239	   15,349	0.0346	252.5556	pol_news_2018_00442730
+1200	Takiego państwa co prawda nigdy nie było.	Y	państwa	239	   15,349	0.0346	269	pol_news_2017_00717733
+1201	Tyle osób ocenia komentarz pozytywnieZaloguj się, aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się, aby oceniać Bardzo dobrze Pani Premier.	Y	premier	240	   15,328	0.0345	162.7692	pol_news_2018_00785527
+1202	Ma niewiele czasu, ale też nie ma go i premier.	Y	premier	240	   15,328	0.0345	195	pol_news_2017_00340853
+1203	Z tego co wczoraj mówił pan premier, wygląda, ze tak.	Y	premier	240	   15,328	0.0345	230.5	pol_news_2016_00993431
+1204	A czy Państwo, jak nasz premier, już listy do Św.	Y	premier	240	   15,328	0.0345	295.9	pol_news_2017_00003044
+1205	I to na pewno zależy dziś od polskiego rządu - powiedział były premier i były szef PE.	Y	premier	240	   15,328	0.0345	303.0714	pol_news_2017_00220236
+1206	Proces - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	wybierz	241	   15,287	0.0344	193.1053	pol_news_2017_00605573
+1207	Firmy - Puls Biznesu - pb.pl - strona 3 Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	wybierz	241	   15,287	0.0344	193.15	pol_news_2017_00177509
+1208	Kraj - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	wybierz	241	   15,287	0.0344	193.7895	pol_news_2017_00311473
+1209	Na inwestycje jest 500 mln zł - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	wybierz	241	   15,287	0.0344	194.1818	pol_news_2018_00397423
+1210	Prawdopodobnie - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	wybierz	241	   15,287	0.0344	194.7895	pol_news_2017_00597669
+1211	Tyle osób ocenia komentarz pozytywnieZaloguj się, aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się, aby oceniać Jakie 100zł?	Y	jakie	242	   15,272	0.0344	154.4545	pol_news_2018_00785824
+1212	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać jakie?	Y	jakie	242	   15,272	0.0344	163.6	pol_news_2016_00783149
+1213	Jakie jest ich stanowisko w tej sprawie?	Y	jakie	242	   15,272	0.0344	194.8571	pol_news_2016_00243139
+1214	Jakie jest Pani w tej sprawie stanowisko?	Y	jakie	242	   15,272	0.0344	224.5714	pol_news_2016_00243142
+1215	A jakie jest jego znaczenie dla nas, dla Polski?	Y	jakie	242	   15,272	0.0344	227.25	pol_news_2017_00006689
+1216	Radio - Puls Biznesu - pb.pl - strona 2 Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	gdziekolwiek	243	   15,118	0.0341	195	pol_news_2017_00637782
+1217	Projekt - Puls Biznesu - pb.pl - strona 2 Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	gdziekolwiek	243	   15,118	0.0341	195.2	pol_news_2017_00608350
+1218	Mniej pracowników na L4 - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	gdziekolwiek	243	   15,118	0.0341	195.6667	pol_news_2018_00374223
+1219	Andrzej Duda - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	gdziekolwiek	243	   15,118	0.0341	195.95	pol_news_2017_00025567
+1220	Umowa - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	gdziekolwiek	243	   15,118	0.0341	196.0526	pol_news_2017_00796487
+1221	Miejsca - Puls Biznesu - pb.pl - strona 4 Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	pulsu	244	   15,110	0.034	196.35	pol_news_2017_00353731
+1222	Politycy - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	pulsu	244	   15,110	0.034	196.6316	pol_news_2017_00558660
+1223	Stanowisko - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	pulsu	244	   15,110	0.034	196.8947	pol_news_2017_00693694
+1224	Miasto w mieście - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	pulsu	244	   15,110	0.034	197.4762	pol_news_2017_00351878
+1225	Praca - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	pulsu	244	   15,110	0.034	198.6316	pol_news_2017_00594835
+1226	Nie potrafi, ani też nie ma ludzi do pracy, bo jej na to nie stać.	Y	ani	245	   15,090	0.034	207.1538	pol_news_2016_00454219
+1227	Niestety ani nie pierwszy, ani nie ostatni raz.	Y	ani	245	   15,090	0.034	240.6667	pol_news_2018_00455228
+1228	Nie ma jednak ani domu, ani mieszkania.	Y	ani	245	   15,090	0.034	263	pol_news_2016_00446981
+1229	Ani na 30 km ³y¿w± na koniec mistrzostw.	Y	ani	245	   15,090	0.034	275.5714	pol_news_2018_00027222
+1230	Na więcej nie ma ani pieniędzy, ani siły.	Y	ani	245	   15,090	0.034	281.2857	pol_news_2017_00420012
+1231	O i nowy prezes nie wie co zrobić?	Y	nowy	246	   14,900	0.0336	199.625	pol_news_2016_00498668
+1232	Czy nowy system jest dobry dla dzieci?	Y	nowy	246	   14,900	0.0336	239.8571	pol_news_2018_00110994
+1233	To samo czeka go w Nowy Rok.	Y	nowy	246	   14,900	0.0336	240.4286	pol_news_2018_00765407
+1234	Nowy rząd mamy już od 100 dni i zapewne z tej okazji..	Y	nowy	246	   14,900	0.0336	247.8182	pol_news_2016_00475089
+1235	Nowy początek wojny o śmieci - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	nowy	246	   14,900	0.0336	293.9565	pol_news_2018_00473992
+1236	Banki są w sieci już od 10 lat - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	subskrypcja	247	   14,897	0.0336	199.32	pol_news_2018_00043911
+1237	Kierowca - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	subskrypcja	247	   14,897	0.0336	200.2632	pol_news_2017_00294421
+1238	Państwo - Puls Biznesu - pb.pl - strona 2 Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	subskrypcja	247	   14,897	0.0336	200.9	pol_news_2017_00517006
+1239	MSZ - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	subskrypcja	247	   14,897	0.0336	201	pol_news_2017_00374968
+1240	Wojny - Puls Biznesu - pb.pl - strona 3 Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	subskrypcja	247	   14,897	0.0336	201.8	pol_news_2017_00869093
+1241	I jest ich wśród młodzieży coraz więcej.	Y	wśród	248	   14,870	0.0335	230.7143	pol_news_2018_00212279
+1242	Na chwilę, bo są wśród nich prawie dzieci.	Y	wśród	248	   14,870	0.0335	248	pol_news_2017_00380619
+1243	Niestety wśród nich nie widać ludzi nowych.	Y	wśród	248	   14,870	0.0335	250.2857	pol_news_2016_00458682
+1244	Nie ma wśród nich żadnego z Polski.	Y	wśród	248	   14,870	0.0335	257.2857	pol_news_2018_00446715
+1245	Zginęło ponad 60 osób, wśród nich jest wiele dzieci.	Y	wśród	248	   14,870	0.0335	282	pol_news_2018_00969055
+1246	Czy jednak mają ją Polacy na Litwie?	Y	ją	249	   14,827	0.0334	166.8571	pol_news_2018_00107882
+1247	Wie, że ją na to nie stać.	Y	ją	249	   14,827	0.0334	263.1429	pol_news_2017_00847626
+1248	Jeszcze w połowie lipca można ją było..	Y	ją	249	   14,827	0.0334	268	pol_news_2016_00290496
+1249	Będzie ją można zmienić za dwa lata.	Y	ją	249	   14,827	0.0334	269	pol_news_2017_00046896
+1250	Oni zawsze będą ją mieli, taka jest prawda.	Y	ją	249	   14,827	0.0334	301.375	pol_news_2016_00504311
+1251	U tej Pani nic się teraz nie stało.	Y	pani	250	   14,824	0.0334	179.25	pol_news_2016_00805264
+1252	Chce pani w ogóle jeszcze być w PO?	Y	pani	250	   14,824	0.0334	192.5714	pol_news_2018_00078505
+1253	A czy wie Pani, ¿e ja mia³em tylko dwa miejsca pracy?	Y	pani	250	   14,824	0.0334	202.3333	pol_news_2017_00003099
+1254	Nowa pani od budżetu - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	pani	250	   14,824	0.0334	207.9545	pol_news_2018_00471400
+1255	Ale dobre i to, co robi pani minister.	Y	pani	250	   14,824	0.0334	216	pol_news_2018_00012587
+1256	Jednak¿e potem jest ju¿ tylko lepiej.	Y	ju	251	   14,823	0.0334	144.7143	pol_news_2017_00247517
+1257	Na inne pytania nie by³o ju¿ czasu.	Y	ju	251	   14,823	0.0334	211.375	pol_news_2017_00385830
+1258	A by³y ju¿ pytania za ile?	Y	ju	251	   14,823	0.0334	233.5714	pol_news_2017_00000850
+1259	Bêd± - o ile ju¿ nie s± - z niego ludzie.	Y	ju	251	   14,823	0.0334	254.4444	pol_news_2018_00048232
+1260	To ju¿ nie wie, gdzie jest nasza?	Y	ju	251	   14,823	0.0334	260.7143	pol_news_2018_00756074
+1261	I to nie tylko od święta, ale na co dzień.	Y	dzień	252	   14,816	0.0334	130.5	pol_news_2017_00220343
+1262	Nie jest w stanie być z nimi na co dzień.	Y	dzień	252	   14,816	0.0334	134.1	pol_news_2017_00432024
+1263	Dzień Kobiet w tym roku będzie w piątek.	Y	dzień	252	   14,816	0.0334	170.2857	pol_news_2018_00162692
+1264	A to po prostu dlatego, że… na co dzień więcej mówią.	Y	dzień	252	   14,816	0.0334	183.4545	pol_news_2016_00049006
+1265	Tyle że teraz trudno mówić o tym, co za dzień czy dwa.	Y	dzień	252	   14,816	0.0334	187.75	pol_news_2016_00787419
+1266	I dodaje, że nie tylko o to chodzi.	Y	chodzi	253	   14,752	0.0332	118.875	pol_news_2018_00210815
+1267	A jak nie wiadomo, o co chodzi – chodzi o pieniądze.	Y	chodzi	253	   14,752	0.0332	126.75	pol_news_2018_00006999
+1268	Nie do końca było wiadomo było, o co chodzi.	Y	chodzi	253	   14,752	0.0332	142.25	pol_news_2018_00440541
+1269	Teraz jednak już wiadomo, o co tak naprawdę chodzi.	Y	chodzi	253	   14,752	0.0332	144.7778	pol_news_2018_00740542
+1270	I tylko o to chodzi - podkreślił szef PiS.	Y	chodzi	253	   14,752	0.0332	146	pol_news_2017_00221123
+1271	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać jak wszyscy.	Y	wszyscy	254	   14,703	0.0331	151.0909	pol_news_2016_00783251
+1272	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Czy oni tak wszyscy mają?	Y	wszyscy	254	   14,703	0.0331	153.9286	pol_news_2017_00780575
+1273	Ale wszyscy wiemy przecież, że tak nie jest.	Y	wszyscy	254	   14,703	0.0331	216.75	pol_news_2018_00020704
+1274	A najważniejsze jest to, że po prostu wciąż są wszyscy razem.	Y	wszyscy	254	   14,703	0.0331	226.9091	pol_news_2017_00024394
+1275	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Wszyscy o tym wiedzą.	Y	wszyscy	254	   14,703	0.0331	227.6923	pol_news_2016_00786664
+1276	Już wiadomo, że tak się nie stanie.	Y	stanie	255	   14,596	0.0329	99.1429	pol_news_2016_00297218
+1277	Nie ma na razie informacji o ich stanie.	Y	stanie	255	   14,596	0.0329	128	pol_news_2017_00435150
+1278	Tego jednak, czy tak się stanie, teraz nie wie nikt.	Y	stanie	255	   14,596	0.0329	131.9	pol_news_2018_00734167
+1279	Wygląda na to, że tak się stanie.	Y	stanie	255	   14,596	0.0329	152.5714	pol_news_2018_00920099
+1280	W stanie wojny Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Tak sie nie stanie.	Y	stanie	255	   14,596	0.0329	162.6667	pol_news_2016_00897306
+1281	I chyba właśnie o tym mówi prezes Kaczyński.	Y	prezes	256	   14,535	0.0327	184.625	pol_news_2017_00204394
+1282	Bo za to to pan prezes odpowiada.	Y	prezes	256	   14,535	0.0327	264.3333	pol_news_2018_00060612
+1283	I dodaje, że o sprawie wie już prezes Jarosław Kaczyński.	Y	prezes	256	   14,535	0.0327	283.3	pol_news_2017_00205919
+1284	Nawet Prezes nie wie, co to znaczy.	Y	prezes	256	   14,535	0.0327	295.2857	pol_news_2017_00419279
+1285	Nowy prezes będzie znany już w czwartek.	Y	prezes	256	   14,535	0.0327	296.1429	pol_news_2016_00474937
+1286	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Nie da rady.	Y	rady	256	   14,535	0.0327	169.6667	pol_news_2016_00784199
+1287	Szefa Rady Europejskiej jednak nie będzie w Warszawie.	Y	rady	256	   14,535	0.0327	209.625	pol_news_2016_00713487
+1288	Na sesji rady nic o tym nie było.	Y	rady	256	   14,535	0.0327	220.625	pol_news_2016_00421505
+1289	Nie ma na to rady, na nic nie ma w Polsce rady, a właściwie jest jedna rada.	Y	rady	256	   14,535	0.0327	281	pol_news_2018_00445849
+1290	Bez imigrantów nie damy rady - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	rady	256	   14,535	0.0327	361.913	pol_news_2017_00049343
+1291	Udział w forum to jednak nie wszystko.	Y	udział	257	   14,435	0.0325	149.1429	pol_news_2017_00793721
+1292	Swój udział w nich miała mieć też Polska.	Y	udział	257	   14,435	0.0325	193.125	pol_news_2018_00709593
+1293	"""""""""""""""Jesteśmy za tym, by mieć swój udział w.."""""""	Y	udział	257	   14,435	0.0325	195.875	pol_news_2016_00284041
+1294	Co ciekawe, prezydent mówił w środę, że udział..	Y	udział	257	   14,435	0.0325	264.375	pol_news_2016_00102626
+1295	Ale wziąć w nim udział może każdy z nas.	Y	udział	257	   14,435	0.0325	285.3333	pol_news_2016_00034079
+1296	Potem było kolejne rzeczy i jeszcze kolejne.	Y	potem	258	   14,389	0.0324	208.5	pol_news_2017_00580315
+1297	Potem nie by³o jednak jak zwykle.	Y	potem	258	   14,389	0.0324	217	pol_news_2016_00587587
+1298	A potem kto się zmienia i co się zmienia?	Y	potem	258	   14,389	0.0324	251	pol_news_2018_00029911
+1299	Dopiero potem okazuje się, że coś tu nie gra.	Y	potem	258	   14,389	0.0324	272.4444	pol_news_2018_00141371
+1300	A potem by³o ju¿ tylko gorzej i gorzej, i gorzej.	Y	potem	258	   14,389	0.0324	288.375	pol_news_2017_00029616
+1301	Nie, nie, to jest jej dobre prawo.	Y	prawo	259	   14,257	0.0321	147.5	pol_news_2016_00452335
+1302	Nie wiem, czy maja do tego prawo.	Y	prawo	259	   14,257	0.0321	166.2857	pol_news_2018_00461193
+1303	Prawo nie jest dla PiS-u ważne.	Y	prawo	259	   14,257	0.0321	166.5714	pol_news_2017_00598815
+1304	Ale ma takie prawo i mógł to zrobić.	Y	prawo	259	   14,257	0.0321	188.625	pol_news_2017_00014997
+1305	Prawo jazdy - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	prawo	259	   14,257	0.0321	206.5	pol_news_2017_00598766
+1306	Najlepsze akcje maja - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	maja	260	   14,229	0.0321	239.7619	pol_news_2018_00400327
+1307	Do 31 maja - Dziennik WschodniPrzeglądarka, z której korzystasz jest przestarzała.	Y	maja	260	   14,229	0.0321	247.2222	pol_news_2016_00139236
+1308	Zaczyna się on pod koniec maja i trwa aż do lipca.	Y	maja	260	   14,229	0.0321	272.0909	pol_news_2018_00936749
+1309	Dzień w biznesie, 8 maja - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	maja	260	   14,229	0.0321	297.2273	pol_news_2018_00163670
+1310	Z informacji na stronie MON wynika, że był tam dzień później 18 maja.	Y	maja	260	   14,229	0.0321	307.5	pol_news_2017_00973874
+1311	Nie może nic zrobić dla swojej wsi?”	Y	swojej	261	   14,209	0.032	256.2857	pol_news_2018_00449392
+1312	Na koniec zwrócił się też do swojej rodziny.	Y	swojej	261	   14,209	0.032	346.875	pol_news_2016_00410399
+1313	A ja o swojej przyszłości nie myślę.	Y	swojej	261	   14,209	0.032	356.2857	pol_news_2018_00007356
+1314	Po pierwsze każdy z nas ma prawo do ochrony swojej prywatności w sieci.	Y	swojej	261	   14,209	0.032	365	pol_news_2018_00579690
+1315	Poinformował o tym w komunikacie na swojej stronie.	Y	swojej	261	   14,209	0.032	378.625	pol_news_2016_00558439
+1316	A- jedna, B- dwie, C- trzy, D - a może nikt?	Y	c	262	   14,177	0.0319	251.8889	pol_news_2018_00007508
+1317	"""""""Jak już to przez duże """"""""C"""""""" a nie """"""""CZ""""""""."""""""	Y	c	262	   14,177	0.0319	264.6667	pol_news_2017_00229626
+1318	Szkoda nerwów na tego s-p-r-z-e-d-a-w-c-z-y-k-a!	Y	c	262	   14,177	0.0319	456.1333	pol_news_2016_00715821
+1319	Pit-8c - Puls Biznesu - pb.plSubskrybuj Puls Biznesu subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	c	262	   14,177	0.0319	529.8235	pol_news_2018_00541820
+1320	W czwartek zagra grupa C oraz jedno spotkanie grupy D. El.	Y	c	262	   14,177	0.0319	533	pol_news_2018_00824945
+1321	Na inne nie ma na razie pieniędzy.	Y	inne	263	   14,062	0.0317	187.6667	pol_news_2017_00385828
+1322	A on mi na to mówi: nie, mam dla pana inne zadanie.	Y	inne	263	   14,062	0.0317	266.8333	pol_news_2017_00028289
+1323	Inne - Dziennik WschodniPrzeglądarka, z której korzystasz jest przestarzała.	Y	inne	263	   14,062	0.0317	277.625	pol_news_2017_00213183
+1324	Ale on sam ma na ten temat inne zdanie.	Y	inne	263	   14,062	0.0317	288.4444	pol_news_2017_00016830
+1325	"""""""Lider PiS podkreślił, że """"""""to jest jedna sprawa, są inne""""""""."""""""	Y	inne	263	   14,062	0.0317	303.5	pol_news_2017_00326889
+1326	Wiadomości z kraju i ze świata PiS to bezpieczeństwo.	Y	wiadomości	264	   14,041	0.0316	247.6667	pol_news_2018_00838149
+1327	Wiadomości z kraju i ze świata Spotkanie Duda-Trump.	Y	wiadomości	264	   14,041	0.0316	276.6667	pol_news_2018_00838348
+1328	Wiadomości z kraju i ze świata Art.	Y	wiadomości	264	   14,041	0.0316	322.8571	pol_news_2018_00837757
+1329	Wiadomości z kraju i ze świata Szydło: Od dzisiaj w nowej roli, ale wciąż dobra zmiana.	Y	wiadomości	264	   14,041	0.0316	328.125	pol_news_2018_00838384
+1330	A teraz wiadomości złe – i tych jest, niestety więcej.	Y	wiadomości	264	   14,041	0.0316	338.7778	pol_news_2017_00034805
+1331	Nie nie nie takich akcji nie będzie!	Y	takich	265	   14,027	0.0316	142.75	pol_news_2018_00450452
+1332	Ale w Polsce nie ma takich, taka jest prawda.	Y	takich	265	   14,027	0.0316	172.7778	pol_news_2018_00020569
+1333	No to oczywiście w Polsce takich pieniędzy nie ma.	Y	takich	265	   14,027	0.0316	180.6667	pol_news_2018_00470649
+1334	Czy dużo jest takich kobiet w Polsce?	Y	takich	265	   14,027	0.0316	182.2857	pol_news_2017_00104651
+1335	Co to oznacza dla takich państw jak Polska?	Y	takich	265	   14,027	0.0316	201.875	pol_news_2018_00096633
+1336	Bo nikt nie ma też praw w Rosji.	Y	rosji	266	   14,021	0.0316	171.375	pol_news_2016_00071015
+1337	Jednak ostatecznie i to się Rosji nie udało.	Y	rosji	266	   14,021	0.0316	209.875	pol_news_2017_00249007
+1338	Wszystko wskazuje na to, że nie inaczej będzie w Rosji.	Y	rosji	266	   14,021	0.0316	219.5	pol_news_2018_00902657
+1339	Nie w wypadku Rosji i jej stolicy.	Y	rosji	266	   14,021	0.0316	221.2857	pol_news_2016_00463523
+1340	W Polsce wszystkim się wydaje, że wiedzą o Rosji już wszystko.	Y	rosji	266	   14,021	0.0316	236.6364	pol_news_2016_00880675
+1341	Takiej sytuacji w historii jeszcze nie było.	Y	historii	267	   14,020	0.0316	177.7143	pol_news_2017_00718024
+1342	Raczej nie, bo to nie koniec historii.	Y	historii	267	   14,020	0.0316	195.5	pol_news_2018_00642878
+1343	To jednak także część historii całej Europy, świata.	Y	historii	267	   14,020	0.0316	216	pol_news_2016_00751272
+1344	Będzie to pierwsze tego typu spotkanie w historii.	Y	historii	267	   14,020	0.0316	219.375	pol_news_2018_00049942
+1345	Nie ma za wielu takich wydarzeń w historii Polski.	Y	historii	267	   14,020	0.0316	249.7778	pol_news_2018_00446841
+1346	I co mam zrobić w tej sytuacji?	Y	mam	268	   14,007	0.0316	166.2857	pol_news_2016_00220716
+1347	"""""""Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać """"""""Mam nadzieję że."""""""	Y	mam	268	   14,007	0.0316	201.3333	pol_news_2016_00783778
+1348	Teraz nie mam informacji, czy znów jest to samo.	Y	mam	268	   14,007	0.0316	201.5556	pol_news_2018_00741694
+1349	No to co ja mam zrobić więcej?	Y	mam	268	   14,007	0.0316	202.1429	pol_news_2018_00470575
+1350	W związku z tym mam pytanie: Co dalej?	Y	mam	268	   14,007	0.0316	203.875	pol_news_2016_00931092
+1351	I naprawdę nikt o tym nie mówił.	Y	mówił	269	   13,946	0.0314	156.5714	pol_news_2017_00210706
+1352	Po to tu będziemy, po to tu jesteśmy - mówił.	Y	mówił	269	   13,946	0.0314	253	pol_news_2018_00590132
+1353	"""""""Mówił, że wsparcie jest Polsce nadal potrzebne, """"""""nie tylko, by Polska była w NATO, ale i NATO było w Polsce""""""""."""""""	Y	mówił	269	   13,946	0.0314	254.7647	pol_news_2016_00385967
+1354	Nikt nam nie będzie mówił co mamy robić.	Y	mówił	269	   13,946	0.0314	254.875	pol_news_2016_00467961
+1355	Mówił, że to na pewno nie jest od jego żony.	Y	mówił	269	   13,946	0.0314	255.4	pol_news_2017_00370052
+1356	Tylko na tvp.pl. Kto to taki?	Y	taki	270	   13,896	0.0313	157.2857	pol_news_2016_00788293
+1357	On nie gra, po prostu taki jest.	Y	taki	270	   13,896	0.0313	193.8571	pol_news_2018_00505599
+1358	Taki to kraj i zawsze tak było.	Y	taki	270	   13,896	0.0313	197	pol_news_2017_00719710
+1359	To jest taki pomysł na to, co trener ma.	Y	taki	270	   13,896	0.0313	212	pol_news_2018_00755626
+1360	Dobrze, że jest taki problem, a nie inny (.	Y	taki	270	   13,896	0.0313	217.125	pol_news_2018_00132326
+1361	Nie wiadomo jeszcze, dlaczego do tego doszło.	Y	dlaczego	271	   13,852	0.0312	159.8571	pol_news_2018_00460236
+1362	Dlaczego do tej pory u nas się to nie udało?	Y	dlaczego	271	   13,852	0.0312	164.5	pol_news_2017_00119812
+1363	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać dlaczego?	Y	dlaczego	271	   13,852	0.0312	166.5	pol_news_2016_00782601
+1364	Dlaczego w Polsce nie mo¿e tak byæ.	Y	dlaczego	271	   13,852	0.0312	166.75	pol_news_2017_00121309
+1365	Dlaczego Polski Rząd nic nie robi w tej sprawie?	Y	dlaczego	271	   13,852	0.0312	175.3333	pol_news_2016_00132372
+1366	Du¿o przypadku by³o w tej akcji.	Y	akcji	272	   13,843	0.0312	208.4286	pol_news_2017_00152177
+1367	To by było w zasadzie na tyle o tej akcji.	Y	akcji	272	   13,843	0.0312	242.6	pol_news_2016_00746757
+1368	TFI mają najmniej akcji od 7 lat - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	akcji	272	   13,843	0.0312	290.9167	pol_news_2018_00747260
+1369	RPP w akcji - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	akcji	272	   13,843	0.0312	308.5714	pol_news_2018_00663120
+1370	Co roku w akcji bierze udział około 300 osób.	Y	akcji	272	   13,843	0.0312	323.25	pol_news_2017_00093442
+1371	Choć i może to się da zrobić.	Y	choć	273	   13,820	0.0311	174.8571	pol_news_2016_00094450
+1372	Choć ona nic o tym nie wie.	Y	choć	273	   13,820	0.0311	187.8571	pol_news_2017_00081174
+1373	Choć do tej pory nigdy tego nie..	Y	choć	273	   13,820	0.0311	199	pol_news_2016_00093873
+1374	Jest dobrze, choć nie wiadomo, jak długo.	Y	choć	273	   13,820	0.0311	242.1429	pol_news_2018_00273037
+1375	Choć pierwszy, to wcale nie ostatni raz.	Y	choć	273	   13,820	0.0311	290.1429	pol_news_2018_00083235
+1376	Chodzi przede wszystkim o dane z Europy.	Y	europy	274	   13,810	0.0311	232.7143	pol_news_2016_00096935
+1377	Za³o¿y³em te, które s³u¿y³y nam w mistrzostwach Europy.	Y	europy	274	   13,810	0.0311	234.3333	pol_news_2016_00932330
+1378	Tak jak nie ma go w wielu krajach Europy, na przykład we Francji.	Y	europy	274	   13,810	0.0311	234.6923	pol_news_2016_00725663
+1379	Z Chin do Europy - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	europy	274	   13,810	0.0311	236.5238	pol_news_2018_00959196
+1380	Dlaczego jednak są one ważne dla Europy?	Y	europy	274	   13,810	0.0311	241.8571	pol_news_2016_00131777
+1381	Podobnie jest w Warszawie, gdzie nadal nie..	Y	warszawie	274	   13,810	0.0311	186.2857	pol_news_2016_00553217
+1382	Nie inaczej będzie na pewno w Warszawie.	Y	warszawie	274	   13,810	0.0311	203.5714	pol_news_2017_00430837
+1383	I w Warszawie tych kandydatów, którzy mówią to co ja – w ten właśnie sposób – będzie więcej.	Y	warszawie	274	   13,810	0.0311	220.9333	pol_news_2017_00222324
+1384	Kto wygrał w Warszawie i nie tylko?	Y	warszawie	274	   13,810	0.0311	225.4286	pol_news_2018_00326784
+1385	Praca w Warszawie trwa³a trzy lata, do roku 1907.	Y	warszawie	274	   13,810	0.0311	234.4444	pol_news_2017_00594937
+1386	To dobre zmiany, możliwe tylko w tym roku.	Y	zmiany	275	   13,784	0.0311	226.125	pol_news_2018_00752183
+1387	W ciągu ostatnich 20 lat w Polsce doszło do wielkiej zmiany.	Y	zmiany	275	   13,784	0.0311	226.4444	pol_news_2016_00820795
+1388	Zmiany w ciągu kilku lat - Dziennik WschodniPrzeglądarka, z której korzystasz jest przestarzała.	Y	zmiany	275	   13,784	0.0311	245.25	pol_news_2016_00978383
+1389	I to nie tylko o mój powrót, ale po prostu o zmiany.	Y	zmiany	275	   13,784	0.0311	267	pol_news_2017_00220345
+1390	To niemal 450 tys. zł Zmiany w MSZ.	Y	zmiany	275	   13,784	0.0311	274.8571	pol_news_2018_00760576
+1391	Teraz ma być to ok. 500 złotych więcej.	Y	ok	276	   13,670	0.0308	128.1429	pol_news_2018_00741116
+1392	To ok. 1200 uczniów więcej niż w tym roku.	Y	ok	276	   13,670	0.0308	167.625	pol_news_2016_00758818
+1393	Wygląda na to, że wszystko będzie OK!	Y	ok	276	   13,670	0.0308	171.5714	pol_news_2017_00921295
+1394	Oznacza to wzrost o ok. 15 proc. rok do roku.	Y	ok	276	   13,670	0.0308	182.1111	pol_news_2016_00520097
+1395	Nie wiem, czy to ok. Chyba nie.	Y	ok	276	   13,670	0.0308	208	pol_news_2018_00461269
+1396	O to, co się po prostu należy.	Y	należy	277	   13,659	0.0308	116.4286	pol_news_2018_00517172
+1397	Przyszłość (biznesu) należy do kobiet - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	należy	277	   13,659	0.0308	229.0455	pol_news_2017_00632238
+1398	I to nie ja mam pamiętać, czy to się należy - tylko on.	Y	należy	277	   13,659	0.0308	241	pol_news_2017_00220282
+1399	"""""""Poza tym należy pamiętać, że nadal jesteśmy """"""""w tyle"""""""" jeśli chodzi o USA, mniej więcej o dwa lata."""""""	Y	należy	277	   13,659	0.0308	266	pol_news_2016_00596752
+1400	To się od pana, człowieka od wojny czyli bezpieczeństwa państwa, należy.	Y	należy	277	   13,659	0.0308	269.8	pol_news_2018_00765893
+1401	W tym roku jest na miejscu II.	Y	ii	278	   13,608	0.0307	93.4286	pol_news_2016_00910885
+1402	Tym razem jednak już w II lidze.	Y	ii	278	   13,608	0.0307	214.4286	pol_news_2017_00787765
+1403	I tak było do końca II wojny światowej.	Y	ii	278	   13,608	0.0307	275.875	pol_news_2017_00218912
+1404	Nawet w Europie w czasie II wojny światowej.	Y	ii	278	   13,608	0.0307	346.7143	pol_news_2016_00432951
+1405	II RP nie wygląda tu szczególnie dobrze.	Y	ii	278	   13,608	0.0307	347.4286	pol_news_2018_00211841
+1406	Lepiej może być dopiero za kilka miesięcy.	Y	dopiero	279	   13,597	0.0306	202.2857	pol_news_2018_00334372
+1407	Stało się to jednak dopiero po śmierci ich mamy.	Y	dopiero	279	   13,597	0.0306	203.3333	pol_news_2016_00698454
+1408	Jednak stanie się to dopiero w przyszłości.	Y	dopiero	279	   13,597	0.0306	216.2857	pol_news_2018_00255970
+1409	Prawdopodobnie stanie się to dopiero po Nowym Roku.	Y	dopiero	279	   13,597	0.0306	232.375	pol_news_2016_00603341
+1410	"""""""To jest dopiero przykład """"""""rodziny na swoim""""""""."""""""	Y	dopiero	279	   13,597	0.0306	245.2857	pol_news_2016_00751865
+1411	Warto przy okazji dodać, że są na świecie państwa (np.	Y	np	280	   13,587	0.0306	275.1	pol_news_2018_00815329
+1412	A jak będzie w innych miastach, np. w Warszawie?	Y	np	280	   13,587	0.0306	310.5	pol_news_2018_00006709
+1413	Tak jak dzieje się np. w Niemczech.	Y	np	280	   13,587	0.0306	324.1429	pol_news_2018_00725294
+1414	Trudno, żeby stało się inaczej, skoro będzie to przynajmniej dla kilku z nich (np.	Y	np	280	   13,587	0.0306	326.5	pol_news_2016_00771828
+1415	Takich miejsc w Polsce jest kilka, ale już np. w Warszawie i okolicach go brakuje.	Y	np	280	   13,587	0.0306	335.8571	pol_news_2016_00723157
+1416	Po roku do³±czy³em do firmy.	Y	firmy	281	   13,533	0.0305	105.3333	pol_news_2016_00581841
+1417	Ale na pierwszym miejscu s± sprawy firmy.	Y	firmy	281	   13,533	0.0305	225.5714	pol_news_2017_00015572
+1418	Tylko, że takiej firmy w Krakowie nie ma.	Y	firmy	281	   13,533	0.0305	237.125	pol_news_2017_00784376
+1419	Polska płaci, firmy nic z tego nie mają - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	firmy	281	   13,533	0.0305	245.44	pol_news_2018_00570466
+1420	Firmy mogą sprawdzić, co im grozi - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	firmy	281	   13,533	0.0305	267.5833	pol_news_2017_00177460
+1421	Mimo to, liczy jednak na to, że..	Y	mimo	282	   13,516	0.0304	237	pol_news_2016_00373580
+1422	A mimo tego wciąż ma prawo jazdy.	Y	mimo	282	   13,516	0.0304	283.2857	pol_news_2016_00036593
+1423	Mimo że koszt to 190 zł za dzień.	Y	mimo	282	   13,516	0.0304	290.2857	pol_news_2018_00369619
+1424	A ja myślę, że mimo wszystko stać nas na więcej.	Y	mimo	282	   13,516	0.0304	291.3	pol_news_2016_00021526
+1425	Takie jest życie, które mimo wszystko idzie dalej.	Y	mimo	282	   13,516	0.0304	304.125	pol_news_2016_00723740
+1426	Od kilku lat takiej informacji już nie ma.	Y	kilku	283	   13,515	0.0304	164.75	pol_news_2018_00489374
+1427	Takiej sytuacji nie było od kilku lat!	Y	kilku	283	   13,515	0.0304	181.4286	pol_news_2018_00723296
+1428	Przecież od początku sezonu było wiadomo że będzie jak od kilku już lat.	Y	kilku	283	   13,515	0.0304	192.75	pol_news_2016_00619642
+1429	I to się stało w ciągu ostatnich kilku lat.	Y	kilku	283	   13,515	0.0304	208.2222	pol_news_2017_00220511
+1430	On tu jest od zawsze, ja od kilku godzin.	Y	kilku	283	   13,515	0.0304	222.375	pol_news_2017_00494956
+1431	Mia³em wtedy bardzo du¿o pracy.	Y	em	284	   13,460	0.0303	264.5714	pol_news_2018_00360753
+1432	Ale nie z tego powodu siê cieszy³em.	Y	em	284	   13,460	0.0303	270	pol_news_2018_00016565
+1433	Kilku z nich prowadzi³em jako trener.	Y	em	284	   13,460	0.0303	278.4286	pol_news_2016_00310926
+1434	By polski REIT był REIT-em - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	em	284	   13,460	0.0303	310.4783	pol_news_2017_00070224
+1435	Zanim LOT stał się LOT-em - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	em	284	   13,460	0.0303	311.0435	pol_news_2018_00944774
+1436	D.W.: I dobrze by się stało, gdyby tak było?	Y	d	285	   13,454	0.0303	171.8	pol_news_2016_00165025
+1437	Biznes w 3D - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	d	285	   13,454	0.0303	218.9048	pol_news_2018_00054993
+1438	To i jest du¿y b³±d.	Y	d	285	   13,454	0.0303	223	pol_news_2017_00745605
+1439	A sk±d on jest - ten klub Tak?	Y	d	285	   13,454	0.0303	284.875	pol_news_2016_00046671
+1440	D;la Niej również, ale przez 6 lat.	Y	d	285	   13,454	0.0303	297.5714	pol_news_2017_00123008
+1441	A tu okazuje się, że jest to rząd PiS.	Y	rząd	286	   13,430	0.0303	173.1111	pol_news_2017_00035856
+1442	Ale w końcu tak naprawdę to nie jej rząd, nie jej minister.	Y	rząd	286	   13,430	0.0303	186.4	pol_news_2016_00033678
+1443	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Czas zmienić ten rząd PIS.	Y	rząd	286	   13,430	0.0303	226.7857	pol_news_2017_00780557
+1444	GDZIE był wtedy rząd PO i tzw TK..	Y	rząd	286	   13,430	0.0303	244.5	pol_news_2016_00202509
+1445	Mówi się,że nasz rząd ma mało pieniędzy no dobrze.	Y	rząd	286	   13,430	0.0303	251.5	pol_news_2016_00386236
+1446	Przez prawie 60 minut, bo ca³y czas siê nie da.	Y	prawie	287	   13,427	0.0302	216.1	pol_news_2016_00630147
+1447	Prawie co drugi z nas ma samochód.	Y	prawie	287	   13,427	0.0302	253.4286	pol_news_2018_00605723
+1448	Już prawie 3 mln z nas ma do niej dostęp.	Y	prawie	287	   13,427	0.0302	255.1111	pol_news_2017_00281438
+1449	UE: Prawie trzy miliony euro dla mediów - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	prawie	287	   13,427	0.0302	258.2083	pol_news_2018_00797439
+1450	Tak nie działa ktoś, kto wie, że działa w prawie.	Y	prawie	287	   13,427	0.0302	261.4444	pol_news_2016_00726593
+1451	Może nie będzie to pierwszy minister spraw zagranicznych.	Y	minister	288	   13,419	0.0302	224.875	pol_news_2016_00387624
+1452	Tego chce minister - Dziennik WschodniPrzeglądarka, z której korzystasz jest przestarzała.	Y	minister	288	   13,419	0.0302	240.9	pol_news_2016_00733754
+1453	Mówi o tym minister i część mediów.	Y	minister	288	   13,419	0.0302	244.7143	pol_news_2018_00380822
+1454	Pani minister da radę - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	minister	288	   13,419	0.0302	282.5909	pol_news_2018_00524942
+1455	Poinformował o tym w środę minister obrony..	Y	minister	288	   13,419	0.0302	286.8571	pol_news_2016_00558450
+1456	Ale tylko raz - Dziennik WschodniPrzeglądarka, z której korzystasz jest przestarzała.	Y	dziennik	289	   13,385	0.0302	212.8	pol_news_2016_00033228
+1457	Za 25 mln zł - Dziennik WschodniPrzeglądarka, z której korzystasz jest przestarzała.	Y	dziennik	289	   13,385	0.0302	214	pol_news_2016_00932286
+1458	Chyba jeszcze nie teraz - Dziennik WschodniPrzeglądarka, z której korzystasz jest przestarzała.	Y	dziennik	289	   13,385	0.0302	223.0909	pol_news_2016_00098155
+1459	Od 4 lat - Dziennik WschodniPrzeglądarka, z której korzystasz jest przestarzała.	Y	dziennik	289	   13,385	0.0302	224.1111	pol_news_2016_00486806
+1460	Dla wszystkich - Dziennik WschodniPrzeglądarka, z której korzystasz jest przestarzała.	Y	dziennik	289	   13,385	0.0302	236.6667	pol_news_2016_00138429
+1461	Ale czasem i ona jest na nie!	Y	ona	290	   13,319	0.03	142.5714	pol_news_2017_00012303
+1462	Co oznacza ona dzisiaj, w Polsce roku 2010?	Y	ona	290	   13,319	0.03	167.7143	pol_news_2018_00094033
+1463	Ale czy ona my¶li o nich?	Y	ona	290	   13,319	0.03	184.8571	pol_news_2017_00012485
+1464	Co więcej, twierdzi, że nie tylko ona tak robi.	Y	ona	290	   13,319	0.03	193.1111	pol_news_2017_00095309
+1465	W tym roku odbędzie się ona 21 marca.	Y	ona	290	   13,319	0.03	211.5714	pol_news_2017_00911516
+1466	! po pierwsze wczoraj Polska by³a na 10 miejscu.	Y	pierwsze	291	   13,293	0.0299	188.5	pol_news_2018_00579926
+1467	To prawdopodobnie pierwsze takie miejsce w Polsce.	Y	pierwsze	291	   13,293	0.0299	209.2857	pol_news_2017_00755216
+1468	A w tym roku mają aż trzy pierwsze klasy.	Y	pierwsze	291	   13,293	0.0299	234.6667	pol_news_2018_00040843
+1469	To nie pierwsze zarzuty w tej sprawie.	Y	pierwsze	291	   13,293	0.0299	240	pol_news_2017_00752061
+1470	To nie są ostatnie wybory, to są pierwsze wybory.	Y	pierwsze	291	   13,293	0.0299	252.5	pol_news_2018_00760945
+1471	Ale nie było ich aż tak dużo.	Y	aż	292	   13,275	0.0299	119.2857	pol_news_2018_00015912
+1472	I tak może być aż do początku października!	Y	aż	292	   13,275	0.0299	138	pol_news_2018_00225566
+1473	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać A może aż.	Y	aż	292	   13,275	0.0299	144.8333	pol_news_2017_00780366
+1474	Ale czy aż tak duże jak się mówi?	Y	aż	292	   13,275	0.0299	161.625	pol_news_2018_00012274
+1475	Widać tylko tyle i aż tyle za razem.	Y	aż	292	   13,275	0.0299	166	pol_news_2017_00838033
+1476	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać O swoim tak, a dziecko to już osobny człowiek i to jego życie.	Y	swoim	293	   13,243	0.0298	333.0952	pol_news_2018_00786247
+1477	W tym sezonie, na swoim koncie ma ich już pięć.	Y	swoim	293	   13,243	0.0298	359.8	pol_news_2016_00912068
+1478	Jedna rzecz, którą chciałbym zmienić w swoim życiu to TO, że jestem sam i jest mi z tym dobrze.	Y	swoim	293	   13,243	0.0298	379.5556	pol_news_2018_00257563
+1479	Rodzina na swoim była przebojem ubiegłego roku - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	swoim	293	   13,243	0.0298	389.9167	pol_news_2018_00654891
+1480	"""""""To trzeba mieć… (wiadomo co), aby tak się """"""""swoim"""""""" postawić."""""""	Y	swoim	293	   13,243	0.0298	396	pol_news_2018_00767476
+1481	Dla nas to będzie jednak mecz jak każdy inny.	Y	każdy	294	   13,202	0.0297	182.2222	pol_news_2016_00134098
+1482	Każdy może w nich znaleźć coś dla siebie.	Y	każdy	294	   13,202	0.0297	218	pol_news_2017_00289211
+1483	Teraz każdy liczy już tylko na siebie.	Y	każdy	294	   13,202	0.0297	231.1429	pol_news_2017_00735713
+1484	Każdy zapewnia, że będzie dobrze, ale dobrze nie jest.	Y	każdy	294	   13,202	0.0297	239.875	pol_news_2016_00304694
+1485	Jednak każdy chyba wie o co gra.	Y	każdy	294	   13,202	0.0297	244.4286	pol_news_2016_00264123
+1486	A na tym na pewno nie koniec.	Y	koniec	295	   13,142	0.0296	125.8333	pol_news_2017_00025113
+1487	Ale to by był koniec tej gminy.	Y	koniec	295	   13,142	0.0296	143	pol_news_2018_00019069
+1488	Jest praca dla 370 osób i na tym nie koniec.	Y	koniec	295	   13,142	0.0296	146.1111	pol_news_2016_00286028
+1489	A to przecież nie był jeszcze koniec spotkania!	Y	koniec	295	   13,142	0.0296	148.375	pol_news_2018_00036368
+1490	I to jeszcze nie koniec jego inwestycji.	Y	koniec	295	   13,142	0.0296	165	pol_news_2017_00220147
+1491	Poza tym co się mówi, ważne kto to mówi.	Y	poza	296	   13,117	0.0295	163.75	pol_news_2018_00597742
+1492	A poza tym imprezy, imprezy i jeszcze raz imprezy.	Y	poza	296	   13,117	0.0295	192.5714	pol_news_2017_00029915
+1493	Poza tym tam się inaczej wszystko ocenia.	Y	poza	296	   13,117	0.0295	197.2857	pol_news_2016_00597080
+1494	A poza tym: „Gdyby co, to bardzo blisko do Wilna.	Y	poza	296	   13,117	0.0295	217.6	pol_news_2017_00029914
+1495	Tylko jeden jest poza list±, ale to dobrze dla niego.	Y	poza	296	   13,117	0.0295	226.3	pol_news_2016_00788014
+1496	Koncert w Centrum Kultury Centrum Kultury w Lublinie (ul.	Y	ul	297	   13,080	0.0295	412.8333	pol_news_2017_00305296
+1497	On się zna najlepiej i widzi to, a może ul 3 Maja wraca do domu.	Y	ul	297	   13,080	0.0295	436.0714	pol_news_2018_00505966
+1498	Takie w Lublinie były dwa: na ul. Zielonej i na 1-go Maja.	Y	ul	297	   13,080	0.0295	445.5455	pol_news_2017_00718930
+1499	Prace zaczęły się już na ul. Jana Pawła II.	Y	ul	297	   13,080	0.0295	568	pol_news_2016_00601446
+1500	Do pierwszego z nich doszło w sobotę (6 lutego) przy ul. Chłopickiego.	Y	ul	297	   13,080	0.0295	603.5455	pol_news_2018_00141817
+1501	"""""""""""""""Większość z tej grupy w czwartek wraca do kraju."""""""	Y	grupy	298	   13,079	0.0295	275.3333	pol_news_2016_00847556
+1502	Ponad dwie trzecie tej grupy chce znaleźć nową pracę jeszcze w tym roku.	Y	grupy	298	   13,079	0.0295	371.6154	pol_news_2018_00575578
+1503	PKP podzielą się na trzy grupy - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	grupy	298	   13,079	0.0295	389.5217	pol_news_2018_00542206
+1504	Polska z tej grupy ma przyjąć ponad 6 tysięcy osób.	Y	grupy	298	   13,079	0.0295	391.6667	pol_news_2016_00569460
+1505	Trener Rumunii już ma się za zwycięzcę grupy - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	grupy	298	   13,079	0.0295	405.5385	pol_news_2018_00773971
+1506	Obecnie takie prawo ma tylko szef Biura.	Y	szef	299	   13,078	0.0295	309.8571	pol_news_2016_00479003
+1507	Szef IT znaczy więcej - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	szef	299	   13,078	0.0295	334.5909	pol_news_2017_00708690
+1508	Nowy szef firmy farmaceutycznej - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	szef	299	   13,078	0.0295	343.1364	pol_news_2018_00474394
+1509	Nowy szef Rosnieftu - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	szef	299	   13,078	0.0295	347.8571	pol_news_2018_00474408
+1510	A to że będzie mówił nie jako premier tylko jako szef PO, to nikt mu nie może zabronić.	Y	szef	299	   13,078	0.0295	351.6	pol_news_2018_00036524
+1511	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Jestem za.	Y	jestem	300	   13,069	0.0294	155.5455	pol_news_2016_00783391
+1512	Nie byłoby mnie w tej chwili tu, gdzie jestem, gdyby nie on.	Y	jestem	300	   13,069	0.0294	201.8182	pol_news_2018_00436846
+1513	Ale wiem, że jestem w stanie to zrobić.	Y	jestem	300	   13,069	0.0294	210.5	pol_news_2017_00020319
+1514	Nie jestem w stanie powiedzieć, że tak było na pewno - podkreślił.	Y	jestem	300	   13,069	0.0294	214.9091	pol_news_2017_00431332
+1515	Jestem tutaj i to już coś oznacza.	Y	jestem	300	   13,069	0.0294	217.4286	pol_news_2018_00274058
+1516	W końcu my też chcemy, by byli u nas, w Polsce.	Y	byli	301	   13,026	0.0293	226.5	pol_news_2017_00854320
+1517	Na przykład, że wszyscy już u niego byli, tylko nie ojciec.	Y	byli	301	   13,026	0.0293	229.0909	pol_news_2016_00418597
+1518	Jak sprawa by³a ¶wie¿a to gdzie byli¶cie?	Y	byli	301	   13,026	0.0293	233.1111	pol_news_2018_00243527
+1519	Niektórzy z nich byli tu po raz pierwszy.	Y	byli	301	   13,026	0.0293	234.125	pol_news_2017_00433480
+1520	Byli, jak to się mówi, z ludźmi i dla ludzi.	Y	byli	301	   13,026	0.0293	280.2	pol_news_2018_00068676
+1521	Dla Polski około 18 mln do końca tego wieku.	Y	wieku	302	   12,961	0.0292	154.125	pol_news_2018_00125821
+1522	Trafi³a do mnie w wieku trzech lat.	Y	wieku	302	   12,961	0.0292	238.75	pol_news_2017_00763017
+1523	Na koniec wieku będzie nas niewiele ponad 21 mln!	Y	wieku	302	   12,961	0.0292	258.5	pol_news_2017_00394915
+1524	Prawdopodobnie jest to mężczyzna w wieku ok. 40 lat.	Y	wieku	302	   12,961	0.0292	263.125	pol_news_2018_00605026
+1525	Ale inaczej było jeszcze pół wieku temu.	Y	wieku	302	   12,961	0.0292	297.2857	pol_news_2017_00013349
+1526	Drugi raz jest przy mnie w takiej sytuacji.	Y	sytuacji	303	   12,948	0.0292	199.75	pol_news_2018_00152702
+1527	Co w tej sytuacji powinna zrobić Polska?	Y	sytuacji	303	   12,948	0.0292	225.8571	pol_news_2016_00108922
+1528	"""""""Takiej sytuacji do tej pory nie było"""""""" - powiedział."""""""	Y	sytuacji	303	   12,948	0.0292	226.75	pol_news_2016_00723837
+1529	Jestem w takiej sytuacji w tej chwili.	Y	sytuacji	303	   12,948	0.0292	228.3333	pol_news_2018_00274160
+1530	Tak dobrej sytuacji nie było od 6 lat.	Y	sytuacji	303	   12,948	0.0292	234.1429	pol_news_2016_00722786
+1531	Co tu sie dzieje w tym kraju?	Y	sie	304	   12,937	0.0291	194.2857	pol_news_2016_00108045
+1532	Taka jest prawda o tym co sie stanie.	Y	sie	304	   12,937	0.0291	223.25	pol_news_2018_00720742
+1533	Ale to już kwestia czasu, że tak sie stanie.	Y	sie	304	   12,937	0.0291	278.1111	pol_news_2016_00032666
+1534	Pod koniec września prezydent uda sie do USA.	Y	sie	304	   12,937	0.0291	279.75	pol_news_2016_00550499
+1535	I teraz w końcu trzeba sie za to wziąć.	Y	sie	304	   12,937	0.0291	322.8889	pol_news_2018_00226210
+1536	Tyle osób ocenia komentarz pozytywnieZaloguj się, aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się, aby oceniać Polacy?	Y	polacy	305	   12,759	0.0287	169.9	pol_news_2018_00786316
+1537	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Sa polacy i Polacy.	Y	polacy	305	   12,759	0.0287	200.75	pol_news_2018_00786455
+1538	Coś mi się wydaje,że Polacy właśnie.	Y	polacy	305	   12,759	0.0287	228.5714	pol_news_2018_00096153
+1539	Tego na razie nie wiadomo, ale pewne jest, że tego chcą Polacy.	Y	polacy	305	   12,759	0.0287	232.3636	pol_news_2017_00729094
+1540	W końcu Polacy na Litwie to Polacy.	Y	polacy	305	   12,759	0.0287	246.6667	pol_news_2018_00855849
+1541	To wszystko to jednak tylko część informacji.	Y	część	306	   12,712	0.0286	143.3333	pol_news_2018_00769689
+1542	Jak się okazuje część z nich jest bardzo..	Y	część	306	   12,712	0.0286	187	pol_news_2016_00252651
+1543	Ale jedna i druga część kraju nie chce ich tutaj.	Y	część	306	   12,712	0.0286	237	pol_news_2016_00027620
+1544	Skoro tak, to wygląda na to, że część ludzi nawet nie wie, że są takie wybory.	Y	część	306	   12,712	0.0286	244.6429	pol_news_2017_00676845
+1545	Część z nich wygląda na bardzo młodych.	Y	część	306	   12,712	0.0286	264.7143	pol_news_2016_00114242
+1546	Tak, ale to jest około 18% NARODU, a nie WIĘKSZOŚĆ.	Y	około	307	   12,685	0.0286	265.7778	pol_news_2018_00720858
+1547	Około 20 proc. Polaków myśli tak, jak my.	Y	około	307	   12,685	0.0286	275.8571	pol_news_2016_00501361
+1548	Było to około 42 proc. więcej niż w tym samym okresie ubiegłego roku.	Y	około	307	   12,685	0.0286	286.1667	pol_news_2017_00067911
+1549	W samej Polsce jest ich około 100 tysięcy.	Y	około	307	   12,685	0.0286	314.7143	pol_news_2016_00890115
+1550	Około 3 proc. samorządów może mieć problemy finansowe - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	około	307	   12,685	0.0286	334.52	pol_news_2017_00491281
+1551	Niestety, jest to nie ten poziom kultury.	Y	kultury	308	   12,676	0.0286	222.5714	pol_news_2017_00445098
+1552	Jak można szkoły to co dopiero jakiś tam dom kultury.	Y	kultury	308	   12,676	0.0286	283.5	pol_news_2017_00230765
+1553	Od dwóch lat zajmuje się tym Ministerstwo Kultury.	Y	kultury	308	   12,676	0.0286	305.75	pol_news_2018_00488395
+1554	Pałac Kultury i Nauki - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	kultury	308	   12,676	0.0286	321.6818	pol_news_2017_00512918
+1555	Są pieniądze na rozwój kultury dla organizacji.	Y	kultury	308	   12,676	0.0286	324.2857	pol_news_2016_00672834
+1556	A nikt nie wie jak to jest po śmierci.	Y	nikt	309	   12,652	0.0285	154.3333	pol_news_2018_00027188
+1557	Był i jest wciąż, co do tego wątpliwości już nie ma chyba nikt.	Y	nikt	309	   12,652	0.0285	172.8462	pol_news_2017_00066637
+1558	I niech nikt nie mówi, że to „nic nie da”.	Y	nikt	309	   12,652	0.0285	174.6667	pol_news_2017_00212239
+1559	Nikt nie wie, jak do tego doszło.	Y	nikt	309	   12,652	0.0285	185.2857	pol_news_2018_00467557
+1560	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać e tam, nie nikt, tylko ty.	Y	nikt	309	   12,652	0.0285	188.8	pol_news_2017_00780672
+1561	Czy u nas nie ma o czym mówić?	Y	czym	310	   12,642	0.0285	212	pol_news_2016_00124062
+1562	Na czym miały one by tam być?	Y	czym	310	   12,642	0.0285	222.1429	pol_news_2016_00397871
+1563	Czym są wybory i co to jest Sejm?	Y	czym	310	   12,642	0.0285	224.75	pol_news_2017_00107741
+1564	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać W sumie w czym problem?	Y	czym	310	   12,642	0.0285	260	pol_news_2017_00781985
+1565	T.J.: Ale o czym by¶ mówi³?	Y	czym	310	   12,642	0.0285	269	pol_news_2018_00747797
+1566	Każdy ma swoją rolę na tym świecie.	Y	swoją	311	   12,599	0.0284	290	pol_news_2016_00304196
+1567	Wolność ma swoją cenę - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	swoją	311	   12,599	0.0284	294.2273	pol_news_2017_00870309
+1568	A swoją drogą to: nie każdy musi mieć dzieci.	Y	swoją	311	   12,599	0.0284	340.6667	pol_news_2018_00034238
+1569	Reforma ma swoją cenę - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	swoją	311	   12,599	0.0284	344.7273	pol_news_2018_00648117
+1570	Praca przy nich miała też swoją wartość.	Y	swoją	311	   12,599	0.0284	378.5714	pol_news_2016_00600968
+1571	I chyba jest w tym coś na rzeczy.	Y	coś	312	   12,576	0.0283	157.625	pol_news_2018_00209313
+1572	Jeśli się coś robi, to po coś.	Y	coś	312	   12,576	0.0283	173.6667	pol_news_2016_00280422
+1573	Czy da się coś z tym zrobić?	Y	coś	312	   12,576	0.0283	180	pol_news_2018_00107176
+1574	Jeżeli będzie inaczej to coś jest nie tak.	Y	coś	312	   12,576	0.0283	184.625	pol_news_2016_00290858
+1575	Ale być może chodzi też o coś innego.	Y	coś	312	   12,576	0.0283	191	pol_news_2016_00025907
+1576	I to tylko w pierwszym roku działania nowego programu.	Y	nowego	313	   12,448	0.028	179	pol_news_2017_00220571
+1577	Na razie nic nowego się nie dzieje.	Y	nowego	313	   12,448	0.028	228.1429	pol_news_2017_00404595
+1578	Od nowego roku ma się to zmienić.	Y	nowego	313	   12,448	0.028	228.7143	pol_news_2016_00490784
+1579	Ale to co stało się we Francji to coś nowego.	Y	nowego	313	   12,448	0.028	245.7778	pol_news_2016_00032534
+1580	Drugi tydzień nowego roku nie jest już tak dobry dla naszego rynku jak pierwszy.	Y	nowego	313	   12,448	0.028	252.1429	pol_news_2016_00162245
+1581	Jeden mecz to zdecydowanie za ma³o.	Y	mecz	314	   12,425	0.028	223.1429	pol_news_2018_00252273
+1582	To ostatni mecz reprezentacji w tym roku.	Y	mecz	314	   12,425	0.028	233.4286	pol_news_2018_00762454
+1583	Mecz o wszystko - Dziennik WschodniPrzeglądarka, z której korzystasz jest przestarzała.	Y	mecz	314	   12,425	0.028	239.6	pol_news_2017_00347039
+1584	Być może był to nasz najlepszy mecz w tym sezonie.	Y	mecz	314	   12,425	0.028	244.8	pol_news_2018_00066383
+1585	Być może będzie u nas nawet mecz z udziałem reprezentacji Polski.	Y	mecz	314	   12,425	0.028	248.1818	pol_news_2018_00066366
+1586	Tak samo mniej więcej było w Polsce.	Y	mniej	315	   12,386	0.0279	152.5714	pol_news_2017_00721867
+1587	To o 20 proc. mniej niż w roku ubiegłym.	Y	mniej	315	   12,386	0.0279	184.625	pol_news_2018_00761474
+1588	Mniej o nim się mówi i pisze.	Y	mniej	315	   12,386	0.0279	188	pol_news_2017_00363247
+1589	Tyle osób ocenia komentarz pozytywnieZaloguj się, aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się, aby oceniać Nas wcale nie jest mniej!	Y	mniej	315	   12,386	0.0279	194.5714	pol_news_2018_00786076
+1590	Mniej nowych działalności - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	mniej	315	   12,386	0.0279	202.8571	pol_news_2018_00374194
+1591	No ale nie jest i na pewno nie będzie.	Y	no	316	   12,252	0.0276	100.5	pol_news_2017_00457923
+1592	No, ale tak to się dzieje, nie tylko w Polsce.	Y	no	316	   12,252	0.0276	124.7	pol_news_2016_00469241
+1593	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać A no nie.	Y	no	316	   12,252	0.0276	144	pol_news_2017_00780377
+1594	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać No, jak to?	Y	no	316	   12,252	0.0276	144.3333	pol_news_2016_00784487
+1595	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać No nie ma.	Y	no	316	   12,252	0.0276	144.8333	pol_news_2016_00784498
+1596	Co będzie później - tego już nie wiadomo.	Y	później	317	   12,241	0.0276	113.5714	pol_news_2017_00088466
+1597	Później możemy nie mieć na to czasu.	Y	później	317	   12,241	0.0276	206	pol_news_2016_00598827
+1598	Ile zostało z niego blisko 15 lat później?	Y	później	317	   12,241	0.0276	277.5714	pol_news_2018_00213488
+1599	Ten stan rzeczy trwa i teraz, 20 lat później.	Y	później	317	   12,241	0.0276	280.75	pol_news_2018_00738534
+1600	Co się zmieni od 1 września, a co później?	Y	później	317	   12,241	0.0276	307.8571	pol_news_2018_00096069
+1601	Zobacz więcej na temat: centrum zdrowia dziecka Polskie Radio Dzieciom Ten artykuł nie ma jeszcze komentarzy, możesz być pierwszy!	Y	radio	318	   12,155	0.0274	315.1579	pol_news_2016_00984687
+1602	"""""""Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Po co to nic nie da lepiej mieć kilka stacji niż jedno """"""""Radio Maryja"""""""",o to tu chodzi."""""""	Y	radio	318	   12,155	0.0274	332.3077	pol_news_2016_00784996
+1603	"""""""Zobacz więcej na temat: Radio Wolna Europa """"""""Polska to wielka rzecz"""""""" I ja mam o tej rzeczy, o jej historii mówić?"""""""	Y	radio	318	   12,155	0.0274	405.4	pol_news_2016_00985631
+1604	W³a¶nie takie by³o Radio Wolna Europa.	Y	radio	318	   12,155	0.0274	426.8889	pol_news_2017_00809637
+1605	Raz Dwa Trzy w PolskieRadio.pl (2) polskie radio dzieciom Stany Zjednoczone mają nowego prezydenta.	Y	radio	318	   12,155	0.0274	455.3571	pol_news_2016_00644947
+1606	W Polsce można, ale w innym miejscu nie - dodał.	Y	miejscu	319	   12,109	0.0273	202.625	pol_news_2016_00880233
+1607	Samochody na pierwszym miejscu - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	miejscu	319	   12,109	0.0273	244.5238	pol_news_2018_00671476
+1608	Nie wiadomo, co powstanie w jego miejscu.	Y	miejscu	319	   12,109	0.0273	245.1429	pol_news_2018_00459952
+1609	"""""""Już jest na miejscu"""""""" O tym szpitalu mówią teraz wszyscy w Polsce."""""""	Y	miejscu	319	   12,109	0.0273	245.3333	pol_news_2018_00287195
+1610	Na miejscu okazało się, że kobieta ma się dobrze.	Y	miejscu	319	   12,109	0.0273	253.125	pol_news_2018_00408617
+1611	Wiele wskazuje na to, że było warto.	Y	warto	320	   12,103	0.0273	227.5714	pol_news_2016_00848284
+1612	Warto więc, by PO znów była u władzy.	Y	warto	320	   12,103	0.0273	232.5	pol_news_2018_00815983
+1613	Warto Wiedzieć - Puls Biznesu - pb.pl - strona 2 Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	warto	320	   12,103	0.0273	271.9048	pol_news_2017_00814092
+1614	Warto mieć e-sklep - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	warto	320	   12,103	0.0273	282.3182	pol_news_2017_00813033
+1615	Nie warto długo czekać na swoje pieniądze - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	warto	320	   12,103	0.0273	283.9167	pol_news_2018_00459682
+1616	I tak się stało w l994 roku.	Y	l	321	   12,079	0.0272	167.5714	pol_news_2016_00234615
+1617	Jest na L4, raczej już do pracy nie wróci.	Y	l	321	   12,079	0.0272	299.4444	pol_news_2016_00285052
+1618	J.L.: Ale mamy z tym problem, prawda?	Y	l	321	   12,079	0.0272	302	pol_news_2016_00292965
+1619	Od razu przysz³a mi my¶l, ¿e nie powinno ich tam byæ.	Y	l	321	   12,079	0.0272	388.1538	pol_news_2018_00493054
+1620	Wszyscy pewnie my¶l±, ¿e mówiê o tej ostatniej akcji, ale tak nie jest.	Y	l	321	   12,079	0.0272	420.1429	pol_news_2016_00900833
+1621	Tak, tylko taki był plan, taki był projekt.	Y	projekt	322	   12,043	0.0271	269.5	pol_news_2017_00722849
+1622	Rząd przyjął projekt budżetu na 2016 r. - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	projekt	322	   12,043	0.0271	273.8696	pol_news_2018_00666081
+1623	PiS jako projekt jednego człowieka- POLSKA - Newsweek.	Y	projekt	322	   12,043	0.0271	303	pol_news_2018_00540895
+1624	Projekt do naprawy - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	projekt	322	   12,043	0.0271	309.8571	pol_news_2018_00614919
+1625	Do Sejmu trafił projekt ustawy w tej sprawie.	Y	projekt	322	   12,043	0.0271	315.375	pol_news_2016_00153353
+1626	W domu czeka³y na mnie dwie wiadomo¶ci – dobra i z³a.	Y	dwie	323	   12,021	0.0271	204.7692	pol_news_2017_00824619
+1627	Chodzi o dwie szkoły w Wilnie (im.	Y	dwie	323	   12,021	0.0271	253.5714	pol_news_2017_00082243
+1628	"""""""""""""""Trzeba w życiu bardzo dużo rzeczy zrobić, żeby po śmierci ze dwie, trzy zostały”."""""""	Y	dwie	323	   12,021	0.0271	279.7857	pol_news_2017_00770425
+1629	Te dwie firmy już niczego nie muszą,bo już u nas są.	Y	dwie	323	   12,021	0.0271	284.3636	pol_news_2016_00733613
+1630	Dwie dziewczyny do³±czy³y do nas kilka dni temu.	Y	dwie	323	   12,021	0.0271	343.8889	pol_news_2017_00153968
+1631	Na razie jednak nie ma na to pieniędzy.	Y	razie	324	   11,964	0.027	129.7143	pol_news_2017_00404374
+1632	Tak jest i na razie inaczej nie będzie.	Y	razie	324	   11,964	0.027	136.75	pol_news_2016_00725943
+1633	"""""""Jarosław mówi, że """"""""tak to na razie będzie""""""""."""""""	Y	razie	324	   11,964	0.027	144.125	pol_news_2016_00260521
+1634	To mo¿e byæ jak na razie spotkanie tego roku.	Y	razie	324	   11,964	0.027	171.5	pol_news_2016_00755587
+1635	I na razie nie wiadomo, czy uda się im..	Y	razie	324	   11,964	0.027	185.1111	pol_news_2016_00226270
+1636	A nie na trzech, jak do tej pory.	Y	trzech	325	   11,938	0.0269	139.5	pol_news_2018_00027025
+1637	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Tylko trzech?	Y	trzech	325	   11,938	0.0269	159	pol_news_2016_00786340
+1638	Co więcej - wcale nie jest pewne, że było ich trzech.	Y	trzech	325	   11,938	0.0269	256.1	pol_news_2016_00108693
+1639	"""""""I to tylko w ciągu najbliższych trzech lat."""""""""""""""	Y	trzech	325	   11,938	0.0269	275.5	pol_news_2016_00235868
+1640	Do trzech razy sztuka - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	trzech	325	   11,938	0.0269	276.9545	pol_news_2018_00147442
+1641	Jeśli nie teraz, to już chyba nigdy.	Y	nigdy	326	   11,930	0.0269	131	pol_news_2017_00264188
+1642	A przecież tego nigdy nie jest za mało.	Y	nigdy	326	   11,930	0.0269	181	pol_news_2018_00030734
+1643	Nie taka Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Nigdy w życiu.	Y	nigdy	326	   11,930	0.0269	208	pol_news_2016_00459070
+1644	Tym razem siê nie uda³o, ale czy to znaczy, ¿e nie uda siê nigdy?	Y	nigdy	326	   11,930	0.0269	221.5833	pol_news_2016_00793016
+1645	A przecież nigdy mnie tu nie było, prawda?	Y	nigdy	326	   11,930	0.0269	224.5	pol_news_2018_00030682
+1646	Na pierwszym spotkaniu się to nie udało – będą kolejne.	Y	kolejne	327	   11,833	0.0267	222.4444	pol_news_2017_00400242
+1647	Poinformował również, że kolejne spotkanie na ten temat odbędzie się 10 lutego.	Y	kolejne	327	   11,833	0.0267	256.7273	pol_news_2018_00559800
+1648	Po Euro 2012 nie będzie już pieniędzy na kolejne inwestycje.	Y	kolejne	327	   11,833	0.0267	258.7778	pol_news_2018_00558765
+1649	Jeśli nie to przed nami kolejne wybory.	Y	kolejne	327	   11,833	0.0267	260.8571	pol_news_2016_00279728
+1650	Dla nas były to dwa kolejne mecze, dzień po dniu.	Y	kolejne	327	   11,833	0.0267	288.7	pol_news_2017_00122684
+1651	To Ty właśnie na to o tyle o ile.	Y	ile	328	   11,731	0.0264	221.1429	pol_news_2016_00764689
+1652	Ile energii potrzebuje Polska - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	ile	328	   11,731	0.0264	266.9545	pol_news_2017_00207964
+1653	Nie trzeba mieć nie wiadomo ile pieniędzy.	Y	ile	328	   11,731	0.0264	275.8333	pol_news_2018_00458183
+1654	Ale ile tak naprawdę o sobie wiemy?	Y	ile	328	   11,731	0.0264	277.7143	pol_news_2016_00027133
+1655	Ile lat jesteś w USA, że jeszcze o tym nie wiesz?	Y	ile	328	   11,731	0.0264	280.8182	pol_news_2018_00213075
+1656	"""""""""""""""Chodzi o to, by mieć więcej możliwości działania."""""""	Y	mieć	329	   11,711	0.0264	227.5	pol_news_2016_00096583
+1657	Nie musi mieć takich praw jak my.	Y	mieć	329	   11,711	0.0264	241	pol_news_2017_00439380
+1658	Wynika z tego, ze Polacy nigdy nie będą mieć konstytucji dla siebie.	Y	mieć	329	   11,711	0.0264	247.5833	pol_news_2017_00924843
+1659	I nie bardzo wiem, co z tym zrobić, no bo co on mógł mieć na myśli?	Y	mieć	329	   11,711	0.0264	247.7333	pol_news_2016_00227857
+1660	Trzeba mieć nadzieję, że podobnie będzie tym razem.	Y	mieć	329	   11,711	0.0264	249.625	pol_news_2018_00777611
+1661	Od początku do końca nie wiadomo o co chodzi.	Y	początku	330	   11,707	0.0264	158.2222	pol_news_2016_00491235
+1662	Na początku tego roku działalność w tym kraju..	Y	początku	330	   11,707	0.0264	177.625	pol_news_2016_00416449
+1663	Tyle osób ocenia komentarz pozytywnieZaloguj się, aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się, aby oceniać Tam gdzie chodzi o duże pieniądze, tam nic się nie liczy, ale to było wiadomo od początku.	Y	początku	330	   11,707	0.0264	211.4167	pol_news_2018_00786548
+1664	I to nie zaczęło się za rządów PO, tylko na początku lat 90-tych.	Y	początku	330	   11,707	0.0264	244.9231	pol_news_2016_00235686
+1665	Pod koniec listopada albo na początku grudnia.	Y	początku	330	   11,707	0.0264	259.2857	pol_news_2017_00542957
+1666	W związku z tym to prawo trzeba zmienić.	Y	związku	331	   11,675	0.0263	244.125	pol_news_2016_00931260
+1667	Jak dodał, policja prowadzi w związku z tym działania.	Y	związku	331	   11,675	0.0263	253.6667	pol_news_2017_00226371
+1668	W związku z tym jest mi bardzo ciężko.	Y	związku	331	   11,675	0.0263	304.375	pol_news_2016_00931067
+1669	W związku z tym kolejne pytanie: gdzie jest Donald Tusk, co robi?	Y	związku	331	   11,675	0.0263	315.25	pol_news_2016_00931080
+1670	Właśnie w związku z tym nie podoba mi się taka polityka.	Y	związku	331	   11,675	0.0263	327	pol_news_2017_00858596
+1671	Nie tylko o pieniądze, ale i wartości.	Y	pieniądze	332	   11,610	0.0262	150.5714	pol_news_2018_00458572
+1672	Okazuje się, że pieniądze w Polsce na to są.	Y	pieniądze	332	   11,610	0.0262	161.2222	pol_news_2018_00501551
+1673	I nie za pieniądze - jak się okazało.	Y	pieniądze	332	   11,610	0.0262	166.7143	pol_news_2016_00228406
+1674	Bo to miały być pieniądze dla nich.	Y	pieniądze	332	   11,610	0.0262	179	pol_news_2016_00072134
+1675	Właśnie nie wiem, czy chodzi o pieniądze.	Y	pieniądze	332	   11,610	0.0262	196	pol_news_2017_00858150
+1676	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Gdyby gdyby gdyby.	Y	gdyby	333	   11,604	0.0261	172.7	pol_news_2017_00780692
+1677	"""""""Co by powiedział, gdyby był z nami""""""""."""""""	Y	gdyby	333	   11,604	0.0261	198.8571	pol_news_2018_00090813
+1678	Najlepiej gdyby to było tu i tu.	Y	gdyby	333	   11,604	0.0261	207.3333	pol_news_2017_00388370
+1679	Nawet gdyby to było 50 miejsc pracy to już coś.	Y	gdyby	333	   11,604	0.0261	211	pol_news_2016_00431921
+1680	Co by by³o, gdyby powstania nie by³o?	Y	gdyby	333	   11,604	0.0261	227.8333	pol_news_2017_00088513
+1681	Nie tylko u nas, ale na całym świecie.	Y	świecie	334	   11,597	0.0261	168.125	pol_news_2016_00459863
+1682	Przecież tak jest od zawsze i to na całym świecie.	Y	świecie	334	   11,597	0.0261	177.7	pol_news_2018_00620737
+1683	To właśnie dzieje się teraz w świecie polityki.	Y	świecie	334	   11,597	0.0261	236	pol_news_2017_00759832
+1684	Coraz więcej ludzi na świecie będzie miało problem.	Y	świecie	334	   11,597	0.0261	253.875	pol_news_2017_00092850
+1685	Nie żeby mi tu było na świecie źle.	Y	świecie	334	   11,597	0.0261	278.5	pol_news_2017_00454037
+1686	Jakie to może mieć znaczenie dla spółki?	Y	spółki	335	   11,564	0.026	330.5714	pol_news_2017_00228193
+1687	Tyle osób ocenia komentarz pozytywnieZaloguj się, aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się, aby oceniać Co ja będę miał z wydania 10 mld złotych przez spółki skarbu państwa?	Y	spółki	335	   11,564	0.026	344.3333	pol_news_2018_00785598
+1688	Obie spółki mają liczyć nie więcej niż po 10 osób.	Y	spółki	335	   11,564	0.026	352.2222	pol_news_2018_00479275
+1689	Spółki osobowe w 24h - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	spółki	335	   11,564	0.026	362	pol_news_2018_00691388
+1690	Spółki Giełdowe - Puls Biznesu - pb.pl - strona 2 Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	spółki	335	   11,564	0.026	365.1429	pol_news_2017_00685546
+1691	Tyle, że pieniądze rządu to nasze pieniądze.	Y	rządu	336	   11,535	0.026	206.3333	pol_news_2018_00787206
+1692	A jeśli jednak wygra, tym lepiej dla rządu PiS.	Y	rządu	336	   11,535	0.026	213.7778	pol_news_2018_00007861
+1693	Jest to decyzja na poziomie rządu i parlamentu.	Y	rządu	336	   11,535	0.026	280.625	pol_news_2016_00287018
+1694	Tyle że wtedy ani rządu, ani niepodległości nie było.	Y	rządu	336	   11,535	0.026	291.25	pol_news_2018_00787349
+1695	Na Ukrainie dobrze wiedzą, że możliwości polskiego rządu i Polaków są takie jakie są.	Y	rządu	336	   11,535	0.026	325.7692	pol_news_2017_00417515
+1696	Ponad 2 mld euro, które kraj ten ma..	Y	mld	337	   11,511	0.0259	220.1429	pol_news_2016_00573793
+1697	Obecnie będzie to mniej więcej 341 mld dolarów.	Y	mld	337	   11,511	0.0259	262.7143	pol_news_2016_00477838
+1698	Rocznie jest to więc ponad 14 mld zł.	Y	mld	337	   11,511	0.0259	269.4286	pol_news_2018_00654135
+1699	Galeria: Co można mieć za 440 mld zł z UE?	Y	mld	337	   11,511	0.0259	286.7778	pol_news_2016_00196740
+1700	Na koniec marca były nawet niższe niż rok temu, i to aż o ponad 2 mld zł.	Y	mld	337	   11,511	0.0259	306	pol_news_2018_00406325
+1701	Tylko co z tego wynika dla kobiet?	Y	wynika	338	   11,461	0.0258	136.7143	pol_news_2017_00782715
+1702	I nic z tego nie wynika – mówi dyrektor.	Y	wynika	338	   11,461	0.0258	145	pol_news_2018_00217829
+1703	Okazało się, że nic z tego nie wynika.	Y	wynika	338	   11,461	0.0258	170	pol_news_2016_00499852
+1704	A to że jest inny wynika z tego co robi.	Y	wynika	338	   11,461	0.0258	185.4	pol_news_2016_00049183
+1705	I zupełnie nic z tego nie wynika.	Y	wynika	338	   11,461	0.0258	199.2857	pol_news_2018_00229796
+1706	"""""""To właśnie teraz, w ramach """"""""dobrej zmiany"""""""".""""""""."""""""	Y	ramach	339	   11,452	0.0258	294.8571	pol_news_2018_00769140
+1707	Tym razem jednak nie w ramach rozgrywek..	Y	ramach	339	   11,452	0.0258	354.2857	pol_news_2016_00792362
+1708	Dodał, że cieszy się ze współpracy Polski i Wielkiej Brytanii w ramach NATO.	Y	ramach	339	   11,452	0.0258	383.5385	pol_news_2018_00134145
+1709	S³u¿y³ w Wilnie, ale w ramach s³u¿by bywa³ równie¿ w Warszawie.	Y	ramach	339	   11,452	0.0258	398.1818	pol_news_2018_00668336
+1710	W ramach e-składki wpłacono już 100 mld zł - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	ramach	339	   11,452	0.0258	400.6154	pol_news_2018_00884280
+1711	Przede wszystkim nie byłoby na to czasu.	Y	przede	340	   11,417	0.0257	237.5714	pol_news_2018_00622235
+1712	W każdym razie nie przede wszystkim o niego.	Y	przede	340	   11,417	0.0257	243	pol_news_2017_00852919
+1713	Przede wszystkim nie o wszystkim chcemy mówi.	Y	przede	340	   11,417	0.0257	243.6667	pol_news_2016_00621532
+1714	Nie tylko dla sportu, ale przede wszystkim dla życia.	Y	przede	340	   11,417	0.0257	247.25	pol_news_2016_00459586
+1715	A historia radia to przede wszystkim historia ludzi.	Y	przede	340	   11,417	0.0257	256.7143	pol_news_2016_00020610
+1716	Zostali z tym co mieli na sobie.	Y	mieli	341	   11,348	0.0256	194	pol_news_2017_00987278
+1717	Co prawda, będą mieli takie prawo tylko do listopada roku 2015.	Y	mieli	341	   11,348	0.0256	208.9	pol_news_2018_00094321
+1718	Czy z tym też Polacy nie mieli nic wspólnego!	Y	mieli	341	   11,348	0.0256	247.7778	pol_news_2018_00116090
+1719	Będą mieli, ale dopiero w kolejnym roku.	Y	mieli	341	   11,348	0.0256	298.1429	pol_news_2016_00059875
+1720	Po raz pierwszy od 50 lat Polacy mieli też dzień wolny od pracy.	Y	mieli	341	   11,348	0.0256	301.9091	pol_news_2017_00574653
+1721	Niestety tego nie są w stanie zrobić.	Y	niestety	342	   11,290	0.0254	168.1429	pol_news_2017_00446377
+1722	A tak niestety w tym mieście jest.	Y	niestety	342	   11,290	0.0254	171.4286	pol_news_2018_00034731
+1723	Niestety, chyba aż tak dobrze nie jest.	Y	niestety	342	   11,290	0.0254	173.7143	pol_news_2018_00455309
+1724	No niestety dla mnie to za dużo.	Y	niestety	342	   11,290	0.0254	174.7143	pol_news_2018_00469915
+1725	Jak na razie, niestety, go nie widać.	Y	niestety	342	   11,290	0.0254	187.1429	pol_news_2018_00237648
+1726	W sprzedaży mają być jedynie do 7 kwietnia.	Y	kwietnia	343	   11,252	0.0253	212	pol_news_2017_00893246
+1727	Od kwietnia prawo ma się jednak zmienić.	Y	kwietnia	343	   11,252	0.0253	270.8571	pol_news_2018_00489722
+1728	Jest to najlepszy wynik sprzedaży od kwietnia tego roku.	Y	kwietnia	343	   11,252	0.0253	301.3333	pol_news_2016_00287447
+1729	W tym roku 30 kwietnia jest wolny od pracy.	Y	kwietnia	343	   11,252	0.0253	310	pol_news_2016_00910626
+1730	Termin na to mamy także do końca kwietnia.	Y	kwietnia	343	   11,252	0.0253	321.75	pol_news_2017_00738602
+1731	Jedna, dlatego że ich nigdy nie miała, a druga dlatego, że miała ich za dużo.	Y	miała	344	   11,232	0.0253	237.6364	pol_news_2018_00253248
+1732	W tej sytuacji nie miała takiej możliwości.	Y	miała	344	   11,232	0.0253	271	pol_news_2017_00906503
+1733	Premiera filmu będzie miała miejsce w Polsce już 12 sierpnia.	Y	miała	344	   11,232	0.0253	276.5556	pol_news_2016_00604740
+1734	Ostatni raz taka sytuacja miała miejsce 10 lat temu.	Y	miała	344	   11,232	0.0253	288.875	pol_news_2018_00515722
+1735	Ostatnio taka sytuacja miała miejsce ponad trzy lata temu.	Y	miała	344	   11,232	0.0253	293.8889	pol_news_2018_00515447
+1736	Moim zdaniem w tym przypadku nie ma to miejsca.	Y	miejsca	345	   11,199	0.0252	218.1111	pol_news_2018_00377257
+1737	A jeśli ktoś nie pracuje, bo nie ma dla niego miejsca?	Y	miejsca	345	   11,199	0.0252	221.1	pol_news_2017_00007760
+1738	Takiego miejsca w mieście nie było Takiego miejsca do tej pory było.	Y	miejsca	345	   11,199	0.0252	273.2222	pol_news_2018_00723002
+1739	Teraz już niemal zupełnie na nią miejsca nie będzie.	Y	miejsca	345	   11,199	0.0252	280.3333	pol_news_2017_00735655
+1740	Takie wydarzenia nigdy więcej nie mogą mieć miejsca.	Y	miejsca	345	   11,199	0.0252	285.75	pol_news_2018_00724243
+1741	Właśnie powiedział, że to nie Rosja - dodał.	Y	dodał	346	   11,169	0.0252	183.2857	pol_news_2018_00859501
+1742	"""""""""""""""Dzisiaj już wiemy, że tak nie jest"""""""" - dodał."""""""	Y	dodał	346	   11,169	0.0252	222.625	pol_news_2016_00175249
+1743	Wydaje się, że wszystko jest dobrze, nic się nie stało - dodał.	Y	dodał	346	   11,169	0.0252	226.4	pol_news_2018_00918806
+1744	"""""""A o to na wsi trudno"""""""" - dodał."""""""	Y	dodał	346	   11,169	0.0252	229.5714	pol_news_2016_00042055
+1745	Wydaje się, że to się już dzieje – dodał.	Y	dodał	346	   11,169	0.0252	254.8571	pol_news_2017_00919846
+1746	Nie wiem, czy to im zostało do dzisiaj.	Y	dzisiaj	347	   11,144	0.0251	196.125	pol_news_2018_00461256
+1747	Tak było wczoraj i tak jest dzisiaj.	Y	dzisiaj	347	   11,144	0.0251	199.5	pol_news_2018_00721866
+1748	Wydaje się, że dzisiaj to nie problem.	Y	dzisiaj	347	   11,144	0.0251	202.2857	pol_news_2018_00918664
+1749	Dzisiaj trzeba sobie powiedzieć, że zawsze jest coś za coś.	Y	dzisiaj	347	   11,144	0.0251	210.3333	pol_news_2017_00164254
+1750	Mam nadzieję, że tak będzie również dzisiaj.	Y	dzisiaj	347	   11,144	0.0251	214.5714	pol_news_2016_00353598
+1751	U nas wszystko jest w dużej części nadal takie samo, jak było i 30 lat temu.	Y	nadal	348	   11,056	0.0249	248.1333	pol_news_2016_00800635
+1752	Nadal jest źle i tak ma być.	Y	nadal	348	   11,056	0.0249	261.4286	pol_news_2016_00398108
+1753	"""""""Wiem, że jest wiele kobiet w Polsce, które nadal o tym nie wiedzą"""""""" - powiedziała."""""""	Y	nadal	348	   11,056	0.0249	269.1429	pol_news_2016_00850834
+1754	To nadal nie ponad 400 tysięcy o których mówią media.	Y	nadal	348	   11,056	0.0249	271.7778	pol_news_2018_00758985
+1755	Naród polski nadal ma swojego ministra - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	nadal	348	   11,056	0.0249	276.4167	pol_news_2018_00417325
+1756	To już drugie takie spotkanie w tej sprawie.	Y	spotkanie	349	   11,023	0.0248	180.5	pol_news_2018_00756199
+1757	Więc pytanie - gdzie wreszcie ma być to spotkanie?	Y	spotkanie	349	   11,023	0.0248	260.375	pol_news_2016_00845657
+1758	To jednak przede wszystkim spotkanie w lidze.	Y	spotkanie	349	   11,023	0.0248	271.2857	pol_news_2018_00754216
+1759	I było to nasze ostatnie z nią spotkanie.	Y	spotkanie	349	   11,023	0.0248	279.25	pol_news_2017_00202531
+1760	Było to pierwsze spotkanie obu państw od 29 lat.	Y	spotkanie	349	   11,023	0.0248	291.375	pol_news_2018_00069926
+1761	Już w piątek rozpocznie się Euro U21 w Polsce.	Y	piątek	350	   10,985	0.0247	259.75	pol_news_2018_00288985
+1762	Faktycznie tak się stało z tym, że był to piątek czasu..	Y	piątek	350	   10,985	0.0247	301.7273	pol_news_2016_00186151
+1763	Nie przegap w piątek, 29 lipca - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	piątek	350	   10,985	0.0247	324.5652	pol_news_2018_00453079
+1764	Nie jak zazwyczaj w niedzielę, a już w piątek (godz.	Y	piątek	350	   10,985	0.0247	335.1111	pol_news_2018_00441606
+1765	Piątek - zdjęcie 4 - Dziennik WschodniPrzeglądarka, z której korzystasz jest przestarzała.	Y	piątek	350	   10,985	0.0247	339.6667	pol_news_2017_00523834
+1766	USA: 9 tys. więcej „nowych bezrobotnych” - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	nowych	351	   10,923	0.0246	277.7826	pol_news_2018_00803166
+1767	Trzy miliony nowych użytkowników do końca roku - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	nowych	351	   10,923	0.0246	281.2	pol_news_2018_00779885
+1768	USA: więcej nowych bezrobotnych - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	nowych	351	   10,923	0.0246	285.6818	pol_news_2017_00800856
+1769	USA: najmniej „nowych bezrobotnych” od 44 lat - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	nowych	351	   10,923	0.0246	286.4167	pol_news_2017_00800682
+1770	USA: najmniej „nowych bezrobotnych” od 1973 r. - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	nowych	351	   10,923	0.0246	287.2083	pol_news_2018_00803299
+1771	Było bowiem widać, że nic nie działa.	Y	bowiem	352	   10,921	0.0246	300.2857	pol_news_2018_00069332
+1772	Wa¿ne jest bowiem nie tylko kto, co, i za ile, ale tak¿e jak.	Y	bowiem	352	   10,921	0.0246	307.8	pol_news_2017_00811727
+1773	Bowiem ten proces trwa czasem nawet do 6 miesięcy, więc jest to pomoc, której się nie dostanie na rynku.	Y	bowiem	352	   10,921	0.0246	339.7222	pol_news_2017_00058389
+1774	Bowiem za dnia niewiele się tam dzieje.	Y	bowiem	352	   10,921	0.0246	371.5714	pol_news_2016_00072464
+1775	Nie każdy i nie w każdym czasie może bowiem liczyć na takie rozwiązanie.	Y	bowiem	352	   10,921	0.0246	371.6667	pol_news_2017_00432152
+1776	Ale w tym przypadku naprawdę tak będzie.	Y	przypadku	353	   10,912	0.0246	132.2857	pol_news_2018_00020813
+1777	I w tym przypadku będzie tak samo.	Y	przypadku	353	   10,912	0.0246	135.2857	pol_news_2017_00222297
+1778	Oczywiście, że tak, tutaj przypadku nie może być.	Y	przypadku	353	   10,912	0.0246	170.25	pol_news_2016_00485812
+1779	Ale w tym przypadku właśnie tak się stało!	Y	przypadku	353	   10,912	0.0246	173.5	pol_news_2017_00020769
+1780	Czy uda się to w tym przypadku?	Y	przypadku	353	   10,912	0.0246	176	pol_news_2017_00112217
+1781	W przypadku tych ostatnich chodzi raczej o..	Y	ostatnich	354	   10,900	0.0246	230	pol_news_2016_00885073
+1782	Ale mecz trwa 90 minut, a nie kilka ostatnich.	Y	ostatnich	354	   10,900	0.0246	251.5	pol_news_2018_00014958
+1783	Tak też było w ostatnich dniach lipca i pierwszych dniach sierpnia 1944 roku.	Y	ostatnich	354	   10,900	0.0246	274.3636	pol_news_2018_00727936
+1784	W ostatnich dniach doszło nawet do spotkania..	Y	ostatnich	354	   10,900	0.0246	274.7143	pol_news_2016_00874257
+1785	Drugi raz w ciągu ostatnich dwóch miesięcy.	Y	ostatnich	354	   10,900	0.0246	280.8571	pol_news_2017_00150906
+1786	Bo chyba nikt nie był tyle razy na pierwszej stronie.	Y	pierwszej	354	   10,900	0.0246	213.4	pol_news_2016_00068767
+1787	Bez tej pierwszej nie byłoby tej drugiej.	Y	pierwszej	354	   10,900	0.0246	289.1667	pol_news_2018_00052092
+1788	Nie oznacza to jednak, że odbędzie się ona zaraz po pierwszej.	Y	pierwszej	354	   10,900	0.0246	306.0909	pol_news_2018_00451344
+1789	Takich jak w Polsce za pierwszej „Solidarności”.	Y	pierwszej	354	   10,900	0.0246	316.2857	pol_news_2018_00722536
+1790	Tego roku w Domu Dziecka jest tylko dwóch kandydatów do pierwszej klasy.	Y	pierwszej	354	   10,900	0.0246	320	pol_news_2017_00729840
+1791	Są one z całej Europy, ale najwięcej z Polski.	Y	one	355	   10,898	0.0245	294.75	pol_news_2016_00672734
+1792	"""""""One były wtedy i dzisiaj takie same"""""""" - powiedział były premier."""""""	Y	one	355	   10,898	0.0245	305.5556	pol_news_2017_00493372
+1793	One nie mają już prawa do miłości?	Y	one	355	   10,898	0.0245	324.7143	pol_news_2016_00503490
+1794	Jakie one są wiemy zarówno my, jak i wy.	Y	one	355	   10,898	0.0245	331	pol_news_2017_00227781
+1795	Do końca grudnia mają one stać się..	Y	one	355	   10,898	0.0245	333.2857	pol_news_2016_00147248
+1796	Ale z tej drugiej było bardzo trudno.	Y	drugiej	356	   10,893	0.0245	141.4286	pol_news_2016_00034644
+1797	To jednak nic w porównaniu do tego, co dzieje się na drugiej.	Y	drugiej	356	   10,893	0.0245	252.6667	pol_news_2016_00751146
+1798	Piłka jest po drugiej stronie - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	drugiej	356	   10,893	0.0245	253.8261	pol_news_2017_00529613
+1799	Z drugiej strony, czy zawsze musi byæ tak samo?	Y	drugiej	356	   10,893	0.0245	254.7778	pol_news_2018_00964650
+1800	Ale z drugiej strony - nie robić nic?	Y	drugiej	356	   10,893	0.0245	264.1429	pol_news_2016_00034408
+1801	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Chyba od 1926.	Y	chyba	357	   10,844	0.0244	160.6364	pol_news_2016_00782296
+1802	No chyba, ¿e siê jest na jego poziomie.	Y	chyba	357	   10,844	0.0244	168.125	pol_news_2018_00468735
+1803	I co do tego chyba nikt nie ma dziś wątpliwości.	Y	chyba	357	   10,844	0.0244	190.8	pol_news_2016_00220701
+1804	I co do tego chyba nikt nie ma wątpliwości.	Y	chyba	357	   10,844	0.0244	198.2222	pol_news_2017_00204735
+1805	Ale wydaje mi się, że chyba jednak o co innego tu chodzi.	Y	chyba	357	   10,844	0.0244	204.0833	pol_news_2016_00034016
+1806	Może nawet w całej Unii Europejskiej tyle nie ma.	Y	europejskiej	358	   10,802	0.0243	177.1111	pol_news_2018_00382458
+1807	Jednak w tym roku również tam jest go mniej - w europejskiej części kraju nawet o połowę.	Y	europejskiej	358	   10,802	0.0243	255.2	pol_news_2017_00250437
+1808	Ważne jest to, aby to była polityka Unii Europejskiej.	Y	europejskiej	358	   10,802	0.0243	265.25	pol_news_2016_00818238
+1809	Jednak jest ono tylko dlatego, że jesteśmy w Unii Europejskiej.	Y	europejskiej	358	   10,802	0.0243	282.3	pol_news_2018_00254282
+1810	Pytanie, co będzie po Wielkiej Brytanii z Unii Europejskiej.	Y	europejskiej	358	   10,802	0.0243	309.3333	pol_news_2016_00640175
+1811	Zwrócił uwagę, że pomoc ta jest potrzebna szczególnie dla tych osób, które nie mają nie tylko domu, ale także rodziny.	Y	uwagę	359	   10,791	0.0243	331.4737	pol_news_2016_00997461
+1812	Trzeba brać pod uwagę także to, że przez cały 2012r.	Y	uwagę	359	   10,791	0.0243	362	pol_news_2018_00777076
+1813	To było pierwsze, co zawsze zwracało uwagę na to, że coś może być nie tak.	Y	uwagę	359	   10,791	0.0243	376.2857	pol_news_2018_00750206
+1814	To jest fakt, który trzeba wziąć pod uwagę.	Y	uwagę	359	   10,791	0.0243	377.25	pol_news_2018_00754843
+1815	Jednak jeśli weźmie się pod uwagę tylko tych..	Y	uwagę	359	   10,791	0.0243	413.375	pol_news_2016_00264004
+1816	Jak nie to niech bêdzie tak jak jest.	Y	bêdzie	360	   10,756	0.0242	143.8571	pol_news_2018_00237909
+1817	Ale trener wie, ¿e bêdzie o to bardzo trudno.	Y	bêdzie	360	   10,756	0.0242	228.3333	pol_news_2017_00019682
+1818	Niech tak bêdzie równie¿ w tym roku.	Y	bêdzie	360	   10,756	0.0242	235.5714	pol_news_2017_00428126
+1819	Bêdzie mia³ na to co najmniej 3 spotkania jeszcze.	Y	bêdzie	360	   10,756	0.0242	237.25	pol_news_2016_00061030
+1820	Mnie siê wydaje, ¿e raczej do 1991, ale niech mu bêdzie.	Y	bêdzie	360	   10,756	0.0242	247.9	pol_news_2018_00374479
+1821	Ale może się to zmienić już 28 października.	Y	października	360	   10,756	0.0242	238.5714	pol_news_2018_00015214
+1822	Można go kupić przez cały dzień w poniedziałek 31 października.	Y	października	360	   10,756	0.0242	327.6667	pol_news_2017_00373333
+1823	Kalendarium, czwartek 5 października - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	października	360	   10,756	0.0242	347.9524	pol_news_2018_00290346
+1824	Kalendarium, wtorek 23 października - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	października	360	   10,756	0.0242	348.4762	pol_news_2018_00290384
+1825	Kalendarium, poniedziałek 26 października - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	października	360	   10,756	0.0242	349.7143	pol_news_2018_00290375
+1826	Tylko u nas zdjęcia z tego spotkania!	Y	spotkania	361	   10,744	0.0242	146.7143	pol_news_2018_00788810
+1827	Dodaje, że spotkania mają na celu nie..	Y	spotkania	361	   10,744	0.0242	228.1429	pol_news_2016_00141966
+1828	Nie zawsze jednak takie spotkania są możliwe.	Y	spotkania	361	   10,744	0.0242	238.7143	pol_news_2018_00464361
+1829	Pierwsza część spotkania (koncert) jest dla Dzieci i Mam.	Y	spotkania	361	   10,744	0.0242	268.5556	pol_news_2016_00533733
+1830	Kaczyński chce też spotkania ekspertów PiS i PO w tej sprawie.	Y	spotkania	361	   10,744	0.0242	275.3636	pol_news_2017_00282673
+1831	Okazuje się, że nie tylko u nas, ale również w tzw. szerokim świecie.	Y	tzw	362	   10,730	0.0242	409.5385	pol_news_2018_00501518
+1832	Nikt z państwa nie trafił w tzw. punkt.	Y	tzw	362	   10,730	0.0242	424.625	pol_news_2018_00467956
+1833	"""""""Niestety do nich należy u nas wymiar tzw."""""""""""""""	Y	tzw	362	   10,730	0.0242	450.5	pol_news_2016_00457076
+1834	"""""""W tzw. """"""""demokracji"""""""" są problemy nie do rozwiązania."""""""	Y	tzw	362	   10,730	0.0242	466.875	pol_news_2018_00912490
+1835	Od 1 września koniec tzw. syndromu pierwszej dniówki - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	tzw	362	   10,730	0.0242	485.4	pol_news_2017_00474898
+1836	Jak to się miało do programu tej partii?	Y	partii	363	   10,727	0.0242	203.875	pol_news_2018_00244206
+1837	W przypadku Partii Razem jest to 30 tys. zł rocznie.	Y	partii	363	   10,727	0.0242	259.3333	pol_news_2017_00881518
+1838	Jest sporo o tym, co się dzieje w partii i wokół niej.	Y	partii	363	   10,727	0.0242	273.6667	pol_news_2018_00277575
+1839	I wcale nie chodzi o prezesa tej partii.	Y	partii	363	   10,727	0.0242	276.875	pol_news_2017_00221474
+1840	Szkoda, że tak było jedynie w tej partii.	Y	partii	363	   10,727	0.0242	287	pol_news_2018_00716279
+1841	Przynajmniej nie ma na ten temat informacji.	Y	informacji	364	   10,708	0.0241	214.1429	pol_news_2017_00629376
+1842	Na pewno było coś na rzeczy skoro tyle jest o tym informacji.	Y	informacji	364	   10,708	0.0241	246.6364	pol_news_2016_00414469
+1843	Tym razem informacji byłoby nie za mało, ale za dużo.	Y	informacji	364	   10,708	0.0241	281.5556	pol_news_2018_00792192
+1844	Dla wielu z nich nie mamy dobrych informacji.	Y	informacji	364	   10,708	0.0241	319.75	pol_news_2016_00138372
+1845	Nie jest to też pierwsza, ani jedna z pierwszych informacji w mediach.	Y	informacji	364	   10,708	0.0241	336.75	pol_news_2016_00444823
+1846	P.S. Jak się to ma do tych 500 zł na każde dziecko?	Y	p	364	   10,708	0.0241	265.1667	pol_news_2018_00639522
+1847	S&P500 wraca na rekord - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	p	364	   10,708	0.0241	281.6364	pol_news_2018_00688611
+1848	I do tej pory mieliśmy premiera z PO, a teraz mamy p.o. premiera.	Y	p	364	   10,708	0.0241	284.7692	pol_news_2016_00222088
+1849	I.P.: Ja tylko do dzisiaj myślę.	Y	p	364	   10,708	0.0241	289.7143	pol_news_2017_00216626
+1850	Co p.Robert robi kiedy nie gra?	Y	p	364	   10,708	0.0241	321	pol_news_2018_00094680
+1851	Dla niego to był po prostu kolejny dzień wojny.	Y	kolejny	365	   10,689	0.0241	208.6667	pol_news_2017_00122975
+1852	W 1974 r. po raz kolejny otrzymał za to pieniądze.	Y	kolejny	365	   10,689	0.0241	252.1111	pol_news_2016_00809643
+1853	"""""""Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Kolejny pan drogi, co to """"""""duży może więcej"""""""".."""""""	Y	kolejny	365	   10,689	0.0241	254.1176	pol_news_2016_00783585
+1854	Dziś kolejny raz - Dziennik WschodniPrzeglądarka, z której korzystasz jest przestarzała.	Y	kolejny	365	   10,689	0.0241	256.9	pol_news_2017_00164967
+1855	Prezydent Rosji po raz kolejny nam grozi!	Y	kolejny	365	   10,689	0.0241	297	pol_news_2018_00610576
+1856	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Do końca kadencji zostały 4 miesiące.	Y	zostały	366	   10,680	0.0241	372.8571	pol_news_2016_00782702
+1857	Najlepsze spółki zostały docenione - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	zostały	366	   10,680	0.0241	379.0909	pol_news_2017_00388933
+1858	Do wyborów zostały już tylko trzy tygodnie.	Y	zostały	366	   10,680	0.0241	394.2857	pol_news_2016_00158850
+1859	Dodał, że skierowane też zostały pytania do Komisji Europejskiej w tej sprawie.	Y	zostały	366	   10,680	0.0241	475.9167	pol_news_2016_00143861
+1860	Nie ma jednak czasu do stracenia, ponieważ zostały już tylko dwa dni kampanii.	Y	zostały	366	   10,680	0.0241	484	pol_news_2016_00446984
+1861	Jeżeli nie wiadomo o co chodzi to wiadomo.	Y	wiadomo	367	   10,666	0.024	150.8571	pol_news_2018_00283047
+1862	Czy jej się to uda, tego nie wiadomo..	Y	wiadomo	367	   10,666	0.024	164.625	pol_news_2016_00117968
+1863	Wiadomo, że nie w ciągu jednego roku.	Y	wiadomo	367	   10,666	0.024	167.4286	pol_news_2018_00838789
+1864	Nie by³o wiadomo, co siê z nami stanie.	Y	wiadomo	367	   10,666	0.024	171.5556	pol_news_2016_00439139
+1865	Wiadomo jednak, że nie będzie to w 2013 roku, ale już w przyszłym roku.	Y	wiadomo	367	   10,666	0.024	177.4545	pol_news_2018_00837455
+1866	"""""""Jak stwierdził w czwartek Kaczyński, do ustawy"""""""" - powiedział."""""""	Y	ustawy	368	   10,661	0.024	306.125	pol_news_2017_00237575
+1867	Tego nie można zmienić przy pomocy nowej ustawy.	Y	ustawy	368	   10,661	0.024	326.375	pol_news_2018_00734317
+1868	Projekt ustawy o reprywatyzacji trafi do komisji - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	ustawy	368	   10,661	0.024	336.28	pol_news_2018_00615548
+1869	"""""""""""""""Jaki będzie los tej ustawy - tego nie wiem."""""""	Y	ustawy	368	   10,661	0.024	348.375	pol_news_2017_00227168
+1870	Rząd przyjął już projekt ustawy w tej sprawie.	Y	ustawy	368	   10,661	0.024	378.25	pol_news_2016_00665483
+1871	Ale wciąż bardzo niewiele się o nim mówi.	Y	wciąż	369	   10,629	0.0239	233.375	pol_news_2017_00020095
+1872	Tak jak sytuacja klubu, który wciąż nie ma prezesa.	Y	wciąż	369	   10,629	0.0239	237.2222	pol_news_2016_00725759
+1873	Ale z tą w Polsce wciąż nie jest najlepiej.	Y	wciąż	369	   10,629	0.0239	239.7778	pol_news_2016_00034641
+1874	Wciąż nie wiadomo dlaczego tak się stało.	Y	wciąż	369	   10,629	0.0239	262.5714	pol_news_2017_00819284
+1875	Wciąż jednak nie wszyscy wiedzą jak się je je.	Y	wciąż	369	   10,629	0.0239	262.625	pol_news_2018_00820891
+1876	Andrzej Duda - Puls Biznesu - pb.pl - strona 2 Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	andrzej	370	   10,624	0.0239	220.8571	pol_news_2017_00025566
+1877	Mówił o tym pan prezydent Andrzej Duda, mówił o tym również pan premier Jarosław Kaczyński w Krakowie.	Y	andrzej	370	   10,624	0.0239	322.3077	pol_news_2016_00385797
+1878	Ale jako prezydent Andrzej Duda rozumiem, że są rodzice, którzy nie mogą mieć dzieci..	Y	andrzej	370	   10,624	0.0239	331.9286	pol_news_2016_00027396
+1879	Andrzej Adamczyk - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	andrzej	370	   10,624	0.0239	337.3	pol_news_2017_00025375
+1880	Andrzej Diakun - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	andrzej	370	   10,624	0.0239	357.2	pol_news_2017_00025447
+1881	"""""""""""""""Bez nich być może nie byłoby nas"""""""" Prezydent dla portalu PolskieRadio24."""""""	Y	polskieradio	371	   10,617	0.0239	250.3636	pol_news_2018_00051339
+1882	Z Polski i ze świata - Jedynka - polskieradio.pl polskie radio dzieciom Stany Zjednoczone mają nowego prezydenta.	Y	polskieradio	371	   10,617	0.0239	492.75	pol_news_2016_00989611
+1883	Maj w PolskieRadio.pl polskie radio dzieciom serwis informacyjny polskiego radia Co wybór Trumpa oznacza dla Ukrainy?	Y	polskieradio	371	   10,617	0.0239	508.4118	pol_news_2016_00351243
+1884	Paweł Słójkowski, PolskieRadio.pl Zobacz więcej na temat: reprezentacja Polski Ten artykuł nie ma jeszcze komentarzy, możesz być pierwszy!	Y	polskieradio	371	   10,617	0.0239	541.8947	pol_news_2016_00528603
+1885	Jarosław w PolskieRadio.pl polskie radio dzieciom Stany Zjednoczone mają nowego prezydenta.	Y	polskieradio	371	   10,617	0.0239	550.0833	pol_news_2016_00260634
+1886	Mo¿e byæ o nich g³o¶no?	Y	g	372	   10,610	0.0239	252.4286	pol_news_2016_00380039
+1887	O tym spotkaniu by³o g³o¶no tak¿e z innego powodu.	Y	g	372	   10,610	0.0239	256.7273	pol_news_2017_00509905
+1888	K.G.: Coś z tym trzeba zrobić.	Y	g	372	   10,610	0.0239	270.2857	pol_news_2016_00305707
+1889	Duda chciałby Polski w G20 - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	g	372	   10,610	0.0239	292.2609	pol_news_2017_00151778
+1890	K.G.: A jak pan swoje szanse ocenia?	Y	g	372	   10,610	0.0239	314.25	pol_news_2016_00305686
+1891	Takie sa prawa rynku. ale oni nie chcą, nie mają, zawsze nie.	Y	chcą	373	   10,596	0.0239	234.8	pol_news_2016_00724383
+1892	"""""""Problem w tym, że bardzo źle jest, kiedy """"""""oni"""""""" chcą do nas."""""""	Y	chcą	373	   10,596	0.0239	237.25	pol_news_2017_00604620
+1893	Młodzi nie chcą pracować - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	chcą	373	   10,596	0.0239	280.5455	pol_news_2018_00373885
+1894	Oni naprawdę chcą, żeby nam się udało.	Y	chcą	373	   10,596	0.0239	281.4286	pol_news_2016_00503921
+1895	Ani PiS, ani PO nie chcą tego zmienić.	Y	chcą	373	   10,596	0.0239	282.5714	pol_news_2017_00026742
+1896	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Gdzie ONi są?	Y	oni	374	   10,545	0.0238	157.4167	pol_news_2016_00782900
+1897	Ale jak się okazuje, nie tylko oni.	Y	oni	374	   10,545	0.0238	206.7143	pol_news_2018_00013544
+1898	Czy oni nie mogą robić tego w domu?	Y	oni	374	   10,545	0.0238	230.625	pol_news_2018_00111155
+1899	Bo Oni też by go nie chcieli.	Y	oni	374	   10,545	0.0238	264.1429	pol_news_2018_00058880
+1900	Czy to znaczy że oni nie mają z tym problemu?	Y	oni	374	   10,545	0.0238	304.2	pol_news_2017_00111989
+1901	Często mówi się, że do rozwoju biznesu potrzebne są przede wszystkim pieniądze.	Y	często	375	   10,540	0.0237	282.5	pol_news_2018_00103956
+1902	A czy zauważył pan coś, o czym teraz ostatnio się często mówi?	Y	często	375	   10,540	0.0237	343.4167	pol_news_2017_00003106
+1903	Smartfon często nie wystarczy - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	często	375	   10,540	0.0237	346.1818	pol_news_2017_00680339
+1904	Ale sami też często tego nie wiedzą.	Y	często	375	   10,540	0.0237	368.1429	pol_news_2016_00031658
+1905	Kto i jak często może sobie na to pozwolić?	Y	często	375	   10,540	0.0237	370.4444	pol_news_2017_00315518
+1906	U nas to jest 500 złotych na dziecko.	Y	złotych	376	   10,510	0.0237	156.5714	pol_news_2018_00800073
+1907	Myślę, że będzie to więcej niż 10 złotych.	Y	złotych	376	   10,510	0.0237	241	pol_news_2018_00390240
+1908	Za 10 mln złotych - Dziennik WschodniPrzeglądarka, z której korzystasz jest przestarzała.	Y	złotych	376	   10,510	0.0237	245.3	pol_news_2017_00935597
+1909	Już na 45 milionów złotych - Dziennik WschodniPrzeglądarka, z której korzystasz jest przestarzała.	Y	złotych	376	   10,510	0.0237	288.2727	pol_news_2016_00296051
+1910	Jak zrobić festiwal za 10 tysięcy złotych Na początku to wcale nie miał być festiwal.	Y	złotych	376	   10,510	0.0237	295.5385	pol_news_2018_00247969
+1911	"""""""I dla nich także będą pieniądze z programu """"""""Rodzina 500+""""""""."""""""	Y	programu	377	   10,492	0.0236	202.1111	pol_news_2017_00205630
+1912	I to był już ostatni punkt naszego programu.	Y	programu	377	   10,492	0.0236	377.875	pol_news_2016_00235161
+1913	Ja bym tylko coś innego powiedział, to zdjęcie tego programu..	Y	programu	377	   10,492	0.0236	403	pol_news_2016_00238731
+1914	Jak przyznał gość programu, już są tacy, jednak „na razie jest ich za mało”.	Y	programu	377	   10,492	0.0236	407.7857	pol_news_2016_00251916
+1915	"""""""Materiał programu """"""""Polska i Świat"""""""" w TVN24."""""""	Y	programu	377	   10,492	0.0236	422.7143	pol_news_2016_00360539
+1916	Pieniądze na swój biznes dla 50+ - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	swój	378	   10,410	0.0235	239.0952	pol_news_2018_00534233
+1917	Mamy swój plan, zobaczymy jak nam siê to wszystko u³o¿y.	Y	swój	378	   10,410	0.0235	306.75	pol_news_2018_00350152
+1918	Każdy z nich jest inny i ma swój charakter.	Y	swój	378	   10,410	0.0235	339.2222	pol_news_2016_00304823
+1919	Szkoda, że prawdy mają swój czas kiedy już nie ma nas.	Y	swój	378	   10,410	0.0235	366.4545	pol_news_2016_00716124
+1920	Sprawa ma swój początek we wtorek 13 maja.	Y	swój	378	   10,410	0.0235	395.7143	pol_news_2016_00693671
+1921	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Tylko za pierwszym razem się udało.	Y	pierwszym	379	   10,407	0.0234	173.4286	pol_news_2018_00786660
+1922	Nie uda³o siê za pierwszym razem, to uda³o siê za drugim.	Y	pierwszym	379	   10,407	0.0234	245.1111	pol_news_2017_00448422
+1923	A przed pierwszym listopada to już zupełnie.	Y	pierwszym	379	   10,407	0.0234	252.2857	pol_news_2017_00030647
+1924	W pierwszym meczu sezonu nie mógł jednak..	Y	pierwszym	379	   10,407	0.0234	271.2857	pol_news_2016_00877975
+1925	Wiadomo, że nie działa to tak: ktoś jest na pierwszym miejscu i naprawdę jest najlepszy na świecie.	Y	pierwszym	379	   10,407	0.0234	287	pol_news_2018_00838778
+1926	Nie oznacza to jednak, że się nie da.	Y	da	380	   10,398	0.0234	124.5714	pol_news_2018_00451359
+1927	Nie wie jednak, że tak się nie da.	Y	da	380	   10,398	0.0234	143.5714	pol_news_2016_00461799
+1928	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać TO NIC NIE DA?	Y	da	380	   10,398	0.0234	151.0769	pol_news_2017_00781789
+1929	Jak to nie da się nic zrobić.	Y	da	380	   10,398	0.0234	157.7143	pol_news_2017_00238085
+1930	Tego nie da się jednak zrobić w kilka miesięcy.	Y	da	380	   10,398	0.0234	180.4444	pol_news_2018_00734290
+1931	To wyniki z 99 proc. komisji w regionie.	Y	komisji	381	   10,387	0.0234	257.2857	pol_news_2016_00766610
+1932	Oznacza to, że trafi on do komisji.	Y	komisji	381	   10,387	0.0234	291.5714	pol_news_2017_00512083
+1933	Dodał, że strona polska czeka teraz na ruch ze strony Komisji Europejskiej.	Y	komisji	381	   10,387	0.0234	314.3333	pol_news_2018_00134738
+1934	Prawa konsumenta znów do komisji - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	komisji	381	   10,387	0.0234	330.7826	pol_news_2018_00604592
+1935	Wniosek w tej sprawie trafił do komisji 15 grudnia.	Y	komisji	381	   10,387	0.0234	345.25	pol_news_2016_00868911
+1936	Jednego z nich nie ma już z nami.	Y	jednego	382	   10,331	0.0233	194.7143	pol_news_2018_00258303
+1937	Przecież to nie stało się jednego dnia.	Y	jednego	382	   10,331	0.0233	256.1429	pol_news_2016_00620060
+1938	W przypadku jednego dziecka to 135 euro (ok.	Y	jednego	382	   10,331	0.0233	262.2857	pol_news_2018_00882888
+1939	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Nie rozumiem jednego..	Y	jednego	382	   10,331	0.0233	298	pol_news_2016_00784339
+1940	Cena jednego to kolejne 50 tys., a warto mieć co najmniej dwa.	Y	jednego	382	   10,331	0.0233	304.0909	pol_news_2018_00075895
+1941	Przecież w ciągu roku nie ma go zbyt dużo.	Y	ciągu	383	   10,301	0.0232	201	pol_news_2018_00621018
+1942	Ale tylko w ciągu dnia, jak jesteśmy sami.	Y	ciągu	383	   10,301	0.0232	250.875	pol_news_2018_00019912
+1943	To w sumie ponad 41 tys. w ciągu roku.	Y	ciągu	383	   10,301	0.0232	266	pol_news_2016_00766154
+1944	W ciągu roku może się zmienić wiele rzeczy.	Y	ciągu	383	   10,301	0.0232	293.625	pol_news_2016_00820996
+1945	"""""""""""""""Nie trzy, cztery lata, ale w ciągu dwóch tygodni."""""""	Y	ciągu	383	   10,301	0.0232	295	pol_news_2016_00459496
+1946	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Powinien..	Y	powinien	384	   10,258	0.0231	177.8	pol_news_2016_00785179
+1947	Jej zdaniem, to również wynik tego, że system nie do końca działa tak, jak powinien.	Y	powinien	384	   10,258	0.0231	229.2667	pol_news_2018_00266784
+1948	Jej zdaniem każdy powinien coś w tym celu zrobić.	Y	powinien	384	   10,258	0.0231	252.5556	pol_news_2016_00276232
+1949	Co w takiej sytuacji powinien zrobić PiS?	Y	powinien	384	   10,258	0.0231	268.4286	pol_news_2016_00108897
+1950	Ale PiS nie powinien robić tego, co robi.	Y	powinien	384	   10,258	0.0231	276.625	pol_news_2016_00030772
+1951	I wydaje się, że może być jeszcze lepiej.	Y	lepiej	385	   10,205	0.023	144.5	pol_news_2018_00228739
+1952	Może i lepiej, że stało się tak, jak się stało?	Y	lepiej	385	   10,205	0.023	159.625	pol_news_2018_00381734
+1953	Nie jest dobrze, ale i tak jest dużo lepiej niż za czasów PO.	Y	lepiej	385	   10,205	0.023	183.1667	pol_news_2016_00444045
+1954	Najlepiej nie oznacza jednak, że nie można by jeszcze lepiej.	Y	lepiej	385	   10,205	0.023	190.8889	pol_news_2017_00388420
+1955	W tym wypadku – im więcej, tym lepiej!	Y	lepiej	385	   10,205	0.023	203.6667	pol_news_2018_00912336
+1956	Ktoś tego w tym kraju nie wie?	Y	ktoś	386	   10,143	0.0228	156.8571	pol_news_2016_00331909
+1957	Co, jeżeli ktoś ma problem z jego..	Y	ktoś	386	   10,143	0.0228	182.8571	pol_news_2016_00104433
+1958	Ktoś mi jednak o tym wczoraj powiedział.	Y	ktoś	386	   10,143	0.0228	215.5714	pol_news_2017_00316938
+1959	Czy ktoś myśli, że to jest dla mnie.	Y	ktoś	386	   10,143	0.0228	218.75	pol_news_2016_00118485
+1960	Ktoś jeszcze nie wie, kiedy będą wyniki?	Y	ktoś	386	   10,143	0.0228	227.2857	pol_news_2018_00326099
+1961	"""""""Tak samo jest w przypadku """"""""Naszej szkoły""""""""."""""""	Y	naszej	387	   10,128	0.0228	245.2857	pol_news_2016_00727404
+1962	Nie po raz pierwszy w naszej historii - ocenił.	Y	naszej	387	   10,128	0.0228	267.75	pol_news_2018_00452280
+1963	Ale tym razem szczęście było po naszej stronie.	Y	naszej	387	   10,128	0.0228	279.375	pol_news_2016_00033275
+1964	Na to nie ma i nie będzie naszej zgody.	Y	naszej	387	   10,128	0.0228	282.625	pol_news_2017_00415474
+1965	Co to oznacza dla naszej pi³ki?	Y	naszej	387	   10,128	0.0228	298	pol_news_2017_00094444
+1966	PIS zmienia jedynie tam, gdzie ma do tego prawo.	Y	jedynie	388	   10,094	0.0227	257.6667	pol_news_2016_00540826
+1967	I nie jest to jedynie gra słów.	Y	jedynie	388	   10,094	0.0227	341.4286	pol_news_2018_00218047
+1968	I on d³ugo nie po¿y³, bo jedynie 47 lat.	Y	jedynie	388	   10,094	0.0227	356.8	pol_news_2017_00216316
+1969	Jednak w tym wypadku będzie to raczej święto jedynie dla klientów.	Y	jedynie	388	   10,094	0.0227	357	pol_news_2018_00256841
+1970	"""""""""""""""pięć"""""""" zawsze równie jest """"""""pięć"""""""", to jest to jedynie wynik."""""""	Y	jedynie	388	   10,094	0.0227	390.7143	pol_news_2016_00532484
+1971	Do tego jednak do końca roku nie doszło.	Y	doszło	389	   10,077	0.0227	129.7143	pol_news_2016_00155674
+1972	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać I do czego to doszło?	Y	doszło	389	   10,077	0.0227	158.3571	pol_news_2017_00780752
+1973	Do czego to już doszło w naszym kraju.	Y	doszło	389	   10,077	0.0227	173.625	pol_news_2016_00141463
+1974	Jeszcze nie wiadomo, dlaczego do niej doszło.	Y	doszło	389	   10,077	0.0227	184.1429	pol_news_2017_00274576
+1975	No, no. Do czego to już doszło.	Y	doszło	389	   10,077	0.0227	193.5	pol_news_2017_00459302
+1976	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Jaki z tego wniosek, a nawet dwa?	Y	jaki	390	   10,060	0.0227	170.25	pol_news_2017_00780800
+1977	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać jaki,!	Y	jaki	390	   10,060	0.0227	178.4	pol_news_2016_00783146
+1978	Przyznał jednak, że nie jest w stanie powiedzieć, w jaki sposób to się stanie.	Y	jaki	390	   10,060	0.0227	221.6667	pol_news_2016_00637458
+1979	Tyle osób ocenia komentarz pozytywnieZaloguj się, aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się, aby oceniać Jaki sukces?	Y	jaki	390	   10,060	0.0227	238.1818	pol_news_2018_00785830
+1980	Ważne jest jeszcze to, w jaki sposób to robi.	Y	jaki	390	   10,060	0.0227	240.75	pol_news_2016_00818201
+1981	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać I tak dużo.	Y	dużo	391	    9,985	0.0225	151.1667	pol_news_2016_00783063
+1982	Tak naprawdę, jest ich jednak dużo, dużo więcej.	Y	dużo	391	    9,985	0.0225	153	pol_news_2016_00726431
+1983	Okazało się, że i to za dużo.	Y	dużo	391	    9,985	0.0225	174.8571	pol_news_2016_00499727
+1984	Zbyt dużo do wolności - Puls Biznesu - pb.pl Z ostatniej chwili subskrypcja Pulsu Biznesu Wybierz pakiet dla siebie Bądź na bieżąco, gdziekolwiek jesteś!	Y	dużo	391	    9,985	0.0225	208.5455	pol_news_2018_00958997
+1985	Jak na polskie warunki to bardzo dużo.	Y	dużo	391	    9,985	0.0225	215.5714	pol_news_2018_00237593
+1986	Jeżeli jednak chodzi o pis to tam wszystko jest inaczej.	Y	jeżeli	392	    9,967	0.0225	172.7	pol_news_2018_00282512
+1987	Jeżeli nawet coś mam, to przecież nie mam.	Y	jeżeli	392	    9,967	0.0225	207	pol_news_2017_00276317
+1988	Widać było, że jeżeli ktoś chce, potrafi, to po prostu może.	Y	jeżeli	392	    9,967	0.0225	279.0909	pol_news_2016_00842263
+1989	Może, jeżeli będzie chciał, może to zrobić.	Y	jeżeli	392	    9,967	0.0225	279.1667	pol_news_2017_00371199
+1990	Jeżeli nawet, to na pewno nie bardziej niż dobra rodzina.	Y	jeżeli	392	    9,967	0.0225	279.5	pol_news_2017_00276321
+1991	Tak było przez większość stycznia i lutego.	Y	stycznia	393	    9,963	0.0224	229.1429	pol_news_2016_00722485
+1992	Od stycznia nie będzie już jednak pracował w..	Y	stycznia	393	    9,963	0.0224	308.5	pol_news_2016_00493410
+1993	1 stycznia czyli Nowy Rok dla większości z nas jest to dzień wolny od pracy.	Y	stycznia	393	    9,963	0.0224	320.2143	pol_news_2016_00005133
+1994	"""""""""""""""Fakty"""""""" z 18 stycznia""""""""To jest przede wszystkim problem.."""""""	Y	stycznia	393	    9,963	0.0224	327.875	pol_news_2016_00186575
+1995	Do zdarzenia doszło na początku stycznia tego roku.	Y	stycznia	393	    9,963	0.0224	330.125	pol_news_2017_00148078
+1996	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać a..	Y	negatywniezaloguj	394	    9,962	0.0224	140.6	pol_news_2016_00786303
+1997	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Tak?	Y	negatywniezaloguj	394	    9,962	0.0224	142	pol_news_2016_00785845
+1998	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać E..	Y	negatywniezaloguj	394	    9,962	0.0224	143.5	pol_news_2016_00782811
+1999	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać 76 lat!	Y	negatywniezaloguj	394	    9,962	0.0224	143.7	pol_news_2016_00781662
+2000	Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać Tyle osób ocenia komentarz pozytywnieZaloguj się aby oceniać Tyle osób ocenia komentarz negatywnieZaloguj się aby oceniać A nic.	Y	negatywniezaloguj	394	    9,962	0.0224	143.8182	pol_news_2016_00786304

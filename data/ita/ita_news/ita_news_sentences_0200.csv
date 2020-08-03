@@ -1,0 +1,1001 @@
+ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
+1	"""""""Questa non è più l'Italia di due anni fa"""""""""""""""	Y	di	1	2,228,003	3.7367	36.2	ita_news_2019_00799918
+2	Casa sua era la casa di tutti.	Y	di	1	2,228,003	3.7367	50.5	ita_news_2015_00097064
+3	E’ sempre stato così e di nuovo sarà così.	Y	di	1	2,228,003	3.7367	57.8571	ita_news_2015_00262257
+4	Ma era una cosa di alcuni anni fa.	Y	di	1	2,228,003	3.7367	68.375	ita_news_2016_00597636
+5	Oggi non sono mai meno di 76 mila.	Y	di	1	2,228,003	3.7367	85.8571	ita_news_2015_00711727
+6	Ma non tutti lo sono e non tutti ci sono.	Y	e	2	1,518,278	2.5464	27.5714	ita_news_2016_00611124
+7	E’ per questo che sono ancora qui”.	Y	e	2	1,518,278	2.5464	46	ita_news_2016_00248238
+8	È anche per questo che noi siamo noi e gli altri, con tutto il rispetto, sono solo gli altri.	Y	e	2	1,518,278	2.5464	53.0625	ita_news_2016_00208797
+9	E fa lo stesso anche con noi, con tutti noi!	Y	e	2	1,518,278	2.5464	66.625	ita_news_2016_00224326
+10	E lo sarà ogni giorno, ogni momento.	Y	e	2	1,518,278	2.5464	96.1667	ita_news_2019_00229880
+11	Ma con tutto il da fare che hanno..!	Y	il	3	1,369,165	2.2963	34.5	ita_news_2015_00596491
+12	L’Italia non è il primo Paese che fa questo.	Y	il	3	1,369,165	2.2963	47.7	ita_news_2019_00574902
+13	C’è il lavoro fatto dal governo.	Y	il	3	1,369,165	2.2963	60.7143	ita_news_2019_00096395
+14	Ma il servizio del Comune che fine ha fatto?	Y	il	3	1,369,165	2.2963	68.1111	ita_news_2019_00607860
+15	"""""""Il secondo posto va bene lo stesso""""""""."""""""	Y	il	3	1,369,165	2.2963	118.7143	ita_news_2015_00390950
+16	"""""""E questa non è ancora la sua Roma""""""""."""""""	Y	la	4	1,222,558	2.0504	42.125	ita_news_2015_00254656
+17	"""""""Per la prima volta c'è un governo che fa questo""""""""."""""""	Y	la	4	1,222,558	2.0504	49.9091	ita_news_2015_00749308
+18	Perché quello «non è il posto per la politica».	Y	la	4	1,222,558	2.0504	62	ita_news_2019_00734013
+19	L'Italia deve fare la sua parte, cosa che non fa.	Y	la	4	1,222,558	2.0504	68.8182	ita_news_2015_00565799
+20	Ma per essere stata la prima volta va bene così».	Y	la	4	1,222,558	2.0504	82.6	ita_news_2019_00617443
+21	Un’Italia che non c’è più?	Y	che	5	1,028,158	1.7244	27	ita_news_2019_00971899
+22	Non è questo che si dice sempre?	Y	che	5	1,028,158	1.7244	49.1429	ita_news_2015_00686247
+23	Ho detto che non è bene e per quello.	Y	che	5	1,028,158	1.7244	59.1111	ita_news_2015_00322447
+24	Sia nel primo che nel secondo caso sono..	Y	che	5	1,028,158	1.7244	72.2857	ita_news_2016_00872344
+25	"""""""Poi sarà quello che sarà"""""""", aveva detto qualche giorno fa."""""""	Y	che	5	1,028,158	1.7244	102.8889	ita_news_2016_00767248
+26	C'è anche chi in Italia ha un lavoro.	Y	in	6	  962,017	1.6135	45.1111	ita_news_2016_00101226
+27	Sempre che si sia ancora in tempo.	Y	in	6	  962,017	1.6135	53.5714	ita_news_2019_00853305
+28	In cui però molto è stato fatto.	Y	in	6	  962,017	1.6135	61.1429	ita_news_2019_00411140
+29	E' più o meno sempre lo stesso, dai 7 anni in poi.	Y	in	6	  962,017	1.6135	70.3636	ita_news_2015_00247454
+30	Ma in questo momento va bene così.	Y	in	6	  962,017	1.6135	94.7143	ita_news_2016_00602633
+31	Così è stato fatto anche a Roma.	Y	a	7	  944,461	1.584	50	ita_news_2016_00152282
+32	Non è solo una cosa così a caso.	Y	a	7	  944,461	1.584	59.875	ita_news_2015_00686938
+33	Ma non siamo ancora a questo punto”.	Y	a	7	  944,461	1.584	65.5714	ita_news_2015_00613017
+34	Tre a uno alla fine del primo tempo.	Y	a	7	  944,461	1.584	74.625	ita_news_2016_00935970
+35	A questo punto cosa si può fare?	Y	a	7	  944,461	1.584	84.2857	ita_news_2019_00063927
+36	Che per il momento non c'è.	Y	per	8	  856,105	1.4358	37.8571	ita_news_2015_00109360
+37	E tutto questo non è un bene per il Paese''.	Y	per	8	  856,105	1.4358	46.4	ita_news_2016_00272277
+38	C’era e ci sarà sempre per questa città».	Y	per	8	  856,105	1.4358	57.5556	ita_news_2016_00104255
+39	Per il loro primo giorno di lavoro.	Y	per	8	  856,105	1.4358	67	ita_news_2016_00740796
+40	Ho grande rispetto per il suo lavoro.	Y	per	8	  856,105	1.4358	85.7143	ita_news_2019_00311190
+41	"""""""Non è così, non è più così""""""""."""""""	Y	è	9	  821,332	1.3775	33.5	ita_news_2019_00682898
+42	E non è detto che non lo sia già.	Y	è	9	  821,332	1.3775	47.125	ita_news_2016_00242427
+43	Il lavoro è ancora tutto da fare.	Y	è	9	  821,332	1.3775	55	ita_news_2015_00362692
+44	Cosa che fino ad ora non è stato fatto.	Y	è	9	  821,332	1.3775	62.2222	ita_news_2016_00149922
+45	Dice che quella città è casa sua?	Y	è	9	  821,332	1.3775	92.8571	ita_news_2019_00172272
+46	Ma solo un prima e un dopo.	Y	un	10	  793,336	1.3306	32.6667	ita_news_2016_00620479
+47	E poi un altro, e dopo un altro ancora.	Y	un	10	  793,336	1.3306	50.8333	ita_news_2015_00249305
+48	Perché l’Italia è un grande Paese.	Y	un	10	  793,336	1.3306	61.1429	ita_news_2016_00733827
+49	A un altro mondo, un altro tempo.	Y	un	10	  793,336	1.3306	74.8	ita_news_2019_00074166
+50	Senza aver detto che ho un altro lavoro.	Y	un	10	  793,336	1.3306	98.25	ita_news_2019_00855773
+51	E così ha fatto con l'Italia.	Y	l	11	  653,316	1.0957	38	ita_news_2016_00218755
+52	Questo e' stato per noi l'euro..	Y	l	11	  653,316	1.0957	45.5714	ita_news_2015_00812595
+53	E l’ha fatto a modo suo.	Y	l	11	  653,316	1.0957	52.2857	ita_news_2015_00236629
+54	E in casa non l'aveva mai detto?	Y	l	11	  653,316	1.0957	68.875	ita_news_2015_00229921
+55	Lui ha detto l’ho fatto io.	Y	l	11	  653,316	1.0957	92.7143	ita_news_2016_00584147
+56	C’è chi non lo ha del tutto.	Y	del	12	  633,365	1.0623	39.75	ita_news_2016_00101882
+57	Ma non è la fine del mondo.	Y	del	12	  633,365	1.0623	48.5714	ita_news_2015_00612174
+58	L'ho fatto per il bene del Paese.	Y	del	12	  633,365	1.0623	64.25	ita_news_2015_00557095
+59	E oggi è lui l'uomo del giorno.	Y	del	12	  633,365	1.0623	76	ita_news_2019_00236456
+60	Anche, secondo alcuni, nel governo del Paese.	Y	del	12	  633,365	1.0623	88.4286	ita_news_2016_00052660
+61	O si ha o non si ha.	Y	non	13	  554,965	0.9308	26	ita_news_2016_00718542
+62	Ma in questo caso, non è così.	Y	non	13	  554,965	0.9308	46.2857	ita_news_2015_00604244
+63	Non è quello che dice di essere.	Y	non	13	  554,965	0.9308	53.2857	ita_news_2016_00682633
+64	Abbiamo tutto quello che gli altri non hanno.	Y	non	13	  554,965	0.9308	60.75	ita_news_2016_00006370
+65	Quando va bene, non sempre va bene.	Y	non	13	  554,965	0.9308	103.4	ita_news_2019_00790276
+66	Al giorno, tutti i giorni e da anni.	Y	i	14	  545,294	0.9145	57	ita_news_2016_00026900
+67	Ma tra i due non c’è partita.	Y	i	14	  545,294	0.9145	57.875	ita_news_2015_00625456
+68	Non c'è, si fa quel che i può..	Y	i	14	  545,294	0.9145	60	ita_news_2015_00681178
+69	E non solo per i risultati in campo.	Y	i	14	  545,294	0.9145	77.5	ita_news_2019_00234638
+70	Ma se non l’ha fatto fino ad ora è perché il Comune non ha i soldi.	Y	i	14	  545,294	0.9145	82.4667	ita_news_2019_00622867
+71	Non l’ha fatto solo con noi.	Y	con	15	  490,098	0.822	45.1429	ita_news_2019_00687731
+72	"""""""Che tutto il Paese è con loro""""""""."""""""	Y	con	15	  490,098	0.822	47.1429	ita_news_2015_00110752
+73	Tutti con lui, per il bene della città.	Y	con	15	  490,098	0.822	69	ita_news_2015_00946486
+74	«Sono con questa squadra da tre giorni.	Y	con	15	  490,098	0.822	75	ita_news_2016_00892894
+75	Lui è con noi fino alla fine del mondo.	Y	con	15	  490,098	0.822	85.1111	ita_news_2019_00591375
+76	La Chiesa non è 'contro', la Chiesa è 'con' le persone e 'per' il lavoro.	Y	le	16	  477,750	0.8013	69.5	ita_news_2016_00470664
+77	Le sembra che l'italia lo sia?	Y	le	16	  477,750	0.8013	74.8571	ita_news_2015_00551309
+78	Lo abbiamo detto e ora è il tempo di fare le cose».	Y	le	16	  477,750	0.8013	80.25	ita_news_2015_00567141
+79	E poi perché: «Se non le donne, chi?»	Y	le	16	  477,750	0.8013	83.375	ita_news_2016_00250187
+80	In realtà, è più o meno questo che le hanno detto.	Y	le	16	  477,750	0.8013	85.2727	ita_news_2019_00432806
+81	Questa è la storia della sua vita e anche di un paese che non c’è più.	Y	della	17	  467,612	0.7843	51.0625	ita_news_2016_00798373
+82	Ma tutto questo lo si fa per il bene della squadra.	Y	della	17	  467,612	0.7843	56.7273	ita_news_2016_00622832
+83	Ma è solo una parte della storia.	Y	della	17	  467,612	0.7843	59.2857	ita_news_2015_00599130
+84	Altro che per il bene della città!	Y	della	17	  467,612	0.7843	64.2857	ita_news_2015_00041144
+85	È il suo mondo, la sua vita, anche prima della politica.	Y	della	17	  467,612	0.7843	64.6364	ita_news_2016_00229772
+86	E’ una cosa che non si fa.	Y	una	18	  460,628	0.7725	40.4286	ita_news_2019_00263297
+87	Una cosa di più di 70 anni fa.	Y	una	18	  460,628	0.7725	53	ita_news_2019_00949686
+88	E' già una cosa se lo fa.	Y	una	18	  460,628	0.7725	57.2857	ita_news_2016_00225545
+89	È una cosa che fa bene a tutti.	Y	una	18	  460,628	0.7725	60	ita_news_2019_00263287
+90	Una volta lo era, oggi molto meno.	Y	una	18	  460,628	0.7725	88.1429	ita_news_2015_00965099
+91	Ma c’è chi ha fatto di più.	Y	ha	19	  449,277	0.7535	38.5	ita_news_2016_00593526
+92	E l'ha fatto anche questa volta.	Y	ha	19	  449,277	0.7535	49.1429	ita_news_2015_00236630
+93	Non c'è tempo, ha detto ieri il presidente del..	Y	ha	19	  449,277	0.7535	61.7	ita_news_2015_00681302
+94	Ha fatto bene così come hanno fatto bene anche altri.	Y	ha	19	  449,277	0.7535	66.875	ita_news_2019_00305398
+95	"""""""Lui stesso ha detto che c'era""""""""."""""""	Y	ha	19	  449,277	0.7535	86.2857	ita_news_2016_00584835
+96	Ma di questo già si è detto.	Y	si	20	  448,844	0.7528	44	ita_news_2016_00596408
+97	Non è questo che si deve fare.	Y	si	20	  448,844	0.7528	53.1429	ita_news_2016_00682683
+98	Si è detto di tutto su di lui.	Y	si	20	  448,844	0.7528	61.7143	ita_news_2016_00875579
+99	Si può fare anche senza di lui».	Y	si	20	  448,844	0.7528	71.5714	ita_news_2015_00887049
+100	E se si può, si deve fare.	Y	si	20	  448,844	0.7528	78	ita_news_2015_00262809
+101	Ad oggi siamo ancora al 40% e più.	Y	al	21	  382,048	0.6408	54.4286	ita_news_2016_00015810
+102	"""""""Ha ancora due anni, è il migliore al mondo""""""""."""""""	Y	al	21	  382,048	0.6408	65.3333	ita_news_2016_00317030
+103	"""""""Io sono l'italiano che è stato più tempo al governo""""""""."""""""	Y	al	21	  382,048	0.6408	75.0909	ita_news_2016_00452065
+104	Al momento non c’è nulla più di questo.	Y	al	21	  382,048	0.6408	76.2222	ita_news_2019_00035945
+105	È questo l’essere “sempre al servizio dei cittadini”?	Y	al	21	  382,048	0.6408	76.4444	ita_news_2019_00246541
+106	Non è da oggi; è da sempre.	Y	da	22	  380,501	0.6382	40.2	ita_news_2016_00681253
+107	"""""""""""""""Ma molto c'è ancora da fare."""""""	Y	da	22	  380,501	0.6382	53.5714	ita_news_2016_00607525
+108	Per ora, come da qualche anno a questa parte.	Y	da	22	  380,501	0.6382	62.2222	ita_news_2015_00754683
+109	C'è chi lo dice da sempre.	Y	da	22	  380,501	0.6382	68.5714	ita_news_2019_00095787
+110	E parte proprio da qui, dalla politica.	Y	da	22	  380,501	0.6382	91.7143	ita_news_2019_00237335
+111	Il fatto è che ci sono anche gli altri.	Y	sono	23	  310,906	0.5214	34.7778	ita_news_2019_00347794
+112	Ma non per questo non ci sono e, quindi, è quanto mai..	Y	sono	23	  310,906	0.5214	52.9091	ita_news_2016_00610569
+113	«Però c’è stato un momento in cui lo sono stato».	Y	sono	23	  310,906	0.5214	54.5	ita_news_2016_00748042
+114	«Io non sono stata, io non sono stata.	Y	sono	23	  310,906	0.5214	72.25	ita_news_2019_00449756
+115	Alcuni sono al primo anno, altri al secondo.	Y	sono	23	  310,906	0.5214	88.4286	ita_news_2019_00023160
+116	Ma non lo era per gli altri.	Y	ma	24	  269,530	0.452	38.7143	ita_news_2019_00615566
+117	Ma in Italia non è più così da molto tempo.	Y	ma	24	  269,530	0.452	46.4	ita_news_2015_00604068
+118	C’è lui ma ci sono anche altri.	Y	ma	24	  269,530	0.452	54.25	ita_news_2019_00097056
+119	Ma il lavoro era stato fatto bene.	Y	ma	24	  269,530	0.452	67	ita_news_2019_00607214
+120	Ma l’uomo cosa ne ha fatto?	Y	ma	24	  269,530	0.452	83.1429	ita_news_2016_00607090
+121	"""""""E’ stato uno dei più grandi di sempre?"""""""""""""""	Y	dei	25	  256,701	0.4305	74.5	ita_news_2016_00269851
+122	Questo uomo che è alla fine dei sui giorni.	Y	dei	25	  256,701	0.4305	80	ita_news_2016_00808318
+123	Il 50 per cento dei giovani non ha un lavoro.	Y	dei	25	  256,701	0.4305	97.1111	ita_news_2016_00340012
+124	È uno dei più grandi al mondo, tanto che poco più di.	Y	dei	25	  256,701	0.4305	97.7273	ita_news_2019_00266357
+125	Tutto questo per il bene nostro, della città e dei suoi cittadini».	Y	dei	25	  256,701	0.4305	98.0833	ita_news_2019_00944408
+126	Anche se non c’era ancora, c’era.	Y	anche	26	  253,725	0.4255	43.1667	ita_news_2016_00053195
+127	Ma anche questo non si può fare.	Y	anche	26	  253,725	0.4255	46.4286	ita_news_2015_00593225
+128	E se poi lo fa anche lui?	Y	anche	26	  253,725	0.4255	56.4286	ita_news_2016_00263782
+129	Anche perché è già stato detto tutto.	Y	anche	26	  253,725	0.4255	63	ita_news_2019_00050015
+130	E, in qualche modo, anche il proprio.	Y	anche	26	  253,725	0.4255	74.4286	ita_news_2019_00223572
+131	Ma nel Pd non è il solo.	Y	nel	27	  240,303	0.403	53.5714	ita_news_2016_00608788
+132	Nel primo tempo c’è stata solo la Roma.	Y	nel	27	  240,303	0.403	63.3333	ita_news_2019_00667972
+133	Lo ha detto nel corso di una..	Y	nel	27	  240,303	0.403	69.2857	ita_news_2016_00572364
+134	Dopo Roma nel 2016 è ora la volta di Milano.	Y	nel	27	  240,303	0.403	74.7778	ita_news_2019_00191225
+135	Sono stato da poco nel suo paese.	Y	nel	27	  240,303	0.403	74.8571	ita_news_2015_00904657
+136	Poi però c’è anche dell’altro.	Y	dell	28	  236,830	0.3972	61.2857	ita_news_2019_00766154
+137	Ma questo è anche il problema dell’Italia.	Y	dell	28	  236,830	0.3972	62.875	ita_news_2015_00617146
+138	Non è un problema solo dell’Italia.	Y	dell	28	  236,830	0.3972	70	ita_news_2015_00688072
+139	La crisi di oggi è la crisi dell'Euro.	Y	dell	28	  236,830	0.3972	71.8571	ita_news_2016_00475128
+140	Non solo quelle di Roma, ma anche dell'Italia.	Y	dell	28	  236,830	0.3972	75.3333	ita_news_2015_00699588
+141	Non c'è di più e non c'è di meno.	Y	più	29	  227,470	0.3815	40.4286	ita_news_2015_00680293
+142	Più di così non si può fare.	Y	più	29	  227,470	0.3815	50.2857	ita_news_2019_00759662
+143	C'era una volta, perché oggi non c'è più.	Y	più	29	  227,470	0.3815	54.1111	ita_news_2016_00104556
+144	Si è detto che il mondo non sarà più lo stesso.	Y	più	29	  227,470	0.3815	58.2727	ita_news_2016_00875572
+145	E qualche volta qualche ora in più!	Y	più	29	  227,470	0.3815	76	ita_news_2015_00252211
+146	Alla grande, senza se e senza ma!	Y	alla	30	  224,495	0.3765	51.8333	ita_news_2015_00027591
+147	Si si l'Italia va alla grande.	Y	alla	30	  224,495	0.3765	71.6667	ita_news_2016_00883019
+148	"""""""""""""""Alla fine ci sarà il successo di tutti."""""""	Y	alla	30	  224,495	0.3765	85.375	ita_news_2016_00028302
+149	Come mai i due no alla Roma?	Y	alla	30	  224,495	0.3765	90.8571	ita_news_2019_00124255
+150	Poi, si è dato anche lui alla politica.	Y	alla	30	  224,495	0.3765	92.5	ita_news_2016_00767506
+151	Non è un anno come gli altri.	Y	gli	31	  197,131	0.3306	41.1429	ita_news_2015_00687613
+152	«Il rispetto per gli altri, prima di tutto.	Y	gli	31	  197,131	0.3306	58.875	ita_news_2019_00384901
+153	Non c’è stato posto, infatti, per gli.	Y	gli	31	  197,131	0.3306	62.875	ita_news_2019_00680087
+154	È un sindaco come tutti gli altri».	Y	gli	31	  197,131	0.3306	63.5714	ita_news_2016_00276662
+155	Anche tutti gli altri però, non sono stati da meno”.	Y	gli	31	  197,131	0.3306	68.7	ita_news_2019_00052858
+156	Come sempre è stato e sempre sarà.	Y	come	32	  182,743	0.3065	39.5	ita_news_2016_00132704
+157	Dai dai che ci sta e come se ci sta.	Y	come	32	  182,743	0.3065	56	ita_news_2015_00160882
+158	Non quella del sindaco, ma come quella del..	Y	come	32	  182,743	0.3065	66.1667	ita_news_2016_00691212
+159	E noi, prima o poi, siamo stati come loro.	Y	come	32	  182,743	0.3065	72.2222	ita_news_2019_00233694
+160	Come già detto mesi e mesi fa..	Y	come	32	  182,743	0.3065	89	ita_news_2015_00128004
+161	Questo 2008 è stato anche l'anno delle donne.	Y	delle	33	  170,432	0.2858	76.625	ita_news_2016_00803848
+162	Non è più il tempo delle parole.	Y	delle	33	  170,432	0.2858	83.1429	ita_news_2016_00682433
+163	"""""""""""""""Non è il momento delle elezioni in Italia."""""""	Y	delle	33	  170,432	0.2858	106.5	ita_news_2015_00685272
+164	Delle volte si ha l’occasione di fare del bene.	Y	delle	33	  170,432	0.2858	106.7	ita_news_2019_00168766
+165	E’ solo una delle cose da fare ma ha un grande valore.	Y	delle	33	  170,432	0.2858	113.8333	ita_news_2015_00264040
+166	E se non lo hanno fatto, perché?	Y	lo	34	  167,468	0.2809	38.7143	ita_news_2016_00263611
+167	Non lo sono mai stato e non lo sono ora.	Y	lo	34	  167,468	0.2809	50.1429	ita_news_2015_00690793
+168	E chi non lo ha mai fatto?	Y	lo	34	  167,468	0.2809	54.2857	ita_news_2019_00208421
+169	Non sarà così, non lo è mai.	Y	lo	34	  167,468	0.2809	60.5	ita_news_2019_00692821
+170	Chi lo ha fatto fino ad oggi?	Y	lo	34	  167,468	0.2809	69.7143	ita_news_2019_00108568
+171	Il che non fa bene all'Europa.	Y	all	35	  148,970	0.2498	71.4286	ita_news_2019_00336600
+172	Cosa è successo all'Italia di oggi?	Y	all	35	  148,970	0.2498	94.5714	ita_news_2019_00142538
+173	Ma la sua storia è solo all’inizio.	Y	all	35	  148,970	0.2498	97.375	ita_news_2019_00610866
+174	"""""""Noi abbiamo fatto dal 2000 in poi quello che ora si chiede di fare all'Italia e all'Europa""""""""."""""""	Y	all	35	  148,970	0.2498	101.0588	ita_news_2015_00675737
+175	Ma non è all’ordine del giorno.	Y	all	35	  148,970	0.2498	103	ita_news_2019_00615074
+176	"""""""E poi questo non è stato fatto""""""""."""""""	Y	questo	36	  146,080	0.245	33.5714	ita_news_2015_00249015
+177	Tutto questo non è stato ancora fatto.	Y	questo	36	  146,080	0.245	45	ita_news_2019_00944365
+178	"""""""""""""""Questo lo abbiamo fatto in un anno."""""""	Y	questo	36	  146,080	0.245	51	ita_news_2019_00806351
+179	In ogni caso non è questo il punto.	Y	questo	36	  146,080	0.245	66	ita_news_2015_00421971
+180	In questo momento siamo già al 4 giorno.	Y	questo	36	  146,080	0.245	87.2857	ita_news_2019_00431909
+181	Ci sarà il mondo, ma non ci sarà l'Italia.	Y	ci	37	  143,540	0.2407	45.25	ita_news_2015_00120222
+182	Ma ci sarà molto di più nella tre giorni.	Y	ci	37	  143,540	0.2407	61.5556	ita_news_2019_00601467
+183	Non ci siamo, ma non ci siamo proprio.	Y	ci	37	  143,540	0.2407	66.2	ita_news_2015_00682080
+184	Ma ci sarà tempo, ci sarà modo anche per loro.	Y	ci	37	  143,540	0.2407	67.625	ita_news_2016_00594561
+185	Per quello ci sarà tempo un altro giorno.	Y	ci	37	  143,540	0.2407	78	ita_news_2016_00751557
+186	Per la prima volta dal 1994 Berlusconi è solo.	Y	dal	38	  142,689	0.2393	79.125	ita_news_2015_00749320
+187	E questo è vero dal 1948 ad oggi.	Y	dal	38	  142,689	0.2393	81.7143	ita_news_2015_00255098
+188	Dal primo marzo non sarà più così.	Y	dal	38	  142,689	0.2393	101.2857	ita_news_2019_00158958
+189	"""""""Fuori dal Pd non c'è vita""""""""."""""""	Y	dal	38	  142,689	0.2393	105.4286	ita_news_2015_00294065
+190	Chi non ci sta è fuori dal partito.	Y	dal	38	  142,689	0.2393	108.25	ita_news_2015_00113496
+191	Su di lui c’è da tempo la Roma.	Y	su	39	  136,581	0.2291	55.8889	ita_news_2015_00918220
+192	Ma l'Italia è ancora tre punti più su.	Y	su	39	  136,581	0.2291	64	ita_news_2015_00608396
+193	Ma anche su questo non tutti sono d’accordo.	Y	su	39	  136,581	0.2291	67.6667	ita_news_2019_00599629
+194	E’ su questo che ancora oggi siamo in crisi.	Y	su	39	  136,581	0.2291	73.6667	ita_news_2016_00271091
+195	C’è già l’accordo su tutto, il.	Y	su	39	  136,581	0.2291	76.375	ita_news_2019_00096300
+196	"""""""Mi hanno detto che è tutto a posto""""""""."""""""	Y	hanno	40	  136,378	0.2287	64.75	ita_news_2016_00632848
+197	"""""""Hanno visto quello che gli è stato fatto""""""""."""""""	Y	hanno	40	  136,378	0.2287	65.25	ita_news_2019_00307686
+198	Come lo hanno fatto con me, l’hanno fatto con gli altri.	Y	hanno	40	  136,378	0.2287	69.8889	ita_news_2016_00131033
+199	Un grazie per quello che hanno fatto».	Y	hanno	40	  136,378	0.2287	70.1429	ita_news_2016_00970529
+200	Ho molto rispetto per quello che hanno fatto in questi anni».	Y	hanno	40	  136,378	0.2287	74.2727	ita_news_2016_00324539
+201	Ma se è la vita di un altro.	Y	se	41	  135,888	0.2279	43.5	ita_news_2019_00622607
+202	Ma se non c'è due senza tre..	Y	se	41	  135,888	0.2279	49.875	ita_news_2016_00619465
+203	E se non è stato lui, chi è stato?	Y	se	41	  135,888	0.2279	50.1429	ita_news_2015_00262401
+204	Cosa fare se non si ha ancora 18 anni?	Y	se	41	  135,888	0.2279	54.625	ita_news_2016_00150231
+205	Se c'è il lavoro va bene.	Y	se	41	  135,888	0.2279	82.2857	ita_news_2016_00843500
+206	Ma tutto questo non è stato fatto.	Y	stato	42	  133,738	0.2243	39	ita_news_2015_00626154
+207	Molto è stato fatto e molto c’è ancora da fare.	Y	stato	42	  133,738	0.2243	51.8889	ita_news_2015_00643847
+208	E' sempre stato così e sarà così sempre.	Y	stato	42	  133,738	0.2243	55.8	ita_news_2016_00263491
+209	Invece questo lavoro non è stato fatto».	Y	stato	42	  133,738	0.2243	59.5714	ita_news_2015_00445919
+210	«Molto è stato detto, poco è stato fatto».	Y	stato	42	  133,738	0.2243	92.8333	ita_news_2019_00640356
+211	Quello che ha sempre fatto nella sua vita.	Y	nella	43	  124,293	0.2085	65.5	ita_news_2015_00803915
+212	Perché non mi ha detto questa cosa nella Casa?	Y	nella	43	  124,293	0.2085	74.8889	ita_news_2016_00734320
+213	E questo in tutta la vita: nel lavoro, a casa, nella società, in tutta la vita.	Y	nella	43	  124,293	0.2085	80.5	ita_news_2019_00246502
+214	Come fare tutto questo nella nostra città?	Y	nella	43	  124,293	0.2085	92.4286	ita_news_2015_00127870
+215	Sempre insieme, nella vita e nel lavoro.	Y	nella	43	  124,293	0.2085	93.1429	ita_news_2015_00864432
+216	Fino ad oggi non è stato così.	Y	ad	44	  123,117	0.2065	59.2857	ita_news_2015_00284731
+217	Fino ad ora è stato sempre così».	Y	ad	44	  123,117	0.2065	69	ita_news_2015_00284775
+218	"""""""""""""""Ad oggi non c'è nulla con la Roma."""""""	Y	ad	44	  123,117	0.2065	76.5556	ita_news_2016_00015781
+219	Ad oggi non si hanno più notizie di lui.	Y	ad	44	  123,117	0.2065	82.6667	ita_news_2019_00013883
+220	Ma così non è stato, almeno fino ad ora.	Y	ad	44	  123,117	0.2065	83.3333	ita_news_2016_00595605
+221	Ma questo era tre anni prima, era il 2007.	Y	anni	45	  117,737	0.1975	46.8571	ita_news_2019_00619542
+222	A 34 anni non si è più giovani.	Y	anni	45	  117,737	0.1975	56.7143	ita_news_2019_00000247
+223	Oggi non è più come un po’ di anni fa.	Y	anni	45	  117,737	0.1975	63.5	ita_news_2016_00706163
+224	Molti di loro sono in Italia da anni.	Y	anni	45	  117,737	0.1975	64.25	ita_news_2016_00638918
+225	E il primo in cinque anni per l'Italia.	Y	anni	45	  117,737	0.1975	64.8889	ita_news_2019_00221006
+226	C'è stato un due contro uno.	Y	due	46	  114,953	0.1928	47.7143	ita_news_2015_00105122
+227	Due giorni dopo, non l’aveva già più.	Y	due	46	  114,953	0.1928	60	ita_news_2019_00195211
+228	Noi ci siamo, ma siamo in due».	Y	due	46	  114,953	0.1928	63.5	ita_news_2015_00676161
+229	Meglio ancora se ci sono tutti e due.	Y	due	46	  114,953	0.1928	66.75	ita_news_2015_00627889
+230	Il tutto per quasi due milioni di euro.	Y	due	46	  114,953	0.1928	71.875	ita_news_2019_00398196
+231	Anche alle persone che ci sono in giro.	Y	alle	47	  111,947	0.1878	99.625	ita_news_2019_00045643
+232	Il progetto, che oggi alle 16 sarà anche al centro di una commissione.	Y	alle	47	  111,947	0.1878	102.6667	ita_news_2019_00378413
+233	L’ora, sempre la stessa, alle 18 della domenica.	Y	alle	47	  111,947	0.1878	103.875	ita_news_2016_00575222
+234	Alle fine il risultato è stato questo.	Y	alle	47	  111,947	0.1878	104.1429	ita_news_2019_00030607
+235	"""""""Il nostro è un servizio alle famiglie""""""""."""""""	Y	alle	47	  111,947	0.1878	145.8571	ita_news_2019_00364067
+236	Tra questi c'è anche l'Italia.	Y	tra	48	  111,541	0.1871	52.1429	ita_news_2015_00939990
+237	Tra questi non c'è la Roma.	Y	tra	48	  111,541	0.1871	56	ita_news_2019_00933622
+238	Ma tra il dire e il fare..	Y	tra	48	  111,541	0.1871	64.5	ita_news_2016_00622124
+239	A tra poco per il secondo tempo.	Y	tra	48	  111,541	0.1871	66.4286	ita_news_2015_00071770
+240	L’accordo tra le parti, però, non c’è ancora.	Y	tra	48	  111,541	0.1871	85.6	ita_news_2019_00468842
+241	«Dopo non è più stato lo stesso.	Y	dopo	49	  108,938	0.1827	51	ita_news_2019_00190710
+242	Dopo un anno è già in prima squadra.	Y	dopo	49	  108,938	0.1827	58.25	ita_news_2019_00191680
+243	Dopo quello di Firenze è il secondo in Italia.	Y	dopo	49	  108,938	0.1827	63.6667	ita_news_2019_00191125
+244	Dopo tutto, il tempo ci sarebbe ancora.	Y	dopo	49	  108,938	0.1827	71.8571	ita_news_2019_00191489
+245	“Dopo il 1917, nulla è stato come prima”.	Y	dopo	49	  108,938	0.1827	77.5714	ita_news_2015_00194677
+246	E perché anche chi non parte è sul fronte.	Y	sul	50	  108,687	0.1823	77.1111	ita_news_2015_00245969
+247	«Siamo stati d’accordo sul fatto che non siamo d’accordo».	Y	sul	50	  108,687	0.1823	96.125	ita_news_2015_00877315
+248	Nel tempo, anche sul mercato hanno fatto bene.	Y	sul	50	  108,687	0.1823	96.375	ita_news_2015_00669912
+249	Al lavoro sul tema c’è anche l’.	Y	sul	50	  108,687	0.1823	111.875	ita_news_2016_00031196
+250	Nella vita come sul campo di calcio.	Y	sul	50	  108,687	0.1823	117	ita_news_2016_00660473
+251	Per tutti loro, la presenza di Ai.	Y	ai	51	  105,698	0.1773	109.4286	ita_news_2019_00755761
+252	Non è un diritto in meno ma un diritto in più ai cittadini.	Y	ai	51	  105,698	0.1773	122.4	ita_news_2016_00684283
+253	Il SI' ai referendum è un NO grande come una casa a questo governo.	Y	ai	51	  105,698	0.1773	129.2143	ita_news_2015_00392243
+254	Ho detto tutto quello che ho visto ai carabinieri.	Y	ai	51	  105,698	0.1773	139.875	ita_news_2019_00310855
+255	Uno dei tanti che ha portato l'Italia ai punti che siamo.	Y	ai	51	  105,698	0.1773	146.1818	ita_news_2016_00975079
+256	Non è o… o. E’ sia… sia e caso per caso”.	Y	o	52	   97,988	0.1643	47.5714	ita_news_2019_00683937
+257	Poi che ci sia un posto di lavoro o un lavoro da fare..	Y	o	52	   97,988	0.1643	60.0909	ita_news_2015_00769474
+258	O meglio: non c'è, ma prima o poi ci sarà.	Y	o	52	   97,988	0.1643	65.1	ita_news_2016_00711160
+259	O meglio, non è solo per quello.	Y	o	52	   97,988	0.1643	70.5714	ita_news_2015_00716411
+260	Così non è stato, o almeno solo in parte.	Y	o	52	   97,988	0.1643	70.7778	ita_news_2019_00146593
+261	Ma non c'e solo solo quello.	Y	solo	53	   97,133	0.1629	41.8333	ita_news_2015_00611843
+262	Quello che ho fatto non l'ho fatto da solo.	Y	solo	53	   97,133	0.1629	47.25	ita_news_2016_00796333
+263	"""""""Perché il governo """"""""non sta solo a Roma""""""""."""""""	Y	solo	53	   97,133	0.1629	67	ita_news_2015_00738416
+264	Non può fare, però, tutto da solo.	Y	solo	53	   97,133	0.1629	71.4286	ita_news_2015_00695071
+265	Non solo, dice che tutto va bene.	Y	solo	53	   97,133	0.1629	97.4286	ita_news_2016_00695036
+266	Che in questo caso non c’era ancora.	Y	era	54	   93,697	0.1571	49	ita_news_2019_00104212
+267	Era così, è così e sarà sempre così!	Y	era	54	   93,697	0.1571	50	ita_news_2015_00256731
+268	Ma un tempo era così, ora non più.	Y	era	54	   93,697	0.1571	51.75	ita_news_2016_00623168
+269	Così non c’era altro da fare.	Y	era	54	   93,697	0.1571	62.5714	ita_news_2015_00154049
+270	Fino a qualche anno fa non era così.	Y	era	54	   93,697	0.1571	80	ita_news_2016_00286816
+271	E poi il pubblico è dalla sua parte.	Y	dalla	55	   91,950	0.1542	67.75	ita_news_2019_00239928
+272	Chi non è dalla parte della storia?	Y	dalla	55	   91,950	0.1542	69	ita_news_2016_00115613
+273	Ma non si può avere tutto dalla vita.	Y	dalla	55	   91,950	0.1542	83.875	ita_news_2015_00613087
+274	La città è tutta dalla sua parte.	Y	dalla	55	   91,950	0.1542	87.8571	ita_news_2015_00469476
+275	Dalla era uno di questi per me».	Y	dalla	55	   91,950	0.1542	90.4286	ita_news_2019_00155837
+276	Sempre e solo in casa d'altri.	Y	d	56	   91,493	0.1534	58.7143	ita_news_2016_00856536
+277	E per questo inizio d'anno è tutto.	Y	d	56	   91,493	0.1534	80	ita_news_2016_00248286
+278	È il loro lavoro, d'altra parte.	Y	d	56	   91,493	0.1534	80.8571	ita_news_2015_00227561
+279	Come non essere del tutto d'accordo con lui?	Y	d	56	   91,493	0.1534	82.5556	ita_news_2015_00129410
+280	“Non è così, non sono d’accordo.	Y	d	56	   91,493	0.1534	86	ita_news_2019_00682899
+281	Non è così e non può essere così”.	Y	essere	57	   91,274	0.15310000000000001	46.6667	ita_news_2019_00682887
+282	E per questo non può essere il sindaco di tutti».	Y	essere	57	   91,274	0.15310000000000001	49.2	ita_news_2019_00238632
+283	"""""""Così non è stato, ma così non deve più essere""""""""."""""""	Y	essere	57	   91,274	0.15310000000000001	57	ita_news_2015_00154083
+284	E poi c’è il governo, che non può essere di secondo piano.	Y	essere	57	   91,274	0.15310000000000001	65.4615	ita_news_2019_00239346
+285	"""""""Ma non può e non deve essere così""""""""."""""""	Y	essere	57	   91,274	0.15310000000000001	70.5714	ita_news_2016_00610647
+286	Tutto quello che c'era prima ora non c'è più.	Y	prima	58	   89,478	0.1501	49.6	ita_news_2015_00949659
+287	Ma prima non c'era mai stato.	Y	prima	58	   89,478	0.1501	56.4286	ita_news_2015_00615771
+288	"""""""""""""""Uno di noi, da prima di noi."""""""	Y	prima	58	   89,478	0.1501	58.8	ita_news_2019_00975317
+289	Per la prima volta in vita sua.	Y	prima	58	   89,478	0.1501	62.8571	ita_news_2015_00749417
+290	Fino al giorno prima non c’erano.	Y	prima	58	   89,478	0.1501	91.2857	ita_news_2019_00276277
+291	E poi, c’è quello che ha fatto».	Y	c	59	   86,794	0.1456	40.875	ita_news_2019_00239416
+292	Per il secondo non c’è stato il tempo.	Y	c	59	   86,794	0.1456	42.625	ita_news_2016_00741830
+293	Un posto che, in centro, non c'è.	Y	c	59	   86,794	0.1456	55.25	ita_news_2015_00977296
+294	C’è stato un lavoro di squadra.	Y	c	59	   86,794	0.1456	58	ita_news_2019_00101166
+295	C'è un giorno che va bene?	Y	c	59	   86,794	0.1456	84.7143	ita_news_2015_00105756
+296	In Serie A c’è lui e tutti gli altri..	Y	tutti	60	   86,487	0.1451	64.3	ita_news_2016_00435487
+297	"""""""E' il sindaco di tutti non del Pd?"""""""""""""""	Y	tutti	60	   86,487	0.1451	66.625	ita_news_2019_00221541
+298	"""""""Ma la Nazionale è di tutti e non è mia""""""""."""""""	Y	tutti	60	   86,487	0.1451	68.4444	ita_news_2016_00604371
+299	Ora è il presidente di tutti gli italiani.	Y	tutti	60	   86,487	0.1451	71.75	ita_news_2015_00718972
+300	Ma così non è stato, e tutti lo abbiamo visto molto bene.	Y	tutti	60	   86,487	0.1451	72	ita_news_2016_00595609
+301	Il loro, che poi non è mai solo il loro.	Y	poi	61	   84,640	0.142	45	ita_news_2019_00356916
+302	E poi lo fa per il Paese..	Y	poi	61	   84,640	0.142	48.5714	ita_news_2016_00249978
+303	Per ora, ha poi «il piano non c’è.	Y	poi	61	   84,640	0.142	62.7778	ita_news_2016_00749125
+304	E forse da oggi in poi lo sarà per sempre.	Y	poi	61	   84,640	0.142	63	ita_news_2019_00217001
+305	E però c’è poi, oltre a quella del No, anche l’Italia del “Ma”.	Y	poi	61	   84,640	0.142	65.2857	ita_news_2019_00238313
+306	Ma c’è di più in questa storia.	Y	questa	62	   80,178	0.1345	51	ita_news_2016_00593567
+307	E così è stato anche questa volta.	Y	questa	62	   80,178	0.1345	53.7143	ita_news_2015_00217810
+308	La storia è questa e solo questa.	Y	questa	62	   80,178	0.1345	58	ita_news_2016_00523134
+309	Come (quasi) sempre da un anno a questa parte.	Y	questa	62	   80,178	0.1345	65.2222	ita_news_2015_00130079
+310	E questa è, per ora, la cosa più importante.	Y	questa	62	   80,178	0.1345	68.8889	ita_news_2019_00245381
+311	Sono stati da sempre contro il bene degli Italiani.	Y	degli	63	   79,132	0.1327	90.1111	ita_news_2019_00897712
+312	Il suo 3 settembre sarà come quello degli altri.	Y	degli	63	   79,132	0.1327	91.5	ita_news_2015_00394959
+313	Ma nel corso degli anni ci sono stati dei problemi.	Y	degli	63	   79,132	0.1327	102	ita_news_2019_00613888
+314	Era la fine degli anni 70, è passato molto tempo.	Y	degli	63	   79,132	0.1327	114.1111	ita_news_2016_00258451
+315	Questa è la migliore squadra degli ultimi anni.	Y	degli	63	   79,132	0.1327	115.625	ita_news_2016_00798255
+316	Non solo per noi ma per l'Italia».	Y	italia	64	   78,920	0.1324	43.7143	ita_news_2015_00699553
+317	Siamo in Italia e per di più a Napoli.	Y	italia	64	   78,920	0.1324	55.1111	ita_news_2015_00876161
+318	Anche per questo l'Italia è in crisi.	Y	italia	64	   78,920	0.1324	56.25	ita_news_2015_00050290
+319	C’è l’Europa ma c’è anche l’Italia.	Y	italia	64	   78,920	0.1324	57	ita_news_2019_00096879
+320	Ma dove è l'Europa, e dove è l'Italia?	Y	italia	64	   78,920	0.1324	60.8571	ita_news_2015_00597924
+321	E, prima ancora, il modo in cui la squadra lo ha sempre seguito.	Y	cui	65	   76,710	0.1287	94.5385	ita_news_2016_00252434
+322	Senza la sua famiglia, di cui non ha più notizie.	Y	cui	65	   76,710	0.1287	97.2	ita_news_2019_00856474
+323	“E' un momento in cui non ci dice bene nulla.	Y	cui	65	   76,710	0.1287	99.5	ita_news_2016_00275555
+324	"""""""Questa è la politica di cui ha bisogno il Paese""""""""."""""""	Y	cui	65	   76,710	0.1287	103.5	ita_news_2016_00798295
+325	Sei in tutto, di cui l’ultimo il 2 settembre.	Y	cui	65	   76,710	0.1287	106.8889	ita_news_2019_00849498
+326	In Europa si è fatto ancora di più.	Y	ancora	66	   76,324	0.128	51.125	ita_news_2019_00413035
+327	Ma il meglio ancora non c’è.	Y	ancora	66	   76,324	0.128	61.8571	ita_news_2016_00601130
+328	Per me è: da, da e ancora da.	Y	ancora	66	   76,324	0.128	65.6667	ita_news_2015_00751966
+329	Se non è stato ancora fatto è perché non lo si vuole.	Y	ancora	66	   76,324	0.128	66.3	ita_news_2015_00865973
+330	"""""""""""""""C'è ancora molto lavoro da fare."""""""	Y	ancora	66	   76,324	0.128	67	ita_news_2015_00098635
+331	Ed è per questo che sono qui».	Y	ed	67	   75,065	0.1259	47.1429	ita_news_2019_00213252
+332	Ed è per questo che ha successo.	Y	ed	67	   75,065	0.1259	67.1429	ita_news_2015_00220324
+333	Ed è proprio quello che noi oggi abbiamo.	Y	ed	67	   75,065	0.1259	79.125	ita_news_2019_00213410
+334	Ed è questa la cosa più importante.	Y	ed	67	   75,065	0.1259	83.5714	ita_news_2019_00213527
+335	Ed è vero, non per tutti è così.	Y	ed	67	   75,065	0.1259	85.5714	ita_news_2019_00214029
+336	E questo non è il suo caso.	Y	suo	68	   74,774	0.1254	40.5714	ita_news_2016_00256700
+337	A che punto è il suo lavoro?	Y	suo	68	   74,774	0.1254	55.4286	ita_news_2019_00007200
+338	"""""""E anche questa, a modo suo, è """"""""storia""""""""."""""""	Y	suo	68	   74,774	0.1254	72.375	ita_news_2016_00208859
+339	Anche il suo Milan non è più quello di un tempo.	Y	suo	68	   74,774	0.1254	77	ita_news_2016_00048451
+340	Che il governo fa del suo meglio?	Y	suo	68	   74,774	0.1254	79.2857	ita_news_2015_00108266
+341	Era stata, perché ora non è più.	Y	perché	69	   73,704	0.1236	51.4286	ita_news_2016_00259584
+342	Perché di quella parte è sempre stato.	Y	perché	69	   73,704	0.1236	55.7143	ita_news_2019_00731709
+343	Non solo perché è contro la legge.	Y	perché	69	   73,704	0.1236	62.7143	ita_news_2015_00699472
+344	Perché la crisi c'è, e come.	Y	perché	69	   73,704	0.1236	66.4286	ita_news_2015_00738820
+345	Ma non si può dire, perché lui c’è, anche se non c’è.	Y	perché	69	   73,704	0.1236	67.8182	ita_news_2015_00613100
+346	Era da solo con la sua auto''.	Y	sua	70	   71,174	0.1194	69.2857	ita_news_2016_00257862
+347	Ma non era questa la sua strada.	Y	sua	70	   71,174	0.1194	70	ita_news_2015_00612276
+348	La società ha fatto la sua parte.	Y	sua	70	   71,174	0.1194	75.1667	ita_news_2019_00523647
+349	Ma questo è anche la sua forza.	Y	sua	70	   71,174	0.1194	76.8571	ita_news_2015_00617148
+350	La mia e la sua e quella di tutti.	Y	sua	70	   71,174	0.1194	79	ita_news_2016_00492012
+351	Non c’è posto per loro in Europa”.	Y	loro	71	   70,630	0.1185	67.625	ita_news_2019_00679738
+352	"""""""Non è un problema solo loro questo, ma è anche un problema della società""""""""."""""""	Y	loro	71	   70,630	0.1185	71.0909	ita_news_2015_00688073
+353	Certo che c’è un noi e un loro.	Y	loro	71	   70,630	0.1185	73.625	ita_news_2016_00105631
+354	Per loro non c'è stato nulla da fare.	Y	loro	71	   70,630	0.1185	73.7778	ita_news_2016_00745892
+355	Possibile che non ci sia una squadra per loro?	Y	loro	71	   70,630	0.1185	74	ita_news_2016_00769985
+356	"""""""Tutto quello che non ha fatto in più di un anno di governo."""""""""""""""	Y	fatto	72	   69,622	0.1168	45.3333	ita_news_2015_00949677
+357	Che cosa ha fatto in questo tempo?	Y	fatto	72	   69,622	0.1168	55.7143	ita_news_2015_00107163
+358	"""""""Il 90% del lavoro però l'ha fatto lui""""""""."""""""	Y	fatto	72	   69,622	0.1168	64.125	ita_news_2016_00340449
+359	Che cosa ha fatto a questo punto?	Y	fatto	72	   69,622	0.1168	65.7143	ita_news_2016_00109480
+360	Questo è il «grande lavoro che va fatto».	Y	fatto	72	   69,622	0.1168	68.5	ita_news_2016_00804749
+361	E questo non sempre è un bene».	Y	sempre	73	   69,248	0.1161	42.7143	ita_news_2019_00246692
+362	Il fatto è che non sempre questo è possibile.	Y	sempre	73	   69,248	0.1161	57.75	ita_news_2016_00356495
+363	Perché poi c'è il campo, sempre.	Y	sempre	73	   69,248	0.1161	68.4286	ita_news_2016_00734618
+364	C'è sempre una prima volta, però.	Y	sempre	73	   69,248	0.1161	71.1429	ita_news_2015_00104821
+365	Questa è la migliore Roma di sempre?	Y	sempre	73	   69,248	0.1161	72.5714	ita_news_2015_00805803
+366	Mi hanno detto che ho 90 giorni di tempo».	Y	mi	74	   68,494	0.1149	74.5	ita_news_2016_00632852
+367	"""""""Lui mi ha detto che non è così, ma può anche essere successo""""""""."""""""	Y	mi	74	   68,494	0.1149	79.8462	ita_news_2016_00584375
+368	"""""""Mi sembra di essere in questa squadra da anni""""""""."""""""	Y	mi	74	   68,494	0.1149	81.3333	ita_news_2015_00640611
+369	E lui mi ha detto di no.	Y	mi	74	   68,494	0.1149	91.4286	ita_news_2015_00238269
+370	Sono una donna, perché mi dai del lui?	Y	mi	74	   68,494	0.1149	98.25	ita_news_2015_00905184
+371	Come lo è sulla partita in generale.	Y	sulla	75	   68,374	0.1147	115.8571	ita_news_2016_00131029
+372	Ma sulla questione c'è stato l'accordo di tutto il consiglio.	Y	sulla	75	   68,374	0.1147	119.5	ita_news_2015_00624995
+373	Ma sulla nuova legge vi è l'o..	Y	sulla	75	   68,374	0.1147	121.75	ita_news_2016_00621694
+374	Quella sulla nostra scuola è la prima.	Y	sulla	75	   68,374	0.1147	128.7143	ita_news_2016_00795323
+375	Non ho nulla da dire sulla politica.	Y	sulla	75	   68,374	0.1147	137.8571	ita_news_2015_00689744
+376	L’Italia non fa parte di questo gruppo”.	Y	parte	76	   68,137	0.1143	61.375	ita_news_2019_00574918
+377	È un lavoro per il Paese, non un progetto di parte».	Y	parte	76	   68,137	0.1143	65.7	ita_news_2015_00273892
+378	Ci sarà lo Stato da qualche parte?	Y	parte	76	   68,137	0.1143	66.4286	ita_news_2015_00120258
+379	Ma per l’Italia è vero solo in parte.	Y	parte	76	   68,137	0.1143	67.7778	ita_news_2015_00614952
+380	Il lavoro è solo una parte della giornata di un uomo.	Y	parte	76	   68,137	0.1143	72.5455	ita_news_2019_00355688
+381	Ma c’è un tempo per tutto.	Y	tutto	77	   67,958	0.114	42.2857	ita_news_2019_00600951
+382	Tutto è quello che è già stato.	Y	tutto	77	   67,958	0.114	52.3333	ita_news_2015_00949001
+383	Ma non tutto il mondo è paese.	Y	tutto	77	   67,958	0.114	58.1429	ita_news_2015_00613371
+384	Ho detto tutto e non è poco!	Y	tutto	77	   67,958	0.114	76	ita_news_2019_00310854
+385	Si deve fare tutto questo e altro.	Y	tutto	77	   67,958	0.114	77.2857	ita_news_2016_00874851
+386	Di altri non si hanno notizie da 24 ore.	Y	ore	78	   67,656	0.1135	80.625	ita_news_2016_00179583
+387	E’ festa; sono tre ore, ma è festa!	Y	ore	78	   67,656	0.1135	110	ita_news_2015_00223767
+388	Si tratta di circa 6 ore al giorno».	Y	ore	78	   67,656	0.1135	117	ita_news_2019_00880429
+389	Ma potrebbe essere solo una questione di ore.	Y	ore	78	   67,656	0.1135	126.5	ita_news_2019_00618209
+390	Questione di ore; e in ogni caso sarà un successo.	Y	ore	78	   67,656	0.1135	135	ita_news_2015_00810536
+391	E non è detto che così non sarà.	Y	sarà	79	   67,243	0.1128	46.8571	ita_news_2015_00241913
+392	Così non è stato, così non sarà oggi.	Y	sarà	79	   67,243	0.1128	51.6667	ita_news_2019_00146586
+393	"""""""Non è così e non sarà mai così""""""""."""""""	Y	sarà	79	   67,243	0.1128	55.1667	ita_news_2019_00682889
+394	Uno di noi sarà un giorno Presidente!”	Y	sarà	79	   67,243	0.1128	81.1429	ita_news_2019_00975321
+395	Ora fare un governo sarà il meno.	Y	sarà	79	   67,243	0.1128	81.4286	ita_news_2019_00714217
+396	«Ma non per fare il numero uno.	Y	uno	80	   66,683	0.1118	73.2857	ita_news_2015_00612777
+397	In un partito, uno ci sta o non ci sta.	Y	uno	80	   66,683	0.1118	80.125	ita_news_2015_00444153
+398	Un lavoro per i giovani e uno per i meno giovani.	Y	uno	80	   66,683	0.1118	84.5	ita_news_2015_00972089
+399	"""""""Non ci sarà il successo dell'uno senza il successo dell'altro""""""""."""""""	Y	uno	80	   66,683	0.1118	86.8889	ita_news_2015_00681924
+400	Quindi non è in uno stato di guerra.	Y	uno	80	   66,683	0.1118	87.375	ita_news_2019_00811203
+401	E però da mesi già sono tutti contro tutti.	Y	già	81	   65,786	0.1103	75.625	ita_news_2019_00238319
+402	L'accordo con la Roma già c'è.	Y	già	81	   65,786	0.1103	77.75	ita_news_2015_00467770
+403	Il progetto c'è già da molto tempo.	Y	già	81	   65,786	0.1103	82.125	ita_news_2016_00385289
+404	Già, ma così sarebbe solo fare del bene.	Y	già	81	   65,786	0.1103	82.625	ita_news_2016_00299389
+405	E questo è già comunque il mondo nuovo.	Y	già	81	   65,786	0.1103	82.75	ita_news_2015_00255009
+406	E' questo che l'Europa non fa.	Y	fa	82	   64,445	0.1081	50.7143	ita_news_2015_00254916
+407	Che fa lo stato, che fa l’Europa?	Y	fa	82	   64,445	0.1081	63.3333	ita_news_2016_00110092
+408	Invece che cosa fa lo Stato, questo Stato?	Y	fa	82	   64,445	0.1081	67	ita_news_2016_00447053
+409	Ma la squadra fa quello che può.	Y	fa	82	   64,445	0.1081	71.1429	ita_news_2019_00610752
+410	"""""""""""""""Siamo più squadra di un anno fa."""""""	Y	fa	82	   64,445	0.1081	72.8571	ita_news_2016_00871207
+411	Ma non è così e non è questo il punto.	Y	così	83	   63,660	0.1068	43.5	ita_news_2019_00615118
+412	Ma più di così, non si va.	Y	così	83	   63,660	0.1068	51.4286	ita_news_2019_00617917
+413	Fino a oggi non è stato così.	Y	così	83	   63,660	0.1068	54	ita_news_2019_00276519
+414	«Non si può fare un lavoro così»	Y	così	83	   63,660	0.1068	64.2857	ita_news_2019_00694605
+415	"""""""E così si può solo fare bene""""""""."""""""	Y	così	83	   63,660	0.1068	74.2857	ita_news_2015_00218292
+416	Ma il problema è anche l’oggi.	Y	oggi	84	   62,580	0.105	67.1429	ita_news_2019_00607641
+417	Oggi è un grande giorno per tutti noi».	Y	oggi	84	   62,580	0.105	72.875	ita_news_2015_00710183
+418	Per noi oggi è un grande giorno».	Y	oggi	84	   62,580	0.105	74.7143	ita_news_2019_00747035
+419	Oggi però il punto è un altro.	Y	oggi	84	   62,580	0.105	75.7143	ita_news_2016_00706342
+420	Ma il problema ora è l’oggi.	Y	oggi	84	   62,580	0.105	76.5714	ita_news_2016_00601546
+421	Anche perché è proprio come quando è in campo.	Y	quando	85	   62,406	0.1047	69.25	ita_news_2015_00049534
+422	Quando c'è l'accordo a tre, la cosa si fa.	Y	quando	85	   62,406	0.1047	78.1818	ita_news_2019_00787124
+423	Anche quando non lo si è perso».	Y	quando	85	   62,406	0.1047	85.4286	ita_news_2019_00050883
+424	E così forse sarà, anche se non si sa ancora il quando, il dove e il come.	Y	quando	85	   62,406	0.1047	100.4286	ita_news_2016_00218730
+425	Quando al governo di regione, città e provincia c'è il PD.	Y	quando	85	   62,406	0.1047	101.1667	ita_news_2016_00788010
+426	Come l'anno scorso e come l'anno prima..	Y	anno	86	   61,482	0.1031	69.3333	ita_news_2015_00128795
+427	In che anno è successo e come mai?	Y	anno	86	   61,482	0.1031	76.375	ita_news_2016_00412450
+428	Un anno fa era il migliore del mondo.	Y	anno	86	   61,482	0.1031	78.25	ita_news_2015_00958627
+429	L’ho fatto una volta nel 2010 e l’ho fatto di nuovo quest’anno.	Y	anno	86	   61,482	0.1031	83.0909	ita_news_2016_00556630
+430	La prima invece è di quest’anno.	Y	anno	86	   61,482	0.1031	86.1429	ita_news_2019_00508334
+431	La gara, da 100 milioni di euro, è ancora da fare.	Y	euro	87	   61,286	0.1028	77.1111	ita_news_2015_00480679
+432	Ma con 800 euro al mese come si fa?	Y	euro	87	   61,286	0.1028	83.125	ita_news_2016_00595167
+433	E dalla seconda ora 2 euro in più.	Y	euro	87	   61,286	0.1028	91.2857	ita_news_2015_00218827
+434	L'euro poi, ci ha messo del suo.	Y	euro	87	   61,286	0.1028	102.875	ita_news_2016_00554039
+435	Il Capo non e' contro l'Euro!	Y	euro	87	   61,286	0.1028	103.4286	ita_news_2015_00343758
+436	“Chi non è con noi è contro di noi”.	Y	contro	88	   60,850	0.1021	50.5714	ita_news_2015_00113509
+437	Solo questo è contro il nostro programma».	Y	contro	88	   60,850	0.1021	95.7143	ita_news_2016_00890662
+438	Prima contro quelli di Roma e poi contro quelli di Napoli.	Y	contro	88	   60,850	0.1021	105.5	ita_news_2015_00782135
+439	Con una guerra che è contro ogni legge.»	Y	contro	88	   60,850	0.1021	106.875	ita_news_2016_00147342
+440	Una scelta «per» più che una scelta «contro».	Y	contro	88	   60,850	0.1021	111.8333	ita_news_2016_00961657
+441	Ma il vero problema è nei giorni di mercato.	Y	nei	89	   60,715	0.1018	135.2222	ita_news_2019_00608130
+442	Il 62% degli italiani non ha mai fatto il controllo dei nei.	Y	nei	89	   60,715	0.1018	138.5	ita_news_2016_00340176
+443	E poi, sei mai stata nei loro paesi?	Y	nei	89	   60,715	0.1018	139.375	ita_news_2015_00249108
+444	Certo, il nostro è il paese che nei sei anni di crisi aveva perso di più (quasi il 50%).	Y	nei	89	   60,715	0.1018	145.6667	ita_news_2015_00103710
+445	Nei fine settimana e la domenica in particolare.	Y	nei	89	   60,715	0.1018	146.75	ita_news_2019_00648246
+446	Ma ora è il tempo del fare.	Y	fare	90	   60,487	0.1014	48.4286	ita_news_2015_00613982
+447	C’è però molto di più da fare.	Y	fare	90	   60,487	0.1014	55.5	ita_news_2016_00103849
+448	Per lui era il momento di fare altro.	Y	fare	90	   60,487	0.1014	73.75	ita_news_2019_00745693
+449	Questo è quanto il comune può fare.	Y	fare	90	   60,487	0.1014	78.8571	ita_news_2015_00812455
+450	Sindaco, che può fare ancora un Comune?	Y	fare	90	   60,487	0.1014	93.8571	ita_news_2015_00884936
+451	E non solo per via del gol.	Y	via	91	   60,423	0.1013	74.8571	ita_news_2019_00234654
+452	Deve andare via non solo dalla politica ma anche dall'Italia.	Y	via	91	   60,423	0.1013	107.2727	ita_news_2015_00177860
+453	Al via i lavori per la nuova.	Y	via	91	   60,423	0.1013	109.2857	ita_news_2019_00042038
+454	E siamo ancora in attesa della’Via’.	Y	via	91	   60,423	0.1013	124.4286	ita_news_2019_00254286
+455	Del resto, non c’era un’altra via.	Y	via	91	   60,423	0.1013	124.875	ita_news_2019_00169382
+456	Ora il pubblico non c'è più.	Y	ora	92	   59,731	0.1002	67.2857	ita_news_2015_00719614
+457	Per ora la cosa importante è che ci sia.	Y	ora	92	   59,731	0.1002	73.8889	ita_news_2015_00754817
+458	Per ora, però, c'è solo il Napoli.	Y	ora	92	   59,731	0.1002	74.625	ita_news_2019_00748503
+459	Ma per ora sembra che così non sarà.	Y	ora	92	   59,731	0.1002	75.25	ita_news_2019_00617723
+460	Ma noi, ora come ora, a che punto siamo?«	Y	ora	92	   59,731	0.1002	75.75	ita_news_2019_00614696
+461	Un lavoro» Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	cookie	93	   58,906	0.0988	119.8462	ita_news_2019_00972270
+462	Per i ragazzi non può essere tutto Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	cookie	93	   58,906	0.0988	120.9444	ita_news_2019_00742139
+463	Quando il Papa «non è di Roma» Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	cookie	93	   58,906	0.0988	124.2353	ita_news_2019_00788192
+464	Ma fare politica non è «niente»Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	cookie	93	   58,906	0.0988	129.2353	ita_news_2019_00604778
+465	Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	cookie	93	   58,906	0.0988	130	ita_news_2019_00808084
+466	Di qui in poi non c'è stata storia.	Y	stata	94	   58,841	0.0987	71.4444	ita_news_2016_00185454
+467	Poi è stata la volta della Polizia.	Y	stata	94	   58,841	0.0987	84.4286	ita_news_2019_00764084
+468	È stata la prima e sarà l’ultima volta.	Y	stata	94	   58,841	0.0987	87.4444	ita_news_2015_00266301
+469	Si può dire che sono sempre stata qui!	Y	stata	94	   58,841	0.0987	91.625	ita_news_2016_00881451
+470	E' stata la prima volta dopo cinque anni.	Y	stata	94	   58,841	0.0987	93.125	ita_news_2016_00267626
+471	In Italia chi è stato il migliore?	Y	chi	95	   58,664	0.0984	66.7143	ita_news_2015_00418422
+472	"""""""Tutto questo è """"""""Chi l'ha visto?"""""""	Y	chi	95	   58,664	0.0984	67.1429	ita_news_2015_00949793
+473	E chi si è visto si è visto.	Y	chi	95	   58,664	0.0984	69.8	ita_news_2015_00215252
+474	E chi non ci sta è fuori.	Y	chi	95	   58,664	0.0984	77.2857	ita_news_2019_00208410
+475	C’è anche chi lo fa qui in Europa.	Y	chi	95	   58,664	0.0984	77.6667	ita_news_2015_00098402
+476	Prima di tutto, che ci sia un ministro.	Y	sia	96	   58,317	0.0978	70.25	ita_news_2015_00782935
+477	"""""""""""""""Ma c'è ancora molto lavoro da fare, sia per il governo che per molti altri."""""""	Y	sia	96	   58,317	0.0978	74.6667	ita_news_2016_00593509
+478	Sia come sia, si fa per dire.	Y	sia	96	   58,317	0.0978	76.3333	ita_news_2015_00874575
+479	E' anche possibile che non sia l'ultimo.	Y	sia	96	   58,317	0.0978	77.625	ita_news_2015_00207744
+480	È un fatto, però, che il bilancio ancora non ci sia.	Y	sia	96	   58,317	0.0978	93.9091	ita_news_2016_00274912
+481	Cosa ci fa andare da una parte o dall’altra?	Y	dall	97	   56,999	0.0956	113.5	ita_news_2019_00142381
+482	Sembra sia stato fuori dall'Italia un anno.	Y	dall	97	   56,999	0.0956	115.5	ita_news_2016_00855471
+483	Per la prima volta la gara parte fuori dall'Europa.	Y	dall	97	   56,999	0.0956	123.6667	ita_news_2019_00743462
+484	Da una parte i carabinieri dall' altra la polizia.	Y	dall	97	   56,999	0.0956	126.8889	ita_news_2016_00172743
+485	"""""""Questo è il punto politico ed è quello che ho sempre detto a Renzi dall'inizio""""""""."""""""	Y	dall	97	   56,999	0.0956	136.8667	ita_news_2015_00812175
+486	E invece il secondo lo fa il Napoli.	Y	secondo	98	   56,439	0.0947	84.2857	ita_news_2019_00224447
+487	"""""""Secondo me non ha fatto in tempo""""""""."""""""	Y	secondo	98	   56,439	0.0947	86.2857	ita_news_2015_00855068
+488	“Secondo noi non è questo il problema.	Y	secondo	98	   56,439	0.0947	86.4286	ita_news_2019_00845686
+489	Nel secondo tempo invece abbiamo subito di più.	Y	secondo	98	   56,439	0.0947	91.75	ita_news_2015_00669308
+490	Il primo per avere un suo consiglio, il secondo per..	Y	secondo	98	   56,439	0.0947	93.875	ita_news_2016_00383256
+491	La squadra va con e senza di lui.	Y	senza	99	   56,260	0.0944	78.375	ita_news_2019_00525801
+492	Non c’è futuro senza di loro.	Y	senza	99	   56,260	0.0944	80.1429	ita_news_2019_00679308
+493	Meno di 4 milioni i senza lavoro, per la prima volta da sei anni.	Y	senza	99	   56,260	0.0944	86.6923	ita_news_2019_00628077
+494	"""""""Ma anche lui non sarebbe stato così importante senza la squadra""""""""."""""""	Y	senza	99	   56,260	0.0944	94.5455	ita_news_2016_00592168
+495	E se non ci fosse due senza tre?	Y	senza	99	   56,260	0.0944	96.75	ita_news_2016_00263582
+496	Non è più quello di una volta.	Y	quello	100	   55,966	0.0939	46	ita_news_2016_00682456
+497	Quello che fa la Nazionale con l’Italia, l’ha fatto con Firenze.	Y	quello	100	   55,966	0.0939	74.7273	ita_news_2019_00795789
+498	Tutto quello che ha fatto ieri a Milano, e molto altro».	Y	quello	100	   55,966	0.0939	80.6364	ita_news_2019_00944077
+499	Ma quello che non si era ancora vista.	Y	quello	100	   55,966	0.0939	82.25	ita_news_2015_00616727
+500	Più di quello non sta a me».	Y	quello	100	   55,966	0.0939	84.4286	ita_news_2015_00765861
+501	Il presidente del Pd l'ha fatto.	Y	presidente	101	   55,186	0.0926	66.2857	ita_news_2015_00379305
+502	E questo sarebbe il Presidente di tutti gli Italiani?	Y	presidente	101	   55,186	0.0926	74.7778	ita_news_2015_00255779
+503	Lo ha detto ancora il presidente del Consiglio.	Y	presidente	101	   55,186	0.0926	76	ita_news_2016_00571404
+504	Per legge è il presidente di tutti gli italiani.	Y	presidente	101	   55,186	0.0926	77	ita_news_2015_00750331
+505	Lo ha detto il presidente del Napoli.	Y	presidente	101	   55,186	0.0926	78.5714	ita_news_2019_00579791
+506	E non l'ho mai più visto.	Y	ho	102	   54,902	0.0921	75	ita_news_2019_00234233
+507	Era il mio lavoro e l'ho fatto.	Y	ho	102	   54,902	0.0921	79.75	ita_news_2015_00257147
+508	Questo di ieri l'altro non l'ho visto.	Y	ho	102	   54,902	0.0921	82.25	ita_news_2015_00811757
+509	Poi non l’ho mai più visto».	Y	ho	102	   54,902	0.0921	83.4286	ita_news_2019_00765988
+510	"""""""""""""""E con una prima squadra, perché questa è la scelta che ho fatto."""""""	Y	ho	102	   54,902	0.0921	85.0769	ita_news_2016_00218277
+511	Con tutto quello che ho fatto nell'ultimo anno.	Y	nell	103	   54,201	0.0909	86.3333	ita_news_2016_00147214
+512	L'uomo era da solo nell'auto.	Y	nell	103	   54,201	0.0909	98.1429	ita_news_2016_00589245
+513	Non solo nell'Europa dell'economia, ma anche in quella del calcio.	Y	nell	103	   54,201	0.0909	119.4167	ita_news_2015_00699431
+514	"""""""Come del resto nell'Inter di qualche anno fa c'era un solo italiano""""""""."""""""	Y	nell	103	   54,201	0.0909	139.8571	ita_news_2015_00127066
+515	Siamo nell'ordine dei 150 mila euro al mese».	Y	nell	103	   54,201	0.0909	173	ita_news_2019_00865873
+516	Non è il primo, non sarà l'ultimo.	Y	primo	104	   52,824	0.0886	62.2857	ita_news_2015_00685305
+517	Non sarebbe il primo in questa storia.	Y	primo	104	   52,824	0.0886	81.1429	ita_news_2016_00692241
+518	Oltre che ministro e Primo Ministro in Italia.	Y	primo	104	   52,824	0.0886	84.4286	ita_news_2015_00715870
+519	E' un primo inizio o l'inizio della fine?	Y	primo	104	   52,824	0.0886	88.625	ita_news_2015_00274807
+520	E non si tratta del primo caso.	Y	primo	104	   52,824	0.0886	89.5714	ita_news_2016_00243129
+521	“Lo sono stato per molto, molto tempo”.	Y	molto	105	   52,320	0.0877	53.5	ita_news_2019_00586699
+522	E non c'è più molto da dire.	Y	molto	105	   52,320	0.0877	57.375	ita_news_2019_00233851
+523	Molto si potrebbe fare e molto non è stato fatto.	Y	molto	105	   52,320	0.0877	63.2222	ita_news_2015_00644108
+524	A Napoli non c’è molto da fare».	Y	molto	105	   52,320	0.0877	68.625	ita_news_2019_00045337
+525	La città ha ancora e sempre molto da dire.	Y	molto	105	   52,320	0.0877	72.7778	ita_news_2019_00470757
+526	Tutti siamo stati giovani ed abbiamo fatto le 2 di mattina ma il rispetto per gli altri viene prima di tutto.	Y	stati	106	   51,898	0.087	107.3158	ita_news_2016_00943645
+527	E noi siamo sempre stati con lei.	Y	stati	106	   51,898	0.087	110.5714	ita_news_2016_00242108
+528	Poi, però, non ci sono stati problemi».	Y	stati	106	   51,898	0.087	112.8571	ita_news_2019_00766221
+529	Ma è vero, e non solo per gli Stati Uniti.	Y	stati	106	   51,898	0.087	118.4	ita_news_2016_00598131
+530	Perchè mai gli italiani non se ne sono stati a casa loro?	Y	stati	106	   51,898	0.087	124.5833	ita_news_2016_00733924
+531	Ma sono certo che sarà così anche per gli altri».	Y	altri	107	   51,199	0.0859	68.6	ita_news_2019_00623697
+532	Non solo in Italia, visto che è anche un problema di altri.	Y	altri	107	   51,199	0.0859	69.1667	ita_news_2016_00695195
+533	Tutti gli altri, ancora per la strada.	Y	altri	107	   51,199	0.0859	77	ita_news_2015_00946785
+534	Però il problema non sono solo io, ci sono anche tutti gli altri.	Y	altri	107	   51,199	0.0859	79.5	ita_news_2015_00753964
+535	Era un sabato come tutti gli altri.	Y	altri	107	   51,199	0.0859	79.7143	ita_news_2016_00260038
+536	Prima parte di una serie di tre.	Y	tre	108	   50,497	0.0847	79	ita_news_2019_00775873
+537	Un gruppo di due o tre persone.	Y	tre	108	   50,497	0.0847	80.5714	ita_news_2019_00969985
+538	Tutti e tre, hanno a che fare con la morte.	Y	tre	108	   50,497	0.0847	81.9	ita_news_2015_00946681
+539	L’importante è fare i tre punti sempre».	Y	tre	108	   50,497	0.0847	100.25	ita_news_2016_00559095
+540	Tre punti da fare il prima possibile.	Y	tre	108	   50,497	0.0847	108.2857	ita_news_2016_00937013
+541	E’ questo il tempo del tutto e subito.	Y	tempo	109	   50,359	0.0845	67	ita_news_2015_00255352
+542	È stato in campo per poco più del 70% del tempo.	Y	tempo	109	   50,359	0.0845	68	ita_news_2016_00268970
+543	È da un po’ di tempo che.	Y	tempo	109	   50,359	0.0845	69.4286	ita_news_2019_00212243
+544	Come è possibile, dopo tutto questo tempo?	Y	tempo	109	   50,359	0.0845	80.4286	ita_news_2019_00122850
+545	C’è il tempo per fare il punto della situazione.	Y	tempo	109	   50,359	0.0845	81.4444	ita_news_2019_00096481
+546	Ma lei dove è stato in questi anni?	Y	dove	110	   49,442	0.0829	86.75	ita_news_2015_00607511
+547	Ora non ha più un posto dove andare.	Y	dove	110	   49,442	0.0829	102.125	ita_news_2019_00715497
+548	Ma al momento non si sa dove e non si sa quando.	Y	dove	110	   49,442	0.0829	114.2222	ita_news_2019_00598832
+549	Ma dove si trova un altro paese come l'Italia.	Y	dove	110	   49,442	0.0829	124	ita_news_2015_00597945
+550	Non certo un servizio pubblico, dove di pubblico non c'è proprio nulla.	Y	dove	110	   49,442	0.0829	127	ita_news_2016_00677834
+551	C'è solo una squadra in campo, la Roma.	Y	roma	111	   48,107	0.0807	70.2222	ita_news_2019_00100970
+552	Il lavoro, a Roma e provincia, c'è.	Y	roma	111	   48,107	0.0807	70.25	ita_news_2019_00355518
+553	Qui in Italia e soprattutto a Roma, ci sarebbe molto da fare.	Y	roma	111	   48,107	0.0807	83.25	ita_news_2016_00809514
+554	Che cosa è successo e perché proprio a Roma?	Y	roma	111	   48,107	0.0807	88.2222	ita_news_2019_00103064
+555	Ma qui - anche se sembra - non siamo a Roma.	Y	roma	111	   48,107	0.0807	93	ita_news_2019_00619753
+556	Ma c’è qualcosa che non va nelle sue parole.	Y	nelle	112	   48,083	0.0806	155.4	ita_news_2016_00593646
+557	Lo è anche per loro, ma non siamo nelle condizioni di guardare in casa degli altri.	Y	nelle	112	   48,083	0.0806	173	ita_news_2015_00570068
+558	"""""""""""""""Non sono le donne che devono entrare in politica, ma la politica che deve entrare nelle donne""""""""."""""""	Y	nelle	112	   48,083	0.0806	199.3846	ita_news_2015_00700073
+559	Anche la Provincia si trova nelle condizioni del Comune.	Y	nelle	112	   48,083	0.0806	200.7778	ita_news_2016_00049597
+560	Sempre, non solo nelle partite di calcio.	Y	nelle	112	   48,083	0.0806	201.7143	ita_news_2019_00853850
+561	"""""""E per questo abbiamo fatto la guerra""""""""."""""""	Y	abbiamo	113	   47,757	0.0801	88.8571	ita_news_2015_00246838
+562	Lo abbiamo detto per anni e ancora non abbiamo fatto niente.	Y	abbiamo	113	   47,757	0.0801	93.8	ita_news_2019_00575664
+563	"""""""Abbiamo un programma di governo di 5 anni""""""""."""""""	Y	abbiamo	113	   47,757	0.0801	94.5	ita_news_2019_00004000
+564	Con loro non abbiamo niente a che fare.	Y	abbiamo	113	   47,757	0.0801	95.25	ita_news_2019_00134968
+565	E anche le realtà che già abbiamo.	Y	abbiamo	113	   47,757	0.0801	97.2857	ita_news_2019_00201697
+566	Anche la casa per lui è un problema.	Y	casa	114	   47,254	0.0793	79.125	ita_news_2015_00047794
+567	Il più forte lo hanno in casa!	Y	casa	114	   47,254	0.0793	80.8571	ita_news_2015_00376211
+568	"""""""""""""""Questa è la nostra casa"""""""" hanno detto."""""""	Y	casa	114	   47,254	0.0793	84.4286	ita_news_2016_00798263
+569	Dice che questa è casa sua e fa come vuole.	Y	casa	114	   47,254	0.0793	86.1	ita_news_2015_00179208
+570	Come è in tv, così è anche a casa.	Y	casa	114	   47,254	0.0793	86.5	ita_news_2016_00129754
+571	Non è una cosa grande, è una cosa.	Y	grande	115	   46,991	0.0788	59.6	ita_news_2019_00685448
+572	Non c'è una legge più grande».	Y	grande	115	   46,991	0.0788	63.7143	ita_news_2015_00681332
+573	Non è stato quindi un grande giorno per lui, ma ha fatto tutto il possibile».	Y	grande	115	   46,991	0.0788	74.4667	ita_news_2016_00683609
+574	Siamo o non siamo un grande paese?	Y	grande	115	   46,991	0.0788	79.1667	ita_news_2016_00871024
+575	«E’ così, ma lui resta il più grande di tutti.	Y	grande	115	   46,991	0.0788	90.8	ita_news_2016_00218957
+576	Non si può, e il punto è proprio questo.	Y	può	116	   46,847	0.0786	55.4444	ita_news_2019_00694567
+577	E se solo lui può, lui è solo.	Y	può	116	   46,847	0.0786	61.6667	ita_news_2019_00254159
+578	Ma in Italia non si può avere tutto”.	Y	può	116	   46,847	0.0786	68	ita_news_2015_00604072
+579	Non solo si può, ma si deve.	Y	può	116	   46,847	0.0786	70.8333	ita_news_2016_00695585
+580	Ma questo è un ospedale e non si può”.	Y	può	116	   46,847	0.0786	77.7778	ita_news_2019_00619567
+581	C’è questo, ma c’è anche altro.	Y	altro	117	   46,708	0.0783	45.1667	ita_news_2019_00098224
+582	E non c’è da dire altro.	Y	altro	117	   46,708	0.0783	63.1429	ita_news_2019_00233820
+583	Ma il punto però è un altro.	Y	altro	117	   46,708	0.0783	67.1429	ita_news_2019_00607727
+584	In un modo o in un altro.	Y	altro	117	   46,708	0.0783	74.4	ita_news_2016_00445895
+585	«Un lavoro che è anche tanto altro»	Y	altro	117	   46,708	0.0783	74.7143	ita_news_2019_00972156
+586	Dice: «E’ il lavoro di una vita.	Y	lavoro	118	   46,533	0.078	67.4286	ita_news_2019_00172313
+587	! e ancora aveva il posto di lavoro.	Y	lavoro	118	   46,533	0.078	68.8571	ita_news_2015_00208033
+588	È un lavoro di squadra, il nostro.	Y	lavoro	118	   46,533	0.078	73.8571	ita_news_2016_00275332
+589	È stato il mio lavoro per una vita.	Y	lavoro	118	   46,533	0.078	77	ita_news_2016_00268867
+590	"""""""""""""""Ma c'è ancora tanto lavoro da fare""""""""."""""""	Y	lavoro	118	   46,533	0.078	78.25	ita_news_2016_00593512
+591	La prima, alla fine dello scorso anno.	Y	dello	119	   46,487	0.078	95.8571	ita_news_2019_00507699
+592	Ma la squadra non è più forte dello scorso anno.	Y	dello	119	   46,487	0.078	101.8	ita_news_2015_00606754
+593	Dell’Italia, ma anche del partito e dello stesso Berlusconi.	Y	dello	119	   46,487	0.078	105.6	ita_news_2019_00168794
+594	La prima è l’amministrazione dello Stato.	Y	dello	119	   46,487	0.078	113.5714	ita_news_2016_00504258
+595	C’è più attenzione da parte dello Stato.	Y	dello	119	   46,487	0.078	119.125	ita_news_2016_00103884
+596	La vita è quella sfida, ma anche altro, e di più.	Y	quella	120	   45,772	0.0768	92.3636	ita_news_2015_00533296
+597	La situazione è quasi quella di 20 anni fa.	Y	quella	120	   45,772	0.0768	92.5	ita_news_2016_00518161
+598	Ma che squadra è stata mai quella di quest’anno?	Y	quella	120	   45,772	0.0768	96.9	ita_news_2019_00601175
+599	La politica può essere meglio di quella che abbiamo visto in questi anni.	Y	quella	120	   45,772	0.0768	98.4615	ita_news_2015_00498407
+600	La mia linea è sempre quella che ho già detto.	Y	quella	120	   45,772	0.0768	98.7	ita_news_2015_00490182
+601	Per i bambini dai 4 anni in su.	Y	dai	121	   45,007	0.0755	99.7143	ita_news_2019_00739151
+602	Si tratta di donne che hanno tutte dai 25 anni di lavoro in su.	Y	dai	121	   45,007	0.0755	105.3333	ita_news_2015_00890186
+603	Poi, dai e dai, è successo quel che è successo».	Y	dai	121	   45,007	0.0755	106.5714	ita_news_2015_00770043
+604	Sono cose che tutti da giovani abbiamo fatto, dai.	Y	dai	121	   45,007	0.0755	116.3333	ita_news_2015_00898819
+605	Sono al lavoro dai primi mesi di quest’anno.	Y	dai	121	   45,007	0.0755	143.3333	ita_news_2019_00888168
+606	Non c'è che dire, è proprio così.	Y	proprio	122	   44,519	0.0747	73	ita_news_2015_00680222
+607	"""""""E' proprio il caso di dire """"""""se 6406."""""""	Y	proprio	122	   44,519	0.0747	77.4286	ita_news_2016_00252774
+608	Ma non è stato proprio un successo.	Y	proprio	122	   44,519	0.0747	78	ita_news_2016_00610155
+609	Anche in questo caso è proprio il caso di dire che è sempre la stessa storia.	Y	proprio	122	   44,519	0.0747	89.2143	ita_news_2019_00047682
+610	Come proprio in questo caso s'è fatto.	Y	proprio	122	   44,519	0.0747	89.25	ita_news_2015_00129934
+611	Da due anni aveva perso il lavoro.	Y	aveva	123	   44,352	0.0744	109.7143	ita_news_2016_00161183
+612	Nessuno lo aveva più visto in questi anni.	Y	aveva	123	   44,352	0.0744	117.75	ita_news_2016_00669547
+613	La Juve ha dato tutto quello che aveva in questo momento.	Y	aveva	123	   44,352	0.0744	117.9091	ita_news_2019_00487188
+614	Ma non era sempre Berlusconi quello che aveva più soldi?	Y	aveva	123	   44,352	0.0744	124.4	ita_news_2015_00612278
+615	Quando si aveva bisogno, lui c'era sempre.	Y	aveva	123	   44,352	0.0744	137.75	ita_news_2016_00790386
+616	Ma per quanto ci riguarda non è il suo.	Y	quanto	124	   43,465	0.0729	96.4444	ita_news_2019_00617756
+617	Quanto è importante per il nostro Paese?	Y	quanto	124	   43,465	0.0729	110.5714	ita_news_2015_00799626
+618	"""""""""""""""Nel sistema di quel paese, è stato un leader, molto di più di quanto non lo sia stato il nostro presidente ()."""""""	Y	quanto	124	   43,465	0.0729	114.0556	ita_news_2016_00666503
+619	Resta ancora la Repubblica, ma non è detto per quanto.	Y	quanto	124	   43,465	0.0729	114.1	ita_news_2015_00824388
+620	Da quanto tempo non state più insieme?	Y	quanto	124	   43,465	0.0729	116.2857	ita_news_2016_00170116
+621	"""""""Non c'è un posto per loro nel nostro nuovo mondo."""""""""""""""	Y	nuovo	125	   42,788	0.0718	75.5455	ita_news_2019_00680225
+622	In questo non c‘è niente di nuovo.	Y	nuovo	125	   42,788	0.0718	87.125	ita_news_2019_00431962
+623	E, allora, di nuovo: perché lo hanno fatto?	Y	nuovo	125	   42,788	0.0718	90.25	ita_news_2015_00206521
+624	Il giorno dopo sarebbe stato di nuovo domenica.	Y	nuovo	125	   42,788	0.0718	95	ita_news_2015_00358839
+625	È la fine per un nuovo inizio.	Y	nuovo	125	   42,788	0.0718	95.5714	ita_news_2015_00233348
+626	"""""""Siamo qui per dire che lo Stato c'è e il Governo c'è""""""""."""""""	Y	governo	126	   42,300	0.0709	68.75	ita_news_2019_00866345
+627	«Non si è mai visto un governo più.	Y	governo	126	   42,300	0.0709	71.875	ita_news_2019_00694009
+628	Il governo deve fare la sua parte».	Y	governo	126	   42,300	0.0709	81.1429	ita_news_2019_00353174
+629	Per noi il governo di servizio è un'altra cosa».	Y	governo	126	   42,300	0.0709	82.3	ita_news_2015_00752822
+630	“Il governo di tutti? ha una sua forza”	Y	governo	126	   42,300	0.0709	83.25	ita_news_2019_00353259
+631	C'è ancora strada da fare, invece, in C2.	Y	invece	127	   42,180	0.0707	80.25	ita_news_2016_00101475
+632	Invece il dice che sono molti di più.	Y	invece	127	   42,180	0.0707	82.25	ita_news_2019_00446520
+633	E invece nel mezzo c’è stato di tutto.	Y	invece	127	   42,180	0.0707	85.1111	ita_news_2019_00224508
+634	Questa invece sarà la mia prima volta a Roma.	Y	invece	127	   42,180	0.0707	99.5556	ita_news_2016_00799034
+635	Oggi invece sono solo il 25 per cento.	Y	invece	127	   42,180	0.0707	100.2857	ita_news_2016_00705472
+636	Ma in questi giorni ci è successo.	Y	giorni	128	   41,951	0.0704	96.8571	ita_news_2019_00608565
+637	Perché in questi giorni non si parla di questo?	Y	giorni	128	   41,951	0.0704	102.3333	ita_news_2016_00733280
+638	Una volta al giorno, per quattro giorni.	Y	giorni	128	   41,951	0.0704	104.7143	ita_news_2015_00964728
+639	Sono stato a luglio e all’inizio di agosto, per 35 giorni.	Y	giorni	128	   41,951	0.0704	109.7273	ita_news_2016_00899404
+640	Una crisi in tre giorni o, forse, in uno solo.	Y	giorni	128	   41,951	0.0704	110.6667	ita_news_2019_00949874
+641	Oggi, però, non è più questo il problema.	Y	però	129	   41,939	0.0703	77	ita_news_2019_00706320
+642	Però non è solo questo il problema.	Y	però	129	   41,939	0.0703	79.4286	ita_news_2015_00754354
+643	In regione c'è però ancora da fare.	Y	però	129	   41,939	0.0703	80.75	ita_news_2016_00434437
+644	Non si tratta solo di questo, però.	Y	però	129	   41,939	0.0703	82.1429	ita_news_2019_00695268
+645	Per l'uomo, però, non c'è stato nulla da fare.	Y	però	129	   41,939	0.0703	82.7273	ita_news_2015_00751706
+646	Ora dopo ora, ogni giorno come ogni notte, per anni e anni.	Y	ogni	130	   41,564	0.0697	98.5556	ita_news_2019_00713916
+647	E così SEMPRE, ogni volta che viene(!	Y	ogni	130	   41,564	0.0697	99.5714	ita_news_2016_00219123
+648	In ogni caso si può e si deve fare ancora tanto ».	Y	ogni	130	   41,564	0.0697	102	ita_news_2015_00422096
+649	Il problema ad ogni modo è il suo e non il mio.	Y	ogni	130	   41,564	0.0697	104.5	ita_news_2015_00381997
+650	Oggi, però, la Serie A non è prima, quando ogni domenica era un Mondiale.	Y	ogni	130	   41,564	0.0697	106.2143	ita_news_2016_00706346
+651	Non è tutto mercato, a questo mondo».	Y	mondo	131	   41,535	0.0697	80.5714	ita_news_2016_00683960
+652	Il mio mondo non è il suo.	Y	mondo	131	   41,535	0.0697	83.3333	ita_news_2015_00367929
+653	E non solo nel mondo del calcio.	Y	mondo	131	   41,535	0.0697	83.4286	ita_news_2016_00243195
+654	"""""""""""""""E si può fare un mondo migliore?"""""""	Y	mondo	131	   41,535	0.0697	88.1429	ita_news_2019_00254687
+655	Era il ’60, la mia fine del mondo.	Y	mondo	131	   41,535	0.0697	92.4286	ita_news_2015_00257098
+656	Oggi, con oltre il 28%, è il primo partito.	Y	oltre	132	   41,246	0.0692	90.8571	ita_news_2019_00704297
+657	Un altro modo di essere oltre il calcio.	Y	oltre	132	   41,246	0.0692	106.625	ita_news_2016_00957562
+658	Oltre il tempo e oltre se stessa.	Y	oltre	132	   41,246	0.0692	110	ita_news_2016_00710687
+659	Ma, a questo punto, si va ben oltre.	Y	oltre	132	   41,246	0.0692	115.625	ita_news_2016_00592798
+660	"""""""Ma siamo da molto oltre quel punto""""""""."""""""	Y	oltre	132	   41,246	0.0692	116.8571	ita_news_2015_00623181
+661	Per noi, il solo fatto di essere qui è importante.	Y	noi	133	   40,828	0.0685	78.9	ita_news_2015_00752831
+662	E questo è vero anche per noi.	Y	noi	133	   40,828	0.0685	81.8571	ita_news_2015_00255097
+663	Forse più a loro che a noi.	Y	noi	133	   40,828	0.0685	84.3333	ita_news_2015_00289529
+664	Ma come è difficile per noi lo sarà anche per loro.	Y	noi	133	   40,828	0.0685	85.5	ita_news_2016_00594833
+665	Ma a noi non lo ha detto nessuno.	Y	noi	133	   40,828	0.0685	87.625	ita_news_2019_00599811
+666	Come quella di milioni di altre persone.	Y	milioni	134	   40,559	0.068	106.8333	ita_news_2019_00125342
+667	E non è una cosa da poco, perché si parla di 3 milioni di persone circa ogni giorno”.	Y	milioni	134	   40,559	0.068	110.5	ita_news_2015_00242076
+668	Sei anni fa erano più di tre milioni.	Y	milioni	134	   40,559	0.068	110.625	ita_news_2015_00859231
+669	Ma l’ha detto davanti a milioni di persone e questo per me ha anche più valore.	Y	milioni	134	   40,559	0.068	113.1875	ita_news_2015_00608160
+670	In arrivo più di 2 milioni per il.	Y	milioni	134	   40,559	0.068	113.8571	ita_news_2019_00406264
+671	Ma se siamo anche più giovani di loro.	Y	siamo	135	   40,081	0.0672	75.125	ita_news_2019_00623059
+672	Sono 40 anni che siamo in questa situazione.	Y	siamo	135	   40,081	0.0672	76.5714	ita_news_2016_00891670
+673	E su questo fronte non ci siamo.	Y	siamo	135	   40,081	0.0672	88	ita_news_2015_00269681
+674	E su questo punto, ormai ci siamo anche in Italia.	Y	siamo	135	   40,081	0.0672	88.4	ita_news_2015_00269703
+675	Dopo di che noi siamo un'altra cosa.	Y	siamo	135	   40,081	0.0672	88.625	ita_news_2015_00194143
+676	Ma di fatto: non ne sono fuori».	Y	ne	136	   39,773	0.0667	71.4286	ita_news_2015_00597548
+677	Ma qui, tra noi, ci sono molti che ne hanno fatto parte».	Y	ne	136	   39,773	0.0667	88.1667	ita_news_2016_00615092
+678	Ma che ne hanno fatto della nostra Europa?	Y	ne	136	   39,773	0.0667	90.625	ita_news_2019_00601108
+679	"""""""Oggi se ne va anche una parte di me""""""""."""""""	Y	ne	136	   39,773	0.0667	95.4444	ita_news_2019_00706712
+680	Poi non se ne è fatto nulla.	Y	ne	136	   39,773	0.0667	97.4286	ita_news_2016_00766505
+681	“Io sono di Firenze – ha detto – A Firenze si dice con la c”.	Y	detto	137	   39,764	0.0667	72.9167	ita_news_2015_00450213
+682	"""""""Ma non è detto che sarà possibile""""""""."""""""	Y	detto	137	   39,764	0.0667	74	ita_news_2016_00609901
+683	Ma forse non tutto è stato detto.	Y	detto	137	   39,764	0.0667	80.4286	ita_news_2015_00599907
+684	Di tutto questo in Italia non si è detto niente”.	Y	detto	137	   39,764	0.0667	81.1	ita_news_2015_00186851
+685	Ma a loro non è stato detto nulla.	Y	detto	137	   39,764	0.0667	81.625	ita_news_2019_00598841
+686	Mentre lo fa ti dice che è per il tuo bene”.	Y	mentre	138	   39,360	0.066	120.1818	ita_news_2015_00630279
+687	Mentre da queste parti le donne sono al governo.	Y	mentre	138	   39,360	0.066	125.3333	ita_news_2015_00629451
+688	Il primo tempo è stato così così, mentre nella ripresa la squadra ha fatto meglio.	Y	mentre	138	   39,360	0.066	128.8571	ita_news_2016_00383568
+689	Mentre solo il 4% si trova in Italia.	Y	mentre	138	   39,360	0.066	140.8571	ita_news_2019_00629873
+690	Questi ultimi hanno un futuro mentre gli altri no.	Y	mentre	138	   39,360	0.066	152	ita_news_2016_00803769
+691	La cosa importante è il rispetto per le persone.	Y	persone	139	   39,296	0.0659	86.5556	ita_news_2016_00474403
+692	Persone che non hanno nulla a che fare con la guerra.	Y	persone	139	   39,296	0.0659	105	ita_news_2015_00760869
+693	Più di 150mila persone hanno perso la casa.	Y	persone	139	   39,296	0.0659	112.875	ita_news_2019_00759527
+694	In tutto si tratta di circa 450 mila persone.	Y	persone	139	   39,296	0.0659	117.875	ita_news_2015_00442417
+695	Se va bene la domenica abbiamo 300 persone.	Y	persone	139	   39,296	0.0659	122.4286	ita_news_2015_00873273
+696	Anche se forse non fino a questo punto.	Y	fino	140	   39,130	0.0656	87.75	ita_news_2015_00051308
+697	Ma c'è tempo fino al 31 agosto.	Y	fino	140	   39,130	0.0656	92.8571	ita_news_2015_00594794
+698	«Renzi deve fare quello che fino a ora non ha fatto.	Y	fino	140	   39,130	0.0656	93.6364	ita_news_2019_00815976
+699	Oggi ha fatto bene fino alla fine forse per la prima volta.	Y	fino	140	   39,130	0.0656	94.25	ita_news_2015_00710340
+700	Se c'è tempo fino al 19 agosto?	Y	fino	140	   39,130	0.0656	95.2857	ita_news_2016_00843574
+701	Dalle 14 qui, con noi, come per tutta la notte.	Y	dalle	141	   38,738	0.065	126.3333	ita_news_2015_00164506
+702	Proprio in quella zona, dalle parti di..	Y	dalle	141	   38,738	0.065	137.1429	ita_news_2016_00780618
+703	Il calcio, nonostante tutto, è sempre dalle nostre parti, almeno con loro!	Y	dalle	141	   38,738	0.065	207.3333	ita_news_2015_00342242
+704	"""""""""""""""Il calcio deve essere fatto dalle società che hanno i mezzi per farlo, va fatto con i mezzi propri perché questo è il sistema."""""""	Y	dalle	141	   38,738	0.065	212.05	ita_news_2016_00343518
+705	Con l'arrivo di Matteo Renzi e di tutto il Pd in città per l'assemblea nazionale di sabato e soprattutto a dieci mesi dalle elezioni.	Y	dalle	141	   38,738	0.065	245.6818	ita_news_2016_00141047
+706	"""""""Questa legge c'è da una vita""""""""."""""""	Y	vita	142	   37,999	0.0637	73.5714	ita_news_2016_00799261
+707	E questo è il progetto più importante della sua vita.	Y	vita	142	   37,999	0.0637	84.8	ita_news_2019_00246071
+708	Oggi anche con il lavoro, come in fondo ha fatto da sempre con la sua vita.	Y	vita	142	   37,999	0.0637	85.1333	ita_news_2019_00703965
+709	Questo è il calcio, questa è la vita.	Y	vita	142	   37,999	0.0637	86	ita_news_2015_00811985
+710	Lo sport è sempre stato la sua vita.	Y	vita	142	   37,999	0.0637	86.875	ita_news_2019_00587618
+711	Ma non è questa la cosa più importante.	Y	cosa	143	   37,951	0.0637	69.375	ita_news_2016_00610046
+712	Non c’è cosa migliore di questa.	Y	cosa	143	   37,951	0.0637	76.4286	ita_news_2015_00680248
+713	E se non è ancora successo, a cosa si deve?	Y	cosa	143	   37,951	0.0637	82.6	ita_news_2016_00263591
+714	E poi che cosa è il 25 aprile?	Y	cosa	143	   37,951	0.0637	84.8571	ita_news_2016_00249227
+715	"""""""C'è una cosa che deve fare il Pd""""""""."""""""	Y	cosa	143	   37,951	0.0637	85.7778	ita_news_2015_00105328
+716	E questo solo per la città di Firenze.	Y	città	144	   37,808	0.0634	61.375	ita_news_2016_00256908
+717	E questo non è certo un bene per la città».	Y	città	144	   37,808	0.0634	68.2	ita_news_2019_00246645
+718	E non fa nulla per la città.	Y	città	144	   37,808	0.0634	86.1429	ita_news_2015_00242141
+719	Oggi è un giorno importante per la città».	Y	città	144	   37,808	0.0634	86.75	ita_news_2015_00710179
+720	Il presidente: «Sarà la squadra di tutta la città»»	Y	città	144	   37,808	0.0634	94.5	ita_news_2019_00374400
+721	E non sono mai stato così bene».	Y	mai	145	   37,770	0.0633	66.2857	ita_news_2015_00242802
+722	Questo non è possibile e non sarà mai così.	Y	mai	145	   37,770	0.0633	77.25	ita_news_2016_00806762
+723	O forse non lo è mai stato?	Y	mai	145	   37,770	0.0633	79.4286	ita_news_2016_00703575
+724	"""""""""""""""Il problema non c'è mai stato."""""""	Y	mai	145	   37,770	0.0633	83.4286	ita_news_2019_00377478
+725	«Con me non lo ha mai fatto.	Y	mai	145	   37,770	0.0633	83.5714	ita_news_2016_00142361
+726	Sono i dati dei primi due mesi di Area C da ieri sul sito del Comune.	Y	sito	146	   37,233	0.0624	130.5625	ita_news_2019_00890939
+727	Il rispetto per le elezioni degli altri Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	sito	146	   37,233	0.0624	131.6111	ita_news_2019_00384906
+728	«Siamo con l'Italia, non un popolo contro»Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	sito	146	   37,233	0.0624	131.6842	ita_news_2016_00869822
+729	«Siamo 200mila»Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	sito	146	   37,233	0.0624	133.0769	ita_news_2019_00864118
+730	L'ho fatto per bisogno»Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	sito	146	   37,233	0.0624	135.125	ita_news_2019_00564284
+731	Il 1963 non è una fine, ma un inizio.	Y	fine	147	   36,403	0.0611	73.75	ita_news_2015_00337283
+732	Per loro questo è l’inizio della fine’’.	Y	fine	147	   36,403	0.0611	83.125	ita_news_2015_00751296
+733	È solo la fine della prima giornata.	Y	fine	147	   36,403	0.0611	86.2857	ita_news_2015_00263972
+734	Non c'è un inizio, non c'è una fine.	Y	fine	147	   36,403	0.0611	88.8571	ita_news_2019_00680207
+735	E comunque alla fine uno di meno..	Y	fine	147	   36,403	0.0611	100.7143	ita_news_2016_00217398
+736	In questi ultimi anni, dopo le già..	Y	questi	148	   36,391	0.061	96	ita_news_2015_00429867
+737	Tra questi anche il nostro presidente del Consiglio.	Y	questi	148	   36,391	0.061	97.875	ita_news_2016_00934890
+738	E anche questi hanno avuto i loro “anni-no”.	Y	questi	148	   36,391	0.061	104.4444	ita_news_2016_00208879
+739	Non sarà facile fare più di quello che è stato fatto in questi anni.	Y	questi	148	   36,391	0.061	105.5	ita_news_2015_00695987
+740	A uno solo di questi è stato dato un nome.	Y	questi	148	   36,391	0.061	109.9	ita_news_2019_00074399
+741	Lui fa parte di tutte e due.	Y	lui	149	   36,221	0.0607	76	ita_news_2015_00583655
+742	Ma lo Stato è più forte di lui.	Y	lui	149	   36,221	0.0607	78.5	ita_news_2019_00612321
+743	Per lui e per il suo pubblico.	Y	lui	149	   36,221	0.0607	82.6667	ita_news_2015_00751485
+744	Lui poi è sempre stato in partita.	Y	lui	149	   36,221	0.0607	84.2857	ita_news_2019_00592040
+745	Ma per lui non c'è stato niente da fare.	Y	lui	149	   36,221	0.0607	86.4	ita_news_2019_00617662
+746	E questo non è un bene per il paese.	Y	paese	150	   35,454	0.0595	43	ita_news_2019_00246653
+747	L'Italia non è più il mio Paese.	Y	paese	150	   35,454	0.0595	69.375	ita_news_2015_00566340
+748	E poi lo ha visto tutto il paese.	Y	paese	150	   35,454	0.0595	71.125	ita_news_2016_00249979
+749	Il problema è che non è un Paese.	Y	paese	150	   35,454	0.0595	71.8571	ita_news_2016_00384153
+750	Ma il paese viene prima di tutto.	Y	paese	150	   35,454	0.0595	80.7143	ita_news_2019_00607464
+751	A maggio tutto il San Paolo era con lui e contro di noi.	Y	san	151	   35,165	0.059	114	ita_news_2016_00043907
+752	Ma anche per la Repubblica di San Marino.	Y	san	151	   35,165	0.059	115.75	ita_news_2016_00592267
+753	Il governo di San Marino spiega la le..	Y	san	151	   35,165	0.059	130.25	ita_news_2015_00360423
+754	Una situazione che non si era mai vista a San Marino.	Y	san	151	   35,165	0.059	131.5455	ita_news_2015_00962191
+755	Non è un titolo di 20 anni fa ma quello che è successo ieri al San Paolo.	Y	san	151	   35,165	0.059	136.1333	ita_news_2015_00688119
+756	Non è la prima volta che lo dice.	Y	volta	152	   34,842	0.0584	57.875	ita_news_2015_00685499
+757	Ancora una volta la storia, ma non solo.	Y	volta	152	   34,842	0.0584	68.5	ita_news_2019_00054364
+758	Questo, ancora una volta, non è Europa.18.	Y	volta	152	   34,842	0.0584	71.4286	ita_news_2016_00803958
+759	Di certo non è la prima volta.	Y	volta	152	   34,842	0.0584	76.7143	ita_news_2015_00179593
+760	Una volta c’era il partito di un uomo solo.	Y	volta	152	   34,842	0.0584	81.6	ita_news_2016_00965053
+761	In questo caso si deve solo il 20%.	Y	caso	153	   34,473	0.0578	67.1429	ita_news_2019_00430921
+762	«Non è un caso che molti in-	Y	caso	153	   34,473	0.0578	68.2857	ita_news_2019_00685670
+763	Non è più il caso di dire se ci sarà una nuova crisi.	Y	caso	153	   34,473	0.0578	83.3846	ita_news_2016_00682427
+764	Nel tuo caso non è stato così.	Y	caso	153	   34,473	0.0578	84.4286	ita_news_2016_00667194
+765	Non è così, almeno in questo caso.	Y	caso	153	   34,473	0.0578	86.1429	ita_news_2016_00681173
+766	Sta di fatto che adesso la Provincia non c’è più.	Y	sta	154	   34,290	0.0575	90.7273	ita_news_2015_00911663
+767	Il governo italiano da che parte sta?	Y	sta	154	   34,290	0.0575	96.8571	ita_news_2016_00362637
+768	"""""""Questo le dice come sta oggi il mercato in Europa""""""""."""""""	Y	sta	154	   34,290	0.0575	101.6	ita_news_2015_00813632
+769	Che alla prima difficoltà si sta a casa o non si va al lavoro?	Y	sta	154	   34,290	0.0575	109.4615	ita_news_2019_00102551
+770	Con lui sta un italiano su tre.	Y	sta	154	   34,290	0.0575	109.5714	ita_news_2015_00140606
+771	Il calcio di oggi e quello di ieri.	Y	ieri	155	   34,099	0.0572	98.7143	ita_news_2016_00343528
+772	C'era anche su La Stampa di ieri.	Y	ieri	155	   34,099	0.0572	104.5	ita_news_2015_00101475
+773	"""""""Ieri è stato il primo giorno di scuola, oggi è il secondo""""""""."""""""	Y	ieri	155	   34,099	0.0572	107	ita_news_2016_00333844
+774	Ieri si è fatto bene, ma si deve fare meglio.	Y	ieri	155	   34,099	0.0572	109.3333	ita_news_2016_00335045
+775	Ed è quello che è successo ieri.	Y	ieri	155	   34,099	0.0572	110.3333	ita_news_2015_00220553
+776	E non solo in chi ci vuole bene.	Y	bene	156	   33,623	0.0564	82.375	ita_news_2019_00234601
+777	C'è sempre il 'ma' di troppo e non va bene.	Y	bene	156	   33,623	0.0564	83.1818	ita_news_2019_00100852
+778	Se questo è l’inizio, non ci va bene».	Y	bene	156	   33,623	0.0564	95.4444	ita_news_2016_00861370
+779	Va per la sua strada, e fa bene.	Y	bene	156	   33,623	0.0564	96.875	ita_news_2016_00985188
+780	C’è, ci sarebbe, ci sarà, ma non si sa bene come e su cosa.	Y	bene	156	   33,623	0.0564	97.1429	ita_news_2016_00102021
+781	Un servizio per i cittadini, ma anche per la società.	Y	servizio	157	   33,449	0.0561	83.5556	ita_news_2019_00981203
+782	È l'auto di servizio del sindaco.	Y	servizio	157	   33,449	0.0561	93.2857	ita_news_2019_00227635
+783	Che il servizio sarebbe stato molto migliore.	Y	servizio	157	   33,449	0.0561	103.1429	ita_news_2015_00108324
+784	Dalla fine di aprile il servizio sarà.	Y	servizio	157	   33,449	0.0561	116.1429	ita_news_2019_00155885
+785	"""""""Che non sia il cittadino al servizio dello Stato, ma lo Stato al servizio del cittadino."""""""""""""""	Y	servizio	157	   33,449	0.0561	119.3333	ita_news_2015_00109118
+786	E uno è proprio l’ex ministro.	Y	ex	158	   32,726	0.0549	94.2857	ita_news_2015_00274352
+787	Da un ex ministro della Prima Repubblica a un altro.	Y	ex	158	   32,726	0.0549	109	ita_news_2015_00171950
+788	E tra questi c'è anche l'ex-premier Renzi.	Y	ex	158	   32,726	0.0549	120.4	ita_news_2019_00262469
+789	Lavoro c'è ma un figlio di un ex.	Y	ex	158	   32,726	0.0549	121.125	ita_news_2016_00532629
+790	E’ la legge dell’ex: al centro dell’attacco.	Y	ex	158	   32,726	0.0549	152.75	ita_news_2016_00234169
+791	Perché io ho detto chi è stato.	Y	io	159	   32,452	0.0544	87.5714	ita_news_2016_00733351
+792	Lui per me è stato il primo e l’ultimo, e io per lui».	Y	io	159	   32,452	0.0544	90.0909	ita_news_2019_00592017
+793	C'è una legge, io la rispetto.	Y	io	159	   32,452	0.0544	91.1429	ita_news_2015_00105412
+794	Così ho fatto anche io, l’ho sempre fatto e lo fanno tutti».	Y	io	159	   32,452	0.0544	93.1818	ita_news_2015_00152225
+795	Io che non sono nulla l'ho sempre detto.	Y	io	159	   32,452	0.0544	97	ita_news_2015_00447186
+796	E' la linea non del Comune di Milano ma dell'Europa.	Y	linea	160	   32,365	0.0543	77.4545	ita_news_2015_00233582
+797	Soprattutto per chi è in prima linea.	Y	linea	160	   32,365	0.0543	78.1429	ita_news_2015_00906046
+798	Ora Berlusconi non è più in prima linea.	Y	linea	160	   32,365	0.0543	84.75	ita_news_2015_00718157
+799	E questa è stata anche la linea della difesa.	Y	linea	160	   32,365	0.0543	96.4444	ita_news_2015_00254348
+800	Quello che ha fatto non è in linea con ciò che è stata la sua vita fino ad adesso».	Y	linea	160	   32,365	0.0543	101.2941	ita_news_2016_00796306
+801	Quindi questo è il momento di fare le cose”.	Y	quindi	161	   31,782	0.0533	93.4444	ita_news_2015_00818529
+802	Quindi c'è la serie A nel suo futuro?	Y	quindi	161	   31,782	0.0533	95.2222	ita_news_2015_00817072
+803	Quindi per noi questo è il primo incontro”.	Y	quindi	161	   31,782	0.0533	98.625	ita_news_2016_00811209
+804	Ma non lo è, quindi i problemi c'erano».	Y	quindi	161	   31,782	0.0533	102.1111	ita_news_2016_00610380
+805	Non si può quindi avere tutto e subito».	Y	quindi	161	   31,782	0.0533	105.375	ita_news_2016_00694055
+806	E allora per che cosa sarebbe stato fatto tutto questo?	Y	sarebbe	162	   31,775	0.0533	92.6	ita_news_2016_00207785
+807	Ma come sarebbe a dire “al di la di ciò”?	Y	sarebbe	162	   31,775	0.0533	100.1111	ita_news_2019_00601903
+808	Senza di loro non sarebbe stata la stessa cosa.	Y	sarebbe	162	   31,775	0.0533	106.6667	ita_news_2016_00859304
+809	Quindi non sarebbe ancora presidente del Consiglio.	Y	sarebbe	162	   31,775	0.0533	107.2857	ita_news_2015_00818287
+810	Ci sarebbe tanto bene da fare anche in casa nostra.	Y	sarebbe	162	   31,775	0.0533	107.6	ita_news_2015_00120643
+811	Per non parlare della politica sui giovani..	Y	sui	163	   31,740	0.0532	172.5714	ita_news_2015_00753096
+812	Una giornata di lavoro è una nuova serie di video di sui lavori in giro per il mondo.	Y	sui	163	   31,740	0.0532	178.3333	ita_news_2019_00952378
+813	Tutto sui lavoratori Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	sui	163	   31,740	0.0532	179.5556	ita_news_2019_00944974
+814	"""""""Sui tifosi: """"""""I tifosi sono sempre i tifosi più grandi che ci siano."""""""	Y	sui	163	   31,740	0.0532	187.2	ita_news_2019_00911790
+815	Governo sotto sui conti dello Stato per un voto.	Y	sui	163	   31,740	0.0532	204.7778	ita_news_2016_00312547
+816	"""""""Non si può far tutto in un giorno!"""""""""""""""	Y	giorno	164	   31,695	0.0532	82.625	ita_news_2016_00693931
+817	Non solo un giorno, ma una settimana.	Y	giorno	164	   31,695	0.0532	87.2857	ita_news_2016_00695648
+818	La domenica qui è un giorno come un altro.	Y	giorno	164	   31,695	0.0532	91.5	ita_news_2015_00476523
+819	"""""""Un giorno e mezzo, non un’ora di più""""""""."""""""	Y	giorno	164	   31,695	0.0532	91.625	ita_news_2016_00969996
+820	Il giorno dopo non si può fare più nulla.	Y	giorno	164	   31,695	0.0532	92.6667	ita_news_2016_00360880
+821	"""""""Si tratta di circa 70mila euro su tre anni""""""""."""""""	Y	mila	165	   31,325	0.0525	111.1111	ita_news_2016_00884761
+822	Le donne sono quasi 5mila in più.	Y	mila	165	   31,325	0.0525	118.2857	ita_news_2019_00545114
+823	Il tutto per un valore di 500mila euro.	Y	mila	165	   31,325	0.0525	121.75	ita_news_2016_00402686
+824	Ad un certo punto le fa avere 5 mila euro.	Y	mila	165	   31,325	0.0525	122.8889	ita_news_2016_00016366
+825	Il video, in meno di un'ora, è stato visto più di 700mila volte.	Y	mila	165	   31,325	0.0525	126.6154	ita_news_2016_00404409
+826	A me e agli altri ha dato tanto”.	Y	agli	166	   30,892	0.0518	136	ita_news_2019_00043168
+827	Anche la lega in Italia dice l'Italia agli Italiani.	Y	agli	166	   30,892	0.0518	137.2222	ita_news_2015_00047968
+828	Anche in questo caso l'Italia è agli ultimi posti.	Y	agli	166	   30,892	0.0518	156.1	ita_news_2016_00048871
+829	Quanto agli altri: chi ha dato ha dato, chi ha avuto ha avuto.	Y	agli	166	   30,892	0.0518	158.4286	ita_news_2016_00791425
+830	Ma grazie agli uomini e alle donne del Pd abbiamo detto si va avanti.	Y	agli	166	   30,892	0.0518	170.2857	ita_news_2016_00599669
+831	In campo c'è solo una squadra.	Y	squadra	167	   30,743	0.0516	73.8571	ita_news_2015_00409267
+832	Il calcio non è solo calcio, ma è squadra.	Y	squadra	167	   30,743	0.0516	87.8571	ita_news_2015_00342233
+833	Sono il tecnico di una squadra di A..	Y	squadra	167	   30,743	0.0516	94.5714	ita_news_2015_00900142
+834	Ma chi vuole essere grande come squadra, deve essere grande anche in questo.	Y	squadra	167	   30,743	0.0516	95.8182	ita_news_2016_00594403
+835	La squadra per il Giro c’è già al 90%.	Y	squadra	167	   30,743	0.0516	96.2222	ita_news_2019_00525727
+836	Di più non dice, «non è il momento questo».	Y	momento	168	   30,693	0.0515	55.875	ita_news_2019_00177183
+837	E questo è l'importante, in questo momento.	Y	momento	168	   30,693	0.0515	71.8571	ita_news_2015_00255034
+838	"""""""""""""""Al momento non c'è molto da dire."""""""	Y	momento	168	   30,693	0.0515	77.125	ita_news_2015_00036070
+839	Per l'Italia è il momento più difficile.	Y	momento	168	   30,693	0.0515	91.375	ita_news_2016_00745529
+840	Forse è il momento di fare lo stesso.	Y	momento	168	   30,693	0.0515	93.375	ita_news_2015_00288481
+841	E’ una donna di 85 anni del posto.	Y	posto	169	   30,571	0.0513	81	ita_news_2019_00263527
+842	Cinque anni dopo, i più sono a posto.	Y	posto	169	   30,571	0.0513	84.625	ita_news_2019_00112652
+843	Il problema è da tempo stato posto..	Y	posto	169	   30,571	0.0513	95.2857	ita_news_2015_00382483
+844	Come dire avanti, in Italia c’è posto per tutti!	Y	posto	169	   30,571	0.0513	97.4	ita_news_2015_00127314
+845	E in famiglia ci sarà ancora un posto importante per lui?	Y	posto	169	   30,571	0.0513	100.4545	ita_news_2019_00222706
+846	Tutto come prima, ma con una giornata in meno.	Y	meno	170	   30,392	0.051	79.5556	ita_news_2019_00942934
+847	L’Italia di Renzi, nel 2016, sarà più o meno così.	Y	meno	170	   30,392	0.051	80.9	ita_news_2019_00574496
+848	«Lo sono stato, ora meno, forse non più».	Y	meno	170	   30,392	0.051	83	ita_news_2019_00586697
+849	L'Italia non vuole essere da meno.	Y	meno	170	   30,392	0.051	90.5714	ita_news_2019_00574953
+850	«Ma no, è meno di quello che sembra, c’è tempo per tutti.	Y	meno	170	   30,392	0.051	91.75	ita_news_2015_00611474
+851	"""""""""""""""Ma questo non è il centro del problema."""""""	Y	centro	171	   30,108	0.0505	72.625	ita_news_2019_00619623
+852	«Per me è al centro del progetto.	Y	centro	171	   30,108	0.0505	111	ita_news_2015_00751953
+853	Ancora una volta Milano al centro della storia.	Y	centro	171	   30,108	0.0505	111.375	ita_news_2019_00054396
+854	Risultati a parte, è il centro del problema.	Y	centro	171	   30,108	0.0505	113.75	ita_news_2015_00831936
+855	È questo allora il centro della storia.	Y	centro	171	   30,108	0.0505	119	ita_news_2016_00256016
+856	Ancora: «Infatti il tutto è pronto da circa due anni e non si parte».	Y	infatti	172	   29,694	0.0498	101.2143	ita_news_2019_00053507
+857	Da anni, infatti, non si hanno più notizie di lei.	Y	infatti	172	   29,694	0.0498	101.6	ita_news_2019_00151497
+858	La legge è infatti dalla nostra parte».	Y	infatti	172	   29,694	0.0498	106.2857	ita_news_2016_00486856
+859	Infatti c’è “il rischio per l’Italia di un punto di non ritorno”.	Y	infatti	172	   29,694	0.0498	128.3077	ita_news_2015_00414157
+860	Ad essere in difficoltà non sono ora infatti solo gli Stati Uniti, ma anche l’Europa.	Y	infatti	172	   29,694	0.0498	130.25	ita_news_2019_00011438
+861	Le parti non sono ancora d'accordo su tutto.	Y	parti	173	   29,544	0.0496	88.3333	ita_news_2015_00547707
+862	Stato che fa acqua da tutte le parti?	Y	parti	173	   29,544	0.0496	131.75	ita_news_2015_00913348
+863	Il 41% degli italiani non arriva a fine mese Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	parti	173	   29,544	0.0496	141.8947	ita_news_2019_00328749
+864	Ecco perché Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	parti	173	   29,544	0.0496	142.4615	ita_news_2019_00206768
+865	In tante parti d'Italia è già così.	Y	parti	173	   29,544	0.0496	147.375	ita_news_2015_00436886
+866	Cosa può fare il Comune in questo campo?	Y	comune	174	   29,275	0.0491	96.625	ita_news_2015_00150074
+867	Ci prova il Comune, ora, a fare di più.	Y	comune	174	   29,275	0.0491	107.5556	ita_news_2015_00119497
+868	"""""""""""""""Ma della situazione del Comune di Roma qui non si parla mai?"""""""", dice un altro ancora."""""""	Y	comune	174	   29,275	0.0491	115	ita_news_2016_00596086
+869	E il Comune, durante questi anni, non ha fatto niente?	Y	comune	174	   29,275	0.0491	116.9	ita_news_2019_00219709
+870	Il Comune è pronto a fare la sua parte.	Y	comune	174	   29,275	0.0491	120.7778	ita_news_2015_00347903
+871	O meglio: lo è stato per qualche ora.	Y	qualche	175	   29,049	0.0487	83.875	ita_news_2019_00711757
+872	E' qualche anno ormai che sono in Italia.	Y	qualche	175	   29,049	0.0487	90.25	ita_news_2016_00253316
+873	La storia è di qualche giorno fa.	Y	qualche	175	   29,049	0.0487	93.2857	ita_news_2019_00528249
+874	Fino a qualche giorno fa non è stato possibile.	Y	qualche	175	   29,049	0.0487	98.1111	ita_news_2019_00276598
+875	Quindi ragazzi ma anche con qualche anno in più?	Y	qualche	175	   29,049	0.0487	109.3333	ita_news_2019_00811457
+876	Hanno tutte a che fare con donne.	Y	tutte	176	   29,025	0.0487	100.4286	ita_news_2015_00319415
+877	Come lo saranno tutte fino alla fine.	Y	tutte	176	   29,025	0.0487	109	ita_news_2016_00131048
+878	«Sarà una partita come tutte le altre.	Y	tutte	176	   29,025	0.0487	112.2857	ita_news_2019_00835554
+879	In questo momento, tra le grandi, l’Inter è quella che sta meglio di tutte».	Y	tutte	176	   29,025	0.0487	121.6667	ita_news_2015_00431027
+880	“No, è una gara per noi importante come tutte le altre”.	Y	tutte	176	   29,025	0.0487	128.8182	ita_news_2015_00675546
+881	Si tratta di un uomo e di una..	Y	uomo	177	   28,921	0.0485	78.7143	ita_news_2016_00886243
+882	E' stato un uomo più avanti del suo tempo.	Y	uomo	177	   28,921	0.0485	88.4444	ita_news_2015_00268512
+883	Io l'uomo in più del Napoli?	Y	uomo	177	   28,921	0.0485	91.1429	ita_news_2016_00450539
+884	Si tratta di un uomo di 34 anni.	Y	uomo	177	   28,921	0.0485	96	ita_news_2016_00886236
+885	L’uomo è tutto per la donna e la donna è tutta per l’uomo”.	Y	uomo	177	   28,921	0.0485	96.1111	ita_news_2016_00589482
+886	Che è anche il suo punto di forza.	Y	punto	178	   28,885	0.0484	82.375	ita_news_2019_00103490
+887	Che poi questo era il punto, no?	Y	punto	178	   28,885	0.0484	85	ita_news_2015_00109598
+888	E questo è un punto molto importante.	Y	punto	178	   28,885	0.0484	87.2857	ita_news_2019_00246141
+889	Questo è il punto: se si vuole si può”.	Y	punto	178	   28,885	0.0484	87.5	ita_news_2016_00804895
+890	Il punto più importante è un altro.	Y	punto	178	   28,885	0.0484	88.1429	ita_news_2019_00380964
+891	La Giornata mondiale contro la violenza sulle donne è per tutti il 25 novembre.	Y	sulle	179	   28,824	0.0483	227.4167	ita_news_2019_00485437
+892	Sul palco per dire “no” alla violenza sulle donne Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	sulle	179	   28,824	0.0483	230.8438	ita_news_2019_00915257
+893	Non è che un problema come questo può stare sulle spalle del presidente».	Y	sulle	179	   28,824	0.0483	241.6154	ita_news_2016_00681039
+894	Quali sono gli effetti di questa politica sulle donne?	Y	sulle	179	   28,824	0.0483	245.3333	ita_news_2019_00786298
+895	Una due giorni sulle strade della Toscana.	Y	sulle	179	   28,824	0.0483	247.4286	ita_news_2016_00955307
+896	E non tra alcuni mesi, ma subito, forse già oggi.	Y	alcuni	180	   28,565	0.0479	112.3	ita_news_2016_00243314
+897	Ogni storia ha un suo inizio e alcuni perché.	Y	alcuni	180	   28,565	0.0479	118	ita_news_2019_00708484
+898	Ma alcuni punti di forza ci sono.	Y	alcuni	180	   28,565	0.0479	122.8571	ita_news_2015_00591979
+899	Certo, per alcuni è solo un giorno di scuola senza scuola.	Y	alcuni	180	   28,565	0.0479	123.4	ita_news_2019_00100506
+900	Questo è un tempo difficile per tutto il mondo, e in particolare per alcuni paesi.	Y	alcuni	180	   28,565	0.0479	124.5714	ita_news_2019_00805420
+901	"""""""Di se stesso e della sua Regione""""""""."""""""	Y	stesso	181	   28,450	0.0477	82.4286	ita_news_2016_00186604
+902	Per me, ma anche per se stesso.	Y	stesso	181	   28,450	0.0477	94.5	ita_news_2019_00746324
+903	Verso tutti ed anche verso se stesso.	Y	stesso	181	   28,450	0.0477	101.6667	ita_news_2015_00989975
+904	E’ lo stesso per uomo e per la donna?	Y	stesso	181	   28,450	0.0477	103.7143	ita_news_2019_00230056
+905	Il problema però è sempre lo stesso.	Y	stesso	181	   28,450	0.0477	106	ita_news_2015_00382812
+906	Ora sono qui ed è questo l’importante.	Y	qui	182	   28,356	0.0476	86.375	ita_news_2016_00716509
+907	Qui non c´è nulla di tutto questo.	Y	qui	182	   28,356	0.0476	90.875	ita_news_2015_00819044
+908	Ma qui il problema è un altro.	Y	qui	182	   28,356	0.0476	94	ita_news_2019_00619776
+909	Questa non lo è. Con tutto il rispetto per quelli che sono qui con me, la mia casa è un’altra».	Y	qui	182	   28,356	0.0476	96.8421	ita_news_2015_00807674
+910	"""""""Qui c’è tutto per fare una grande stagione""""""""."""""""	Y	qui	182	   28,356	0.0476	97.2222	ita_news_2016_00809028
+911	La crisi è anche e soprattutto nella politica.	Y	politica	183	   28,337	0.0475	96	ita_news_2015_00473178
+912	Ma la parte politica non è la stessa?	Y	politica	183	   28,337	0.0475	97.4286	ita_news_2016_00604481
+913	Per i cittadini e per chi fa politica”.	Y	politica	183	   28,337	0.0475	97.5714	ita_news_2015_00745243
+914	Ma c'è di mezzo la politica.	Y	politica	183	   28,337	0.0475	100.2857	ita_news_2015_00594500
+915	E qui la partita si fa politica.	Y	politica	183	   28,337	0.0475	103.2857	ita_news_2015_00256080
+916	All’inizio dell’anno erano ancora il 55%.	Y	erano	184	   28,327	0.0475	109.7143	ita_news_2016_00034074
+917	"""""""""""""""Un tempo qui gli italiani erano di casa."""""""	Y	erano	184	   28,327	0.0475	113.5	ita_news_2019_00982153
+918	In realtà non erano in due contro uno.	Y	erano	184	   28,327	0.0475	122.1429	ita_news_2016_00434219
+919	E un po' lo erano, di certo.	Y	erano	184	   28,327	0.0475	123	ita_news_2015_00274759
+920	Ma non c'erano le condizioni per un nuovo accordo.	Y	erano	184	   28,327	0.0475	127.5	ita_news_2016_00609645
+921	Il programma messo a punto dal presidente De..	Y	de	185	   28,246	0.0474	164	ita_news_2016_00386110
+922	L’appello de Il Tempo ha fatto centro.	Y	de	185	   28,246	0.0474	176.375	ita_news_2019_00506002
+923	Appuntamento quindi per la serata di oggi sul sito de La Provincia.	Y	de	185	   28,246	0.0474	207.9091	ita_news_2019_00061438
+924	"""""""C’hanno paura de lui, c’hanno paura""""""""."""""""	Y	de	185	   28,246	0.0474	218	ita_news_2016_00108700
+925	Roma, una Festa de l'Unità o il..	Y	de	185	   28,246	0.0474	227.875	ita_news_2016_00828500
+926	Forse solo un po' di più rispetto all'anno prima.	Y	rispetto	186	   28,194	0.0473	104.9	ita_news_2015_00289859
+927	Ma in generale c’è un po’ più di rispetto”.	Y	rispetto	186	   28,194	0.0473	105.9	ita_news_2019_00608386
+928	Può anche essere, ma rispetto a chi tutto ciò?	Y	rispetto	186	   28,194	0.0473	113.1111	ita_news_2019_00782335
+929	Ma è niente rispetto a un tempo.	Y	rispetto	186	   28,194	0.0473	113.2857	ita_news_2015_00598796
+930	Ma un Paese che non ha rispetto per la propria storia quale rispetto può avere di se stesso?	Y	rispetto	186	   28,194	0.0473	113.7059	ita_news_2015_00626451
+931	E non solo per modo di dire.	Y	modo	187	   28,167	0.0472	69.1429	ita_news_2015_00242762
+932	E' il solo modo per avere un' italia migliore.	Y	modo	187	   28,167	0.0472	88.7778	ita_news_2015_00229098
+933	"""""""Del nostro modo di essere, del nostro modo di fare""""""""."""""""	Y	modo	187	   28,167	0.0472	92.6667	ita_news_2015_00175387
+934	Che in questo modo non si fa mai nulla.	Y	modo	187	   28,167	0.0472	93.7778	ita_news_2015_00108425
+935	Da quel giorno lo ha fatto in ogni modo possibile.	Y	modo	187	   28,167	0.0472	110.7	ita_news_2019_00162557
+936	Ma dice: lavoro non c´è per italiani.	Y	dice	188	   28,157	0.0472	87	ita_news_2016_00596223
+937	E di fronte a tutto questo il Governo cosa dice?	Y	dice	188	   28,157	0.0472	93.7	ita_news_2015_00221579
+938	Sono due anni e mezzo che lo dice.	Y	dice	188	   28,157	0.0472	95.625	ita_news_2019_00890035
+939	Anche se non sono quelle che dice lui».	Y	dice	188	   28,157	0.0472	100.375	ita_news_2015_00051823
+940	Ed è una cosa che si dice sempre, ma questa volta è davvero così.	Y	dice	188	   28,157	0.0472	102	ita_news_2019_00213921
+941	Ma quale è il rapporto tra i due?	Y	quale	189	   27,936	0.0469	115.625	ita_news_2019_00618614
+942	Ma quale è il problema di base?	Y	quale	189	   27,936	0.0469	134.1429	ita_news_2016_00613777
+943	Ma quale può essere il ruolo del governo?	Y	quale	189	   27,936	0.0469	136	ita_news_2015_00616144
+944	Il quale, uno alla volta, li fa fuori.	Y	quale	189	   27,936	0.0469	139.5	ita_news_2015_00385811
+945	Quale, quella che ha messo in campo nella partita dopo?	Y	quale	189	   27,936	0.0469	141.4	ita_news_2015_00793805
+946	È tutto il progetto che non va».	Y	va	190	   27,904	0.0468	80.8571	ita_news_2019_00262823
+947	Va visto se sarà anche… di più.	Y	va	190	   27,904	0.0468	84.1429	ita_news_2015_00984686
+948	E allora, cosa c’è che non va?	Y	va	190	   27,904	0.0468	100	ita_news_2015_00206498
+949	Ma non tutto va come uno vuole.	Y	va	190	   27,904	0.0468	101.8571	ita_news_2015_00613376
+950	Ma come, se lo fanno gli altri non va bene?	Y	va	190	   27,904	0.0468	103.1	ita_news_2019_00601907
+951	"""""""Sarà """"""""l'inizio di una nuova era"""""""" """"""""."""""""	Y	nuova	191	   27,853	0.0467	102.8571	ita_news_2016_00835816
+952	Poi si potrebbe anche fare una nuova legge.	Y	nuova	191	   27,853	0.0467	103.125	ita_news_2015_00773843
+953	"""""""Questo è il primo giorno della mia nuova vita""""""""."""""""	Y	nuova	191	   27,853	0.0467	106.8889	ita_news_2015_00812150
+954	È il momento di una nuova forza politica.	Y	nuova	191	   27,853	0.0467	117.75	ita_news_2019_00220469
+955	L'ho visto a Roma dal Papa, anche per lui sarà un'esperienza nuova».	Y	nuova	191	   27,853	0.0467	143.0714	ita_news_2015_00557280
+956	E non è stato un incontro da poco.	Y	poco	192	   27,840	0.0467	78.125	ita_news_2015_00242063
+957	Il migliore in campo e non di poco.	Y	poco	192	   27,840	0.0467	83.75	ita_news_2019_00359788
+958	"""""""Certo che l’Italia c’è: è il governo che c’è poco""""""""."""""""	Y	poco	192	   27,840	0.0467	85.4444	ita_news_2016_00105700
+959	C’è poco tempo e tanto da fare.	Y	poco	192	   27,840	0.0467	90.125	ita_news_2019_00097935
+960	E questo non è un risultato da poco.	Y	poco	192	   27,840	0.0467	91.125	ita_news_2015_00255614
+961	I nostri cittadini sono tutti di serie A».	Y	nostri	193	   27,797	0.0466	101.25	ita_news_2015_00424337
+962	"""""""Qui c’è in gioco non solo il nostro di futuro ma anche quello dei nostri figli""""""""."""""""	Y	nostri	193	   27,797	0.0466	136.8235	ita_news_2015_00816161
+963	Ormai già ci sono, già sono nostri».	Y	nostri	193	   27,797	0.0466	139	ita_news_2015_00723259
+964	Ora i nostri gol non saranno solo quelli in campo.	Y	nostri	193	   27,797	0.0466	140.4	ita_news_2016_00714419
+965	E i nostri tifosi ci sono sempre stati.	Y	nostri	193	   27,797	0.0466	143.375	ita_news_2016_00231630
+966	Massimo dal 2008Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	tecnici	194	   27,450	0.046	149.6923	ita_news_2019_00624387
+967	«A non fare niente è stato proprio il Pd» Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	tecnici	194	   27,450	0.046	150.2424	ita_news_2019_00056395
+968	«I nostri figli a casa» Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	tecnici	194	   27,450	0.046	150.8125	ita_news_2019_00424169
+969	Magari, ma non è così Questo sito usa cookie di terze parti (anche di profilazione) e cookie tecnici.	Y	tecnici	194	   27,450	0.046	151.75	ita_news_2019_00605248
+970	Non è un paese per auto Su questo sito utilizziamo cookie tecnici e, previo tuo consenso, cookie di profilazione, nostri e di terze parti, per proporti pubblicità in linea con le tue preferenze.	Y	tecnici	194	   27,450	0.046	152.6552	ita_news_2019_00685891
+971	Non molto al di sotto del Pd.	Y	sotto	195	   27,411	0.046	84.7143	ita_news_2015_00691984
+972	Ma al di sotto c’è un altro tempo: è il tempo della terra.	Y	sotto	195	   27,411	0.046	87.5833	ita_news_2019_00598502
+973	E poi ci sono i lavori da fare di sotto».	Y	sotto	195	   27,411	0.046	88.1	ita_news_2019_00239569
+974	"""""""Questo è il tema di """"""""Al di sotto della legge."""""""	Y	sotto	195	   27,411	0.046	120.6667	ita_news_2015_00812227
+975	Come è la situazione nella nostra regione, sotto a questo punto di vista?	Y	sotto	195	   27,411	0.046	125.4615	ita_news_2019_00122745
+976	E c’è un ministro, a fare il sindaco.	Y	sindaco	196	   27,380	0.0459	72.6667	ita_news_2016_00215077
+977	E il sindaco del PD che fa?	Y	sindaco	196	   27,380	0.0459	78	ita_news_2015_00229011
+978	È un esempio anche per chi fa il sindaco oggi?	Y	sindaco	196	   27,380	0.0459	95.9	ita_news_2019_00265412
+979	Ma almeno questa non fa il sindaco!	Y	sindaco	196	   27,380	0.0459	97.5714	ita_news_2015_00592408
+980	Fare il sindaco di Roma è più difficile che fare il presidente del Consiglio.	Y	sindaco	196	   27,380	0.0459	102.6667	ita_news_2019_00271359
+981	Negli Usa c'è il Presidente che fa tutto.	Y	negli	197	   27,135	0.0455	93.2222	ita_news_2016_00647597
+982	Negli Usa come in Italia, e nel mondo.	Y	negli	197	   27,135	0.0455	95.625	ita_news_2015_00651558
+983	Negli ultimi anni non è più così.	Y	negli	197	   27,135	0.0455	100.4286	ita_news_2016_00647272
+984	Negli ultimi anni è stato fatto molto.	Y	negli	197	   27,135	0.0455	113.8571	ita_news_2019_00647120
+985	Ma forse più in Italia che qui negli Usa.	Y	negli	197	   27,135	0.0455	119.3333	ita_news_2015_00599918
+986	E senza aver corso a 2 anni, come mai nessuno prima.	Y	aver	198	   27,111	0.0455	116.9	ita_news_2019_00253880
+987	"""""""E' già una grande cosa non aver perso""""""""."""""""	Y	aver	198	   27,111	0.0455	122.625	ita_news_2015_00224752
+988	Poi, dopo aver subito la prima rete, c’è stata un po’ di paura.	Y	aver	198	   27,111	0.0455	159.1429	ita_news_2019_00763777
+989	Il giovane avrebbe detto di non aver visto la donna.	Y	aver	198	   27,111	0.0455	160	ita_news_2016_00361073
+990	Almeno così mi sembra di aver visto!	Y	aver	198	   27,111	0.0455	168.5714	ita_news_2016_00036553
+991	Anche l'Europa deve fare la sua parte.	Y	deve	199	   26,923	0.0452	85.25	ita_news_2016_00050011
+992	"""""""L'Europa deve fare di più"""""""", ha detto il presidente del Consiglio."""""""	Y	deve	199	   26,923	0.0452	87	ita_news_2019_00561350
+993	Oggi non è l’Europa che deve dire a noi cosa fare.	Y	deve	199	   26,923	0.0452	93.3333	ita_news_2015_00711674
+994	Il primo grazie a chi lo deve?	Y	deve	199	   26,923	0.0452	99.7143	ita_news_2019_00375881
+995	"""""""Ma siamo in un momento di grande difficoltà e l'Italia deve fare la sua parte""""""""."""""""	Y	deve	199	   26,923	0.0452	101	ita_news_2015_00623213
+996	Il progetto viene fatto e per mesi il progetto è quello.	Y	mesi	200	   26,892	0.0451	101.6667	ita_news_2016_00385817
+997	Ma il Pd sei mesi fa non era questo.	Y	mesi	200	   26,892	0.0451	106.6667	ita_news_2015_00602986
+998	E’ la seconda volta in due mesi.	Y	mesi	200	   26,892	0.0451	111.1429	ita_news_2019_00227071
+999	Pochi giorni e mesi di vita fino a 12 anni.	Y	mesi	200	   26,892	0.0451	119	ita_news_2015_00767536
+1000	Gli hanno dato tre anni e sei mesi.	Y	mesi	200	   26,892	0.0451	123.75	ita_news_2015_00307306

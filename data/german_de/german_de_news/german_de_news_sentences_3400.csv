@@ -1,0 +1,1001 @@
+ORDER	SENTENCE	STATUS	WORD	RANK	COUNT	COUNT_REL	INDEX	ID
+16001	Wichtig war für mich, dass wir nahe hinter den Führenden waren.	Y	führenden	2391	    1,398	0.003	427.3636	german_de_news_2014_00919308
+16002	Wenn ich helfen kann, dann mache ich gerne mit, aber wie gesagt sicher nicht in einer führenden Position.	Y	führenden	2391	    1,398	0.003	458.5882	german_de_news_2013_00937369
+16003	Oben ist er schneller als die führenden Fahrer.	Y	führenden	2391	    1,398	0.003	607	german_de_news_2013_00751873
+16004	Er sprach von einer führenden Rolle Deutschlands.	Y	führenden	2391	    1,398	0.003	716.1429	german_de_news_2013_00473984
+16005	Manche wurden sogar Politiker in führenden Positionen.	Y	führenden	2391	    1,398	0.003	943.2857	german_de_news_2014_00650287
+16006	Sie sprechen hier mit einem Herrn, der schon 60 Jahre im Show-Business ist ….	Y	herrn	2392	    1,397	0.003	516.4615	german_de_news_2015_00776446
+16007	Das können sich nur die Herrn Manager leisten.	Y	herrn	2392	    1,397	0.003	572.375	german_de_news_2014_00188241
+16008	Ich bin sehr positiv überrascht von Herrn Kurz.	Y	herrn	2392	    1,397	0.003	751.75	german_de_news_2014_00547113
+16009	Wir kommen sicherlich klar auch ohne Herrn Gabriel.	Y	herrn	2392	    1,397	0.003	802.5	german_de_news_2015_00926919
+16010	Dieses Europa gehört nicht Herrn Schäuble“, sagte Tsipras.	Y	herrn	2392	    1,397	0.003	908.625	german_de_news_2015_00357974
+16011	Es ist die größte ihrer Art weltweit und wurde jüngst in Betrieb genommen.	Y	jüngst	2392	    1,397	0.003	508.6923	german_de_news_2013_00489907
+16012	Merkel hat jüngst erklärt, drei oder vier von 28 EU-Ländern könnten nicht die ganze Last tragen.	Y	jüngst	2392	    1,397	0.003	550.3125	german_de_news_2015_00657283
+16013	Er war jüngst auf dem G8-Gipfel und er war in Berlin.	Y	jüngst	2392	    1,397	0.003	558.1	german_de_news_2013_00478877
+16014	Wenn man China nimmt, oder in Peking hat man es ja jüngst gesehen, die Stadt war mit einer Dunstglocke zu.	Y	jüngst	2392	    1,397	0.003	567.1579	german_de_news_2013_00938326
+16015	Dort hat die Frau jüngst ihr Baby zur Welt gebracht.	Y	jüngst	2392	    1,397	0.003	609	german_de_news_2015_00395563
+16016	So ganz habe ich dann auch nicht auf Google verzichtet.	Y	verzichtet	2392	    1,397	0.003	319.1	german_de_news_2014_00793306
+16017	Drei Viertel von ihnen wollen den Euro behalten, und die meisten hätten auch jetzt gern darauf verzichtet, wählen zu gehen.	Y	verzichtet	2392	    1,397	0.003	531.9	german_de_news_2015_00398734
+16018	Es wurde ja auf keine Fahrt verzichtet.	Y	verzichtet	2392	    1,397	0.003	617.7143	german_de_news_2013_00502198
+16019	Dieser hatte damals auf die Teilnahme verzichtet.	Y	verzichtet	2392	    1,397	0.003	704.7143	german_de_news_2015_00355950
+16020	Außerdem verzichtet Apple auf eine 64-GB-Version.	Y	verzichtet	2392	    1,397	0.003	839.8571	german_de_news_2013_00092824
+16021	So viel mehr Aufwand ist das nun auch wieder nicht.	Y	aufwand	2393	    1,396	0.003	281.4	german_de_news_2015_00793745
+16022	Manchmal so gut, dass sie nur mit viel Aufwand von einem vielleicht noch etwas besseren Weg zu überzeugen ist.	Y	aufwand	2393	    1,396	0.003	459.8947	german_de_news_2015_00644368
+16023	Es ist nicht viel Aufwand und braucht auch keine besonderen Sachen.	Y	aufwand	2393	    1,396	0.003	629.1818	german_de_news_2014_00468180
+16024	Als Grund wird der hohe Aufwand genannt.	Y	aufwand	2393	    1,396	0.003	708.8571	german_de_news_2014_00035410
+16025	Aufwand und Kosten seien seither massiv gestiegen.	Y	aufwand	2393	    1,396	0.003	1210.1429	german_de_news_2013_00086801
+16026	Was ist mit den Briten in Europa überhaupt möglich?	Y	briten	2393	    1,396	0.003	394.3333	german_de_news_2014_00895248
+16027	Sowohl die Briten als auch die Franzosen haben diese Probleme schon seit Jahren.	Y	briten	2393	    1,396	0.003	509.75	german_de_news_2015_00795209
+16028	Damit sich die Briten „wohl in Europa fühlen“.	Y	briten	2393	    1,396	0.003	596	german_de_news_2013_00154288
+16029	Die Briten sind uns mal wieder voraus.	Y	briten	2393	    1,396	0.003	712.1429	german_de_news_2014_00300186
+16030	Welche Erwartungen haben die Franzosen, die Spanier, die Briten?	Y	briten	2393	    1,396	0.003	1229.8571	german_de_news_2014_00904128
+16031	Dieser Artikel ist in der deutschen Zeitung «Die Welt» erschienen.	Y	erschienen	2393	    1,396	0.003	355.1	german_de_news_2015_00355142
+16032	Denn ihnen erschienen die knapp 32 Millionen als viel zu klein.	Y	erschienen	2393	    1,396	0.003	495.1	german_de_news_2015_00226295
+16033	Sein Roman über diese Zeit ist nun auf Deutsch erschienen.	Y	erschienen	2393	    1,396	0.003	603.7	german_de_news_2013_00795575
+16034	Inzwischen wurden vier Journalisten festgenommen – sie sollen «zu früh» am Tatort erschienen sein.	Y	erschienen	2393	    1,396	0.003	730.3846	german_de_news_2015_00600804
+16035	Der erste Trailer zum Film „Jobs“ ist erschienen.	Y	erschienen	2393	    1,396	0.003	947.625	german_de_news_2013_00253691
+16036	5 Leserempfehlungen Antwort auf „wäre es nicht an der zeit..	Y	leserempfehlungen	2393	    1,396	0.003	356.2222	german_de_news_2015_00006753
+16037	118 Leserempfehlungen Reaktionen auf diesen Kommentar anzeigen Sie haben so recht.	Y	leserempfehlungen	2393	    1,396	0.003	655.2	german_de_news_2015_00000930
+16038	131 Leserempfehlungen Reaktionen auf diesen Kommentar anzeigen Wie nennt man es.	Y	leserempfehlungen	2393	    1,396	0.003	750.9	german_de_news_2014_00001276
+16039	7 Leserempfehlungen Reaktionen auf diesen Kommentar anzeigen Welches Leben denn?	Y	leserempfehlungen	2393	    1,396	0.003	881.3333	german_de_news_2015_00007502
+16040	7 Leserempfehlungen Reaktionen auf diesen Kommentar anzeigen jung eingestellt?	Y	leserempfehlungen	2393	    1,396	0.003	1268.75	german_de_news_2014_00007058
+16041	Das war ganz am Anfang so, ja - aber bei Release von SC2 eigentlich schon lange nicht mehr.	Y	release	2393	    1,396	0.003	345.5882	german_de_news_2013_00214437
+16042	Re: Und bei Release trotzdem nur so..	Y	release	2393	    1,396	0.003	557.1429	german_de_news_2014_00746458
+16043	Der Release ist für das nächste Jahr auf PC, PS4 und Xbox One vorgesehen.	Y	release	2393	    1,396	0.003	648.5714	german_de_news_2015_00264569
+16044	Deren entsprechende Geräte beginnen zum Release bei rund 329 Euro.	Y	release	2393	    1,396	0.003	739	german_de_news_2013_00252546
+16045	Sony selbst nennt als Release-Zeitraum bisher „Weihnachten 2013“.	Y	release	2393	    1,396	0.003	1186.875	german_de_news_2013_00830067
+16046	So wird das nie etwas mit der Energiewende!	Y	energiewende	2394	    1,395	0.003	365.625	german_de_news_2014_00804099
+16047	Per Gesetz will Frankreich die Energiewende des Landes auf den Weg bringen.	Y	energiewende	2394	    1,395	0.003	491.5	german_de_news_2015_00724629
+16048	Mit der Energiewende verfolgt Deutschland die gleiche Strategie wie wir, ist aber weiter.	Y	energiewende	2394	    1,395	0.003	603.6923	german_de_news_2013_00700593
+16049	Wir wollten ein Zeichen setzen im Sinne der Energiewende.	Y	energiewende	2394	    1,395	0.003	786.1111	german_de_news_2014_00940741
+16050	Die FR liefert Infos und Tipps, wie die private Energiewende gelingt.	Y	energiewende	2394	    1,395	0.003	1400.6	german_de_news_2014_00315814
+16051	Wenn das immer wieder verhindert wird, wird sich niemand finden, der in der Region dafür sorgt, dass es Lebensmittel gibt.	Y	lebensmittel	2394	    1,395	0.003	428.2778	german_de_news_2015_00898558
+16052	Bald könnte auch eine für Lebensmittel nötig werden.	Y	lebensmittel	2394	    1,395	0.003	554.875	german_de_news_2014_00096205
+16053	Das bedeutet aber nicht, dass diese Lebensmittel auch genauso gefährlich sind“, so die Agentur.	Y	lebensmittel	2394	    1,395	0.003	591	german_de_news_2015_00166217
+16054	Sie besuchen die beiden Familien und bringen ihnen auch mal Lebensmittel vorbei.	Y	lebensmittel	2394	    1,395	0.003	653.5833	german_de_news_2014_00775614
+16055	Es handelt sich dabei um mehrere Tausend Tonnen Lebensmittel.	Y	lebensmittel	2394	    1,395	0.003	839.2222	german_de_news_2013_00488043
+16056	Es war eine Zeit, die in der auf einmal alles möglich schien.“	Y	schien	2394	    1,395	0.003	271	german_de_news_2013_00499438
+16057	Doch das schien ihm offenbar nicht gut genug.	Y	schien	2394	    1,395	0.003	483.75	german_de_news_2015_00387273
+16058	Hier schien die Flucht ein Ende zu nehmen.	Y	schien	2394	    1,395	0.003	606.625	german_de_news_2014_00539279
+16059	Alles schien perfekt, auch das private Leben mit ihrem Partner.	Y	schien	2394	    1,395	0.003	723.2	german_de_news_2015_00032459
+16060	Vor rund zwei Jahrzehnten schien alles perfekt.	Y	schien	2394	    1,395	0.003	932.7143	german_de_news_2013_00910980
+16061	Das mit Flug 1812 ist mir neu aber gut zu wissen.	Y	flug	2395	    1,394	0.003	346.3	german_de_news_2014_00191754
+16062	Trotzdem hat der 17-Stunden-Flug hin und zurück seinen Sinn.	Y	flug	2395	    1,394	0.003	553	german_de_news_2015_00816606
+16063	Schwierigkeiten bei dem Flug gab es keine, zumindest nicht im technischen Bereich.	Y	flug	2395	    1,394	0.003	650.6667	german_de_news_2013_00790580
+16064	Außerdem sorgte er mit seinem 231-m-Flug für deutschen Rekord.	Y	flug	2395	    1,394	0.003	740.1	german_de_news_2013_00092560
+16065	Ein zweiter Flug ist gegen 10 Uhr vorgesehen.	Y	flug	2395	    1,394	0.003	908.5714	german_de_news_2013_00458334
+16066	Aber es ist deutlich zu spüren, wie sehr er es will.	Y	spüren	2395	    1,394	0.003	295.6	german_de_news_2013_00014046
+16067	Die Antwort fällt knapp aus: Zu sehen ist wenig, zu spüren viel.	Y	spüren	2395	    1,394	0.003	418.7273	german_de_news_2015_00289572
+16068	Nach Einschätzung der Manager wird die Deutsche Bahn von dem neuen Anbieter jedoch relativ wenig zu spüren bekommen.	Y	spüren	2395	    1,394	0.003	521.1667	german_de_news_2013_00724130
+16069	Da konnte man spüren, dass dieses Vertrauen nicht mehr zu 100 Prozent vorhanden war“, meinte Löw.	Y	spüren	2395	    1,394	0.003	631.6667	german_de_news_2013_00150504
+16070	Das bekommt nahezu die gesamte Branche zu spüren.	Y	spüren	2395	    1,394	0.003	910.75	german_de_news_2013_00168699
+16071	Ein Beispiel aus der Schweiz zeigt, wie sich das fördern lässt.	Y	fördern	2396	    1,393	0.003	342.5455	german_de_news_2014_00410100
+16072	Das wäre ein ganz wichtiger Punkt, um Wettbewerb unter den Ländern zu fördern.	Y	fördern	2396	    1,393	0.003	549.2308	german_de_news_2014_00209621
+16073	Um die zu fördern, gibt der Bund seit 2006 rund eine halbe Milliarde Euro jährlich aus.	Y	fördern	2396	    1,393	0.003	644.8667	german_de_news_2015_00826011
+16074	Solche Projekte möchte ich in Zukunft gerne fördern.	Y	fördern	2396	    1,393	0.003	736.875	german_de_news_2015_00787853
+16075	Kritiker sagen, das Fördern komme zu kurz.	Y	fördern	2396	    1,393	0.003	991.5714	german_de_news_2014_00634140
+16076	Sein Generalsekretär ist ja schon an der Reihe.	Y	generalsekretär	2396	    1,393	0.003	443	german_de_news_2015_00757381
+16077	Warum hält sich der Herr Generalsekretär nicht einfach mal zurück.	Y	generalsekretär	2396	    1,393	0.003	465	german_de_news_2014_00891369
+16078	Auf die Frage, wer Generalsekretär wird, sagt er: „Dieser Versuchung gebe ich jetzt nicht nach.	Y	generalsekretär	2396	    1,393	0.003	507.4667	german_de_news_2013_00082743
+16079	Es müsse alles dafür getan werden, mehr Menschen in Arbeit zu bringen, erklärte der Generalsekretär auch mit Blick auf die Debatte um die Beschäftigung von Flüchtlingen.	Y	generalsekretär	2396	    1,393	0.003	508.68	german_de_news_2015_00466250
+16080	Welt am Sonntag: Jedenfalls will der neue CDU-Generalsekretär Peter Tauber dafür arbeiten, dass es nach der nächsten Wahl zu einem Bündnis mit den Grünen kommt.	Y	generalsekretär	2396	    1,393	0.003	537.52	german_de_news_2014_00904966
+16081	Ob er sich am nächsten Tag wieder meldet, weiß man nicht.	Y	meldet	2396	    1,393	0.003	340.8182	german_de_news_2015_00711704
+16082	Jetzt meldet der Anbieter per Twitter, die App habe bereits eine Millionen Nutzer.	Y	meldet	2396	    1,393	0.003	466.3846	german_de_news_2014_00616226
+16083	Die Feuerwehr meldet jedoch: Der Schaden hält sich in Grenzen.	Y	meldet	2396	    1,393	0.003	622.9	german_de_news_2015_00310978
+16084	Völlig unklar ist, wann sich Washington in dieser Sache zu Wort meldet.	Y	meldet	2396	    1,393	0.003	673.9167	german_de_news_2015_00864609
+16085	Er meldet, bei ihm liege eine schwer verletzte Person am Boden.	Y	meldet	2396	    1,393	0.003	852.1818	german_de_news_2014_00448043
+16086	Auf der Straße sehen Sie noch das Blut.	Y	blut	2397	    1,392	0.003	398.375	german_de_news_2013_00082139
+16087	Wenn aber zu viel Blut verloren ging oder weitere Verletzungen vorhanden waren, ist es so besser.	Y	blut	2397	    1,392	0.003	475	german_de_news_2014_00906249
+16088	So stellt die Software fest, dass der Anwender eine Person aus Fleisch und Blut ist.	Y	blut	2397	    1,392	0.003	650.3333	german_de_news_2015_00793115
+16089	Ich habe sie in meine Wohnung gelassen - überall war Blut.	Y	blut	2397	    1,392	0.003	725.4	german_de_news_2014_00551934
+16090	Ruhig Blut, liebe Leser, gleich ist es vorbei.	Y	blut	2397	    1,392	0.003	1085.625	german_de_news_2014_00750120
+16091	In ist, wer so was schon drin hatte und dabei ganz mit sich war.	Y	drin	2397	    1,392	0.003	222.7857	german_de_news_2013_00624754
+16092	Wenn sie drin sind, und wir nicht der Gegner, wünsche ich ihnen dann den Titel.»	Y	drin	2397	    1,392	0.003	422.2	german_de_news_2014_00911841
+16093	Das heißt, da ist noch ein bisschen Luft drin.	Y	drin	2397	    1,392	0.003	538.3333	german_de_news_2015_00179518
+16094	Mehr noch – seit April liege auch schon jemand drin.	Y	drin	2397	    1,392	0.003	697.4444	german_de_news_2013_00689666
+16095	Bremen (ots) - Was steht drin in unseren privaten E-Mails?	Y	drin	2397	    1,392	0.003	1061.8	german_de_news_2013_00130850
+16096	Bis zum Jahr 2011 sei der Wert auf ein Prozent gesunken.	Y	gesunken	2397	    1,392	0.003	325.2	german_de_news_2013_00127095
+16097	Im Jahr zuvor war er Gewinn bereits um ein Prozent gesunken.	Y	gesunken	2397	    1,392	0.003	370.8182	german_de_news_2013_00594645
+16098	Aber die Preise sind bereits stark gesunken.	Y	gesunken	2397	    1,392	0.003	555.5714	german_de_news_2015_00012032
+16099	Prozent gestiegen, in Deutschland insgesamt um elf Prozent gesunken.	Y	gesunken	2397	    1,392	0.003	632.625	german_de_news_2013_00770110
+16100	So tief ist dieses Institut mittlerweile gesunken.	Y	gesunken	2397	    1,392	0.003	896.1429	german_de_news_2015_00793224
+16101	Dann gibt es die Mitarbeiter bei der Stadt, die auch zu beteiligen sind.	Y	beteiligen	2398	    1,391	0.003	272.1667	german_de_news_2013_00159286
+16102	Mehr als die Hälfte der Bürger beteiligen sich.	Y	beteiligen	2398	    1,391	0.003	491	german_de_news_2013_00688433
+16103	Beteiligen Sie sich an der Aktion, helfen Sie den Menschen in Not aus Syrien.	Y	beteiligen	2398	    1,391	0.003	570.3846	german_de_news_2014_00118097
+16104	Es sei nicht sinnvoll, sich daran zu beteiligen.	Y	beteiligen	2398	    1,391	0.003	632.5	german_de_news_2013_00496635
+16105	Alle Beteiligen werden profitieren, lautet das Versprechen.	Y	beteiligen	2398	    1,391	0.003	1157.4286	german_de_news_2014_00025115
+16106	Von 1000, die nicht teilnehmen, sind es deren fünf.	Y	teilnehmen	2398	    1,391	0.003	383.875	german_de_news_2014_00874434
+16107	Ich kann bestätigen, dass wir am US-Programm teilnehmen“, sagte eine Sprecherin der Deutschen Bank Schweiz am Donnerstag.	Y	teilnehmen	2398	    1,391	0.003	491.4118	german_de_news_2014_00553390
+16108	Sie will an einem entsprechenden Treffen am 29. Mai teilnehmen.	Y	teilnehmen	2398	    1,391	0.003	570	german_de_news_2015_00778681
+16109	Ich bin daher schon froh, dass ich überhaupt teilnehmen kann.»	Y	teilnehmen	2398	    1,391	0.003	650.5556	german_de_news_2013_00569178
+16110	Bundeskanzlerin Angela Merkel werde als Gast teilnehmen.	Y	teilnehmen	2398	    1,391	0.003	1184.1429	german_de_news_2014_00132297
+16111	Die Chancen waren noch nie so gut wie jetzt“, äußerte er.	Y	äußerte	2399	    1,390	0.003	366.9091	german_de_news_2014_00301564
+16112	Er äußerte sich darüber hinaus nicht weiter.	Y	äußerte	2399	    1,390	0.003	519.4286	german_de_news_2014_00439696
+16113	VW äußerte sich auf Anfrage nicht zu dem Bericht.	Y	äußerte	2399	    1,390	0.003	633.2222	german_de_news_2015_00877368
+16114	Ebenso äußerte sich der CDU-Chef in NRW.	Y	äußerte	2399	    1,390	0.003	719.25	german_de_news_2014_00406368
+16115	Ebenso äußerte sich Ministerpräsident Horst Seehofer (CSU).	Y	äußerte	2399	    1,390	0.003	1373.1429	german_de_news_2013_00427487
+16116	Das alles soll aber in den nächsten Monaten Stück für Stück integriert werden.	Y	integriert	2399	    1,390	0.003	380.4167	german_de_news_2015_00164759
+16117	Noch seien die beiden Firmen aber nicht voll integriert.	Y	integriert	2399	    1,390	0.003	523.5556	german_de_news_2014_00710134
+16118	Wie viele Ärzte sind in das System integriert?	Y	integriert	2399	    1,390	0.003	588.625	german_de_news_2013_00956523
+16119	Österreich ist voll in das europäische Netz integriert.	Y	integriert	2399	    1,390	0.003	686.5	german_de_news_2015_00721312
+16120	Sie sollen verstärkt beraten, unterstützt und in den Arbeitsmarkt integriert werden.	Y	integriert	2399	    1,390	0.003	850	german_de_news_2014_00785167
+16121	Wir sollten uns aber auch an der eigenen Nase nehmen, bevor wir auf andere zeigen.	Y	nase	2399	    1,390	0.003	359.3571	german_de_news_2015_00930339
+16122	Und damit hat sie mehr als die Nase im Wind.	Y	nase	2399	    1,390	0.003	461.1	german_de_news_2013_00866534
+16123	Und doch haben zwei andere Spieler die Nase vorn.	Y	nase	2399	    1,390	0.003	598.8889	german_de_news_2014_00844217
+16124	Aktuelle Analyse zeigt, ob Apple oder Google die Nase vorne hat.	Y	nase	2399	    1,390	0.003	662	german_de_news_2014_00023149
+16125	Ferrari F138: Ohne Nase die Nase vorne?	Y	nase	2399	    1,390	0.003	1123.6667	german_de_news_2013_00509160
+16126	Für die Versorgung der Flüchtlinge geben Bund und Länder in diesem Jahr Milliarden aus.	Y	versorgung	2399	    1,390	0.003	367.1429	german_de_news_2015_00498520
+16127	Beim mobilen Internet sei die Versorgung in den Städten noch immer deutlich besser als auf dem Land.	Y	versorgung	2399	    1,390	0.003	470.5294	german_de_news_2014_00109298
+16128	In der Kombination sind sogar Probleme bei der Versorgung in der EU möglich.	Y	versorgung	2399	    1,390	0.003	590.2	german_de_news_2014_00585859
+16129	Hier sind die Gemeinden besonders aktiv bei der Aufnahme und Versorgung der Flüchtlinge.	Y	versorgung	2399	    1,390	0.003	700.6667	german_de_news_2015_00534228
+16130	Reicht die Infrastruktur für die Versorgung der Jugendlichen?	Y	versorgung	2399	    1,390	0.003	989.4286	german_de_news_2015_00736686
+16131	Er war immer sehr ehrlich zu mir, wenn ich eine Frage hatte.	Y	ehrlich	2400	    1,389	0.003	275.0833	german_de_news_2015_00451159
+16132	Sind wir ehrlich: Wer weiß das schon?	Y	ehrlich	2400	    1,389	0.003	444.7143	german_de_news_2014_00790009
+16133	Aber wenn ich ehrlich bin, war ich schon auch ein bisschen überrascht.	Y	ehrlich	2400	    1,389	0.003	514.9091	german_de_news_2013_00019272
+16134	Sagen Sie mal ehrlich, was fällt Ihnen als erstes ein, wenn Sie an Amerika denken?	Y	ehrlich	2400	    1,389	0.003	629.7143	german_de_news_2013_00780794
+16135	Echte Schweizer zahlen ehrlich Steuern, auch Firmen.	Y	ehrlich	2400	    1,389	0.003	993.5714	german_de_news_2014_00406962
+16136	Vor einem Jahr war ich wieder da: Es sieht aus wie auf Fotos aus dem Zweiten Weltkrieg.	Y	weltkrieg	2400	    1,389	0.003	272.1875	german_de_news_2014_00883861
+16137	Irgendwie erinnert die Situation der SPD schon an die Zeit kurz vor und vor allem nach dem ersten Weltkrieg.	Y	weltkrieg	2400	    1,389	0.003	422.5882	german_de_news_2015_00601273
+16138	Wie Europa in den Ersten Weltkrieg zog	Y	weltkrieg	2400	    1,389	0.003	586.7143	german_de_news_2013_00951830
+16139	Der wichtigste Wert seit dem 2. Weltkrieg sogar.	Y	weltkrieg	2400	    1,389	0.003	721.4286	german_de_news_2015_00276541
+16140	Wenige Jahre später fiel der jüngste Opel-Sohn an der russischen Front im Ersten Weltkrieg.	Y	weltkrieg	2400	    1,389	0.003	949.2857	german_de_news_2013_00932650
+16141	Die Welt: Sie sind erst 56 Jahre alt. In Rente werden Sie also noch nicht gehen wollen, oder?	Y	rente	2401	    1,388	0.003	281.6875	german_de_news_2013_00403503
+16142	Jetzt sieht es ganz nach Rente aus.	Y	rente	2401	    1,388	0.003	423.2857	german_de_news_2013_00646736
+16143	Eigentlich könnten Sie schon in Rente gehen.	Y	rente	2401	    1,388	0.003	481.2857	german_de_news_2013_00429538
+16144	Aber dann gibt es sicherlich keine Rente mehr.	Y	rente	2401	    1,388	0.003	565.875	german_de_news_2014_00009998
+16145	Außerdem fordert er weitere Reformen bei Investitionen, Rente und Bildung.	Y	rente	2401	    1,388	0.003	904.2	german_de_news_2013_00090823
+16146	Die Realität ist aber, dass es keine erste Revolution gegeben hat und dass es auch keine andere jetzt geben wird.	Y	revolution	2401	    1,388	0.003	340.2353	german_de_news_2014_00347343
+16147	Bisher ist von dieser Revolution aber noch nicht wirklich viel zu spüren.	Y	revolution	2401	    1,388	0.003	474.3333	german_de_news_2015_00123527
+16148	Das kennt man ja von der Revolution.	Y	revolution	2401	    1,388	0.003	552.5714	german_de_news_2013_00189839
+16149	Zu den Großen der digitalen Revolution zählen Apple, Facebook, Amazon oder Microsoft, um nur die fünf an der Spitze zu nennen.	Y	revolution	2401	    1,388	0.003	631.8421	german_de_news_2015_00945934
+16150	Jetzt bringt er das Album „Revolution“ raus.	Y	revolution	2401	    1,388	0.003	965.7143	german_de_news_2015_00608917
+16151	Für uns, die wir sehr stark im Kinder-Bereich sowie im Nachrichten-Geschäft sind, heißt das, dass wir im Serien-Bereich noch mehr Gas geben müssen.	Y	serien	2401	    1,388	0.003	367.4545	german_de_news_2013_00528836
+16152	Nur wenige neue Serien haben es bis ins neue Jahr geschafft.	Y	serien	2401	    1,388	0.003	518.6	german_de_news_2013_00749664
+16153	Insgesamt habe ich nichts gegen Serien, die sich langsam entwickeln.	Y	serien	2401	    1,388	0.003	573.4	german_de_news_2015_00595167
+16154	Es gibt Filme/Serien, die sind im..	Y	serien	2401	    1,388	0.003	629.4286	german_de_news_2015_00457879
+16155	RTL mag momentan mit Serien nicht unbedingt überzeugen.	Y	serien	2401	    1,388	0.003	1324	german_de_news_2013_00778290
+16156	Schon in jungen Jahren waren Florian und Mario mit dabei.	Y	florian	2402	    1,387	0.003	490.1	german_de_news_2013_00787819
+16157	Florian Alt: Wir haben auch etwas verändert.	Y	florian	2402	    1,387	0.003	722.2857	german_de_news_2013_00510870
+16158	BILD: Welchen Rat würden Sie Florian geben, wenn Sie sein Vater wären?	Y	florian	2402	    1,387	0.003	774.2727	german_de_news_2013_00122630
+16159	Florian Werner lebt mit seiner Familie in Berlin.	Y	florian	2402	    1,387	0.003	788.25	german_de_news_2014_00486468
+16160	Bei Red Bull Salzburg aber war Florian Klein zuletzt zwei Dinge gewohnt.	Y	florian	2402	    1,387	0.003	1001.75	german_de_news_2014_00110558
+16161	Aber arbeiten Sie an Ihrem Image und sorgen Sie dafür, dass andere genau wissen, was sie von Ihnen zu halten haben.	Y	image	2402	    1,387	0.003	289	german_de_news_2014_00008796
+16162	Und trotzdem wird sie es schwer haben, denn das alte Image wird dem Wähler noch lange in Erinnerung bleiben.	Y	image	2402	    1,387	0.003	500.2778	german_de_news_2013_00879619
+16163	Und alles wie damals: „Unser System ist besser - Image-Gewinn durch Sport-Erfolge.	Y	image	2402	    1,387	0.003	627.5385	german_de_news_2014_00837930
+16164	Das positive Image der Mannschaft war bei dieser WM durchaus bedroht.	Y	image	2402	    1,387	0.003	741.5455	german_de_news_2014_00194744
+16165	Deutschlands Beamte stecken in einer Image-Falle.	Y	image	2402	    1,387	0.003	1421.7143	german_de_news_2015_00282971
+16166	Es sei kein Problem mehr am Rande, habe aber auch „noch nicht die ganze Stadt im Griff“.	Y	rande	2402	    1,387	0.003	348	german_de_news_2015_00467576
+16167	Schauen wir zu sehr auf den Wettbewerb und zu wenig auf die Menschen am Rande der Gesellschaft?	Y	rande	2402	    1,387	0.003	438.4	german_de_news_2013_00783349
+16168	Das wurde am Rande einer Pressekonferenz in Berlin bekannt.	Y	rande	2402	    1,387	0.003	544.6667	german_de_news_2013_00216866
+16169	Als Deutsche bewegt sie sich am Rande der Gesellschaft.	Y	rande	2402	    1,387	0.003	599.5556	german_de_news_2014_00033541
+16170	Über Personal wurde im übrigen nur am Rande gesprochen.	Y	rande	2402	    1,387	0.003	874.3333	german_de_news_2015_00822850
+16171	Wichtig ist für uns, dass wir keine englischen Wochen mehr haben.	Y	englischen	2403	    1,386	0.003	328.4545	german_de_news_2013_00947789
+16172	Alles hat im Schweizer Sport einen englischen Namen.	Y	englischen	2403	    1,386	0.003	529.75	german_de_news_2014_00030854
+16173	Denn die englischen Wochen kommen noch“, sagte Klopp.	Y	englischen	2403	    1,386	0.003	660.5	german_de_news_2013_00230586
+16174	Den Begriff kennt man auch in der englischen und der französischen Sprache“, meint Werner.	Y	englischen	2403	    1,386	0.003	897.6923	german_de_news_2013_00226764
+16175	Laut englischen Medienberichten soll Red Bull Interesse am Kauf..	Y	englischen	2403	    1,386	0.003	1097.5556	german_de_news_2014_00640045
+16176	In der EU gibt es zum Beispiel Vorgaben..	Y	vorgaben	2403	    1,386	0.003	385.75	german_de_news_2015_00579389
+16177	An diese Vorgaben der Stadt müssen sich die Investoren halten.	Y	vorgaben	2403	    1,386	0.003	442	german_de_news_2014_00052421
+16178	Die Vorgaben aus Japan waren erneut sehr gut gewesen.	Y	vorgaben	2403	    1,386	0.003	538.1111	german_de_news_2013_00401336
+16179	Dazu tragen nicht zuletzt die positiven Vorgaben aus Asien und Europa bei.	Y	vorgaben	2403	    1,386	0.003	694.75	german_de_news_2015_00217330
+16180	Für den öffentlichen Dienst sollen ähnliche Vorgaben gelten.	Y	vorgaben	2403	    1,386	0.003	1029.25	german_de_news_2014_00500873
+16181	Am smartphone markt waren sie mit einer der ersten nach nokia.	Y	nokia	2404	    1,385	0.003	344.5455	german_de_news_2013_00049699
+16182	Nokia und Microsoft hoffen aber, das Geschäft im ersten Quartal über die Bühne zu bringen.	Y	nokia	2404	    1,385	0.003	510.6	german_de_news_2014_00710659
+16183	Technische Details sind noch nicht bekannt, auch einen Preis hat Nokia noch nicht genannt.	Y	nokia	2404	    1,385	0.003	624	german_de_news_2015_00809103
+16184	Das bedeutet auch, dass auf einem Nokia X offiziell keine Apps aus dem Play Store installiert werden können.	Y	nokia	2404	    1,385	0.003	710.3333	german_de_news_2014_00167116
+16185	Als Betriebssystem kommt Nokia OS zum Einsatz.	Y	nokia	2404	    1,385	0.003	1052.4286	german_de_news_2014_00032977
+16186	Nur, die entscheidende Frage ist: Wie lange geht das noch gut?	Y	entscheidende	2405	    1,384	0.003	297.3636	german_de_news_2015_00707278
+16187	Hier liegt die entscheidende Marke mit dem Punkt drei bei 4333 Punkten.	Y	entscheidende	2405	    1,384	0.003	502.0909	german_de_news_2015_00533859
+16188	Das Wetter hat bei diesem Test eine entscheidende Rolle gespielt.	Y	entscheidende	2405	    1,384	0.003	649.5	german_de_news_2013_00215591
+16189	Es gibt aber eine entscheidende Ausnahme: Facebook.	Y	entscheidende	2405	    1,384	0.003	747.4286	german_de_news_2013_00485302
+16190	Der entscheidende Treffer fiel in der Verlängerung.	Y	entscheidende	2405	    1,384	0.003	1213.6667	german_de_news_2014_00245351
+16191	Eine 16-GByte-Version gibt es nicht mehr.	Y	gbyte	2405	    1,384	0.003	446	german_de_news_2014_00411388
+16192	Das gilt auch für die Variante mit 256 GByte.	Y	gbyte	2405	    1,384	0.003	573.75	german_de_news_2013_00179230
+16193	Zudem ist der Speicher mit nur 16 GByte knapp.	Y	gbyte	2405	    1,384	0.003	650.25	german_de_news_2015_00943199
+16194	Und irgendwie müssen die 65 GByte ja auf den Rechner kommen.	Y	gbyte	2405	    1,384	0.003	674.1	german_de_news_2015_00837967
+16195	Der Windows Store erlaubt hingegen Apps, die sogar größer als 150 GByte sind.	Y	gbyte	2405	    1,384	0.003	845.75	german_de_news_2015_00276696
+16196	Aber ich muss doch nicht warten, sondern ich kann das parallel machen.	Y	parallel	2405	    1,384	0.003	353.9091	german_de_news_2013_00015425
+16197	Doch der vierte im Bund der alten Männer zog es vor, allein und parallel auf Tour zu gehen.	Y	parallel	2405	    1,384	0.003	598.9412	german_de_news_2013_00411826
+16198	Parallel sollen sie sie auf deren Basis ein neues Spiel entwickeln.	Y	parallel	2405	    1,384	0.003	621.7	german_de_news_2014_00730632
+16199	Audi kündigte parallel dazu an, auch Android Auto anbieten zu wollen.	Y	parallel	2405	    1,384	0.003	800	german_de_news_2014_00079910
+16200	Man könne künftig zahlreiche Parallel- Arbeiten vermeiden.	Y	parallel	2405	    1,384	0.003	952.8571	german_de_news_2013_00682185
+16201	Wir haben 16 Spieler und sind mit dem bestehenden Kader sehr, sehr zufrieden“, sagte er.	Y	bestehenden	2406	    1,383	0.003	483.0769	german_de_news_2014_00930992
+16202	Bis dahin bleibe ihm keine andere Wahl, „als aus den Bestehenden das Beste zu machen“.	Y	bestehenden	2406	    1,383	0.003	570.1333	german_de_news_2015_00122518
+16203	«Unsere Technologie ist wesentlich besser als die der bestehenden Anbieter in der Schweiz», sagt er.	Y	bestehenden	2406	    1,383	0.003	580.4286	german_de_news_2014_00856583
+16204	Und was ich auch wichtig finde: Wir haben im Vorfeld der Planung des PC-24 unsere bestehenden Kunden genau gefragt, was sie brauchen.	Y	bestehenden	2406	    1,383	0.003	595.1429	german_de_news_2014_00852196
+16205	Die bestehenden Gesetze sind meiner Meinung nach ausreichend.	Y	bestehenden	2406	    1,383	0.003	1039.25	german_de_news_2015_00296303
+16206	Vor allem in der Champions League war er nicht zu stoppen.	Y	stoppen	2406	    1,383	0.003	385.3636	german_de_news_2015_00872832
+16207	Hollande ist seit Mai 2012 Präsident und konnte die Entwicklung nicht stoppen.	Y	stoppen	2406	    1,383	0.003	561.2727	german_de_news_2014_00543705
+16208	Ziel ist, den freien Fall zu stoppen.“	Y	stoppen	2406	    1,383	0.003	622	german_de_news_2013_00977651
+16209	Auch das ließ den Lkw-Fahrer nicht stoppen.	Y	stoppen	2406	    1,383	0.003	723.625	german_de_news_2015_00069795
+16210	Der SV Werder konnte den Trend stoppen.	Y	stoppen	2406	    1,383	0.003	1140.1429	german_de_news_2013_00281874
+16211	Nach so einer Diskussion wird sich der ein oder andere gut überlegen, ob er nach Deutschland kommt.	Y	überlegen	2406	    1,383	0.003	288.75	german_de_news_2014_00694981
+16212	Die Leute sollten sich mal überlegen, dass die SVP nicht für die Bürger da sind.	Y	überlegen	2406	    1,383	0.003	443.8462	german_de_news_2013_00349423
+16213	Man muss immer überlegen, was kann man mit den Ausgaben noch erreichen.	Y	überlegen	2406	    1,383	0.003	508.9091	german_de_news_2014_00653073
+16214	Siemens werde sich genau überlegen, was zu tun sei.	Y	überlegen	2406	    1,383	0.003	622.1111	german_de_news_2014_00782306
+16215	Ich denke, wir waren unserem Gegner überlegen.	Y	überlegen	2406	    1,383	0.003	826.8571	german_de_news_2015_00543099
+16216	Und der ist nun auch kurz davor, ebenfalls negativ zu werden.	Y	negativ	2407	    1,382	0.0029	424.8182	german_de_news_2015_00832991
+16217	Der Euro ist negativ in den Tag gestartet.	Y	negativ	2407	    1,382	0.0029	550.875	german_de_news_2013_00253977
+16218	Negativ habe in seinem Umfeld denn auch niemand reagiert, in der Firma sei er deswegen wohl nicht anders behandelt worden.	Y	negativ	2407	    1,382	0.0029	598.3158	german_de_news_2015_00692861
+16219	Dass man in Österreich oft vieles negativ sieht, ist schwierig.	Y	negativ	2407	    1,382	0.0029	682.9	german_de_news_2014_00201745
+16220	Trotzdem müssen hohe Anforderungen nicht unbedingt negativ sein.	Y	negativ	2407	    1,382	0.0029	939.75	german_de_news_2015_00816891
+16221	Er gefährdet ja sich selbst auch damit (und Familie)..	Y	gefährdet	2408	    1,381	0.0029	365.7778	german_de_news_2013_00464764
+16222	Wir glauben nicht, dass die Sicherheit der Patienten gefährdet ist.	Y	gefährdet	2408	    1,381	0.0029	504.3	german_de_news_2014_00930955
+16223	Weitere Personen oder Fahrzeuge wurden in diesem Zusammenhang nicht gefährdet.	Y	gefährdet	2408	    1,381	0.0029	590.5	german_de_news_2013_00929822
+16224	Das seien wesentlich größere Länder, und sie seien genauso gefährdet, obwohl man momentan nicht so viel darüber rede, meint sie.	Y	gefährdet	2408	    1,381	0.0029	711.6667	german_de_news_2015_00198714
+16225	Es wurden in keinem Fall Passagiere gefährdet.	Y	gefährdet	2408	    1,381	0.0029	1056.4286	german_de_news_2013_00502307
+16226	Pro Gericht hat er eine Minute Zeit und für jedes Gericht gibt es einen Stern.	Y	stern	2408	    1,381	0.0029	369.5714	german_de_news_2013_00769596
+16227	Die war verbunden mit dem roten Stern, der für eine bessere Welt und für einen neuen Menschen stand.	Y	stern	2408	    1,381	0.0029	446.1176	german_de_news_2015_00379203
+16228	Der „Stern“ hat ihn dort zum Interview getroffen.	Y	stern	2408	    1,381	0.0029	594.125	german_de_news_2014_00270369
+16229	Der Besuch jetzt stand unter einem besseren Stern.	Y	stern	2408	    1,381	0.0029	772.75	german_de_news_2013_00245490
+16230	Merken Drucken E-Mail Der Stern läuft gut.	Y	stern	2408	    1,381	0.0029	854.5	german_de_news_2014_00664019
+16231	Der Schweizer Leitindex konnte sich den ganzen Tag über nicht so recht für eine Richtung entscheiden.	Y	leitindex	2409	    1,380	0.0029	370.5	german_de_news_2015_00266550
+16232	Schon am Morgen fällt der Leitindex um 2 Prozent.	Y	leitindex	2409	    1,380	0.0029	513.125	german_de_news_2015_00749825
+16233	Der Leitindex zeigt sich am Mittwoch wenig bewegt.	Y	leitindex	2409	    1,380	0.0029	667.125	german_de_news_2015_00257057
+16234	Der Leitindex der Eurozone war zuletzt vier Tage in Folge gestiegen.	Y	leitindex	2409	    1,380	0.0029	751.5	german_de_news_2015_00257031
+16235	Am Donnerstag hatte der US-Leitindex praktisch unverändert geschlossen.	Y	leitindex	2409	    1,380	0.0029	920.4444	german_de_news_2015_00043826
+16236	So können Sie Dateien auf dem eigenen PC schützen Doch wie geht man vor, wenn man die Dateien auf dem eigenen PC schützen will?	Y	dateien	2410	    1,379	0.0029	320.4706	german_de_news_2014_00795671
+16237	Aus diesen Daten geht hervor, wie viele Kunden im März mit bestimmten Dateien Kontakt hatten.	Y	dateien	2410	    1,379	0.0029	584.6667	german_de_news_2014_00088935
+16238	Es kann eingestellt werden, ob die jeweiligen Dateien nur zwischen den eigenen Geräten verteilt werden oder auch Dritte Zugang erhalten sollen.	Y	dateien	2410	    1,379	0.0029	680.7	german_de_news_2015_00465095
+16239	Warten Sie nun, bis der Download der Dateien abgeschlossen ist.	Y	dateien	2410	    1,379	0.0029	731.3333	german_de_news_2015_00882230
+16240	Dafür müssen die einzelnen Anwendungen und Dateien nicht vollständig geöffnet werden.	Y	dateien	2410	    1,379	0.0029	916.5455	german_de_news_2013_00146067
+16241	Ein paar davon hatte ich auch schon in den Händen.	Y	händen	2410	    1,379	0.0029	325.5	german_de_news_2013_00452466
+16242	Nur die Art und Weise der Verbindung liegt noch in den Händen der Spieler.	Y	händen	2410	    1,379	0.0029	450.1538	german_de_news_2014_00715313
+16243	Doch Ihre Gäste werden Sie danach auf Händen tragen.	Y	händen	2410	    1,379	0.0029	556.8889	german_de_news_2015_00390581
+16244	Weil sie Eis mit ihren Händen machen kann.	Y	händen	2410	    1,379	0.0029	641	german_de_news_2015_00892395
+16245	Diese Not ist mit Händen zu greifen.	Y	händen	2410	    1,379	0.0029	986.2857	german_de_news_2015_00354399
+16246	Aber kaum je hat sie sich in kurzer Zeit so stark verändert, wie in den vergangenen 150 Jahren.	Y	kurzer	2410	    1,379	0.0029	349.5625	german_de_news_2015_00015170
+16247	Antwort schreiben Nicht mit Geld umgehen Sehr viele können einfach nicht mit Geld umgehen, darum sind viele auch nach kurzer Zeit auch wieder pleite.	Y	kurzer	2410	    1,379	0.0029	524.6111	german_de_news_2014_00059701
+16248	Es ist von Europa aus leicht zu erreichen, es ist ein ziemlich kurzer Flug.	Y	kurzer	2410	    1,379	0.0029	618.25	german_de_news_2013_00493229
+16249	Spätestens 2016 solle es soweit sein, hatte er erst vor kurzer Zeit gesagt.	Y	kurzer	2410	    1,379	0.0029	731.8333	german_de_news_2014_00806174
+16250	Die Freude daran ist von kurzer Dauer.	Y	kurzer	2410	    1,379	0.0029	949.8571	german_de_news_2014_00315697
+16251	Es sind mehr als 700 Menschen, die gekommen sind, um Abschied zu nehmen.	Y	abschied	2411	    1,378	0.0029	333.9091	german_de_news_2013_00497401
+16252	Auch von ihr hat man (fast) Abschied genommen.	Y	abschied	2411	    1,378	0.0029	458.625	german_de_news_2013_00077163
+16253	Das wäre für mich ein Super-Abschied.	Y	abschied	2411	    1,378	0.0029	561.2857	german_de_news_2015_00208958
+16254	Und der nach dem Interview gleich beide Hände zum Abschied reicht.	Y	abschied	2411	    1,378	0.0029	650.6364	german_de_news_2014_00842597
+16255	Bei Werder Bremen stehen die Zeichen auf Abschied.	Y	abschied	2411	    1,378	0.0029	992.125	german_de_news_2013_00112738
+16256	Sie können bis heute bei iPhone & Co. sehr genau steuern, ob und wenn ja wie und welche Cloud-Services sie nutzen wollen.	Y	services	2411	    1,378	0.0029	425.15	german_de_news_2015_00771993
+16257	Zunächst galt das für Google Mail, später auch für die Google-Suche und zahlreiche andere Google-Services.	Y	services	2411	    1,378	0.0029	543.3571	german_de_news_2014_00960456
+16258	Nicht allein mit den Geräten selbst lässt sich Geld verdienen, vor allem Dienste und Apps, die sich aus den Daten entwickeln lassen, gelten unter dem Begriff Smart Services als Geschäft der Zukunft.	Y	services	2411	    1,378	0.0029	639.0333	german_de_news_2015_00696537
+16259	Amazon macht keine Angaben zum Umsatz von Amazon Web Services.	Y	services	2411	    1,378	0.0029	774.2222	german_de_news_2015_00042795
+16260	Nur Amazon Web Services ist jetzt noch größer.	Y	services	2411	    1,378	0.0029	925.5	german_de_news_2014_00714876
+16261	Wie wäre es mal mit einer Begründung, warum das so sein soll?	Y	begründung	2412	    1,377	0.0029	275.75	german_de_news_2015_00919609
+16262	Er halte das Urteil weder im Ergebnis noch in der Begründung für richtig, sagte er der „Welt am Sonntag“.	Y	begründung	2412	    1,377	0.0029	467.4118	german_de_news_2014_00443558
+16263	Da sei dann eine gute Begründung gefragt.	Y	begründung	2412	    1,377	0.0029	622.8571	german_de_news_2014_00171351
+16264	26 Leserempfehlungen Reaktionen auf diesen Kommentar anzeigen Und die Begründung ist natürlich auch klasse.	Y	begründung	2412	    1,377	0.0029	760.8462	german_de_news_2014_00003946
+16265	Die Begründung: Man wolle die Regionen stärken.	Y	begründung	2412	    1,377	0.0029	1151.6667	german_de_news_2015_00294101
+16266	Der Wert des Vereins liegt bei 275 Millionen Euro.	Y	vereins	2412	    1,377	0.0029	423.5	german_de_news_2015_00276291
+16267	So oft wird ein Spieler dieser Qualität in der momentan Lage des Vereins nicht mehr angeboten.“	Y	vereins	2412	    1,377	0.0029	498.5	german_de_news_2013_00830173
+16268	Die Fans mussten jedoch lange auf ein Tor ihres Vereins warten.	Y	vereins	2412	    1,377	0.0029	583.7273	german_de_news_2013_00326423
+16269	Der Club steckt in einer wirtschaftlichen Krise, auch die Führung des Vereins hat viel falsch gemacht.	Y	vereins	2412	    1,377	0.0029	672.25	german_de_news_2014_00241647
+16270	Bei Spielern und Verantwortlichen, bei Fans und Freunden des Vereins.	Y	vereins	2412	    1,377	0.0029	1119.75	german_de_news_2014_00111090
+16271	In der Praxis war es so, dass die meisten Aufnahmen mit der Kamera am Auge gemacht wurden.	Y	aufnahmen	2413	    1,376	0.0029	503.875	german_de_news_2014_00586976
+16272	Ich hab ja erst vor ein paar Tagen den Trailer gesehen und war ich direkt hin und weg von den Aufnahmen.	Y	aufnahmen	2413	    1,376	0.0029	538.7778	german_de_news_2014_00552171
+16273	Die Aufnahmen in den USA setzt der Konzern ebenfalls fort.	Y	aufnahmen	2413	    1,376	0.0029	610	german_de_news_2015_00291272
+16274	In der Ausstellung stehen die historischen Aufnahmen den neuen gegenüber.	Y	aufnahmen	2413	    1,376	0.0029	698.1	german_de_news_2015_00578665
+16275	Die Aufnahmen stammen aus einem Park in Kanada.	Y	aufnahmen	2413	    1,376	0.0029	1055.75	german_de_news_2013_00304780
+16276	Auf Blick.ch sind Sie wieder mit dabei.	Y	ch	2413	    1,376	0.0029	385.875	german_de_news_2015_00080936
+16277	Auf Blick.ch sind Sie live mit dabei.	Y	ch	2413	    1,376	0.0029	478.5	german_de_news_2014_00080341
+16278	Das ist in der CH schon länger vorbei.	Y	ch	2413	    1,376	0.0029	535.125	german_de_news_2013_00186980
+16279	Auf Blick.ch sind Sie bei der Pressekonferenz live dabei!	Y	ch	2413	    1,376	0.0029	569.6	german_de_news_2014_00080340
+16280	Die Redaktion/ch 50 Leserempfehlungen Reaktionen auf diesen Kommentar anzeigen Der Kommentar, auf den Sie Bezug nehmen, wurde bereits entfernt.	Y	ch	2413	    1,376	0.0029	817.9412	german_de_news_2015_00344978
+16281	Er hat auch ein, zwei Fehler gemacht in der öffentlichen Darstellung.	Y	darstellung	2413	    1,376	0.0029	427.1818	german_de_news_2014_00443728
+16282	Nach Darstellung der Zeugen hatten sich die beiden Beamten nicht als Polizisten zu erkennen gegeben.	Y	darstellung	2413	    1,376	0.0029	564.8	german_de_news_2013_00716881
+16283	Doch an dieser Darstellung gibt es Zweifel.	Y	darstellung	2413	    1,376	0.0029	604.2857	german_de_news_2015_00385636
+16284	Im Gespräch mit FOCUS Online geht sie allerdings mit Japan hart ins Gericht - und mit der Darstellung Chinas im Westen.	Y	darstellung	2413	    1,376	0.0029	700.8824	german_de_news_2014_00567383
+16285	Das runde Gerät dient zum Fühlen der 3D-Darstellung.	Y	darstellung	2413	    1,376	0.0029	967.1111	german_de_news_2014_00196675
+16286	Wir werden mit ihm wohl noch einige Diskussionen haben.	Y	diskussionen	2413	    1,376	0.0029	359.8889	german_de_news_2013_00969299
+16287	Das wird dann das Entscheidende sein für die Diskussionen in den nächsten Tagen.	Y	diskussionen	2413	    1,376	0.0029	485.0833	german_de_news_2013_00216007
+16288	Sie ging an den Papst, noch bevor die Diskussionen überhaupt begonnen hatten.	Y	diskussionen	2413	    1,376	0.0029	600.4167	german_de_news_2015_00768848
+16289	Nach dem Vorfall gab es einige Diskussionen.	Y	diskussionen	2413	    1,376	0.0029	740	german_de_news_2015_00681280
+16290	Aktuelle Diskussionen finden Sie in unserem Forum.	Y	diskussionen	2413	    1,376	0.0029	955.4286	german_de_news_2014_00023283
+16291	Derzeit sind bereits rund 60 Experten und weitere Mitarbeiter der beiden Organisationen in Syrien.	Y	organisationen	2413	    1,376	0.0029	378.9231	german_de_news_2013_00291026
+16292	Doch auch die Organisationen von Staaten haben ein großes Interesse an entsprechenden Informationen.	Y	organisationen	2413	    1,376	0.0029	568.5385	german_de_news_2015_00385844
+16293	Hilfe geben aber auch andere Organisationen und die Kleine Zeitung (siehe rechts.	Y	organisationen	2413	    1,376	0.0029	646.1667	german_de_news_2013_00563605
+16294	Die Stadt bietet viele Arbeitsplätze, gerade von internationalen Organisationen.	Y	organisationen	2413	    1,376	0.0029	692.5556	german_de_news_2015_00366405
+16295	Sie wollen Frieden mit den sogenannten Fan-Organisationen.	Y	organisationen	2413	    1,376	0.0029	975.25	german_de_news_2014_00788296
+16296	Deswegen war es richtig und wichtig, dass sich der Stadtrat noch einmal mit dem Thema beschäftigt hat.	Y	stadtrat	2413	    1,376	0.0029	385.3529	german_de_news_2015_00281404
+16297	Klar aber ist, der Stadtrat hat ein Problem zu lösen.	Y	stadtrat	2413	    1,376	0.0029	497.9	german_de_news_2014_00626105
+16298	Das hat der Stadtrat auch nicht getan.	Y	stadtrat	2413	    1,376	0.0029	583	german_de_news_2014_00179217
+16299	Da sei noch Potenzial drin, ist sich der Erste Stadtrat sicher.	Y	stadtrat	2413	    1,376	0.0029	699	german_de_news_2014_00171549
+16300	Zum Ärger der SVP-Fraktion im Berner Stadtrat.	Y	stadtrat	2413	    1,376	0.0029	1321.875	german_de_news_2013_00987299
+16301	Weitere große Updates wird es für Windows 8 dann aber nicht mehr geben.	Y	updates	2413	    1,376	0.0029	309.5833	german_de_news_2014_00902021
+16302	Allerdings ist wie so oft bei Updates von Google zu beachten, dass dieses wieder nicht allen Nutzer zur gleiche Zeit zur Verfügung gestellt wird.	Y	updates	2413	    1,376	0.0029	436.2609	german_de_news_2014_00028516
+16303	Bei Android stellt Google hingegen nur die Updates für sein Betriebssystem bereit.	Y	updates	2413	    1,376	0.0029	624.5	german_de_news_2015_00099727
+16304	Lediglich bei Updates müssen Nutzer jetzt länger warten.	Y	updates	2413	    1,376	0.0029	694.75	german_de_news_2014_00641847
+16305	Motorsport-Magazin.com zeigt die wichtigsten Updates.	Y	updates	2413	    1,376	0.0029	1144.7143	german_de_news_2015_00675309
+16306	Der wird schon gut sein, die Atmosphäre und Bilder sind es jedenfalls bislang immer gewesen.	Y	atmosphäre	2414	    1,375	0.0029	332.6667	german_de_news_2014_00278249
+16307	Das Wetter könnte besser sein, die Atmosphäre nicht.	Y	atmosphäre	2414	    1,375	0.0029	533.625	german_de_news_2013_00215609
+16308	Mit einem neuen Mitglied im Team verändert sich auch die gesamte Atmosphäre.	Y	atmosphäre	2414	    1,375	0.0029	577.5	german_de_news_2014_00674054
+16309	Klar, war anders aufgebaut, aber die Atmosphäre gerade im Krankenhaus fand ich mehr als gelungen.	Y	atmosphäre	2414	    1,375	0.0029	631.7333	german_de_news_2013_00656940
+16310	Für einen kurzen Moment herrscht Party-Atmosphäre.	Y	atmosphäre	2414	    1,375	0.0029	1338.2857	german_de_news_2013_00524869
+16311	Ausserdem was hat das eine mit dem anderen zu tun?	Y	ausserdem	2414	    1,375	0.0029	305.6	german_de_news_2015_00093849
+16312	Ausserdem ist es an der Zeit, mal wieder einen Blick auf Twitter zu werfen: Was geht ab?	Y	ausserdem	2414	    1,375	0.0029	367.6471	german_de_news_2013_00091485
+16313	Ausserdem braucht man die freien Tage, um wieder fit zu werden für den nächsten Auftritt.	Y	ausserdem	2414	    1,375	0.0029	590.5333	german_de_news_2015_00091540
+16314	Ausserdem nehmen wir bis zu 3000 syrische Flüchtlinge zusätzlich auf.	Y	ausserdem	2414	    1,375	0.0029	757.3333	german_de_news_2015_00092978
+16315	Die Verbindung zum iPad Pro erfolgt über die neue Drei-Punkte-Verbindung, die ausserdem den Strom liefert.	Y	ausserdem	2414	    1,375	0.0029	851.5714	german_de_news_2015_00375631
+16316	Nach 20 Kilometern gibt es das erste Problem: Wir wissen den Weg nicht mehr.	Y	kilometern	2414	    1,375	0.0029	296.4615	german_de_news_2013_00715008
+16317	Selbst der Wechsel von ein paar Kilometern kann da zum Problem werden.	Y	kilometern	2414	    1,375	0.0029	401.0833	german_de_news_2015_00762901
+16318	Mit 42 Kilometern ist diese länger, als je zuvor.	Y	kilometern	2414	    1,375	0.0029	516	german_de_news_2013_00696469
+16319	Der Zug, der mit 160 Kilometern pro Stunde auf dem Weg nach Hannover war, blieb aber erst einen Kilometer hinter dem Bahnhof stehen.	Y	kilometern	2414	    1,375	0.0029	546.65	german_de_news_2015_00278292
+16320	Mit rund 17 Kilometern pro Stunde bewegt sich der Sturm voran.	Y	kilometern	2414	    1,375	0.0029	985.3	german_de_news_2015_00670056
+16321	Uns war jedoch klar, dass es für uns hier schwer werden würde, deutlich vor dem Mittelfeld zu liegen.	Y	mittelfeld	2414	    1,375	0.0029	276.5882	german_de_news_2014_00857288
+16322	Ich weiß, dass wir nicht Favoriten sind, aber wir waren jetzt auch nicht im Mittelfeld oder so.	Y	mittelfeld	2414	    1,375	0.0029	376.4	german_de_news_2015_00551933
+16323	Die Kandidaten für Mittelfeld und Angriff gibt die Fifa in den kommenden Tagen bekannt.	Y	mittelfeld	2414	    1,375	0.0029	574.6923	german_de_news_2013_00343434
+16324	Deutschland liegt wie der Rest der Euro-Zone etwa im Mittelfeld.	Y	mittelfeld	2414	    1,375	0.0029	675.3	german_de_news_2014_00284254
+16325	Seine Power im Mittelfeld ging uns verloren.	Y	mittelfeld	2414	    1,375	0.0029	857.4286	german_de_news_2014_00765628
+16326	Wie sich die beiden Seiten in dieser Frage bis Ende Juni einigen können, war am Montagabend noch völlig unklar.	Y	montagabend	2414	    1,375	0.0029	363.4211	german_de_news_2013_00955296
+16327	In einem TV-Interview am Montagabend sagte Tsipras, dass er kein Ministerpräsident für alle Zeiten sei.	Y	montagabend	2414	    1,375	0.0029	514.5625	german_de_news_2015_00587091
+16328	Nachfolger konnten am Montagabend noch nicht gefunden werden.	Y	montagabend	2414	    1,375	0.0029	623.875	german_de_news_2013_00724545
+16329	Am Montagabend wird der Bus von der Polizei auf dem Weg vom Hotel zum Stadion begleitet.	Y	montagabend	2414	    1,375	0.0029	673.0667	german_de_news_2015_00046580
+16330	Die Suche wurde am späten Montagabend eingestellt.	Y	montagabend	2414	    1,375	0.0029	1060.1429	german_de_news_2013_00390540
+16331	Heute geht sich das nur knapp mit 2 Einkommen aus.	Y	einkommen	2415	    1,374	0.0029	344.8889	german_de_news_2014_00535854
+16332	Wenn z.B. ein Deutscher nach Spanien geht und kein Einkommen hat, bekommt er dort nichts!	Y	einkommen	2415	    1,374	0.0029	471.5625	german_de_news_2013_00941079
+16333	Die Diskussion muss endlich weg vom Einkommen und hin zum Vermögen, ob es den Herren der Wirtschaft nun passt oder nicht.	Y	einkommen	2415	    1,374	0.0029	575.9524	german_de_news_2013_00318064
+16334	Wir wechseln uns ab und jeder zahlt nach seinem Einkommen.	Y	einkommen	2415	    1,374	0.0029	703.6	german_de_news_2015_00932049
+16335	Über wie viel Einkommen verfügt Wladimir Putin?	Y	einkommen	2415	    1,374	0.0029	1016.8571	german_de_news_2015_00823616
+16336	Müssen sie sich doch immer wieder auf andere Menschen einstellen.	Y	einstellen	2415	    1,374	0.0029	308.8	german_de_news_2014_00683954
+16337	Dann wird sich auch der Erfolg einstellen.	Y	einstellen	2415	    1,374	0.0029	435	german_de_news_2015_00160116
+16338	Kunden sollen nicht wechseln müssen, nur weil wir die Entwicklung einstellen.	Y	einstellen	2415	    1,374	0.0029	507.5455	german_de_news_2013_00663180
+16339	Darauf müssten sich auch die Firmen einstellen.	Y	einstellen	2415	    1,374	0.0029	632.4286	german_de_news_2013_00162952
+16340	Einige Regionen müssen sich auf Veränderungen einstellen.	Y	einstellen	2415	    1,374	0.0029	941	german_de_news_2014_00425917
+16341	Sie legten so stark zu wie seit fünf Monaten nicht mehr.	Y	legten	2415	    1,374	0.0029	338.7273	german_de_news_2014_00781832
+16342	Ob eine oder mehrere Personen den Brand legten, ist nicht bekannt.	Y	legten	2415	    1,374	0.0029	495.5455	german_de_news_2015_00711344
+16343	Die USA legten großen Wert darauf, dass Investitionen im Ausland sicher seien.	Y	legten	2415	    1,374	0.0029	545.75	german_de_news_2015_00374724
+16344	Gegen das Urteil legten die Frauen Berufung ein.	Y	legten	2415	    1,374	0.0029	697.875	german_de_news_2014_00512023
+16345	Das legten jedenfalls zahlreiche Studien der Vergangenheit nahe.	Y	legten	2415	    1,374	0.0029	1047.875	german_de_news_2013_00192284
+16346	Wir sind im Gespräch mit Regierungen, aber auch mit der EU.	Y	regierungen	2415	    1,374	0.0029	356.3	german_de_news_2014_00936741
+16347	Meint er, die anderen Regierungen in Europa sind nicht gewählt?	Y	regierungen	2415	    1,374	0.0029	523.7	german_de_news_2015_00655761
+16348	Nun beginnen Verhandlungen mit den Regierungen, um zu einer Einigung zu kommen.	Y	regierungen	2415	    1,374	0.0029	625.6364	german_de_news_2015_00703706
+16349	Deswegen müssen auch die Regierungen aktiv werden.	Y	regierungen	2415	    1,374	0.0029	725	german_de_news_2013_00294559
+16350	Merkel kritisierte die Regierungen Russlands und Chinas wegen ihrer Haltung im Syrien-Konflikt.	Y	regierungen	2415	    1,374	0.0029	1060.9231	german_de_news_2013_00692691
+16351	Als Chefin müsse sie vor Ort sein und damit einfach mehr Zeit für ihr Unternehmen haben.	Y	chefin	2416	    1,373	0.0029	277.5625	german_de_news_2014_00033112
+16352	Heute stellen wir Ihnen unsere Top-50-Auswahl der Frauen vor, die wir als Dax-Chefin sehen wollen.	Y	chefin	2416	    1,373	0.0029	463.4375	german_de_news_2015_00531420
+16353	Quelle: N24 Möglicherweise wird dann auch ein neuer Chef oder eine neue Chefin präsentiert.	Y	chefin	2416	    1,373	0.0029	586.5	german_de_news_2014_00740941
+16354	Die CDU folgte ihr und machte sie 2000 zur Chefin.	Y	chefin	2416	    1,373	0.0029	657.5556	german_de_news_2013_00314419
+16355	Dafür hätte die Chefin vermutlich Verständnis gehabt.	Y	chefin	2416	    1,373	0.0029	1026.8571	german_de_news_2015_00145083
+16356	Stephan: „Wir stellen uns auf eine lange Nacht ein.“	Y	stephan	2416	    1,373	0.0029	421.3333	german_de_news_2013_00841803
+16357	SPIEGEL ONLINE: Herr Stephan, wenn Sie in den Spiegel sehen, erkennen Sie sich selbst wieder?	Y	stephan	2416	    1,373	0.0029	483	german_de_news_2013_00836749
+16358	Aber anders, als sich das Stephan Schmidt vorgestellt hatte.	Y	stephan	2416	    1,373	0.0029	642.8889	german_de_news_2013_00009563
+16359	Paul Peter Stephan Wunsch vor 5 Stunden Artikel kommentieren Melden Sie sich jetzt an!	Y	stephan	2416	    1,373	0.0029	733.2308	german_de_news_2015_00723842
+16360	Stephan Weil (Mitte) gewinnt die Wahlen in Niedersachsen, wird neuer Ministerpräsident.	Y	stephan	2416	    1,373	0.0029	974.7273	german_de_news_2013_00841799
+16361	Man soll sich auch nicht mit anderen vergleichen, sondern zufrieden sein mit dem, was man hat und was man ist.	Y	vergleichen	2416	    1,373	0.0029	258.3125	german_de_news_2014_00653906
+16362	Stand der Technik von damals kann man mit Heute nicht vergleichen.	Y	vergleichen	2416	    1,373	0.0029	402.3636	german_de_news_2013_00838861
+16363	Ich würde es nie wagen, mich mit Neuer zu vergleichen.	Y	vergleichen	2416	    1,373	0.0029	496	german_de_news_2015_00553139
+16364	Wobei die beiden Spiele einen ganz unterschiedlichen Fokus haben und sich nur schwer vergleichen lassen.	Y	vergleichen	2416	    1,373	0.0029	592.8	german_de_news_2015_00934361
+16365	Doch bei Kauf wie Bau gilt: Angebote vergleichen.	Y	vergleichen	2416	    1,373	0.0029	851.375	german_de_news_2013_00410029
+16366	Wie es zu dem Absturz kam, ist für die Polizei noch unklar.	Y	absturz	2417	    1,372	0.0029	337.9167	german_de_news_2014_00922731
+16367	Man bringt einfach das Flugzeug zum Absturz und gut ist.	Y	absturz	2417	    1,372	0.0029	556.5	german_de_news_2014_00649676
+16368	Es ist der erste Absturz in der Lufthansa-Geschichte.	Y	absturz	2417	    1,372	0.0029	592.25	german_de_news_2015_00461355
+16369	Meister, Champions League, aber auch der „Absturz“ letzte Saison.	Y	absturz	2417	    1,372	0.0029	703.7778	german_de_news_2015_00656023
+16370	Die Maschine wurde beim Absturz stark beschädigt.	Y	absturz	2417	    1,372	0.0029	1018.4286	german_de_news_2015_00332419
+16371	Man habe auch eine andere Situation als etwa in Frankreich oder Belgien.	Y	belgien	2417	    1,372	0.0029	350.3333	german_de_news_2015_00645003
+16372	Auf Platz neun liegt es in hinter Belgien und vor Großbritannien.	Y	belgien	2417	    1,372	0.0029	500.8182	german_de_news_2013_00085929
+16373	Einen Titel verloren, aber ein Leben gewonnen“, schrieb Alonso vor diesem Belgien-Wochenende auf Twitter.	Y	belgien	2417	    1,372	0.0029	618.8	german_de_news_2014_00418143
+16374	In Frankreich, Belgien und in der Schweiz ist der Musiker seit Jahrzehnten sehr erfolgreich.	Y	belgien	2417	    1,372	0.0029	715.3333	german_de_news_2014_00594639
+16375	In der fünften Verlängerung dieser WM traf Belgien sofort.	Y	belgien	2417	    1,372	0.0029	1038.7778	german_de_news_2014_00585248
+16376	Deshalb weiß er auch genau, was seine Jungs heute erwartet: „Das wird mehr als schwer.“	Y	jungs	2417	    1,372	0.0029	312.7333	german_de_news_2013_00293792
+16377	Das ist wirklich wichtig für die Jungs.	Y	jungs	2417	    1,372	0.0029	468.4286	german_de_news_2014_00186468
+16378	Aber unsere Jungs werden es sicher schaffen.	Y	jungs	2417	    1,372	0.0029	548.2857	german_de_news_2014_00016637
+16379	Die Jungs waren in dieser Woche richtig gut drauf.	Y	jungs	2417	    1,372	0.0029	629	german_de_news_2014_00326829
+16380	Die Jungs haben unseren Plan perfekt umgesetzt.	Y	jungs	2417	    1,372	0.0029	1191.1429	german_de_news_2015_00324896
+16381	Alle Informationen gibt es hier im Ticker.	Y	ticker	2417	    1,372	0.0029	446.1429	german_de_news_2015_00027305
+16382	Um acht Uhr in der Früh startet das Rennen, unser Ticker natürlich schon früher.	Y	ticker	2417	    1,372	0.0029	546.9286	german_de_news_2015_00824691
+16383	Verfolgen Sie das Spiel ab 16 Uhr im Live-Ticker.	Y	ticker	2417	    1,372	0.0029	621.8889	german_de_news_2014_00863719
+16384	Der Ticker informiert über die aktuelle Entwicklung.»	Y	ticker	2417	    1,372	0.0029	704.4286	german_de_news_2015_00270696
+16385	Motorsport-Magazin.com hält euch im Live-Ticker mit Bildern, Infos und Aussagen der Fahrer auf dem Laufenden.	Y	ticker	2417	    1,372	0.0029	911.1111	german_de_news_2014_00682793
+16386	Welche Unternehmen genau günstiger an Geld kommen sollen, wurde zunächst nicht bekannt.	Y	günstiger	2418	    1,371	0.0029	374.3333	german_de_news_2014_00904798
+16387	Die Deutsche Bank kommt wohl deutlich günstiger weg.	Y	günstiger	2418	    1,371	0.0029	478	german_de_news_2013_00316879
+16388	Von einem schwachen Euro profitieren Unternehmen, die viele Waren ins Ausland verkaufen, weil ihre Produkte im Ausland günstiger werden.	Y	günstiger	2418	    1,371	0.0029	581.2222	german_de_news_2015_00868131
+16389	Nun bieten auch Händler in Deutschland das Gerät deutlich günstiger an. Allen voran Amazon.	Y	günstiger	2418	    1,371	0.0029	664.5	german_de_news_2014_00711936
+16390	Günstiger ist derzeit kein anderes Android-Intel-Tablet.	Y	günstiger	2418	    1,371	0.0029	999.125	german_de_news_2014_00527636
+16391	Ganz aus seiner Haut kann – und will – er dann doch nicht.	Y	haut	2418	    1,371	0.0029	276.7273	german_de_news_2014_00509592
+16392	Gut und wichtig, die Geschichte geht direkt unter die Haut.	Y	haut	2418	    1,371	0.0029	464.2222	german_de_news_2013_00550119
+16393	Niemand geht dem Gegner unter die Haut.	Y	haut	2418	    1,371	0.0029	589.2857	german_de_news_2015_00699594
+16394	Die Sonne stellt aber auch eine Gefahr dar, besonders für die Haut.	Y	haut	2418	    1,371	0.0029	692.6364	german_de_news_2013_00385245
+16395	In solch einer Haut möchte ich nicht stecken.	Y	haut	2418	    1,371	0.0029	939.625	german_de_news_2014_00602410
+16396	Dem Unternehmen könnte der erste Streik seit 20 Jahren ins Haus stehen.	Y	streik	2418	    1,371	0.0029	365.4545	german_de_news_2014_00221391
+16397	Aktuelle Informationen der Bahn zum Streik finden Sie hier.	Y	streik	2418	    1,371	0.0029	513.5556	german_de_news_2015_00024020
+16398	Was aber, wenn es zur Streik-Allianz kommt?	Y	streik	2418	    1,371	0.0029	624.875	german_de_news_2015_00883758
+16399	Wahrscheinlich werden sich bis zu 800 Lehrer an dem Streik beteiligen.	Y	streik	2418	    1,371	0.0029	763.9	german_de_news_2013_00915248
+16400	Deren Piloten beteiligen sich nicht am Streik.	Y	streik	2418	    1,371	0.0029	951.5714	german_de_news_2014_00245253
+16401	"""""""Vielleicht sind wir ja dabei."""""""" 3) „Natürlich wollen wir Dritter werden, das ist unser Ziel."""""""	Y	dritter	2419	    1,370	0.0029	348.9231	german_de_news_2015_00862024
+16402	Der WM-Dritte zog damit als Dritter mit nur einem Sieg in Gruppe A in die K.o.-Runde ein.	Y	dritter	2419	    1,370	0.0029	498.1053	german_de_news_2015_00276886
+16403	Dafür lassen wir auch Inhalte Dritter zu.	Y	dritter	2419	    1,370	0.0029	608.2857	german_de_news_2015_00145323
+16404	Sie waren sowieso sicher Zweiter oder Dritter, schlechter hätte es für Hamilton nicht kommen können.	Y	dritter	2419	    1,370	0.0029	744.8667	german_de_news_2015_00778037
+16405	Vettel wird die Saison hinter den beiden Mercedes-Piloten Lewis Hamilton und Nico Rosberg als WM-Dritter beenden.	Y	dritter	2419	    1,370	0.0029	961.1111	german_de_news_2015_00857725
+16406	Das würde so nicht gehen und wir (wer immer damit gemeint ist) froh sein könnten, dass sie da seien.	Y	gemeint	2419	    1,370	0.0029	320.3158	german_de_news_2014_00212683
+16407	Das klingt einfach und so ist es wohl auch gemeint.	Y	gemeint	2419	    1,370	0.0029	454.2	german_de_news_2014_00187783
+16408	Damit waren Islamisten gemeint – und davon gab und gibt es in Syrien eine ganze Menge.	Y	gemeint	2419	    1,370	0.0029	536.2857	german_de_news_2013_00155099
+16409	Was damit genau gemeint ist, ist unklar.	Y	gemeint	2419	    1,370	0.0029	659.5	german_de_news_2015_00884295
+16410	Gemeint war Borussia Dortmund unter Trainer Jürgen Klopp.	Y	gemeint	2419	    1,370	0.0029	1072.375	german_de_news_2015_00509964
+16411	Zudem sei es schliesslich erst Facebook, das aus den Daten Geld macht.	Y	schliesslich	2419	    1,370	0.0029	339.5	german_de_news_2014_00951334
+16412	Schliesslich war Gut nachdem er weg war endlich gut.	Y	schliesslich	2419	    1,370	0.0029	559.1429	german_de_news_2014_00757308
+16413	Herr Müller ist ja schliesslich CSU-Mitglied - er kennt das nicht anders.	Y	schliesslich	2419	    1,370	0.0029	691.4167	german_de_news_2015_00529782
+16414	Schliesslich sei das Unternehmen ein Start-up-Unternehmen.	Y	schliesslich	2419	    1,370	0.0029	762.8571	german_de_news_2013_00785113
+16415	Schliesslich konnte der Bisherige seinen Sitz verteidigen.	Y	schliesslich	2419	    1,370	0.0029	1306.2857	german_de_news_2015_00748216
+16416	Sie hat ein Jahres-Abo, «dann kann man sich das leisten», sagt sie.	Y	abo	2420	    1,369	0.0029	369.5833	german_de_news_2014_00779144
+16417	Abo-Plätze zum Preis von 38 Euro stehen noch zur Verfügung.	Y	abo	2420	    1,369	0.0029	564.8	german_de_news_2014_00019084
+16418	Ich möchte per Mail über neue Artikel informiert werden (Artikel-Abo-Liste).	Y	abo	2420	    1,369	0.0029	597.5455	german_de_news_2014_00554941
+16419	Stimmen Sie ab und gewinnen Sie pro Spieltag je ein Digital-Abo von BÖRSE ONLINE.	Y	abo	2420	    1,369	0.0029	750.7143	german_de_news_2014_00812837
+16420	Der Bezug zum Handy-Abo bleibt unklar.	Y	abo	2420	    1,369	0.0029	1026.4286	german_de_news_2015_00238699
+16421	"""""""Wo will das Leben noch mit mir hin?"""""""") und suchen nach den schönen Stellen."""""""	Y	schönen	2420	    1,369	0.0029	348.1429	german_de_news_2014_00944141
+16422	Müller sei sicher im Glauben, er könne „hier einen schönen Tag haben“.	Y	schönen	2420	    1,369	0.0029	459.9167	german_de_news_2014_00683215
+16423	Also, schönen Tag noch und viel Glück.	Y	schönen	2420	    1,369	0.0029	560.1429	german_de_news_2015_00038893
+16424	So einfach funktioniert Reisen im Jahr 2016 - in einem schönen Traum.	Y	schönen	2420	    1,369	0.0029	745.6	german_de_news_2014_00792231
+16425	Die schönen Dinge, und zu erfahren, was dahinter steckt, das interessiert die Älteren.	Y	schönen	2420	    1,369	0.0029	1010.5	german_de_news_2013_00369864
+16426	Bis jetzt hatte ich immer Glück, in den nächsten Tagen bin ich aber auf die Bahn angewiesen - und vier Tage sind wirklich sehr lang.“	Y	angewiesen	2421	    1,368	0.0029	306.6957	german_de_news_2014_00124625
+16427	Wir aber sind darauf angewiesen, dass sie uns weiterhin ernst nehmen.	Y	angewiesen	2421	    1,368	0.0029	449.8182	german_de_news_2015_00921045
+16428	Sie findet keine Arbeit, ist auf die finanzielle Unterstützung vom Staat angewiesen.	Y	angewiesen	2421	    1,368	0.0029	564.4167	german_de_news_2013_00806055
+16429	Zudem habe er einen Kollegen angewiesen, Dinge nicht zu prüfen.	Y	angewiesen	2421	    1,368	0.0029	632.9	german_de_news_2014_00950037
+16430	Und darauf ist die Lufthansa dringend angewiesen.	Y	angewiesen	2421	    1,368	0.0029	878.5714	german_de_news_2015_00831069
+16431	Und wer trifft dann die Entscheidung, wenn es nicht der Betroffene selbst tun darf?	Y	betroffene	2421	    1,368	0.0029	356.5714	german_de_news_2014_00853453
+16432	Was sagt eine Betroffene zu der Aktion?	Y	betroffene	2421	    1,368	0.0029	528.5714	german_de_news_2014_00896326
+16433	Alles in Ihrem Artikel stimmt“, schrieb uns eine Betroffene.	Y	betroffene	2421	    1,368	0.0029	614.7778	german_de_news_2015_00032210
+16434	In Wahrheit werden es mindestens Hunderte Betroffene allein in Deutschland sein.	Y	betroffene	2421	    1,368	0.0029	744.8	german_de_news_2014_00604969
+16435	Das Besondere: An der Planung waren Betroffene beteiligt.	Y	betroffene	2421	    1,368	0.0029	994.375	german_de_news_2014_00168134
+16436	Saudi-Arabien und andere Staaten stehen in der Kritik, weil sie nur sehr wenig Flüchtlinge ins Land lassen.	Y	saudi	2422	    1,367	0.0029	458.5	german_de_news_2015_00745504
+16437	Ich habe das erste Mal von ihnen gehört, als ich in Saudi-Arabien war.	Y	saudi	2422	    1,367	0.0029	478	german_de_news_2013_00574500
+16438	Außerdem: Die Fans in Saudi-Arabien wollen den FC Bayern live sehen und freuen sich auf den Besuch eines der besten Teams der Welt.	Y	saudi	2422	    1,367	0.0029	525.8182	german_de_news_2015_00091578
+16439	Erneut wurde sie für rund 1000 Dollar an einen Mann aus Saudi-Arabien verkauft.	Y	saudi	2422	    1,367	0.0029	547.6923	german_de_news_2014_00448715
+16440	Sollen sie in Saudi-Arabien, Indonesien, Türkei und was weiß ich wo, doch tun und lassen, was sie wollen, ist mir egal, aber hier nicht!	Y	saudi	2422	    1,367	0.0029	551.9091	german_de_news_2015_00788407
+16441	Das hat es so vorher nicht gegeben: Frauen, die ihr Leben und Schicksal selbst in die Hand nehmen und nicht länger nur Opfer sein wollen.	Y	schicksal	2422	    1,367	0.0029	357.1364	german_de_news_2014_00179385
+16442	Da hat sie ihr Schicksal in die eigene Hand genommen.	Y	schicksal	2422	    1,367	0.0029	470.8	german_de_news_2013_00148045
+16443	Ihre Rolle und ihr Schicksal waren zunächst unklar.	Y	schicksal	2422	    1,367	0.0029	580.125	german_de_news_2015_00555901
+16444	Ihre Familie teilt das Schicksal mit vielen weiteren.	Y	schicksal	2422	    1,367	0.0029	755.625	german_de_news_2014_00560617
+16445	Gegen Dortmund droht Madrid das gleiche Schicksal.	Y	schicksal	2422	    1,367	0.0029	1101.2857	german_de_news_2013_00533430
+16446	Alle in dieser Stadt freuen sich auf dieses Spiel am Mittwoch – und die beschäftigen sich mit so etwas.	Y	beschäftigen	2423	    1,366	0.0029	287.8235	german_de_news_2015_00027091
+16447	Auch viele andere Unternehmen denken darüber nach, wie sie Flüchtlinge beschäftigen können.	Y	beschäftigen	2423	    1,366	0.0029	409.6667	german_de_news_2015_00079018
+16448	Die Welt: Welche großen Themen werden Sie 2016 außerdem beschäftigen?	Y	beschäftigen	2423	    1,366	0.0029	485	german_de_news_2015_00380176
+16449	Am heutigen Freitag beschäftigen sich die EU-Außenminister mit dem Irak. Der Druck auf die Bundesregierung scheint groß.	Y	beschäftigen	2423	    1,366	0.0029	572.7059	german_de_news_2014_00044691
+16450	Jene, die weniger beschäftigen, sollen „Strafe“ zahlen.	Y	beschäftigen	2423	    1,366	0.0029	914.7143	german_de_news_2013_00644316
+16451	Der General hat seit Jahren kein Interview in internationalen Medien gegeben.	Y	general	2423	    1,366	0.0029	470.1818	german_de_news_2015_00249227
+16452	Der Trost für den General: 2016 ist aber auch noch ein Jahr.	Y	general	2423	    1,366	0.0029	549.3636	german_de_news_2014_00272546
+16453	Der Preis, den sie dafür an General Franco zu zahlen hatten, war sehr, sehr hoch.	Y	general	2423	    1,366	0.0029	555.1429	german_de_news_2014_00264190
+16454	Ein General Haftar ist auch nicht stark genug, um das ganze Land unter seine Kontrolle zu bringen.	Y	general	2423	    1,366	0.0029	566.1176	german_de_news_2015_00420676
+16455	Die Medien und die erste Frau General..	Y	general	2423	    1,366	0.0029	568.3333	german_de_news_2014_00334859
+16456	Die Welt: Und es gibt auch keine Schätzungen?	Y	schätzungen	2423	    1,366	0.0029	350.625	german_de_news_2014_00383273
+16457	Zum Umsatz gibt es allerdings nur Schätzungen.	Y	schätzungen	2423	    1,366	0.0029	510.5714	german_de_news_2013_00990037
+16458	In Deutschland sind Schätzungen zufolge etwa eine Million Menschen betroffen.	Y	schätzungen	2423	    1,366	0.0029	585.8	german_de_news_2013_00617843
+16459	Seinen Schätzungen zufolge wären dies mindestens 60 Kollegen.	Y	schätzungen	2423	    1,366	0.0029	769.5714	german_de_news_2014_00765492
+16460	Er habe seine Schätzungen angehoben, schrieb der Experte.	Y	schätzungen	2423	    1,366	0.0029	931.125	german_de_news_2013_00465660
+16461	Das ist die bis jetzt letzte Information, die es von der Frau gibt.	Y	information	2424	    1,365	0.0029	298.0833	german_de_news_2015_00182248
+16462	Auch damals war der Bericht von The Information.	Y	information	2424	    1,365	0.0029	499.125	german_de_news_2015_00069358
+16463	Mehr als notwendig ist aber die Information für die Ungarn.	Y	information	2424	    1,365	0.0029	644.7778	german_de_news_2014_00658720
+16464	Eine Studie der Uni Wien nennt als Gründe hohe Kosten und wenig Information.	Y	information	2424	    1,365	0.0029	764.9231	german_de_news_2014_00421270
+16465	Foto: Daimler BITTE BEACHTEN SIE: Unser Angebot dient lediglich Ihrer persönlichen Information.	Y	information	2424	    1,365	0.0029	1191	german_de_news_2015_00485977
+16466	Und die Frau, um die sich alles dreht, ist es auch.	Y	dreht	2425	    1,364	0.0029	291.9	german_de_news_2014_00843173
+16467	Da dreht es sich beispielsweise um das „Frei sein.	Y	dreht	2425	    1,364	0.0029	446.4444	german_de_news_2014_00143899
+16468	Das Stück dreht sich um die Fragen: Wann ist man deutsch?	Y	dreht	2425	    1,364	0.0029	553.2727	german_de_news_2014_00203927
+16469	Im Fussball dreht sich alles um Geld.	Y	dreht	2425	    1,364	0.0029	745.1429	german_de_news_2013_00591915
+16470	Bitte warten alle Ergebnisse anzeigen Tsipras: Dreht Griechenland dem IWF den Rücken zu?	Y	dreht	2425	    1,364	0.0029	949	german_de_news_2015_00126980
+16471	Sie werden den Rock - sollte er es wieder einmal nötig haben - nicht mehr retten.	Y	rock	2425	    1,364	0.0029	438.3571	german_de_news_2013_00816787
+16472	Jetzt auf Rock zu setzen ist nicht ohne Risiko.	Y	rock	2425	    1,364	0.0029	509.3333	german_de_news_2013_00644844
+16473	Es ist ein Rock-Album – nicht mehr und nicht weniger.	Y	rock	2425	    1,364	0.0029	521	german_de_news_2014_00466981
+16474	Wie viele Frauen tragen da einen Rock?	Y	rock	2425	    1,364	0.0029	585.1429	german_de_news_2014_00926804
+16475	Eine Frau, die was auf sich hält, trägt einen Rock oder ein Kleid.	Y	rock	2425	    1,364	0.0029	614.3077	german_de_news_2015_00410896
+16476	So, und Menschen wie ich, die genießen diese Zeit.	Y	genießen	2426	    1,363	0.0029	317.2222	german_de_news_2013_00832144
+16477	Doch wird sie erreicht, bleibt keine Zeit zum Genießen.	Y	genießen	2426	    1,363	0.0029	416.3333	german_de_news_2015_00394184
+16478	Er will es genießen und sich selbst um das Kind kümmern.	Y	genießen	2426	    1,363	0.0029	523.1818	german_de_news_2013_00479684
+16479	Ich bin froh, jetzt ein anderes Leben genießen zu können.	Y	genießen	2426	    1,363	0.0029	617.4	german_de_news_2013_00569560
+16480	Die Damen und Herren genießen nur Luft.	Y	genießen	2426	    1,363	0.0029	1157	german_de_news_2014_00302326
+16481	Es dürfen gerne noch zehn, vielleicht 15 Kilogramm weniger sein“, ist ihr Wunsch.	Y	kilogramm	2427	    1,362	0.0029	516.75	german_de_news_2014_00458984
+16482	Das sind fünf Personen mit jeweils 80 Kilogramm.	Y	kilogramm	2427	    1,362	0.0029	568.5714	german_de_news_2013_00204629
+16483	Sie hofft auf bis zu 120 Kilogramm pro Jahr, je nach Wetter.	Y	kilogramm	2427	    1,362	0.0029	576.5455	german_de_news_2015_00770851
+16484	Das Gewicht ist den Angaben zufolge um bis zu 65 Kilogramm gesenkt worden.	Y	kilogramm	2427	    1,362	0.0029	672.5833	german_de_news_2014_00177395
+16485	Sie sind ca. acht Monate alt und 120 Kilogramm schwer.	Y	kilogramm	2427	    1,362	0.0029	719.5556	german_de_news_2013_00813545
+16486	Wie es genau zu dem Sturz kam, war zunächst nicht bekannt.	Y	sturz	2428	    1,361	0.0029	341	german_de_news_2014_00922584
+16487	Oder es kommt sogar zu einem Sturz.	Y	sturz	2428	    1,361	0.0029	419.1429	german_de_news_2013_00755093
+16488	Einen Sturz konnte er aber nicht mehr verhindern.	Y	sturz	2428	    1,361	0.0029	476.625	german_de_news_2014_00417976
+16489	Das Mädchen hatte sich bei dem Sturz leicht verletzt und rief sofort um Hilfe.	Y	sturz	2428	    1,361	0.0029	569.8571	german_de_news_2014_00190912
+16490	Ein dritter Mann starb nach einem Sturz.	Y	sturz	2428	    1,361	0.0029	1020.8571	german_de_news_2014_00411295
+16491	Mit dem Prozess am Landgericht ist der Fall aber nicht beendet.	Y	landgericht	2429	    1,360	0.0029	468.2727	german_de_news_2014_00670418
+16492	Vor dem Landgericht hat jetzt der Prozess begonnen.	Y	landgericht	2429	    1,360	0.0029	582.375	german_de_news_2014_00883058
+16493	Das Landgericht München lässt nun eine Anklage gegen den früheren Vorstand teilweise zu.	Y	landgericht	2429	    1,360	0.0029	703.8462	german_de_news_2013_00191749
+16494	Das Münchner Landgericht wird voraussichtlich im Juni über eine mögliche Anklage gegen den Formel-1-Chef informieren.	Y	landgericht	2429	    1,360	0.0029	790.125	german_de_news_2013_00194661
+16495	Über eine P+R-Anlage entscheidet das Landgericht.	Y	landgericht	2429	    1,360	0.0029	1126.375	german_de_news_2014_00831032
+16496	Die Spannung steigt, weil es für uns auch in den letzten Spielen noch um etwas geht.	Y	spannung	2429	    1,360	0.0029	297.625	german_de_news_2015_00364423
+16497	Mehr geht fast nicht, die Spannung könnte kaum größer sein.	Y	spannung	2429	    1,360	0.0029	502.1	german_de_news_2015_00653403
+16498	Immer wenn wir uns recht nahe standen, konnte ich die Spannung in der Luft fühlen.	Y	spannung	2429	    1,360	0.0029	572.8	german_de_news_2013_00597937
+16499	Wenigstens etwas Spannung dann vielleicht im letzten Rennen.	Y	spannung	2429	    1,360	0.0029	708.25	german_de_news_2013_00933248
+16500	Die Fehler sollen ab einer bestimmten Spannung auftreten.	Y	spannung	2429	    1,360	0.0029	963.375	german_de_news_2014_00312370
+16501	Er konnte ihr jedoch nicht mehr helfen und musste der Polizei zufolge selbst von einem zweiten 23-Jährigen aus dem Wasser gerettet werden.	Y	gerettet	2430	    1,359	0.0029	292	german_de_news_2014_00447192
+16502	Wenige Minuten später konnten auch die beiden anderen Personen aus dem Gebäude gerettet werden.	Y	gerettet	2430	    1,359	0.0029	448.7857	german_de_news_2013_00932684
+16503	Der gute Lauf am Freitag hatte dem Dax schließlich die Woche gerettet.	Y	gerettet	2430	    1,359	0.0029	556.25	german_de_news_2014_00251855
+16504	Es werden deutsche und französische Banken auf Kosten der griechischen und letztlich auch anderer Bevölkerung gerettet.	Y	gerettet	2430	    1,359	0.0029	684.0667	german_de_news_2015_00471524
+16505	Wieso müssen Pleite-Banken eigentlich gerettet werden?	Y	gerettet	2430	    1,359	0.0029	1119.5714	german_de_news_2015_00918545
+16506	In ein Restaurant, das es nicht mehr lange gibt und in dieser Form wohl auch nie wieder geben wird.	Y	restaurant	2430	    1,359	0.0029	255.8889	german_de_news_2015_00588146
+16507	Ich bin immer noch Profi und hin und wieder gehe ich in sein Restaurant essen und wenn er da ist, reden wir über Gott und die Welt.	Y	restaurant	2430	    1,359	0.0029	480.8261	german_de_news_2014_00546589
+16508	In das Restaurant wäre ich mit meinen Eltern auch gegangen.	Y	restaurant	2430	    1,359	0.0029	546.3	german_de_news_2015_00574682
+16509	Ein erstes Restaurant soll bereits im Juni in Köln starten.	Y	restaurant	2430	    1,359	0.0029	678.6	german_de_news_2013_00442758
+16510	Am Abend gehen wir in das Restaurant unseres Hotels.	Y	restaurant	2430	    1,359	0.0029	863.4444	german_de_news_2015_00042413
+16511	Zu Beginn der Woche waren noch 50 Dollar aufgerufen worden.	Y	aufgerufen	2431	    1,358	0.0029	430	german_de_news_2015_00941789
+16512	Er hatte zu einem Protest gegen die Regierung aufgerufen.	Y	aufgerufen	2431	    1,358	0.0029	582.5556	german_de_news_2015_00440379
+16513	Natürlich sei auch jeder Einzelne aufgerufen, kritisch zu bleiben.	Y	aufgerufen	2431	    1,358	0.0029	807.4444	german_de_news_2013_00730158
+16514	Alle Parteien werden aufgerufen, die Gewalt zu beenden.	Y	aufgerufen	2431	    1,358	0.0029	850	german_de_news_2015_00028271
+16515	Eine Gewerkschaft hatte zu dem Protest aufgerufen.	Y	aufgerufen	2431	    1,358	0.0029	970.4286	german_de_news_2014_00414419
+16516	In diesem Jahr ging der Sieg wieder an ein US-Boot.	Y	boot	2431	    1,358	0.0029	330.5455	german_de_news_2015_00584704
+16517	Wie schwer war es Russland trotz Krise mit der Ukraine ins Boot zu holen?	Y	boot	2431	    1,358	0.0029	475.8571	german_de_news_2015_00917732
+16518	Bald darauf, im Oktober 1939, bekam sie die Nachricht, dass das U-Boot schwer beschädigt und auf Grund gegangen sei.	Y	boot	2431	    1,358	0.0029	609.3684	german_de_news_2013_00095238
+16519	Bei jedem Rennen darf immer ein Gast mit aufs Boot.	Y	boot	2431	    1,358	0.0029	745.3	german_de_news_2014_00107431
+16520	Da sitzen wir übrigens im selben Boot.	Y	boot	2431	    1,358	0.0029	1049.7143	german_de_news_2014_00186635
+16521	Zwar ist auch dieses Mal der Flughafen das größte Problem auf dem Weg zu einem Bündnis.	Y	bündnis	2431	    1,358	0.0029	357.6875	german_de_news_2013_00996150
+16522	Auch am internationalen Bündnis gegen den IS wollte sich das Land bisher nicht beteiligen.	Y	bündnis	2431	    1,358	0.0029	502.4286	german_de_news_2014_00067044
+16523	Ich bin für das Bündnis Aktion Deutschland Hilft vor Ort.	Y	bündnis	2431	    1,358	0.0029	583.6	german_de_news_2013_00569573
+16524	Ist damit zu rechnen, dass dieses Bündnis bei Wahlen antreten wird?	Y	bündnis	2431	    1,358	0.0029	708.5455	german_de_news_2013_00637255
+16525	Ein neues Bündnis soll die Täter stoppen.	Y	bündnis	2431	    1,358	0.0029	885.8571	german_de_news_2013_00452169
+16526	«Wir sind definitiv nicht die Ersten», sagte er der dpa.	Y	definitiv	2431	    1,358	0.0029	298.8	german_de_news_2015_00929324
+16527	Noch hat sich der US-Präsident nicht definitiv entschieden.	Y	definitiv	2431	    1,358	0.0029	424.1111	german_de_news_2013_00740967
+16528	Es wird wohl nun definitiv ein Junge, laut Arzt.	Y	definitiv	2431	    1,358	0.0029	591.6667	german_de_news_2015_00472500
+16529	Ich habe mir definitiv keine Gedanken gemacht.	Y	definitiv	2431	    1,358	0.0029	682.5714	german_de_news_2014_00551609
+16530	Dieses Engagement meldet blick.ch als definitiv.	Y	definitiv	2431	    1,358	0.0029	1356.2857	german_de_news_2013_00378868
+16531	Die beiden Kabel haben einen Wert von knapp 500 Euro.	Y	kabel	2431	    1,358	0.0029	404.4444	german_de_news_2013_00308985
+16532	Schon einen Schritt weiter ist Kabel Deutschland.	Y	kabel	2431	    1,358	0.0029	494.7143	german_de_news_2013_00787262
+16533	2014 war dann das Netz von Kabel Deutschland betroffen.	Y	kabel	2431	    1,358	0.0029	549.625	german_de_news_2015_00003362
+16534	Das USB-Kabel ist zwei Meter lang.	Y	kabel	2431	    1,358	0.0029	794.4286	german_de_news_2013_00211626
+16535	Die Teile sind vielmehr über mehrere Kabel miteinander verbunden.	Y	kabel	2431	    1,358	0.0029	1028.4444	german_de_news_2013_00392466
+16536	Der Präsident verwies erneut darauf, dass die Türkei mehr als zwei Millionen Flüchtlinge aufgenommen habe.	Y	verwies	2431	    1,358	0.0029	428.4	german_de_news_2015_00263251
+16537	Sie verwies auf eine Pressekonferenz von Polizei und Staatsanwaltschaft am Donnerstag.	Y	verwies	2431	    1,358	0.0029	524.5455	german_de_news_2014_00786823
+16538	Eine Sprecherin verwies dabei auf die aktuell hohe Zahl der Flüchtlinge.	Y	verwies	2431	    1,358	0.0029	602.0909	german_de_news_2014_00420986
+16539	Zugleich verwies Putin darauf, dass Russland für die Ukraine seinen Markt offen halte.	Y	verwies	2431	    1,358	0.0029	667.3077	german_de_news_2013_00985149
+16540	Er verwies auf frühere Anti-Euro-Parteien, die gescheitert waren.	Y	verwies	2431	    1,358	0.0029	871.4	german_de_news_2013_00478377
+16541	Der Besitzer eines Autos kann anhand der Daten sehen, wo seine Frau, sein Sohn oder andere Personen unterwegs sind … und das Minute für Minute.	Y	anhand	2432	    1,357	0.0029	437.5	german_de_news_2014_00238925
+16542	Für die Zeit danach entscheiden sie anhand der Entwicklung.	Y	anhand	2432	    1,357	0.0029	489.4444	german_de_news_2013_00524410
+16543	Anhand der Zahlen könne sich jeder selbst einen Blick und eine Perspektive auf Leipzig suchen.	Y	anhand	2432	    1,357	0.0029	581.2	german_de_news_2013_00058459
+16544	Ich möchte nicht Historiker sein, der sich ein Urteil über die Vergangenheit anhand dessen, was die Medien von sich geben, bilden soll.	Y	anhand	2432	    1,357	0.0029	582.65	german_de_news_2014_00554921
+16545	Wir werden dafür sorgen, dass er anhand seiner Leistung bewertet werden muss.	Y	anhand	2432	    1,357	0.0029	627.5455	german_de_news_2014_00939468
+16546	Es ist ja nicht so, dass man in anderen Ländern den Sport nicht betreiben könnte.	Y	betreiben	2432	    1,357	0.0029	306.5	german_de_news_2014_00467587
+16547	Ich bin mir nicht sicher, ob das der richtige Weg ist, gute Forschung zu betreiben.	Y	betreiben	2432	    1,357	0.0029	491.8	german_de_news_2015_00541672
+16548	Wir sollten schauen, dass die Kinder mehr Sport betreiben.	Y	betreiben	2432	    1,357	0.0029	580.5556	german_de_news_2014_00937441
+16549	Sie betreiben jedoch nur Politik in eigener Sache.	Y	betreiben	2432	    1,357	0.0029	737.25	german_de_news_2015_00766764
+16550	Der Minister behauptet, solche Programme würden alle Länder betreiben.	Y	betreiben	2432	    1,357	0.0029	1114.1111	german_de_news_2013_00269399
+16551	Jetzt sieht sie aus wieder aus wie neu - genau wie eine zweite Figur auf dem Tor.	Y	figur	2432	    1,357	0.0029	346.5714	german_de_news_2014_00616620
+16552	Und dann bauen wir diese Figur auf aus dem Nichts.	Y	figur	2432	    1,357	0.0029	445.6	german_de_news_2014_00840043
+16553	Die Regierung in Bern indes macht bei all dem keine gute Figur.	Y	figur	2432	    1,357	0.0029	576	german_de_news_2014_00348111
+16554	In der Nähe Ernst Reuters nimmt er aktiv daran Anteil und wird selbst zur politischen Figur.	Y	figur	2432	    1,357	0.0029	670.25	german_de_news_2013_00614623
+16555	Eine schlechte Figur machte auch der Schiedsrichter.	Y	figur	2432	    1,357	0.0029	1074.4286	german_de_news_2014_00420209
+16556	Das ist natürlich einerseits richtig, andererseits ist die Sache aber auch nicht ganz so einfach.	Y	einerseits	2433	    1,356	0.0029	470.2857	german_de_news_2013_00187586
+16557	Sie hätten also einerseits ihre Stimme abgeben können und sich aber auch selbst zur Wahl stellen können.	Y	einerseits	2433	    1,356	0.0029	507.3125	german_de_news_2014_00779460
+16558	Immerhin sind die vielen Möglichkeiten, die das Internet bietet, einerseits eine Chance, andererseits ist es schwierig, sich zu entscheiden.	Y	einerseits	2433	    1,356	0.0029	587.5556	german_de_news_2013_00597325
+16559	Einerseits scheint Deutschland in der Moderne angekommen zu sein.	Y	einerseits	2433	    1,356	0.0029	848.3333	german_de_news_2014_00419794
+16560	Einerseits könne man dazu jederzeit Verhandlungen führen.	Y	einerseits	2433	    1,356	0.0029	1006.2857	german_de_news_2014_00419776
+16561	Er dürfte jedoch erheblich sein, so die Polizei.	Y	erheblich	2433	    1,356	0.0029	417	german_de_news_2014_00440995
+16562	Insgesamt seien sechs Personen zum Teil erheblich verletzt worden.	Y	erheblich	2433	    1,356	0.0029	521.5556	german_de_news_2014_00601353
+16563	Die Herausforderungen, vor denen wir stehen, sind erheblich.	Y	erheblich	2433	    1,356	0.0029	667.875	german_de_news_2014_00322507
+16564	Auch in den kommenden Tagen bleibe die Gefahr meist erheblich.	Y	erheblich	2433	    1,356	0.0029	736.3	german_de_news_2013_00073478
+16565	Dabei wurden die beiden Fahrzeuge erheblich beschädigt.	Y	erheblich	2433	    1,356	0.0029	931.1429	german_de_news_2013_00142782
+16566	Das könnte Folgen für die Sicherheit der Menschen haben, die beim Laufen SMS schreiben.»	Y	sms	2433	    1,356	0.0029	398.9231	german_de_news_2014_00188397
+16567	An diesen 14 Zeichen erkennen Sie, dass Sie glücklich sind Über die Smartphone-App für Android kann Facebook jetzt die SMS seiner Nutzer lesen Vielen Dank!	Y	sms	2433	    1,356	0.0029	506.2609	german_de_news_2014_00052302
+16568	… Lesen Sie hier das ganze SMS-Interview!	Y	sms	2433	    1,356	0.0029	639.4286	german_de_news_2014_00643523
+16569	Nach meinem technischen Verständnis geht es nicht, über eine SMS die Kontrolle über ein Handy zu übernehmen.	Y	sms	2433	    1,356	0.0029	709.6875	german_de_news_2013_00725688
+16570	Die beiden stehen im regen SMS-Kontakt.	Y	sms	2433	    1,356	0.0029	845.1429	german_de_news_2015_00295131
+16571	Für die meisten Menschen dort, kann das ja nur eine Verbesserung sein.	Y	verbesserung	2433	    1,356	0.0029	287.25	german_de_news_2014_00502641
+16572	Eine Verbesserung über die Zeit ist zumindest nicht ausgeschlossen.	Y	verbesserung	2433	    1,356	0.0029	554.2222	german_de_news_2014_00421951
+16573	Eine Verbesserung des Service ist ja kaum zu erwarten, wenn das ein Österreicher übernimmt.	Y	verbesserung	2433	    1,356	0.0029	618.0714	german_de_news_2015_00418631
+16574	Trotz der jüngsten Verbesserung sei die Lage am Arbeitsmarkt insgesamt weiter kritisch.	Y	verbesserung	2433	    1,356	0.0029	796.25	german_de_news_2013_00853972
+16575	Eine Verbesserung der wirtschaftlichen Lage Russlands ist momentan kaum in Sicht.	Y	verbesserung	2433	    1,356	0.0029	906.1818	german_de_news_2014_00421948
+16576	Ich kenne mich noch nicht so aus. 2. Was würden Sie an sich ändern, wenn Sie es könnten?	Y	kenne	2434	    1,354	0.0029	281.1875	german_de_news_2014_00554003
+16577	Kenne keine Serie in nun über 40 Jahren der das gelungen ist.	Y	kenne	2434	    1,354	0.0029	460.3636	german_de_news_2015_00618223
+16578	Aber von der Realität her, wie ich sie kenne, war das ein sehr guter Besuch heute.	Y	kenne	2434	    1,354	0.0029	521.25	german_de_news_2013_00018705
+16579	Ich kenne die Stadt, kenne die Umgebung und die Menschen.	Y	kenne	2434	    1,354	0.0029	666.8571	german_de_news_2013_00578470
+16580	Alkohol kenne keine Grenzen und mache keine Unterschiede.	Y	kenne	2434	    1,354	0.0029	1413.7143	german_de_news_2014_00024522
+16581	Am Vortag waren es insgesamt mehr als 5800 gewesen.	Y	vortag	2434	    1,354	0.0029	398.875	german_de_news_2015_00048906
+16582	Das habe er auch dem russischen Präsidenten Wladimir Putin am Vortag bei einem Treffen in Frankreich gesagt.	Y	vortag	2434	    1,354	0.0029	547.5882	german_de_news_2014_00178539
+16583	Das waren vier Cent weniger als am Vortag.	Y	vortag	2434	    1,354	0.0029	608	german_de_news_2013_00214267
+16584	Das waren 30 Cent weniger als am Vortag.	Y	vortag	2434	    1,354	0.0029	669.4286	german_de_news_2014_00209953
+16585	Sie konnten erfolgreich Platz 14 vom Vortag verteidigen.	Y	vortag	2434	    1,354	0.0029	932.2857	german_de_news_2013_00810704
+16586	Natürlich ist man aber nicht mehr ganz allein in der Entscheidung - man hat einen zusätzlichen Eigentümer im Unternehmen.	Y	eigentümer	2435	    1,353	0.0029	382.7059	german_de_news_2014_00698132
+16587	Ich bin der Eigentümer einer großen Gruppe.	Y	eigentümer	2435	    1,353	0.0029	498	german_de_news_2013_00569249
+16588	Es werde bald mit dem neuen Eigentümer gesprochen.	Y	eigentümer	2435	    1,353	0.0029	622.375	german_de_news_2014_00475809
+16589	Hinzu kommen Eigentümer, die auf einen Verkauf nicht angewiesen sind.	Y	eigentümer	2435	    1,353	0.0029	730.9	german_de_news_2013_00565011
+16590	Der chinesische Eigentümer steckt in finanziellen Schwierigkeiten.	Y	eigentümer	2435	    1,353	0.0029	1508.1429	german_de_news_2014_00241458
+16591	Aber das ist ja kein Grund, um jetzt nicht auch zuhause auf Sieg zu spielen.	Y	zuhause	2435	    1,353	0.0029	272.2667	german_de_news_2013_00011331
+16592	Das kann nur jemand leisten, der dann auch zuhause ist.	Y	zuhause	2435	    1,353	0.0029	471.1	german_de_news_2015_00186438
+16593	Wir sind als Familie in Zürich zuhause.	Y	zuhause	2435	    1,353	0.0029	548.5714	german_de_news_2014_00936244
+16594	Ich bin sehr froh, wieder Zuhause zu sein.	Y	zuhause	2435	    1,353	0.0029	632	german_de_news_2015_00541939
+16595	Zuhause könne man auf die jeweiligen Lebensmittel verzichten.	Y	zuhause	2435	    1,353	0.0029	1070.25	german_de_news_2013_00985429
+16596	Doch wenn man die Wahl hat, habe die Entscheidung auch etwas zu bedeuten.	Y	bedeuten	2436	    1,352	0.0029	332.1667	german_de_news_2015_00393854
+16597	Für uns sollte das keine großen Probleme bedeuten.	Y	bedeuten	2436	    1,352	0.0029	443.75	german_de_news_2015_00502652
+16598	Was bedeuten diese für die Zukunft Europas?	Y	bedeuten	2436	    1,352	0.0029	608.2857	german_de_news_2015_00883995
+16599	Vor allem um Familien, die unsere Zukunft bedeuten und sichern.	Y	bedeuten	2436	    1,352	0.0029	661.7	german_de_news_2015_00873180
+16600	Das würde bedeuten, dass weder die Separatisten noch die ukrainische Armee ausreichend Kräfte für eine Offensive hatten.	Y	bedeuten	2436	    1,352	0.0029	996.125	german_de_news_2014_00212504
+16601	Schön wäre es auch noch, die Einheiten zu wissen.	Y	einheiten	2436	    1,352	0.0029	438.1111	german_de_news_2013_00788611
+16602	Mehrere Einheiten der Polizei sind auf der Suche nach dem Täter.	Y	einheiten	2436	    1,352	0.0029	484	german_de_news_2014_00659135
+16603	Das entspricht nahezu zwei Millionen weniger Einheiten als noch vor einem Jahr.	Y	einheiten	2436	    1,352	0.0029	533.9167	german_de_news_2013_00173607
+16604	Dazu kommen eine Reihe neuer Einheiten sowie teils größere Änderungen an den bekannten.	Y	einheiten	2436	    1,352	0.0029	871.7692	german_de_news_2015_00216514
+16605	Erst langsam bilden sich größere Einheiten heraus.	Y	einheiten	2436	    1,352	0.0029	1210.1429	german_de_news_2013_00476282
+16606	Dabei ist das Problem der Überwachung in den USA nicht erst seit ein paar Tagen bekannt.	Y	überwachung	2436	    1,352	0.0029	287.125	german_de_news_2013_00140029
+16607	Neue Informationen zeigen nun, dass die Überwachung auch bei uns massiv war.	Y	überwachung	2436	    1,352	0.0029	479.1667	german_de_news_2013_00734339
+16608	Noch Zweifel, ob Überwachung wirklich so eine gute Idee ist?	Y	überwachung	2436	    1,352	0.0029	569.6	german_de_news_2015_00702461
+16609	Die britische Regierung nutzt den Bericht nun, um mehr Überwachung zu fordern.	Y	überwachung	2436	    1,352	0.0029	689.5	german_de_news_2014_00300255
+16610	Überwachung Die digitale Revolution bringt mehr Kontrolle als Freiheit.	Y	überwachung	2436	    1,352	0.0029	1136.8889	german_de_news_2013_00859006
+16611	Das, sagt er, sei technisch gar nicht so einfach gewesen.	Y	technisch	2437	    1,351	0.0029	345	german_de_news_2014_00197042
+16612	Sie sind technisch fit und vertrauen darauf, dass die deutsche Polizei es nicht ist.	Y	technisch	2437	    1,351	0.0029	488.2857	german_de_news_2013_00814027
+16613	Und wir spielen auf einem technisch guten Niveau.	Y	technisch	2437	    1,351	0.0029	590.125	german_de_news_2014_00854041
+16614	Was technisch getan werden kann, wird getan.	Y	technisch	2437	    1,351	0.0029	704.3333	german_de_news_2013_00924427
+16615	Hier hält Sony definitiv Wort, ist technisch stark aufgestellt.	Y	technisch	2437	    1,351	0.0029	1163.8889	german_de_news_2014_00538373
+16616	Ich glaube, dass er den zweiten Mann, der von der Seite kam, nicht gesehen und sich den Ball deswegen ein bisschen zu weit vorgelegt hat.	Y	vorgelegt	2437	    1,351	0.0029	393.8696	german_de_news_2013_00573560
+16617	Erst kürzlich hat die Telekom ihre Zahlen für das zweite Quartal vorgelegt.	Y	vorgelegt	2437	    1,351	0.0029	576.6667	german_de_news_2015_00448745
+16618	Warum werden sie von Kiew nicht vorgelegt?	Y	vorgelegt	2437	    1,351	0.0029	645	german_de_news_2014_00892084
+16619	Bis Mai würden Pläne vorgelegt, wie man alle Einheiten für Frauen öffnen könne.	Y	vorgelegt	2437	    1,351	0.0029	756.6923	german_de_news_2013_00126234
+16620	Das haben wir als Vorschlag vergangene Woche vorgelegt.	Y	vorgelegt	2437	    1,351	0.0029	840.125	german_de_news_2015_00177910
+16621	Der EL-Platz geht dann an den 7. der Bundesliga.	Y	el	2438	    1,348	0.0029	442	german_de_news_2015_00244224
+16622	El Baradei sagte der „Bild“-Zeitung vom Montag: „Ich kann und will mir das nicht vorstellen.	Y	el	2438	    1,348	0.0029	566.625	german_de_news_2014_00434739
+16623	Für Augsburg dagegen ist schon die Teilnahme an der EL ein Erfolg und auch Sie haben eine Chance, diese Gruppe zu überstehen.	Y	el	2438	    1,348	0.0029	569.6364	german_de_news_2015_00493939
+16624	Aber in der EL dieses Jahr wäre der BVB sicher ein Topkandidat für den Titel.	Y	el	2438	    1,348	0.0029	630.2857	german_de_news_2013_00015797
+16625	Wir wollen wissen, was passiert ist, wie es zu einer Ansteckung kommen konnte und wie die Lage jetzt ist“, sagte ein EU-Sprecher gegenüber der Tageszeitung „El Mundo“.	Y	el	2438	    1,348	0.0029	638.9231	german_de_news_2014_00940692
+16626	Ich glaube, dass man ihnen in einem kleinen Land besser helfen kann und genauer sieht, was sie brauchen.	Y	genauer	2438	    1,348	0.0029	379.5	german_de_news_2014_00549865
+16627	Aber bei der Deutschen Bahn schauen wir schon genauer hin.	Y	genauer	2438	    1,348	0.0029	531.9	german_de_news_2013_00010582
+16628	Wie das genauer Funktioniert ist dabei sehr interessant…	Y	genauer	2438	    1,348	0.0029	668.75	german_de_news_2013_00949160
+16629	Wir werden uns die Zahlen der Telekom im Laufe des Tages genauer ansehen und entsprechend berichten.	Y	genauer	2438	    1,348	0.0029	754.4375	german_de_news_2015_00932614
+16630	Der ­Verein wird im Verlauf des heutigen ­Tages genauer informieren.	Y	genauer	2438	    1,348	0.0029	1031.7	german_de_news_2015_00273473
+16631	Die meisten, die sich nur entfernt mit Spielen beschäftigen und auf Social Media unterwegs waren, haben davon gehört.	Y	social	2438	    1,348	0.0029	595.4706	german_de_news_2014_00335293
+16632	Warum sind Sie nicht selbst auf Social Media aktiv?	Y	social	2438	    1,348	0.0029	672.7778	german_de_news_2014_00891827
+16633	Die Deutsche Bahn und die Telekom haben ebenfalls eigene Social-Media-Teams.	Y	social	2438	    1,348	0.0029	719.1818	german_de_news_2014_00303214
+16634	Für Social Media-Nutzer: Besuchen Sie Bayer auf Facebook unter: www.facebook.com/Bayer Folgen Sie Bayer auf Twitter unter: twitter.	Y	social	2438	    1,348	0.0029	910.9286	german_de_news_2014_00507365
+16635	Social Media: Anzahl der +1 auf der Website.	Y	social	2438	    1,348	0.0029	1269.3333	german_de_news_2014_00791910
+16636	Freilich ist sie so viel im Gespräch wie schon lange nicht.	Y	freilich	2439	    1,347	0.0029	347	german_de_news_2014_00496102
+16637	Es dürfte freilich nicht mehr als die Ruhe vor dem nächsten Sturm sein.	Y	freilich	2439	    1,347	0.0029	538.4615	german_de_news_2013_00482208
+16638	Der deutsche Außenminister freilich scheint das anders zu sehen.	Y	freilich	2439	    1,347	0.0029	601.2222	german_de_news_2014_00242469
+16639	Wasser - das musste freilich erst einmal vorhanden sein.	Y	freilich	2439	    1,347	0.0029	706.5	german_de_news_2014_00896422
+16640	Der letzte Beitrag klingt freilich wie ein Abschied.	Y	freilich	2439	    1,347	0.0029	1056.375	german_de_news_2013_00267065
+16641	Das wissen wir aus der Geschichte islamischer Staaten wie aus der Geschichte Europas.	Y	islamischer	2439	    1,347	0.0029	529.1	german_de_news_2015_00211519
+16642	Islamischer Staat oder kurz IS - mit diesem Namen konnte noch vor einem Jahr kaum jemand etwas anfangen.	Y	islamischer	2439	    1,347	0.0029	543.4118	german_de_news_2015_00601691
+16643	Seit wann ist die Türkei ein Islamischer Staat?	Y	islamischer	2439	    1,347	0.0029	601.5	german_de_news_2013_00800378
+16644	Zum ersten Mal steht in Deutschland ein Mitglied der Terrormiliz „Islamischer Staat“ vor Gericht.	Y	islamischer	2439	    1,347	0.0029	602.5714	german_de_news_2014_00958257
+16645	Islamisten mit Verbindungen zur Terrormiliz „islamischer Staat“ haben sich zu der Tat bekannt und ein Video veröffentlicht, auf dem der Mann zu sehen ist.	Y	islamischer	2439	    1,347	0.0029	613.7273	german_de_news_2014_00607356
+16646	In den kommenden Tagen soll der Sommer Einzug halten und auch bleiben.	Y	einzug	2440	    1,346	0.0029	398	german_de_news_2013_00609165
+16647	Im nächsten Spiel geht es um den Einzug ins Halbfinale.	Y	einzug	2440	    1,346	0.0029	556.5	german_de_news_2013_00598931
+16648	Ich glaube, dass wir eine echte Chance auf den Einzug in die K.-o.	Y	einzug	2440	    1,346	0.0029	609.8571	german_de_news_2013_00573635
+16649	Mehr und mehr hält der Winter Einzug.	Y	einzug	2440	    1,346	0.0029	690.5	german_de_news_2014_00660484
+16650	Als großer Fan freut mich der Einzug ins Halbfinale.	Y	einzug	2440	    1,346	0.0029	1065.3333	german_de_news_2014_00035259
+16651	Es handelt sich dabei um den 51-jährigen Bewohner des Hauses.	Y	hauses	2440	    1,346	0.0029	559.7	german_de_news_2015_00459732
+16652	Die 45 Bewohner des Hauses mussten in der Nacht auf Mittwoch ihre Wohnungen verlassen.	Y	hauses	2440	    1,346	0.0029	641.4615	german_de_news_2013_00297828
+16653	In der Pflicht sieht er hier nicht nur die Klinik-Leitung, sondern alle Verantwortlichen des Hauses.	Y	hauses	2440	    1,346	0.0029	725.1875	german_de_news_2013_00614949
+16654	Dort wächst der Widerstand gegen das Abkommen, vor allem aber gegen die Haltung des Weißen Hauses.	Y	hauses	2440	    1,346	0.0029	839.1333	german_de_news_2015_00396838
+16655	Der Eigentümer des rechten Hauses wollte das verhindern.	Y	hauses	2440	    1,346	0.0029	956.5	german_de_news_2014_00244238
+16656	So will es die Verfassung, die dem Präsident viel, aber nicht alle Macht gibt.	Y	verfassung	2440	    1,346	0.0029	263.8462	german_de_news_2014_00804013
+16657	Ich kann nicht sehen, wann dieser Mann das letzte mal unsere Verfassung gelesen hat.	Y	verfassung	2440	    1,346	0.0029	520.0714	german_de_news_2013_00578280
+16658	Acht Stunden politische Bildung für jeden schreibt die Verfassung vor. Pro Tag.	Y	verfassung	2440	    1,346	0.0029	644.8333	german_de_news_2013_00022066
+16659	Die UNO-Soldaten seien „in guter Verfassung“, erklärte die UNO am Donnerstag an ihrem Sitz in New York.	Y	verfassung	2440	    1,346	0.0029	744.1333	german_de_news_2014_00376799
+16660	Dürften Sie, sobald die Verfassung geändert wäre..	Y	verfassung	2440	    1,346	0.0029	1082.4286	german_de_news_2014_00405307
+16661	Damit stellen beide Partner sicher, dass sie im Alter gut versorgt sind - mit der großen Liebe an ihrer Seite oder auch ohne sie.	Y	versorgt	2440	    1,346	0.0029	335.2273	german_de_news_2015_00153598
+16662	Ich bin der Meinung, daß die meisten Frauen ihr Kind vor allem gut versorgt wissen wollen.	Y	versorgt	2440	    1,346	0.0029	463	german_de_news_2015_00541054
+16663	«Das Baby wurde nicht versorgt», sagte ein Sprecher der Staatsanwaltschaft am Montag.	Y	versorgt	2440	    1,346	0.0029	571.5833	german_de_news_2013_00167963
+16664	Dann auch sollen endlich die PlayStation 4 und die Xbox One versorgt werden.	Y	versorgt	2440	    1,346	0.0029	677.9091	german_de_news_2015_00157370
+16665	Seither wird Smart von seiner Mutter gut versorgt.	Y	versorgt	2440	    1,346	0.0029	984.125	german_de_news_2015_00761326
+16666	Die EU hat sich noch nicht auf ein solches einigen können.	Y	solches	2441	    1,345	0.0029	307.5455	german_de_news_2015_00308464
+16667	Es wäre besser gewesen, ein solches Glück wie Frankreich zu haben.	Y	solches	2441	    1,345	0.0029	437.5455	german_de_news_2013_00499072
+16668	Leider habe die Gemeinde keine Möglichkeit, auf ein solches Verfahren Einfluss zu nehmen.	Y	solches	2441	    1,345	0.0029	610.1538	german_de_news_2013_00671271
+16669	Mit Österreich steht ein solches Abkommen bislang aus.	Y	solches	2441	    1,345	0.0029	682.75	german_de_news_2013_00706617
+16670	Kann ein solches Bündnis Hessen nach vorne bringen?	Y	solches	2441	    1,345	0.0029	1119.625	german_de_news_2013_00650664
+16671	Was wird es in Deutschland an neuen Entwicklungen geben?	Y	entwicklungen	2442	    1,343	0.0029	337.7778	german_de_news_2013_00924945
+16672	Er ist auf der nationalen aber auch internationalen Bühne sehr aktiv und ist sehr interessiert an den Entwicklungen unserer Zeit.	Y	entwicklungen	2442	    1,343	0.0029	548.9444	german_de_news_2013_00468085
+16673	Was sich im neuen Jahr ändert: die Entwicklungen im Überblick.	Y	entwicklungen	2442	    1,343	0.0029	704.5556	german_de_news_2015_00888216
+16674	Die aktuellen Entwicklungen lesen Sie im Live-Ticker von FOCUS Online.	Y	entwicklungen	2442	    1,343	0.0029	767.1818	german_de_news_2013_00300185
+16675	Auf dem Berliner Arbeitsmarkt rechnet Schwarz mit positiven Entwicklungen.	Y	entwicklungen	2442	    1,343	0.0029	1114.1111	german_de_news_2013_00079416
+16676	Und der Gegner versucht gezielt, mich aus dem Spiel zu nehmen.	Y	gezielt	2442	    1,343	0.0029	444.5455	german_de_news_2013_00869443
+16677	Achten Sie gezielt auf diesen ersten Moment, nachdem Sie jemand kritisiert hat – und machen Sie einfach mal nichts.	Y	gezielt	2442	    1,343	0.0029	553.875	german_de_news_2014_00020019
+16678	Dazu wurde das Team noch einmal gezielt verstärkt.	Y	gezielt	2442	    1,343	0.0029	608.25	german_de_news_2014_00218077
+16679	Inklusive Schulen sollen deswegen allen Kindern offen stehen und denen, die mehr Förderung brauchen, gezielt helfen.	Y	gezielt	2442	    1,343	0.0029	831.4375	german_de_news_2013_00625364
+16680	Unternehmen wie Amazon.com und Facebook empfehlen ihren Nutzern gezielt weitere Bücher beziehungsweise Freunde.	Y	gezielt	2442	    1,343	0.0029	1045.5714	german_de_news_2013_00888574
+16681	Ob das der Fall ist, wird sich vor dem 4. September wohl nicht klären.	Y	klären	2442	    1,343	0.0029	275.6923	german_de_news_2013_00750946
+16682	Es gibt noch einiges zu klären, bislang steht noch nicht fest, wo das Spiel stattfinden wird.“	Y	klären	2442	    1,343	0.0029	497.5333	german_de_news_2013_00486793
+16683	Allerdings konnten sie mit ihren Antworten nicht die offenen Fragen klären.	Y	klären	2442	    1,343	0.0029	568.7273	german_de_news_2013_00029259
+16684	Wir klären, ob der er hält, was er verspricht.	Y	klären	2442	    1,343	0.0029	642.25	german_de_news_2013_00964155
+16685	Einfacher lassen sich offene Fragen nicht klären.	Y	klären	2442	    1,343	0.0029	1092.7143	german_de_news_2013_00446237
+16686	Da bin ich mir nicht sicher, ob es eine gute Idee ist, sich beim Bezahlen auf sein Smartphone und damit dessen Akku zu verlassen!	Y	akku	2443	    1,341	0.0029	343.7917	german_de_news_2015_00142512
+16687	Nur der Akku ist etwas stärker und die Kamera über dem Display etwas besser.	Y	akku	2443	    1,341	0.0029	494.5385	german_de_news_2013_00747193
+16688	Der Akku war bereits nach einem Tag leer.	Y	akku	2443	    1,341	0.0029	609	german_de_news_2015_00234182
+16689	Außerdem hält der Akku deutlich länger durch.	Y	akku	2443	    1,341	0.0029	631.4286	german_de_news_2015_00092176
+16690	Re: Was liefert der Akku? 230V Wechsel?	Y	akku	2443	    1,341	0.0029	1092.5714	german_de_news_2014_00746976
+16691	Warum der Schritt in die deutsche Provinz?	Y	provinz	2443	    1,341	0.0029	521.7143	german_de_news_2015_00882522
+16692	Zunächst zieht sie mit ihrem Vater durch die Provinz.	Y	provinz	2443	    1,341	0.0029	547.1111	german_de_news_2013_00991073
+16693	Wobei es in Bayern ja gar keine richtige Provinz gibt.	Y	provinz	2443	    1,341	0.0029	588.2	german_de_news_2014_00941715
+16694	SPIEGEL ONLINE: Welche Rolle spielt Fußball in der russischen Provinz?	Y	provinz	2443	    1,341	0.0029	648.5	german_de_news_2015_00797759
+16695	Ich komme gerade aus der Provinz, ja.	Y	provinz	2443	    1,341	0.0029	678.2857	german_de_news_2014_00554054
+16696	Darum sollen bei den letzten fünf Songs alle noch mal alles geben.	Y	songs	2443	    1,341	0.0029	363.8333	german_de_news_2014_00164289
+16697	Hier mit zwei Songs aus dem Stück.	Y	songs	2443	    1,341	0.0029	530.2857	german_de_news_2014_00539116
+16698	Er hat dann vier der neuen Songs produziert.	Y	songs	2443	    1,341	0.0029	619.375	german_de_news_2013_00466096
+16699	Welche Songs zum Thema Himmel fallen Ihnen ein?	Y	songs	2443	    1,341	0.0029	807.875	german_de_news_2014_00904691
+16700	Genau das Gegenteil liefern leider die folgenden Songs.	Y	songs	2443	    1,341	0.0029	1083.625	german_de_news_2015_00510144
+16701	Sie habe eben einfach das ganz deutliche Gefühl, dass er der Richtige für sie sei.	Y	deutliche	2444	    1,340	0.0029	444.4286	german_de_news_2015_00769031
+16702	Wenn man die Griechen fragt, ob sie in der Eurozone bleiben wollen, sagt immer noch eine deutliche Mehrheit Ja.	Y	deutliche	2444	    1,340	0.0029	569.4737	german_de_news_2014_00910469
+16703	Es gibt deutliche Unterschiede zwischen den beiden.	Y	deutliche	2444	    1,340	0.0029	747.4286	german_de_news_2015_00457584
+16704	Wenn der SC Freiburg in Dortmund antreten muss, setzt es meist eine deutliche Niederlage.	Y	deutliche	2444	    1,340	0.0029	886.9286	german_de_news_2014_00907200
+16705	Richter und Verteidiger fanden deutliche Worte zum Vorgehen der Ermittler.	Y	deutliche	2444	    1,340	0.0029	1218.6	german_de_news_2015_00739115
+16706	Nur über alle Grenzen der Branche hinweg, könne man heute noch erfolgreich sein.	Y	hinweg	2444	    1,340	0.0029	508.1538	german_de_news_2013_00749352
+16707	Wir müssen einfach über das ganze Wochenende hinweg ruhig bleiben und sehen, was passiert.	Y	hinweg	2444	    1,340	0.0029	553.2857	german_de_news_2015_00927994
+16708	Die Spieler sind das über einige Jahre hinweg gewohnt.	Y	hinweg	2444	    1,340	0.0029	626.5556	german_de_news_2015_00364904
+16709	Die Post hat ihr eigenes De-Mail-Produkt über ein Jahr hinweg entwickelt.	Y	hinweg	2444	    1,340	0.0029	693.3846	german_de_news_2013_00363207
+16710	Der Papst könnte sich darüber hinweg setzen.	Y	hinweg	2444	    1,340	0.0029	768.4286	german_de_news_2015_00262204
+16711	«Ich habe ja eine ganz andere Stimme als vor 25 Jahren», sagt der Sänger.	Y	sänger	2444	    1,340	0.0029	372.0769	german_de_news_2015_00546115
+16712	Zudem konnten zwei neue Sänger gewonnen werden.	Y	sänger	2444	    1,340	0.0029	598.1429	german_de_news_2013_00980806
+16713	Dabei sei er als Sänger auf das Publikum angewiesen.	Y	sänger	2444	    1,340	0.0029	698	german_de_news_2014_00141136
+16714	Dies ließen sich die Sänger aber mit 250 Euro pro Fan extra bezahlen.	Y	sänger	2444	    1,340	0.0029	860	german_de_news_2015_00363187
+16715	Nun ist der griechische Sänger in Athen gestorben.	Y	sänger	2444	    1,340	0.0029	1022.875	german_de_news_2015_00704713
+16716	Ich bin zuversichtlich, dass ich schon bald wieder bei der Mannschaft sein werde“, schrieb der 28-Jährige auf seiner Facebook-Seite.	Y	zuversichtlich	2444	    1,340	0.0029	340.6667	german_de_news_2013_00570841
+16717	Ich bin zuversichtlich, dass wir auch in diesem Jahr weiter wachsen werden“.	Y	zuversichtlich	2444	    1,340	0.0029	439.75	german_de_news_2013_00570843
+16718	Aber am Ende des Tages bin ich zuversichtlich, dass der Druck der nationalen und internationalen Öffentlichkeit zum Ziel führen wird.	Y	zuversichtlich	2444	    1,340	0.0029	515.7895	german_de_news_2015_00009119
+16719	Schon da - rund eine Stunde vor dem Abschluss - zeigte sich der Berater zuversichtlich.	Y	zuversichtlich	2444	    1,340	0.0029	628.2308	german_de_news_2013_00786965
+16720	Immerhin bezeichnet er Red Bull als „zuversichtlich“.	Y	zuversichtlich	2444	    1,340	0.0029	1060.1429	german_de_news_2013_00596757
+16721	Gar nicht gut ging es dann für die 16-jährige Anna.	Y	anna	2445	    1,339	0.0029	346.5	german_de_news_2013_00531331
+16722	Und mit „Anna“ liegt er hin und wieder Seite an Seite im Wasser.	Y	anna	2445	    1,339	0.0029	391.0909	german_de_news_2013_00876294
+16723	Nach der Show heißt es für mich Augen zu und ab zu Anna.	Y	anna	2445	    1,339	0.0029	453.4167	german_de_news_2013_00721919
+16724	Wie sieht die Praxis im St.-Anna-Krankenhaus aus?	Y	anna	2445	    1,339	0.0029	702.8889	german_de_news_2014_00925796
+16725	Na ja : Vielleicht wächst Anna ja an ihrer neuen Aufgabe.	Y	anna	2445	    1,339	0.0029	927.4444	german_de_news_2015_00688898
+16726	Zu dem Zeitpunkt waren auch zwei Arbeiter dort, die sich selbst in Sicherheit gebracht haben.	Y	arbeiter	2445	    1,339	0.0029	347.3333	german_de_news_2013_00982694
+16727	Der Arbeiter hat bei seinem Einsatz unter Wasser Probleme bekommen.	Y	arbeiter	2445	    1,339	0.0029	467.3	german_de_news_2015_00235677
+16728	Damals hatte der Schutz der Arbeiter noch einen Wert.	Y	arbeiter	2445	    1,339	0.0029	581.25	german_de_news_2014_00150438
+16729	Die Gewerkschaft sprach in einer Mitteilung von einem „Sieg für die Arbeiter“.	Y	arbeiter	2445	    1,339	0.0029	661.8182	german_de_news_2015_00317417
+16730	Durch den Sturz zog sich der Arbeiter schwere Verletzungen zu.	Y	arbeiter	2445	    1,339	0.0029	906	german_de_news_2015_00400953
+16731	Aber auch einen Monat später ist die LTE-Variante noch immer nicht zu haben.	Y	lte	2445	    1,339	0.0029	400.7143	german_de_news_2014_00009150
+16732	Unklar bleibt auch, ob Apple künftig auch noch iOS 7-Nutzern die Möglichkeit bietet, das LTE-Angebot von E-Plus nutzen zu können.	Y	lte	2445	    1,339	0.0029	584.1905	german_de_news_2014_00855415
+16733	Zudem sollen sie Tipps rund um das Thema LTE und dessen Vorteile erhalten.	Y	lte	2445	    1,339	0.0029	620.8462	german_de_news_2015_00944493
+16734	Für die schnelle Internet-Kommunikation steht dem Nutzer LTE zur Verfügung.	Y	lte	2445	    1,339	0.0029	728.8182	german_de_news_2015_00497862
+16735	In Städten bietet der Anbieter inzwischen meist ebenfalls LTE.	Y	lte	2445	    1,339	0.0029	825.2222	german_de_news_2015_00596965
+16736	Was bei Steinbrück wohl nicht der Fall ist.	Y	steinbrück	2445	    1,339	0.0029	378.25	german_de_news_2013_00919233
+16737	Das habe Frau Steinbrück nicht gelten lassen wollen.	Y	steinbrück	2445	    1,339	0.0029	532.625	german_de_news_2013_00180283
+16738	Wie hat Steinbrück auf dem Foto der SZ gezeigt?	Y	steinbrück	2445	    1,339	0.0029	663.1111	german_de_news_2013_00952481
+16739	5. TV-Duell „Steinbrück kann am Sonntag nur verlieren	Y	steinbrück	2445	    1,339	0.0029	761.125	german_de_news_2013_00007176
+16740	Steinbrück ist doch sowieso perfekt darauf vorbereitet.	Y	steinbrück	2445	    1,339	0.0029	1261	german_de_news_2013_00841288
+16741	Mehr als fünf Millionen Menschen pro Woche sollen auf diese Art erfasst werden.	Y	erfasst	2446	    1,338	0.0029	328.5385	german_de_news_2013_00688595
+16742	Seit 21 Jahren, seit diese Daten erfasst werden, ist das noch keiner Mannschaft passiert.	Y	erfasst	2446	    1,338	0.0029	455.6667	german_de_news_2014_00768103
+16743	Er wurde vermutlich beim Spielen von einem Zug erfasst.	Y	erfasst	2446	    1,338	0.0029	588.7778	german_de_news_2014_00457677
+16744	Die Presse ist davon längst erfasst worden.	Y	erfasst	2446	    1,338	0.0029	714	german_de_news_2015_00343347
+16745	Klein-Lkw von Zug erfasst: „Knapp am Tod vorbei	Y	erfasst	2446	    1,338	0.0029	1058.6667	german_de_news_2013_00657479
+16746	Ein 63-Jähriger erlitt in der Nacht auf Dienstag auf dem..	Y	erlitt	2446	    1,338	0.0029	480.4444	german_de_news_2014_00408992
+16747	Und doch erlitt er dabei eine Verletzung.	Y	erlitt	2446	    1,338	0.0029	705.8571	german_de_news_2014_00844194
+16748	Nach Angaben der Polizei erlitt der Mann nur leichte Verletzungen.	Y	erlitt	2446	    1,338	0.0029	783.6667	german_de_news_2013_00715627
+16749	Der 68 Jahre alte Pilot erlitt dabei schwere Verletzungen.	Y	erlitt	2446	    1,338	0.0029	953.75	german_de_news_2015_00233412
+16750	Der Lkw-Fahrer aus Nürnberg erlitt leichte Verletzungen.	Y	erlitt	2446	    1,338	0.0029	1330.25	german_de_news_2013_00267403
+16751	Dann sagt er doch etwas: „Eine große Last“.	Y	last	2447	    1,337	0.0029	392.875	german_de_news_2015_00159223
+16752	Last of Us ist da wirklich ein gutes Beispiel.	Y	last	2447	    1,337	0.0029	543.1111	german_de_news_2014_00638511
+16753	Wenn man teile aus Sicht der Bevölkerung Spielen könnte, dessen Städte man schon in Last of Us 1 besucht hat?	Y	last	2447	    1,337	0.0029	618.6667	german_de_news_2015_00902783
+16754	Man gewinnt den Eindruck der junge Mann trägt schwer an der Last des Lebens und schwerer noch an der Liebe.	Y	last	2447	    1,337	0.0029	768.5294	german_de_news_2014_00651180
+16755	Niemand dürfe ihr als Last erscheinen, als Problem, als Risiko.	Y	last	2447	    1,337	0.0029	1076.75	german_de_news_2015_00699580
+16756	Nach Angaben des Unternehmens sank das Ergebnis um rund 15 Prozent - wie von Experten erwartet worden war.	Y	sank	2447	    1,337	0.0029	380.125	german_de_news_2013_00715962
+16757	Allerdings sank der Anteil der Kosten am Umsatz um sechs Punkte auf 19 Prozent.	Y	sank	2447	    1,337	0.0029	470.5833	german_de_news_2014_00029131
+16758	Der Gewinn sank trotzdem um ein Viertel auf nur sieben Millionen Dollar.	Y	sank	2447	    1,337	0.0029	550.8333	german_de_news_2015_00249736
+16759	Das Ergebnis der Marke sank im ersten Halbjahr um rund ein Drittel auf etwa eine Milliarde Euro.	Y	sank	2447	    1,337	0.0029	591.3529	german_de_news_2014_00172431
+16760	Mit einem Boot, das schon einmal sank.	Y	sank	2447	    1,337	0.0029	738.7143	german_de_news_2013_00702691
+16761	Doch in rund zwei Wochen wird man mit dem Bau einer neuen Brücke beginnen.	Y	brücke	2448	    1,336	0.0029	420.1429	german_de_news_2015_00390930
+16762	Oben auf der Brücke ging ich zur Mitte der Brücke und sah mich um.	Y	brücke	2448	    1,336	0.0029	463.4167	german_de_news_2015_00711387
+16763	» Kommentar melden » antworten Re: Wie lang soll diese Brücke werden?	Y	brücke	2448	    1,336	0.0029	604.3	german_de_news_2015_00623258
+16764	Der stern war auf der Brücke mit dabei.	Y	brücke	2448	    1,336	0.0029	718.1429	german_de_news_2014_00270377
+16765	Baut doch lieber eine kleinere Brücke dort hin.	Y	brücke	2448	    1,336	0.0029	1038	german_de_news_2015_00097699
+16766	Sie ist global, also muss auch die Antwort darauf global sein“, sagte er in Paris.	Y	global	2448	    1,336	0.0029	309.8571	german_de_news_2014_00780443
+16767	In Deutschland ist das Update bislang nicht angekommen, da die Software aber global verteilt wird, kann es noch ein paar Tage dauern, bis Sie das Update angezeigt bekommen.	Y	global	2448	    1,336	0.0029	575.7308	german_de_news_2013_00617660
+16768	«Die Branche ist sehr klein, auch global gesehen.	Y	global	2448	    1,336	0.0029	769.5	german_de_news_2013_00312717
+16769	Es wird die Aufgabe des Global Forum sein, die Umsetzung zu prüfen.	Y	global	2448	    1,336	0.0029	841.0909	german_de_news_2014_00476269
+16770	Nicht nur die Wirtschaft denkt im 21. Jahrhundert global:	Y	global	2448	    1,336	0.0029	896.625	german_de_news_2013_00737630
+16771	Aber auch bei den anderen weiß ich, wie gut sie Ski fahren können und wie gut sie im Training waren.	Y	ski	2448	    1,336	0.0029	315.7647	german_de_news_2014_00008858
+16772	Und das ist, einfach nur schnell Ski zu fahren.	Y	ski	2448	    1,336	0.0029	416.5556	german_de_news_2014_00841085
+16773	Wird der Kleine bei der Ski-WM der Größte?	Y	ski	2448	    1,336	0.0029	600.8571	german_de_news_2013_00959581
+16774	Vor einem Jahr hatte Michael Schumacher einen Ski-Unfall.	Y	ski	2448	    1,336	0.0029	721.6667	german_de_news_2014_00883817
+16775	Organisiert wurde der Anlass von Swiss-Ski.	Y	ski	2448	    1,336	0.0029	1268.1429	german_de_news_2014_00728816
+16776	Das Image der bayerischen Hauptstadt war noch nie das beste – obwohl gleichzeitig immer mehr Menschen in ihr leben wollen.	Y	bayerischen	2449	    1,335	0.0028	503	german_de_news_2013_00183346
+16777	Ich kann nur sagen, was aus unserer bayerischen Erfahrung notwendig ist.	Y	bayerischen	2449	    1,335	0.0028	569.4545	german_de_news_2015_00548544
+16778	Doch es werden immer weniger Schüler an bayerischen Schulen.	Y	bayerischen	2449	    1,335	0.0028	591.5556	german_de_news_2013_00413839
+16779	Immer waren Autos der bayerischen Marke betroffen.	Y	bayerischen	2449	    1,335	0.0028	737	german_de_news_2013_00597872
+16780	91 Prozent aller bayerischen Gemeinden würden am Ausbau teilnehmen.	Y	bayerischen	2449	    1,335	0.0028	1139.125	german_de_news_2015_00007896
+16781	Sie alle haben nach knapp 40 Rennen nur ein Ziel – endlich den ersten GP-Sieg!	Y	gp	2449	    1,335	0.0028	359.2143	german_de_news_2013_00803797
+16782	Mit drei Jahren führte der Weltmeister von 1982 seinen Sohn schon mal an der Hand über die GP-Strecke.	Y	gp	2449	    1,335	0.0028	472.3529	german_de_news_2013_00702452
+16783	Das ist entscheidend, um die beste Abstimmung für die GP15 zu finden.	Y	gp	2449	    1,335	0.0028	672.6364	german_de_news_2015_00183399
+16784	Da bleibe ich lieber in der GP2-Serie!»	Y	gp	2449	    1,335	0.0028	810.625	german_de_news_2014_00143017
+16785	Motorsport-Magazin.com liefert die Antworten zum Großbritannien GP.	Y	gp	2449	    1,335	0.0028	1200.5556	german_de_news_2014_00682806
+16786	Der Sieg war nicht weit weg, aber Felix war sehr schnell und das Rennen ein bisschen zu kurz.	Y	felix	2450	    1,334	0.0028	339.1765	german_de_news_2015_00267324
+16787	Wir waren einfach so gut drauf und die Maschine, also das Team, hat so gut funktioniert, dass wir das einfach an einem Tag gemacht haben“, erzählt Felix.	Y	felix	2450	    1,334	0.0028	458.2727	german_de_news_2013_00968763
+16788	Ja, stimmt genau Felix, so ist es.	Y	felix	2450	    1,334	0.0028	637.7143	german_de_news_2013_00641021
+16789	Felix ist das erste Baby, des neuen Jahres.	Y	felix	2450	    1,334	0.0028	701.25	german_de_news_2013_00508739
+16790	Felix kenne ich ja schon ein bisschen länger und habe ihn schon in der Jugend bei Werder beobachtet.	Y	felix	2450	    1,334	0.0028	808.7059	german_de_news_2014_00484168
+16791	»Die Leute sollen sehen, dass wir da sind«, erklärt Link.	Y	link	2451	    1,333	0.0028	387.6	german_de_news_2014_00332590
+16792	Weitere News zur PS4 gibt's unter diesem Link.	Y	link	2451	    1,333	0.0028	529.7778	german_de_news_2014_00902732
+16793	Link selber sah sich als einer unter vielen.	Y	link	2451	    1,333	0.0028	647.625	german_de_news_2013_00674668
+16794	Ein Angreifer müsste einen Nutzer lediglich dazu bringen, auf seinen solchen Link zu klicken.	Y	link	2451	    1,333	0.0028	743.2143	german_de_news_2015_00406459
+16795	Stimmt, siehe aber auch meinen Link oben.	Y	link	2451	    1,333	0.0028	1100	german_de_news_2015_00803771
+16796	Vor acht Jahren war dieser Wert noch gut 11 Prozent tiefer.	Y	tiefer	2451	    1,333	0.0028	392.5	german_de_news_2013_00906234
+16797	Nach dem Wechsel stand sein Team etwas tiefer.	Y	tiefer	2451	    1,333	0.0028	565.375	german_de_news_2015_00681321
+16798	Die Schweizer Börse ist am Freitag leicht tiefer in den Handel gestartet.	Y	tiefer	2451	    1,333	0.0028	610.0833	german_de_news_2013_00370583
+16799	WIEN (dpa-AFX) - Die Wiener Börse hat am Montag deutlich tiefer geschlossen.	Y	tiefer	2451	    1,333	0.0028	705.5	german_de_news_2014_00924797
+16800	Im Winter sitzen sie tiefer im Wald.	Y	tiefer	2451	    1,333	0.0028	1213.6667	german_de_news_2015_00572240
+16801	Aber auch die Wissenschaft kam nicht zu kurz.	Y	wissenschaft	2451	    1,333	0.0028	385.75	german_de_news_2013_00009987
+16802	Warum haben Sie sich letztlich doch für die Wissenschaft entschieden?	Y	wissenschaft	2451	    1,333	0.0028	524.4	german_de_news_2014_00891354
+16803	Außerdem gebe es noch Nachrichten aus der Wissenschaft und Meldungen über Tiere oder Sport.	Y	wissenschaft	2451	    1,333	0.0028	603.5714	german_de_news_2013_00090883
+16804	Ich liebe die Wissenschaft, auch wenn ich keine Forschung mehr mache.	Y	wissenschaft	2451	    1,333	0.0028	746.5	german_de_news_2014_00554370
+16805	Ohne Vertrauen keine Kommunikation, ohne Kommunikation keine Wissenschaft.	Y	wissenschaft	2451	    1,333	0.0028	1155.8	german_de_news_2013_00759019
+16806	Und auch der kleine George scheint in diesem Moment Spaß zu haben.	Y	george	2452	    1,331	0.0028	503.0833	german_de_news_2013_00864958
+16807	Aber ganz einfach scheint der Umgang mit Baby George noch immer nicht zu sein.	Y	george	2452	    1,331	0.0028	544.5714	german_de_news_2014_00013193
+16808	George spielt in dem Film seinen Vater.	Y	george	2452	    1,331	0.0028	672	german_de_news_2013_00538066
+16809	Im Juni 2011 erhielt er den George-F.	Y	george	2452	    1,331	0.0028	844	german_de_news_2015_00563785
+16810	Der Sänger George Michael wurde vergangene Woche in einer Klinik behandelt.	Y	george	2452	    1,331	0.0028	1062.5455	german_de_news_2014_00266617
+16811	Das ist nun bereits die zweite Erhöhung in diesem Jahr“, sagte ein Händler.	Y	erhöhung	2453	    1,330	0.0028	379.3846	german_de_news_2015_00184760
+16812	Ob es zu einer Erhöhung kommen wird, dazu äußerte sich der Manager nicht.	Y	erhöhung	2453	    1,330	0.0028	485.3077	german_de_news_2015_00712046
+16813	Die nächste Erhöhung wird nicht die letzte sein.	Y	erhöhung	2453	    1,330	0.0028	561	german_de_news_2015_00336140
+16814	Schon 2013 hatten sich die Arbeitgeber zu Gesprächen über eine Erhöhung bereit erklärt.	Y	erhöhung	2453	    1,330	0.0028	667.25	german_de_news_2014_00758437
+16815	Die Herausforderung für die kommenden Jahre heisst, Prüfung der Ausgaben und gleichzeitig Erhöhung der Einnahmen.	Y	erhöhung	2453	    1,330	0.0028	1022.0769	german_de_news_2014_00322514
+16816	Wer Windows 10 hat, muss sich im klaren sein, das Microsoft damit tun und lassen kann, was sie wollen.	Y	klaren	2453	    1,330	0.0028	265.2778	german_de_news_2015_00910059
+16817	Selbst Experten sind sich darüber nicht ganz im Klaren.	Y	klaren	2453	    1,330	0.0028	420	german_de_news_2015_00763141
+16818	Nun gilt es, klaren Kopf zu behalten und danach die zweite Chance zu nutzen.	Y	klaren	2453	    1,330	0.0028	615.1538	german_de_news_2015_00704266
+16819	Wie kann man da einen klaren Kopf behalten?	Y	klaren	2453	    1,330	0.0028	699.75	german_de_news_2013_00953242
+16820	Mit einem letztlich klaren Sieger – der Musik.	Y	klaren	2453	    1,330	0.0028	873.5714	german_de_news_2014_00674001
+16821	Es ist nicht das erste Mal, dass die 40-Jährige die Seiten wechselt.	Y	wechselt	2453	    1,330	0.0028	344.0909	german_de_news_2013_00492112
+16822	Ob er tatsächlich an die Spitze von Microsoft wechselt.	Y	wechselt	2453	    1,330	0.0028	524.7778	german_de_news_2014_00719891
+16823	SPIEGEL ONLINE: Wie können Sie verhindern, dass Sebastian irgendwann das Team wechselt?	Y	wechselt	2453	    1,330	0.0028	661.6667	german_de_news_2013_00836844
+16824	Er tritt ab und wechselt in den Aufsichtsrat.	Y	wechselt	2453	    1,330	0.0028	774.125	german_de_news_2014_00454672
+16825	Nur wer von älteren Ski auf ein neues Modell wechselt, erlebt doch eine Überraschung.	Y	wechselt	2453	    1,330	0.0028	924.9286	german_de_news_2015_00709528
+16826	Mit Flüchtlingen hat das ganze doch gar nichts mehr zu tun. Denn nach dem Gesetz ist das nur ein geringer Teil.	Y	geringer	2454	    1,329	0.0028	350.65	german_de_news_2015_00667949
+16827	Nach dem ersten Start zeigt sich, dass die Änderungen zunächst nur geringer Natur sind.	Y	geringer	2454	    1,329	0.0028	533.3571	german_de_news_2013_00718365
+16828	Im vergangenen Quartal fiel der Verlust deutlich geringer aus als von Analysten erwartet.	Y	geringer	2454	    1,329	0.0028	641.6923	german_de_news_2015_00570995
+16829	Bei den höheren Temperaturen im zweiten Training war der Abstand zu Mercedes schon deutlich geringer.	Y	geringer	2454	    1,329	0.0028	733.3333	german_de_news_2015_00101872
+16830	Wie höher der Betrug desto geringer die Strafe.	Y	geringer	2454	    1,329	0.0028	1224	german_de_news_2013_00952640
+16831	Eine Geschichte über Hollywood, wie sie Hollywood nicht hätte besser schreiben können.	Y	hollywood	2454	    1,329	0.0028	370.9091	german_de_news_2014_00414375
+16832	In Hollywood geht es um Macht und viel Geld, da ist das Verbrechen nie weit.	Y	hollywood	2454	    1,329	0.0028	419.1333	german_de_news_2013_00624236
+16833	Besser hat bisher niemand über eine Frau ohne Halt in Hollywood geschrieben.	Y	hollywood	2454	    1,329	0.0028	573.0833	german_de_news_2015_00117628
+16834	Wird Sie bald in Hollywood Karriere machen?	Y	hollywood	2454	    1,329	0.0028	607.8571	german_de_news_2013_00960031
+16835	Schnell fand er eine Bleibe in Hollywood.	Y	hollywood	2454	    1,329	0.0028	874	german_de_news_2013_00786179
+16836	Er richtet sich danach, wer sonst noch dabei ist - was jetzt aber keiner weiß.	Y	richtet	2454	    1,329	0.0028	389.7143	german_de_news_2015_00444619
+16837	Der Fokus der Verantwortlichen in den Unternehmen richtet sich mehr und mehr auf die Kunden.	Y	richtet	2454	    1,329	0.0028	503.3077	german_de_news_2015_00247590
+16838	Dies richtet sich gegen Anbieter wie Amazon und Google.	Y	richtet	2454	    1,329	0.0028	584.8889	german_de_news_2015_00365336
+16839	Das Gesetz richtet sich nicht unbedingt gegen.	Y	richtet	2454	    1,329	0.0028	690.2857	german_de_news_2013_00178813
+16840	Das Baby ist der Mittelpunkt, alles richtet sich danach, was Karl gerade braucht.	Y	richtet	2454	    1,329	0.0028	770.4615	german_de_news_2013_00167953
+16841	Eines sind die Bilder allerdings in jedem Fall: ein Beweis dafür, dass sich „frau“ auch nach vier Kindern und mit 40 Jahren „noch“ gut sehen lassen kann.	Y	beweis	2455	    1,328	0.0028	254.9615	german_de_news_2013_00443987
+16842	Das haben wir bisher unter Beweis stellen können.	Y	beweis	2455	    1,328	0.0028	412.125	german_de_news_2013_00180472
+16843	Das ist ja der Beweis, dass wir mit beiden Spielern zufrieden sind.	Y	beweis	2455	    1,328	0.0028	501	german_de_news_2013_00187077
+16844	Das hat er schon mehrfach unter Beweis gestellt.	Y	beweis	2455	    1,328	0.0028	630.25	german_de_news_2014_00179371
+16845	Das Foto dient also quasi als Beweis, dass ich es geschafft habe.	Y	beweis	2455	    1,328	0.0028	757.75	german_de_news_2015_00173560
+16846	Zum ersten Mal seit fast einem Jahr hat der FC Bayern München wieder ein Heimspiel in der deutschen Bundesliga verloren.	Y	heimspiel	2455	    1,328	0.0028	306.3684	german_de_news_2015_00951097
+16847	Außerdem haben mein Bruder und ich hier fast so etwas wie ein Heimspiel.	Y	heimspiel	2455	    1,328	0.0028	446.3846	german_de_news_2015_00092129
+16848	Jetzt stehe seine Mannschaft im zweiten Heimspiel zum zweiten Mal unter Druck und muss unbedingt gewinnen.	Y	heimspiel	2455	    1,328	0.0028	540.4	german_de_news_2014_00616838
+16849	Im Heimspiel gegen Borussia Dortmund soll endlich ein Sieg her.	Y	heimspiel	2455	    1,328	0.0028	680.5	german_de_news_2015_00562424
+16850	Ich hoffe, dass ich ihn im nächsten Heimspiel einsetzen kann“, so Guardiola.	Y	heimspiel	2455	    1,328	0.0028	811.5455	german_de_news_2013_00577425
+16851	Aber, auch das warf mehrere Fragen auf!	Y	warf	2455	    1,328	0.0028	474.1429	german_de_news_2013_00009785
+16852	Er warf der Polizei vor, nicht offen, sondern nur in eine bestimmte Richtung ermittelt zu haben.	Y	warf	2455	    1,328	0.0028	478.0625	german_de_news_2014_00455684
+16853	Dem Westen warf er vor, der Ukraine bereits Waffen zu liefern.	Y	warf	2455	    1,328	0.0028	632.4545	german_de_news_2015_00221070
+16854	Ein Absturz im vergangenen Herbst warf das Projekt aber zurück.	Y	warf	2455	    1,328	0.0028	699.4	german_de_news_2015_00406043
+16855	Motorsport-Magazin.com warf einen Blick in die Vergangenheit.	Y	warf	2455	    1,328	0.0028	900.5556	german_de_news_2013_00712661
+16856	War doch bis vor ein paar Jahren auch bei uns üblich..	Y	üblich	2456	    1,327	0.0028	305.4545	german_de_news_2014_00890089
+16857	So ist es in anderen europäischen Ländern üblich.	Y	üblich	2456	    1,327	0.0028	468.25	german_de_news_2015_00785909
+16858	Danach konnten sie nach Hause gehen, viel früher als üblich.	Y	üblich	2456	    1,327	0.0028	535.1	german_de_news_2014_00156026
+16859	Wie üblich wird das neue Apple-Smartphone wahrscheinlich erst im September offiziell vorgestellt.	Y	üblich	2456	    1,327	0.0028	594.6154	german_de_news_2014_00926546
+16860	Wie üblich, fallen die Kosten der Linux-Maschinen stärker als die der Windows-Maschinen.	Y	üblich	2456	    1,327	0.0028	845.7273	german_de_news_2014_00926532
+16861	Mit rund 600 Millionen Menschen gehen in China mehr Nutzer ins Internet als irgendwo sonst auf der Welt.	Y	irgendwo	2457	    1,326	0.0028	318.8235	german_de_news_2014_00677250
+16862	Aber irgendwo muss es auch noch Grenzen geben.	Y	irgendwo	2457	    1,326	0.0028	496	german_de_news_2015_00014950
+16863	Es müsse erst irgendwo Platz frei werden.	Y	irgendwo	2457	    1,326	0.0028	598.2857	german_de_news_2015_00466277
+16864	Und irgendwo scheint auch immer die Sonne.	Y	irgendwo	2457	    1,326	0.0028	697.1429	german_de_news_2013_00875216
+16865	Noch nie, NIEMALS, habe ich irgendwo gelesen, was Amerika tun müsse.	Y	irgendwo	2457	    1,326	0.0028	934.9091	german_de_news_2015_00701936
+16866	Der Mindestlohn kommt ab 2017, und zwar für alle“, sagte er dem Focus.	Y	mindestlohn	2457	    1,326	0.0028	357	german_de_news_2014_00259960
+16867	Den Mindestlohn aber bringen sie nicht zusammen.	Y	mindestlohn	2457	    1,326	0.0028	472.4286	german_de_news_2014_00223907
+16868	In den Kampf um die Mindestlohn-Initiative werden Millionen investiert.	Y	mindestlohn	2457	    1,326	0.0028	629.1	german_de_news_2013_00609047
+16869	Die sind aber nicht arm und würden trotzdem vom höheren Mindestlohn profitieren.	Y	mindestlohn	2457	    1,326	0.0028	732.3333	german_de_news_2014_00364746
+16870	Ob Energie, Bundeswehr,Rente, Steuern oder Mindestlohn.	Y	mindestlohn	2457	    1,326	0.0028	1308.8571	german_de_news_2013_00751865
+16871	Das ganze kann man auch mit Fahrzeugen von Land aus machen.	Y	fahrzeugen	2458	    1,325	0.0028	316.5455	german_de_news_2013_00176827
+16872	An den beiden Fahrzeugen entstand dabei jeweils ein Schaden von rund 1000 Euro.	Y	fahrzeugen	2458	    1,325	0.0028	558.3333	german_de_news_2015_00049944
+16873	An den Fahrzeugen entstand dabei ein Schaden von rund 6000 Euro.	Y	fahrzeugen	2458	    1,325	0.0028	577	german_de_news_2014_00049265
+16874	Bei Fahrzeugen beispielsweise kann dies nicht so eindeutig sein.	Y	fahrzeugen	2458	    1,325	0.0028	613.7778	german_de_news_2015_00106730
+16875	Die Schäden an den Fahrzeugen waren gering.	Y	fahrzeugen	2458	    1,325	0.0028	1008.8571	german_de_news_2015_00348470
+16876	Denkbar schon, aber es ist gar nicht so einfach.	Y	denkbar	2459	    1,324	0.0028	345.6667	german_de_news_2015_00222877
+16877	Das ist, wie gesagt, nicht sicher – aber denkbar.	Y	denkbar	2459	    1,324	0.0028	444.125	german_de_news_2015_00185540
+16878	Der Anstieg im Vergleich zum Jahr 2013 ist denkbar knapp.	Y	denkbar	2459	    1,324	0.0028	568.4444	german_de_news_2015_00235324
+16879	Dann wären auch mehr als sieben Cent denkbar.	Y	denkbar	2459	    1,324	0.0028	723.75	german_de_news_2013_00161402
+16880	Denkbar seien laut Lufthansa indes Verhandlungen über andere Themen.	Y	denkbar	2459	    1,324	0.0028	901.2222	german_de_news_2014_00223504
+16881	Aber den Deutschen geht es gut, und sie haben das Gefühl, dass Merkel sie ordentlich durch die Euro-Krise geführt hat.	Y	ordentlich	2459	    1,324	0.0028	335.65	german_de_news_2013_00011913
+16882	Und der war dann ordentlich weit weg.	Y	ordentlich	2459	    1,324	0.0028	458.4286	german_de_news_2014_00842750
+16883	Da sind wir aktiv, da machen wir ordentlich mit.	Y	ordentlich	2459	    1,324	0.0028	576.5714	german_de_news_2014_00181511
+16884	Die zweite Halbzeit war dafür schon ganz ordentlich.	Y	ordentlich	2459	    1,324	0.0028	685.875	german_de_news_2013_00407940
+16885	Ein letzter Höhepunkt, die beiden werfen ordentlich.	Y	ordentlich	2459	    1,324	0.0028	1267.4286	german_de_news_2013_00450913
+16886	Es ist eher so, dass die Spieler nach Details fragen und selbst Vorschläge für den Aufbau der Welt machen.	Y	aufbau	2460	    1,323	0.0028	386.1579	german_de_news_2014_00466384
+16887	Die Infrastruktur ist noch im Aufbau, aber was man zum Reisen braucht, ist da.	Y	aufbau	2460	    1,323	0.0028	519.3846	german_de_news_2015_00323024
+16888	Wie viele Personen waren denn am Aufbau von „Was uns bewegt“ beteiligt?	Y	aufbau	2460	    1,323	0.0028	584.5	german_de_news_2014_00926887
+16889	Frankreich und Russland haben Fortschritte beim Aufbau einer internationalen Allianz gegen den IS gemacht.	Y	aufbau	2460	    1,323	0.0028	696.3571	german_de_news_2015_00490197
+16890	Die positive Entwicklung des Unternehmens wurde durch den Aufbau 700 neuer Arbeitsplätze begleitet.	Y	aufbau	2460	    1,323	0.0028	881.8333	german_de_news_2014_00345369
+16891	So ist er ja auch hoch gekommen und in einer Einstellung sieht man das auch.	Y	einstellung	2460	    1,323	0.0028	294.2857	german_de_news_2015_00785857
+16892	Wie läuft so eine Einstellung genau ab?	Y	einstellung	2460	    1,323	0.0028	505.2857	german_de_news_2014_00924490
+16893	Bis zum nächsten Spiel müssen wir unsere Einstellung dringend ändern“, forderte er.	Y	einstellung	2460	    1,323	0.0028	636.8333	german_de_news_2014_00126203
+16894	Ein paar Sachen waren positiv, auch die Einstellung“, meinte der Coach.	Y	einstellung	2460	    1,323	0.0028	734.1818	german_de_news_2013_00452582
+16895	Wahrscheinlich hat sich seine Einstellung geändert im Laufe seines Lebens.	Y	einstellung	2460	    1,323	0.0028	984.4	german_de_news_2013_00915119
+16896	Und mindestens 10 Millionen sind weiterhin in und um Syrien dem Krieg nach allen Seiten und seinen Folgen ausgesetzt.	Y	ausgesetzt	2461	    1,322	0.0028	427.75	german_de_news_2015_00838897
+16897	Die Zusammenarbeit zwischen der Nato und Russland ist derzeit ausgesetzt.	Y	ausgesetzt	2461	    1,322	0.0028	556	german_de_news_2014_00386750
+16898	Und er hat jetzt Soldaten zur Krim geschickt, um die Russen zu schützen, bevor – oder ohne dass – sie einem Angriff ausgesetzt waren.	Y	ausgesetzt	2461	    1,322	0.0028	627.8182	german_de_news_2014_00844895
+16899	Allerdings hatte seine Erinnerung kurz vor dem Anschlag ausgesetzt.	Y	ausgesetzt	2461	    1,322	0.0028	830.2222	german_de_news_2014_00028208
+16900	Sie seien so einem direkten politischen Einfluss ausgesetzt.	Y	ausgesetzt	2461	    1,322	0.0028	932.375	german_de_news_2014_00783807
+16901	Hingegen gilt für uns als Nicht-US-Bürger in den USA gar kein Datenschutz!	Y	datenschutz	2461	    1,322	0.0028	357.5714	german_de_news_2013_00563765
+16902	Er sagte der Zeitung «Die Welt», bei der Prüfung dieser Frage gehe es «auch um die Verhandlungen mit den USA in Sachen Datenschutz».	Y	datenschutz	2461	    1,322	0.0028	450.2857	german_de_news_2013_00472076
+16903	Das eine sind Apps, bei denen der Anwender den Nutzen über das Thema Datenschutz stellt.	Y	datenschutz	2461	    1,322	0.0028	519.8571	german_de_news_2014_00171491
+16904	Wenn Sie mehr zum Thema Datenschutz wissen wollen, klicken Sie auf das i. Vorstellung im September?	Y	datenschutz	2461	    1,322	0.0028	578.4	german_de_news_2014_00912098
+16905	Der Großteil der Datenschutz-Regeln ist unverändert geblieben.	Y	datenschutz	2461	    1,322	0.0028	1403.4286	german_de_news_2014_00251215
+16906	Der Dialog zwischen den beiden ist kurz und knapp.	Y	dialog	2461	    1,322	0.0028	386.8889	german_de_news_2014_00242926
+16907	Für mich ist wichtig, dass wir im Dialog bleiben“, betonte Schmidt.	Y	dialog	2461	    1,322	0.0028	548	german_de_news_2014_00506335
+16908	Dieser Dialog gehört – aus unserer Sicht – einem guten Partner gegenüber zum guten Stil.	Y	dialog	2461	    1,322	0.0028	697.1667	german_de_news_2014_00358153
+16909	Irgendwie hat man schon jedes nächste Dialog -u.	Y	dialog	2461	    1,322	0.0028	779	german_de_news_2013_00636464
+16910	«Im Dialog kann man vieles lösen», glaubt Frei.	Y	dialog	2461	    1,322	0.0028	1049.125	german_de_news_2013_00590032
+16911	Laut Polizei kam der 19-Jährige mit seinem Auto von der Fahrbahn ab.	Y	fahrbahn	2462	    1,321	0.0028	353.9091	german_de_news_2013_00669441
+16912	Dort laufen zwei Männer auf der Fahrbahn.	Y	fahrbahn	2462	    1,321	0.0028	577.5714	german_de_news_2015_00396074
+16913	Beide Fahrzeuge kamen neben der Fahrbahn zum Stehen.	Y	fahrbahn	2462	    1,321	0.0028	671.375	german_de_news_2015_00100278
+16914	Die Regelung sagt nicht, dass der Schnee auf der Fahrbahn liegen muss.	Y	fahrbahn	2462	    1,321	0.0028	706.6364	german_de_news_2013_00365781
+16915	Beide Lkw kamen jeweils nach rechts von der Fahrbahn ab.	Y	fahrbahn	2462	    1,321	0.0028	752.4	german_de_news_2013_00099907
+16916	Wir wissen noch nicht, ob es die „Weiße Stadt“ ist.	Y	weiße	2462	    1,321	0.0028	328.9	german_de_news_2015_00932892
+16917	Obama und seine Familie hatten das Weiße Haus kurz zuvor verlassen.	Y	weiße	2462	    1,321	0.0028	546	german_de_news_2015_00710320
+16918	Zuletzt gab es 2010 in ganz Deutschland weiße Weihnachten.	Y	weiße	2462	    1,321	0.0028	660.25	german_de_news_2014_00955784
+16919	Das Weiße Haus äußerte sich zunächst nicht zu der Darstellung.	Y	weiße	2462	    1,321	0.0028	818	german_de_news_2013_00215252
+16920	Der weiße LKW setzte seine Fahrt fort.	Y	weiße	2462	    1,321	0.0028	1291.7143	german_de_news_2013_00289042
+16921	Im Moment gibt es das in der arabischen Welt nicht.	Y	arabischen	2463	    1,320	0.0028	372.7	german_de_news_2013_00598634
+16922	Sowohl nach Europa als auch in den arabischen Raum.	Y	arabischen	2463	    1,320	0.0028	484.6667	german_de_news_2014_00804644
+16923	Die USA und Israel haben übrigens kein Interesse an einer starken arabischen Welt.	Y	arabischen	2463	    1,320	0.0028	554.6923	german_de_news_2013_00397447
+16924	In der Tat kommt Simon aus einem „guten“ arabischen Land.	Y	arabischen	2463	    1,320	0.0028	672.4	german_de_news_2015_00582512
+16925	Auch die Zahl der Touristen aus arabischen Ländern wächst stark.	Y	arabischen	2463	    1,320	0.0028	799.7	german_de_news_2014_00072477
+16926	«Wir können die Geschichte nicht ändern, aber dafür sorgen, dass sich so etwas nicht wiederholt.»	Y	wiederholt	2463	    1,320	0.0028	356.5714	german_de_news_2013_00964402
+16927	Daher kann es schon sein, dass zu Beginn viele Runden aufgrund einer Niederlage wiederholt werden müssen.	Y	wiederholt	2463	    1,320	0.0028	464.25	german_de_news_2013_00148570
+16928	Auch wird wiederholt Kritik laut, dass Alte durch Junge ersetzt werden sollen.	Y	wiederholt	2463	    1,320	0.0028	575.4167	german_de_news_2014_00079637
+16929	Geschichte wiederholt sich eben doch, denken wir.	Y	wiederholt	2463	    1,320	0.0028	670.7143	german_de_news_2014_00518638
+16930	Wiederholt werde das zur Erfahrung, zur Haltung.	Y	wiederholt	2463	    1,320	0.0028	994.6667	german_de_news_2013_00949759
+16931	Der Titel wird sowohl für PC als auch Mac zur Verfügung stehen.	Y	mac	2464	    1,319	0.0028	445.6667	german_de_news_2013_00282951
+16932	Falls Sie eine Frage zur neuen Mac & i-App haben, lesen Sie bitte zunächst diesen Beitrag.	Y	mac	2464	    1,319	0.0028	594.2667	german_de_news_2014_00482050
+16933	In der Mac-Variante funktioniert das Spiel nicht.	Y	mac	2464	    1,319	0.0028	686.25	german_de_news_2013_00614031
+16934	Künftig soll das Betriebssystem für Mac-Computer kostenlos sein.	Y	mac	2464	    1,319	0.0028	870.2222	german_de_news_2013_00663319
+16935	Weder bei Mac noch unter iOS werden Betriebssystem Updates einfach installiert.	Y	mac	2464	    1,319	0.0028	1099.8182	german_de_news_2015_00889823
+16936	Welche das sind, finden Sie in dieser Übersicht.	Y	übersicht	2464	    1,319	0.0028	404.25	german_de_news_2013_00930995
+16937	Dazu finden Sie das komplette deutsche Team in der Übersicht.	Y	übersicht	2464	    1,319	0.0028	574	german_de_news_2014_00216190
+16938	Zur Motorsport auf Twitter-Übersicht Folgen Sie uns!	Y	übersicht	2464	    1,319	0.0028	708.625	german_de_news_2014_00961939
+16939	Klicken Sie sich oben durch die Übersicht.	Y	übersicht	2464	    1,319	0.0028	765.8571	german_de_news_2015_00621081
+16940	Wo Sie überall Karten für Veranstaltungen im Rhein-Main-Gebiet erhalten können, erfahren Sie in unserer Übersicht.	Y	übersicht	2464	    1,319	0.0028	957.625	german_de_news_2014_00943885
+16941	Ich habe NICHTS gegen ausländische Bürger die hier leben möchten und aber auch arbeiten wollen.	Y	ausländische	2465	    1,318	0.0028	393.1333	german_de_news_2013_00575902
+16942	Ohne ausländische Hilfe wäre „die Opposition“ das aber auch.	Y	ausländische	2465	    1,318	0.0028	537.5556	german_de_news_2015_00717030
+16943	Dies wissen ausländische Dienste – und sie nutzen dies aus.	Y	ausländische	2465	    1,318	0.0028	671.625	german_de_news_2013_00391186
+16944	Das ist für ausländische Investoren interessant, denen sich künftig grosse Chancen bieten dürften.	Y	ausländische	2465	    1,318	0.0028	800.2308	german_de_news_2013_00186608
+16945	Ausländische Hersteller müssen sich verstärkt auf chinesische Konkurrenz einstellen.	Y	ausländische	2465	    1,318	0.0028	1166.5556	german_de_news_2015_00090517
+16946	Und trotzdem: diese direkte Beteiligung an der Entscheidung, wer der neue Präsident der Türkei werden soll, das gefällt ihm, so sollte es sein.	Y	direkte	2465	    1,318	0.0028	455.7143	german_de_news_2014_00851321
+16947	Die direkte Demokratie sollte uns das wert sein.	Y	direkte	2465	    1,318	0.0028	600.25	german_de_news_2013_00317970
+16948	Bundeskanzlerin Merkel sprach sich in der Nacht zum Donnerstag erstmals für direkte Gespräche mit Assad aus.	Y	direkte	2465	    1,318	0.0028	651.875	german_de_news_2015_00131768
+16949	Ein Typ, dem direkte Kommunikation von Mensch zu Mensch nicht wirklich liegt.	Y	direkte	2465	    1,318	0.0028	752.0909	german_de_news_2013_00455935
+16950	Demokratie ist eigentlich direkte Beteiligung der Wähler.	Y	direkte	2465	    1,318	0.0028	1159.7143	german_de_news_2015_00220523
+16951	Schon seit Jahren gibt es Spekulationen um die Uhr.	Y	spekulationen	2465	    1,318	0.0028	326.1111	german_de_news_2014_00760010
+16952	Spekulationen, ob es noch ein paar Monate oder ein paar Jahre dauert, nutzen da nichts.	Y	spekulationen	2465	    1,318	0.0028	521.2308	german_de_news_2014_00806673
+16953	Wir wollen und werden uns nicht an Spekulationen beteiligen.	Y	spekulationen	2465	    1,318	0.0028	586.3333	german_de_news_2015_00933383
+16954	Um diesen Spekulationen ein Ende zu setzten, müsste das Flugzeug gefunden werden.	Y	spekulationen	2465	    1,318	0.0028	759.3333	german_de_news_2014_00835214
+16955	LTE unterstützt es aktuellen Spekulationen zufolge nicht.	Y	spekulationen	2465	    1,318	0.0028	964.2857	german_de_news_2014_00647440
+16956	Beobachter gehen aber nicht davon aus, dass der US-Präsident diesen Schritt gehen wird.	Y	beobachter	2466	    1,317	0.0028	334.9231	german_de_news_2014_00113103
+16957	Beobachter rechnen mit einem Abschluss in den nächsten Tagen oder Wochen.	Y	beobachter	2466	    1,317	0.0028	539.4545	german_de_news_2014_00113147
+16958	Viele Beobachter rechnen denn auch mit einer zweiten Abstimmung, um das Verhältnis mit der EU zu klären.	Y	beobachter	2466	    1,317	0.0028	633.5	german_de_news_2015_00858844
+16959	Beobachter zeigten sich überrascht, dass die EZB das Tempo jetzt offenbar erhöhen will.	Y	beobachter	2466	    1,317	0.0028	848.8462	german_de_news_2014_00113184
+16960	Manche Beobachter sehen neuen Anlass zur Sorge.	Y	beobachter	2466	    1,317	0.0028	1109.4286	german_de_news_2015_00643517
+16961	Dabei handelt es sich um eine Stiftung, die eine große Zahl von Schulen in Indien betreibt.	Y	betreibt	2466	    1,317	0.0028	587.2	german_de_news_2015_00139076
+16962	Und wer dabei Aufklärung in der Welt betreibt wird sofort in Verbindung gebracht sich als ISRAEL-Freund zu verhalten.	Y	betreibt	2466	    1,317	0.0028	638.8889	german_de_news_2014_00853283
+16963	Insgesamt betreibt der Konzern nun zwölf Werke in den Vereinigten Staaten.	Y	betreibt	2466	    1,317	0.0028	862.5455	german_de_news_2014_00600562
+16964	Wer eine Website betreibt, die Dinge verkauft oder Marketing betreibt, sollte bei Bedarf handeln.	Y	betreibt	2466	    1,317	0.0028	897.3846	german_de_news_2014_00914731
+16965	8. Chaos-Politik Chaos-Politik betreibt die europäische Union.	Y	betreibt	2466	    1,317	0.0028	1126.8333	german_de_news_2015_00007723
+16966	Man will ja nicht nur Spieler ersetzen, sondern besser werden.	Y	ersetzen	2466	    1,317	0.0028	363.8	german_de_news_2015_00648555
+16967	Und ich war immer überzeugt, dass die Technik nicht alles ersetzen kann.	Y	ersetzen	2466	    1,317	0.0028	419.8333	german_de_news_2014_00846906
+16968	In der aktuellen Verfassung ist er für uns zurzeit nicht zu ersetzen“.	Y	ersetzen	2466	    1,317	0.0028	645.3333	german_de_news_2014_00583962
+16969	Was machen wir mit all den Leuten, deren Jobs wir ersetzen?	Y	ersetzen	2466	    1,317	0.0028	790.9	german_de_news_2015_00887345
+16970	US-Forscher testen hier, ob Computer Lehrer ersetzen können.	Y	ersetzen	2466	    1,317	0.0028	1011.4444	german_de_news_2013_00890262
+16971	Es ist nicht schwer, eine Liste zu erstellen“, sagte der 54-Jährige.	Y	erstellen	2467	    1,316	0.0028	395.7273	german_de_news_2013_00492277
+16972	Also auch alle 30 Tage eine neue E-Mail Adresse erstellen?	Y	erstellen	2467	    1,316	0.0028	475.6	german_de_news_2013_00037616
+16973	Die russische Regierung will jedoch noch eine Liste mit Unternehmen erstellen, die nicht unter dieses Verbot fallen.	Y	erstellen	2467	    1,316	0.0028	547.25	german_de_news_2015_00347568
+16974	Ziel ist es, die Anlage bis 2020 zu erstellen.	Y	erstellen	2467	    1,316	0.0028	614	german_de_news_2014_00947992
+16975	Oder aber Sie erstellen Ihr eigenes Paket.	Y	erstellen	2467	    1,316	0.0028	995.4286	german_de_news_2014_00721888
+16976	Es gibt keine Züge dort, Sie können nicht fahren.	Y	züge	2467	    1,316	0.0028	400.8889	german_de_news_2014_00463110
+16977	Ob nun am Montag Züge fahren oder nicht, blieb am Sonntag unklar.	Y	züge	2467	    1,316	0.0028	537.3636	german_de_news_2015_00712451
+16978	Derzeit wird das Geld nach der Zahl der Züge verteilt.	Y	züge	2467	    1,316	0.0028	607.3333	german_de_news_2013_00291285
+16979	Demnach sollen rund ein Drittel aller Züge fahren.	Y	züge	2467	    1,316	0.0028	720.125	german_de_news_2015_00220150
+16980	Aus Ungarn kommende Züge werden vorerst aber nicht kontrolliert.	Y	züge	2467	    1,316	0.0028	1114.4444	german_de_news_2015_00094943
+16981	Das waren an anderen Tagen schon viel mehr“, sagt ein Anwohner.	Y	anwohner	2468	    1,315	0.0028	325.5455	german_de_news_2013_00214142
+16982	Doch ohne Ideen der betroffenen Anwohner kann es das nicht richtig.	Y	anwohner	2468	    1,315	0.0028	550.2727	german_de_news_2013_00416160
+16983	Nun versuchen die Anwohner zu retten, was noch zu retten ist.	Y	anwohner	2468	    1,315	0.0028	616.3333	german_de_news_2013_00746130
+16984	Doch das ruft die Anwohner auf den Plan.	Y	anwohner	2468	    1,315	0.0028	772	german_de_news_2014_00390223
+16985	Zwar gebe es relativ wenige direkte Anwohner.	Y	anwohner	2468	    1,315	0.0028	1137	german_de_news_2015_00958683
+16986	So steht es auch in der Beschreibung.	Y	beschreibung	2468	    1,315	0.0028	387	german_de_news_2015_00793061
+16987	Über die beiden Männer ist derzeit keine Beschreibung bekannt.	Y	beschreibung	2468	    1,315	0.0028	429.4444	german_de_news_2013_00856857
+16988	Bereits aus der App-Beschreibung geht hervor, dass etwas mit der App nicht stimmt.	Y	beschreibung	2468	    1,315	0.0028	537.75	german_de_news_2014_00113667
+16989	Er konnte keine Beschreibung der Täter abgeben.	Y	beschreibung	2468	    1,315	0.0028	845.7143	german_de_news_2015_00442600
+16990	Eine Beschreibung, die absolut nicht der Wahrheit entspricht.	Y	beschreibung	2468	    1,315	0.0028	981.75	german_de_news_2014_00412467
+16991	Heute hat jeder ein oder zwei Handys und den Menschen geht es tatsächlich besser.	Y	handys	2468	    1,315	0.0028	290.7857	german_de_news_2013_00558915
+16992	Die meisten Handys, die in den vergangenen zwölf Monaten verkauft worden seien, würden bis spätestens diesen Sommer den Dienst unterstützen.	Y	handys	2468	    1,315	0.0028	590.1111	german_de_news_2015_00333286
+16993	Die LTE-Handys bieten einen großen Akku, sind dafür aber nicht ganz leicht.	Y	handys	2468	    1,315	0.0028	717.3846	german_de_news_2015_00331349
+16994	Beobachter melden mehr Handys und Autos in der Hauptstadt.	Y	handys	2468	    1,315	0.0028	835.8889	german_de_news_2013_00113768
+16995	Home › Meldungen › Handys und Hardware › Microsoft › „Fehler	Y	handys	2468	    1,315	0.0028	1484.1429	german_de_news_2015_00538704
+16996	Nach einer schwierigen Saison ist es für uns sehr wichtig, dass wir ganz oben stehen.	Y	schwierigen	2468	    1,315	0.0028	317	german_de_news_2015_00684270
+16997	Sie ist ein einer schwierigen Situation in Wien.	Y	schwierigen	2468	    1,315	0.0028	468.5	german_de_news_2015_00771246
+16998	Sind wirklich die anderen allein Schuld an einer schwierigen Lage?	Y	schwierigen	2468	    1,315	0.0028	555.5	german_de_news_2014_00790020
+16999	Die Analysten sehen die Branche vor einem schwierigen Jahr 2016 und haben ihre Schätzungen für das Wachstum gesenkt.	Y	schwierigen	2468	    1,315	0.0028	716.3125	german_de_news_2015_00288072
+17000	Die Wissenschaftler standen zunächst vor schwierigen Aufgaben.	Y	schwierigen	2468	    1,315	0.0028	1101.7143	german_de_news_2015_00381301
