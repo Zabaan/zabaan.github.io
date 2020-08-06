@@ -21,7 +21,6 @@ this.topics = getUrlParameter("topics")
 
 topics.split(",").forEach(function(t){$('#SelectTopic').append('<option><a href="#">' + t + '</a></option>')});
 for(var i=1;i<=25;i++) $('#SelectLevel').append('<option><a href="#">' + i + '</a></option>');
-for(var i=1;i<=1000;i++) $('#SelectSentence').append('<option><a href="#">' + i + '</a></option>');
 
 var cnt;
 function load_corpus(lang) {
@@ -41,11 +40,13 @@ function load_corpus(lang) {
   if(ll < 1000) resll += "0" + ll;
   else  resll += "" + ll;
   fname = 'data/' + file + "/" + file + "_" + topic + "/" + file + "_" + topic + "_sentences_" + resll +  ".csv";
+  var NumOfSentences = 0;
   $.get(fname, function(data) {
     tmpdata = data.split('\n');
     tmpdata.forEach(function(t){
       tt = t.split('\t');
       if(tt.length <= 3) return;
+      if(tt[2] != 'Y') return;
       a = tt[1];
       b = tt[3];
       d = b.substr(0,1).toUpperCase() + b.substr(1);
@@ -56,8 +57,11 @@ function load_corpus(lang) {
       // else
       // {a = a.replace(re, "<b id='select'>" + b + "</b>");}
       this.mydata.push(a);
+      NumOfSentences++;
     });
     $('#sentence').html(mydata[cnt]);
+    $('#SelectSentence').empty();
+    for(var i=1;i<=NumOfSentences;i++) $('#SelectSentence').append('<option><a href="#">' + i + '</a></option>');
   }, 'text');
 }
 
