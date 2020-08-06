@@ -74,7 +74,7 @@ function load_corpus(lang) {
 
       this.mydata.push(a);
     });
-    $('#sentence').html(mydata[cnt]);
+    $('#sentence').html(mydata[cnt-1]);
     $('#sentence').focus();
 
   }, 'text');
@@ -83,7 +83,7 @@ function load_corpus(lang) {
 function nextSentence() {
   cnt = Math.floor(Math.random() * 1000);
   $("#SelectSentence").val("" + cnt);
-  $('#sentence').html(this.mydata[cnt]);
+  $('#sentence').html(this.mydata[cnt-1]);
   localStorage.setItem(this.lang + zabancntstr, cnt);
 }
 
@@ -91,7 +91,7 @@ function previousSentence() {
   if (cnt <= 1) return;
   cnt--;
   $("#SelectSentence").val("" + cnt);
-  $('#sentence').html(this.mydata[cnt]);
+  $('#sentence').html(this.mydata[cnt-1]);
   localStorage.setItem(this.lang + zabancntstr, cnt);
 }
 
@@ -125,7 +125,7 @@ function SelectLevel() {
 function SelectSentence() {
   text = $("#SelectSentence option:selected").text();
   cnt = parseInt(text);
-  $('#sentence').html(this.mydata[cnt]);
+  $('#sentence').html(this.mydata[cnt-1]);
   localStorage.setItem(this.lang + zabancntstr, cnt);
 }
 
