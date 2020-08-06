@@ -77,7 +77,11 @@ function previousSentence() {
 }
 
 function tagSentence() {
-
+  LevelNumber = $("#SelectLevel").val();
+  SentenceNumber = $("#SelectSentence").val();
+  tagged = localStorage.getItem(this.lang+"tagged");
+  if(tagged ==  null) localStorage.setItem(this.lang+"tagged", LevelNumber + "-" + SentenceNumber);
+  else localStorage.setItem(this.lang+"tagged", tagged+"," + LevelNumber + "-" + SentenceNumber);
 }
 
 function SelectTopic() {
@@ -94,7 +98,7 @@ function SelectSentence() {
   text = $( "#SelectSentence option:selected" ).text();
   cnt = parseInt(text);
   $('#sentence').html(this.mydata[cnt]);
-  localStorage.setItem(this.lang+zabancntstr, cnt);
+  localStorage.setItem(this.lang + zabancntstr, cnt);
 }
 
 load_corpus();
