@@ -59,7 +59,8 @@ function load_corpus(lang) {
       this.mydata.push(a);
       NumOfSentences++;
     });
-    $('#sentence').html(mydata[cnt]);
+    cnt = 1;
+    $('#sentence').html(mydata[cnt-1]);
     $('#SelectSentence').empty();
     console.log(NumOfSentences);
     for(var i=1;i<=NumOfSentences;i++) $('#SelectSentence').append('<option><a href="#">' + i + '</a></option>');
@@ -69,7 +70,7 @@ function load_corpus(lang) {
 function nextSentence() {
   cnt++;
   $("#SelectSentence").val(""+cnt);
-  $('#sentence').html(this.mydata[cnt]);
+  $('#sentence').html(this.mydata[cnt-1]);
   localStorage.setItem(this.lang+zabancntstr, cnt);
 }
 
@@ -77,7 +78,7 @@ function previousSentence() {
   if(cnt <= 1) return;
   cnt--;
   $("#SelectSentence").val(""+cnt);
-  $('#sentence').html(this.mydata[cnt]);
+  $('#sentence').html(this.mydata[cnt-1]);
   localStorage.setItem(this.lang+zabancntstr, cnt);
 }
 
@@ -92,11 +93,12 @@ function tagSentence() {
 
 function getSentence() {
   var tagged = localStorage.getItem(this.lang+"tagged").split("\t");
+  console.log(tagged);
   var content = "Sentence\n";
   MapLevelToSentences = {};
-  for(var i=0;i < tagged.size();i++) {
-    content = conten+tagged[i]+"\n";
-  }
+  unified = new Set();
+  for(var i=0;i < tagged.length;i++) unified.add(tagged[i]);
+  for(var u of unified) content = content+u+"\n";
   var filename = this.lang+"Tagged.csv";
   var blob = new Blob([content], {type: "text/plain;charset=utf-8"});
   saveAs(blob, filename);
@@ -115,7 +117,7 @@ function SelectLevel() {
 function SelectSentence() {
   text = $( "#SelectSentence option:selected" ).text();
   cnt = parseInt(text);
-  $('#sentence').html(this.mydata[cnt]);
+  $('#sentence').html(this.mydata[cnt-1]);
   localStorage.setItem(this.lang + zabancntstr, cnt);
 }
 
