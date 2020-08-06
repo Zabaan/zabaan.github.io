@@ -61,6 +61,7 @@ function load_corpus(lang) {
     });
     $('#sentence').html(mydata[cnt]);
     $('#SelectSentence').empty();
+    console.log(NumOfSentences);
     for(var i=1;i<=NumOfSentences;i++) $('#SelectSentence').append('<option><a href="#">' + i + '</a></option>');
   }, 'text');
 }
@@ -84,8 +85,21 @@ function tagSentence() {
   LevelNumber = $("#SelectLevel").val();
   SentenceNumber = $("#SelectSentence").val();
   tagged = localStorage.getItem(this.lang+"tagged");
-  if(tagged ==  null) localStorage.setItem(this.lang+"tagged", LevelNumber + "-" + SentenceNumber);
-  else localStorage.setItem(this.lang+"tagged", tagged+"," + LevelNumber + "-" + SentenceNumber);
+  val = $('#sentence').text();
+  if(tagged ==  null) localStorage.setItem(this.lang+"tagged", val);
+  else localStorage.setItem(this.lang+"tagged", tagged+"\t"+ val);
+}
+
+function getSentence() {
+  var tagged = localStorage.getItem(this.lang+"tagged").split("\t");
+  var content = "Sentence\n";
+  MapLevelToSentences = {};
+  for(var i=0;i < tagged.size();i++) {
+    content = conten+tagged[i]+"\n";
+  }
+  var filename = this.lang+"Tagged.csv";
+  var blob = new Blob([content], {type: "text/plain;charset=utf-8"});
+  saveAs(blob, filename);
 }
 
 function SelectTopic() {
