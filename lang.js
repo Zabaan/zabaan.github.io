@@ -108,7 +108,7 @@ function DownloadSentence() {
   // var tagged = localStorage.getItem(this.lang+"tagged").split("\n");
   var content = "ID\tLevel\tLang\tSentence\n"+attr+"\t"+LevelNumber+"\t"+this.lang+"\t"+val+"\n";
   MapLevelToSentences = {};
-  var filename = "Zabaan_"+attr+".csv";
+  var filename = "Zabaan_"+attr+"_"+LevelNumber+".csv";
   var blob = new Blob([content], {type: "text/plain;charset=utf-8"});
   saveAs(blob, filename);
 }
