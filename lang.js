@@ -107,7 +107,6 @@ function getSentence() {
   for(var i=0;i < tagged.length;i++) unified.add(tagged[i]);
   for(var u of unified) {
     content = content+u+"\n";
-    console.log(content);
   }
   var filename = this.lang+"Tagged.csv";
   var blob = new Blob([content], {type: "text/plain;charset=utf-8"});
