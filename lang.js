@@ -93,18 +93,21 @@ function tagSentence() {
   tagged = localStorage.getItem(this.lang+"tagged");
   val = $('#sentence').text();
   attr = $('#sentence').attr("SentenceID");
-  if(tagged ==  null) localStorage.setItem(this.lang+"tagged", val);
-  else localStorage.setItem(this.lang+"tagged", tagged+ "\t"+ attr + "----"+ val);
+  if(tagged ==  null) localStorage.setItem(this.lang+"tagged", attr + "\t" + LevelNumber + "\t" + this.lang
+              + "\t"+ val);
+  else localStorage.setItem(this.lang+"tagged", tagged+ "----"+ attr + "\t" + LevelNumber + "\t" + this.lang
+              + "\t"+ val);
 }
 
 function getSentence() {
   var tagged = localStorage.getItem(this.lang+"tagged").split("----");
-  var content = "Sentence\tID\n";
+  var content = "Sentence\tID\tLevel\tLang\n";
   MapLevelToSentences = {};
   unified = new Set();
   for(var i=0;i < tagged.length;i++) unified.add(tagged[i]);
   for(var u of unified) {
     content = content+u+"\n";
+    console.log(content);
   }
   var filename = this.lang+"Tagged.csv";
   var blob = new Blob([content], {type: "text/plain;charset=utf-8"});
