@@ -15,6 +15,7 @@ function getUrlParameter(sParam) {
 
 this.zabancntstr = 'zabancnt';
 this.mydata = [];
+this.mydataids = [];
 this.file = getUrlParameter("file");
 this.lang = getUrlParameter("lang");
 this.topics = getUrlParameter("topics")
@@ -32,6 +33,7 @@ function load_corpus(lang) {
   else $("#sentence").css("direction","ltr").css("font-family","Old Standard TT");
 
   this.mydata = [];
+  this.mydataids = [];
   this.words = [];
   // if(localStorage[lang+zabancntstr]) cnt = localStorage.getItem(lang+zabancntstr);
   // else cnt = 1;
@@ -57,12 +59,13 @@ function load_corpus(lang) {
       // else
       // {a = a.replace(re, "<b id='select'>" + b + "</b>");}
       this.mydata.push(a);
+      this.mydataids.push(tt[8]);
       NumOfSentences++;
     });
     cnt = 1;
     $('#sentence').html(mydata[cnt-1]);
+    $('#sentence').attr("SentenceID",mydataids[cnt-1]);
     $('#SelectSentence').empty();
-    console.log(NumOfSentences);
     for(var i=1;i<=NumOfSentences;i++) $('#SelectSentence').append('<option><a href="#">' + i + '</a></option>');
   }, 'text');
 }
@@ -71,6 +74,7 @@ function nextSentence() {
   cnt++;
   $("#SelectSentence").val(""+cnt);
   $('#sentence').html(this.mydata[cnt-1]);
+  $('#sentence').attr("SentenceID",this.mydataids[cnt-1]);
   localStorage.setItem(this.lang+zabancntstr, cnt);
 }
 
@@ -79,6 +83,7 @@ function previousSentence() {
   cnt--;
   $("#SelectSentence").val(""+cnt);
   $('#sentence').html(this.mydata[cnt-1]);
+  $('#sentence').attr("SentenceID",this.mydataids[cnt-1]);
   localStorage.setItem(this.lang+zabancntstr, cnt);
 }
 
@@ -87,18 +92,20 @@ function tagSentence() {
   SentenceNumber = $("#SelectSentence").val();
   tagged = localStorage.getItem(this.lang+"tagged");
   val = $('#sentence').text();
+  attr = $('#sentence').attr("SentenceID");
   if(tagged ==  null) localStorage.setItem(this.lang+"tagged", val);
-  else localStorage.setItem(this.lang+"tagged", tagged+"\t"+ val);
+  else localStorage.setItem(this.lang+"tagged", tagged+ "\t"+ attr + "----"+ val);
 }
 
 function getSentence() {
-  var tagged = localStorage.getItem(this.lang+"tagged").split("\t");
-  console.log(tagged);
-  var content = "Sentence\n";
+  var tagged = localStorage.getItem(this.lang+"tagged").split("----");
+  var content = "Sentence\tID\n";
   MapLevelToSentences = {};
   unified = new Set();
   for(var i=0;i < tagged.length;i++) unified.add(tagged[i]);
-  for(var u of unified) content = content+u+"\n";
+  for(var u of unified) {
+    content = content+u+"\n";
+  }
   var filename = this.lang+"Tagged.csv";
   var blob = new Blob([content], {type: "text/plain;charset=utf-8"});
   saveAs(blob, filename);
@@ -118,6 +125,7 @@ function SelectSentence() {
   text = $( "#SelectSentence option:selected" ).text();
   cnt = parseInt(text);
   $('#sentence').html(this.mydata[cnt-1]);
+  $('#sentence').attr("SentenceID",this.mydataids[cnt-1]);
   localStorage.setItem(this.lang + zabancntstr, cnt);
 }
 

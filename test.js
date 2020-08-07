@@ -15,6 +15,7 @@ function getUrlParameter(sParam) {
 
 this.zabancntstr = 'zabancnt';
 this.mydata = [];
+this.mydataids = [];
 this.file = getUrlParameter("file");
 this.lang = getUrlParameter("lang");
 this.topics = getUrlParameter("topics")
@@ -36,6 +37,7 @@ function load_corpus(lang) {
   else $("#sentence").css("direction", "ltr").css("font-family", "Old Standard TT");
 
   this.mydata = [];
+  this.mydataids = [];
   this.words = [];
   // if(localStorage[lang+zabancntstr]) cnt = localStorage.getItem(lang+zabancntstr);
   // else cnt = 1;
@@ -71,8 +73,8 @@ function load_corpus(lang) {
       a = a.replace(re1, c);
       a = a.replace(re2, d);
 
-
       this.mydata.push(a);
+      this.mydataids.push(tt[0]);
     });
     $('#sentence').html(mydata[cnt-1]);
     $('#sentence').focus();
@@ -84,6 +86,7 @@ function nextSentence() {
   cnt = Math.floor(Math.random() * 1000);
   $("#SelectSentence").val("" + cnt);
   $('#sentence').html(this.mydata[cnt-1]);
+  $('#sentence').attr("SentenceID",this.mydataids[cnt-1]);
   localStorage.setItem(this.lang + zabancntstr, cnt);
 }
 
@@ -92,6 +95,7 @@ function previousSentence() {
   cnt--;
   $("#SelectSentence").val("" + cnt);
   $('#sentence').html(this.mydata[cnt-1]);
+  $('#sentence').attr("SentenceID",this.mydataids[cnt-1]);
   localStorage.setItem(this.lang + zabancntstr, cnt);
 }
 
@@ -126,6 +130,7 @@ function SelectSentence() {
   text = $("#SelectSentence option:selected").text();
   cnt = parseInt(text);
   $('#sentence').html(this.mydata[cnt-1]);
+  $('#sentence').attr("SentenceID",this.mydataids[cnt-1]);
   localStorage.setItem(this.lang + zabancntstr, cnt);
 }
 
