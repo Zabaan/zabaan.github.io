@@ -99,6 +99,21 @@ function tagSentence() {
               + "\t"+ val);
 }
 
+
+function DownloadSentence() {
+  LevelNumber = $("#SelectLevel").val();
+  SentenceNumber = $("#SelectSentence").val();
+  val = $('#sentence').text();
+  attr = $('#sentence').attr("SentenceID");
+  // var tagged = localStorage.getItem(this.lang+"tagged").split("\n");
+  var content = "ID\tLevel\tLang\tSentence\n"+attr+"\t"+LevelNumber+"\t"+this.lang+"\t"+val+"\n";
+  MapLevelToSentences = {};
+  var filename = this.lang+"Download.csv";
+  var blob = new Blob([content], {type: "text/plain;charset=utf-8"});
+  saveAs(blob, filename);
+}
+
+
 function getSentence() {
   var tagged = localStorage.getItem(this.lang+"tagged").split("\n");
   var content = "ID\tLevel\tLang\tSentence\n";
