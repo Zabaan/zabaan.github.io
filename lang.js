@@ -95,13 +95,13 @@ function tagSentence() {
   attr = $('#sentence').attr("SentenceID");
   if(tagged ==  null) localStorage.setItem(this.lang+"tagged", attr + "\t" + LevelNumber + "\t" + this.lang
               + "\t"+ val);
-  else localStorage.setItem(this.lang+"tagged", tagged+ "----"+ attr + "\t" + LevelNumber + "\t" + this.lang
+  else localStorage.setItem(this.lang+"tagged", tagged+ "\n"+ attr + "\t" + LevelNumber + "\t" + this.lang
               + "\t"+ val);
 }
 
 function getSentence() {
-  var tagged = localStorage.getItem(this.lang+"tagged").split("----");
-  var content = "Sentence\tID\tLevel\tLang\n";
+  var tagged = localStorage.getItem(this.lang+"tagged").split("\n");
+  var content = "ID\tLevel\tLang\tSentence\n";
   MapLevelToSentences = {};
   unified = new Set();
   for(var i=0;i < tagged.length;i++) unified.add(tagged[i]);
@@ -130,6 +130,11 @@ function SelectSentence() {
   $('#sentence').html(this.mydata[cnt-1]);
   $('#sentence').attr("SentenceID",this.mydataids[cnt-1]);
   localStorage.setItem(this.lang + zabancntstr, cnt);
+}
+
+
+function ClearTags() {
+  localStorage.removeItem(this.lang+"tagged",'');
 }
 
 load_corpus();

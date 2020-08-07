@@ -34,7 +34,7 @@
      <center>
        <button type="button" name="previous" class="btn btn-success" onclick="previousSentence()">PREV</button>
        <button type="button" name="tag" class="btn btn-success" onclick="tagSentence()">TAG</button>
-       <button type="button" name="tag" class="btn btn-success" onclick="getSentence()">GET</button>
+
        <button type="button" name="next" class="btn btn-success" onclick="nextSentence()">NEXT</button>
      </center>
    </div>
@@ -42,7 +42,11 @@
     <div class="col-sm-12">
       <p align="center" id="sentence">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
     </div>
-    <div align="center">@ zabaan.github.io</div>
+    <div align="center">
+    <button type="button" name="tag" class="btn btn-success" onclick="getSentence()">Get Tags</button>
+    <button type="button" name="tag" class="btn btn-success" onclick="ClearTags()">Clear Tags</button><br/>
+    @ zabaan.github.io
+  </div>
   </div>
 </div>
 <script src="lang.js"></script>
