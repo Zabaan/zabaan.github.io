@@ -42,7 +42,7 @@ if __name__ == '__main__':
         print("*******************************************\n"
               "path to the changed files and sentence ids:\n"
               "*******************************************\n",
-              os.path.join(parent_dir, "to_rm", "last_rm_log.json"))
+              os.path.join(parent_dir, "to_rm", "rm_log.json"))
         print("\n*********************************************\n"
               "The following sentences' clean_STATUS will be \n"
               "changed to N in the corresponding data files:\n"
