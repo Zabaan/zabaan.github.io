@@ -51,9 +51,10 @@ if __name__ == '__main__':
 
         for file_path in current_changes:
             data = pd.read_csv(os.path.join(parent_dir, file_path), sep="\t")
-            if "clean_STATUS" not in data.columns:
-                data["clean_STATUS"] = data["STATUS"]
-            data.loc[data.ID.isin(current_changes[file_path]), 'clean_STATUS'] = 'N'
+            # if "clean_STATUS" not in data.columns:
+            #     data["clean_STATUS"] = data["STATUS"]
+            # data.loc[data.ID.isin(current_changes[file_path]), 'clean_STATUS'] = 'N'
+            data.loc[data.ID.isin(current_changes[file_path]), 'STATUS'] = 'N'
             data.to_csv(os.path.join(parent_dir, file_path), sep="\t", index=False)
     else:
         print("The path is not valid!")
