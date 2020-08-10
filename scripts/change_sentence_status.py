@@ -44,7 +44,7 @@ if __name__ == '__main__':
               "*******************************************\n",
               os.path.join(parent_dir, "to_rm", "rm_log.json"))
         print("\n*********************************************\n"
-              "The following sentences' clean_STATUS will be \n"
+              "The following sentences' STATUS will be \n"
               "changed to N in the corresponding data files:\n"
               "*********************************************\n",
               json.dumps(current_changes, indent=4))
