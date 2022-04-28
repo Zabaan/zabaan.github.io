@@ -80,7 +80,7 @@ function load_corpus(lang) {
     cnt = 1;
     $('#sentence').html(mydata[cnt-1]);
     $('#sentence').focus();
-
+    $("#correct").text(localStorage.getItem('correct'));
   }, 'text');
 }
 
@@ -204,7 +204,9 @@ function handleTouchMove(evt) {
 function oneditorchange(m) {
   t = $('#editor').val();
   if (t == m) {
-    $("#correct").text(parseInt($("#correct").text()) + 1);
+    var point = parseInt($("#correct").text());
+    localStorage.setItem('correct', point + 1);
+    $("#correct").text(point + 1);
     // localStorage.setItem('')
     $('#editor').css('color', 'green');
     $("#editor").attr('disabled', 'disabled');
