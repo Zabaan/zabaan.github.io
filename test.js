@@ -85,6 +85,11 @@ function load_corpus(lang) {
     } else {
       $("#correct").text(localStorage.getItem('correct'));
     }
+    if(localStorage.getItem('all') == null) {
+      $("#all").text('1');
+    } else {
+      $("#all").text(localStorage.getItem('all'));
+    }
   }, 'text');
 }
 
@@ -94,6 +99,7 @@ function nextSentence() {
   $('#sentence').html(this.mydata[cnt-1]);
   $('#sentence').attr("SentenceID",this.mydataids[cnt-1]);
   localStorage.setItem(this.lang + zabancntstr, cnt);
+  localStorage.setItem('all', parseInt(localStorage.getItem('all')) + 1);
 }
 
 function previousSentence() {
