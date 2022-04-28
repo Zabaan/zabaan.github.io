@@ -41,7 +41,7 @@ function load_corpus(lang) {
   this.words = [];
   // if(localStorage[lang+zabancntstr]) cnt = localStorage.getItem(lang+zabancntstr);
   // else cnt = 1;
-  ll = parseInt(level) * 200;
+  ll = parseInt(level)*200;
   resll = ""
   if (ll < 1000) resll += "0" + ll;
   else resll += "" + ll;
@@ -50,6 +50,7 @@ function load_corpus(lang) {
     tmpdata = data.split('\n');
     tmpdata.forEach(function(t) {
       tt = t.split('\t');
+      if(tt[2] != 'Y') return;
       if (tt.length <= 3) return;
       a = tt[1];
       b = tt[3];
@@ -76,6 +77,7 @@ function load_corpus(lang) {
       this.mydata.push(a);
       this.mydataids.push(tt[0]);
     });
+    cnt = 1;
     $('#sentence').html(mydata[cnt-1]);
     $('#sentence').focus();
 
@@ -91,12 +93,12 @@ function nextSentence() {
 }
 
 function previousSentence() {
-  if (cnt <= 1) return;
+  if(cnt <= 1) return;
   cnt--;
-  $("#SelectSentence").val("" + cnt);
+  $("#SelectSentence").val(""+cnt);
   $('#sentence').html(this.mydata[cnt-1]);
   $('#sentence').attr("SentenceID",this.mydataids[cnt-1]);
-  localStorage.setItem(this.lang + zabancntstr, cnt);
+  localStorage.setItem(this.lang+zabancntstr, cnt);
 }
 
 function hint() {
@@ -132,6 +134,11 @@ function SelectSentence() {
   $('#sentence').html(this.mydata[cnt-1]);
   $('#sentence').attr("SentenceID",this.mydataids[cnt-1]);
   localStorage.setItem(this.lang + zabancntstr, cnt);
+}
+
+
+function ClearTags() {
+  localStorage.removeItem(this.lang+"tagged",'');
 }
 
 load_corpus();
@@ -197,6 +204,7 @@ function handleTouchMove(evt) {
 function oneditorchange(m) {
   t = $('#editor').val();
   if (t == m) {
+    $("#correct").text(parseInt($("#correct").text()) + 1);
     // localStorage.setItem('')
     $('#editor').css('color', 'green');
     $("#editor").attr('disabled', 'disabled');
