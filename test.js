@@ -80,7 +80,11 @@ function load_corpus(lang) {
     cnt = 1;
     $('#sentence').html(mydata[cnt-1]);
     $('#sentence').focus();
-    $("#correct").text(localStorage.getItem('correct'));
+    if(localStorage.getItem('correct') == null) {
+      $("#correct").text('0');
+    } else {
+      $("#correct").text(localStorage.getItem('correct'));
+    }
   }, 'text');
 }
 
