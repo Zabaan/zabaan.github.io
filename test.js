@@ -99,8 +99,9 @@ function nextSentence() {
   $('#sentence').html(this.mydata[cnt-1]);
   $('#sentence').attr("SentenceID",this.mydataids[cnt-1]);
   localStorage.setItem(this.lang + zabancntstr, cnt);
-  localStorage.setItem('all', parseInt(localStorage.getItem('all')) + 1);
-  $("#all").text(parseInt(localStorage.getItem('all')) + 1);
+  all_ = parseInt(localStorage.getItem('all')) + 1;
+  localStorage.setItem('all', all_);
+  $("#all").text(all_);
 }
 
 function previousSentence() {
