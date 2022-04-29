@@ -224,7 +224,7 @@ function oneditorchange(m) {
     // localStorage.setItem('')
     $('#editor').css('color', 'green');
     $("#editor").attr('disabled', 'disabled');
-    setTimeout(nextSentence, 3000);
+    setTimeout(nextSentence, 2000);
     $("#editor").focus();
   }
   // if(t.length > 3 && t.includes('-')) t.replace('-',' ');
