@@ -100,6 +100,7 @@ function nextSentence() {
   $('#sentence').attr("SentenceID",this.mydataids[cnt-1]);
   localStorage.setItem(this.lang + zabancntstr, cnt);
   localStorage.setItem('all', parseInt(localStorage.getItem('all')) + 1);
+  $("#all").text(parseInt(localStorage.getItem('all')) + 1);
 }
 
 function previousSentence() {
