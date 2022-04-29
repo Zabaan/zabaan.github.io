@@ -82,11 +82,13 @@ function load_corpus(lang) {
     $('#sentence').focus();
     if(localStorage.getItem('correct') == null) {
       $("#correct").text('0');
+      localStorage.setItem('correct', '0');
     } else {
       $("#correct").text(localStorage.getItem('correct'));
     }
     if(localStorage.getItem('all') == null) {
       $("#all").text('1');
+      localStorage.setItem('all','1');
     } else {
       $("#all").text(localStorage.getItem('all'));
     }
